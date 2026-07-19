@@ -1,0 +1,86 @@
+{
+  "id": "conv_10374",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 実戦/石綿/快晴/歳児/ミドル/水上/境内/パース",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "実戦",
+    "石綿",
+    "快晴",
+    "歳児",
+    "ミドル",
+    "水上",
+    "境内",
+    "パース"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_520 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、災害時の実戦的救急訓練を医療チームで進めます",
+      "en": "Ren—we're implementing hands-on disaster emergency training with our medical team.",
+      "style": "Clear, measured opening. Steady professional tone. Enunciates key terms without rushing. Confident but not lecturing. Eye contact level.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、石綿暴露患者の中皮腫検診を医療チームでおこないます",
+      "en": "Yes, we're conducting mesothelioma screening for asbestos-exposed patients with our medical team.",
+      "style": "Slight nod in the voice. Patient, methodical. Warm but clinical. Emphasizes the care in the protocol without softening the gravity of the work.",
+      "mood": "steady_committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、快晴時の屋外医療巡回を医療チームで実施します",
+      "en": "Ren—we're running outdoor medical outreach rounds during clear weather with our medical team.",
+      "style": "Same measured pace as the first line. Professional competence. Light emphasis on 「屋外」—shows breadth of coverage. Unhurried.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、三歳児健診を医療チームで丁寧におこないます",
+      "en": "Yes, we conduct three-year-old health checkups with our medical team, and we take great care with each one.",
+      "style": "Warm layer beneath the professionalism. Slight softening on the detail about care. Patient. Not rushing—these are children. Genuine attentiveness.",
+      "mood": "warm_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ミドル世代の生活習慣病を、貴院、診られますね、先生",
+      "en": "Your hospital handles lifestyle-disease screening for middle-aged patients, doesn't it, Doctor?",
+      "style": "Genuinely curious but slightly hesitant. Ren's careful here—not performing knowledge, asking to understand. Respectful uptick at the end. Soft but engaged.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、水上事故救急を医療チームで担当します",
+      "en": "Yes, we handle water-rescue emergencies with our medical team.",
+      "style": "Direct, brief. Professional efficiency. Patient tone. No elaboration needed—the work speaks for itself. Steady.",
+      "mood": "steady_committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、神社境内の救護所運営を医療チームで担当します",
+      "en": "Yes, we manage first-aid station operations at the shrine with our medical team.",
+      "style": "Same steady professionalism. Slight warmth—this is community care. Composed. No apology for the breadth of their work.",
+      "mood": "steady_committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療文書のパース処理AIを、貴院、導入されてますね、先生",
+      "en": "Your hospital has adopted AI for medical document processing, hasn't it, Doctor?",
+      "style": "Leaning into genuine interest now. More engaged than the previous question. Respectful but less hesitant. Ren finding his footing in the conversation. Warm curiosity.",
+      "mood": "engaged_curious"
+    }
+  ]
+}

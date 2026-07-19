@@ -1,0 +1,86 @@
+{
+  "id": "conv_06114",
+  "context": "A boss reviews compliance risk",
+  "purpose": "Teach: 未遂/遭難/警鐘/脱税/伝染/装っ/書記官/触媒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "未遂",
+    "遭難",
+    "警鐘",
+    "脱税",
+    "伝染",
+    "装っ",
+    "書記官",
+    "触媒"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_307 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "未遂のセキュリティ事案、再発防止、進めろ。",
+      "en": "An attempted security breach—I want prevention measures in place. Move forward.",
+      "style": "Sharp, measured opening. Low register, absolute expectation. No softening. Eyes steady on Kenji. Cut-through tone, as if repeating something already understood.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外遭難リスク、出張者に周知しています。",
+      "en": "Yes. We've briefed all traveling staff on overseas distress protocols.",
+      "style": "Steady, respectful. Clipped but not rushed. A subordinate reporting back with confidence—not defensive, just clear. Small pause after the affirmative, then the detail.",
+      "mood": "compliant_capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "監査、警鐘を鳴らす可能性、避けたい。",
+      "en": "Audits. We need to make sure there's no red flag for them to raise.",
+      "style": "Flat, strategic. Not a question—a statement of intent. Slight emphasis on 'red flag.' The tone of someone managing downside risk, not optimizing upside.",
+      "mood": "controlled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。脱税疑惑、内部監査で確認済みです。",
+      "en": "Understood. Our internal audit has already cleared the tax-compliance concerns.",
+      "style": "Direct, professional. Leaning forward slightly with reassurance. Rapid delivery on the reassurance—no hesitation. Shows he's already solved this problem.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界内の伝染的な不祥事連鎖、当社で食い止めたい。",
+      "en": "This industry has a habit of one scandal bleeding into another. I want us to be the circuit breaker.",
+      "style": "Quieter than before, almost reflective. Slower. The weight of institutional responsibility in the voice. Not angry—determined. Like he's seen this pattern repeat.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "政治家を装った詐欺電話、社員に注意喚起しました。",
+      "en": "We've already alerted the team about the scam calls—people posing as government officials.",
+      "style": "Efficient, factual. No pride in it, but no apology either. Moving down the checklist. The pace picks up slightly—this is preventative work, it's done.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "書記官的な記録管理、徹底しろ。",
+      "en": "Understood. Documentation needs to be airtight. No exceptions.",
+      "style": "Firm, unambiguous. Hiroshi's tone lands hard on 'airtight.' No wiggle room in his voice. The kind of directive that expects immediate compliance and no follow-up questions.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。組織改革の触媒となるよう、努めます。",
+      "en": "Yes, sir. I'm committed to making sure we're not just compliant—we're ahead of it.",
+      "style": "Earnest, slightly elevated register. A promise more than just a report. Quiet sincerity underneath—he means this. Slight lift at the end, not a question but almost an offering.",
+      "mood": "devoted"
+    }
+  ]
+}

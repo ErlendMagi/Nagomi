@@ -1,0 +1,86 @@
+{
+  "id": "conv_07151",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 亡くなら/戦わ/誤認/下回っ/採掘/投棄/抄/癒着",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "亡くなら",
+    "戦わ",
+    "誤認",
+    "下回っ",
+    "採掘",
+    "投棄",
+    "抄",
+    "癒着"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_359 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、被害者、本気で、絶対、不幸にも、亡くなられました、警察、本気で、絶対、ご家族、お悔やみ、本気で、感謝、絶対、本気で。",
+      "en": "This case — the victim, regrettably, has passed away. The police department, and on behalf of the family, please accept our deepest condolences.",
+      "style": "Measured official tone. Slow, respectful pacing. Weight given to each phrase. Slight pause before \"has passed away\" — acknowledging gravity. Voice steady, composed, but genuinely sincere beneath protocol.",
+      "mood": "solemn_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察の方々、本気で、絶対、犯罪と戦われている姿、本当に、立派ですよね、絶対、感謝、しております、本気で、本当に、絶対、本気。",
+      "en": "The work your officers do — fighting crime with such dedication — it's truly admirable. We're genuinely grateful for it.",
+      "style": "Genuine warmth underneath careful politeness. Slight hesitation, like he's choosing words that matter. Builds slightly toward \"truly admirable.\" Not flattering — observant. A young person speaking to someone he respects.",
+      "mood": "sincere_appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、本気で、絶対、誤認逮捕、絶対、避けるよう、慎重に、進めております、本気で、本当に、感謝、絶対、本気で、絶対。",
+      "en": "Yes. We're proceeding very carefully with the investigation to avoid any false arrests. We take that responsibility seriously.",
+      "style": "Formal but not stiff. Each clause given equal weight. \"Very carefully\" lands with quiet emphasis. Professional register — this is someone explaining procedure, not reciting it. Steady eye contact implied.",
+      "mood": "careful_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今年の犯罪件数、本気で、昨年を、絶対、下回ったと、聞きました、警察、本気で、本当に、感謝",
+      "en": "I heard that crime numbers dropped this year compared to last year. That's encouraging.",
+      "style": "Genuine curiosity, not flattery-seeking. Slight lift at the end — actually interested in the answer. Natural conversational pace, like this is something he's been thinking about. Not performing knowledge he doesn't have.",
+      "mood": "interested_hopeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。違法な、本気で、絶対、資源採掘、絶対、当局、本気で、対応しております、本気で、本当に、絶対、感謝、本気で、絶対、本気。",
+      "en": "Yes. We're actively addressing illegal resource extraction. It's a priority the department is committed to.",
+      "style": "Returning to formal register. Deliberate pacing on \"illegal resource extraction\" — these are specific cases, not abstractions. Professional commitment audible. Not defensive, just factual about ongoing work.",
+      "mood": "committed_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "不法投棄、本気で、絶対、社会問題ですよね、警察、本気で、本当に、対応、感謝、しております",
+      "en": "Illegal dumping is a real social problem, and I'm grateful the police are tackling it.",
+      "style": "Thoughtful, genuine. \"Real social problem\" — he believes this. Not rehearsed. Natural pace, warm but not effusive. The tone of someone who's seen the damage and is relieved someone's addressing it.",
+      "mood": "concerned_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査記録の抄録、本気で、絶対、市民、本気で、絶対、開示しております、本気で、感謝",
+      "en": "Yes. We're committed to transparency — we disclose investigation records to the public as appropriate.",
+      "style": "Formal, clear enunciation on \"transparency\" and \"disclose.\" Even, professional tone. Not defensive about the process — explaining it straightforwardly. The voice of institutional accountability.",
+      "mood": "transparent_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "政治と警察の癒着、本気で、絶対、ないこと、本気で、市民、絶対、信じております、本気で、感謝",
+      "en": "I believe — and I think most people do — that there's no collusion between the police and politicians. Trust matters.",
+      "style": "Thoughtful, slightly vulnerable. A young person speaking a conviction that matters to him. Slight hesitation before \"I believe\" — he knows this is important to say clearly. Finishes gently on \"trust matters.\" Not strident, just honest.",
+      "mood": "hopeful_earnest"
+    }
+  ]
+}

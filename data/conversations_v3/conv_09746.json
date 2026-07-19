@@ -1,0 +1,86 @@
+{
+  "id": "conv_09746",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 市政/不正確/手引き/ライフサイクル/移設/定率/不払い/ファクス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市政",
+    "不正確",
+    "手引き",
+    "ライフサイクル",
+    "移設",
+    "定率",
+    "不払い",
+    "ファクス"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_489 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、市政の動向を分析しろ",
+      "en": "Analyze the city government's trends for us.",
+      "style": "Clipped, authoritative. Direct eye contact. Each word placed with precision. No room for interpretation—a directive, not a request.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。不正確な情報は社外に出しません",
+      "en": "Yes. We won't release any inaccurate information outside the company.",
+      "style": "Steady acknowledgment. Firm but not defensive. Hands-on posture—demonstrating competence through calm certainty, not elaboration.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新人の手引き書を整備しろ",
+      "en": "Prepare an onboarding manual for new hires.",
+      "style": "Sharp, controlled delivery. Slight emphasis on the verb. No softening—this is a task assignment. Brief pause before moving on.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製品のライフサイクルを見直します",
+      "en": "Yes. We'll review the product lifecycle management process.",
+      "style": "Measured response. Takes the weight of the task seriously. Voice steady and methodical, as if already mentally organizing the work ahead.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本社の移設計画を進めろ",
+      "en": "Move forward with the headquarters relocation plan.",
+      "style": "Terse, decisive. Slight lean forward. The tone of someone who has already decided—execution is now in motion.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。家賃の定率上げ方針です",
+      "en": "Yes. We'll also establish an emergency fax network for notifications.",
+      "style": "Professional clarity. Adds the secondary task without hesitation—demonstrating that he's already thinking two steps ahead. Steady pace throughout.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、不払い顧客への督促を強化しろ",
+      "en": "Strengthen collection efforts on accounts with unpaid invoices.",
+      "style": "Firmer edge to the voice. This is a harder directive than the others. Slight tension in the delivery—the business necessity behind it acknowledged without apology.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。緊急時のファクス連絡網も整えます",
+      "en": "Yes. I'll also set up an emergency communication system via fax.",
+      "style": "Final confirmation, grounded and professional. Slight closing-down of breath—this is the last item. Voice settles into completion. Small nod implied in the delivery.",
+      "mood": "concluding"
+    }
+  ]
+}

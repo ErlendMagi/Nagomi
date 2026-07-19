@@ -1,0 +1,86 @@
+{
+  "id": "conv_09294",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 不謹慎/憤慨/貫通/弱体/降下/命中/至難/浴びせ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "不謹慎",
+    "憤慨",
+    "貫通",
+    "弱体",
+    "降下",
+    "命中",
+    "至難",
+    "浴びせ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_466 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さん前で不謹慎な雑談は医療チームで厳禁としております",
+      "en": "Ren — casual conversation in front of patients is strictly prohibited on the medical team.",
+      "style": "Even, measured rebuke. No edge — this is protocol, not personal. Steady eye contact. A pause before delivering the point so it lands cleanly.",
+      "mood": "professional_firm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療事故への憤慨を医療チームで真摯に受け止めます",
+      "en": "Yes — the medical team takes any incident of negligence very seriously.",
+      "style": "Steady, reassuring. Slightly formal register. A note of genuine concern beneath the protocol. Not defensive, but careful.",
+      "mood": "serious_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "血管を貫通する外傷ケアを、貴院、ご担当ですね、先生",
+      "en": "The trauma cases involving vessel puncture — your hospital handles those, correct?",
+      "style": "Respectful, genuinely curious. Soft delivery. Formality of 先生 carried with real deference, not ceremony. Seeking to understand, not test.",
+      "mood": "thoughtful_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、免疫が弱体化した患者さんの対応を医療チームで強化します",
+      "en": "Yes — we're strengthening our protocols for immunocompromised patients across the team.",
+      "style": "Calm, procedural. A note of quiet commitment underneath. Not rushing through the answer. Measured pacing.",
+      "mood": "committed_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救急救命でヘリ降下を、貴院、毎月想定されてますね、先生",
+      "en": "So emergency helicopter responses are something your hospital drills for each month?",
+      "style": "Genuine curiosity, warm tone. Not interrogating — asking to learn. A slight lean-in. The respect held steady but not stiff.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、治療部位に正確に命中する放射線治療を医療チームで導入します",
+      "en": "Yes — we've recently introduced precision radiotherapy targeting to improve treatment site accuracy.",
+      "style": "Direct, informative. Pride held lightly — this is the work, not a performance. Steady pace. Professional but not cold.",
+      "mood": "professional_proud"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "至難の手術を、貴院、ご成功されたんですね、先生",
+      "en": "Your hospital managed to pull off such a difficult surgery successfully, then.",
+      "style": "Warm appreciation, genuine. A note of almost bashful respect in the tone. Not gushing — sincere and simple. Slight smile in the voice.",
+      "mood": "admiring_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療従事者へ罵声を浴びせる事案に医療チームで対策します",
+      "en": "Yes — we're implementing measures to address incidents of staff harassment and create a safer team environment.",
+      "style": "Measured, direct. A slight heaviness to this one — acknowledging something real happened. Not dwelling, but not glossing. Clear and steady.",
+      "mood": "serious_resolute"
+    }
+  ]
+}

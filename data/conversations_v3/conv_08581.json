@@ -1,0 +1,86 @@
+{
+  "id": "conv_08581",
+  "context": "Mom and son chat",
+  "purpose": "Teach: しだい/顔つき/過ぎ去っ/おねがい/ちがっ/あらわし/気が付く/どきどき",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "しだい",
+    "顔つき",
+    "過ぎ去っ",
+    "おねがい",
+    "ちがっ",
+    "あらわし",
+    "気が付く",
+    "どきどき"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんから連絡しだい、お知らせするわね",
+      "en": "Sho, I'll let you know as soon as your dad gets in touch, okay?",
+      "style": "Warm, reassuring tone. Gentle specificity—as if making a small promise she's capable of keeping. Patient pace. A mother's practiced calm that steadies a worried child.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんの顔つきが、ちょっと疲れて見えるよ",
+      "en": "Mom, Dad's face looks a little tired right now.",
+      "style": "Quiet observation. No judgment, just noticing—the perceptiveness of a child who watches carefully. Soft delivery, slightly tentative, as if checking whether what he sees is okay to say.",
+      "mood": "concerned_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんの時代も、過ぎ去ってしまったわね",
+      "en": "Sho, Grandpa's time has passed now, hasn't it?",
+      "style": "Thoughtful, slightly distant. Speaking more to herself than to him. A gentle sadness underneath. Slow, reflective pace. The kind of moment a parent has when a child's question opens up something bigger.",
+      "mood": "wistful_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんにおねがいがあるよ",
+      "en": "Mom, I want to ask Dad something.",
+      "style": "Earnest, direct. Small voice, but steady intention. A six-year-old gathering courage. Slight pause before speaking, as if he's been holding this thought for a moment.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんとぼくの予定がちがっていたわよ",
+      "en": "Sho, it turns out your dad and you had different plans.",
+      "style": "Gentle explanation, not blame. As if explaining something small but real to him. Slight softness around the edges—acknowledging his disappointment without making it bigger than it is.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お絵描きで気持ちをあらわしたよ",
+      "en": "Mom, I showed how I feel through my drawing.",
+      "style": "Proud but not boastful. A child offering something he made with care. Slight lift in the delivery—wanting to be seen. Open, hopeful tone without being loud.",
+      "mood": "proud_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お母さんがおやつを冷蔵庫に入れたの、気が付くかしらね",
+      "en": "Sho, did you notice the snack I put in the fridge?",
+      "style": "Light, warm, a small turn toward gentleness. The tone of a mother offering something small and kind. Curious, gentle lilt at the end—inviting him to look, to notice, to feel seen.",
+      "mood": "warm_playful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、運動会の発表でどきどきしてるよ",
+      "en": "Mom, my heart is racing about my performance at the sports day.",
+      "style": "Trembling excitement underneath nervousness. Words come a little faster, breathiness around the edges. The flutter of a child wanting to share his big feeling but needing the safety of her listening.",
+      "mood": "nervous_excited"
+    }
+  ]
+}

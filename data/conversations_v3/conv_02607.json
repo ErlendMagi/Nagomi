@@ -1,0 +1,75 @@
+{
+  "id": "conv_02607",
+  "context": "Yuki visits a housing maker's model home.",
+  "purpose": "WIDENED SCENARIO: showroom visit; housing vocabulary (住宅/メーカー/ドア/建築/土地) in natural home.",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "住宅",
+    "メーカー",
+    "ドア",
+    "建築",
+    "土地"
+  ],
+  "cast": [
+    "yuki_office",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_131)",
+    "generated_at": "2026-05-29T13:21:58.443Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この住宅、とても素敵ですね。",
+      "en": "This house is very lovely.",
+      "style": "admiring office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "うちのメーカーの、自慢の建築やで。",
+      "en": "It's our maker's prized construction.",
+      "style": "proud Kansai man voice, warm hearty delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "このドアは、木でできているんですか?",
+      "en": "Is this door made of wood?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "そや、ドアは無垢の木を使うとる。",
+      "en": "Yeah, the door uses solid wood.",
+      "style": "cheerful Kansai man voice, warm informative delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "土地が狭くても、建築できますか?",
+      "en": "Can you build even on small land?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "狭い土地でも、工夫して建築するで。",
+      "en": "Even on small land, we build with ingenuity.",
+      "style": "lively Kansai man voice, warm reassuring delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "このメーカーの住宅、信頼できますね。",
+      "en": "This maker's housing is trustworthy.",
+      "style": "satisfied office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ドア一枚にも、心を込めとるからな。",
+      "en": "We pour heart into even a single door.",
+      "style": "warm Kansai man voice, warm proud closing delivery throughout"
+    }
+  ]
+}

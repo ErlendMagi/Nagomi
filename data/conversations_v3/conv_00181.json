@@ -1,0 +1,90 @@
+{
+  "id": "conv_00181",
+  "context": "Officer Takeda stops by Mrs. Mori's house for the monthly neighborhood-watch chat. She always has tea waiting.",
+  "purpose": "civic relationship — small-town policing as a relationship maintained through tea",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "最近",
+    "近所",
+    "変わる",
+    "安全",
+    "助かる"
+  ],
+  "cast": [
+    "takeda_officer",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お邪魔します。今月もよろしくお願いします。",
+      "en": "Excuse the intrusion. Looking forward to this month too.",
+      "style": "Officer professional warm opener, the years of these visits in the cadence, courteous and easy throughout.",
+      "mood": "professionally-easy"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "いつもご苦労様。お茶どうぞ。",
+      "en": "Always such hard work. Have some tea.",
+      "style": "Neighbor maternal hosting energy, the routine hospitality carrying real appreciation for the officer's presence.",
+      "mood": "maternally-hosting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ありがとうございます。最近、近所で何か変わったことありますか。",
+      "en": "Thank you. Anything different in the neighborhood lately?",
+      "style": "Officer professional pivot to work mode, the steady reliability audible, real attentive inquiry held throughout.",
+      "mood": "professionally-pivoting"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "うーん、特に大きなことはないかしら。",
+      "en": "Mm, nothing particularly big I think.",
+      "style": "Neighbor thoughtful considering, the genuine search through memory audible, careful honest answering delivered slowly.",
+      "mood": "thoughtfully-considering"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "小さなことでも、気になることあれば。",
+      "en": "Even small things — if anything bothers you.",
+      "style": "Officer gentle professional encouragement, the opening for any concern carefully extended, real care threaded throughout.",
+      "mood": "gently-opening"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あ、そういえば。隣の空き家、また誰か見たの。",
+      "en": "Oh, that reminds me. Someone again, at the empty house next door.",
+      "style": "Neighbor sudden remembering, the small worry resurfacing, soft observational sharing in the casual delivery.",
+      "mood": "suddenly-remembering"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。ちょっと見回りに行ってみますね。",
+      "en": "I see. I'll go take a look around.",
+      "style": "Officer immediate professional response, the steady action-orientation audible, real responsiveness in the brief commitment.",
+      "mood": "professionally-responsive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お願いね。本当に助かるわ。",
+      "en": "Please. It's really a help.",
+      "style": "Neighbor warm grateful relief, the trust in the officer carried through the warm appreciative response delivered.",
+      "mood": "warmly-grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ、いつもお世話になってます。",
+      "en": "It's I who am always grateful.",
+      "style": "Officer humble warm closing, the mutual respect held with real sincerity, professional warmth deepening throughout.",
+      "mood": "humbly-warm"
+    }
+  ]
+}

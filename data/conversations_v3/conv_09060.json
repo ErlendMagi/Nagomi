@@ -1,0 +1,86 @@
+{
+  "id": "conv_09060",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 磁気/健在/ピット/地雷/風車/衣類/ふれあい/エキス",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "磁気",
+    "健在",
+    "ピット",
+    "地雷",
+    "風車",
+    "衣類",
+    "ふれあい",
+    "エキス"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_454 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが磁気センサーのおもちゃ買ってこられたわ",
+      "en": "Sho, your dad brought home a toy with a magnetic sensor.",
+      "style": "Warm, conversational. Light uptick at the end—sharing something she knows will interest him. Unhurried, a little playful.",
+      "mood": "warm_sharing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんのご健在を確かめに行きたい",
+      "en": "Mom, I want to go check that Grandpa is doing well.",
+      "style": "Quiet, steady request. Not demanding. The tone of a boy thinking something through and needing to say it. Slight pause before speaking, like he's been sitting with this.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが、レースのピット作業を見せて下さるそうよ",
+      "en": "Sho, your dad says he'll show you how they work on the race cars in the pit.",
+      "style": "Gentle delivery of good news. Soft emphasis on the offer itself. Voice carries the pleasure of being the messenger. Warm and unhurried.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、社会で地雷除去のボランティアの話聞いたよ",
+      "en": "Mom, I learned in school today about people who volunteer doing mine removal.",
+      "style": "Matter-of-fact but weighted. He's processing something that struck him. No rush to the words. The tone of a child sharing something that matters.",
+      "mood": "serious_thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、オランダの風車のお話、絵本で読みましょうね",
+      "en": "Sho, let's read that picture book about the windmills in the Netherlands together.",
+      "style": "Soft, inviting. Opening note is gentle. A quiet offer, not a directive. Slight warmth on 'together'—she's including him, not just entertaining him.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、衣類を畳むのお手伝いするよ",
+      "en": "Mom, I'm going to help you fold the clothes.",
+      "style": "Steady, matter-of-fact offer. A little proud but not boastful. The tone of a boy who's decided to do something helpful. Direct and genuine.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんとふれあいの会に行きましょう",
+      "en": "Sho, let's go to the community gathering with your grandmother.",
+      "style": "Warm, gentle invitation. Opening soft but clear. A little anticipatory—she's looking forward to it. Voice suggests this is something special for him.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんが薬草エキスを煎じてくれたよ",
+      "en": "Mom, Grandma made me herbal tea and it was really good.",
+      "style": "Quiet delight. Small, genuine pleasure in his voice. The words come easily—he's sharing something that made him happy. Relaxed, not performed.",
+      "mood": "content"
+    }
+  ]
+}

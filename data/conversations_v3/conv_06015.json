@@ -1,0 +1,79 @@
+{
+  "id": "conv_06015",
+  "context": "A doctor discusses public-health planning",
+  "purpose": "Teach: 模擬/移入/膨張/大久保/重点的/流域/妨げる/動力",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "模擬",
+    "移入",
+    "膨張",
+    "大久保",
+    "重点的",
+    "流域",
+    "妨げる",
+    "動力"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、感染症の模擬シミュレーション、現場で実施しています。",
+      "en": "Ren, we're running infectious-disease simulations out in the field right now.",
+      "style": "Direct and composed. Warm institutional tone. Steady eye contact. Settles into the information like she's done this briefing before, but not dismissively.",
+      "mood": "professional_direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "外国からの移入症例、増加傾向ですか。",
+      "en": "So imported cases from abroad—are they on an upward trend?",
+      "style": "Careful, searching tone. Leans forward slightly. The pace quickens on the question itself—genuine academic curiosity, not performance. Slightly anxious underneath.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。地域膨張、医療負担も増えています。",
+      "en": "Yes. We're seeing regional expansion, and the medical load is increasing across the board.",
+      "style": "Measured delivery. No rush. Each clause gets its own breath. The tiredness in her shoulders shows in her voice but not in her conviction. Factual, not alarming.",
+      "mood": "weary_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大久保エリア、重点的に対応されていますか。",
+      "en": "Are you directing particular focus to the Okubo area?",
+      "style": "Sharp, specific question. Slight uptick in intensity. Not challenging—probing. He's thinking ahead, and his voice shows it. A beat of hesitation before 'Okubo' like he's testing whether this detail matters.",
+      "mood": "focused_analytical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。河川流域の患者、迅速対応します。",
+      "en": "Yes. Patients in the basin areas—we're mobilizing rapid response there.",
+      "style": "Efficient confirmation. Words land cleanly. Brief, because the answer is complete and she respects that. A small nod in the voice before moving forward.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療提供を妨げる要素、解消できますか。",
+      "en": "Can we remove the barriers that are actually preventing us from delivering care?",
+      "style": "Genuine, careful question. Slower pace. This isn't academic—he's asking about real obstacles. Slight tension in his throat. The question opens up at the end, inviting her into the problem with him.",
+      "mood": "urgent_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "地域の動力と協働して、進めます。",
+      "en": "We'll move forward by working with the community as our foundation.",
+      "style": "Resolute close. Weight behind the words without being heavy. She straightens slightly—this is the commitment. Clear-eyed and not rehearsed. The final word lands with quiet certainty.",
+      "mood": "committed_resolute"
+    }
+  ]
+}

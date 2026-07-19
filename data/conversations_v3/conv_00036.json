@@ -1,0 +1,76 @@
+{
+  "id": "conv_00036",
+  "context": "Their shared kitchen at 1 a.m. on a Saturday. Mei has been cleaning; Ren has been gaming for three hours and hasn't looked up.",
+  "purpose": "low-grade partner friction — small domestic friction without becoming a fight",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今",
+    "ちょっと",
+    "時間",
+    "本当に",
+    "大丈夫",
+    "ない"
+  ],
+  "cast": [
+    "mei_romantic",
+    "ren_uni"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "ちょっと、聞いてる？",
+      "en": "Hey — are you listening?",
+      "style": "Soft, testing. Sets down what she's holding mid-thought. Patient but worn thin. The question is genuine, not rhetorical.",
+      "mood": "weary"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん、聞いてる…ちょっと待って。",
+      "en": "Yeah — listening… one sec.",
+      "style": "Eyes glued to the screen. Automatic reassurance, not conviction. The 「ちょっと待って」 spills out without thought, muscle memory.",
+      "mood": "distracted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "待つの三回目だよ。",
+      "en": "That's the third time you've said that.",
+      "style": "Sets the dish down with deliberate quiet. Flat delivery. The weight is in the number itself, not the inflection. A statement of fact.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "…ごめん。今、終わった。何？",
+      "en": "…Sorry. Done now. What is it?",
+      "style": "Controller lowered, body turning toward her. Real pivot. Voice drops softer, warmer — genuine apology underneath.",
+      "mood": "contrite"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "キッチン、明日でいいって言ったの覚えてる？",
+      "en": "You said you'd do the kitchen tomorrow — remember?",
+      "style": "No accusation yet. A real question, giving him the chance to remember on his own. Steady, tired, waiting for recognition.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "…あ。あー、ごめん、忘れてた。",
+      "en": "…Oh. Oh — sorry, I forgot.",
+      "style": "Caught. Realization lands in the second 「あー」. Not defensive, not making excuses. Just honest acknowledgment of the lapse.",
+      "mood": "guilty"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。本当に、ちょっとだけ手伝って。",
+      "en": "Yeah. Really — just a little help.",
+      "style": "Tired underneath, not angry. The 「ちょっとだけ」 carries the whole quiet ask: she's not asking for much, and they both know it.",
+      "mood": "gentle_tired"
+    }
+  ]
+}

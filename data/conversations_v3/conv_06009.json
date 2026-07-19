@@ -1,0 +1,65 @@
+{
+  "id": "conv_06009",
+  "context": "A police officer briefs an exec on VIP security",
+  "purpose": "Teach: 来訪/実業/セットアップ/省エネ/一線/下位/浮かび/帳簿",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "来訪",
+    "実業",
+    "セットアップ",
+    "省エネ",
+    "一線",
+    "下位",
+    "浮かび",
+    "帳簿"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "海外来訪者、警察庁でも認知しています。",
+      "en": "We're aware of the overseas visitor at the NPA level.",
+      "style": "Professional, measured opening. Even cadence. Factual delivery — no inflection wasted. Eye-contact steady, the tone of someone who has briefed many people and knows what matters.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。実業界の重鎮で、安全配慮、最優先です。",
+      "en": "Yes. He's a major industry figure, so safety is our top priority.",
+      "style": "Respectful nod in the voice. Clear agreement without obsequiousness. Slight weight on 「safety」— shows understanding of the stakes. Cooperative but not deferential.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警備のセットアップ、省エネ系の機器も使用しますか。",
+      "en": "For the security setup, will we be using energy-efficient equipment as well?",
+      "style": "Measured procedural question. No rush. Tone suggests this is protocol, not doubt. Slight lift at the end — genuine inquiry, not confirmation-seeking.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。一線級の警備員、下位スタッフへの指示、共有しています。",
+      "en": "Yes. Our frontline guards have the full briefing, and we've distributed the instructions down the chain.",
+      "style": "Assured, matter-of-fact. Confidence in the system without sounding rehearsed. Steady pace. The tone of someone who has ensured coordination and knows the information has reached where it needs to.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "帳簿、不審な動きが浮かび上がらないか、確認します。",
+      "en": "I'll review the records to make sure nothing suspicious shows up.",
+      "style": "Quiet, final note. The understated close of someone checking one last thing. Measured pace, no urgency — just thoroughness. Slight pause before the period, like he's already mentally moving to the next step.",
+      "mood": "thorough"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07018",
+  "context": "Two teens chat",
+  "purpose": "Teach: 英単語/地中海/フック/麓/猟/カウントダウン/詩集/強風",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "英単語",
+    "地中海",
+    "フック",
+    "麓",
+    "猟",
+    "カウントダウン",
+    "詩集",
+    "強風"
+  ],
+  "cast": [
+    "sakura_teen",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_352 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、英単語のテスト、最近、点数、ようやく、上がってきたよ、本当に、頑張ったんだ、私、リク、お前にも、応援してもらったから、感謝してるよ、本気で、絶対、ありがとう、本当に。",
+      "en": "Riku — your English vocabulary test scores are finally starting to go up. You really worked hard, and I got so much support from you. I'm seriously grateful. Thank you so much.",
+      "style": "Warm pride breaking through a practiced casualness. Quick opening, genuine on the thanks. Slight breathlessness—she's fighting the urge to say more. Soft landing at the end.",
+      "mood": "proud_grateful"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん。修学旅行、地中海風の、ホテルに、泊まる予定らしいぜ、桜、本当に、楽しみだよな、お互いに、わくわくしてるよな、本当に、絶対、思い出に、残るよな、絶対、絶対。",
+      "en": "Yeah. So for the school trip we're apparently staying at this Mediterranean-style hotel. Sakura, I'm really excited about it, you know? We're both pumped. It's gonna be something we remember for a long time.",
+      "style": "Eager but not quite meeting her eyes. Building energy through the middle, then a slight self-check at the end—pulling back from sounding too invested. Warm underneath.",
+      "mood": "excited_careful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お父さん、釣りに、はまってて、最近、フック、専門店、行ってるって、リク、お前のお父さんも、行ったりするの?ちょっと、興味、出てきたよ、私、本当に、いつか、お父さんと、一緒に、行きたい。",
+      "en": "My dad's gotten really into fishing lately—he's been going to specialist hook shops. Do your parents fish at all? I'm actually kind of interested now. I want to go with my dad sometime.",
+      "style": "Genuinely curious, testing the waters. Slight lift when she mentions her own interest—vulnerability peeking through. Not performative. Ends softer, like she's sharing something real.",
+      "mood": "curious_vulnerable"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "登山部、山の麓まで、トレーニング、始めるんだ、夏休みに、桜、お前、興味、ある?一緒に、参加してみない?本気で、絶対、楽しいぜ、お前と、一緒なら、絶対、本当に。",
+      "en": "The climbing club is starting training up at the base of the mountains for summer break. Are you interested? Want to join us? Seriously, it's going to be fun. Even more so if you're there.",
+      "style": "Direct invitation underneath casual phrasing. Building warmth toward the end. Slight hesitation before 'if you're there'—he means it more than he's letting on. Steady but not quite cocky.",
+      "mood": "inviting_soft"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "生物部、狩猟の歴史、研究してるんだって、知ってた?リク、お前も、興味、ある?結構、面白い研究、本当に、独特な、視点で、扱ってるみたいよ、本気で、絶対、感心しちゃう、本当に。",
+      "en": "Did you know the biology club is researching the history of hunting? Would you be interested in it? They're actually looking at it from a really unique angle. I have to say, their research is impressive.",
+      "style": "Testing interest without pushing. Thoughtful pace. A small lift of genuine respect when she mentions the research quality. Conversational, like she's thinking out loud with him.",
+      "mood": "interested_impressed"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "大晦日、皆で、カウントダウンしような、桜、お前、参加できる?お父さん、お母さんに、確認しといて、絶対に、楽しい夜にしような、本当に、本気で、絶対、約束、ね、絶対だぞ、絶対。",
+      "en": "Let's do a countdown together on New Year's Eve—all of us. Can you make it? Ask your parents about it, okay? I want to make sure it's a good night for everyone. Seriously, promise you'll be there?",
+      "style": "Soft directive beneath the casual phrasing. The energy climbs as he says 'good night,' then steadies into something more vulnerable at 'promise.' Not begging, but asking matters.",
+      "mood": "hopeful_sincere"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "国語の授業で、詩集を、扱ったよ、リク、お前も、面白いと、思った?私、本当に、感動した、本気で、文学って、奥深いよね、お互いに、勉強、続けていこうね、ね、約束。",
+      "en": "We studied poetry in Japanese class. Did you think it was interesting? I was really moved by it. Literature is so deep, isn't it? Let's keep studying together, okay? Promise me?",
+      "style": "Earnest opening. Quiet confidence building—she's sharing something that matters. Slight lean forward on 'so deep.' Ends with soft conviction, not performing sincerity but living it.",
+      "mood": "earnest_connected"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "今日、強風で、傘、本当に、飛ばされそうになったぜ、桜、お前、大丈夫だった?明日も、注意な、お互いに、気をつけような、本気で、絶対、安全、第一にしような、本当に、絶対。",
+      "en": "Today the wind was so strong my umbrella nearly got blown away. Were you okay out there? Be careful tomorrow too. Let's both watch out for each other. Safety first, seriously.",
+      "style": "Protective without being overbearing. Quick, efficient checking-in. The repetition of 'careful' is quiet concern, not nagging. Ends grounded—she means it as a small act of care.",
+      "mood": "protective_concerned"
+    }
+  ]
+}

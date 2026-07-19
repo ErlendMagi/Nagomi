@@ -1,0 +1,78 @@
+{
+  "id": "conv_04515",
+  "context": "A senior trains a new hire on tools and image management",
+  "purpose": "Teach: リフォーム/アップデート/グーグル/ウィンドウ/ビット/スタンダード/フォト/識別",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リフォーム",
+    "アップデート",
+    "グーグル",
+    "ウィンドウ",
+    "ビット",
+    "スタンダード",
+    "フォト",
+    "識別"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日はまず、社内ツールのリフォームについて話すよ。古いシステムを刷新する予定なんだ。",
+      "en": "Today, first let's talk about the overhaul of our internal tools. We plan to renew the old system.",
+      "style": "Warm mentor tone, slightly formal, welcoming a new hire on day one."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。先週アップデートがあったと聞きました。",
+      "en": "Yes, please guide me. I heard there was an update last week.",
+      "style": "Polite junior voice, attentive and eager, slightly nervous undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。資料探しは基本グーグルで調べていいけど、まず社内サーバーを確認してね。",
+      "en": "Right. For finding documents, it's fine to look on Google, but check our internal server first.",
+      "style": "Practical, instructive, casual workplace senior delivering simple rules clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "分かりました。ブラウザのウィンドウを複数開いて作業しても大丈夫ですか?",
+      "en": "Understood. Is it okay to work with multiple browser windows open?",
+      "style": "Curious clarifying question, polite and earnest, junior employee checking norms."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "問題ない。ただ画像処理は重いから、六十四ビット版のソフトを使ってね。",
+      "en": "No problem. But image processing is heavy, so use the 64-bit version of the software.",
+      "style": "Matter-of-fact technical guidance, steady pacing, senior sharing practical tips."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。社内のスタンダードな編集作業は、それで足りますか?",
+      "en": "Got it. Is that enough for the company's standard editing tasks?",
+      "style": "Thoughtful follow-up, professional curiosity, confirming scope of tool usage."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、十分。あとフォトの管理は、必ず識別番号を付けて保存することね。",
+      "en": "Yes, plenty. Also for photo management, always save with an identification number.",
+      "style": "Firm but kind instruction, emphasizing one important rule clearly to remember."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、後で混乱しないためですね。しっかりメモしておきます。",
+      "en": "I see, to avoid confusion later. I'll take careful notes.",
+      "style": "Understanding acknowledgment, sincere and motivated, junior absorbing the lesson well."
+    }
+  ]
+}

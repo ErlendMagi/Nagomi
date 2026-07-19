@@ -1,0 +1,86 @@
+{
+  "id": "conv_06822",
+  "context": "A mom and son chat",
+  "purpose": "Teach: オシャレ/かまい/壊す/重宝/裕福/ばらばら/図鑑/妖怪",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "オシャレ",
+    "かまい",
+    "壊す",
+    "重宝",
+    "裕福",
+    "ばらばら",
+    "図鑑",
+    "妖怪"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_343 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、新しい服、すごくオシャレで、似合ってるよ、ぼく、ママ大好き。",
+      "en": "Mom, your new clothes are so stylish—they really suit you. I love you so much.",
+      "style": "Bright, uncomplicated admiration. Quick warm emphasis on 「オシャレで」. Then a softer, sincere drop on the declaration of love—not performative, just stated like a fact he's noticed.",
+      "mood": "adoring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。汚れても、かまいませんから、外で、思い切り、遊んでね、翔くん。",
+      "en": "That's wonderful. Don't worry about dirt—go outside and play as hard as you want, okay Sho?",
+      "style": "Warm permission. Slight lift on 「かまいません」—actually freeing him, not just tolerating mess. Gentle, deliberate on his name at the end. The tone of someone giving him something he needs.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "玩具を、壊すと、悲しくなるよね、ぼく、大事に、するからね。",
+      "en": "When toys break, it makes me sad... but I'll take good care of it, I promise.",
+      "style": "Careful, thoughtful pause before the promise. Not anxious—just the quiet seriousness of a six-year-old making a deal with himself. Soft conviction on 「大事に」.",
+      "mood": "sincere_protective"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おじいちゃんのアイデア、すごく重宝してるのよ、ママ、毎日。",
+      "en": "Your grandfather's idea has been so helpful. I use it every single day.",
+      "style": "Genuine warmth tinged with gratitude. A small smile in the voice. Not casual—she's reflecting on something that actually matters to her. Steady, grounded pace.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "裕福な家のお友達、ぼくに、優しくしてくれるよ、嬉しい!",
+      "en": "My friend from the wealthy family is so kind to me. That makes me really happy.",
+      "style": "Bright observation without envy or self-consciousness. Natural brightness on 「優しくしてくれる」. A small boy noticing kindness and being delighted by it—no complications underneath.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お部屋、ばらばらに、おもちゃが、散らかってるわよ、片付けようね。",
+      "en": "Your room is scattered with toys everywhere, sweetheart. Let's tidy up together, shall we?",
+      "style": "Practical but not sharp. A gentle statement of the obvious. The 「ね」 makes it a soft suggestion, not a command. The rhythm of a mother who's done this many times and expects cooperation, not resistance.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "昆虫図鑑、明日、学校に、持って行きたいんだ、ママ、いい?",
+      "en": "I want to bring my insect encyclopedia to school tomorrow, Mom. Is that okay?",
+      "style": "Direct, hopeful request. A small lift on 「持って行きたいんだ」—he's excited about this, wants to show it matters. The 「ママ、いい?」 is checking permission but with genuine hope underneath, not doubt.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "妖怪の絵本、お祖父ちゃんが、読んでくれるって、楽しみね、翔くん。",
+      "en": "Your grandfather is going to read you that yokai picture book. You must be so excited about that, Sho.",
+      "style": "Warm, almost conspiratorial. She's sharing his anticipation, not just stating facts. Gentle lingering on 「楽しみね」—she knows this matters to him, and she's letting him feel it with her.",
+      "mood": "warm_anticipatory"
+    }
+  ]
+}

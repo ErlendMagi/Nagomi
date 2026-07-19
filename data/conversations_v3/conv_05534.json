@@ -1,0 +1,72 @@
+{
+  "id": "conv_05534",
+  "context": "A uni student interviews a retired farmer",
+  "purpose": "Teach: 肥料/農産物/発動/保安/勤労/教徒/陳述/軍人",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥料",
+    "農産物",
+    "発動",
+    "保安",
+    "勤労",
+    "教徒",
+    "陳述",
+    "軍人"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "長年、農業に携わってこられたんですよね。",
+      "en": "You've been working in agriculture for a long time, haven't you?",
+      "style": "Respectful and curious. Lean forward slightly. Warm pace—not rushed. A genuine question from someone genuinely interested in hearing the answer.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。肥料の質と農産物の出来、密接につながっている。",
+      "en": "Yes. The quality of the soil and fertilizer—it directly shapes how well the crop turns out.",
+      "style": "Matter-of-fact, grounded. Speak from experience without needing to perform authority. Steady, unhurried pace. The tone of someone who has learned this through decades of work.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "保安基準の発動、現場では大変でしたか。",
+      "en": "Those new regulations—were they difficult to implement out in the fields?",
+      "style": "Thoughtful probe. Gentle but direct. Pause before asking, as if you're genuinely trying to understand the weight of it. Slight lean-in on the question.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "勤労意欲の高い若者ほど、丁寧に取り組んでくれた。",
+      "en": "The young people with real drive—they picked up the new practices without complaint. They understood why it mattered.",
+      "style": "Warm observation. A small smile in the voice. Not lecturing, but reflecting on something that moved you. Slow, appreciative pace. Slight exhale of quiet pride.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域の教徒の方々との関わり、強かったんですか。",
+      "en": "Did you have strong ties with people in the community?",
+      "style": "Open, inviting question. Slightly softer tone—asking permission to understand more. Curious but not prying. Natural conversational pace.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。退役軍人会の支援も受け、陳述書を集めた経験もある。",
+      "en": "Yes. We had support from the veterans' association—I even gathered written accounts from people over the years.",
+      "style": "Reflective, slightly distant—looking back. Deliberate pace. Each phrase lands separately, like remembering. Quiet, steady voice. The tone of someone at peace with what was done.",
+      "mood": "reflective_settled"
+    }
+  ]
+}

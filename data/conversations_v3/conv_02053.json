@@ -1,0 +1,79 @@
+{
+  "id": "conv_02053",
+  "context": "Sakura sets up an interview at a town office; meets a clerk.",
+  "purpose": "Adult writer in formal civic interaction.",
+  "ambient": "office_lobby_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "機関",
+    "案内",
+    "登録",
+    "更新",
+    "提出",
+    "確認",
+    "メール",
+    "担当"
+  ],
+  "cast": [
+    "sakura_teen",
+    "takeda_officer"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_103)",
+    "generated_at": "2026-05-27T13:02:24.898Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お問い合わせの機関、こちらで案内します。",
+      "en": "I'll guide you through the inquiry process here.",
+      "style": "Steady, professional opening. Clear enunciation without rushing. The practiced confidence of someone who says this many times a day, but not mechanical—genuinely present.",
+      "mood": "composed_helpful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします、登録、更新したくて。",
+      "en": "Thank you for your help. I'd like to register and update my information.",
+      "style": "Polite and careful, slightly deferential. Speaks a touch slower than natural conversation—mindful of clarity. Warm undertone beneath the formality, like she's been rehearsing this.",
+      "mood": "earnest_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "担当者、すぐ呼びますね。",
+      "en": "I'll call the person in charge for you right away.",
+      "style": "Reassuring and efficient. Light, warm professionalism—the tone that tells you this will go smoothly. Brief and trustworthy, no filler.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "書類、これで提出、合っていますか?",
+      "en": "Are these documents correct to submit?",
+      "style": "Soft, seeking confirmation without doubt. A slight lift at the end like a question genuinely posed, not a formality. Hands hovering over the papers, attentive.",
+      "mood": "careful_uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "確認します、ちょっとお待ちを。",
+      "en": "Let me verify these for you. Just one moment, please.",
+      "style": "Professional and patient. A small, settling pause after the first phrase—the officer is collecting the papers, reviewing. Measured, methodical tone.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "メール、後で送ってもいいでしょうか?",
+      "en": "May I send the email later?",
+      "style": "Polite request, gently posed. A touch of hope in the question—she's checking if she has flexibility. Not pushy, but genuinely asking permission.",
+      "mood": "hopeful_deferential"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、こちらのアドレスへ。",
+      "en": "Of course. Please send it to this address.",
+      "style": "Warm permission granted. The officer points to the address, speaking with the ease of someone giving helpful information. Friendly without overstepping—professional warmth.",
+      "mood": "accommodating"
+    }
+  ]
+}

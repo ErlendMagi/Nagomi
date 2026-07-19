@@ -1,0 +1,86 @@
+{
+  "id": "conv_06281",
+  "context": "A mom and son chat at dinner",
+  "purpose": "Teach: おかず/歪み/ぶつかる/硬く/防ぎ/意地悪/ほどほど/足取り",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "おかず",
+    "歪み",
+    "ぶつかる",
+    "硬く",
+    "防ぎ",
+    "意地悪",
+    "ほどほど",
+    "足取り"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_316 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今夜のおかず、何?",
+      "en": "Mom, what's for dinner tonight?",
+      "style": "Eager, direct question pitched upward. Quick pace. The natural curiosity of a six-year-old who's been waiting. No pretense.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ハンバーグよ。お皿、歪みがあるから、丁寧に扱ってね。",
+      "en": "Hamburger. But that plate has a slight warp, so handle it gently, okay?",
+      "style": "Warm but matter-of-fact. The instruction delivered without fuss—a mother noting a practical concern while staying gentle. Even pace, steady.",
+      "mood": "caring_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "走り回って、机にぶつかること、多いから、気を付ける。",
+      "en": "I bump into the desk a lot when I'm running around, so I'll be careful.",
+      "style": "Sho's small, genuine voice—not defensive, just accounting for himself. Quiet recognition of his own patterns. Slight self-awareness underneath.",
+      "mood": "self_aware"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "肩、硬くなってない?",
+      "en": "Your shoulders aren't getting tense, are they?",
+      "style": "Gentle check-in. A slight shift toward concern—she's noticing something. Warm but observant, the way she attends to him. Soft questioning lilt.",
+      "mood": "observant_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、ストレッチで防ぎたい。",
+      "en": "Yeah—I want to keep them loose with stretches.",
+      "style": "Small, earnest voice. He's thought about this a bit. Not rehearsed, just his honest answer. A trace of focus underneath the lightness.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達に意地悪、しないでね。",
+      "en": "And don't be unkind to your friends, all right?",
+      "style": "Firm but not sharp. A quiet directive that carries weight because she means it. No anger—just clarity. The pause before 'all right' expects acknowledgment.",
+      "mood": "firm_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、ほどほどに、ふざける。",
+      "en": "Yeah—I'll mess around with them, but not too much.",
+      "style": "Quick, small agreement. A hint of wry honesty—he understands the balance. His voice suggests he knows exactly what she means and accepts it without fuss.",
+      "mood": "compliant_wry"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの足取り、玄関で聞こえてきたわ。",
+      "en": "I can hear your father's footsteps at the entrance now.",
+      "style": "Warm observation—she's noticing his arrival without fanfare. Gentle, almost intimate tone. The kind of moment that marks routine comfort. Quiet and content.",
+      "mood": "warm_observant"
+    }
+  ]
+}

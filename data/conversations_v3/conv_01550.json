@@ -1,0 +1,61 @@
+{
+  "id": "conv_01550",
+  "context": "Aoi closes the cafe for the evening; chatting with Yumiko who stops in.",
+  "purpose": "End-of-day cafe wind-down with a familiar regular.",
+  "ambient": "cafe_closing_clink",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉店",
+    "客",
+    "疲れ",
+    "日"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_078)",
+    "generated_at": "2026-05-27T06:31:10.776Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "蒼ちゃん、お疲れさま。",
+      "en": "Aoi-chan, you must be tired.",
+      "style": "Warm, unhurried greeting. Voice settles around her. The careful affection of someone checking in. Soft emphasis on the name — noticing her, not just greeting.",
+      "mood": "warm_noticing"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ゆみこさん、いらっしゃい。",
+      "en": "Yumiko-san, welcome.",
+      "style": "Genuine recognition — not just a register greeting. Slight warmth in the name. She sees who just walked in. Natural rhythm, no performance.",
+      "mood": "warm_genuine"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日も忙しかった?",
+      "en": "Was it busy today too?",
+      "style": "Curious but not intrusive. Soft, opening cadence — inviting her to share if she wants to. The question of someone who actually wants to hear the answer.",
+      "mood": "caring_interested"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お客さん、たくさん来てくれた。",
+      "en": "Lots of customers came in.",
+      "style": "Small quiet pride in the fact. Not boasting — just stating something real. Slight lift in the middle, like she's been holding the satisfaction of a full day.",
+      "mood": "quiet_satisfied"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一日、ええ仕事やったわね。",
+      "en": "You did good work today.",
+      "style": "Gentle affirmation. Slow, deliberate. The kind of praise that lands because it's not overdone. Warm Kansai rhythm underneath — older woman, proud of her.",
+      "mood": "warm_proud"
+    }
+  ]
+}

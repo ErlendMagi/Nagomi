@@ -1,0 +1,65 @@
+{
+  "id": "conv_05769",
+  "context": "A police officer briefs on financial-crime regulations",
+  "purpose": "Teach: 東証/スミス/代目/号線/密着/遠藤/田村/高田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "東証",
+    "スミス",
+    "代目",
+    "号線",
+    "密着",
+    "遠藤",
+    "田村",
+    "高田"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_290 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "東証上場直後、不正取引の警戒対象になります。",
+      "en": "Right after the TSE listing, you'll be flagged for fraud surveillance.",
+      "style": "Matter-of-fact, measured. No ceremony. Professional but not cold. Delivers routine information with steady eye contact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。スミス証券、コンプライアンスも密着でサポートしてくれます。",
+      "en": "Understood. Smith Securities has their compliance team ready to support us closely.",
+      "style": "Prompt, agreeable. Confirms without hesitation. Warm enough to show good faith, but lean and efficient—no extra words.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "広報、遠藤さんとの連携、田村さんも交えて頂きたい。",
+      "en": "We'll need PR coordinating with Endo, and I'd like Tamura involved as well.",
+      "style": "Clear directive, not harsh. States the requirement plainly. Slight upward lift on the final name, treating it as a checklist item, not a burden.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。高田さん、地域連絡、号線別の警備に強いです。",
+      "en": "Understood. Takada's got strong experience with regional liaison and route-by-route security.",
+      "style": "Factual confirmation. Flat, informative tone. Quick recognition of competence without embellishment. Moving the conversation forward.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "うちの三代目署長も、御社の四代目に挨拶を希望しています。",
+      "en": "Our third-generation chief would also like to extend greetings to your fourth-generation head.",
+      "style": "Formal courtesy delivered in measured tones. Slight softening on the greeting phrase—diplomatic warmth beneath the protocol. Unhurried.",
+      "mood": "courteous"
+    }
+  ]
+}

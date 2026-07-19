@@ -1,0 +1,75 @@
+{
+  "id": "conv_03042",
+  "context": "Ren reports a robotics deal to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (成立/ロボット/測定/出張/済み) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "成立",
+    "ロボット",
+    "測定",
+    "出張",
+    "済み"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_153)",
+    "generated_at": "2026-05-29T15:21:48.189Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "ロボットの契約が、成立しました。",
+      "en": "The robot contract was concluded.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "出張は、無事に済んだかね?",
+      "en": "Did the business trip go smoothly?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、出張は問題なく済みました。",
+      "en": "Yes, the trip was completed without issue.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ロボットの精度は、測定したかね?",
+      "en": "Did you measure the robot's precision?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "測定済みで、基準を満たしています。",
+      "en": "It's measured and meets the standard.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約成立で、生産を進められるな。",
+      "en": "With the deal concluded, we can advance production.",
+      "style": "satisfied boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "測定の報告書も、提出済みです。",
+      "en": "The measurement report is submitted too.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "成立おめでとう。次の出張も頼む。",
+      "en": "Congrats on the deal. I count on the next trip too.",
+      "style": "warm boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

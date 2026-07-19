@@ -1,0 +1,86 @@
+{
+  "id": "conv_09567",
+  "context": "Two managers chat",
+  "purpose": "Teach: サンプリング/割愛/懸案/編入/確固たる/バックグラウンド/アウトプット/転嫁",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "サンプリング",
+    "割愛",
+    "懸案",
+    "編入",
+    "確固たる",
+    "バックグラウンド",
+    "アウトプット",
+    "転嫁"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_480 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "顧客アンケートのサンプリングを工夫しましょう",
+      "en": "Let's refine how we sample the customer survey data.",
+      "style": "Measured, direct—opening with quiet authority. Steady pace, no rush. Slight downward inflection at the end. The tone of someone proposing a clear next step.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。重複部分を割愛して資料を作ります",
+      "en": "Understood. I'll consolidate the materials by removing the redundant sections.",
+      "style": "Brisk affirmation. Small nod in the voice. Practical, no hesitation—showing he's already thinking through the execution.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "懸案のIT更新を進めましょう",
+      "en": "And let's move forward on the IT upgrades we've been putting off.",
+      "style": "Slightly more energetic than before. A forward tilt in the voice. Still measured but with quiet momentum—marking the pivot to the next priority.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。中途編入社員のオリエンを準備します",
+      "en": "Got it. I'll prepare the orientation for the mid-career hires.",
+      "style": "Efficient, attentive. Voice settles into the task immediately. No elaboration—just the commitment itself.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "確固たる対応方針を示しましょう",
+      "en": "We need to establish a clear, solid response protocol going forward.",
+      "style": "Firmer than the previous directions. Weight on 「確固たる」 equivalent in English. Eye-level steadiness. The voice of someone who knows this matters.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。応募者のバックグラウンドを丁寧に確認します",
+      "en": "Understood. I'll carefully review each applicant's background and experience.",
+      "style": "Thoughtful, methodical. Slight emphasis on 「丁寧に」 equivalent. The voice of someone who understands the weight of this step.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "週次でアウトプットを共有しましょう",
+      "en": "Let's make sure we're sharing our progress with each other weekly.",
+      "style": "Collaborative pivot—slightly warmer than the directive lines. Inclusive, not just commanding. Settling into the rhythm of working together.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。為替リスクを顧客に転嫁しない方針です",
+      "en": "Yes. And our policy is to absorb the FX risk ourselves, not pass it to the client.",
+      "style": "Firm closure. Quiet weight on the principle. The voice of someone stating something non-negotiable. Slight breath before the final clause.",
+      "mood": "principled"
+    }
+  ]
+}

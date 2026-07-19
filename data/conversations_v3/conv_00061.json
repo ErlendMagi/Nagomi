@@ -1,0 +1,67 @@
+{
+  "id": "conv_00061",
+  "context": "A Shinkansen carriage. Sakura sits down, putting her bag on the floor. Tatsuya is in the next seat, eating an onigiri. Three brief exchanges.",
+  "purpose": "tiny strangers-on-a-train moment — kindness exchanged in six lines",
+  "ambient": "train_carriage",
+  "target_vocab": [
+    "すみません",
+    "ありがとう",
+    "本当に",
+    "大丈夫"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "すみません、ここ、空いてますか？",
+      "en": "Sorry — is this seat taken?",
+      "style": "Soft initial approach, almost deferential. A small bow folded into the syllables. Polite register but genuine underneath, not performing.",
+      "mood": "respectful_tentative"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、どうぞ。",
+      "en": "Yeah — go ahead.",
+      "style": "Slow, unhurried Tohoku warmth. Two-beat rhythm on the permission. No wasted motion in the voice, just an open gesture.",
+      "mood": "kind_unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。…おにぎり、おいしそう。",
+      "en": "Thank you. …Those onigiri look really good.",
+      "style": "Genuine observation dressed as small talk. Soft start, slight pause before the second thought. Not fishing for anything, just noticing aloud.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん。家で握ったやつ。一個、いる？",
+      "en": "Yeah. Made them at home. Want one?",
+      "style": "Offer without ceremony or fanfare. The words carry a hand held out. Slow, practical, no pressure underneath.",
+      "mood": "generous_simple"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、本当に？大丈夫ですか？",
+      "en": "Really? Are you sure that's okay?",
+      "style": "Genuine surprise breaks the politeness. A half-laugh caught in the middle. Kansai warmth underneath the formal register, uncertainty meeting kindness.",
+      "mood": "surprised_touched"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ええよ。長い旅やからな。",
+      "en": "Of course. It's a long trip.",
+      "style": "A quiet smile lives in the words. Slow Tohoku rhythm. Patient and matter-of-fact, like this is the simplest thing in the world.",
+      "mood": "warm_content"
+    }
+  ]
+}

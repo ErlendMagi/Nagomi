@@ -1,0 +1,86 @@
+{
+  "id": "conv_06211",
+  "context": "A police officer briefs about an investigation",
+  "purpose": "Teach: 重なり/言い回し/輪郭/際立っ/押さえる/手腕/旧式/ずさん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "重なり",
+    "言い回し",
+    "輪郭",
+    "際立っ",
+    "押さえる",
+    "手腕",
+    "旧式",
+    "ずさん"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_312 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、複数の事案が重なりました。",
+      "en": "This case involved multiple incidents that overlapped.",
+      "style": "Even, measured tone. Professional distance. A slight pause before speaking, gathering thoughts. Steady and deliberate—no rush.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者の言い回し、独特ですね。",
+      "en": "The suspect's choice of words was unusual, wasn't it?",
+      "style": "Soft, almost thinking aloud. Hesitant—testing whether he's on the right track. Genuine curiosity, not showing off. A question searching for confirmation.",
+      "mood": "curious_tentative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。輪郭が、まだはっきりしません。",
+      "en": "Right. The full picture still isn't clear.",
+      "style": "Factual acknowledgement. A small pause between clauses—weighing what he can and cannot say. Professional restraint.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "防犯映像、被害者の様子、際立っていますね。",
+      "en": "The surveillance footage—the victim's condition really stands out.",
+      "style": "Careful observation. Lean in slightly with genuine focus. A touch of concern underneath. Not accusatory, just noticing. Soft pause before the second clause.",
+      "mood": "observant_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "押さえるべき証拠、まだ収集中です。",
+      "en": "The critical evidence is still being collected.",
+      "style": "Professional update. Even tempo. A touch of patience—this is routine work. No frustration, just matter-of-fact.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警部の手腕、信頼されてますね。",
+      "en": "Your work has earned real trust, Inspector.",
+      "style": "Genuine respect, slightly awkward in how he delivers it. Not flattery—observation. A small smile might cross his face. Sincere but uncomfortable with compliments.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "旧式の機材も、捜査に活用。",
+      "en": "Even outdated equipment can be useful in the investigation.",
+      "style": "Modest deflection. Brief and factual—accepting the compliment by moving forward. No false modesty, just steady practicality.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ずさんな管理、被疑者組織の特徴ですね。",
+      "en": "Sloppy management—that's a signature of the suspect organization.",
+      "style": "Piecing things together. Thoughtful, almost to himself. Building toward understanding. A slow breath—synthesis rather than accusation.",
+      "mood": "reflective"
+    }
+  ]
+}

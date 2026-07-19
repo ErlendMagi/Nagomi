@@ -1,0 +1,97 @@
+{
+  "id": "conv_00111",
+  "context": "A phone call. Tatsuya is calling Dr. Saito's rural rotation hotline. His wife has been worse this week than last.",
+  "purpose": "rural patient + city doctor over phone — slow grave concern",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "心配",
+    "少し",
+    "今日"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "saito_doctor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "もしもし、先生。…遅くにすまんな。",
+      "en": "Hello, Doctor. …Sorry to call so late.",
+      "style": "Slow, measured opening. Tohoku cadence underneath. Tired but not rushed—each word placed with care. Slight apologetic catch on the apology.",
+      "mood": "concerned_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえいえ、大丈夫です。どうされましたか。",
+      "en": "No, it's fine. What's going on?",
+      "style": "Calm professional anchor. Voice drops half a step warmer on the reassurance. Immediate shift into listening mode—attentive, no performative sympathy.",
+      "mood": "composed_caring"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "妻が、今日、ちょっと、しんどそうで。",
+      "en": "My wife—today she seems to be in some pain.",
+      "style": "Careful, measured report. Each phrase separated by small breath. The word 'pain' carries visible weight. Quiet worry underneath, not dramatized.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "どんな感じですか、具体的に。",
+      "en": "What kind of pain—be specific.",
+      "style": "Precise, small question. Professional focus clicking on. Pen ready in the voice. Not brusque, but efficiently gathered toward information.",
+      "mood": "alert_professional"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "熱は出てない。けど、息が、本当に苦しそうで。",
+      "en": "No fever. But her breathing—it looks really difficult.",
+      "style": "Steady, factual report. Voice tightens slightly underneath on 'breathing'—the real concern surfaces. Slow pace. No embellishment.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配ですね。明日の朝、私が、伺います。",
+      "en": "That is concerning. I'll come by tomorrow morning.",
+      "style": "Small firm decision. Voice carries the full weight of professional authority—not rushed, but definitive. Grounded compassion underneath.",
+      "mood": "decisive_concerned"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "え、本当に？お時間…",
+      "en": "Really? But your time—",
+      "style": "Small surprised gratitude breaking through. Half-protest, half-acceptance. Voice rises slightly on the question, then trails off in deference.",
+      "mood": "grateful_hesitant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "これが仕事です。今夜、何かあったら、すぐ電話。",
+      "en": "This is my job. If anything happens tonight, call right away.",
+      "style": "Grounded, practical instruction. Voice steady and genuine—no reassurance-performance, just honest competence. Almost brisk, but genuinely warm underneath.",
+      "mood": "steady_professional"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "本当に、ありがとうございます、先生。",
+      "en": "Truly—thank you, Doctor.",
+      "style": "Real Tohoku formality—deep gratitude, not habitual politeness. Voice catches slightly on the thanks. Quiet sincerity. Small bow in the voice.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おやすみなさい。少しでも、休んで。",
+      "en": "Good night. Get some rest, even a little.",
+      "style": "Small kind closer—doctor-as-person speaking. Steady, attentive presence. Not rushed, not lingering. Genuine concern held lightly in the voice.",
+      "mood": "warm_professional"
+    }
+  ]
+}

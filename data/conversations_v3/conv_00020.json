@@ -1,0 +1,99 @@
+{
+  "id": "conv_00020",
+  "context": "Coastal Fukuoka, late afternoon. Eight-year-old Hina is visiting grandpa Goro and has asked him to tell her a story about when he was young.",
+  "purpose": "oral history — grandfather telling, granddaughter listening",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "一番",
+    "時間",
+    "一緒",
+    "ない",
+    "人",
+    "言う",
+    "見る"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おじいちゃん、お話して。一番面白いの。",
+      "en": "Grandpa, tell me a story. The most interesting one.",
+      "style": "Sits down very close. The demand is delivered as if she's pre-paid for it.",
+      "mood": "demanding_kid"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "一番、なあ。…むかし、おじいちゃんが、お前くらいの時にな。",
+      "en": "The most interesting, eh. …Long ago, when grandpa was about your age.",
+      "style": "Slow, gravelly. Each clause arrives separately. Kyushu warmth. Looks somewhere far away during the second sentence.",
+      "mood": "settling_in"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "One syllable, all attention. She has folded herself smaller.",
+      "mood": "fully_listening"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "一人で、海まで歩いてったんよ。誰にも言わんで。",
+      "en": "I walked all the way to the sea by myself. Didn't tell anyone.",
+      "style": "A small forbidden gleam in the voice. The 「言わんで」 is Kyushu confessional charm.",
+      "mood": "sharing_secret"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "本当に？一人で？",
+      "en": "Really? All alone?",
+      "style": "Pure eight-year-old astonishment. The 「本当に？」 is half a question, half a request to repeat it.",
+      "mood": "astonished"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "本当に、一人でな。お母さんに、後で本当に怒られた。",
+      "en": "Really, all alone. Got told off by my mother good and proper afterward.",
+      "style": "Half-laugh inside the gravel. The memory is amused.",
+      "mood": "amused_remembering"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "怖くなかった？",
+      "en": "Weren't you scared?",
+      "style": "A small worried lift. She's thinking about it as if it could happen to her.",
+      "mood": "worried_curious"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "怖かったよ。最初な。でも、海、見たら、なんも怖くなくなった。",
+      "en": "I was. At first. But once I saw the sea — none of it felt scary anymore.",
+      "style": "Slowest line yet. The 「見たら」 is the centre of the story. Eyes still somewhere far away.",
+      "mood": "centre_of_story"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "すごい。…ひなも、いつか一緒に見たい。",
+      "en": "Wow. …I want to see it together someday too.",
+      "style": "Small, warm. The 「一緒に」 is the gift she's giving back to him.",
+      "mood": "gentle_offering"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "よし。じゃあ、時間ある時、二人で行こう。",
+      "en": "Alright. When there's time, we'll go — the two of us.",
+      "style": "Quiet promise. Both clauses spoken at the same patient pace as the rest of the story. JP and EN: same settled warmth.",
+      "mood": "making_promise"
+    }
+  ]
+}

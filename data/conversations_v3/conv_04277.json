@@ -1,0 +1,78 @@
+{
+  "id": "conv_04277",
+  "context": "A uni student interviews a manufacturing manager about products",
+  "purpose": "Teach: 家電/トヨタ/メンテナンス/ポケット/オイル/サウンド/マップ/グリーン",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "家電",
+    "トヨタ",
+    "メンテナンス",
+    "ポケット",
+    "オイル",
+    "サウンド",
+    "マップ",
+    "グリーン"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_215 workflow wcx5zhi55)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。御社の家電量販店向け製品について、いくつか伺ってもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask about your products for home appliance retailers?",
+      "style": "Polite university student opening a formal research interview respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん構いませんよ。うちは元々トヨタ自動車の下請けから始まった工場でしてね、今は白物家電の部品も幅広く手がけています。",
+      "en": "Of course, no problem. Our factory originally started as a Toyota subcontractor, and now we also make a wide range of white-goods parts.",
+      "style": "Middle-aged manager explaining company history with calm professional pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。定期メンテナンスの体制についても気になっていまして、どのように管理されているのですか。",
+      "en": "I see. I'm also curious about your regular maintenance system — how is it managed?",
+      "style": "Curious student following up with a focused technical question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現場の班長が必ず胸ポケットに点検票を入れていて、機械のオイル交換から記録まで毎週チェックしているんですよ。",
+      "en": "Each floor leader keeps a checklist in their chest pocket and reviews everything weekly, from oil changes to logs.",
+      "style": "Manager describing daily workflow with concrete down-to-earth detail."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "徹底されていますね。最近は車載サウンドシステム関連の需要も伸びていると聞きますが、御社でも扱われていますか。",
+      "en": "That's very thorough. I've heard demand for in-car sound systems is growing — do you handle those too?",
+      "style": "Student steering the conversation toward emerging market trends naturally."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、サウンド機器の筐体部品もやっています。社内のサイトマップを見せながら説明した方が分かりやすいかもしれませんね。",
+      "en": "Yes, we also make housings for sound equipment. It might be clearer if I explain while showing our internal site map.",
+      "style": "Manager offering a visual aid to clarify a complex product lineup."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ぜひお願いします。あと、環境配慮という観点で、グリーン購入への取り組みについても教えていただけますか。",
+      "en": "Please, by all means. Also, from an environmental perspective, could you tell me about your green-procurement efforts?",
+      "style": "Student raising a thoughtful sustainability-focused follow-up with genuine interest."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良い質問ですね。素材調達から見直していて、これからの製造業にとって避けて通れない課題だと考えています。",
+      "en": "Good question. We're reviewing everything from material sourcing — it's an unavoidable challenge for the manufacturing industry going forward.",
+      "style": "Experienced manager closing with reflective forward-looking industry perspective."
+    }
+  ]
+}

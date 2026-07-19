@@ -1,0 +1,78 @@
+{
+  "id": "conv_04189",
+  "context": "A uni student interviews a retired engineer about industry history",
+  "purpose": "Teach: 出現/就任/公社/策定/施工/従事/文部/室内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出現",
+    "就任",
+    "公社",
+    "策定",
+    "施工",
+    "従事",
+    "文部",
+    "室内"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。早速ですが、戦後の建設業界に出現した新しい技術について伺いたいです。",
+      "en": "Thank you for your time today. To start, I'd like to ask about the new technologies that appeared in the postwar construction industry.",
+      "style": "Polite formal university student interviewing an elder respectfully"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、いいよ。私が現場に従事し始めた頃は、まだ日本道路公社が高速道路の整備計画を策定していた時代でね。",
+      "en": "Ah, sure. When I first started working on-site, it was still the era when the Japan Highway Public Corporation was drafting the expressway development plan.",
+      "style": "Warm reminiscent elder voice with nostalgic measured pacing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。当時の施工管理は今とはかなり違ったのでしょうか。",
+      "en": "I see. Was construction management back then quite different from today?",
+      "style": "Curious attentive student probing for deeper historical context"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "全然違うよ。図面は手書きだし、室内で電卓を叩いて構造計算をしてた。文部省、今でいう文部科学省が出した基準書がバイブルでね。",
+      "en": "Completely different. Drawings were hand-drawn, and we did structural calculations indoors on calculators. The standards issued by the Ministry of Education, what's now MEXT, were our bible.",
+      "style": "Detailed explanatory tone with affectionate technical nostalgia"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "手書きですか。想像もつきません。当時の上司の方はどんな方でしたか。",
+      "en": "Hand-drawn? I can't even imagine. What was your supervisor like back then?",
+      "style": "Genuinely surprised young listener showing real interest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "厳しい人だったよ。彼が部長に就任した日に、私たちを集めて『現場を一度も見ない設計者になるな』と言ってね。今でも覚えてる。",
+      "en": "He was a strict person. The day he was appointed division chief, he gathered us and said 'never become a designer who has never seen the site.' I still remember it.",
+      "style": "Reflective elder sharing a treasured formative memory"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素敵な言葉ですね。最後に、これから業界に入る学生に何かメッセージはありますか。",
+      "en": "What a wonderful saying. Finally, do you have any message for students entering the industry now?",
+      "style": "Warm closing question with respectful interview conclusion tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "技術は変わっても、人と現場を大事にする心は変わらない。それだけは忘れないでほしいな。",
+      "en": "Even as technology changes, the spirit of valuing people and the worksite doesn't change. I just hope you don't forget that.",
+      "style": "Heartfelt parting wisdom from veteran to younger generation"
+    }
+  ]
+}

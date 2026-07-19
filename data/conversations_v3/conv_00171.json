@@ -1,0 +1,83 @@
+{
+  "id": "conv_00171",
+  "context": "Kenji stops at the café before work; Aoi recognizes him as a semi-regular and they exchange a small unplanned moment.",
+  "purpose": "small recognition — the dignity of being remembered by a stranger who serves you",
+  "ambient": "cafe_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "朝",
+    "いつも",
+    "注文",
+    "同じ",
+    "覚える"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "おはようございます。",
+      "en": "Good morning.",
+      "style": "Soft dreamy barista morning greeting, artist-soft register warming the brisk morning air, gentle hospitality throughout.",
+      "mood": "dreamy-warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おはようございます。アメリカーノ一つお願いします。",
+      "en": "Good morning. One Americano, please.",
+      "style": "Earnest salaryman politeness, morning steadiness in the voice, courteous order delivered with calm formality.",
+      "mood": "politely-steady"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、いつも同じですね。覚えました。",
+      "en": "Oh, it's always the same. I remembered.",
+      "style": "Soft barista pleased observation, the noticing gentle and unforced, dreamy warmth lifting on the recognition.",
+      "mood": "gently-noticing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "え、本当ですか。嬉しいですね。",
+      "en": "Oh, really? That makes me happy.",
+      "style": "Salaryman warm surprised pleasure, the formal register loosening with genuine touched response, soft real emotion threaded.",
+      "mood": "warmly-touched"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お仕事の前ですか？",
+      "en": "Before work?",
+      "style": "Barista gentle dreamy inquiry, casual interest in the regular customer's rhythm, soft attentive curiosity throughout.",
+      "mood": "softly-curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、これ飲んでから出勤です。",
+      "en": "Yes, I head to work after drinking this.",
+      "style": "Earnest salaryman casual sharing, the daily routine offered with mild self-deprecation about its predictability.",
+      "mood": "mildly-self-aware"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "じゃあ、今日も頑張ってくださいね。",
+      "en": "Then, please do your best today too.",
+      "style": "Soft dreamy barista send-off, the small encouragement landing with genuine artist-warm care for the moment.",
+      "mood": "softly-encouraging"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。行ってきます。",
+      "en": "Thank you. I'm off now.",
+      "style": "Salaryman quietly buoyed, voice slightly lighter than entry, the small recognition having genuinely lifted him.",
+      "mood": "quietly-buoyed"
+    }
+  ]
+}

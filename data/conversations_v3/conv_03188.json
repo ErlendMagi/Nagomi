@@ -1,0 +1,76 @@
+{
+  "id": "conv_03188",
+  "context": "The citizen returns for the screening result",
+  "purpose": "Deliver the result; teach 審査/番号/事項/ご覧/承知/お答え",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "承知",
+    "審査",
+    "番号",
+    "事項",
+    "ご覧",
+    "お答え"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "先日の審査、結果は出ましたか？",
+      "en": "The other day’s screening, are the results in?",
+      "style": "hopeful citizen returning for news, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お預かりの番号で確認します。",
+      "en": "I will check with the number on file.",
+      "style": "businesslike officer pulling up the record"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "この番号です。",
+      "en": "This is the number.",
+      "style": "prompt applicant presenting his slip, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "審査は通りました。残りの事項をご覧ください。",
+      "en": "You passed the screening. Please look at the remaining items.",
+      "style": "pleased officer delivering good news, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "承知しました。追加でお答えが必要ですか？",
+      "en": "Understood. Do you need any additional answers?",
+      "style": "relieved citizen checking next steps, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いえ、こちらの事項にサインを。",
+      "en": "No, just sign this item here.",
+      "style": "efficient officer wrapping up the form"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "これで全部ですね。お答えありがとうございました。",
+      "en": "That is everything, then. Thank you for your answers.",
+      "style": "grateful citizen finishing the process, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご覧の控えをお持ち帰りください。",
+      "en": "Please take home the copy you see here.",
+      "style": "courteous officer handing over the receipt"
+    }
+  ]
+}

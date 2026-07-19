@@ -1,0 +1,78 @@
+{
+  "id": "conv_04714",
+  "context": "A doctor and a teacher plan a school health day",
+  "purpose": "Teach: 矯正/救急/注射/生理/医薬品/探る/本能/許容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "矯正",
+    "救急",
+    "注射",
+    "生理",
+    "医薬品",
+    "探る",
+    "本能",
+    "許容"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "斎藤先生、来月の学校健康デーですが、視力検査と歯列矯正の相談コーナーも設けたいんです。",
+      "en": "Dr. Saito, for next month's school health day, I'd like to set up vision tests and an orthodontic consultation corner as well.",
+      "style": "Polite professional tone, slightly enthusiastic and forward-leaning planning voice."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いいですね。ただ、万一に備えて救急対応のフローも明確にしておきましょう。",
+      "en": "Sounds good. But just in case, let's also clarify the emergency response flow.",
+      "style": "Calm, measured doctor's voice with quiet authority and practical concern."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、特にインフルエンザの予防注射を怖がる子が多くて、毎年泣き出す子がいるんですよ。",
+      "en": "Yes, especially since many children are afraid of flu shots, every year some end up crying.",
+      "style": "Warm teacherly tone with affectionate concern, slight chuckle in delivery."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子どもの本能的な反応ですから、無理に押さえつけるのは避けたいですね。痛みへの許容には個人差がありますし。",
+      "en": "It's an instinctive reaction in children, so we should avoid forcing them down. Pain tolerance varies by individual.",
+      "style": "Thoughtful clinical voice softened with empathy and gentle pacing."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。生理的な恐怖心を理解した上で、安心できる声かけの方法を探るべきですね。",
+      "en": "I see. We should explore ways of reassuring them while understanding their physiological fear.",
+      "style": "Reflective, taking-notes voice with rising interest and engagement."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうです。それと、当日使う医薬品のリストを事前に共有しますので、保健室で保管をお願いします。",
+      "en": "Exactly. Also, I'll share the list of medicines we'll use that day in advance, so please store them in the nurse's office.",
+      "style": "Businesslike doctor's voice shifting to logistical coordination mode."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "承知しました。アレルギーをお持ちのお子さんもいますので、保護者への確認も徹底します。",
+      "en": "Understood. Since some children have allergies, we'll thoroughly confirm with their guardians as well.",
+      "style": "Crisp confirmatory teacher voice, responsible and reassuring."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "助かります。万全の準備で、子どもたちが健康について楽しく学べる一日にしましょう。",
+      "en": "That helps a lot. With thorough preparation, let's make it a day where the children can enjoyably learn about health.",
+      "style": "Warm closing tone, collegial and encouraging with a small smile."
+    }
+  ]
+}

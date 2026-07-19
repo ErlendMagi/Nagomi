@@ -1,0 +1,86 @@
+{
+  "id": "conv_07969",
+  "context": "Officer briefs",
+  "purpose": "Teach: 勝てる/そろえ/置け/絞ら/読み直し/在り方/実装/低減",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勝てる",
+    "そろえ",
+    "置け",
+    "絞ら",
+    "読み直し",
+    "在り方",
+    "実装",
+    "低減"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪に勝てる体制を整えております",
+      "en": "The police department is building systems that can effectively combat crime.",
+      "style": "Measured, official opening. Steady pace, no hurry. Each phrase lands with quiet confidence. The voice of someone presenting their work to a peer. Professional but not distant.",
+      "mood": "professional_assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、必要な書類をそろえてくださりありがたいです",
+      "en": "Yes. Thank you for having the police prepare all the necessary documents.",
+      "style": "Respectful acknowledgment, genuine gratitude underneath. Slight lean-in on the thanks. Not deferential—collegial. The tone of someone who knows what it took to arrange this.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収物を置ける保管庫を強化しております",
+      "en": "The police are also reinforcing our storage facilities for seized evidence.",
+      "style": "Procedural but not monotone. Matter-of-fact delivery, each detail deliberate. Slight pause after the opening phrase. The voice of someone walking through necessary steps with someone who understands them.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、容疑者を絞らせるご進展ありがたいです",
+      "en": "Yes. I'm grateful for the progress you've made narrowing down the suspects.",
+      "style": "Steady, warm beneath the formality. Acknowledgment that lands gently. Not overstated—just sincere. The kind of thanks you give when someone has done good work on something that matters.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、調書を読み直して再聴取いたします",
+      "en": "We'll be re-reading the statements and conducting follow-up interviews.",
+      "style": "Clear and direct. No hesitation in the delivery. Each element stated as part of the plan. Quiet determination underneath—this is the work that will matter.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域警備の在り方を警察ご検討中ですね",
+      "en": "Yes. I see the police are looking into how community security can be improved.",
+      "style": "Observant, slightly deferential. The speaker noticing something they respect. Warm without flattery. A small nod in the voice to someone doing their job well.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、新たな防犯システムを実装いたします",
+      "en": "The police will be implementing new crime prevention systems.",
+      "style": "Official declaration. Steady, unhurried pace. Weight on the word 'new.' The voice of someone moving forward with something they believe in. Quiet confidence, no grandstanding.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。犯罪低減、警察のお力ありがたいです",
+      "en": "Yes. Thank you for all the police department has done to reduce crime in our community.",
+      "style": "Sincere, closing gratitude. Slower pace than before—this is the moment of real acknowledgment. Warm and genuine. The voice of someone who knows what their work means, speaking to someone who made it possible.",
+      "mood": "grateful_warm"
+    }
+  ]
+}

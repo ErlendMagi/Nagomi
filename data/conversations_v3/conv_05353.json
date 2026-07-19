@@ -1,0 +1,72 @@
+{
+  "id": "conv_05353",
+  "context": "A police officer briefs a uni reporter about resident services",
+  "purpose": "Teach: 返還/減税/高騰/密度/共生/放射線/配偶/重複",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返還",
+    "減税",
+    "高騰",
+    "密度",
+    "共生",
+    "放射線",
+    "配偶",
+    "重複"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_269 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "返還エリアの住民票、減税申請と重複しないよう確認しています。",
+      "en": "We're checking resident records from the returned area against tax-cut applications to make sure there's no overlap.",
+      "style": "Steady, administrative tone. Matter-of-fact pacing. The voice of someone explaining procedure clearly without editorializing. Brief, measured pauses between clauses.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "高騰したエリアでの世帯密度、どう変わりましたか。",
+      "en": "How did the household density shift in those areas where prices spiked?",
+      "style": "Thoughtful, genuinely interested. Leans forward slightly in the question. Careful enunciation—this is a specific thing he wants to understand. Slight rise at the end, searching.",
+      "mood": "curious_intent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "配偶者単身赴任が増え、共生型シェア住宅も目立ちます。",
+      "en": "We've seen an increase in spousal remote postings, and coexistence-style shared housing has become more visible.",
+      "style": "Clear, informative delivery. No rush. Slightly warmer than the first response—acknowledging the specific question asked. Even tone, allowing space for the data to land.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "放射線量モニタリングは、引き続き行ってますか。",
+      "en": "Is radiation monitoring continuing on that regular schedule?",
+      "style": "Respectful, direct. Genuine practical concern underneath—not casual. Slight emphasis on \"continuing.\" Measured pace, eye contact steady.",
+      "mood": "attentive_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、定期的に公表しています。",
+      "en": "Yes, we publish the readings regularly.",
+      "style": "Straightforward confirmation. Brief but not curt. The reassurance of consistency in his voice. Quiet confidence—not over-explaining.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "参考になります、ありがとうございました。",
+      "en": "That's been really helpful. Thank you for taking the time.",
+      "style": "Genuine gratitude, slight relief. Quieter than before, more reflective. Not rushed. Slight warmth—respect for someone who answered his questions clearly. Soft close.",
+      "mood": "grateful_respectful"
+    }
+  ]
+}

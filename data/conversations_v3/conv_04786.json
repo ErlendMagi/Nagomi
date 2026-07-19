@@ -1,0 +1,72 @@
+{
+  "id": "conv_04786",
+  "context": "A boss reviews an internal policy with his manager",
+  "purpose": "Teach: にあたる/氏名/もとより/に関しまして/均等/奨励/分配/遺憾",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にあたる",
+    "氏名",
+    "もとより",
+    "に関しまして",
+    "均等",
+    "奨励",
+    "分配",
+    "遺憾"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_241 workflow wgk0fq4be)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の社内方針の見直しに関しまして、君の意見を率直に聞きたい。",
+      "en": "Regarding this revision of internal policy, I'd like to hear your honest opinion.",
+      "style": "Authoritative boss tone, calm and measured delivery, slightly lowered pitch"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新制度の対象となる社員の氏名リストはもとより、各部署の状況も確認済みです。",
+      "en": "Yes. I've already confirmed the name list of eligible employees, as well as each department's situation.",
+      "style": "Composed manager voice, professional and prepared, mid-range business tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。今回の改定は来期の経営方針にあたる重要なものだ。",
+      "en": "Mm. This revision corresponds to next term's key management policy, so it's important.",
+      "style": "Serious executive register, deliberate pacing, weighty pauses between phrases"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ボーナスを各部署に均等に分配する案については、現場から不満の声も出ております。",
+      "en": "Regarding distributing bonuses equally to each department, there are complaints from the field.",
+      "style": "Cautious reporting tone, slightly tense, careful word choice and polite delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうか。それは誠に遺憾だな。成果を上げた者が報われない仕組みでは問題だ。",
+      "en": "I see. That is truly regrettable. A system where performers aren't rewarded is problematic.",
+      "style": "Furrowed-brow concern, lower register with stern undertones, contemplative pace"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ですので、成果に応じた奨励金制度の導入を再度ご検討いただければと思います。",
+      "en": "Therefore, I'd like you to reconsider introducing an incentive bonus system based on results.",
+      "style": "Respectful proposal tone, polished keigo, rising intonation at suggestion"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。明日の役員会議で正式に提案してみよう。資料の準備を頼む。",
+      "en": "I see. Let's formally propose it at tomorrow's executive meeting. I'll leave the materials to you.",
+      "style": "Decisive leadership voice, brisk and confident, clear directive ending"
+    }
+  ]
+}

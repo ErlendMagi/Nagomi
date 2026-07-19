@@ -1,0 +1,62 @@
+{
+  "id": "conv_01194",
+  "context": "Sachiko and Naoko share evening tea.",
+  "purpose": "elderly-aunt evening-tea exchange",
+  "ambient": "tatami_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "大切",
+    "感謝"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_060)",
+    "generated_at": "2026-05-27T04:24:20.797Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "直子ちゃん、お茶、入れたよ。",
+      "en": "Naoko, dear — I've made some tea for you.",
+      "style": "Warm opening with a soft lift on the name. Gentle, unhurried pace. The tea-making is offered as a small gift, not a task. Real affection threading through without performance.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おばさん、優しい、ね。",
+      "en": "You're so kind to me, Auntie.",
+      "style": "Quiet gratitude. A pause before speaking, like the words matter. Soft tone, steady breath. Not effusive — genuine appreciation sitting just behind the surface.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "一緒に、過ごす、楽しい時間。",
+      "en": "These moments together — that's what makes life enjoyable.",
+      "style": "Measured, reflective. Slight emphasis on 'together' without rushing. Philosophical ease, the way someone speaks after many years of living. Gentle trailing-off suggests she's speaking from long experience.",
+      "mood": "content_philosophical"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "感謝、本当に。",
+      "en": "I really am grateful to you.",
+      "style": "Sincere and direct. Warm undercurrent but grounded — not apologetic, simply true. Slight pause before 'grateful' as if the word carries weight. Held steady throughout.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "大切な、毎日、ね。",
+      "en": "Every day with you is precious.",
+      "style": "Closing warmth. Slower pace, almost meditative. The word 'precious' lands gently but with quiet conviction. Trailing softness suggests both contentment and the weight of how much this matters to her.",
+      "mood": "tender_philosophical"
+    }
+  ]
+}

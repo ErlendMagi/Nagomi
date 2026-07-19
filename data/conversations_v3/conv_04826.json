@@ -1,0 +1,84 @@
+{
+  "id": "conv_04826",
+  "context": "A boss briefs his manager on next quarter's expansion plan",
+  "purpose": "Teach: 通称/共済/修了/貯蓄/休業/出店/創出/なさる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通称",
+    "共済",
+    "修了",
+    "貯蓄",
+    "休業",
+    "出店",
+    "創出",
+    "なさる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来期の拡大計画について話そう。社内通称『北極星プロジェクト』だ。",
+      "en": "Let's discuss next quarter's expansion plan. Internal codename: 'Polaris Project.'",
+      "style": "Authoritative boss opening a formal strategic briefing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。具体的には何店舗の出店計画になりますか？",
+      "en": "Understood. Concretely, how many new stores does the opening plan cover?",
+      "style": "Diligent middle manager asking a practical follow-up question"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "全国で十二店舗だ。地域での雇用創出も同時に進めてほしい。",
+      "en": "Twelve locations nationwide. I want job creation in those regions pursued in parallel.",
+      "style": "Authoritative boss laying out concrete numerical targets clearly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。研修を修了したスタッフを中心に配置すれば回せそうです。",
+      "en": "Got it. Staffing mainly with people who've completed training should make it work.",
+      "style": "Confident manager proposing an operational solution with measured tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それと別件だが、社員の貯蓄を支える共済の仕組みも見直したい。",
+      "en": "On a separate note, I also want to revise the mutual-aid scheme supporting employee savings.",
+      "style": "Authoritative boss bridging smoothly into a related HR topic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良いご判断だと思います。長期の休業中の補償も対象に入りますか？",
+      "en": "I think that's a good call. Does long-term leave compensation fall in scope too?",
+      "style": "Respectful manager voicing genuine appreciation and clarifying scope"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "もちろん含める。来週の役員会では君に説明してもらうつもりだ。",
+      "en": "Of course it's included. At next week's board meeting, I'm having you present it.",
+      "style": "Authoritative boss delegating the presentation task to subordinate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "私がですか…身の引き締まる思いです。資料の準備にすぐ取りかかります。",
+      "en": "Me, sir? It really tightens my resolve. I'll start on the materials right away.",
+      "style": "Humble manager pivoting from surprise into a concrete next step"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。質問は何かなさる前提で、想定問答も用意しておいてくれ。",
+      "en": "Counting on you. Assume they'll ask questions, so prep anticipated Q&A as well.",
+      "style": "Authoritative boss giving final instructions with respectful verb form"
+    }
+  ]
+}

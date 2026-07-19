@@ -1,0 +1,65 @@
+{
+  "id": "conv_05752",
+  "context": "A doctor explains a tropical disease topic to a reporter",
+  "purpose": "Teach: 女王/外来/航海/南米/無名/無数/メタ/語彙",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "女王",
+    "外来",
+    "航海",
+    "南米",
+    "無名",
+    "無数",
+    "メタ",
+    "語彙"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_289 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、外来種の感染症、南米由来のものが注目されています。",
+      "en": "Ren, we're seeing more attention on invasive pathogens — particularly the ones originating from South America.",
+      "style": "Clear, measured opening. No rush. A professional briefing tone with quiet interest underneath. The pace is steady, almost conversational despite the technical subject matter.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歴史的には、女王時代の航海で持ち込まれたケースもあるんでしょうね。",
+      "en": "Historically, there were cases brought over during the age of exploration — the voyages of that era, I mean.",
+      "style": "Thoughtful, slightly hesitant mid-sentence. Testing the idea aloud. Gentle reach toward the doctor's expertise, not presuming. A student thinking through something genuinely interesting.",
+      "mood": "curious_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。当時、無名の船員から無数の感染が広がりました。",
+      "en": "Yes. Countless infections spread from nameless sailors during that period.",
+      "style": "Nod in the voice. Brief, confirming. A beat of acknowledgment for the insight. Then the factual detail lands quietly, with the weight of history in it.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メタ分析で、当時の医学語彙、参照する研究もありますね。",
+      "en": "And there are studies now that look back at the medical vocabulary from that time — meta-analyses working through those records.",
+      "style": "Alive with genuine discovery. Building on what he's just heard. Gentle energy, not showing off — just delighted that the pattern exists. Words flow naturally, connected.",
+      "mood": "engaged_discovering"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、地道に積み上げます。",
+      "en": "Yes. We build it up, piece by piece.",
+      "style": "Soft finality. A slight smile in the voice without sentimentality. Reflective but not wistful — the satisfaction of patient work. Trails gently, leaving space.",
+      "mood": "steady_satisfied"
+    }
+  ]
+}

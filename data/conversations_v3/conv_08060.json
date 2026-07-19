@@ -1,0 +1,86 @@
+{
+  "id": "conv_08060",
+  "context": "Mom and son chat",
+  "purpose": "Teach: マッチ/アホ/佐々木/岐阜/さぁ/たまる/珠/うめ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "マッチ",
+    "アホ",
+    "佐々木",
+    "岐阜",
+    "さぁ",
+    "たまる",
+    "珠",
+    "うめ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_404 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママ、家具のマッチングを考えてるの",
+      "en": "Sho, I'm thinking about matching furniture pieces.",
+      "style": "Gentle, conversational opening. A mother thinking aloud, not waiting for a response. Warm but slightly distracted, like her mind is half on the task ahead.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんがぼくに「アホって言うな」っておこったの",
+      "en": "Mom, Dad got mad at me for saying 'aho.'",
+      "style": "Small, uncertain voice. Not defensive—more checking in, seeking reassurance. A child testing whether he did something genuinely wrong. Eyes on her face.",
+      "mood": "worried_confused"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、佐々木さんが、お父さんのお仕事仲間よ",
+      "en": "Sho, Sasaki-san is one of your father's colleagues at work.",
+      "style": "Soft, explanatory tone. Patient but steady—she's clarifying something she doesn't think was meant unkindly. No edge, just gentle context-setting.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんと岐阜に行きたいな",
+      "en": "Mom, I want to go to Gifu with Grandma.",
+      "style": "Bright shift in energy. A new idea just arrived and he's already excited. Slightly higher pitch, eager. The kind of sudden want kids announce without preamble.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、さぁ、ご飯ですよ",
+      "en": "Sho, come on—dinner is ready.",
+      "style": "Practical, matter-of-fact. A gentle redirect, the tone a parent uses when pulling attention back to what's immediate. Not impatient, just present.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくの貯金、たまるのが楽しみだよ",
+      "en": "Mom, I'm looking forward to my savings growing.",
+      "style": "Thoughtful, genuinely pleased. He's discovered something small he can count on. Steady tone, pride understated but there. Shares this like a quiet discovery.",
+      "mood": "content_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママの珠のネックレス、おばあちゃんからの贈り物よ",
+      "en": "Sho, this pearl necklace—it's a gift from your grandmother.",
+      "style": "Tender, slightly reverent opening. She's holding something precious and her voice carries that. Warm explanation, connecting him to something that matters across time.",
+      "mood": "warm_sentimental"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うめぼし、美味しいよね。ママ、お庭の梅、いい香りだね",
+      "en": "Umeboshi really is delicious, isn't it? Mom, the plum tree in the garden smells so good.",
+      "style": "Delighted observation, noticing the world. Starts quiet and pleased, then brightens as he reaches the second thought. Small-child delight in scent and taste and connection.",
+      "mood": "joyful_present"
+    }
+  ]
+}

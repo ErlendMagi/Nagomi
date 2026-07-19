@@ -1,0 +1,78 @@
+{
+  "id": "conv_04143",
+  "context": "A boss and his deputy discuss selling corporate property",
+  "purpose": "Teach: 住まい/居住/アパート/軒/一層/売却/下落/売ら",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "住まい",
+    "居住",
+    "アパート",
+    "軒",
+    "一層",
+    "売却",
+    "下落",
+    "売ら"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ君、本社ビルの隣にある古いアパートの件だが、どう思う？",
+      "en": "Kenji, about that old apartment building next to our headquarters, what do you think?",
+      "style": "Boss opens with a measured, businesslike question to his deputy"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "正直に申し上げますと、あの物件は売却すべきかと存じます。維持費が一層かさんでおりますので。",
+      "en": "Honestly, I believe we should sell that property. The maintenance costs are mounting even more.",
+      "style": "Deputy responds with polite, deferential corporate Japanese"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。しかし最近この地域の不動産価格の下落が気になっていてな。",
+      "en": "Hmm. But I'm concerned about the recent drop in real estate prices in this area.",
+      "style": "Boss expresses thoughtful concern with a contemplative tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かに数軒先のビルも先月安値で売られたと聞いております。",
+      "en": "Indeed, I heard a building several doors down was sold cheaply last month too.",
+      "style": "Deputy provides supporting market intelligence formally"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "となると、今は売らない方が賢明か。居住用に改装する案はどうだ？",
+      "en": "In that case, perhaps it's wiser not to sell now. What about converting it for residential use?",
+      "style": "Boss pivots to consider alternative strategies decisively"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは面白い発想です。社員向けの住まいとして提供すれば、福利厚生にもなりますね。",
+      "en": "That's an interesting idea. Offering it as housing for employees would also serve as a benefit.",
+      "style": "Deputy enthusiastically affirms with strategic insight"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、来週までに改装費用と売却益の比較資料を用意してくれ。",
+      "en": "Good, prepare comparison materials on renovation costs versus sale proceeds by next week.",
+      "style": "Boss issues a clear directive with executive authority"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知いたしました。市場が回復するまで保有する選択肢も含めて検討いたします。",
+      "en": "Understood. I'll also consider the option of holding it until the market recovers.",
+      "style": "Deputy confirms the assignment with professional commitment"
+    }
+  ]
+}

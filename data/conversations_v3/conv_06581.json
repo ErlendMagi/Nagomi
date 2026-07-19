@@ -1,0 +1,86 @@
+{
+  "id": "conv_06581",
+  "context": "A mom and son chat",
+  "purpose": "Teach: この方/にくかっ/歩か/外さ/謝る/ムカ/トシ/探り",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "この方",
+    "にくかっ",
+    "歩か",
+    "外さ",
+    "謝る",
+    "ムカ",
+    "トシ",
+    "探り"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、この方、誰のお客さんなの?",
+      "en": "Mom, whose guest is this person?",
+      "style": "Curious, searching question. Light lift at the end. Small voice — not demanding, genuinely wondering. Eyes tracking from the person back to Mom's face.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。新しい玩具、遊びにくかったみたいね、翔くん。",
+      "en": "Mm. That new toy was hard for you to play with, wasn't it, Sho.",
+      "style": "Gentle, reassuring. Soft opener on the hum. Warm — acknowledging without making it a big thing. Slight maternal tilt in the voice.",
+      "mood": "gentle"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "雨だから、今日は、お外を歩かない方がいいね。",
+      "en": "With the rain today, it's better if we don't go outside, don't you think.",
+      "style": "Practical suggestion, not an order. Calm, matter-of-fact tone. Light warmth underneath — she's deciding aloud with him, not laying down the law.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。マスク、外さないようにしてる、ちゃんと。",
+      "en": "Yeah. I'm keeping my mask on properly.",
+      "style": "Small boy trying to prove he's being responsible. Earnest, measured delivery. A little self-conscious — he wants her to know he's doing this right.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達に、ちゃんと謝るのよ、明日。",
+      "en": "You need to apologize properly to your friend tomorrow.",
+      "style": "Clear, maternal firmness. Not harsh — the tone of someone who expects better because she knows he can do better. Brief pause before the final word for weight.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ぼく、お兄ちゃんに、いつもムカついちゃう。",
+      "en": "I'm always getting frustrated with my big brother.",
+      "style": "Complaint tumbling out. Pouty but genuine — not theatrical, real frustration. Small, quick delivery. Trailing slight whine on the last word.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "トシくんは、優しいお友達ね、翔くんの。",
+      "en": "Toshi is a kind friend of yours, isn't he.",
+      "style": "Gentle redirect. Warm but purposeful — she's reminding him of something. Soft opening, slight emphasis on 'kind' without being heavy-handed.",
+      "mood": "warm_redirecting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おもちゃ箱、奥まで、探り探り、見たよ。",
+      "en": "I looked way deep in the toy box, feeling around.",
+      "style": "Animated, excited little-boy energy. Quick pace. Hands describing the searching motion in his voice. Slightly breathless — he's showing her what he did.",
+      "mood": "animated_curious"
+    }
+  ]
+}

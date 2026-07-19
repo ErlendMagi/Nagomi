@@ -1,0 +1,86 @@
+{
+  "id": "conv_06172",
+  "context": "A police officer briefs about a search operation",
+  "purpose": "Teach: 鳴き声/獲物/一手/一等/部材/校庭/自販機/大河",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鳴き声",
+    "獲物",
+    "一手",
+    "一等",
+    "部材",
+    "校庭",
+    "自販機",
+    "大河"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_310 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "山中で行方不明者、犬の鳴き声が手がかりです。",
+      "en": "We have a missing person in the mountains. A dog's barking is our lead.",
+      "style": "Measured, official opening. Level voice, no urgency in the delivery — the quiet confidence of someone who has done this before. Precise pace. Ground the listener in the facts first.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "動物が獲物を持っていた現場、印象的でした。",
+      "en": "The site where the animal had prey — that was striking.",
+      "style": "Thoughtful, slightly uncertain tone. Searching for the right way to phrase something he's still processing. Soft approach, genuine curiosity. Pause before the dash, like he's turning it over in his mind.",
+      "mood": "intrigued"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。一手の捜査ミス、致命的になります。",
+      "en": "Yes. A single misstep in the investigation could be fatal.",
+      "style": "Quiet gravity. Slow, deliberate pacing on the weight of that word — 'fatal.' Not dramatic, but clear. The voice of someone who has seen how small errors compound. Steady eye contact implied.",
+      "mood": "gravitas"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一等地の山小屋、捜索拠点でしたよね。",
+      "en": "The mountain hut in that prime location — that was your search base, wasn't it?",
+      "style": "Gentle probe, not accusation. Building on what was said before. Ren testing his understanding out loud, checking details. Warm tone underneath, respectful of the officer's expertise.",
+      "mood": "piecing_together"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "資材の部材、山岳救助隊が運搬しました。",
+      "en": "The equipment and materials — the mountain rescue team transported those.",
+      "style": "Confirming the chain of responsibility. Factual, professional tone. A brief nod embedded in the voice. Not fast, not slow — the pace of someone moving through a clear sequence.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "校庭ヘリポートも、緊急時に活用されますね。",
+      "en": "The school's helipad — that gets used in emergencies too, doesn't it?",
+      "style": "Connecting dots aloud. Ren's voice has a note of quiet realization. Not quite a question, more an offering of understanding. Respectful of Takeda's knowledge but thinking alongside him.",
+      "mood": "realizing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域の自販機、警察と連携で防犯機能、追加中です。",
+      "en": "Yes. We're working with the local vending machine operators — adding crime-prevention features through police coordination.",
+      "style": "Update-style delivery. Brisk but not curt. Professional pride just beneath the surface — a small system working as intended. Voice opens on 'coordination,' like it's worth noting that it exists at all.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大河ドラマの撮影地、警備、特別配慮ですね。",
+      "en": "The Taiga drama location — that requires special security considerations.",
+      "style": "Closing observation, almost reflective. Ren acknowledging the layers of what search-and-rescue involves in a populated region. Gentle, not demanding an answer. Slight trailing-off, like he's learning as they talk.",
+      "mood": "observant"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04026",
+  "context": "A student journalist profiles a senior software engineer about hardware",
+  "purpose": "Teach: メモリ/スピーカー/計測/走行/適応/バイオ/有機/コア",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリ",
+    "スピーカー",
+    "計測",
+    "走行",
+    "適応",
+    "バイオ",
+    "有機",
+    "コア"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日は取材に応じていただきありがとうございます。新しいバイオセンサー搭載のデバイスについて伺えますか。",
+      "en": "Thank you for agreeing to the interview today. May I ask about the new device equipped with biosensors?",
+      "style": "Polite student journalist opening a formal hardware interview"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんです。この製品はマルチコアのプロセッサと大容量メモリを組み合わせて、リアルタイム処理を実現しています。",
+      "en": "Of course. This product combines a multi-core processor with large memory to enable real-time processing.",
+      "style": "Senior engineer explaining technical architecture in measured tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。スピーカーや計測センサーも内蔵されていると聞きましたが、用途は何ですか。",
+      "en": "I see. I heard speakers and measurement sensors are also built in. What are they used for?",
+      "style": "Curious follow-up question seeking practical use cases clearly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "主に車両の走行データを計測し、運転手の状態に応じて音声で警告を出すんです。",
+      "en": "Mainly it measures vehicle driving data and issues voice warnings according to the driver's condition.",
+      "style": "Detailed technical answer about safety application scenarios concretely"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "環境への適応も重要だと思いますが、有機素材なども使われているんでしょうか。",
+      "en": "I think environmental adaptation is also important. Are organic materials being used too?",
+      "style": "Thoughtful question linking sustainability with engineering design choices"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、筐体の一部には有機素材を採用しており、温度変化への適応性も高めています。",
+      "en": "Yes, we've adopted organic materials for part of the casing, also improving adaptability to temperature changes.",
+      "style": "Confirming environmental design philosophy with concrete engineering details"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、今後のバイオ分野との連携について何か計画はありますか。",
+      "en": "Lastly, do you have any plans for future collaboration with the biotech field?",
+      "style": "Wrapping up interview with forward-looking strategic question politely"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "医療機器メーカーと共同で、新しいコア技術の開発を進めているところです。",
+      "en": "We're currently advancing development of new core technology jointly with a medical device manufacturer.",
+      "style": "Closing remark hinting at future innovation in collaborative tone"
+    }
+  ]
+}

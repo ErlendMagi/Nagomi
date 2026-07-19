@@ -1,0 +1,76 @@
+{
+  "id": "conv_01128",
+  "context": "Kenji and Ren have a business meeting about Ren's students.",
+  "purpose": "senior-alum business-meeting exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "一緒",
+    "指導",
+    "頑張る",
+    "相談"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_057)",
+    "generated_at": "2026-05-27T04:03:15.311Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "レン君、相談、いいですか？",
+      "en": "Ren-kun, do you have a moment? I'd like to ask your advice.",
+      "style": "Warm, respectful approach. Soft knock on the door of the request. Not demanding — asking permission first. Steady, genuine tone underneath the formal courtesy.",
+      "mood": "sincere_warmth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、何でも、伺います。",
+      "en": "Of course. Please, go ahead.",
+      "style": "Immediate, open response. No hesitation. Quiet attentiveness — the kind that says 'I'm here, really listening.' Gentle and ready.",
+      "mood": "receptive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お前の生徒、今年、五人、来てほしい。",
+      "en": "I was hoping to bring five of your students in this year. If that works.",
+      "style": "Careful framing — this matters, and he knows Ren will understand why. Not a demand but a request. Slight lean forward in the voice, hopeful but not presuming.",
+      "mood": "hopeful_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか、嬉しい。",
+      "en": "Really? That's wonderful.",
+      "style": "Genuine surprise and pleasure. The words come quickly, a small lift in his voice. Not performed — real delight at being trusted with this.",
+      "mood": "pleased_honored"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お前の指導、信頼してる。",
+      "en": "I trust your guidance completely.",
+      "style": "Deliberate and quiet. Each word carries weight. Not flattery — this is earned trust being named aloud. A moment of vulnerability in the sincerity.",
+      "mood": "affirming_tender"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感謝、一緒に、頑張ります。",
+      "en": "Thank you. We'll do our best together.",
+      "style": "Quiet commitment. The 'together' lands softly — he's not carrying this alone and he hears that. Steady, grateful, ready to move forward.",
+      "mood": "grateful_resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "頼んだ、本当に。",
+      "en": "I'm counting on you. Truly.",
+      "style": "Closing note of genuine trust. Slightly slower tempo. The repetition of 'truly' isn't doubling down — it's him letting the weight of his confidence settle between them.",
+      "mood": "trusting_warm"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08312",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 異国/もとづい/予知/相反/強硬/残虐/妊婦/修道院",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "異国",
+    "もとづい",
+    "予知",
+    "相反",
+    "強硬",
+    "残虐",
+    "妊婦",
+    "修道院"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_417 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者は異国出身者だと、警察、把握ですね",
+      "en": "We understand the suspect in this case is a foreign national.",
+      "style": "Measured, professional opening. Level voice, even delivery. Straightforward statement of fact without inflection. The cadence of someone reading a briefing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、証拠にもとづいた捜査を進めております",
+      "en": "Our investigation is proceeding based on evidence.",
+      "style": "Steady, formal tone. Light pause between clauses. Clear enunciation on 'evidence.' Bureaucratic rhythm without coldness—this is protocol being followed correctly.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察が地震予知能力を持つわけではありません",
+      "en": "That said, the police don't have the ability to predict earthquakes.",
+      "style": "Quiet, almost deflating observation. Gentle irony underneath—not mocking, just stating something true that needs saying. Slight hesitation, like offering a necessary correction to a friend.",
+      "mood": "gently_corrective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、相反する証言を慎重に検討しております",
+      "en": "We're examining the conflicting testimonies with appropriate care.",
+      "style": "Calm, deliberate cadence. Weight on 'conflicting' and 'appropriate.' The tone of someone who has heard everything and is taking nothing for granted. Professional reassurance.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、強硬な対応を控えております",
+      "en": "The police have shown restraint rather than escalating this situation.",
+      "style": "Thoughtful, almost conciliatory. Soft opening. Acknowledgment in the voice—he's crediting them for something. Steady, not defensive. A small truth offered quietly.",
+      "mood": "acknowledging"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、残虐な犯行に断固対応します",
+      "en": "We will respond firmly to crimes of this severity.",
+      "style": "Shift in tone—stronger, more authoritative. Crisp attack on 'firmly.' Not aggressive, but no apology in the voice. The resolve of someone stating what must happen.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、妊婦の被害者を警察、最優先で保護されたんですね",
+      "en": "It's clear the pregnant victim was your highest priority to protect.",
+      "style": "Softened recognition. Respectful, almost relieved tone. Not questioning—affirming. Pause before 'highest priority,' like he's acknowledging something he needed to see confirmed.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、修道院敷地内での事件を捜査いたしました",
+      "en": "We conducted our investigation of the incident on the monastery grounds.",
+      "style": "Closing formality. Composed, almost reflective. Slower pace on 'monastery grounds'—the weight of location. This is the final statement: methodical, complete, settled.",
+      "mood": "composed"
+    }
+  ]
+}

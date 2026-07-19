@@ -1,0 +1,78 @@
+{
+  "id": "conv_05234",
+  "context": "A uni student interviews a retired craftsman at home",
+  "purpose": "Teach: 救急車/アトピー/大工/言説/無力/暗闇/筆頭/狂気",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "救急車",
+    "アトピー",
+    "大工",
+    "言説",
+    "無力",
+    "暗闇",
+    "筆頭",
+    "狂気"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。早速ですが、ヒロシさんは長年大工をされていたんですよね？",
+      "en": "Thank you for your time today. So, Hiroshi-san, you worked as a carpenter for many years, right?",
+      "style": "Polite university student, formal interview opening, slightly nervous"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、五十年以上な。若い頃は職人の筆頭として、大きな現場をいくつも任されたもんだ。",
+      "en": "Ah, over fifty years. When I was young, as the lead craftsman, I was put in charge of many big sites.",
+      "style": "Gruff elderly male, proud reminiscing tone, deliberate pace"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "筆頭職人ですか、すごいですね。お仕事で印象に残っている出来事はありますか？",
+      "en": "Lead craftsman, that's impressive. Are there any incidents from your work that stuck with you?",
+      "style": "Curious student follow-up, respectful and engaged"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだな……一度、若い弟子が梁から落ちて、救急車を呼んだことがあった。あの時ばかりは自分の無力さを痛感したよ。",
+      "en": "Well... once a young apprentice fell off a beam and we had to call an ambulance. That time I really felt my own powerlessness.",
+      "style": "Somber elder recalling deep regret, voice softening noticeably with age"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは辛い経験でしたね……。ちなみに、職人の世界には根性論みたいな言説も多いと聞きますが、実際はどうでしたか？",
+      "en": "That must have been hard... By the way, I've heard there's a lot of discourse about willpower in the craftsman world. How was it really?",
+      "style": "Sympathetic transition with gentle academic curiosity returning slowly"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ふん、根性で全部解決するなんて狂気の沙汰だよ。徹夜続きで暗闇の中で釘を打つようなことを美徳にしちゃいかん。",
+      "en": "Hmph, thinking willpower solves everything is sheer madness. We shouldn't romanticize hammering nails in the dark after all-nighters.",
+      "style": "Blunt grandfatherly criticism, dismissive snort, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、現場のリアルな声ですね。最後に、健康面で気をつけていることはありますか？",
+      "en": "I see, that's the real voice from the field. Lastly, is there anything you watch out for health-wise?",
+      "style": "Wrapping up interview, gentle pivot to softer topic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "木の粉でアトピーが悪化する弟子もいたから、防塵は大事だな。若い君も体は大切にしなさいよ。",
+      "en": "Some apprentices had their atopic dermatitis flare up from wood dust, so dust protection is important. You young folks should take care of your bodies too.",
+      "style": "Warm closing advice, paternal warmth surfacing"
+    }
+  ]
+}

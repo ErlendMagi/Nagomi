@@ -1,0 +1,78 @@
+{
+  "id": "conv_03608",
+  "context": "Manager interviews a job applicant about motivation",
+  "purpose": "Teach: 推薦/動機/狙い/論点/修行/健全/活発/平等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "推薦",
+    "動機",
+    "狙い",
+    "論点",
+    "修行",
+    "健全",
+    "活発",
+    "平等"
+  ],
+  "cast": [
+    "kenji_office",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_181 workflow w4qvryhxq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "本日は面接にお越しいただきありがとうございます。早速ですが、応募の動機を聞かせてください。",
+      "en": "Thank you for coming to the interview today. Let me start by asking about your motivation for applying.",
+      "style": "Formal, polite manager opening the interview with composed tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。大学の先生から推薦状をいただきまして、御社の事業に強く惹かれたのが一番の理由です。",
+      "en": "Yes. I received a letter of recommendation from my university professor, and I was strongly drawn to your company's business.",
+      "style": "Nervous but earnest young applicant speaking carefully and respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。では、あなたが考える弊社の事業の狙いとは何だと思いますか?",
+      "en": "I see. So what do you think is the aim of our company's business?",
+      "style": "Probing manager tone, testing the applicant's understanding thoughtfully."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "主要な論点は、健全な経営を保ちながら、地域社会にも貢献していくことだと考えております。",
+      "en": "I believe the main point is to contribute to the local community while maintaining sound management.",
+      "style": "Composed answer with measured pace, slightly rehearsed but sincere."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いい答えですね。社内の議論はかなり活発で、新人にも平等に発言の機会がありますよ。",
+      "en": "That's a good answer. Discussions inside the company are quite lively, and even newcomers get equal chances to speak.",
+      "style": "Warmer, encouraging manager voice, slightly relaxed and welcoming."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "それは嬉しいです。学生時代も部活で長く修行してきたので、意見を出すことには慣れています。",
+      "en": "That makes me happy. I trained hard in my club activities for a long time as a student, so I'm used to voicing opinions.",
+      "style": "Brightening, more confident tone as the conversation eases."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "頼もしいですね。最後に一つ、五年後の自分について、率直に教えてください。",
+      "en": "That's reassuring. One last thing — please tell me honestly about your vision of yourself five years from now.",
+      "style": "Measured, attentive manager closing in on the final question."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "現場で経験を積み、後輩にも信頼される存在になっていたいと、心から思っています。",
+      "en": "I sincerely hope to gain experience in the field and become someone my juniors can rely on.",
+      "style": "Warm, heartfelt closing answer with quiet determination."
+    }
+  ]
+}

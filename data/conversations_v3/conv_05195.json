@@ -1,0 +1,72 @@
+{
+  "id": "conv_05195",
+  "context": "A doctor explains an environmental health study to a teen",
+  "purpose": "Teach: 上院/出動/着陸/水素/銅/救出/昆虫/足跡",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "上院",
+    "出動",
+    "着陸",
+    "水素",
+    "銅",
+    "救出",
+    "昆虫",
+    "足跡"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は最近まとめた環境健康調査の話をしようか。上院議員の依頼で始まった大きなプロジェクトなんだ。",
+      "en": "Today let's talk about the environmental health study we recently compiled. It started as a big project commissioned by a senate member.",
+      "style": "Calm, professorial tone with a friendly, explanatory cadence aimed at a teenager."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、上院まで関わってるんですか?なんだか規模が大きすぎてピンとこないかも。",
+      "en": "Wow, even the senate is involved? The scale feels too huge for me to picture, honestly.",
+      "style": "Curious teen voice, slightly overwhelmed, casual upward inflection at the end."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "森に調査チームが緊急出動して、土壌の銅の濃度や水素イオン濃度を測ってきたんだよ。",
+      "en": "An investigation team made an emergency dispatch to the forest and measured things like copper levels and hydrogen ion concentration in the soil.",
+      "style": "Measured, informative delivery with clear emphasis on technical terms."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ヘリの着陸地点まで作ったって聞きました。そんなに深刻だったんですか?",
+      "en": "I heard they even built a helicopter landing site. Was it really that serious?",
+      "style": "Engaged teenage tone, leaning forward, voice rising with concern."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、昆虫の数が激減していてね。動物の救出活動と並行して原因を調べたんだ。",
+      "en": "Yes, insect populations had crashed dramatically. We investigated the causes in parallel with the animal rescue operations.",
+      "style": "Gentle but grave, slowing down to underline the severity of the findings."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "昆虫が減ると、めぐりめぐって人にも影響しますよね…。",
+      "en": "When insects disappear, it eventually circles back and affects humans too, right?",
+      "style": "Thoughtful teen reflection, voice softening as the implications sink in."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その通り。だから僕らがきちんと足跡を残して、次の世代に伝えていく必要があるんだよ。",
+      "en": "Exactly. That's why we have to leave a proper record and pass our findings on to the next generation.",
+      "style": "Warm, encouraging close, mentoring tone directed kindly at the young listener."
+    }
+  ]
+}

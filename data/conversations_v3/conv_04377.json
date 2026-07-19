@@ -1,0 +1,72 @@
+{
+  "id": "conv_04377",
+  "context": "A senior trains a new hire on formal documentation",
+  "purpose": "Teach: コンサルタント/コンセプト/アーカイブ/前述/特例/相違/宜しく/フロント",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンサルタント",
+    "コンセプト",
+    "アーカイブ",
+    "前述",
+    "特例",
+    "相違",
+    "宜しく",
+    "フロント"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日は文書作成の研修ですが、宜しくお願いします。まず、うちのコンセプトを理解してもらいたい。",
+      "en": "Today is the document training session, looking forward to working with you. First, I want you to understand our concept.",
+      "style": "Calm and welcoming, slightly formal senior voice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "宜しくお願いいたします。前任のコンサルタントの方が作られた資料を、もう拝見しました。",
+      "en": "Thank you in advance. I have already looked at the materials created by the previous consultant.",
+      "style": "Polite and eager, nervous junior tone speaking"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良いね。あの資料はアーカイブに残してあるから、いつでも参照できる。前述の通り、書式の統一が一番大事だ。",
+      "en": "Good. Those materials are kept in the archive, so you can refer to them anytime. As mentioned before, unifying the format is most important.",
+      "style": "Instructive and steady, mentoring tone, tone matching the moment with quiet honesty"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。社内文書と、フロントに出すお客様向けの文書では、書き方に相違がありますか。",
+      "en": "Understood. Is there a difference in writing style between internal documents and customer-facing documents at the front desk?",
+      "style": "Thoughtful and inquisitive, careful questioning tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "鋭い質問だ。基本は同じだが、対外文書は敬語をより丁寧に。たまに役員決裁の特例もあるから、その時は私に確認を。",
+      "en": "Sharp question. The basics are the same, but external documents require more polite language. Occasionally there are exceptional cases requiring executive approval, so check with me then.",
+      "style": "Approving and explanatory, warm mentor voice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "分かりました。締めの挨拶は、どのように書くのが適切でしょうか。",
+      "en": "Understood. How should I appropriately write the closing greeting?",
+      "style": "Respectful and attentive, junior asking guidance"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "「今後とも宜しくお願い申し上げます」が無難だ。困ったら遠慮なく聞いてくれ。一緒に頑張ろう。",
+      "en": "'We look forward to your continued support' is the safest choice. Don't hesitate to ask if you're stuck. Let's work hard together.",
+      "style": "Encouraging and warm, closing mentor tone"
+    }
+  ]
+}

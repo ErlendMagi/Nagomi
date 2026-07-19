@@ -1,0 +1,78 @@
+{
+  "id": "conv_03722",
+  "context": "Two same-cohort coworkers discuss inventory errors",
+  "purpose": "Teach: ボード/部下/発注/切り替え/エラー/同期/私立/志向",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボード",
+    "部下",
+    "発注",
+    "切り替え",
+    "エラー",
+    "同期",
+    "私立",
+    "志向"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_187 wdqeqmj99)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "ゆきさん、ちょっとホワイトボード見てくれる？また発注ミスのエラー表示が出てるんだよ。",
+      "en": "Yuki, can you check the whiteboard? Another order error is showing up again.",
+      "style": "Slightly stressed tone, asking a same-year coworker for a quick second opinion"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あ、本当だ。在庫データの同期がうまくいってないのかな。",
+      "en": "Oh, you're right. Maybe the inventory data sync isn't going through properly.",
+      "style": "Calm, analytical tone reviewing the board with a familiar colleague"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちの部下が画面の切り替えのタイミングを間違えたみたいで、二重発注になってる。",
+      "en": "It seems my junior mistimed the screen switch and ended up double-ordering.",
+      "style": "Apologetic and slightly embarrassed about a subordinate's mistake"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うわー、それは厳しいね。まあ、あんまり責めすぎないであげてね。",
+      "en": "Ouch, that's rough. Well, try not to be too hard on him, okay?",
+      "style": "Warm, frank tone speaking casually with a same-cohort colleague"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかってるよ。彼、私立の大学出たばかりで、まだ慣れてないしね。",
+      "en": "I know. He just came out of a private university and isn't used to things yet.",
+      "style": "Reflective, slightly defensive of the younger employee in a casual aside"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うちの上、効率志向の人ばっかりだから、新人には特に厳しく感じるよね。",
+      "en": "The bosses here are all the efficiency-minded type, so it feels especially harsh for newcomers.",
+      "style": "Sympathetic, slightly critical observation about the higher-ups in casual tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "とりあえず、僕がもう一度発注書を確認して、システムを再起動してみるよ。",
+      "en": "For now, I'll double-check the order form myself and try restarting the system.",
+      "style": "Resolved, taking responsibility as the senior on the task at hand"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、それがいいね。終わったらコーヒーでも飲みに行こう、気持ちの切り替えも大事だよ。",
+      "en": "Yeah, good plan. Let's grab coffee after — switching gears mentally matters too.",
+      "style": "Friendly, supportive close inviting a casual break together"
+    }
+  ]
+}

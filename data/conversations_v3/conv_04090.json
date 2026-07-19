@@ -1,0 +1,78 @@
+{
+  "id": "conv_04090",
+  "context": "A police officer briefs a student journalist about a tech-business case",
+  "purpose": "Teach: ベンチャー/パートナー/テクノロジー/投入/チャレンジ/アクション/上場/委託",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ベンチャー",
+    "パートナー",
+    "テクノロジー",
+    "投入",
+    "チャレンジ",
+    "アクション",
+    "上場",
+    "委託"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件は、急成長したベンチャー企業が関係している案件でね。",
+      "en": "This case involves a venture company that grew rapidly.",
+      "style": "Officer Takeda speaks in measured, formal briefing tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最新テクノロジーを扱っている会社、ということですか?",
+      "en": "I see. So a company dealing with cutting-edge technology?",
+      "style": "Ren responds with curious, polite student journalist tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そう。去年マザーズに上場したばかりで、海外のパートナー企業とも契約していた。",
+      "en": "Yes. They just listed on Mothers last year and had overseas partner contracts.",
+      "style": "Officer continues with factual, evidence-based explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "資金を一気に投入して、無理なチャレンジを重ねていた、と聞きました。",
+      "en": "I heard they poured in funds and kept taking reckless challenges.",
+      "style": "Ren shows he has done preliminary background research."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通り。さらに開発の一部を別会社に委託していて、そこから情報が漏れた疑いがある。",
+      "en": "Exactly. They outsourced part of development, and a leak likely came from there.",
+      "style": "Officer reveals key investigative detail in a measured way."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "では、警察として次にどんなアクションを取る予定でしょうか?",
+      "en": "So what action will the police take next?",
+      "style": "Ren asks the central question of his journalistic interview."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "まずは関係者の聴取だ。記事にする際は、捜査中の情報は伏せてもらいたい。",
+      "en": "First, we'll question those involved. Please withhold ongoing investigation details when writing.",
+      "style": "Officer closes with a firm but courteous professional request."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もちろんです。事実確認を最優先で進めます。ありがとうございました。",
+      "en": "Of course. I'll prioritize fact-checking. Thank you very much.",
+      "style": "Ren responds respectfully, affirming his journalistic responsibility."
+    }
+  ]
+}

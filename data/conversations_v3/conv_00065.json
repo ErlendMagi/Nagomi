@@ -1,0 +1,90 @@
+{
+  "id": "conv_00065",
+  "context": "Mei is home with a cold. The knock at the door is Mrs. Mori with a small pot of soup, uninvited and unstoppable.",
+  "purpose": "neighborhood care — Kansai warmth steamrollers Tokyo politeness",
+  "ambient": "apartment_hallway",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "元気",
+    "今",
+    "時間",
+    "ありがとう"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "メイちゃん、大丈夫？スープ持ってきた。",
+      "en": "Mei-chan — you alright? Brought soup.",
+      "style": "Loud, mid-volume Kansai. Already holding out the pot in the voice.",
+      "mood": "pouncing_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えっ…なんでわかったんですか？",
+      "en": "Wait… how did you know?",
+      "style": "Surprised, half-laughing. Voice slightly hoarse — with steady attentive presence.",
+      "mood": "hoarse_surprise"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "昨日、咳しとった声、聞こえた。",
+      "en": "Heard your coughing voice yesterday.",
+      "style": "Said as if it were obvious. The neighborhood-spy energy.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本当に、ありがとうございます。お時間…",
+      "en": "Really — thank you so much. Your time…",
+      "style": "A bow inside the voice. Politely worried about the imposition.",
+      "mood": "apologetic_grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ええの、ええの。寝なはれ、元気になるまで。",
+      "en": "It's fine, fine. Sleep — until you're well.",
+      "style": "Brisk dismissal of any guilt. Already turning to leave.",
+      "mood": "dismissive_kind"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい…本当にすみません。",
+      "en": "Yes… really, I'm sorry.",
+      "style": "Half-tear in the voice. The unexpected care landing.",
+      "mood": "landing_care"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "謝らんでええって。今、休む時間。",
+      "en": "No need to apologise. It's rest-time, now.",
+      "style": "A small finger-wag in the voice. Affectionate.",
+      "mood": "affectionate_scolding"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます…本当に。",
+      "en": "Thank you… truly.",
+      "style": "A small grateful exhale. Voice softer than the first thank-you.",
+      "mood": "softer_thanks"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "また明日、見にくるわ。",
+      "en": "I'll check on you tomorrow.",
+      "style": "A small claim and a small promise. Steps back from the door in the voice.",
+      "mood": "small_claim"
+    }
+  ]
+}

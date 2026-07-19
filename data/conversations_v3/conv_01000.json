@@ -1,0 +1,76 @@
+{
+  "id": "conv_01000",
+  "context": "Hiroshi and Kenji exchange new-year wishes.",
+  "purpose": "boss-subordinate new-year exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "新年",
+    "一緒",
+    "頑張る",
+    "会社",
+    "感謝"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、新年、おめでとう。",
+      "en": "Kenji. Happy New Year.",
+      "style": "Warm and steady. Eye contact level. Opens with his name like a greeting between people who respect each other. No performance — just the certainty of someone used to being heard.",
+      "mood": "warm_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おめでとうございます、部長。",
+      "en": "Happy New Year, Boss.",
+      "style": "Genuine warmth meeting respect. Slight bow in the voice — not stiff, but the formality that comes naturally when you actually like someone. Open, easy delivery.",
+      "mood": "sincere_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今年も、よろしく頼む。",
+      "en": "I'm counting on you this year too.",
+      "style": "Slight lean forward in the tone. A small weight to 「頼む」 — not pressure, but the real ask underneath. Composed, clear. The confidence of someone who knows what he's asking of.",
+      "mood": "trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、一緒に、頑張ります。",
+      "en": "Yes. Together, I'll give it my all.",
+      "style": "Quiet conviction. Takes the weight. Steady pace, no rush. The kind of sincerity that doesn't need to perform — just meets the boss's steadiness with his own.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会社、お前次第だ。",
+      "en": "The company depends on people like you.",
+      "style": "Flatly direct. Not a compliment wrapped in flattery — just factual. A small pause before delivery. The firmness of a man who doesn't say what he doesn't mean.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "光栄、本当に、感謝です。",
+      "en": "That's an honor. Thank you, truly.",
+      "style": "Vulnerable beneath the formality. A small intake of breath before starting. Slow, genuine. The moment where he really feels it — not performing gratitude but actually receiving it.",
+      "mood": "grateful_humbled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "期待してる、今年も。",
+      "en": "I'm counting on you this year too.",
+      "style": "Closing note. Steady, clear, no doubt in it. A small nod in the voice. The kind of thing you remember because he doesn't say it unless he means it.",
+      "mood": "trusting_expectant"
+    }
+  ]
+}

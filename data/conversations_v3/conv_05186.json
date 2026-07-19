@@ -1,0 +1,78 @@
+{
+  "id": "conv_05186",
+  "context": "A boss reviews a quarterly returns dashboard with his manager",
+  "purpose": "Teach: 入金/返品/善意/純正/上旬/室長/命題/広範",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "入金",
+    "返品",
+    "善意",
+    "純正",
+    "上旬",
+    "室長",
+    "命題",
+    "広範"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "室長、四月上旬の返品データはまとまりましたか。",
+      "en": "Section Chief, is the early-April returns data ready?",
+      "style": "Direct opening question from boss reviewing quarterly numbers with manager."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、主要カテゴリの数字を広範に集計して載せております。",
+      "en": "Yes, I've broadly compiled the figures for the main categories.",
+      "style": "Polite professional response presenting prepared dashboard materials clearly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "返品率がやけに高いな。純正部品の不具合か?",
+      "en": "The return rate is unusually high. Is it a genuine-parts defect?",
+      "style": "Sharp probing follow-up showing concern over the spiking numbers."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "純正の方は問題なく、入金処理の遅延が一因のようです。",
+      "en": "The genuine parts are fine; delayed payment processing seems partly to blame.",
+      "style": "Measured analytical reply pointing to the root cause clearly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "入金確認の仕組み改善は、うちの古い命題だな。",
+      "en": "Improving the payment-confirmation system is a long-running issue for us.",
+      "style": "Wry resigned remark acknowledging a long-standing structural workplace issue."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、お客様の多くは善意で待ってくださっているので、丁寧に対応すべきかと。",
+      "en": "Yes, most customers are waiting in good faith, so we should respond carefully.",
+      "style": "Cautious advisory tone urging consideration for patient blameless customers."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。来月上旬までに改善案を出してくれ。",
+      "en": "Understood. Submit an improvement proposal by early next month.",
+      "style": "Decisive closing instruction setting a concrete deadline for action."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。経理と連携して進めます。",
+      "en": "Understood. I'll proceed in coordination with accounting.",
+      "style": "Crisp acknowledgement confirming next steps with the relevant teams."
+    }
+  ]
+}

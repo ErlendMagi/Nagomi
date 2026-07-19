@@ -1,0 +1,75 @@
+{
+  "id": "conv_02953",
+  "context": "Kenji teaches Ren to set up a device.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (コード/接続/操作/構築/装置) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コード",
+    "接続",
+    "操作",
+    "構築",
+    "装置"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この装置、どう動かすんですか?",
+      "en": "How do I operate this device?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、コードを本体に接続して下さい。",
+      "en": "First, connect the cord to the main unit.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "接続したら、操作はどうしますか?",
+      "en": "After connecting, how do I operate it?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "画面の操作は、とても簡単ですよ。",
+      "en": "The screen operation is very simple.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "システムは、誰が構築したんですか?",
+      "en": "Who built the system?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社内のチームが、構築しました。",
+      "en": "An in-house team built it.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "コードの接続、できました!",
+      "en": "I connected the cord!",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "装置の操作も、すぐ慣れますよ。",
+      "en": "You'll quickly get used to operating the device.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

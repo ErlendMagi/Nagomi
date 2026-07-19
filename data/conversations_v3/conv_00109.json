@@ -1,0 +1,98 @@
+{
+  "id": "conv_00109",
+  "context": "A koban late afternoon. Mei has walked in tearful but composed — her wallet was stolen on the train. Takeda gets her seated.",
+  "purpose": "small theft report — composed citizen, careful officer",
+  "ambient": "police_box",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "すみません",
+    "どこ",
+    "ない",
+    "心配"
+  ],
+  "cast": [
+    "takeda_officer",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "すみません…財布、なくしました。",
+      "en": "Excuse me… I've lost my wallet.",
+      "style": "Composed but slightly tear-edged voice — with steady attentive presence.",
+      "mood": "composed_edge"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらへどうぞ。座って、まず。",
+      "en": "Come this way. Sit, first.",
+      "style": "A small kind direction. Calm professional.",
+      "mood": "calm_direction"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "電車の中で、たぶん。本当にすみません。",
+      "en": "On the train — probably. Truly, I'm sorry.",
+      "style": "A reflexive Japanese apology. Voice catches.",
+      "mood": "reflexive_catch"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "謝らないでください。何時頃、どこの線でしたか。",
+      "en": "Please don't apologise. About what time, which line?",
+      "style": "Plain professional questions, calm tone — no rush in the delivery.",
+      "mood": "plain_calm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "一時頃、山手線でした。",
+      "en": "Around one o'clock, on the Yamanote line.",
+      "style": "A small careful answer. Voice steadying.",
+      "mood": "careful_steady"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当に、心配ですよね。今、確認します。",
+      "en": "Truly — it's worrying. I'll check now.",
+      "style": "A small validation. Pen in motion in the voice.",
+      "mood": "validating_motion"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "お時間取らせて、すみません。",
+      "en": "Sorry to take up your time.",
+      "style": "A small bow inside the voice. Polite.",
+      "mood": "polite_bow"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そのために、ここにいますから。",
+      "en": "That's exactly what I'm here for.",
+      "style": "A small warm professional line. Real.",
+      "mood": "real_warm_pro"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。本当に。",
+      "en": "Thank you. Truly.",
+      "style": "A real small catch. Eyes wet.",
+      "mood": "real_catch"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫。一緒に、ちゃんとやりましょう。",
+      "en": "It's alright. We'll handle this together, properly.",
+      "style": "A small grounded reassurance — voice carries the moment fully.",
+      "mood": "grounded_reassure"
+    }
+  ]
+}

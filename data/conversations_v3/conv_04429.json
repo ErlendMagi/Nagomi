@@ -1,0 +1,78 @@
+{
+  "id": "conv_04429",
+  "context": "A teacher walks a teen through a unit-conversion problem",
+  "purpose": "Teach: 実用/センチ/未満/ヵ月/インチ/記号/満載/ポンド",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "実用",
+    "センチ",
+    "未満",
+    "ヵ月",
+    "インチ",
+    "記号",
+    "満載",
+    "ポンド"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日は単位換算をやろう。実用的な計算だから、絶対に覚えてね。",
+      "en": "Today we'll do unit conversion. It's a practical calculation, so be sure to remember it.",
+      "style": "Calm, encouraging teacher tone with gentle authority."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、教科書がインチとかポンドの問題で満載なんですけど…",
+      "en": "Teacher, the textbook is packed with problems about inches and pounds...",
+      "style": "Slightly whiny teenage complaint, casual classroom voice."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう、英語圏の単位ね。一インチは約2.54センチって覚えておくと便利よ。",
+      "en": "Right, the English-speaking countries' units. Remembering that one inch is about 2.54 centimeters is useful.",
+      "style": "Patient explanatory tone, clear pronunciation of numbers."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ十インチ未満のタブレットって、何センチくらいになりますか?",
+      "en": "Then a tablet under ten inches, about how many centimeters would that be?",
+      "style": "Curious teenage question, leaning forward with interest."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい質問。25.4センチ未満ってことになるわね。記号で書くと「<」を使うのよ。",
+      "en": "Good question. It comes out to under 25.4 centimeters. When you write it with a symbol, you use \"<\".",
+      "style": "Pleased teacher voice, slightly brighter tone on the praise."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど!じゃあポンドはどうなるんですか?",
+      "en": "I see! Then what about pounds?",
+      "style": "Energetic understanding, genuine curiosity rising quickly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一ポンドは約453グラム。三ヵ月くらい毎日練習すれば、自然に頭に入るわよ。",
+      "en": "One pound is about 453 grams. If you practice every day for about three months, it'll naturally stick in your head.",
+      "style": "Warm, motivating advice with steady measured pace."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "三ヵ月か…記号と数字、絶対マスターします!",
+      "en": "Three months, huh... I'll definitely master the symbols and numbers!",
+      "style": "Determined teenage resolve, slightly dramatic enthusiasm rising."
+    }
+  ]
+}

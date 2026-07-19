@@ -1,0 +1,78 @@
+{
+  "id": "conv_03578",
+  "context": "A doctor and a student discuss biology terms and reference dictionaries",
+  "purpose": "Teach: 人工/地下/地上/耐え/苦笑/辞典/ペット/ヒト",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "人工",
+    "地下",
+    "地上",
+    "耐え",
+    "苦笑",
+    "辞典",
+    "ペット",
+    "ヒト"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_179 workflow wf3gz1m2k)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、生物の宿題で「ヒト」ってカタカナで書く理由がわからなくて…",
+      "en": "Doctor, for my biology homework, I don't get why 'hito' is written in katakana.",
+      "style": "Polite teen asking with curious, slightly puzzled tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、生物学では種としてのヒトを指すときカタカナを使うんですよ。普通の辞典にも載っていますよ。",
+      "en": "Ah, in biology katakana is used when referring to humans as a species. It's even in a regular dictionary.",
+      "style": "Calm, instructive medical professional explaining gently"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "辞典で調べたけど、難しい言葉が多くて頭がついていかないんです。",
+      "en": "I looked it up in a dictionary, but there were so many hard words my brain couldn't keep up.",
+      "style": "Honest teen complaint, mildly frustrated and casual"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ふふ、それは苦笑するしかないですね。専門用語は地下迷路みたいに繋がっていますから。",
+      "en": "Heh, all I can do is smile wryly at that. Technical terms are connected like an underground maze.",
+      "style": "Doctor with a soft, wry chuckle and metaphor"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "地下迷路!たしかに、地上の言葉とは全然ちがう世界ですよね。",
+      "en": "An underground maze! Really, it's a totally different world from above-ground vocabulary.",
+      "style": "Teen enthusiastically picking up the metaphor, animated"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうそう。最近は人工知能が用語を解説してくれますが、頼りすぎるのも考えものですよ。",
+      "en": "Exactly. These days AI explains terminology, but relying on it too much is questionable too.",
+      "style": "Thoughtful doctor offering balanced, mild caution"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかります。私、暗記に耐えられなくて、つい家のペットに話しかけちゃうんです。",
+      "en": "I get it. I can't stand memorizing, so I end up talking to my pet at home.",
+      "style": "Sheepish teen confession with light self-deprecating humor"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それも立派な勉強法ですよ。声に出すと、辞典の言葉も自分のものになりますから。",
+      "en": "That's a fine study method too. Saying things aloud makes dictionary words your own.",
+      "style": "Warm, encouraging doctor validating the student kindly"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06231",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 通りすがり/引っかかっ/見逃す/警部/一目瞭然/閉ざさ/見抜く/難題",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通りすがり",
+    "引っかかっ",
+    "見逃す",
+    "警部",
+    "一目瞭然",
+    "閉ざさ",
+    "見抜く",
+    "難題"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_313 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、通りすがりの目撃者、貴重な証言、得ました。",
+      "en": "We obtained valuable testimony from a passing witness in this case.",
+      "style": "Even, professional delivery. Measured pace. The tone of someone reporting fact without drama. Clear enunciation on key details.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、過去にも別件で引っかかったことが、あるんですね。",
+      "en": "So the suspect has been picked up before on another case, then?",
+      "style": "Polite curiosity. Slight uptick at the end like a genuine question. Leaning in to listen. Respectful but engaged.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。証拠を見逃すミス、許されません。",
+      "en": "Yes. Missing evidence is not an option we can accept.",
+      "style": "Precise, almost clipped delivery. Weight on each phrase. The voice of someone for whom standards are non-negotiable, but not cold about it.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警部、捜査指揮、丁寧ですね。",
+      "en": "Inspector, you handle the investigation direction quite carefully.",
+      "style": "Genuine observation, not flattery. Soft respect underneath. A slight pause before speaking, like he's noticed something true and wants to say it right.",
+      "mood": "respectful_observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。動機、一目瞭然の事案です。",
+      "en": "Yes. This case — the motive is straightforward.",
+      "style": "Declarative, confident. A short breath between sentences. The certainty of someone who has seen enough to recognize a pattern.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者宅、長く閉ざされた窓、ありましたよね。",
+      "en": "The victim's house had those long-shuttered windows, didn't it?",
+      "style": "Thoughtful, trailing slightly upward. He's retrieving a detail from memory and testing its importance. Tentative but not uncertain.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。狡猾な手口、見抜く力が、警察の使命です。",
+      "en": "Yes. Reading cunning methods — that's the essence of police work.",
+      "style": "Firm, philosophical weight. Slow deliberate pace. The voice of someone stating something fundamental about duty and skill. Quiet conviction.",
+      "mood": "grounded_firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "未解決の難題、まだ残っていますか。",
+      "en": "Are there still unsolved pieces remaining?",
+      "style": "Measured, thoughtful close. Quiet openness in the question. Not pressing, but genuinely asking. The sense of someone thinking through a problem aloud.",
+      "mood": "contemplative"
+    }
+  ]
+}

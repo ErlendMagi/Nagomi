@@ -1,0 +1,154 @@
+{
+  "id": "conv_00151",
+  "context": "Saturday afternoon, the kitchen table. Ryosuke wants to know how school is really going for his teenage son Riku, who has been quieter than usual lately.",
+  "purpose": "father-son check-in — careful navigation of teenage privacy and parental concern",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "最近",
+    "別に",
+    "勉強",
+    "友達",
+    "心配"
+  ],
+  "cast": [
+    "ryosuke_dad",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "リク、最近学校どう？",
+      "en": "Riku, how's school lately?",
+      "style": "Steady father warmth, careful casualness in the opener, respect for teenage space woven into the question.",
+      "mood": "careful-casual"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "別に、普通。",
+      "en": "Eh, normal.",
+      "style": "Standard teen non-answer, low flat delivery, eyes-elsewhere energy carried entirely through the brief tone.",
+      "mood": "closed-off"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "普通か。テストとかは？",
+      "en": "Normal, huh. What about tests and such?",
+      "style": "Patient father acknowledgment, slight gentle probe, no pressure in the follow-up just steady interest.",
+      "mood": "patient-probing"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "まあまあ。数学はちょっとやばいかも。",
+      "en": "So-so. Math might be a bit rough.",
+      "style": "Reluctant teen admission cracking through, dropped tone on 「やばい」, real concern beneath the casual register.",
+      "mood": "reluctantly-admitting"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "やばいって、どんくらい？",
+      "en": "Rough — how rough?",
+      "style": "Calm father probing, dropping into his son's register slightly to meet him there, gentle non-judgmental tone.",
+      "mood": "meeting-him"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "前より下がってる。勉強しても入ってこない。",
+      "en": "It dropped from before. Even when I study it doesn't go in.",
+      "style": "Teen frustration leaking through, voice tightening on 「入ってこない」, real defeat under the casual surface.",
+      "mood": "frustrated-honest"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうか。何が一番きつい？",
+      "en": "I see. What's the hardest part?",
+      "style": "Father moving toward the problem carefully, soft pivot to specifics, room to answer without judgment provided.",
+      "mood": "carefully-moving-in"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "関数のとこ。授業聞いてもよくわかんない。",
+      "en": "The functions part. Even listening in class I don't really get it.",
+      "style": "Teen specific confession, slight relief in being able to name it, voice loosening as he describes the actual problem.",
+      "mood": "specifying-relieved"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "先生に聞いてみた？",
+      "en": "Have you tried asking the teacher?",
+      "style": "Practical father suggestion, no shame attached to the question, framed as a simple option not a directive.",
+      "mood": "practical-suggesting"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "聞きづらくて…。",
+      "en": "It's hard to ask…",
+      "style": "Quiet teen vulnerability surfacing, trailing off honestly, the social difficulty real and unhidden in the tone.",
+      "mood": "vulnerable-honest"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかる。父さんも昔そうだった。",
+      "en": "I get it. I was like that too back then.",
+      "style": "Father memory-warm voice, dropping into shared experience, no lecture tone just genuine identification offered.",
+      "mood": "identifying"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "え、うそ。",
+      "en": "Wait, no way.",
+      "style": "Slight teen surprise breaking through, faint genuine interest in his father's past, the wall lowering a notch.",
+      "mood": "surprised-opening"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ほんと。今度一緒に見てみるか？",
+      "en": "Really. Want to look at it together sometime?",
+      "style": "Soft father offering, careful not to overstep, real interest in helping without making it a big deal.",
+      "mood": "offering-gentle"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…まあ、いいよ。",
+      "en": "…Yeah, alright.",
+      "style": "Reluctant teen acceptance with the relief showing through the gruff surface, small but real openness underneath.",
+      "mood": "relieved-gruff"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "友達とは変わりない？",
+      "en": "No changes with your friends?",
+      "style": "Light father transition, casual probe into the social side, careful gentleness preserved in the casual tone.",
+      "mood": "casual-checking"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん、そっちは大丈夫。",
+      "en": "Yeah, that side's fine.",
+      "style": "Teen quick reassurance, voice lighter on this answer, genuine ease coming through the brief response.",
+      "mood": "easy-reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そっか。心配しすぎちゃ悪いけど、何かあったら言って。",
+      "en": "Got it. I don't want to worry too much, but if anything comes up, tell me.",
+      "style": "Settled father warmth, the worry held in check but offered openly, ending on an invitation not a demand.",
+      "mood": "open-warm"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん…ありがと。",
+      "en": "Yeah… thanks.",
+      "style": "Quiet teen acknowledgment, slight pause before the thanks giving it weight, real appreciation showing through.",
+      "mood": "quietly-grateful"
+    }
+  ]
+}

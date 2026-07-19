@@ -1,0 +1,83 @@
+{
+  "id": "conv_00197",
+  "context": "Hina has wandered away from her mother in the train station and a kindly station attendant has brought her to Officer Takeda.",
+  "purpose": "civic kindness around a lost child — professional gentleness reassuring a small one",
+  "ambient": "station_concourse",
+  "sound_effects": [],
+  "target_vocab": [
+    "迷子",
+    "大丈夫",
+    "落ち着く",
+    "お母さん",
+    "一緒"
+  ],
+  "cast": [
+    "takeda_officer",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんにちは。怖くないからね、大丈夫。",
+      "en": "Hello. It's not scary, you're alright.",
+      "style": "Officer warm kneeling-down register, the child-tuned reassurance audible, soft real care threading throughout delivery.",
+      "mood": "gently-reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん…いない…。",
+      "en": "Mom… not here…",
+      "style": "High child wavering wet voice, the small wobbling fear audible, soft small distress threading throughout delivery.",
+      "mood": "tearfully-small"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "うん、お母さんね。すぐ呼ぶから、落ち着いて。",
+      "en": "Yes, your mother. I'll call her right away, so calm down.",
+      "style": "Officer steady warm professional kindness, the gentle adult-authority calming, soft real care threading throughout delivery.",
+      "mood": "steadily-warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ぼうし、ピンクの、お母さん…。",
+      "en": "Hat, pink, mom's…",
+      "style": "High child wobbling helpful detail, the trying-to-help-find-her audible, soft small bravery threading throughout delivery.",
+      "mood": "wobblingly-helpful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ピンクの帽子、いいね。教えてくれてありがとう。",
+      "en": "Pink hat — good. Thanks for telling me.",
+      "style": "Officer warm validation, the gentle praise for the useful information, soft real care threading throughout delivery.",
+      "mood": "warmly-validating"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…お水、欲しい。",
+      "en": "…I want water.",
+      "style": "High child small steadying voice, the slight calming audible in the request, soft small recovery threading throughout.",
+      "mood": "recovering-small"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、お水ね。一緒に待とう。",
+      "en": "Yes, water. Let's wait together.",
+      "style": "Officer warm steady continuation, the calm comforting presence audible, soft real care threading throughout delivery.",
+      "mood": "warmly-steady"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…うん。お巡りさん、ありがとう。",
+      "en": "…Yeah. Officer, thank you.",
+      "style": "High child small recovering politeness, the calmed gentleness audible, soft small earnest gratitude threading throughout delivery.",
+      "mood": "recoveringly-polite"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06453",
+  "context": "A doctor discusses public health",
+  "purpose": "Teach: 農協/アポ/故に/計り/交差/つかめ/生後/下流",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "農協",
+    "アポ",
+    "故に",
+    "計り",
+    "交差",
+    "つかめ",
+    "生後",
+    "下流"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_324 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、地域農協と連携、健康診断、進めています。",
+      "en": "Ren, we're moving forward with partnerships through the farm co-op on health screenings.",
+      "style": "Direct but warm. Clear opener, measured pace. Professional without distance. Eyes steady on Ren, inviting him in.",
+      "mood": "focused_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者、アポ取らずに来院する方も、多いんですね。",
+      "en": "So a lot of patients just show up without scheduling appointments first?",
+      "style": "Genuine curiosity, slightly surprised. Small lean forward. Respectful — he's noticing something about how this actually works. Not interrogating, absorbing.",
+      "mood": "curious_attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。慢性疾患、故に長期対応、必要です。",
+      "en": "Yes. Chronic conditions mean we need to sustain care over the long term.",
+      "style": "Patient, unhurried. She's explaining something she's explained before, but not wearily. A slight nod on the main point. Steady voice, no hurrying him to understand.",
+      "mood": "patient_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状、計りに掛けるの、医師の腕の見せ所ですね。",
+      "en": "So weighing symptoms against each other — that's where a doctor really has to earn their skill, isn't it?",
+      "style": "Testing the idea aloud, respectful but engaged. Slight hesitation before the observation, like he's checking if it's fair. Warm — not challenging her, admiring the complexity she handles.",
+      "mood": "admiring_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。多科の交差点で診療する総合医、貴重です。",
+      "en": "Yes. A general practitioner working across multiple specialties, at that intersection — that's invaluable.",
+      "style": "Affirmation with quiet weight. Brief pause before 'invaluable' — she means it. Not lecturing. Acknowledging something true that she lives with daily.",
+      "mood": "affirming_candid"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病気の本質、つかめない時、研究、続けますね。",
+      "en": "When you can't pin down what the illness actually is, that's when the research has to keep going, doesn't it?",
+      "style": "Thoughtful, almost gentle. Pacing slows slightly. He's realizing something about the weight of not-knowing. Respectful recognition of the difficulty she carries.",
+      "mood": "reverent_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。生後の発達障害、早期発見が肝心です。",
+      "en": "Yes. With developmental disorders showing up early in life, catching them soon makes all the difference.",
+      "style": "Clinical clarity, but not cold. A hint of urgency beneath — she knows what early detection prevents. Eyes steady. Fact and care layered together.",
+      "mood": "purposeful_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域医療の下流、過疎地への対応、課題ですね。",
+      "en": "And in the downstream parts of regional medicine — depopulating areas especially — that becomes a real challenge to solve.",
+      "style": "Reflective, looking inward. He's arrived at something hard and true. Slower pace, breath deeper. Not despairing, just — seeing the full shape of the problem. Trailing off slightly, inviting her agreement.",
+      "mood": "sobering_thoughtful"
+    }
+  ]
+}

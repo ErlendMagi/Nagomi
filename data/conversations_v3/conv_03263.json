@@ -1,0 +1,78 @@
+{
+  "id": "conv_03263",
+  "context": "Two colleagues assess a corporate client",
+  "purpose": "Profile a big client; teach 不動産/所有/証券/兆/金利/供給/請求/保証",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "不動産",
+    "所有",
+    "証券",
+    "兆",
+    "金利",
+    "供給",
+    "請求",
+    "保証"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あの企業、不動産を大量に所有してますね。",
+      "en": "That firm owns a huge amount of real estate.",
+      "style": "observant colleague noting the holdings, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、証券市場でも存在感があります。",
+      "en": "Yes, they’re prominent in the securities market too.",
+      "style": "informed colleague adding context, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "売上は一兆円を超えるとか。",
+      "en": "Their revenue reportedly tops a trillion yen.",
+      "style": "impressed colleague citing the figure, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "低金利のうちに設備投資を進めるようです。",
+      "en": "They seem to invest in equipment while rates are low.",
+      "style": "analytical colleague reading the strategy, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "部品の供給網も自社で持っているんですね。",
+      "en": "They even own their parts supply chain.",
+      "style": "colleague appreciating the integration, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "取引先への請求も、システムで一括処理です。",
+      "en": "Even client billing is batch-processed by system.",
+      "style": "colleague noting operational maturity, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "万一のときの保証はどうなってます？",
+      "en": "What about guarantees if something goes wrong?",
+      "style": "cautious colleague checking the risk, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "銀行が保証していますから、安心です。",
+      "en": "A bank backs the guarantee, so it’s safe.",
+      "style": "reassuring colleague closing the concern, spoken with a recognizable personal cadence"
+    }
+  ]
+}

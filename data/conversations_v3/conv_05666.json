@@ -1,0 +1,65 @@
+{
+  "id": "conv_05666",
+  "context": "A boss and his manager review market data",
+  "purpose": "Teach: 返答/内訳/値上がり/倍増/消耗/受給/心得/規律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返答",
+    "内訳",
+    "値上がり",
+    "倍増",
+    "消耗",
+    "受給",
+    "心得",
+    "規律"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "競合の値上がり、利益への影響、内訳を出せ。",
+      "en": "Competitor price increases. Break down the profit impact and specifics.",
+      "style": "Direct, clipped delivery. No warmth. Expects immediate comprehension and action. Sharp consonants on the key terms—crisp attack on each demand.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。コスト消耗が倍増する想定です。",
+      "en": "Yes. We're projecting our costs to double under these conditions.",
+      "style": "Measured, professional. Steady eye contact. Delivers the bad news plainly without hedging—respectful of the boss's time and intelligence. Even breath, no apology in the tone.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員会への返答、急ぐぞ。",
+      "en": "Get that ready for the board meeting. Now.",
+      "style": "Clipped urgency. Each word lands. Low register, quiet but absolute—no room for negotiation. The kind of command that makes you move before you think.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知。労務受給バランスも、規律を保ちつつ、見直します。",
+      "en": "Understood. I'll review the labor allocation too—maintaining standards while we adjust.",
+      "style": "Calm, capable. Speaking slightly faster to show readiness and efficiency without rushing. Reassuring in its steadiness—promising both speed and thoroughness.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "これまでの心得、忘れるな。",
+      "en": "Don't lose sight of what we've built here.",
+      "style": "Weighted, almost paternal. Slows slightly on the main clause. Quiet conviction—not lecturing, but reminding. The kind of closing statement that lands because it's sparse.",
+      "mood": "principled"
+    }
+  ]
+}

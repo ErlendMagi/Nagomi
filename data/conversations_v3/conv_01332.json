@@ -1,0 +1,76 @@
+{
+  "id": "conv_01332",
+  "context": "Saito gives Kenji a routine diagnosis.",
+  "purpose": "doctor-patient diagnosis exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "診断",
+    "健康",
+    "一緒",
+    "相談",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_067)",
+    "generated_at": "2026-05-27T05:13:00.372Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "健次さん、診断、本当、結果、いい。",
+      "en": "Kenji-san, your diagnosis results are good.",
+      "style": "Warm and clear, with the composure of someone who has delivered this news many times before. Open gently on his name. Let genuine care come through without overstepping into emotion. Steady eye contact implied.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当、安心、しました。",
+      "en": "I'm so relieved.",
+      "style": "Breath released on the first word like a weight lifting. Quiet gratitude underneath. Not effusive, but sincere — the kind of relief that comes from trust in the person across the desk.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、本当、保つ、大切。",
+      "en": "Maintaining your health is what matters most now.",
+      "style": "Gentle advisor tone. Not prescriptive, but clear. Slight emphasis on 'matters most' — the weight of the counsel without pressure. Warm and steady throughout.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "相談、本当、ありがとう。",
+      "en": "Thank you for all your guidance.",
+      "style": "Sincere and respectful. A small pause before the thanks — genuine deference to the doctor's expertise and time. Warm but measured, not overwrought.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、長く、ね。",
+      "en": "Let's walk this path together for a long time.",
+      "style": "Quiet promise in the tone. Slight warmth and tenderness on 'together' — this is not clinical advice but a commitment. A small fade at the end like a hand being held.",
+      "mood": "tender_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感謝、本当、ずっと。",
+      "en": "I'll carry this gratitude with me always.",
+      "style": "Soft and deep. The finality of 'always' comes without heaviness — it's a gentle commitment. Small, quiet, genuine. Like a man who doesn't say much but means all of it.",
+      "mood": "grateful_determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、患者、本当に。",
+      "en": "You are a patient I truly value.",
+      "style": "Closing statement — slightly more weight than the others. Not performed, but deliberate. A rare moment where the doctor steps slightly outside professional distance to acknowledge a human connection. Clear and unhurried.",
+      "mood": "warm_sincere"
+    }
+  ]
+}

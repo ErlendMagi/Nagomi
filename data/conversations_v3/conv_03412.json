@@ -1,0 +1,78 @@
+{
+  "id": "conv_03412",
+  "context": "Discussing an investment decision",
+  "purpose": "Weigh an investment; teach 銘柄/売買/基盤/加工/作戦/プラン/図る/指揮",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "銘柄",
+    "売買",
+    "基盤",
+    "加工",
+    "作戦",
+    "プラン",
+    "図る",
+    "指揮"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "この銘柄、買いだと思う？",
+      "en": "Do you think this stock is a buy?",
+      "style": "manager seeking a second opinion, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "売買のタイミングが難しいですね。",
+      "en": "The buy-sell timing is tricky.",
+      "style": "cautious assistant hedging, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会社の基盤がしっかりしてるかが鍵だ。",
+      "en": "Whether the company’s foundation is solid is key.",
+      "style": "manager stressing fundamentals, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "加工業の業績は、安定しています。",
+      "en": "The processing industry’s results are stable.",
+      "style": "assistant offering data, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "長期保有の作戦でいこう。",
+      "en": "Let’s go with a long-hold strategy.",
+      "style": "manager deciding, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "分散投資のプランも立てました。",
+      "en": "I drew up a diversification plan too.",
+      "style": "thorough assistant adding, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "リスク回避を図るのが賢明だね。",
+      "en": "Pursuing risk avoidance is wise.",
+      "style": "manager affirming prudence, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "全体の指揮は、部長にお願いしましょう。",
+      "en": "Let’s ask the director to take overall command.",
+      "style": "assistant deferring respectfully, spoken with a recognizable personal cadence"
+    }
+  ]
+}

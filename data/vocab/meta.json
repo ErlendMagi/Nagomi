@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-26T11:17:02.579Z",
+  "source": "japanese_frequency_top20000_final_with_images.xlsx",
+  "wordCount": 19946,
+  "sentenceCount": 70200,
+  "wordsWithIndexedSentences": 19912,
+  "notes": [
+    "isSynthetic is null on every sentence — the source xlsx has a global",
+    "count of synthesised cells (24,455) but no per-cell flag. Backfill via",
+    "a heuristic or upstream change.",
+    "words[] order matches frequency rank (col A in xlsx)."
+  ]
+}

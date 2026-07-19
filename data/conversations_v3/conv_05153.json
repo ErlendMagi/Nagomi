@@ -1,0 +1,84 @@
+{
+  "id": "conv_05153",
+  "context": "A police archivist guides a uni reporter through a memorial-site case",
+  "purpose": "Teach: 肥満/デメリット/威力/銀河/モーター/拳/墓地/敗れ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥満",
+    "デメリット",
+    "威力",
+    "銀河",
+    "モーター",
+    "拳",
+    "墓地",
+    "敗れ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらが当時の捜査資料です。事件は古い墓地の隅で起きました。",
+      "en": "These are the case files from back then. The incident took place at the corner of an old cemetery.",
+      "style": "Measured, formal tone of an experienced police archivist."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。被害者は格闘技の元選手で、決勝で敗れた直後だったとか?",
+      "en": "Thank you. I heard the victim was a former martial artist who had just lost in the finals?",
+      "style": "Polite but eager student reporter probing for details."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。引退後は肥満の悩みを抱えていて、健康面でのデメリットも大きかったようです。",
+      "en": "Yes. After retiring he struggled with obesity, and the health drawbacks were apparently significant.",
+      "style": "Reflective, slightly somber as he recalls the man's decline."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現役時代は拳一つの威力で勝ち上がってきた選手だったと聞いています。",
+      "en": "I've heard that in his active years, he was a fighter who rose through the ranks on the power of his fists alone.",
+      "style": "Curious, showing respect for the victim's former career."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。それだけに、無念だったでしょう。現場の状況も少し奇妙でしてね。",
+      "en": "Indeed. All the more reason it must have been bitter for him. The scene itself was a bit strange, too.",
+      "style": "Patient, transitioning thoughtfully into the case details."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "奇妙、と言いますと?何か不審な物でも残されていたんですか?",
+      "en": "Strange, you say? Was there something suspicious left behind?",
+      "style": "Leaning in, notebook ready, voice lowered with intrigue."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。銀河を描いた小さな絵と、玩具のモーターが現場近くに落ちていたんです。",
+      "en": "Yes. A small drawing of a galaxy and a toy motor were found lying near the scene.",
+      "style": "Recalling odd evidence with quiet, deliberate emphasis."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど…記念碑の建設計画も、この事件の後で止まったんですよね?",
+      "en": "I see... and the memorial monument construction plan was halted after this case, wasn't it?",
+      "style": "Connecting dots, voice lowered out of respect for the site."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。遺族の意向で、今もここは静かな祈りの場のままです。どうか敬意をもって記事にしてください。",
+      "en": "Yes. By the bereaved family's wishes, this remains a quiet place of prayer. Please write your article with due respect.",
+      "style": "Firm closing request, gentle but unmistakably serious."
+    }
+  ]
+}

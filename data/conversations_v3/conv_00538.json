@@ -1,0 +1,63 @@
+{
+  "id": "conv_00538",
+  "context": "Ren and Aoi visit Dr. Saito briefly together for a consultation.",
+  "purpose": "small couple-doctor brief consultation",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "安心",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_027)",
+    "generated_at": "2026-05-27T00:21:16.186Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "先生、お時間、ありがとうございます。",
+      "en": "Doctor, thank you so much for taking the time to see us.",
+      "style": "Respectful and genuine. Soft opening with a small breath before the name. Warm but formal—the careful tone of someone bringing something important. Steady delivery, no rush.",
+      "mood": "grateful_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お二人で来てくれて、嬉しい。",
+      "en": "I'm glad you both came together.",
+      "style": "Warm and settling. The words land with quiet reassurance. No performance—just a doctor's genuine welcome. Pace is unhurried, like she's clearing space for what they need to say.",
+      "mood": "warm_welcoming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家族のこと、考え始めてて、相談したくて。",
+      "en": "We've been thinking about family, and we wanted to ask your advice.",
+      "style": "Careful and sincere. A slight hesitation before \"family\"—gathering the right words. Soft throughout, with respect for the moment. The tone of someone trusting enough to ask.",
+      "mood": "thoughtful_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お二人とも、健康ですよ。ご相談、何でも、聞きます。",
+      "en": "You're both in good health. I'm here to listen to whatever's on your minds.",
+      "style": "Clear and grounding. The first sentence is direct—a fact given gently. Then a slight softening, leaning in. The reassurance of a doctor who means what she says and has time for all of it.",
+      "mood": "steady_reassuring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "安心しました。ありがとうございます。",
+      "en": "That's a relief. Thank you.",
+      "style": "Quiet exhale of relief. Genuine gratitude, not performing politeness. The words are small but they carry the weight of what she was holding. Soft landing at the end.",
+      "mood": "relieved_grateful"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_03406",
+  "context": "A family member is admitted to hospital",
+  "purpose": "Handle an admission; teach 入院/失っ/ショック/制御/緩和/表面/確信/ニーズ",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "入院",
+    "失っ",
+    "ショック",
+    "制御",
+    "緩和",
+    "表面",
+    "確信",
+    "ニーズ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "父が倒れて、入院することになりました。",
+      "en": "My father collapsed and is being hospitalized.",
+      "style": "worried daughter explaining anxiously, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一時的に意識を失っていたそうですね。",
+      "en": "He briefly lost consciousness, I hear.",
+      "style": "calm doctor confirming gently, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族はショックを受けています。",
+      "en": "The family is shocked.",
+      "style": "shaken daughter sharing her state, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご安心を。今は血圧を制御できています。",
+      "en": "Rest assured. We’re controlling his blood pressure now.",
+      "style": "reassuring doctor steadying her, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "痛みはありますか？",
+      "en": "Is he in pain?",
+      "style": "concerned daughter asking, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "緩和の処置をしましたから、楽なはずです。",
+      "en": "We applied relief measures, so he should be comfortable.",
+      "style": "doctor explaining the care, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "皮膚の表面に傷もありますね。",
+      "en": "There are wounds on the skin’s surface too.",
+      "style": "observant daughter noting, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "軽いものです。回復には確信を持っています。",
+      "en": "They’re minor. I’m confident about recovery.",
+      "style": "doctor offering firm reassurance, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "患者のニーズに、よく応えてくださって。",
+      "en": "Thank you for meeting the patient’s needs so well.",
+      "style": "grateful daughter thanking him, delivery emotionally grounded and unforced"
+    }
+  ]
+}

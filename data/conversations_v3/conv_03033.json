@@ -1,0 +1,75 @@
+{
+  "id": "conv_03033",
+  "context": "Yuki sets up utilities for a new apartment with Kenji.",
+  "purpose": "WIDENED SCENARIO: home setup; vocabulary (設備/風呂/支払い/印刷/合計) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "設備",
+    "風呂",
+    "支払い",
+    "印刷",
+    "合計"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新しい部屋の設備、整えたいの。",
+      "en": "I want to set up the new room's facilities.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お風呂の設備は、新しいですか?",
+      "en": "Is the bath equipment new?",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、お風呂は最新の設備なんです。",
+      "en": "Yes, the bath has the latest equipment.",
+      "style": "clear office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "支払いの手続きは、済みましたか?",
+      "en": "Have the payment procedures been done?",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "支払いは、来月からです。",
+      "en": "Payment starts next month.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "契約書を、印刷しておきましょう。",
+      "en": "Let's print out the contract.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "印刷したら、合計の金額を確認します。",
+      "en": "After printing, I'll check the total amount.",
+      "style": "reliable office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "合計が、予算内なら安心ですね。",
+      "en": "If the total's within budget, you're set.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

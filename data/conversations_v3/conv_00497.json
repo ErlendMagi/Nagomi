@@ -1,0 +1,76 @@
+{
+  "id": "conv_00497",
+  "context": "Yuki visits Saito for a regular checkup. Adult-patient long rapport.",
+  "purpose": "small medical adult check — work-stress consultation",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "体調",
+    "睡眠",
+    "健康",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_025)",
+    "generated_at": "2026-05-27T00:07:00.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "佐藤さん、最近、お忙しそうですね。",
+      "en": "Sato-san, lately you look busy.",
+      "style": "Doctor warm professional gentle sincere-warm observing-care, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-careful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、新しい部署で、毎日、ばたばたで。",
+      "en": "Yes, new section, daily hectic.",
+      "style": "Office woman warm soft sincere honest-warm sharing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "睡眠は、ちゃんと取れてますか。",
+      "en": "Sleep — getting enough?",
+      "style": "Doctor warm professional gentle sincere-warm careful-asking, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-careful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "やっぱり、ちょっと足りない感じで。",
+      "en": "As expected, slightly insufficient.",
+      "style": "Office woman warm soft honest-self-aware-warm acknowledging, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体調、特に問題ないですが、無理は禁物です。",
+      "en": "No particular issues, but no overdoing.",
+      "style": "Doctor warm professional gentle balanced-warm careful-direction, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-balanced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、気を付けます。相談、ありがとうございます。",
+      "en": "Yes, will be careful. Thank you for consultation.",
+      "style": "Office woman warm soft sincere committed-warm closing-grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理されないこと。それが、一番の薬です。",
+      "en": "Not overdoing — that's the best medicine.",
+      "style": "Doctor warm gentle wise sincere-warm closing-philosophical, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-wise"
+    }
+  ]
+}

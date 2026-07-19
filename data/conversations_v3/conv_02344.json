@@ -1,0 +1,62 @@
+{
+  "id": "conv_02344",
+  "context": "Aoi shops for clothes; asks a store clerk about sizes.",
+  "purpose": "Customer-clerk natural shopping exchange.",
+  "ambient": "shop_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "店員",
+    "サイズ",
+    "限定",
+    "丁寧"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_118)",
+    "generated_at": "2026-05-29T11:54:33.020Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "すみません、店員さん、このサイズ、ありますか?",
+      "en": "Excuse me — do you have this in my size?",
+      "style": "soft polite adult woman voice, warm friendly delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、少々お待ちください、確認します。",
+      "en": "Yes, one moment please, I'll check.",
+      "style": "composed clerk-mode office woman voice, soft warm professional delivery carefully"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "これ、限定の商品なんですか?",
+      "en": "Is this a limited-edition item?",
+      "style": "curious adult woman voice, soft warm engaged delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、今月だけの限定です。",
+      "en": "Yes, it's limited to this month only.",
+      "style": "gentle office woman voice, soft warm informative delivery carefully"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "丁寧に教えてくださって、ありがとう。",
+      "en": "Thank you for explaining so kindly.",
+      "style": "tender adult woman voice, soft warm grateful delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "またお越しくださいね。",
+      "en": "Please come again.",
+      "style": "warm office woman voice, soft warm courteous delivery carefully"
+    }
+  ]
+}

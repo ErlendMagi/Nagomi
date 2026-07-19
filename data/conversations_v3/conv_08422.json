@@ -1,0 +1,86 @@
+{
+  "id": "conv_08422",
+  "context": "Two friends chat",
+  "purpose": "Teach: 前置き/受け取ら/訊い/知らず/さらっ/今時/騒ぐ/めくっ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "前置き",
+    "受け取ら",
+    "訊い",
+    "知らず",
+    "さらっ",
+    "今時",
+    "騒ぐ",
+    "めくっ"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_423 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様への前置きを短くしようね、メイちゃん",
+      "en": "Aoi, let's keep what you tell customers at the start a bit shorter, okay?",
+      "style": "Gentle suggestion, not a directive. Soft opening. The tone of someone correcting a person they care about — careful not to sting. A small pause before the last phrase, like making sure the feedback lands kindly.",
+      "mood": "gentle_correcting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、新しい食材、受け取らせていただいたよ、メイちゃん",
+      "en": "We received those new ingredients you were expecting.",
+      "style": "Matter-of-fact, efficient. A quiet satisfaction in the delivery — this is good news, stated straightforwardly. Light, no flourish. The voice of someone glad to report something helpful.",
+      "mood": "pleased_practical"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様のご希望、訊いてみたわ、メイちゃん",
+      "en": "I asked the customer what they were hoping for.",
+      "style": "Thoughtful, slightly wondering. As if replaying the moment. Gentle pace, no rush. The voice of someone reflecting on having done the right thing, checking her own memory of it.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、知らずにメニューに、お肉が抜けてたよ、メイちゃん",
+      "en": "It turned out the menu didn't have the meat option listed — somehow we missed it.",
+      "style": "Wry, a little rueful. The kind of laugh in the voice that says 'of all things.' Not self-flagellating, but gently amused at the oversight. Knowing, tired humour.",
+      "mood": "wry_chagrined"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、さらっと召し上がってお帰りだった、メイちゃん",
+      "en": "The customer just ate and left — no fuss at all.",
+      "style": "Reflective, almost admiring in tone. Quiet observation. Slight wondering in it — how gracefully they handled it. Slow, gentle delivery, like she's still thinking it over.",
+      "mood": "wondering_relieved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、今時、お店をやるのは大変ね、メイちゃん",
+      "en": "Running a place like this these days really is tough.",
+      "style": "A small sigh woven into the opening. Matter-of-fact acceptance, not complaint. Tired but not defeated. The voice of someone who sees the difficulty and doesn't look away from it.",
+      "mood": "weary_accepting"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お子様連れのお客様、お子様が騒ぐ時もあるね、メイちゃん",
+      "en": "Even when families come in with kids, there are times the children get a little loud.",
+      "style": "Gentle, understanding. Not critical. The phrasing itself is kind — acknowledging it happens naturally. Warm tolerance in the voice. Speaking from experience without judgment.",
+      "mood": "warm_understanding"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、メニューブックをお客様が、めくっていらしたよ、メイちゃん",
+      "en": "The customer was leafing through the menu for a while.",
+      "style": "Reflective, observant but not intrusive. Quiet noticing — the kind of detail that sticks with someone who pays attention. Trailing off slightly at the end, like she's still watching them in her mind.",
+      "mood": "observant_gentle"
+    }
+  ]
+}

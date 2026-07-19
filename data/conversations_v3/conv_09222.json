@@ -1,0 +1,86 @@
+{
+  "id": "conv_09222",
+  "context": "Two friends chat",
+  "purpose": "Teach: なぁー/夕べ/損なう/曲がり/崩さ/行き方/引き続い/ごくごく",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "なぁー",
+    "夕べ",
+    "損なう",
+    "曲がり",
+    "崩さ",
+    "行き方",
+    "引き続い",
+    "ごくごく"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_463 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、「なぁー、美味しいね」って仰って下さったよ、メイちゃん",
+      "en": "Aoi, a customer just told me how delicious it was. That made me really happy.",
+      "style": "Warm, almost eager to share. Lift on the compliment itself. Genuine pleasure without performing it. A moment of quiet pride in what you both made.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、夕べ、お店の片付けを忘れちゃったね、メイちゃん",
+      "en": "Mei, I actually forgot to clean up the shop last night.",
+      "style": "Self-aware rueful laugh underneath. Light, not defensive. The tone of someone admitting something she already knows she messed up. A little sheepish.",
+      "mood": "sheepish"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様の信頼を損なう事のないようにね、メイちゃん",
+      "en": "Aoi, we can't let small oversights damage the trust our customers have in us.",
+      "style": "Gentle firmness. Not a lecture — more like a quiet standard being set. Warm underneath, but the words land with intention. Not unkind.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、メニューに曲がりがあるのも味だね、メイちゃん",
+      "en": "Mei, even those little imperfect details become part of the charm, don't they?",
+      "style": "Thoughtful, almost conversational. A soft reframe — not dismissing the point, but finding something true in what happened. Quiet observation.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お店の雰囲気を崩さないように工夫しましょう、メイちゃん",
+      "en": "Aoi, let's make sure we're intentional about keeping that atmosphere we've built.",
+      "style": "Encouraging, collaborative tone. Not commanding. The word 'let's' matters — drawing her in rather than directing down. Steady and clear.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様にお店までの行き方をご案内しましょう、メイちゃん",
+      "en": "Mei, we should help guide customers who need directions to find us.",
+      "style": "Practical, solution-focused. A gentle suggestion, not an instruction. Small warmth — taking care of the people who want to come in.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニューの注文が引き続いて入ってるね、メイちゃん",
+      "en": "Aoi, the orders for the new menu keep coming in. People really want it.",
+      "style": "Pleased lift. A small moment of quiet celebration. The satisfaction of something working. Not gloating — just noticing something good happening.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、冷たいお水をごくごく召し上がられたよ、メイちゃん",
+      "en": "Mei, did you see? A customer drank the water so quickly, like they really needed it.",
+      "style": "Gentle observation, almost tender. A small smile in the voice. The kind of noticing that only happens when you actually watch people. Trailing warmth at the end.",
+      "mood": "gentle_observant"
+    }
+  ]
+}

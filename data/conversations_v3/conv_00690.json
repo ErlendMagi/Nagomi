@@ -1,0 +1,62 @@
+{
+  "id": "conv_00690",
+  "context": "Sho visits Saito with a sore throat.",
+  "purpose": "small medical small ailment",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "喉",
+    "痛い",
+    "薬",
+    "元気",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、どこか、痛い？",
+      "en": "Sho-kun, anywhere hurts?",
+      "style": "Doctor warm professional gentle sincere-warm child-asking, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "喉が、ちょっと、痛い。",
+      "en": "Throat — slightly hurts.",
+      "style": "Tiny six-year-old soft small sincere honest-warm sharing, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "softly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。お薬、出すね。三日で、元気になる。",
+      "en": "I see. Will prescribe medicine. In three days, well.",
+      "style": "Doctor warm professional gentle sincere-warm reassuring-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、先生。",
+      "en": "Thank you, doctor.",
+      "style": "Tiny six-year-old soft small sincere grateful-warm closing, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理しないで、ちゃんと、休んで。",
+      "en": "No overdoing. Rest properly.",
+      "style": "Doctor warm gentle sincere closing-warm care-extending, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

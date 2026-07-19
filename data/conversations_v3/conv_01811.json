@@ -1,0 +1,75 @@
+{
+  "id": "conv_01811",
+  "context": "Ren gets bad news about a family illness; talks to Saito alone after hours.",
+  "purpose": "Young man processing grief with elder mentor.",
+  "ambient": "clinic_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "病気",
+    "心配",
+    "家族",
+    "受け入れる"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_091)",
+    "generated_at": "2026-05-27T08:01:22.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、母の病気、進行してます。",
+      "en": "My mother's illness—it's getting worse.",
+      "style": "Voice catches slightly on the opening. Quiet, undefended. Pauses between phrases like he's gathering himself. Breath carries the weight underneath.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "辛いね、本当に。",
+      "en": "That's really hard. I'm sorry.",
+      "style": "Steady, direct eye contact. Warm but not softening—acknowledging the weight, not trying to lighten it. Slightly slower pace. The certainty of someone who has heard this pain before.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "心配で、眠れません。",
+      "en": "I can't sleep. I just worry all the time.",
+      "style": "Exhaust in the voice now, not just sadness. Admits it almost reluctantly—checking that it's okay to say it out loud. Trailing off at 'all the time' like the worry continues even after words stop.",
+      "mood": "exhausted_overwhelmed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご家族、何より大事。",
+      "en": "Your family is what matters most. Everything else is secondary.",
+      "style": "Not prescriptive—stating a truth she believes. Quiet but certain. Slightly slower cadence, like she's giving him permission to hold this as true. Warm without condescension.",
+      "mood": "grounded_wise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "受け入れる、難しい。",
+      "en": "But accepting it... that's the hard part.",
+      "style": "Soft hesitation at the start. Vulnerability underneath the words—not performing strength. Small pause before 'hard part' like he's naming something he's been avoiding. Voice stays open, not collapsed.",
+      "mood": "struggling_raw"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "時間かけて、ゆっくり。",
+      "en": "Take your time with it. There's no rushing this.",
+      "style": "Unhurried tempo. Each phrase gets its own breath. Not advice—permission. Tender firmness, like a hand staying on his shoulder. Voice carries both patience and lived understanding.",
+      "mood": "patient_reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます、聞いてくれて。",
+      "en": "Thank you. Really—thank you for listening.",
+      "style": "Formal gratitude shifting into genuine relief. Small breath before the second 'thank you'—this one costs him less. Quiet restoration in the voice, like being heard has loosened something tight.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

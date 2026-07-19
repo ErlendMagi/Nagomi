@@ -1,0 +1,86 @@
+{
+  "id": "conv_10357",
+  "context": "Elderly couple chats",
+  "purpose": "Teach: キヤノン/ジョージア/ミシガン/オハイオ/ジャスコ/早川書房/皇居/東北大学",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "キヤノン",
+    "ジョージア",
+    "ミシガン",
+    "オハイオ",
+    "ジャスコ",
+    "早川書房",
+    "皇居",
+    "東北大学"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_519 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、お父さんがキヤノン製カメラで撮ってこられた",
+      "en": "Gran, when I was young, Dad used to take photographs with his Canon camera.",
+      "style": "Soft, searching tone. Voice trails into memory. Long pause before speaking, as if reaching back through decades. Gentle and unhurried.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、お祖父ちゃん、ジョージア缶コーヒーがお好きだったわよね、あなた?",
+      "en": "Yes, dear—and Grandpa was so fond of Georgia canned coffee, wasn't he?",
+      "style": "Warm, slightly playful interjection. A little breathless with her own memory. She's gently redirecting, not correcting. Affectionate on 'dear'.",
+      "mood": "tender_affectionate"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、お父さんがミシガン州に駐在された",
+      "en": "Gran, when I was young, Dad was stationed in Michigan for work.",
+      "style": "Continuing the same soft reverie. A little less certain this time—searching for the exact memory. Voice thins slightly on the place name.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、オハイオ州出張のお話されたわよね、あなた?",
+      "en": "Yes, dear—you told me about that trip to Ohio, didn't you?",
+      "style": "Gently insistent, warm correction wrapped in affection. She's testing his memory or playfully rerouting the conversation. Light on the challenge.",
+      "mood": "tender_testing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、ジャスコ百貨店で買い物した",
+      "en": "Gran, when I was young, we used to shop at the Jusco department store.",
+      "style": "Same reflective register. Voice settles into the ordinary detail of it. A small smile underneath—everyday nostalgia, not grand.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、早川書房の文庫を集められたわよね、あなた?",
+      "en": "Yes, dear—and you collected all those Hayakawa paperbacks, didn't you?",
+      "style": "Warm recognition. She's caught him in another memory now. Voice brightens slightly, pleased with the connection. Still gentle, still tender.",
+      "mood": "tender_pleased"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、お父さんが皇居参賀に出かけられた",
+      "en": "Gran, when I was young, Dad would go pay respects at the imperial palace on New Year's.",
+      "style": "The same wistful cadence, but heavier now. A moment of reverence in the voice. Slower pace. He's reaching for something that matters.",
+      "mood": "wistful_reverent"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、東北大学にご縁があったわよね、あなた?",
+      "en": "Yes, dear—and you had ties to Tohoku University, didn't you?",
+      "style": "Warm, satisfied closure. She's collected all his memories now. Voice is gentle but complete. A small breath of contentment at the end. Affectionate finality.",
+      "mood": "tender_satisfied"
+    }
+  ]
+}

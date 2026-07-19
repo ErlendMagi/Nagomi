@@ -1,0 +1,78 @@
+{
+  "id": "conv_04500",
+  "context": "A retired CEO catches up with a younger executive",
+  "purpose": "Teach: デフレ/クレジットカード/コンサルティング/譲渡/公益/年収/出品/営利",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "デフレ",
+    "クレジットカード",
+    "コンサルティング",
+    "譲渡",
+    "公益",
+    "年収",
+    "出品",
+    "営利"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやあ、久しぶりだね。最近の経済はデフレ脱却なんて言われてるが、現場はどうだい？",
+      "en": "Wow, long time no see. They say we're escaping deflation lately, but how's it on the ground?",
+      "style": "Warm elder statesman tone, gravelly and reflective"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おかげさまで業績は伸びています。社員の年収アップも実現できて、ようやく一息ついたところです。",
+      "en": "Thanks to your guidance, performance is up. We finally raised employee salaries and can breathe a bit.",
+      "style": "Polite executive voice, measured and respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それは何よりだ。ところで、例の子会社の事業譲渡の話はまとまったのかね？",
+      "en": "That's wonderful to hear. By the way, did that subsidiary business transfer deal get settled?",
+      "style": "Curious mentor lowering his voice on private business matters"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、譲渡先も決まりまして、今は経営コンサルティング会社に統合作業を任せています。",
+      "en": "Yes, we found a buyer, and a management consulting firm is handling the integration work now.",
+      "style": "Confident report-style delivery with a slight note of pride"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "賢明だな。私の時代は何でも自前でやろうとして、クレジットカード決済の導入すら社内で揉めたものだよ。",
+      "en": "Wise choice. In my day we did everything in-house, even fighting internally over introducing credit card payments.",
+      "style": "Nostalgic chuckle with self-deprecating old-school humor woven in"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "時代ですね。最近はネットオークション出品まで法務がチェックする時代ですから。",
+      "en": "Times have changed. These days legal even reviews items we list on online auctions.",
+      "style": "Light knowing laugh with a modern-business weariness underneath"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ところで君、退任後は公益法人の理事でもどうかね。営利目的を離れて社会に還元するのも悪くないぞ。",
+      "en": "By the way, after you retire, how about a public-interest foundation board seat? Giving back is rewarding.",
+      "style": "Gentle avuncular invitation, warm and quietly persuasive in tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "光栄なお話です。非営利の世界も、ぜひ前向きに考えさせてください。",
+      "en": "I'm honored you'd suggest it. I'll seriously consider the nonprofit world too, with gratitude.",
+      "style": "Humble grateful close with a slight bow audible in the voice"
+    }
+  ]
+}

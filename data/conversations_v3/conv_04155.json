@@ -1,0 +1,78 @@
+{
+  "id": "conv_04155",
+  "context": "A uni student lends a book to a teen friend and discusses it",
+  "purpose": "Teach: 著書/書評/購読/補足/創設/学科/学年/知人",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "著書",
+    "書評",
+    "購読",
+    "補足",
+    "創設",
+    "学科",
+    "学年",
+    "知人"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "これ、貸すね。先月読んだ本なんだけど、結構面白かったよ。著者の最新の著書らしい。",
+      "en": "Here, I'll lend it to you. It's a book I read last month — pretty interesting. Apparently it's the author's latest work.",
+      "style": "Warm casual senpai tone, slightly enthusiastic about sharing a recommendation."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう!えっと、誰が書いたの?有名な人?",
+      "en": "Thanks! Um, who wrote it? Someone famous?",
+      "style": "Bright teen curiosity, friendly and a little playful."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うちの学科の先生の知人らしくて、新聞の書評欄でも結構評価されてたんだよ。",
+      "en": "Apparently he's an acquaintance of a professor in my department — got solid reviews in the newspaper's book review section too.",
+      "style": "Casual explaining tone, slightly proud of the inside connection."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へぇ、すごい。私、新聞とか購読してないから全然知らなかった。",
+      "en": "Wow, impressive. I don't subscribe to any newspapers so I had no idea.",
+      "style": "Light self-deprecating teen honesty, casual surprise."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "後ろの方に著者の補足説明があって、その人が研究所を創設した経緯とかも書いてあるよ。",
+      "en": "There's a supplementary note from the author at the back — it even covers how he founded his research institute.",
+      "style": "Helpful guiding tone, like pointing out the best parts of the book."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "え、まだ高校生だからちょっと難しいかも…ちゃんと読めるかな。",
+      "en": "Eh, since I'm still in high school it might be a bit tough… I wonder if I can actually read it.",
+      "style": "Hesitant teenage worry, slightly embarrassed laugh implied."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大丈夫、漢字には全部ふりがな振ってあるし、分からないとこは聞いてくれていいよ。",
+      "en": "It's fine — all the kanji have furigana, and you can ask me anything you don't get.",
+      "style": "Reassuring older friend, kind and patient with the younger one."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ頑張って読んでみる!来年の学年が上がるまでには絶対読み終える!",
+      "en": "Okay, I'll do my best to read it! I'll definitely finish it before I move up a grade next year!",
+      "style": "Energized teen resolve, cheerful and motivated declaration."
+    }
+  ]
+}

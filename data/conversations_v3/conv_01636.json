@@ -1,0 +1,61 @@
+{
+  "id": "conv_01636",
+  "context": "Sho-young is sad at a missed school trip; Daichi comforts him with udon.",
+  "purpose": "Father consoling disappointed child through gentle ritual.",
+  "ambient": "udon_shop_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "うどん",
+    "元気",
+    "残念",
+    "次回"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_082)",
+    "generated_at": "2026-05-27T06:57:45.559Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、行きたかった。",
+      "en": "Dad… I wanted to go.",
+      "style": "Quiet, small voice. The sadness sits right at the surface, not performed but genuinely present. Slight hesitation before 'go'—like he's checking whether it's okay to say he's disappointed.",
+      "mood": "disappointed_vulnerable"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "残念やったな、来年あるで。",
+      "en": "It's a shame—but there's another one next year.",
+      "style": "Warm, unhurried Kansai warmth underneath. The reassurance isn't a fix, it's a gentle redirection. Soft landing on the final words, like settling him into the next thing.",
+      "mood": "consoling_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、でも悲しい。",
+      "en": "Yeah… but I'm sad.",
+      "style": "Small voice, honest without filter. The words come out carefully, like he's learning it's okay to just say hard things. Barely there, trailing downward.",
+      "mood": "sad_honest"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "うどん食べて、元気出そう。",
+      "en": "Let's eat some udon—feel better.",
+      "style": "Soft Kansai drawl, practical warmth. Not dismissing the sadness but gently moving past it. Slight upward lilt on 'udon'—like he's offering something real to hold onto.",
+      "mood": "tender_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "熱くて、美味しい。",
+      "en": "It's hot… and delicious.",
+      "style": "Quieter now, the first hint of genuine distraction. Wonder creeping back in as warmth and taste work together. Small, satisfied breath—not happy yet, but present.",
+      "mood": "comforted_present"
+    }
+  ]
+}

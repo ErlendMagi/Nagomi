@@ -1,0 +1,78 @@
+{
+  "id": "conv_03646",
+  "context": "A teacher and student go over an application form for next semester",
+  "purpose": "Teach: 申込/様式/分担/学期/人員/加える/細かく/穏やか",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込",
+    "様式",
+    "分担",
+    "学期",
+    "人員",
+    "加える",
+    "細かく",
+    "穏やか"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_183 workflow wlr1s3w84)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "来学期の留学プログラムの申込書、もう見てくれた？",
+      "en": "Have you looked at the application form for next semester's study abroad program yet?",
+      "style": "Teacher checking in warmly, gentle but focused tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、見ました。でも様式が複雑で、どこに何を書けばいいか分からなくて…",
+      "en": "Yes, I looked at it. But the form is complicated and I don't know where to write what.",
+      "style": "Student sounding slightly overwhelmed, polite and hesitant."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫よ。一緒に細かく見ていきましょう。まずここ、志望理由の欄ね。",
+      "en": "It's fine. Let's go through it carefully together. First, here — the motivation section.",
+      "style": "Reassuring teacher voice, calm and methodical guidance."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "現地での役割分担の希望って、これどう書けばいいんですか？",
+      "en": "How should I write this part about role distribution preferences at the destination?",
+      "style": "Teen asking a genuine clarifying question, curious tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "受け入れ先の人員が限られているから、自分にできそうな役割を素直に書いて、必要なら一言加えるといいわ。",
+      "en": "The host's staff numbers are limited, so honestly write the roles you can handle, and add a note if needed.",
+      "style": "Teacher giving practical, experienced advice in measured pace."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど…先生、こんなに穏やかに説明してもらえて、ちょっと安心しました。",
+      "en": "I see... Sensei, having it explained so calmly, I feel a little relieved.",
+      "style": "Softer, grateful tone from the student, opening up slightly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "よかった。締切は今学期末だから、来週までに下書きを持ってきてね。",
+      "en": "Good. The deadline is the end of this semester, so bring me a draft by next week.",
+      "style": "Warm but clearly setting a deadline, friendly authority."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "分かりました。週末に書いて、月曜に持ってきます！",
+      "en": "Understood. I'll write it over the weekend and bring it Monday!",
+      "style": "Energetic, motivated reply with renewed confidence."
+    }
+  ]
+}

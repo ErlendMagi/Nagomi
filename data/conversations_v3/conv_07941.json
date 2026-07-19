@@ -1,0 +1,86 @@
+{
+  "id": "conv_07941",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 買わ/積ん/はいる/移る/直っ/治り/片付ける/歩ける",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "買わ",
+    "積ん",
+    "はいる",
+    "移る",
+    "直っ",
+    "治り",
+    "片付ける",
+    "歩ける"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_399 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、それ、もう買わなくていいわよ",
+      "en": "Sho, you don't need to buy that anymore.",
+      "style": "Calm, practical instruction. Natural maternal tone—not stern, but clear about what needs to happen. Gentle finality, like she's decided this for both their good.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが本を積んでるよ",
+      "en": "Mom, Dad's stacking his books again.",
+      "style": "Quiet observation, almost to himself. Matter-of-fact delivery. A small noticing that he's sharing because it struck him—not a complaint, just a fact he wanted to tell her.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんがお部屋にはいるわよ",
+      "en": "Sho, Grandma's in your room right now.",
+      "style": "Gentle warning delivered without alarm. Warm but purposeful—she's letting him know before he goes in, like she's looking out for him.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくのおもちゃ、隣に移るよ",
+      "en": "Mom, my toys are going to move next door.",
+      "style": "Quiet acceptance mixed with practical certainty. He's stated it like he's already worked it out. No resistance, just telling her what he's figured.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんのお怪我、もう直ったわよ",
+      "en": "Sho, Dad's injury is all better now.",
+      "style": "Reassurance delivered simply. Warm maternal relief—she's been waiting to tell him this. Steady voice, no rush.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんの治り、早かったね",
+      "en": "Mom, Grandpa got better really fast, didn't he?",
+      "style": "Small wonder in his voice. Noticing something good and wanting confirmation. Quiet marvel—like he's surprised and pleased by something adults might not think twice about.",
+      "mood": "wondering"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お部屋を片付ける時間よ",
+      "en": "Sho, it's time to tidy up your room.",
+      "style": "Practical maternal direction. Not negotiable, but not harsh. The tone of someone who has said this before and will say it again, with gentle consistency.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、もう歩けるようになったよ",
+      "en": "Mom, I can walk now.",
+      "style": "Quiet pride. Simple, direct statement—not boasting, just telling her something true about himself. Slight lift at the end, like he's pleased to share it.",
+      "mood": "proud"
+    }
+  ]
+}

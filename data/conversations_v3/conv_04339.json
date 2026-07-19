@@ -1,0 +1,72 @@
+{
+  "id": "conv_04339",
+  "context": "An elder banker mentors a younger CEO over coffee",
+  "purpose": "Teach: 控除/アイディア/任意/幸運/配当/開業/相続/軌道",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "控除",
+    "アイディア",
+    "任意",
+    "幸運",
+    "配当",
+    "開業",
+    "相続",
+    "軌道"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_218 workflow w4455pikw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "コーヒーでも飲みながら話そうか。会社を開業して三年、ようやく軌道に乗ってきたようだね。",
+      "en": "Let's talk over coffee. It's been three years since you started the company, and it finally seems to be on track.",
+      "style": "Warm mentor tone, slow paced, fatherly opening over coffee."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おかげさまで。ただ、来期は株主配当をどう設計するかで悩んでいまして。",
+      "en": "Thanks to you. But I'm struggling with how to design the shareholder dividends next term.",
+      "style": "Respectful younger CEO, measured but slightly anxious delivery."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "配当方針は経営者の哲学が出るところだ。慌てず、長期で考えなさい。",
+      "en": "Dividend policy is where a manager's philosophy shows. Don't rush — think long term.",
+      "style": "Calm authoritative advice, gently lecturing without condescension."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は新規事業のアイディアもあるんですが、初期投資が大きくて。所得控除をうまく使えないかと。",
+      "en": "Actually, I have an idea for a new business too, but the initial investment is huge. I was wondering if I could use income tax deductions well.",
+      "style": "Leaning forward, sharing strategy, business-minded younger voice."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "節税は大事だが、本質を見失うな。それと、お父様からの相続の件は片付いたのかい。",
+      "en": "Tax saving matters, but don't lose sight of the essence. By the way, has the matter of inheritance from your father been settled?",
+      "style": "Shifts to personal concern, lowered voice, paternal worry."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、任意の遺言書があったおかげで、兄弟間で揉めずに済みました。本当に幸運でした。",
+      "en": "Yes, thanks to a voluntary will, we avoided disputes between siblings. I was truly lucky.",
+      "style": "Grateful, relieved tone, slight emotion creeping into voice."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それは何よりだ。経営も家庭も、運を味方につけられる人間が最後に勝つものだよ。",
+      "en": "Nothing could be better. In both business and family, the one who can make luck his ally wins in the end.",
+      "style": "Reflective closing wisdom, warm smile audible in voice."
+    }
+  ]
+}

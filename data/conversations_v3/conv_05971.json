@@ -1,0 +1,79 @@
+{
+  "id": "conv_05971",
+  "context": "A doctor briefs a reporter about health policy",
+  "purpose": "Teach: 薬剤/警報/逃亡/県庁/各省/一国/迫害/消毒",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "薬剤",
+    "警報",
+    "逃亡",
+    "県庁",
+    "各省",
+    "一国",
+    "迫害",
+    "消毒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、薬剤師不足、地域医療で課題です。",
+      "en": "Ren, the pharmacist shortage is becoming a real challenge for regional healthcare.",
+      "style": "Matter-of-fact opening. Steady, measured pace. Clinical but not cold — she's stating fact without dramatizing it. Direct eye contact level.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症の警報、頻度が増えていますね。",
+      "en": "Infectious disease alerts seem to be coming more frequently now.",
+      "style": "Tentative, thinking aloud. Slight upward lift at the end of the first phrase — testing the observation. Respectfully waiting for confirmation or correction.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。逃亡を試みる感染者の事案、ニュースにもなりました。",
+      "en": "Yes. We've seen cases where people have tried to evade isolation — those have made the news too.",
+      "style": "Steady, unrushed. She's not shying from difficult information but delivering it with clarity. A slight pause before 'those have made the news' — letting weight settle.",
+      "mood": "honest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "県庁が音頭を取って、各省と連携しているそうですね。",
+      "en": "I hear the prefectural office is taking the lead, coordinating across different agencies.",
+      "style": "Careful phrasing, almost testing knowledge. Respectful hedging with 'I hear.' Pace is measured — he's genuinely trying to understand the system.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。一国の問題ではなく、世界的です。",
+      "en": "That's right. But it's not just a domestic problem anymore — it's global now.",
+      "style": "Slight shift to firmness. 'It's global now' lands with quiet weight. She's moved from explaining to emphasizing scope. Still steady but the stakes have widened.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者が迫害されないよう、配慮、必要ですね。",
+      "en": "Then it's important we make sure people aren't blamed or stigmatized for getting sick.",
+      "style": "Thoughtful pause before speaking. Sincere, not performative. Slower pace — he's arrived at something that matters to him. Soft conviction.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "消毒運用も、徹底します。",
+      "en": "Absolutely. That's why disinfection protocols and contact tracing have to be rigorous — but also handled with care.",
+      "style": "Final affirmation with quiet strength. She's bringing it home — clinical precision paired with human consideration. Slight emphasis on 'with care.' Professional closure.",
+      "mood": "determined"
+    }
+  ]
+}

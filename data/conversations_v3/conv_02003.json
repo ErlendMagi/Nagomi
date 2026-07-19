@@ -1,0 +1,86 @@
+{
+  "id": "conv_02003",
+  "context": "Saito at a small medical conference discussing health policy.",
+  "purpose": "Doctor in professional academic context with peer.",
+  "ambient": "conference_hall_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "医療",
+    "制度",
+    "分野",
+    "報告",
+    "改革",
+    "主張",
+    "議論",
+    "結局"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_101)",
+    "generated_at": "2026-05-27T11:35:48.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療の分野、改革が必要だと考えています。",
+      "en": "I believe the medical field needs significant reform.",
+      "style": "Steady, measured opening. Clinical but not cold. Slight pause before 'reform' — the weight of conviction underneath. Direct eye contact, shoulders level.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "具体的に、どの制度が問題なのですか?",
+      "en": "Specifically, which systems are the problem?",
+      "style": "Leaning in slightly, genuine curiosity. Warm but professional — the careful attention of someone trained to listen. Soft interrogative lift on the question, inviting detail.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "地方の医療体制、特に。",
+      "en": "Rural medical infrastructure, particularly.",
+      "style": "Quieter, more focused. The tone of someone who has seen the problem firsthand. A small breath before naming it. Not defeated, but grounded in reality.",
+      "mood": "grave_grounded"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "報告書、どこに提出されるの?",
+      "en": "Where will the report go?",
+      "style": "Practical, organized. The question of someone thinking through logistics. Warm underneath but businesslike — she's following the thread with him.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "厚生労働省、それから関係機関へ。",
+      "en": "The Health and Labor Ministry, and then to relevant agencies.",
+      "style": "Professional factual delivery. No hesitation. The clarity of someone who has done this before. Steady pace, each destination given equal weight.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "主張、ちゃんと届くといいですね。",
+      "en": "I hope your case actually gets heard.",
+      "style": "Genuine warmth breaking through formality. A small smile in the voice. The hope is real, not performative. Slight tenderness on 'hope' — she means it.",
+      "mood": "hopeful_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "議論を、社会全体で続けたい。",
+      "en": "I want this conversation to continue at a societal level.",
+      "style": "Firmer conviction now. Not demanding, but resolved. The tone of someone who has moved from reporting a problem to asserting a need. Eyes steady, slight forward lean in posture.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "結局、皆で考えることが、大切ですね。",
+      "en": "In the end, it's what we all think together that matters.",
+      "style": "Warm agreement, almost reflective. A small nod in the voice. She's not just affirming him — she's affirming the principle itself. Gentle, grounded, wise in the way of someone who teaches.",
+      "mood": "warm_agreement"
+    }
+  ]
+}

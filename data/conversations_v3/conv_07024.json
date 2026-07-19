@@ -1,0 +1,86 @@
+{
+  "id": "conv_07024",
+  "context": "An elderly couple chats",
+  "purpose": "Teach: 閉まっ/殴り/貰え/好ましく/金魚/嘆い/見上げる/なおす",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉まっ",
+    "殴り",
+    "貰え",
+    "好ましく",
+    "金魚",
+    "嘆い",
+    "見上げる",
+    "なおす"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_353 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "駅前の商店、もう、閉まってたな、ばあさん、寂しい時代になったわよな、本当に。",
+      "en": "The shops in front of the station are already closed. It's become such a lonely era, hasn't it?",
+      "style": "Slow, measured opening. Wistful gaze into the distance. Trailing pause after each thought, like watching the present fade into memory. Voice settles low at the end.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。若い頃、殴り合いの喧嘩、見たこと、何度かあったわよね、覚えてる?",
+      "en": "Yes. When we were young, I saw people getting into fistfights a few times. Do you remember?",
+      "style": "Quiet, searching tone. Gentle almost — not recalling violence but the aliveness of those days. Small smile in the voice. Slight rise on the question, inviting him to share the memory.",
+      "mood": "nostalgic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "息子から、孫の写真、貰えれば、嬉しいんだよ、最近、本当に、待ち遠しい。",
+      "en": "If I could just get a photo of the grandchild from our son, it would make me so happy. Lately I really do wait for it eagerly.",
+      "style": "Soft, vulnerable admission. Slight catch in the voice on 「嬉しい」. Patient but genuine longing — not demanding, just stating what matters. Warmth underneath the waiting.",
+      "mood": "tender_longing"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "最近、世間、好ましくない流れ、続いているわよね、私たち、心配だわ。",
+      "en": "The state of the world lately hasn't been good, has it? It keeps going in troubling directions. We worry about it.",
+      "style": "Steady, concerned. Not alarmist — the voice of someone who has weathered decades and recognizes a pattern. Slight firmness on the observation. Speaks for both of them without overstepping.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "お祖父ちゃんち、金魚、たくさん、飼ってたよな、ばあさん、覚えてる、池に。",
+      "en": "Your grandfather kept so many goldfish, didn't he? In the pond. Do you remember?",
+      "style": "Tender recollection, almost gentle. Slight lift on the question — inviting him back into the shared image. Voice softens on 「金魚」. The question is really an offering: *let's remember this together*.",
+      "mood": "wistful_affectionate"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "息子が、独立した時、嘆いたわよね、私たち、巣立ち、本当に、寂しかったわ。",
+      "en": "When our son became independent, I grieved it so much, didn't I? Watching him leave the nest was truly lonely.",
+      "style": "Quiet reflection, tinged with old ache. Not self-pitying — just honest about what it cost. Slight tremor of acceptance in the voice. Slow enough that the feeling lands.",
+      "mood": "bittersweet"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "庭の木、見上げると、長く、生きてきた木、本当に、立派だな、自然って、すごい。",
+      "en": "When I look up at the tree in the garden, it has lived for so long. It really is magnificent. Nature is wonderful.",
+      "style": "Voice softens into quiet wonder. Slight upward tilt as if actually looking. Pace slows on 「長く、生きてきた木」. Reverence without grandiosity — the simple amazement of witnessing something enduring.",
+      "mood": "peaceful_amazed"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "古い時計、なおすことが、できたわよ、あなた、嬉しいわよね、ご先祖の、形見だものね。",
+      "en": "I was able to fix the old clock. You were happy about it, weren't you? It's an heirloom from our ancestors, after all.",
+      "style": "Warm pride in the accomplishment, but not boastful. Affectionate address on 「あなた」. Voice glows slightly on the memory of his joy. Tender, almost tender enough to apologize for the gift of having fixed it.",
+      "mood": "warm_proud"
+    }
+  ]
+}

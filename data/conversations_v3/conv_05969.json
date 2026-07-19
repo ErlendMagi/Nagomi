@@ -1,0 +1,65 @@
+{
+  "id": "conv_05969",
+  "context": "A police officer briefs on workplace safety",
+  "purpose": "Teach: 工務/自給/話し合う/書き換え/増設/換気/量販/退社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工務",
+    "自給",
+    "話し合う",
+    "書き換え",
+    "増設",
+    "換気",
+    "量販",
+    "退社"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の工務関係、安全基準、再確認をお願いします。",
+      "en": "I'll need you to recheck the safety standards for your contracting work.",
+      "style": "Professional, measured. Even tone. Speaks with the authority of protocol, not criticism. Direct eye contact. Pace is steady, deliberate—each phrase lands clear.",
+      "mood": "official_attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。自給型の食材保管、衛生面で話し合う必要があります。",
+      "en": "Yes. We need to go over hygiene procedures for the self-sufficient food storage system.",
+      "style": "Responsive and engaged. Slight forward lean. Acknowledges the severity without defensiveness. Voice is clear and ready—notes being taken internally. Respectful pace.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "契約書の書き換え時、警察への届出が必要な場合も。",
+      "en": "When you're rewriting the contract, there may be cases where we need to file a report with us.",
+      "style": "Matter-of-fact, procedural. No inflection—this is information, not warning. Monotone delivery keeps it administrative. Brief pause before the final phrase to let it register.",
+      "mood": "neutral_regulatory"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "カメラ増設、換気の改善、近日中に着手します。",
+      "en": "We'll get cameras installed and improve the ventilation system starting right away.",
+      "style": "Assured and action-oriented. Crisp attack on the opening. Spoken with quiet confidence—not boasting, just committing. Even rhythm, no hesitation. Nods slightly on 'starting.'",
+      "mood": "determined"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "量販店並みの規模なので、退社時刻の戸締り、厳重に。",
+      "en": "Given the scale you're operating at—nearly retail-grade—door locks and closing procedures need to be airtight.",
+      "style": "Firm but not harsh. Slight emphasis on 'airtight.' Clinical tone. The language shifts to final-protocol register. Slower on the close. This is the non-negotiable part—delivered level, unmoved.",
+      "mood": "strict_professional"
+    }
+  ]
+}

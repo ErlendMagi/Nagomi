@@ -1,0 +1,72 @@
+{
+  "id": "conv_04350",
+  "context": "A senior trains a new hire on shell commands",
+  "purpose": "Teach: 複製/コマンド/ソリューション/リソース/属性/伝達/遂行/実証",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "複製",
+    "コマンド",
+    "ソリューション",
+    "リソース",
+    "属性",
+    "伝達",
+    "遂行",
+    "実証"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日はシェルのコマンドを一通り教えるから、しっかりついてきてほしい。",
+      "en": "Today I'll teach you a full set of shell commands, so keep up.",
+      "style": "Calm, instructive senior tone with steady delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。業務を遂行するうえで必須のスキルですよね。",
+      "en": "Yes, please. It's an essential skill for carrying out the job, right?",
+      "style": "Polite junior, eager and slightly nervous in formal register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まずファイルの複製から。cpを使えば一瞬で同じ内容のコピーが作れる。",
+      "en": "First, file duplication. With cp you can instantly make a copy of the same content.",
+      "style": "Practical explanation with concrete examples and clear pacing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、ファイルの属性もそのまま引き継がれるんですか?",
+      "en": "I see. Are the file attributes also carried over as-is?",
+      "style": "Curious technical question, rising intonation at the end."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "鋭いね。-pオプションを付ければパーミッションも保持される。サーバーのリソースを無駄にしない書き方も覚えてほしい。",
+      "en": "Sharp question. With -p the permissions are preserved too. I want you to learn how to write without wasting server resources.",
+      "style": "Approving, then escalating into a deeper teaching moment."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "効率的なソリューションを身につけたいです。指示の伝達ミスも減らせそうですし。",
+      "en": "I want to master efficient solutions. It should also reduce miscommunication of instructions.",
+      "style": "Motivated and forward-looking, with professional vocabulary."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その姿勢が大事だ。最後に小さなスクリプトを書いて、実際に動くことを実証してみよう。",
+      "en": "That attitude matters. Finally, let's write a small script and prove that it actually works.",
+      "style": "Encouraging mentor wrapping up with a hands-on challenge."
+    }
+  ]
+}

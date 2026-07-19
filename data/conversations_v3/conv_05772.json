@@ -1,0 +1,65 @@
+{
+  "id": "conv_05772",
+  "context": "A police officer briefs about a historical case",
+  "purpose": "Teach: 澤/藩/狂っ/秘め/消極/格段/懇親/突っ込み",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "澤",
+    "藩",
+    "狂っ",
+    "秘め",
+    "消極",
+    "格段",
+    "懇親",
+    "突っ込み"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_290 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "長期未解決の事件、澤家との関わりも噂されていました。",
+      "en": "A long-unsolved case. There were rumors of ties to the Sawa family.",
+      "style": "Measured, official tone. Light pause between sentences. No inflection toward judgment — presenting fact. Steady eye contact, shoulders level. The voice of someone who has stated this before.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時の旧藩社会、秘めた利害が狂った行動を生んだ可能性は?",
+      "en": "In that old han system, could hidden interests and conflicts have driven these actions?",
+      "style": "Lean forward slightly on the question. Genuinely curious — not challenging. Thoughtful pace, testing the idea out loud. Soft uptick at the end, inviting the officer to think with him.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "消極的な証言が多く、捜査は格段に難航しました。",
+      "en": "We received a lot of reluctant testimony. The investigation got significantly harder from there.",
+      "style": "Matter-of-fact, no apology in the delivery. Factual recounting. Slight weight on 「格段に」 — acknowledging the real obstacle. Professional but not distant.",
+      "mood": "frank"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "郷土史家との懇親、突っ込み所が見つかりますか。",
+      "en": "When we spoke with local historians, did any inconsistencies come up?",
+      "style": "Direct but respectful. The tone of someone drilling down on a detail that matters. Slight pause before the question. Not aggressive — precise.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地道に積み上げます。",
+      "en": "Yes. We built up the evidence piece by piece.",
+      "style": "Quiet conviction. No flourish. A small nod might accompany this. Voice settles on the commitment. The kind of closure that says this work continues, but here is the answer to what you asked.",
+      "mood": "resolute"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03923",
+  "context": "A boss reviews material sourcing options at a procurement meeting",
+  "purpose": "Teach: 原子力/面積/工学/金属/抑制/含ん/規格/代替",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原子力",
+    "面積",
+    "工学",
+    "金属",
+    "抑制",
+    "含ん",
+    "規格",
+    "代替"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_198 workflow wmokhormi)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日は新工場の建材調達について話そう。あの土地は面積が広いから、相当な量の金属が必要になる。",
+      "en": "Today let's discuss material procurement for the new factory. That site has a large area, so we'll need a considerable amount of metal.",
+      "style": "Firm executive tone opening a formal procurement meeting decisively"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、工学部出身の山田さんに試算を依頼しました。国際規格に準拠した鋼材を中心に検討しています。",
+      "en": "Yes, I asked Yamada-san, who graduated from the engineering faculty, to run the estimates. We're focusing on steel that complies with international standards.",
+      "style": "Polite subordinate reporting respectfully with technical precision and detail"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "コスト抑制が最優先だ。後者の見積もり、つまり代替案として中国メーカーの提示価格はどうなっている?",
+      "en": "Cost suppression is the top priority. What about the latter quote, that is, the alternative proposal from the Chinese manufacturer?",
+      "style": "Pressing leadership voice demanding numbers with sharp business focus"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "約二割安いのですが、レアメタルを多く含んでいるため、品質に不安を抱いております。",
+      "en": "It's about twenty percent cheaper, but because it contains a lot of rare metals, I have some concerns about the quality.",
+      "style": "Cautious hesitant voice raising a measured concern professionally indoors"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。実はこの工場、近くに原子力発電所があるから、第三者機関の検査も必須になる。",
+      "en": "I see. Actually, this factory is near a nuclear power plant, so inspection by a third-party institution is also mandatory.",
+      "style": "Thoughtful authoritative tone weighing regulatory implications with gravity"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それでしたら、国内サプライヤーの方が望ましいかと。納期にもまだ交渉の余地があります。",
+      "en": "In that case, a domestic supplier would be more desirable. There's still room for negotiation on delivery dates too.",
+      "style": "Diplomatic advisory suggestion offered with quiet confidence and tact"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、では国内案で進めよう。連休明けまでに正式な比較資料を頼む。",
+      "en": "Alright, let's proceed with the domestic plan then. I'll need a formal comparison document by the end of the holiday break.",
+      "style": "Decisive closing directive delivered with confident final business resolve"
+    }
+  ]
+}

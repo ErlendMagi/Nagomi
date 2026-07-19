@@ -1,0 +1,78 @@
+{
+  "id": "conv_04107",
+  "context": "An office helpdesk worker walks a barista through account setup",
+  "purpose": "Teach: ヘッド/タグ/オブジェクト/ポジション/フォーラム/ライセンス/認証/トップページ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘッド",
+    "タグ",
+    "オブジェクト",
+    "ポジション",
+    "フォーラム",
+    "ライセンス",
+    "認証",
+    "トップページ"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "では新しいアカウントの設定を始めますね。まず会社のトップページを開いて、右上のメニューを見てもらえますか?",
+      "en": "Let's start setting up your new account. First, open the company's top page and look at the menu in the upper right.",
+      "style": "Calm professional helpdesk tone with clear step-by-step guidance"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、はい。トップページが開きました。右上に小さいタグみたいなアイコンが並んでますね。",
+      "en": "Oh, yes. The top page opened. There are small tag-like icons lined up in the upper right.",
+      "style": "Friendly barista voice slightly tentative but cooperative throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうです、その中の「アカウント作成」を選んでください。ページのヘッドメニューにもリンクがありますよ。",
+      "en": "That's right, select 'create account' from there. There's also a link in the header section of the page.",
+      "style": "Patient instructional voice guiding through the interface clearly"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "押せました!えっと、職種のところでポジションを選ぶ画面が出てきたんですけど、「バリスタ」で大丈夫ですか?",
+      "en": "I clicked it! Um, a screen for selecting position under job type came up, is 'barista' okay?",
+      "style": "Curious upward inflection showing engagement and slight uncertainty"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、それで結構です。次にソフトウェアのライセンス同意画面が出ますので、内容を確認してチェックを入れてください。",
+      "en": "Yes, that's fine. Next a software license agreement screen will appear, please check the box after reviewing.",
+      "style": "Professional helpdesk register maintaining steady reassuring pace"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかりました。あ、社内フォーラムへのアクセス権限の項目もあるんですが、これもチェックして大丈夫ですか?",
+      "en": "Got it. Oh, there's also an item about access permissions to the internal forum, is it okay to check this too?",
+      "style": "Inquisitive tone reflecting careful reading of unfamiliar terms"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫です、業務で使うので必要ですよ。最後に二段階認証の設定をしましょう。スマホに届くコードを入力するオブジェクトのような小さい入力欄があります。",
+      "en": "It's fine, you'll use it for work so it's needed. Finally let's set up two-factor authentication. There's a small input field, like an object, for entering the code sent to your phone.",
+      "style": "Confident wrap-up tone signaling the end of the procedure"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "コード来ました!入力したら…できた!ありがとうございます、ものすごく助かりました。",
+      "en": "The code arrived! After entering it... done! Thank you so much, you really helped me a lot.",
+      "style": "Bright relieved voice expressing genuine gratitude and accomplishment"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "conv_01511",
+  "context": "Sho-young presents Naoko with a drawing of her ramen shop.",
+  "purpose": "Child gift-giving to gruff aunt; warmth under the bluster.",
+  "ambient": "ramen_shop_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "絵",
+    "描く",
+    "プレゼント",
+    "嬉しい"
+  ],
+  "cast": [
+    "sho_child",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ナオコおばちゃん、絵描いた!",
+      "en": "Auntie Naoko—I drew a picture!",
+      "style": "Bright, unguarded joy. Quick opening attack. Soft and small but genuine. Seeking approval with complete transparency—no filter between thought and words.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おっ、店の絵か?嬉しいやん!",
+      "en": "Oh—a picture of the shop? That makes me so happy!",
+      "style": "Immediate, booming delight. Kansai warmth crackling through. Loud but genuinely moved—not performing brightness but living in it. Laughs a little on the realization.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、上手?",
+      "en": "Yeah—it's... good, right?",
+      "style": "Quiet hope with a thread of vulnerability. Small hesitation before the final word—he's checking her face, not quite believing she means it. Breathless almost, waiting.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "めっちゃ上手や、飾るで!",
+      "en": "Really good—I'm putting it up right now!",
+      "style": "Brassy, immediate certainty. No hedging. Loud warmth with teeth in it—the kind of aunt who moves fast and means it. Affection delivered like a fact, not a feeling.",
+      "mood": "warm_definite"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった、ありがとう!",
+      "en": "Yes!—thank you!",
+      "style": "Pure, uncontained triumph. The 'yes' is almost a shout—relief and joy landing at once. Breathless gratitude tumbling out. The sound of being believed in.",
+      "mood": "thrilled_grateful"
+    }
+  ]
+}

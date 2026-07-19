@@ -1,0 +1,140 @@
+{
+  "id": "conv_00247",
+  "context": "Sakura has come to Dr. Saito's clinic in genuine distress. She doesn't know what's wrong, only that her heart is racing.",
+  "purpose": "small mental-health visit — professional adult holding space for a frightened teen",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "不安",
+    "大丈夫",
+    "落ち着く",
+    "心臓",
+    "安心",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生…なんか、急に苦しくなって。",
+      "en": "Doctor… somehow, suddenly hard to breathe.",
+      "style": "Teen warm soft frightened wavering disclosure, the gentle real distress audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-frightened"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、大丈夫。ゆっくり座って、息して。",
+      "en": "Yes, it's okay. Sit slowly, breathe.",
+      "style": "Doctor warm steady gentle calming professional, the soft real careful-grounding audible, gentle real warmth threading throughout delivery.",
+      "mood": "steadily-calming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "心臓が、すごく速くて…。",
+      "en": "My heart, so fast…",
+      "style": "Teen warm wavering frightened body-disclosure, the soft real fragile distress audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "wavering-frightened"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫、命に関わる感じではない。",
+      "en": "It's okay, not a life-threatening kind.",
+      "style": "Doctor warm steady professional reassurance, the soft real expert-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "expertly-reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ほんと…？",
+      "en": "Truly…?",
+      "style": "Teen warm fragile single-word check, the gentle real wanting-to-believe audible, soft real fragile-hope threading throughout delivery.",
+      "mood": "fragilely-hoping"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当。これは、不安が体に出るやつ。",
+      "en": "Truly. This is anxiety showing in the body.",
+      "style": "Doctor warm gentle naming professional explanation, the soft real clear-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-naming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "不安…そんなの、なかったのに。",
+      "en": "Anxiety… I didn't think I had it.",
+      "style": "Teen warm soft confused vulnerable disclosure, the gentle real real-bewilderment audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-bewildered"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "気付かないうちに、たまっていることもある。",
+      "en": "Sometimes it builds without you noticing.",
+      "style": "Doctor warm gentle professional wisdom-sharing, the soft real understanding audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-explaining"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "受験のこと、ずっと考えてて…。",
+      "en": "I've been thinking about exams the whole time…",
+      "style": "Teen warm soft realizing vulnerable disclosure, the gentle real recognition audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-realizing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、それが原因かもしれないね。",
+      "en": "Yes, that may be the cause.",
+      "style": "Doctor warm gentle validating soft acceptance, the soft real careful-recognition audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-validating"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "どうしたら、いいんですか…？",
+      "en": "What should I do…?",
+      "style": "Teen warm soft small searching question, the gentle real wanting-help audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "誰かに話すこと。一人で抱え込まないこと。",
+      "en": "Talk to someone. Don't carry it alone.",
+      "style": "Doctor warm gentle firm clear wisdom, the soft real real-mentor warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-firm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "誰に話せばいいか、わからなくて。",
+      "en": "I don't know who I should talk to.",
+      "style": "Teen warm soft vulnerable real disclosure, the gentle real lonely-truth audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さんは？まずはそこから。",
+      "en": "Your mother? Start there.",
+      "style": "Doctor warm gentle practical loving suggestion, the soft real expert-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-suggesting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…うん。話してみる。",
+      "en": "…Yeah. I'll try.",
+      "style": "Teen warm soft small committed acceptance, the soft real new-strength audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "softly-committing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつでも来てください。一緒に考えるから。",
+      "en": "Come anytime. We'll think together.",
+      "style": "Doctor warm closing gentle generous extending, the soft real real-mentor warmth audible, gentle real warmth threading throughout delivery.",
+      "mood": "warmly-extending"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10429",
+  "context": "Officer briefs",
+  "purpose": "Teach: 車輪/離陸/発車/発せ/呼び出さ/乗り込み/買い求め/現況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "車輪",
+    "離陸",
+    "発車",
+    "発せ",
+    "呼び出さ",
+    "乗り込み",
+    "買い求め",
+    "現況"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_523 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査車両の車輪点検もされますね",
+      "en": "The police maintain strict inspection protocols for patrol vehicle wheels, don't they.",
+      "style": "Respectful, conversational observation. Even, measured pace. Slightly appreciative lift at the end—acknowledging competence without overdoing it.",
+      "mood": "impressed_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、犯人が空港で離陸前に確保される事案もありますね",
+      "en": "The police do manage to apprehend suspects at the airport before departure sometimes, don't they.",
+      "style": "Thoughtful, noting a fact with mild wonder. Slower cadence. Slight pause before the final clause, as if drawing on an example he's heard.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、緊急車両の発車時刻を細かく管理されますね",
+      "en": "The police schedule emergency vehicle dispatch times with real precision, don't they.",
+      "style": "Observant, almost admiring. Steady tone. A hint of emphasis on 'precision'—recognizing the logistical care involved.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、危険時に警報を発せられる体制を備えてらっしゃいますね",
+      "en": "The police have put systems in place to issue alarms when danger strikes, haven't they.",
+      "style": "Affirming nod in the voice. Calm, grounded delivery. Emphasizes the readiness—not panicked, just solid.",
+      "mood": "confident_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、参考人を呼び出される際の手続きを丁寧にされますね",
+      "en": "The police handle witness summons with real care and procedure, don't they.",
+      "style": "Warm recognition of thoughtfulness. Gentle emphasis on 'care.' Slower, deliberate—he's noticing the consideration involved.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、現場へ素早く乗り込みされますね",
+      "en": "The police do move quickly when they arrive at the scene, don't they.",
+      "style": "Light admiration. Quick tempo on 'quickly'—mirroring the action he's describing. Acknowledging efficiency with respect.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査用具を必要に応じて買い求められますね",
+      "en": "The police procure investigation equipment as the situation demands, don't they.",
+      "style": "Practical observation. Even, measured pace. A note of respect for resourcefulness—matter-of-fact but appreciative.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、事件の現況を上層部に随時報告されますね",
+      "en": "The police keep their superiors updated on case developments as they unfold, don't they.",
+      "style": "Closer now, slightly more personal. Warm recognition. Steady but with a subtle undertone of connection—understanding the chain of command and its weight.",
+      "mood": "warm_understanding"
+    }
+  ]
+}

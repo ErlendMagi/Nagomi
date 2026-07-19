@@ -1,0 +1,72 @@
+{
+  "id": "conv_06029",
+  "context": "A police officer briefs on labor compliance",
+  "purpose": "Teach: 時給/慣行/例会/結束/切り替える/同然/スキーム/富裕",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "時給",
+    "慣行",
+    "例会",
+    "結束",
+    "切り替える",
+    "同然",
+    "スキーム",
+    "富裕"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_303 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の時給規定、適正です。",
+      "en": "Your company's hourly wage standards are compliant.",
+      "style": "Professional, measured delivery. Brief pause before affirming. Steady eye contact, no rush. The tone of someone checking a box but meaning it.",
+      "mood": "official_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界慣行に沿いつつ、独自運用も検討。",
+      "en": "Yes. We follow industry standards, but we're also exploring our own operational protocols.",
+      "style": "Measured, cooperative. Slight lift on 「独自運用」—pride in autonomy without defensiveness. Even pace, collaborative lean forward.",
+      "mood": "engaged_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "例会の出席、社員結束に貢献していますね。",
+      "en": "Regular meeting attendance seems to strengthen team cohesion here.",
+      "style": "Observational, factual. Slight warmth underneath the procedural tone—a quiet acknowledgment of something done right. No surprise, just noting.",
+      "mood": "observant_approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。古いやり方、新しいスキームに切り替える予定です。",
+      "en": "Right. We're transitioning from older practices to updated systems.",
+      "style": "Clear, forward-looking. Light emphasis on 「切り替える」—momentum, not apology. Tempo steady, confident. The voice of someone executing a plan.",
+      "mood": "determined_compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "闇労働同然の業者、注意してください。",
+      "en": "Be careful about contractors operating in gray areas—near-illegal labor conditions.",
+      "style": "Shift to direct warning. Firm but not harsh. Slight weight on 「注意」. Measured cadence that carries seriousness without dramatics. Professional caution.",
+      "mood": "cautioning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "富裕層案件でも、コンプライアンス、徹底しています。",
+      "en": "Even with high-net-worth clients, we maintain strict compliance across the board.",
+      "style": "Quiet conviction. Emphasis on 「徹底」—no exceptions, no shortcuts. Steady, unflinching. The assurance of someone who has already decided this is non-negotiable.",
+      "mood": "principled_resolute"
+    }
+  ]
+}

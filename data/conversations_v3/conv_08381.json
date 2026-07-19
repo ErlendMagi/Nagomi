@@ -1,0 +1,86 @@
+{
+  "id": "conv_08381",
+  "context": "Mom and son chat",
+  "purpose": "Teach: ときには/何一つ/御飯/もうけ/たずね/そうこう/おみやげ/壊れる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ときには",
+    "何一つ",
+    "御飯",
+    "もうけ",
+    "たずね",
+    "そうこう",
+    "おみやげ",
+    "壊れる"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_421 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ときには休むことも大切よ",
+      "en": "Sho, sometimes it's important to rest too.",
+      "style": "Gentle, practical tone. Speaking more to herself than to him — the weight of knowing he worries too much. Warm but matter-of-fact. A pause before the final phrase, like she's choosing her words carefully.",
+      "mood": "caring_weary"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんに何一つ恩返しできてないよ",
+      "en": "Mom, I haven't done anything to repay Grandpa.",
+      "style": "Quiet, almost to himself. A small worry that's been building. Not seeking reassurance — just naming it. Soft and serious, the way only a thoughtful six-year-old can sound.",
+      "mood": "anxious_guilty"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、御飯は残さず食べてね",
+      "en": "Sho, finish your rice, okay? Don't leave any.",
+      "style": "Matter-of-fact, the practical kindness of a mother. No negotiation in the instruction, but warmth underneath. The tone of someone who has said this before and will say it again.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんがお祭りでもうけたっていうの?",
+      "en": "Mom, Dad made money at the festival?",
+      "style": "Bright curiosity breaking through. Quick question — he's noticed something and wants to understand it. The sudden brightness of a child's mind catching onto an unexpected detail.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、おばあちゃんがお家にいるか、たずねてきてね",
+      "en": "Sho, go ask Grandma if she's home, will you?",
+      "style": "Soft instruction, a small task wrapped in gentleness. She's delegating, but not dismissively — the tone of trusting him with something. A slight upward lilt at the end, inviting agreement.",
+      "mood": "gentle_directive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、そうこうしてるうちに、お父さんが帰ってきたよ",
+      "en": "Mom, while we were doing that, Dad came home.",
+      "style": "Observant, slightly wondering. He's noticed the timing, the sequence. Soft, reflective — not excited or upset, just registering. The small satisfaction of noticing something.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんにおみやげ買って帰ろうね",
+      "en": "Sho, let's pick up a souvenir for Grandpa on the way back, yes?",
+      "style": "Tender and inclusive. She's thinking ahead, planning something kind. Warm invitation in her voice — she wants him to feel part of making Grandpa happy. Gentle rise at the end.",
+      "mood": "warm_thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくのおもちゃが壊れるかと心配",
+      "en": "Mom, I'm worried my toy might break.",
+      "style": "Soft worry, delivered close to her — an intimate concern. There's a small tremor underneath, the fragility of childhood anxiety. Not dramatic, just... real.",
+      "mood": "anxious_vulnerable"
+    }
+  ]
+}

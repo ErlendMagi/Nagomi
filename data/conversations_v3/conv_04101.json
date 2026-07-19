@@ -1,0 +1,72 @@
+{
+  "id": "conv_04101",
+  "context": "A boss discusses tax policy changes with his manager",
+  "purpose": "Teach: 課税/税制/立法/給付/提言/制約/妥当/保全",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "課税",
+    "税制",
+    "立法",
+    "給付",
+    "提言",
+    "制約",
+    "妥当",
+    "保全"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今度の税制改革について、君の意見を聞きたいんだ。",
+      "en": "I'd like to hear your opinion on the upcoming tax system reform.",
+      "style": "Authoritative boss tone, calm and measured."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、課税対象の範囲が大きく変わるようですね。中小企業への影響が心配です。",
+      "en": "Yes, it seems the scope of taxable items will change significantly. I'm worried about the impact on small businesses.",
+      "style": "Respectful manager voice, thoughtful and analytical."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "立法府での議論はまだ続いているが、専門家の提言を見る限り、給付金の拡充も検討されている。",
+      "en": "Debates in the legislature are still ongoing, but based on the experts' proposals, expansion of benefit payments is also being considered.",
+      "style": "Deep authoritative voice, deliberate pacing with gravitas."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。ただ、予算の制約を考えると、すべてを実現するのは難しいのではないでしょうか。",
+      "en": "I see. However, considering budget constraints, wouldn't it be difficult to implement everything?",
+      "style": "Polite but candid manager tone, slightly hesitant."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "その通りだ。だからこそ、何が妥当な判断なのか慎重に見極める必要がある。",
+      "en": "Exactly. That's precisely why we need to carefully determine what constitutes a reasonable decision.",
+      "style": "Firm authoritative voice, emphatic and resolute."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。財源の保全も含めて、長期的な視点が求められますね。",
+      "en": "You're absolutely right. A long-term perspective is required, including the preservation of financial resources.",
+      "style": "Agreeable manager voice, measured and respectful."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来週の会議までに、君の方で資料をまとめておいてくれ。頼んだぞ。",
+      "en": "By next week's meeting, please put together the materials on your end. I'm counting on you.",
+      "style": "Commanding boss tone, warm but expectant closing."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_11006",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 柏崎/佐野/矢野/松永/白石/吉岡/小松/亀井",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "柏崎",
+    "佐野",
+    "矢野",
+    "松永",
+    "白石",
+    "吉岡",
+    "小松",
+    "亀井"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_552 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新潟県柏崎の発電所と取引を継続しろ",
+      "en": "Continue our business dealings with the Kashiwazaki power plant in Niigata.",
+      "style": "Direct, clipped authority. Decisive opening on the subject. No hesitation. Assumes immediate compliance. Measured pace, controlled breathing.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新任の佐野部長を歓迎します",
+      "en": "Understood. I'll make sure to welcome the new department head, Sano.",
+      "style": "Crisp acknowledgment, professional tone. Slight nod in the voice on 'understood.' Quick, efficient pacing. Confirmation without flourish.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、営業の矢野課長の出張日程を整えろ",
+      "en": "Arrange the travel schedule for Yano, our sales manager.",
+      "style": "Decisive instruction, similar weight to the first line. Calm authority. Short sentences. Assumes the task will be handled.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。技術担当の松永主任にプロジェクトを任せます",
+      "en": "Yes. I'll assign the project to Matsunaga, our technical lead.",
+      "style": "Prompt confirmation. Brisk, professional rhythm. Efficient delivery—no wasted words. The tone of someone executing a task cleanly.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、広報の白石様の戦略を採用しろ",
+      "en": "Implement the PR strategy that Shiraishi has developed.",
+      "style": "Directive, measured authority. Weight on the verb 'implement.' Calm, unhurried. The tone of someone accustomed to being followed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の吉岡様の決算スケジュールを整えます",
+      "en": "Understood. I'll coordinate the accounting closing schedule with Yoshioka from finance.",
+      "style": "Swift affirmation. Professional tone, even delivery. Slight emphasis on the action verb. Clean, no hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の小松様に新人研修を任せろ",
+      "en": "Assign the new employee training program to Kommatsu from HR.",
+      "style": "Crisp directive, same register as previous commands. Composed authority. Deliberate pacing. No softening—this is an order stated clearly.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の亀井様に契約書確認を依頼します",
+      "en": "Yes. I'll have Kamei from legal review the contracts.",
+      "style": "Final confirmation, slightly softer landing than the previous lines. Professional, orderly. A sense of closing out the meeting. Efficient, complete.",
+      "mood": "attentive"
+    }
+  ]
+}

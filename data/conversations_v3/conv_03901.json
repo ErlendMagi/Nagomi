@@ -1,0 +1,78 @@
+{
+  "id": "conv_03901",
+  "context": "A doctor explains a new clinical trial to a teen journalist",
+  "purpose": "Teach: 臨床/介入/助成/拘束/学術/生成/振動/苦しみ",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "臨床",
+    "介入",
+    "助成",
+    "拘束",
+    "学術",
+    "生成",
+    "振動",
+    "苦しみ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は新しい臨床試験について説明しますね。",
+      "en": "Today I'll explain a new clinical trial.",
+      "style": "Calm professional doctor opening the interview gently."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。早期介入が大事だと聞きました。",
+      "en": "Thank you. I heard early intervention matters.",
+      "style": "Eager teen journalist showing she did her homework."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうです。国の研究助成を受けて、患者さんの苦しみを少しでも減らしたいんです。",
+      "en": "Yes. With government research funding, we want to reduce patients' suffering even a little.",
+      "style": "Earnest doctor speaking with quiet conviction and warmth."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "参加者の拘束時間はどれくらいになりますか？",
+      "en": "How long is the time commitment for participants?",
+      "style": "Practical teen journalist asking a sharp follow-up question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "週に一度、二時間ほどです。新薬は体内で特殊なタンパク質の生成を促します。",
+      "en": "About two hours, once a week. The drug promotes production of a special protein in the body.",
+      "style": "Patient doctor explaining technical detail in accessible terms."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。学術論文ではもう発表されたんですか？",
+      "en": "I see. Has it already been published in academic papers?",
+      "style": "Curious teen pressing for credibility and evidence."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、先月公開しました。装置の微弱な振動を測定して、効果を確認しています。",
+      "en": "Yes, we published last month. We measure the device's faint vibrations to confirm the effect.",
+      "style": "Reassuring doctor confirming methodology with quiet pride."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりやすい説明、本当に助かります。記事にまとめますね。",
+      "en": "Your clear explanation really helps. I'll put it together as an article.",
+      "style": "Grateful teen journalist wrapping up the interview warmly."
+    }
+  ]
+}

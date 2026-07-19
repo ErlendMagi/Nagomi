@@ -1,0 +1,78 @@
+{
+  "id": "conv_03448",
+  "context": "Onboarding a new hire",
+  "purpose": "Onboard a hire; teach 取締役/幹部/当社/既存/民営/法的/解析/自立",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "取締役",
+    "幹部",
+    "当社",
+    "既存",
+    "民営",
+    "法的",
+    "解析",
+    "自立"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_173)",
+    "generated_at": "2026-05-31T21:52:14.762Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新入社員に、会社の仕組みを教えています。",
+      "en": "I’m teaching new hires how the company works.",
+      "style": "patient assistant explaining, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取締役と幹部の違いを、まず説明するといい。",
+      "en": "Start with the difference between directors and executives.",
+      "style": "boss advising, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社の歴史も大事ですね。",
+      "en": "Our company’s history matters too.",
+      "style": "assistant adding, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "既存の部署と新規の挑戦、両方知ってほしい。",
+      "en": "I want them to know both existing units and new challenges.",
+      "style": "boss broadening scope, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "民営の競合との比較も、勉強になります。",
+      "en": "Comparing with private competitors is instructive too.",
+      "style": "assistant noting value, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "法的な知識も、業務に役立つよ。",
+      "en": "Legal knowledge helps the work too.",
+      "style": "boss emphasizing learning, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "データ解析の基礎も、教えています。",
+      "en": "I teach the basics of data analysis too.",
+      "style": "assistant noting curriculum, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "自立した社員に育ってほしいな。",
+      "en": "I want them to grow into independent staff.",
+      "style": "boss closing warmly, each word carrying genuine natural feeling"
+    }
+  ]
+}

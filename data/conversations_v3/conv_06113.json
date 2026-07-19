@@ -1,0 +1,86 @@
+{
+  "id": "conv_06113",
+  "context": "A doctor discusses public-health with a reporter",
+  "purpose": "Teach: 未遂/遭難/警鐘/脱税/伝染/装っ/書記官/触媒",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "未遂",
+    "遭難",
+    "警鐘",
+    "脱税",
+    "伝染",
+    "装っ",
+    "書記官",
+    "触媒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_307 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、未遂感染、初期対応で防げた事例、報告されています。",
+      "en": "Ren — cases like this, where early intervention stopped infection spread, they're being documented.",
+      "style": "Clear, steady delivery. Opens with his name like she's making sure she has his attention. Clinical but not cold. Slight weight on 'documented'—this matters.",
+      "mood": "measured_informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "遠隔地で遭難した患者、搬送、急務でしたね。",
+      "en": "Patients stranded in remote areas — transport became urgent, didn't it.",
+      "style": "Soft certainty. Not asking, confirming he understands. Thoughtful pace. A small acknowledgment of the difficulty embedded in the statement.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。WHOが警鐘を鳴らす事案として、注目を集めました。",
+      "en": "Yes. It became a case WHO flagged—the kind that draws international attention.",
+      "style": "Nod in her voice. Patient, informative. Slight lift on 'international'—larger stakes. No drama, just fact.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療機関の脱税疑惑、別件で報じられましたよね。",
+      "en": "The tax-evasion allegations at the medical facility—those got reported separately, right.",
+      "style": "Careful, probing tone. Testing whether he's caught the connection she's about to make. Not accusatory, but precise. Lean into 'separately' like it's significant.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。感染の伝染、密室で起こりやすい現実があります。",
+      "en": "Yes. The reality is, transmission happens more easily in closed spaces. Medical facilities especially.",
+      "style": "Grounded, almost teaching. Weight on 'reality'—this is something learned the hard way. Slow, deliberate pace. Not rushing the point.",
+      "mood": "weary_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療従事者を装った詐欺、警察と連携対応ですか。",
+      "en": "Fraud cases where someone posed as medical staff—those required coordination with police, didn't they.",
+      "style": "Steady, methodical. Acknowledging the puzzle piece he's adding. Slight pause before 'didn't they'—giving him space to confirm.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。記録は書記官的に厳密、データ管理しています。",
+      "en": "Yes. The records are kept with strict documentation standards. Data management is rigorous.",
+      "style": "Procedural, composed. Each phrase lands like a separate filing system. Precise diction. No hesitation. Professional distance maintained throughout.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "触媒的に医療連携を進めた研究者、いますか。",
+      "en": "Are there researchers who've been catalysts for medical cooperation—people who drove that integration forward.",
+      "style": "Quieter now, almost introspective. Ren's asking something harder. She pauses before answering in her mind. Gentle but direct. The question matters to him and she knows it.",
+      "mood": "thoughtful_searching"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_06074",
+  "context": "A boss reviews a safety incident",
+  "purpose": "Teach: 転倒/手当て/灰色/大小/スカイ/ナビ/相手方/袖",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "転倒",
+    "手当て",
+    "灰色",
+    "大小",
+    "スカイ",
+    "ナビ",
+    "相手方",
+    "袖"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_305 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "工場の転倒事故、原因究明、急げ。",
+      "en": "Plant accident, determine cause immediately.",
+      "style": "Clipped, authoritative. Even pace, no flourish. The weight of command without theatricality. Direct eye contact implied.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。応急手当てから二次救急まで、対応済みです。",
+      "en": "Yes. First aid through secondary care — all handled.",
+      "style": "Calm, confident reporting. Measured cadence. Each phase delivered with quiet assurance. No apology, no hedging.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "責任、灰色の表現は避けろ。",
+      "en": "Liability — no ambiguous language.",
+      "style": "Sharp correction. Pause before the second phrase for weight. Lean in slightly. Not angry, but precise and final.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事案の大小、丁寧に整理します。",
+      "en": "Understood. All incidents documented clearly by severity.",
+      "style": "Steady, taking direction. Slight nod in the voice. No rush, no defensiveness. Professional acknowledgment.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警備カメラ、スカイビュー、相手方確認できる体制を。",
+      "en": "Security cameras, overhead angle, full visibility of the incident location.",
+      "style": "Three separate operational points. Pause between each. Businesslike, no elaboration. The tone of someone building a structure.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "地図ナビでの位置情報、社内システムに統合中です。",
+      "en": "Location data from GPS is being integrated into the system now.",
+      "style": "Progress update delivered steadily. 'Now' gets a slight emphasis — work already in motion. Factual, forward-looking.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "制服の袖、目立つ仕様に変更検討。",
+      "en": "Consider changing uniform sleeves to high-visibility material.",
+      "style": "Thoughtful closing. Softer than the directives before — this is preventive, not reactive. Measured, almost reflective.",
+      "mood": "preventive"
+    }
+  ]
+}

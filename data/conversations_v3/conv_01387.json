@@ -1,0 +1,62 @@
+{
+  "id": "conv_01387",
+  "context": "Yumiko plans summer vacation activities with Sho.",
+  "purpose": "mother-child summer-vacation exchange",
+  "ambient": "tatami_room_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "夏休み",
+    "一緒",
+    "楽しい",
+    "頑張る",
+    "家族"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "しょうくん、夏休み、本当、もうすぐ。",
+      "en": "Sho-kun, summer vacation is coming up so soon.",
+      "style": "Warm, unhurried opening. A mother's quiet delight that she's about to have her son home. Soft voice, genuine anticipation threaded through every word. The kind of warmth that doesn't need to perform.",
+      "mood": "warm_anticipating"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、本当、楽しみ、本当に。",
+      "en": "Yeah — I'm really looking forward to it.",
+      "style": "Small, sincere voice. Genuine excitement without performance — the straightforward joy of a six-year-old who trusts that good things are coming. Bright but quiet, the warmth matching his mother's.",
+      "mood": "excited_sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族、皆で、本当、過ごそう。",
+      "en": "Let's spend it all together as a family.",
+      "style": "Gentle proposal, not a command. A mother offering something she's been thinking about. Tender opening on the thought, then held steady. The voice carries both invitation and quiet intention.",
+      "mood": "tender_proposing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張る、本当、毎日。",
+      "en": "I'll do my best every single day.",
+      "style": "Small voice with surprising steadiness. Not boasting — just a six-year-old making a quiet promise he means. Earnest without strain. A child's form of love expressed as commitment.",
+      "mood": "committed_sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、本当、楽しい、ね。",
+      "en": "It's going to be fun together, isn't it.",
+      "style": "Reflective, almost wondering. A mother acknowledging something she already knows but is letting herself feel fully. Warm, appreciative. Slight trailing-off at the end — less a question, more a moment of gratitude made audible.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

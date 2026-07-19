@@ -1,0 +1,86 @@
+{
+  "id": "conv_08912",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 兵役/根絶/敵意/施政/余命/群集/沈下/借款",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "兵役",
+    "根絶",
+    "敵意",
+    "施政",
+    "余命",
+    "群集",
+    "沈下",
+    "借款"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_447 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、戦時兵役関連の歴史的犯罪を警察、調査されてますね",
+      "en": "The police have been investigating the historical crimes related to wartime military service in this case, haven't they?",
+      "style": "Thoughtful, observational tone. Careful phrasing—genuinely curious, not challenging. Slight pause before the final phrase as though considering the weight of the topic.",
+      "mood": "curious_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、薬物の根絶を目標に活動を続けます",
+      "en": "The police will continue our efforts with drug eradication as our goal.",
+      "style": "Official but measured. Clear, direct delivery. Professional authority tempered with quiet purpose. Steady eye contact.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者への敵意を扇動した発言を警察、注視されてますね",
+      "en": "In this case, the police have been monitoring statements that incited hostility toward the victims, correct?",
+      "style": "Careful, intellectual tone. Respectful but probing. Each phrase weighted. Slight hesitation before naming the harmful behavior, as if choosing words with precision.",
+      "mood": "analytical_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地方自治体の施政との連携を強化します",
+      "en": "We're strengthening our coordination with local government bodies on policy implementation.",
+      "style": "Formal, declarative. Confident delivery without arrogance. The tone of someone explaining institutional commitment. Measured pace.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、重病の容疑者の余命を警察、配慮されてますね",
+      "en": "The police are taking into account the terminal diagnosis of the suspect in this case, aren't they?",
+      "style": "Gentle but serious. Acknowledging human complexity within procedural responsibility. Lower register, respectful tone. No judgment in the voice.",
+      "mood": "thoughtful_somber"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、群集事故防止のため警備を厚くします",
+      "en": "We're increasing security presence to prevent crowd-related accidents.",
+      "style": "Practical, solution-focused delivery. Professional authority. Clear and direct without being cold. The voice of someone managing risk with care.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、地盤沈下による事故対応を警察、なさってますね",
+      "en": "The police are handling accident response related to ground subsidence in this case, yes?",
+      "style": "Observational, methodical. Quieter intensity—acknowledging the technical complexity. Respectful of the officer's expertise. No rising inflection on the question.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不正借款詐欺の事案も捜査します",
+      "en": "We're also investigating cases of illegal loan fraud schemes.",
+      "style": "Matter-of-fact, focused. Completion of a statement—brief, confident. The voice of breadth of responsibility. No softening.",
+      "mood": "focused"
+    }
+  ]
+}

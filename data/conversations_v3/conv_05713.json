@@ -1,0 +1,65 @@
+{
+  "id": "conv_05713",
+  "context": "A boss reviews a CSR report",
+  "purpose": "Teach: 無償/基調/結ば/保っ/欠ける/とらえる/所見/判っ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "無償",
+    "基調",
+    "結ば",
+    "保っ",
+    "欠ける",
+    "とらえる",
+    "所見",
+    "判っ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_287 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "CSR報告、無償活動の章、基調を保って書けているか。",
+      "en": "CSR report—the volunteering chapter. Is the tone consistent throughout?",
+      "style": "Clipped, efficient. Leans forward slightly. Questions have weight without irritation. Eyes tracking for the answer before it comes.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。実態をとらえる例も結ばれ、説得力があります。",
+      "en": "Yes. The examples ground it in reality, and it reads convincingly.",
+      "style": "Steady, competent. No flourish. Reports facts with understated confidence. Meets his eye level without overstepping.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "欠ける数値、補強しろ。所見欄も、簡潔に。",
+      "en": "Fill in the missing figures. And tighten up the remarks section.",
+      "style": "Crisp instruction, no preamble. Light stress on the action words. Not unkind—the efficiency of someone who knows what works. Expects compliance.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "監査側、内容を判って好評を頂きました。",
+      "en": "The auditors understood the material and gave positive feedback.",
+      "style": "Factual update, slight lift at the end. Understands this is good news without overselling it. Waits for his next move.",
+      "mood": "positive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、年次報告に向けて。",
+      "en": "Good. Now we move toward the annual report.",
+      "style": "Settled, forward-looking. A nod closing one phase. Quiet authority—the next steps are already in motion in his mind.",
+      "mood": "purposeful"
+    }
+  ]
+}

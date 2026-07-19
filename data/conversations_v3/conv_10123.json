@@ -1,0 +1,86 @@
+{
+  "id": "conv_10123",
+  "context": "Elderly couple chats",
+  "purpose": "Teach: 裏面/デタラメ/マズイ/酔っ払い/いまひとつ/合掌/かみさん/無茶苦茶",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "裏面",
+    "デタラメ",
+    "マズイ",
+    "酔っ払い",
+    "いまひとつ",
+    "合掌",
+    "かみさん",
+    "無茶苦茶"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_508 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、お父さんが葉書の裏面に詩を書かれた",
+      "en": "You know, Gran — when your father was young, he'd write poetry on the back of postcards.",
+      "style": "Soft, remembering voice. Gentle opening. Pace slows as he moves into the memory. Trailing reverence at the end, like he's still seeing it.",
+      "mood": "wistful_tender"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、お祖父ちゃん、デタラメな噂を信じない方だったわよね、あなた?",
+      "en": "He did, dear — and your grandfather, he was never one to believe idle gossip, was he?",
+      "style": "Warm affirmation, gentle redirection. Leans into the question at the end—not challenging, but gently steering him toward what matters. Soft emphasis on the loyalty.",
+      "mood": "knowing_gentle"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、お父さんがマズイご飯でも文句なく食べられた",
+      "en": "Gran, when he was young — your father would eat even a terrible meal without a single complaint.",
+      "style": "Same wistful pull as before. Slight wonder in the voice—a man astonished by kindness he'd taken for granted. Soft fade on the image.",
+      "mood": "wistful_awed"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、酔っ払いの客を諭された日もあったわよね、あなた?",
+      "en": "That's right, dear — and your grandfather, he'd talk sense into drunk customers some nights. Gently, never harsh.",
+      "style": "Nodding recognition. A small laugh beneath the words—fondness for that quiet strength. Patient rhythm, like she's watched him do this a hundred times.",
+      "mood": "affectionate_proud"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、若い頃、新事業がいまひとつ伸びなかった年もあった",
+      "en": "Gran, there were years when the new business didn't quite grow the way we hoped.",
+      "style": "Slight heaviness here—admission of old worry. The voice steadies though, like he's moving toward something beyond regret. Measured pace.",
+      "mood": "wistful_reflective"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、ご先祖様に毎朝合掌されたわよね、あなた?",
+      "en": "But your grandfather, he bowed to his ancestors every morning, didn't he, dear?",
+      "style": "Quiet certainty. A statement disguised as a question. Reverent but not sentimental—matter-of-fact about what prayer meant. Slight settling in the voice.",
+      "mood": "reverent_knowing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、お父さんは私をかみさんと愛らしく呼んで下さった",
+      "en": "Gran, your father — he called me by such an affectionate name. Like I was his dear wife.",
+      "style": "Voice softens almost to a whisper. Affection and old wonder mixed together. Breathiness on the opening. Lingers on the word choice—it meant something specific.",
+      "mood": "tender_cherished"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、無茶苦茶な仕事もこなされたわよね、あなた?",
+      "en": "Your grandfather, he tackled the craziest, most impossible work—and he simply did it. Without complaint.",
+      "style": "Quiet admiration settling over the words. Close, intimate, like she's telling him something he already knows but needs to hear again. Slight warmth at the close.",
+      "mood": "proud_close"
+    }
+  ]
+}

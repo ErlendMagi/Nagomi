@@ -1,0 +1,75 @@
+{
+  "id": "conv_02826",
+  "context": "Kenji and Ren coordinate a site project.",
+  "purpose": "WIDENED SCENARIO: workplace coordination; vocabulary (部門/本部/指示/工事/資格) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "部門",
+    "本部",
+    "指示",
+    "工事",
+    "資格"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_142)",
+    "generated_at": "2026-05-29T14:30:17.368Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "工事の段取りは、決まりましたか?",
+      "en": "Is the construction schedule set?",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本部から、指示が届きましたよ。",
+      "en": "Instructions arrived from headquarters.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "どの部門が、担当ですか?",
+      "en": "Which department is in charge?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "技術部門が、工事を担当します。",
+      "en": "The technical department handles construction.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "特別な資格が、要るんですか?",
+      "en": "Are special qualifications needed?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、資格を持つ人だけが入れます。",
+      "en": "Yes, only qualified people can enter.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本部の指示を、各部門に共有しますね。",
+      "en": "I'll share HQ's instructions with each department.",
+      "style": "reliable young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "資格の確認も、忘れずにね。",
+      "en": "Don't forget to verify qualifications too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

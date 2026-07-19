@@ -1,0 +1,84 @@
+{
+  "id": "conv_04096",
+  "context": "A senior trains a new hire on the company intranet basics",
+  "purpose": "Teach: メールアドレス/開示/閲覧/オプション/機種/無線/等々/目次",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メールアドレス",
+    "開示",
+    "閲覧",
+    "オプション",
+    "機種",
+    "無線",
+    "等々",
+    "目次"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ早速だけど、社内ポータルの目次を一緒に見ていこうか。",
+      "en": "Alright, let's get right to it and look through the company portal's table of contents together.",
+      "style": "Warm but business-like senior mentor tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、お願いします。まず会社のメールアドレスでログインすればいいんですよね？",
+      "en": "Yes, please. First I just log in with my company email address, right?",
+      "style": "Polite, slightly nervous new hire register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。ログイン後、君の権限で閲覧できる資料と、上司の承認なしには見られないものがあるから注意してね。",
+      "en": "Right. After logging in, some documents you can view freely, while others require your supervisor's approval, so be careful.",
+      "style": "Instructional, careful explanation with mild warning."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。人事情報の開示についてもルールがあるんでしょうか？",
+      "en": "I see. Are there also rules regarding the disclosure of HR information?",
+      "style": "Curious, formal question from a junior employee."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。給与や評価等々のデータは厳しく管理されていて、無断の開示は絶対ダメだ。",
+      "en": "Of course. Data like salaries, evaluations, and so on are strictly managed, and unauthorized disclosure is absolutely forbidden.",
+      "style": "Firm, serious tone about workplace ethics rules."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。あと、社用スマホの機種って自分で選べるんですか？",
+      "en": "Understood. Also, can I choose the model of my company smartphone myself?",
+      "style": "Lightening up with a casual practical question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "二種類から選べるよ。設定画面のオプションから機種変更も申請できる。",
+      "en": "You can choose between two types. From the options screen in settings, you can also request a model change.",
+      "style": "Helpful, matter-of-fact procedural guidance for newcomers."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "助かります。社内の無線LANのパスワードはどこに載っていますか？",
+      "en": "That's helpful. Where is the company's wireless LAN password listed?",
+      "style": "Practical follow-up in a friendly junior tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ポータルのトップにある目次の「ITサポート」の項目を開けば、無線の接続情報が全部書いてあるよ。",
+      "en": "If you open the IT Support item in the table of contents at the top of the portal, all the wireless connection info is written there.",
+      "style": "Friendly conclusion guiding navigation steps clearly."
+    }
+  ]
+}

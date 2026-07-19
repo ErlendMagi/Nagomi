@@ -1,0 +1,61 @@
+{
+  "id": "conv_01922",
+  "context": "Mei sews a small repair on Sho-young's favorite shirt.",
+  "purpose": "Mother carefully mending child's favorite item.",
+  "ambient": "living_room_evening_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "服",
+    "直し",
+    "針",
+    "糸"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、服、直せる?",
+      "en": "Mom, can you fix my clothes?",
+      "style": "Soft, hesitant opening. Small boy's voice, barely above a whisper. Gentle rising hope at the end of the question — checking if it's okay to ask. Warm and trusting.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、針と糸あるから。",
+      "en": "Yeah, I have needle and thread.",
+      "style": "Quick, matter-of-fact reassurance. A small smile in the voice. Warm without sentimentality — practical care delivered gently. No pause, no drama.",
+      "mood": "capable_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、お母さん!",
+      "en": "Thank you, Mom!",
+      "style": "Bright burst of relief and joy. Genuine small-boy laugh underneath. Quick and uncomplicated — pure gratitude without self-consciousness.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "大事な服やもん。",
+      "en": "It's important to you, isn't it.",
+      "style": "Soft, knowing statement. Not a question. Quiet tenderness — she understands why this matters. Slight pause before speaking, like she's seeing him see the shirt. Unhurried.",
+      "mood": "tender_understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、また、着られる!",
+      "en": "Yeah — I can wear it again!",
+      "style": "Delighted, open-throated child voice. Quick tempo, bright energy. The joy of solution, not performance. Small laugh of relief woven through.",
+      "mood": "joyful"
+    }
+  ]
+}

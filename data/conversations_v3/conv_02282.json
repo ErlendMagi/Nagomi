@@ -1,0 +1,79 @@
+{
+  "id": "conv_02282",
+  "context": "Sho-young gets sunburn at the beach; Saito treats him.",
+  "purpose": "Doctor caring for child summer mishap.",
+  "ambient": "clinic_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "日焼け",
+    "小児",
+    "熱い",
+    "皮",
+    "薬",
+    "丁寧",
+    "直ぐに",
+    "注意"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_115)",
+    "generated_at": "2026-05-27T18:52:31.248Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "先生、日焼け、痛い!",
+      "en": "Doctor, it hurts—my sunburn really hurts.",
+      "style": "Small, pained voice. Tight at the edges from discomfort. A child's directness without drama. Trusting the doctor to fix it.",
+      "mood": "hurt_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "熱い感じ、ようけある?小児、よく出る症状や。",
+      "en": "That burning sensation—is it quite widespread? Children get that often, you know.",
+      "style": "Warm reassurance underneath clinical observation. Speaking to the child, not at him. Slight settling pause after the question, making room for him.",
+      "mood": "knowing_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "皮、ようけ赤い!",
+      "en": "My skin is so red—look, so much red!",
+      "style": "Urgent, pointing-energy. Still small but insistent. The worry of seeing something wrong on your own body.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "直ぐに、優しい薬、塗ってあげるね。",
+      "en": "I'll put some gentle medicine on it for you right now.",
+      "style": "Calm, capable hands in the voice. Warm promise. No rushed movements, just steady action beginning.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "気をつけないと、また、なるのね。",
+      "en": "So if I'm not careful, it could happen again, right?",
+      "style": "Quiet processing. A child following cause to effect. Not fearful—just learning. Checking his understanding with the adult.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "日陰、丁寧に、休んでね。",
+      "en": "Yes. Rest in the shade, take your time with it.",
+      "style": "Simple instruction delivered with quiet firmness. Not commanding but clear. The kind of thing a child will remember.",
+      "mood": "steady_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、先生!",
+      "en": "Thank you, Doctor!",
+      "style": "Relief flooding in. Genuine gratitude, bright again now that help is here. The speed of a child's return to trust.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

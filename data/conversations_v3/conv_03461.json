@@ -1,0 +1,78 @@
+{
+  "id": "conv_03461",
+  "context": "Teacher (asuka) and student (ren) watch and analyze a TV crime-news segment about a murder investigation",
+  "purpose": "Teach: 刑事/殺し/侵害/違法/正当/権限/戦闘/馬鹿",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "刑事",
+    "殺し",
+    "侵害",
+    "違法",
+    "正当",
+    "権限",
+    "戦闘",
+    "馬鹿"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "このニュース、見てください。担当の刑事が会見していますね。",
+      "en": "Take a look at this news segment. The detective in charge is giving a press conference.",
+      "style": "composed teacher cueing a focused classroom analysis"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "殺しの容疑で逮捕、って出てますね。結構生々しい事件ですね。",
+      "en": "It says he was arrested on suspicion of murder. Pretty grisly case, huh.",
+      "style": "university student squinting at the screen, half uneasy"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうですね。警察にも捜査する権限はありますが、無制限ではありません。",
+      "en": "Indeed. The police have authority to investigate, but it isn't unlimited.",
+      "style": "teacher pivoting smoothly into a legal lecture"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "えっと、令状なしで家に踏み込んだら、それって人権侵害になるんですか?",
+      "en": "Uh, if they barge into the house without a warrant, does that count as a human rights violation?",
+      "style": "earnest student testing a hypothesis aloud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "良い質問です。手続きを無視すれば違法捜査になり、証拠も無効になり得ます。",
+      "en": "Good question. If they skip procedure it becomes an illegal search, and the evidence can be thrown out.",
+      "style": "patient teacher praising while tightening the logic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "でも犯人が抵抗して戦闘みたいになったら、撃つのは正当防衛ですよね?",
+      "en": "But if the suspect resists and it turns into a full-on fight, shooting him is legitimate self-defense, right?",
+      "style": "student leaning forward, working through tricky edge cases aloud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "単純に馬鹿正直に撃ってよいわけではなく、必要最小限であることが条件です。",
+      "en": "You can't just naively open fire — it has to be the minimum force necessary.",
+      "style": "teacher gently correcting the student's oversimplified assumption with care"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。刑事ドラマみたいにバンバン撃ってたら、現実なら大問題ですね。",
+      "en": "I see. If they were blasting away like in a TV cop drama, in real life that'd be a huge problem.",
+      "style": "student exhaling, the lesson finally clicking into place"
+    }
+  ]
+}

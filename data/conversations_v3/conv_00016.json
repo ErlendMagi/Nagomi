@@ -1,0 +1,77 @@
+{
+  "id": "conv_00016",
+  "context": "Sunday evening. Sachiko calls her adult daughter Yumiko from her quiet house in Saitama.",
+  "purpose": "maintenance call across generations — small news + the unspoken main reason (just hearing her voice)",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "大丈夫",
+    "元気",
+    "時間",
+    "ありがとう",
+    "一緒"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "もしもし、ゆみちゃん？今、ちょっと大丈夫？",
+      "en": "Hello, Yumi? Do you have a moment?",
+      "style": "Slow, melodic opening with the slight tremor of older speech. Uses the diminutive 'ちゃん' — a lifetime habit. Warm and tentative, as if checking whether she's intruding.",
+      "mood": "gentle_checking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、お母さん、大丈夫だよ。どうしたの？",
+      "en": "Yes, Mom — I'm free. What's going on?",
+      "style": "Sits down physically on the question, though she's still in the kitchen. Warm with an undertone of concern, the kind she carries by default.",
+      "mood": "present_worried"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いえ、何でもないの。本当に、ただ声、聞きたかっただけ。",
+      "en": "Oh, nothing really — I just wanted to hear your voice.",
+      "style": "The truth arrives unhurried and unadorned. The 'really' is small and honest. Open in both languages — no performance, just need.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん、ほんと、いつでも電話していいからね。",
+      "en": "Mom — you can call me anytime, okay? Really.",
+      "style": "Voice softens measurably. The reassurance is genuine and layered with affection she doesn't normally display so openly. Spoken like a promise she means.",
+      "mood": "warm_sincere"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがとう、ね。ひなちゃんは元気？",
+      "en": "Thank you, sweetie. How is Hina doing?",
+      "style": "Smooth transition into family check-ins, affectionate and easy. The diminutive again — a signature of their language together.",
+      "mood": "content"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "元気だよ。今日もうるさいくらい。一緒に話す？",
+      "en": "She's doing great. Loud as ever today. Want to say hi?",
+      "style": "Affectionate exasperation in the voice — the eyeroll is audible. Already turning toward the next room, momentum building gently.",
+      "mood": "amused_maternal"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、少しだけね。本当に、ありがとう。",
+      "en": "Yes — just for a bit. Really — thank you for this.",
+      "style": "The gratitude is not just for the offer. It holds the call, the moment, and twenty years of these small mercies. Keep it understated, almost whispered.",
+      "mood": "grateful"
+    }
+  ]
+}

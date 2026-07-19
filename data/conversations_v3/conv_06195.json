@@ -1,0 +1,86 @@
+{
+  "id": "conv_06195",
+  "context": "A doctor discusses environment-health",
+  "purpose": "Teach: 野鳥/密室/完走/称さ/代々/比し/戦中/脅かさ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "野鳥",
+    "密室",
+    "完走",
+    "称さ",
+    "代々",
+    "比し",
+    "戦中",
+    "脅かさ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_311 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、野鳥との感染症関連、調査、続けています。",
+      "en": "Ren, I'm continuing the investigation into the connection between wild birds and infectious disease.",
+      "style": "Matter-of-fact opening. Steady, professional tone. No rush. The confidence of someone who has explained this before. Eye contact level throughout.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "密室での隔離、感染拡大防止に重要ですね。",
+      "en": "Isolation in closed environments — that's crucial for preventing the spread, isn't it?",
+      "style": "Genuine question, not rhetorical. Lean forward slightly. Respectful of her expertise. Quiet attentiveness — he's listening to learn, not to respond.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。回復までの完走、患者と医師の二人三脚です。",
+      "en": "Yes. Getting a patient through to recovery — it's a partnership between us. Doctor and patient, walking the road together.",
+      "style": "Warm affirmation. Slight pause before the metaphor lands. Clear conviction underneath. Not lecturing — offering something she's learned.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域の名医と称される先生、丁寧に対応されてますね。",
+      "en": "The way you handle things — I've heard people call you the best doctor in the area. It shows in how careful you are.",
+      "style": "Respectful, almost careful with the compliment. No flattery in the voice. Direct observation. Slight hesitation — he means it and knows it matters.",
+      "mood": "admiring_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。代々、地域医療を担ってきました。",
+      "en": "Yes. My family has been caring for this community for generations. It's what we do.",
+      "style": "Simple, grounded. Not proud, factual. Long pause before speaking, as if the weight of that lineage is already in the air. Quiet gravity.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去のパンデミックに比し、対応、進化していますね。",
+      "en": "The way responses have evolved compared to past pandemics — there's real progress there, isn't there?",
+      "style": "Thoughtful observation. The recognition of progress without naiveté. Slight lift at the end — genuine curiosity about her view on this.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "戦中医療史、参考にすべき教訓、多いです。",
+      "en": "Wartime medical history teaches us so much. There are lessons there we shouldn't forget.",
+      "style": "Slower pace. Weight on the word 'wartime.' Not grim, but serious. The voice of someone who has studied the cost of things. Trailing into the gravity of the past.",
+      "mood": "solemn_thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "安全が脅かされない医療体制、守っていきたいですね。",
+      "en": "We have to protect a healthcare system where people can trust they're safe. That's something worth fighting for.",
+      "style": "Quiet resolve beneath. Not urgent, but certain. The conviction settles into his words. Slight pause before 'worth fighting for' — he feels the weight of it.",
+      "mood": "resolute_protective"
+    }
+  ]
+}

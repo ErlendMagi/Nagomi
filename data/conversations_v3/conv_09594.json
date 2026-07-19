@@ -1,0 +1,86 @@
+{
+  "id": "conv_09594",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 熟語/官能/固体/開校/国体/農耕/高分子/感嘆",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "熟語",
+    "官能",
+    "固体",
+    "開校",
+    "国体",
+    "農耕",
+    "高分子",
+    "感嘆"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_481 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者の熟語理解度を医療チームで評価します",
+      "en": "Ren, we assess patient comprehension across the medical team.",
+      "style": "Measured, professional opening. Clear enunciation on clinical terms. Steady pace, warm but clinical. No rush — the tone of someone used to explaining important things carefully.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、官能評価試験を医療チームで用います",
+      "en": "Yes, we use sensory evaluation testing as part of our team assessment.",
+      "style": "Affirming nod in the voice. Slightly slower on technical terms. Patient, unhurried — reassuring without being patronizing. She's clarifying, not correcting.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、固体内服薬の処方を医療チームで管理します",
+      "en": "Ren, the medical team manages the dispensing of solid-form medications carefully.",
+      "style": "Direct, clinical precision. Even tone. Each phrase lands with quiet authority. No inflection toward warmth or distance — just the facts, delivered with care.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "看護学校開校時の医療連携を、貴院、おこなわれましたね、先生",
+      "en": "When the nursing school opened, your hospital coordinated medical services for that transition, didn't it, sensei?",
+      "style": "Thoughtful, respectful inquiry. Soft start on the question. Slight rise on 'coordinated' — not challenging, but genuinely curious. Acknowledging her expertise. Small pause before 'sensei' — not performative, genuine.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、国体大会時の救護体制を医療チームで担当します",
+      "en": "Yes, during the National Games, the medical team managed emergency response protocols.",
+      "style": "Calm confirmation. Brief, matter-of-fact. She's not elaborating because the point was heard. Professional clarity without distance — she respects that he's asking.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "農耕従事者の腰痛対策を、貴院、研究されてますね、先生",
+      "en": "Your hospital researches lower-back pain prevention for agricultural workers, doesn't it, sensei?",
+      "style": "Genuine curiosity with respect underneath. Slightly slower pace — he's thinking as he speaks. Warm inquiry, not interrogation. The tone of someone asking because he actually wants to know, not to test.",
+      "mood": "thoughtful_admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、高分子膜を用いた人工臓器を医療チームで研究します",
+      "en": "Yes, the medical team is researching artificial organs using polymer membranes.",
+      "style": "Measured affirmation. Slight weight on 'artificial organs' — these are significant words. Even breath, unhurried. The tone of someone sharing something she's proud of, but with professional restraint.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療の成果に患者が感嘆を、貴院、よく受けられますね、先生",
+      "en": "Patients often express deep gratitude when they see the results of treatment at your hospital, don't they, sensei?",
+      "style": "Warm, genuinely impressed. Opens softly. Builds slightly toward 'gratitude' — there's real feeling here, carefully controlled. Close observation in the voice — he's noticed something about how this place works. Respectful distance maintained.",
+      "mood": "admiring_warm"
+    }
+  ]
+}

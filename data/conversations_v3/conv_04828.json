@@ -1,0 +1,78 @@
+{
+  "id": "conv_04828",
+  "context": "A uni intern interviews a manager about employee benefits",
+  "purpose": "Teach: 通称/共済/修了/貯蓄/休業/出店/創出/なさる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通称",
+    "共済",
+    "修了",
+    "貯蓄",
+    "休業",
+    "出店",
+    "創出",
+    "なさる"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。早速ですが、社内で通称「ファミリー手当」と呼ばれている制度について伺ってもよろしいですか？",
+      "en": "Thank you for your time today. May I ask about the program known internally by the nickname 'Family Allowance'?",
+      "style": "Polite formal intern opening with respectful tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、どうぞ。あれは正式には共済組合の家族支援枠なんですよ。加入者なら配偶者や子どもまでカバーされます。",
+      "en": "Sure, go ahead. Officially it's the family support category of our mutual aid society. Members' spouses and children are covered too.",
+      "style": "Friendly informative explanation from a knowledgeable office worker."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。研修を修了したばかりの新入社員でも、すぐ利用できるんでしょうか？",
+      "en": "I see. Can new employees who just finished their training start using it right away?",
+      "style": "Curious follow-up question with student-like earnestness."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、研修修了の翌月から自動で対象になります。あと意外と人気なのが、給与天引きの貯蓄プランですね。少しずつ積み立てられて便利ですよ。",
+      "en": "Yes, you're automatically eligible from the month after training ends. Another surprisingly popular one is the payroll-deduction savings plan—convenient for putting money aside little by little.",
+      "style": "Helpful detailed answer with a touch of personal recommendation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、それは助かりますね。育児休業の制度も整っていると聞いたんですが、男性も取りやすい雰囲気ですか？",
+      "en": "Wow, that's helpful. I heard the parental leave system is well-developed too—is it easy for men to take it as well?",
+      "style": "Inquisitive student probing into workplace culture."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "正直、昔は遠慮する人も多かったんですけど、最近は部長クラスでも普通に休業を取られますね。雰囲気はかなり変わりました。",
+      "en": "Honestly, people used to hesitate, but these days even department heads take leave normally. The atmosphere has really changed.",
+      "style": "Candid reflection on changing workplace norms."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは心強いです。最後に、海外への新規出店が続いていますが、現地での雇用創出も会社のミッションの一部なんでしょうか？",
+      "en": "That's reassuring to hear. Lastly, with all the new overseas store openings, is local job creation part of the company's mission too?",
+      "style": "Polished closing question linking benefits to corporate purpose."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。社長も常々おっしゃっていますが、出店先で地元の方々を雇い、長く働いていただくことを大事になさる方針なんですよ。",
+      "en": "Absolutely. As the president often says, we value hiring local people at our new locations and ensuring they can build long careers with us.",
+      "style": "Formal corporate-style answer using respectful keigo."
+    }
+  ]
+}

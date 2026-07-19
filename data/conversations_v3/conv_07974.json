@@ -1,0 +1,86 @@
+{
+  "id": "conv_07974",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 照らし/記さ/屈し/残留/広範囲/生じる/通念/護衛",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "照らし",
+    "記さ",
+    "屈し",
+    "残留",
+    "広範囲",
+    "生じる",
+    "通念",
+    "護衛"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、X線が照らした病巣を医療チーム確認しました",
+      "en": "Ren — we've confirmed the lesion the X-ray showed. The medical team has reviewed it.",
+      "style": "Clear, professional opening. Steady eye contact. Measured pace with slight emphasis on 'confirmed'—reassurance through precision, not warmth. Clinical but not cold.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "カルテに記された経過、貴院ご確認されているんですね、先生",
+      "en": "I see you've gone through the medical history in my chart already, Doctor.",
+      "style": "Quiet, observant tone. Slight lift at the end—noticing, not accusing. The careful politeness of someone checking his own understanding. Respectful but genuine.",
+      "mood": "observant_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、病状に屈した患者さんに医療チーム寄り添います",
+      "en": "Yes — when patients are struggling with their illness, our team stays close.",
+      "style": "Warm but steady. Not rushing the thought. Slight pause before 'stays close' to let the commitment land. Tired shoulders beneath the words but voice remains clear.",
+      "mood": "steady_committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "院内に残留した感染、貴院対応されたんですね、先生",
+      "en": "So the hospital did handle the residual infection that developed. I'm grateful for that.",
+      "style": "Soft, thoughtful. Processing what was said. The politeness is genuine here, not performative. Slight exhale mid-sentence—relief mixed with the weight of what was needed.",
+      "mood": "relieved_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、広範囲の検診を医療チーム実施しました",
+      "en": "Yes — we ran a comprehensive screening across the board to catch anything else.",
+      "style": "Matter-of-fact, thorough. No pride in it, just fact. Slight tick forward on 'comprehensive'—this was the right call. Voice stays level and professional.",
+      "mood": "competent_direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療から生じる副作用、貴院、配慮されておられますね、先生",
+      "en": "You've thought about the side effects that come with treatment, haven't you, Doctor.",
+      "style": "Slow, careful phrasing. This is a question beneath the statement. Respectful but searching—he's trying to understand how much the doctor has already considered. Gentle, not challenging.",
+      "mood": "curious_deferential"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、古い医療通念に医療チーム、とらわれません",
+      "en": "Yes — we don't let outdated medical thinking constrain our approach here.",
+      "style": "Quiet conviction. Not defensive. The words land with quiet weight. Voice stays low and steady—this is something she believes in. No performance, just truth.",
+      "mood": "assured_principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "VIP患者さんの護衛、貴院、ご手配なさったんですね、先生",
+      "en": "We've arranged for the VIP patient's security detail, of course. That's already taken care of.",
+      "style": "Efficient, matter-of-fact. Brisk nod beneath the words. Professional assurance—this is handled, move on. Slight warmth at the close, acknowledging Ren's concern was valid.",
+      "mood": "competent_reassuring"
+    }
+  ]
+}

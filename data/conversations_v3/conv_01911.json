@@ -1,0 +1,61 @@
+{
+  "id": "conv_01911",
+  "context": "Mei wraps a thank-you gift for Sakura; thoughtful packaging.",
+  "purpose": "Adult mother carefully preparing meaningful gift.",
+  "ambient": "kitchen_table_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "贈り物",
+    "包む",
+    "気持ち",
+    "丁寧"
+  ],
+  "cast": [
+    "mei_romantic",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、何、包んでるの?",
+      "en": "What are you wrapping, Mei?",
+      "style": "Bright, immediate curiosity. Leans in slightly. Warm interest without demanding the answer right away. The kind of question a child asks when genuinely delighted by what someone is doing.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "さくらさんへの、贈り物。",
+      "en": "A gift for Sakura.",
+      "style": "Soft, unhurried. Eyes on the wrapping. The kind of quiet tenderness that comes from caring about getting small things right. No hurry to elaborate.",
+      "mood": "tender_focused"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "丁寧に、包んでるね。",
+      "en": "You're being so careful with it.",
+      "style": "Appreciative observation, not empty praise. Said with genuine noticing — the kind of thing that makes someone feel seen. Warm, attentive.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "気持ち、こめてる。",
+      "en": "I'm putting my heart into it.",
+      "style": "Quiet, sincere. Not performative. The kind of simple honesty that an adult offers when they're comfortable with a child's presence. Matter-of-fact about tenderness.",
+      "mood": "sincere_gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "私も、手伝う?",
+      "en": "Can I help too?",
+      "style": "Hopeful brightness. A small lean forward. Not demanding inclusion, but offering it hopefully — the way an 8-year-old does when she trusts the adult will want her there.",
+      "mood": "eager_hopeful"
+    }
+  ]
+}

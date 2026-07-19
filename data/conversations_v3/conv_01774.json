@@ -1,0 +1,61 @@
+{
+  "id": "conv_01774",
+  "context": "Asuka takes a class to a small zoo; chatting with students at the giraffe enclosure.",
+  "purpose": "Teacher engaging students at zoo educational visit.",
+  "ambient": "zoo_outdoor_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "園",
+    "動物",
+    "観察",
+    "学ぶ"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_089)",
+    "generated_at": "2026-05-27T07:46:48.868Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "動物園、楽しんでる?",
+      "en": "Are you having fun at the zoo?",
+      "style": "Warm, attentive opening. Genuine curiosity in the voice—not checking a box. Patient pause for an answer. The tone of an adult who actually wants to hear what the child thinks.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい、めっちゃ楽しい!",
+      "en": "Yes! It's so much fun!",
+      "style": "Immediate bright enthusiasm. The 'yes' pops with energy. Bouncy pace, unfiltered joy. No performance—just genuine eight-year-old excitement spilling out.",
+      "mood": "thrilled"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "動物、よく観察してね。",
+      "en": "Watch the animals carefully, okay?",
+      "style": "Gentle suggestion, not instruction. Soft voice, encouraging rather than commanding. A pause before 'carefully'—giving weight to what matters. The tone of someone trusting the child to notice.",
+      "mood": "gentle_encouraging"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "キリン、首、すごい長い!",
+      "en": "The giraffe's neck—it's so long!",
+      "style": "Wide-eyed wonder. The first phrase rushes forward, then a small pause of amazement before the final observation. Breathless quality. The voice of genuine discovery, not performance of amazement.",
+      "mood": "awestruck"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、自然って、不思議ね。",
+      "en": "Yes, nature is full of mysteries, isn't it.",
+      "style": "Soft, reflective tone. Speaks slowly, almost to herself. Warmth mixed with quiet contemplation. Trailing-off at the end—not a question, more a shared thought she's letting Hina into.",
+      "mood": "contemplative_warm"
+    }
+  ]
+}

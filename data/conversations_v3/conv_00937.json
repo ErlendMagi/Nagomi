@@ -1,0 +1,62 @@
+{
+  "id": "conv_00937",
+  "context": "Hina helps Sho with a simple math problem.",
+  "purpose": "children math-help exchange",
+  "ambient": "living_room_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "数",
+    "一緒",
+    "頑張る",
+    "楽しい",
+    "考える"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_047)",
+    "generated_at": "2026-05-27T02:53:24.650Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ひな、この数、わからない。",
+      "en": "Hina — I don't get this number.",
+      "style": "Soft, small voice. Hesitant opening. Genuine vulnerability — not performing difficulty, just honest uncertainty. Warm undercurrent. A quiet reaching-out to an older child who he trusts.",
+      "mood": "uncertain_trusting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、考えよう、しょう。",
+      "en": "Let's figure it out together, Sho.",
+      "style": "Bright, immediate. Quick warm reassurance — no gap between his question and her response. Sunny certainty that this is solvable. Natural eight-year-old enthusiasm without overshooting into performance.",
+      "mood": "encouraging_bright"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "三足す二、五、かな？",
+      "en": "Three plus two — five, maybe?",
+      "style": "Thinking-aloud quality. Soft tentativeness on the maybe. Not rushing the answer. Small voice working through it, then offering the result like a gift he's uncertain she'll want.",
+      "mood": "hopeful_tentative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "正解！すごい！",
+      "en": "Right! You're amazing!",
+      "style": "Genuine delight — immediate and unselfconscious. The brightness of a child genuinely pleased for another child. Quick attack on the praise, no lag. Real warmth, not performing warmth.",
+      "mood": "delighted_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、頑張ったよ。",
+      "en": "That was fun — and I tried really hard.",
+      "style": "Quiet satisfaction. Small voice, but steady. Pride in his own effort, not just the answer. Warm closing — the ease of a child who's been genuinely encouraged. Soft landing.",
+      "mood": "satisfied_proud"
+    }
+  ]
+}

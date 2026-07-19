@@ -1,0 +1,82 @@
+{
+  "id": "conv_03199",
+  "context": "A mother weighs enrolling her daughter in cram school",
+  "purpose": "Decide on cram school; teach 塾/深夜/実力/選ば/起こっ/持た",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "深夜",
+    "塾",
+    "実力",
+    "選ば",
+    "起こっ",
+    "持た"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "娘を塾に入れるか迷っています。",
+      "en": "I am unsure whether to enroll my daughter in cram school.",
+      "style": "hesitant mother seeking guidance, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "塾は深夜まで拘束されることもあります。",
+      "en": "Cram school can keep them until late night.",
+      "style": "candid teacher laying out the reality"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "深夜の帰宅は心配で。",
+      "en": "A late-night commute home worries me.",
+      "style": "protective mother voicing concern, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本人の実力に合う所を選ばせましょう。",
+      "en": "Let her choose a place that fits her ability.",
+      "style": "wise teacher advising a tailored fit"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "実力に合わないと続きませんよね。",
+      "en": "If it does not match her ability she will not last.",
+      "style": "thoughtful mother agreeing on fit, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "何か問題が起こったらすぐ相談を。",
+      "en": "If any problem happens, consult me right away.",
+      "style": "supportive teacher offering an open door"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "子どもに責任を持たせたいんです。",
+      "en": "I want to give my child a sense of responsibility.",
+      "style": "principled mother stating her hope, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい考えです。自覚を持たせるのは大事です。",
+      "en": "A good idea. Instilling awareness matters.",
+      "style": "approving teacher endorsing the value, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "体調を崩すことが起こらないか心配で。",
+      "en": "I worry her health might give out.",
+      "style": "caring mother lingering on her fears"
+    }
+  ]
+}

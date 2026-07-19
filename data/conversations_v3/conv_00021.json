@@ -1,0 +1,69 @@
+{
+  "id": "conv_00021",
+  "context": "A weekday evening. Hiroshi calls Yuki's mobile from the office — late, unusual. She answers from her apartment.",
+  "purpose": "unusual after-hours boss call — professional + a small wrinkle of real concern",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大丈夫",
+    "明日",
+    "すみません",
+    "少し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "田中さん、夜遅くにすみません。少しだけ、お時間いいですか。",
+      "en": "Ms. Tanaka — sorry to call so late. Could I have a moment?",
+      "style": "Professional, controlled, slightly slower than the day-tone. The apology arrives before the request.",
+      "mood": "professional_after_hours"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、大丈夫です。どうかされましたか？",
+      "en": "Yes, that's fine. Is something the matter?",
+      "style": "Already half-standing. Voice steady, not panicked. The instinct to be useful overrides everything else.",
+      "mood": "attending"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "明日の資料、一点だけ確認させてください。",
+      "en": "About tomorrow's materials — let me confirm just one point.",
+      "style": "Drops to pure business. The phrasing 「一点だけ」 narrows the scope kindly.",
+      "mood": "focusing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、どの部分でしょうか。",
+      "en": "Yes, which part?",
+      "style": "Already opening the document in the voice.",
+      "mood": "ready"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "十二ページの数字、本当に最新のものですよね。",
+      "en": "The figure on page twelve — that's genuinely the latest, correct?",
+      "style": "The 「本当に」 is doing double duty: confirming the fact, and acknowledging that he's asking late. Even.",
+      "mood": "verifying"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、確認しました。間違いないです。",
+      "en": "Yes — I checked. There's no mistake.",
+      "style": "Calm certainty. Voice steadies further. The line that ends the worry on both ends.",
+      "mood": "settling_it"
+    }
+  ]
+}

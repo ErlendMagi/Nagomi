@@ -1,0 +1,86 @@
+{
+  "id": "conv_09980",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 寅次郎/ハーバード/義経/薩摩/アムステルダム/カタルーニャ/諏訪/福山",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "寅次郎",
+    "ハーバード",
+    "義経",
+    "薩摩",
+    "アムステルダム",
+    "カタルーニャ",
+    "諏訪",
+    "福山"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_500 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが寅次郎の映画祭に連れて行って下さるそうよ",
+      "en": "Sho, your father is taking you to the Tora-san film festival.",
+      "style": "Warm, matter-of-fact announcement. Slight lift on the news itself. Speaking to him directly, making sure he hears. Gentle but clear — this is something worth knowing.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとハーバード大学の動画見たよ",
+      "en": "Mom, Dad and I watched videos about Harvard.",
+      "style": "Quick, bright report — eager to share what he did. Small but genuine pride in the memory. Direct eye contact level. No breathiness, just simple honesty.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが源義経の伝記をお買いになったわ",
+      "en": "Sho, your father bought a biography of Minamoto no Yoshitsune.",
+      "style": "Thoughtful observation, shared almost to herself. Slight pause before the name — noticing the weight of what he's learning. Warm recognition of his father's care in choosing it.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと薩摩芋を焼いたよ",
+      "en": "Mom, Dad and I baked sweet potatoes together.",
+      "style": "Simple, direct recounting. Soft warmth — a small, genuine moment he wanted to tell her. No performance, just the fact of having done it with his dad.",
+      "mood": "content"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがアムステルダム出張のお話して下さったわ",
+      "en": "Sho, your father told us about his business trip to Amsterdam.",
+      "style": "Reflective delivery. Slight emphasis on 「お話」— noting that he shared this with her too. Noticing the connection being woven. Measured, warm appreciation.",
+      "mood": "thoughtful_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとカタルーニャ料理食べたよ",
+      "en": "Mom, Dad and I tried Catalan food.",
+      "style": "Quick brightness, sharing the detail like a small treasure. Wondering pleasure in his voice — something new and different he experienced with his dad. No hesitation.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが諏訪湖の絵葉書を見せて下さったわ",
+      "en": "Sho, your father showed you a postcard from Lake Suwa.",
+      "style": "Gentle noticing. Slight slowness — picturing the moment. Recognizing the small tenderness of him showing it. Warm, present.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと福山雅治の曲聴いたよ",
+      "en": "Mom, Dad and I listened to Masaharu Fukuyama together.",
+      "style": "Closing report with gentle finality. Warm and complete — another small moment shared. Soft landing, like he's finished telling her all the ways his dad was there.",
+      "mood": "content_secure"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "conv_00091",
+  "context": "Sunday morning in Goro's living room. He has been roped into watching Sho for an hour. Both of them look at each other from across the room.",
+  "purpose": "tiny intergenerational silence — both unsure what to say",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "見る",
+    "ない"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…(silence)…元気か。",
+      "en": "(silence) …You well?",
+      "style": "A whole long beat first. The opening Kyushu cadence slow.",
+      "mood": "opening_slow"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "A single careful syllable — no rush in the delivery.",
+      "mood": "careful_single"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…テレビ、見るか。",
+      "en": "…Want to watch TV?",
+      "style": "A small pragmatic offer. The neutral ground.",
+      "mood": "pragmatic_offer"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "A slightly brighter syllable. Already moving to the couch.",
+      "mood": "slightly_brighter"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "何が、いいんかな。",
+      "en": "What's a good one, then.",
+      "style": "Reaches for the remote with mild bewilderment in the voice.",
+      "mood": "mild_bewilderment"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "なんでもいい、本当に。",
+      "en": "Anything is fine, really.",
+      "style": "A small kid-honest line. Sits next to him on the couch.",
+      "mood": "kid_honest"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00513",
+  "context": "Officer Takeda's weekly check-in at Mrs. Mori's.",
+  "purpose": "small ongoing civic familiar rhythm",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "近所",
+    "安心",
+    "ありがとう",
+    "見守る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_026)",
+    "generated_at": "2026-05-27T00:13:43.500Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "森さん、こんにちは。今週も、お変わりありませんか。",
+      "en": "Mori-san, hello. How has this week been treating you?",
+      "style": "Warm opening, genuinely curious. Professional but never stiff. Soft eye contact. The tone of someone who actually remembers her from last week and genuinely wants to know.",
+      "mood": "gentle_attentive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "いつもありがとう。皆さん、お元気ですよ。",
+      "en": "Thank you for always stopping by. Everyone's doing well.",
+      "style": "Bright and relieved to report good news. The warmth of someone comfortable with this officer. Simple sincerity, no performance. Light and clear throughout.",
+      "mood": "grateful_reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良かった。なおこさんも、お元気そうで。",
+      "en": "I'm glad. Naoko-san seems to be doing well too.",
+      "style": "Nod of acknowledgment. The warmth shifts slightly—personal recognition mixed with professional care. A moment of real seeing, not just checking a box.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "皆で、こうやって、見守ってもらえて、本当に、安心です。",
+      "en": "Having everyone watch over us like this... it really does bring peace of mind.",
+      "style": "Soft, tender gratitude. She lingers slightly on the weight of what she's saying—not heavy, but sincere. Quiet voice. The relief of being held by a community.",
+      "mood": "safe_touched"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。皆さん、お互い、見守り合って。",
+      "en": "That's what we're here for. Everyone looking out for one another.",
+      "style": "Steady and genuine. Not a formal closing statement but a quiet affirmation—he means it. Slight warmth in the voice, almost gentle. Reciprocal, not hierarchical.",
+      "mood": "steady_connected"
+    }
+  ]
+}

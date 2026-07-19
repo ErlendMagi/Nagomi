@@ -1,0 +1,105 @@
+{
+  "id": "conv_00027",
+  "context": "A Sunday afternoon phone call. Asuka in Tokyo dials her father at his quiet Iwate farm. He picks up on the third ring, as always.",
+  "purpose": "adult-daughter check-in — quiet care across distance",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "元気",
+    "時間",
+    "大丈夫",
+    "ない",
+    "寒い"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "もしもし。",
+      "en": "Hello.",
+      "style": "Slow, weathered, two syllables. The voice of a man who answers a landline.",
+      "mood": "unhurried"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "お父さん、こんにちは。元気？",
+      "en": "Hi Dad — how are you?",
+      "style": "Light, warm, slightly more formal than the words. Already smiling.",
+      "mood": "warm_calling"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ…まあ、変わらず。",
+      "en": "Ah… same as always.",
+      "style": "Two beats between the syllables. Tohoku softening. Doesn't volunteer more.",
+      "mood": "reticent"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日、そっち寒い？",
+      "en": "Cold up there today?",
+      "style": "Easy default question. The conversation is the point, not the information.",
+      "mood": "maintenance"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "寒いな。今朝、雪。",
+      "en": "It is. Snow this morning.",
+      "style": "Two clauses, period of silence between. Each one self-sufficient.",
+      "mood": "reporting_calm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もう？早いね。",
+      "en": "Already? That's early.",
+      "style": "Genuine small surprise. The kind of comment that keeps a call going.",
+      "mood": "gentle_surprise"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん。…そっちは。",
+      "en": "Mm. …And you.",
+      "style": "Returns the question with a slight pause. The most affection he uses in a sentence.",
+      "mood": "gentle_return"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "私は大丈夫。仕事も、まあまあ。",
+      "en": "I'm okay. Work's alright too.",
+      "style": "Sits down on the bed in the voice. Truth, with the rough edges softened for him.",
+      "mood": "reassuring_filtered"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "無理してないか。",
+      "en": "You're not overdoing it?",
+      "style": "The whole call is in this line. Three words, slow.",
+      "mood": "father_worry"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、無理してない。本当に。",
+      "en": "No, I'm not overdoing it. Really.",
+      "style": "A real answer, gently insisted. The 「本当に」 lands genuine.",
+      "mood": "genuine_reassurance"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "…そうか。それなら。",
+      "en": "…Alright then. If that's so.",
+      "style": "Slowest line in the call. The closing of a small worry.",
+      "mood": "settling"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "conv_04481",
+  "context": "A police officer briefs a teen reporter on a fraud investigation",
+  "purpose": "Teach: 刑務所/徴収/独裁/妨害/騒動/偽装/偽造/言論",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "刑務所",
+    "徴収",
+    "独裁",
+    "妨害",
+    "騒動",
+    "偽装",
+    "偽造",
+    "言論"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件は、ある会社が偽装工作で投資家から資金を集めていた騒動です。",
+      "en": "This case is a scandal in which a company collected funds from investors through a cover-up scheme.",
+      "style": "Calm, authoritative briefing tone with measured pacing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "偽装工作ですか…具体的にはどんな手口だったんでしょうか?",
+      "en": "A cover-up scheme... what kind of method did they use specifically?",
+      "style": "Eager young reporter, curious and slightly nervous"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "決算書の偽造ですね。数字を書き換えて、本来の納税額をごまかしていました。",
+      "en": "Forgery of the financial statements. They rewrote the numbers and falsified the proper amount of tax due.",
+      "style": "Serious, factual delivery with deliberate emphasis on each point"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "つまり税金の徴収も逃れていたわけですね。ひどい話です。",
+      "en": "So they were also evading tax collection. That's terrible.",
+      "style": "Indignant but professional, processing the information carefully"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "社長がかなりの独裁で、社内では誰も逆らえなかったそうです。",
+      "en": "The president was quite the dictator, and apparently no one inside the company could oppose him.",
+      "style": "Lowered voice, conveying the gravity of internal abuse"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "告発しようとした社員もいたんじゃないですか?",
+      "en": "Weren't there employees who tried to blow the whistle?",
+      "style": "Probing follow-up question, leaning forward with interest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いましたよ。ただ、業務妨害だと脅されて、結局は黙らされていたようです。",
+      "en": "There were. But they were threatened with obstruction-of-business charges and ended up being silenced.",
+      "style": "Measured, somber explanation of intimidation tactics"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "社内の言論まで封じていたんですね。本当に許せません。",
+      "en": "So he was even suppressing speech within the company. I really can't forgive that.",
+      "style": "Passionate, voice tightening with youthful conviction"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "落ち着いて。容疑者はもう逮捕済みで、有罪なら長い刑務所暮らしが待っています。",
+      "en": "Calm down. The suspect has already been arrested, and if convicted, a long stay in prison awaits him.",
+      "style": "Reassuring, paternal tone steadying the young reporter"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。記事ではこの事件の全体像を、しっかり読者に伝えます。",
+      "en": "Understood. In my article, I'll convey the full picture of this case clearly to my readers.",
+      "style": "Resolute and determined, with a professional closing tone"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_05921",
+  "context": "A mom comforts her son after a bad day",
+  "purpose": "Teach: 冷め/笑み/こたえ/ピンチ/留守/ケンカ/居場所/確かめる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "冷め",
+    "笑み",
+    "こたえ",
+    "ピンチ",
+    "留守",
+    "ケンカ",
+    "居場所",
+    "確かめる"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、夕飯、冷めちゃったね。",
+      "en": "Mom, the dinner got cold.",
+      "style": "Quiet observation, almost to himself. No complaint in his voice — just noticing. Slight hesitation, like he's checking if it matters. Gentle exhale.",
+      "mood": "observant_mild"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "温め直すから、笑みで待っててね。",
+      "en": "I'll warm it back up — you just wait here with me, okay?",
+      "style": "Practical reassurance wrapped in warmth. Not fussy about the dinner; the focus is on him. Light, present tone. A small smile in the voice.",
+      "mood": "grounded_maternal"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今日、こたえる質問、答えられなかった。",
+      "en": "Today at school, there was a hard question and I couldn't answer it.",
+      "style": "Soft onset. The words come slowly, testing whether it's safe to say. Quiet shame underneath, but not hidden — he's trusting her with it. Trailing off slightly.",
+      "mood": "small_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ピンチも、経験のうちよ。",
+      "en": "Hard moments are part of learning too, you know.",
+      "style": "Not dismissive. Firm enough to mean it, tender enough that he hears she believes him. Slight pause before 'too' — letting it land. Eye-level steadiness in her voice.",
+      "mood": "reassuring_clear"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、また留守?",
+      "en": "Is Dad away again?",
+      "style": "Question without accusation. Almost matter-of-fact, but underneath there's a small ache. He's asking because he needs to know, not because he's complaining. Barely audible at the end.",
+      "mood": "wistful_accepting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、出張中。クラスでケンカしたの?",
+      "en": "Yes, he's on a business trip. Did something happen at school — with the other kids?",
+      "style": "Confirming the fact first, then gently probing. Not deflecting from his question, but turning toward what might really be bothering him. Attentive, not alarmed.",
+      "mood": "observant_concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ううん。でも、自分の居場所が分からない時がある。",
+      "en": "No. But sometimes... I don't know where I'm supposed to fit.",
+      "style": "The admission arrives after a breath. Hesitant, searching for words. Small voice getting smaller. He's revealing something he's been carrying. Very quiet at the end.",
+      "mood": "lost_trusting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ママに、いつでも確かめるんだよ、ここがあなたの居場所だって。",
+      "en": "Then you come check with me anytime you need to. Right here — this is where you belong.",
+      "style": "Gentle but certain. She's not vague; she means every word. Slow enough that he can feel it landing. Closes with warmth, not sentimentality. Her voice holds him steady.",
+      "mood": "maternal_anchor"
+    }
+  ]
+}

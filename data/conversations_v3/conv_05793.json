@@ -1,0 +1,65 @@
+{
+  "id": "conv_05793",
+  "context": "A boss discusses a corporate security review",
+  "purpose": "Teach: 暗殺/強盗/誘拐/人質/テロリスト/右翼/左翼/慶",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暗殺",
+    "強盗",
+    "誘拐",
+    "人質",
+    "テロリスト",
+    "右翼",
+    "左翼",
+    "慶"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警備会社報告で、暗殺予告は無いが、強盗対策、強化と。",
+      "en": "Security report came back—no assassination threats, but we're strengthening robbery countermeasures.",
+      "style": "Clipped, businesslike. Steady eye contact. Delivers the reassurance first, the directive second. No wasted breath.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。誘拐想定の訓練、社員に対し、人質シミュレーションも実施します。",
+      "en": "Understood. We'll run kidnapping drills and hostage simulations with the staff.",
+      "style": "Measured, note-taking pace. Slight nod on acknowledgment. Methodical—each element ticked off mentally. Professional courtesy without warmth.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "テロリスト想定、海外赴任予定者は特に重点的に。",
+      "en": "Especially those transferring overseas—prioritize terrorist scenario training for them.",
+      "style": "Directive tone, weight on 'especially.' No inflection softening the instruction. Strategic, not alarming. This is what preparation looks like.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "国内では、右翼や左翼の街宣車対応も、マニュアル化中。",
+      "en": "Domestically we're also standardizing protocols for far-right and far-left van protests.",
+      "style": "Status update delivered flatly. Factual, thorough. A slight uptick in pace—momentum of work being done. No apologizing for the comprehensiveness.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "慶應大の危機管理研究室にも、助言を仰ごう。",
+      "en": "We should get advisory input from Keio's crisis management research center as well.",
+      "style": "Closing thought, slightly softer. Acknowledgment that expertise exists elsewhere. Measured, confident. The period feels final but not abrupt.",
+      "mood": "pragmatic"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10928",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 長田/井口/小西/宮澤/田辺/塩川/児玉/本間",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長田",
+    "井口",
+    "小西",
+    "宮澤",
+    "田辺",
+    "塩川",
+    "児玉",
+    "本間"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_548 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、指導教授の長田先生のご研究を継承しろ",
+      "en": "Ren — inherit your advisor Professor Nagata's research direction.",
+      "style": "Direct, measured opening. Light command weight on the verb. Composed authority without harshness. Assumes compliance as a matter of course.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。井口教授の論文を読み込みます",
+      "en": "Yes. I'll read through Professor Inoue's papers thoroughly.",
+      "style": "Respectful acknowledgment. Quick tempo, alert. No hesitation — internalized the directive immediately. Careful precision on the verb.",
+      "mood": "focused_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、共同研究の小西先生に研究照会しろ",
+      "en": "Ren — contact Professor Konishi about the joint research collaboration.",
+      "style": "Same cadence as the first instruction. Calm, procedural. Names matter; slight weight on each name. Not harsh, but non-negotiable.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会で宮澤助教のご発表を聴きます",
+      "en": "Yes. I'll attend Assistant Professor Miyazawa's presentation at the conference.",
+      "style": "Crisp affirmation. Slightly faster than before — moving through the list. Demonstrates he's already mapping out his next steps.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、文献の田辺先生のご論文も参考にしろ",
+      "en": "Ren — also reference Professor Tanabe's work in the literature review.",
+      "style": "Steady, unhurried. Fourth instruction in sequence — tone remains consistent, authoritative but not repetitive. Matter-of-fact.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室の塩川先輩からご指導を仰ぎます",
+      "en": "Yes. I'll ask Senior Shiokawa in the lab for guidance on that.",
+      "style": "Affirmative, respectful. Slight deference on the request for guidance — acknowledges hierarchy. Still attentive, still present.",
+      "mood": "respectful_engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、海外連携の児玉教授と打ち合わせしろ",
+      "en": "Ren — meet with Professor Kodama about the international partnership.",
+      "style": "Slight increase in weight. Seventh directive. Tone stays composed but carries a sense of importance — this one matters. Clear, authoritative.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の窓口、本間事務官に申請します",
+      "en": "Yes. I'll submit the funding application through Administrator Honma's office.",
+      "style": "Final confirmation — slight settling of breath. He's absorbed all of it. Respectful, methodical. Closing note of quiet commitment.",
+      "mood": "resolved"
+    }
+  ]
+}

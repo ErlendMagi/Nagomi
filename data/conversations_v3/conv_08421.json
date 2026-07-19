@@ -1,0 +1,86 @@
+{
+  "id": "conv_08421",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 前置き/受け取ら/訊い/知らず/さらっ/今時/騒ぐ/めくっ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "前置き",
+    "受け取ら",
+    "訊い",
+    "知らず",
+    "さらっ",
+    "今時",
+    "騒ぐ",
+    "めくっ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_423 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お話の前置きが長くなりごめんね",
+      "en": "Sho, sorry the preamble to that story got a bit long.",
+      "style": "Gentle apology, warm and slightly self-deprecating. Soft opening. The tone of a mother checking in with herself, not him. Pace is unhurried.",
+      "mood": "apologetic_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんから手紙、受け取らせてもらったよ",
+      "en": "Mom, Grandpa let me receive a letter from him.",
+      "style": "Bright, careful precision in the delivery. Pride in having been trusted with something. Quick but not rushed. Eyes alight with the importance of what he's saying.",
+      "mood": "proud_careful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんに学校のこと、訊いてみてね",
+      "en": "Sho, why don't you ask Dad about what happened at school?",
+      "style": "Even, gentle prompt. Not a demand. The intonation of someone guiding rather than directing. Slight warmth underneath the practicality.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、知らずにお皿、割っちゃった",
+      "en": "Mom, I didn't mean to — I broke a plate.",
+      "style": "Quiet confession, braced for reaction. Small voice under the words. Pause before the second part, like he's steeling himself. Honest and worried.",
+      "mood": "remorseful_nervous"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ご飯はさらっと食べちゃいなさい",
+      "en": "Sho, just eat your meal without fussing, all right?",
+      "style": "Practical, fond correction. Light touch on the instruction. Not stern, but clear. The shorthand of a mother who knows her son will understand.",
+      "mood": "practical_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今時のお父さんは料理上手だよ",
+      "en": "Mom, dads these days are actually pretty good at cooking.",
+      "style": "Observation offered with gentle pride. Thoughtful — he's noticed something about his father. Quiet conviction, not boasting. Small smile in the voice.",
+      "mood": "proud_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達と遊ぶ時、騒ぐのも程々にね",
+      "en": "Sho, when you play with your friends, try not to get too loud, okay?",
+      "style": "Affectionate boundary-setting. Warm, not restrictive. The familiar tone of a recurring kindness. Slight lift at the end, checking he's with her.",
+      "mood": "warm_boundaried"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、絵本のページをめくって楽しんだよ",
+      "en": "Mom, I had fun turning the pages of the picture book.",
+      "style": "Genuine contentment in his voice. Simple happiness, no performance. Slow, savoring the memory. The way a child speaks when he's been truly present in something he loved.",
+      "mood": "content_simple"
+    }
+  ]
+}

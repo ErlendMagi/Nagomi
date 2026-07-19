@@ -1,0 +1,75 @@
+{
+  "id": "conv_02526",
+  "context": "Incident news: Sakura and Ren on a traffic accident.",
+  "purpose": "WIDENED SCENARIO: incident news; safety vocabulary (警察/被害/事故/批判/リスク) in natural home.",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "警察",
+    "被害",
+    "事故",
+    "批判",
+    "リスク"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_127)",
+    "generated_at": "2026-05-29T13:04:43.282Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "今朝、交差点で事故が起きました。",
+      "en": "An accident happened at an intersection this morning.",
+      "style": "crisp adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害の大きさは、どうですか?",
+      "en": "How severe is the damage?",
+      "style": "measured young reporter voice, soft warm serious focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "幸い、大きな被害はありませんでした。",
+      "en": "Fortunately, there was no major damage.",
+      "style": "clear adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察は、原因を調べていますか?",
+      "en": "Are the police investigating the cause?",
+      "style": "serious young reporter voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、警察が現場を調べています。",
+      "en": "Yes, the police are examining the scene.",
+      "style": "professional adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "事故のリスクは、減らせますか?",
+      "en": "Can the risk of accidents be reduced?",
+      "style": "thoughtful young reporter voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "対策の遅れに、批判も出ています。",
+      "en": "Criticism is rising over the delayed measures.",
+      "style": "measured adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "リスクを下げる工夫が、急がれますね。",
+      "en": "Efforts to lower the risk are urgent.",
+      "style": "earnest young reporter voice, soft warm calm closing throughout"
+    }
+  ]
+}

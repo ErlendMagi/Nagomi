@@ -1,0 +1,105 @@
+{
+  "id": "conv_00052",
+  "context": "Friday night, kitchen of their apartment. Yumiko has had a day. Ryosuke is washing dishes and knows the signs.",
+  "purpose": "partner debrief — a hard day, decompressed in real time",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "大変",
+    "大丈夫",
+    "時間",
+    "ない",
+    "一緒"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…今日、本当に最悪だった。",
+      "en": "…Today was actually awful.",
+      "style": "Sets her bag down hard. The 「本当に」 carries the whole day.",
+      "mood": "dumping_in"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "おかえり。座って。ワインある。",
+      "en": "Welcome home. Sit. There's wine.",
+      "style": "Already pouring. Doesn't ask what happened — gives her a runway first.",
+      "mood": "runway_given"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。…本当に、本当に長い一日。",
+      "en": "Thank you. …Really, really long day.",
+      "style": "Sits, drops the bag at her feet. Doubled 「本当に」 — real, not theatrical.",
+      "mood": "real_tired"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "まあ、話したかったら話して。話したくなかったら、別に。",
+      "en": "If you want to talk — talk. If not — that's fine too.",
+      "style": "Spoken to the dishes. Calm, no pressure. Towel over shoulder.",
+      "mood": "no_pressure"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "クライアントが、本当にひどくて。",
+      "en": "The client — was really awful.",
+      "style": "A short complete sentence. The dam breaks evenly.",
+      "mood": "dam_breaking"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "One syllable. All listening. Hands keep moving on the dishes.",
+      "mood": "listening"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "私のせいじゃないのに、ずっと文句言ってきて。",
+      "en": "Wasn't even my fault and he just kept complaining.",
+      "style": "Frustrated honest. Voice climbs a half-step.",
+      "mood": "frustrated_honest"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "それは、大変だな。",
+      "en": "That sounds rough.",
+      "style": "No solution-offering. The validation as the only thing needed.",
+      "mood": "validating"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん…大丈夫、そのうち。今は、ちょっと一緒にいて。",
+      "en": "Mm… it'll be okay, eventually. Just — sit with me a bit now.",
+      "style": "A small softening. The honest ask.",
+      "mood": "honest_ask"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いるよ。時間あるから、ずっと。",
+      "en": "I'm here. I've got time — for as long.",
+      "style": "Sits down across from her, towel discarded. The whole evening offered.",
+      "mood": "fully_present"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…ありがとう。",
+      "en": "…Thank you.",
+      "style": "The smallest line of the night. Eyes on the wine glass.",
+      "mood": "small_grateful"
+    }
+  ]
+}

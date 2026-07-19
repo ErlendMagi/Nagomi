@@ -1,0 +1,79 @@
+{
+  "id": "conv_05931",
+  "context": "A police officer briefs a reporter about a complex case",
+  "purpose": "Teach: 陣営/隠蔽/介助/接点/取り扱う/内臓/賛否/取り締まり",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "陣営",
+    "隠蔽",
+    "介助",
+    "接点",
+    "取り扱う",
+    "内臓",
+    "賛否",
+    "取り締まり"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、二つの陣営の対立、長引いています。",
+      "en": "This case has been escalating between two opposing factions for some time now.",
+      "style": "Measured, official tone. Steady rhythm, no rush. Opening sits level. The pacing of someone accustomed to delivering difficult information calmly.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "隠蔽工作も、疑われていますね。",
+      "en": "And there are suspicions of a cover-up as well.",
+      "style": "Attentive, probing tone. Slight lift at the end—genuinely seeking clarification. Engaged but not aggressive. The careful question of someone still learning the terrain.",
+      "mood": "focused_uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。介助を装った接点、被害者と容疑者の間にありました。",
+      "en": "Yes. We found a point of contact between the victim and the suspect—what appeared to be arranged as care assistance.",
+      "style": "Even, procedural delivery. Each phrase lands with quiet precision. No inflection for shock value. The tone of someone repeating facts that have already been carefully established.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証拠品の取り扱う段階、丁寧ですね。",
+      "en": "The way evidence has been handled at each stage—it's quite meticulous.",
+      "style": "Respectful observation, almost noting something to himself. Slight thoughtfulness. Not a question, but an opening for more. The tone of someone impressed and wondering what it means.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "内臓に関する法医学情報、報道は配慮を要します。",
+      "en": "The forensic details involving internal findings—the press coverage needs to be handled with real discretion.",
+      "style": "Quieter, firmer line. The word 'discretion' carries weight. Spoken as principle, not suggestion. A shift toward something that matters beyond procedure.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "判決を巡る賛否、世論にも届きますね。",
+      "en": "The debate around the verdict does reach the public—and it shapes what people believe.",
+      "style": "Thoughtful pause before speaking. Acknowledging a reality he understands but doesn't control. Slight weariness under the professionalism—this is the harder part.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。取り締まり強化、警察庁の方針です。",
+      "en": "Yes. The National Police Agency has mandated stricter enforcement going forward.",
+      "style": "Return to procedural clarity. Firm but not cold. Closing statement—an ending point. The tone of someone moving to what's decided and what comes next.",
+      "mood": "resolved"
+    }
+  ]
+}

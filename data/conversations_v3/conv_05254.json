@@ -1,0 +1,86 @@
+{
+  "id": "conv_05254",
+  "context": "A uni student interviews a retired explorer about deep-sea work",
+  "purpose": "Teach: 海水/ウラン/洞窟/引き上げる/余儀なく/転じ/ストライキ/初級",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "海水",
+    "ウラン",
+    "洞窟",
+    "引き上げる",
+    "余儀なく",
+    "転じ",
+    "ストライキ",
+    "初級"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "若い頃の海底洞窟探検の話、伺ってもいいですか。",
+      "en": "May I ask about your undersea cave diving expeditions from when you were younger?",
+      "style": "Respectful, genuinely curious opening. Soft attack, lean-in quality. Thoughtful pace, the cadence of someone asking permission to enter someone else's memory.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、私は初級ダイバーから始めて、調査船で二十年勤めたよ。",
+      "en": "I started as a beginner diver and worked on survey vessels for twenty years.",
+      "style": "Warm, settled recall. The ease of someone settling into a story they've earned the right to tell. Gentle tempo, eyes distant but present.",
+      "mood": "reflective_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海水温の変動と、当時の調査の関係はありましたか。",
+      "en": "Did the changes in seawater temperature affect the direction of your survey work back then?",
+      "style": "Intelligent follow-up, not performative. Clear question, respectful pace. He's tracking the thread carefully, listening more than asking.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "大きく転じた時期があってね、計画変更を余儀なくされたこともあった。",
+      "en": "There was a period when the conditions shifted dramatically, and we had to overhaul our plans.",
+      "style": "Unhurried, the weight of memory in the voice. Slight pause before 'shifted'—he's looking back. Slower pace on the second half, matter-of-fact about disruption.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ウラン濃度の測定なども行ったんでしょうか。",
+      "en": "Did you also take on measurement work—uranium concentration and things like that?",
+      "style": "Precise curiosity, specific enough to show he's done his homework. Steady, not rushed. The tone of someone asking the next intelligent question.",
+      "mood": "analytical_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "周辺海域では試料を引き上げる作業を何度もやった。骨が折れたよ。",
+      "en": "We hauled samples up from the surrounding waters more times than I can count. It was grueling work.",
+      "style": "Light chuckle threading through. The fond roughness of a veteran's truth. A slight warmth underneath the 'grueling'—he's not complaining, just being honest.",
+      "mood": "experienced_amused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "港湾労働者のストライキで作業が止まった経験は。",
+      "en": "You must have faced work stoppages when the port workers went on strike.",
+      "style": "Gentle assumption, not interrogation. Softly stated, giving him the opening to confirm or deny. Sympathetic in the phrasing itself.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "一度ある。あの時は本当に困った。互いの立場が分かり合えるよう、対話を続けたよ。",
+      "en": "Once, yes. We were truly stuck. But we kept talking—trying to understand where each side was coming from.",
+      "style": "Quiet wisdom, the voice of someone who learned patience the hard way. Gentle on 'stuck,' then a small shift to conviction on the second half. Close with a soft, almost philosophical warmth.",
+      "mood": "wise_patient"
+    }
+  ]
+}

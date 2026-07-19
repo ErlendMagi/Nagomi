@@ -1,0 +1,86 @@
+{
+  "id": "conv_08346",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: セッティング/余剰/履行/教委/当人/民放/窃盗/終値",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セッティング",
+    "余剰",
+    "履行",
+    "教委",
+    "当人",
+    "民放",
+    "窃盗",
+    "終値"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_419 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新事務所のセッティングを進めろ",
+      "en": "Get the new office setup moving forward.",
+      "style": "Clipped, authoritative. Economical phrasing. Expectation of immediate compliance. Weight settles on the verb. No softening.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。在庫の余剰分を販売いたします",
+      "en": "Yes. I'll handle the excess inventory sales.",
+      "style": "Professional, affirming. Steady cadence. A beat of acknowledgment, then pivot to action. Clear ownership without over-elaboration.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、契約の履行をしっかり監視しろ",
+      "en": "And keep a close eye on contract compliance.",
+      "style": "Measured, emphatic on 'close.' Not raised — just the pressure of importance underneath. The tone of someone checking boxes that matter.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。教委との折衝も進めております",
+      "en": "Understood. I'm also coordinating with the education board on their end.",
+      "style": "Steady, informational. A small upward lift on 'also' — showing initiative. Professional but not stiff. The tone of someone keeping multiple plates steady.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お客様当人へのご対応を丁寧にしろ",
+      "en": "Make sure we're handling customer interactions with care.",
+      "style": "Direct, unrushed. Emphasis falls on 'care' — not punitive, but clear this matters. The tone of standards being set, not complaints being aired.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。民放広告枠を確保いたしました",
+      "en": "Understood. I've also secured the commercial broadcast slots.",
+      "style": "Clipped, confirming. Small pride in 'secured' — showing completion. Efficient pacing. The tone of someone ticking completed tasks from a list.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警備担当に窃盗対策を徹底させろ",
+      "en": "Tell security to tighten theft prevention protocols.",
+      "style": "Sharp, direct. Weight on 'tighten' — this is non-negotiable. No room for interpretation. The tone of delegation that expects adherence.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当日終値の集計が完了しました",
+      "en": "Yes. The closing price tallies are complete.",
+      "style": "Final, settled. A breath after delivery — this is the last piece. Calm finality. The tone of someone closing out a day's work.",
+      "mood": "settled"
+    }
+  ]
+}

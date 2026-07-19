@@ -1,0 +1,79 @@
+{
+  "id": "conv_02114",
+  "context": "Mei finds an old kimono in the closet; chats with Yumiko about it.",
+  "purpose": "Two women across generations finding family heirloom.",
+  "ambient": "storage_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "窓",
+    "帯",
+    "抜け",
+    "別れ",
+    "実家",
+    "帰国",
+    "居",
+    "時計"
+  ],
+  "cast": [
+    "mei_romantic",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_106)",
+    "generated_at": "2026-05-27T16:26:39.301Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "お母さん、窓辺の箪笥、開いたら、着物!",
+      "en": "Mom — the chest by the window. When I opened it, there were kimonos inside!",
+      "style": "Bright, breathless discovery. Quick attack on the first word. Warm delight building through the line, ending on a small note of wonder. Energy lifting naturally at the end.",
+      "mood": "thrilled_discovery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、これ、実家から持ってきたのよ。",
+      "en": "Oh, those — I brought them from my parents' home.",
+      "style": "Soft, slightly distant. Gentle exhale at the opening. Warm but reflective tone, as if touching something precious in memory. Pace is unhurried, tender.",
+      "mood": "nostalgic_tender"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "帯、ちょっと抜けてる、けど、綺麗。",
+      "en": "The sash is a little loose, but… it's so beautiful.",
+      "style": "Quiet reverence in the voice. Gentle, observant pause before the word 'but'. Warm and careful, like handling something that might dissolve. Trailing softly at the end.",
+      "mood": "gentle_awe"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "父との別れの前、母が、送ってくれた。",
+      "en": "My mother sent it to me before my father… before he passed.",
+      "style": "Very still voice. Weight on the silence before the second phrase. Held breath, not rushing. Warm but contained, like something precious being set down gently. Slight break in composure that she steadies.",
+      "mood": "tender_grief"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "時計の音、止まったような気持ち。",
+      "en": "It's like the whole world just stopped for a moment.",
+      "style": "Hushed, almost reverent. Slow, measured pace. Warm exhale on the opening. Like she's speaking to something sacred. Softness at the end, trailing into quiet reflection.",
+      "mood": "reverent_stillness"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今、私の手に、居ってくれる。",
+      "en": "Now it lives in my hands — it's still here with me.",
+      "style": "Warm, grounding. Slow, deliberate pace. Tender weight on 'my hands' — the sense of holding something that matters. Soft close, like a promise being kept.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "大切に、引き継ぎたい。",
+      "en": "I want to cherish it — to carry it forward.",
+      "style": "Quiet commitment. Earnest, unhurried. Breath underneath the resolve. Not performative — sincere, like making a vow. Soft but steady through to the end.",
+      "mood": "earnest_resolve"
+    }
+  ]
+}

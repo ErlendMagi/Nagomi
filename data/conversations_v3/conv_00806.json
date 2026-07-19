@@ -1,0 +1,76 @@
+{
+  "id": "conv_00806",
+  "context": "Hiroshi and Kenji discuss solving a critical project problem.",
+  "purpose": "boss-subordinate problem-resolution exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "原因",
+    "解決",
+    "対策",
+    "考える",
+    "責任"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_041)",
+    "generated_at": "2026-05-27T02:04:36.447Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、昨日の問題、原因、何だ。",
+      "en": "Kenji — yesterday's problem. What was the cause?",
+      "style": "Clipped, measured opening. No wasted breath. Steady eye contact. Each phrase lands with quiet authority. Not angry, but expecting a complete answer. Lean slightly forward — the posture of someone used to being listened to.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "通信、不具合、です。原因、特定中。",
+      "en": "Communication failure, sir. We're pinpointing the cause now.",
+      "style": "Clear, professional report. Shoulders steady. Slight deference in the pacing without sounding evasive. Warm undertone — the tone of someone who takes this seriously and wants him to know it. Meet his gaze.",
+      "mood": "focused_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "解決策、考えろ。今日中だ。",
+      "en": "Work out a solution. Today.",
+      "style": "Clipped, final-sounding. The word 'today' lands hard but not shouted — quiet urgency. Slight pause before it. This is not a request. Composure intact, but the weight is unmissable.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解。チームで、対策、まとめます。",
+      "en": "Understood. We'll have a response ready as a team.",
+      "style": "Brisk, capable. No hedging. Slight nod on 'understood' — embodying the assurance. Voice steady, rising slightly on the commitment. The tone of someone who just accepted a responsibility and means to deliver it.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "客先、影響、最小限に、抑えろ。",
+      "en": "Keep the impact to the client to an absolute minimum.",
+      "style": "Each clause deliberate. Slight emphasis on 'minimum' — this matters. No room for approximation. The voice of someone who has managed the fallout before and will not have it happen again on his watch.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、責任、持って、対応します。",
+      "en": "I will. We'll handle this with full accountability.",
+      "style": "Direct and earnest. The word 'accountability' carries its weight without drama. Steady tone throughout. This is not a promise he's making lightly — he means to stand behind it. Slight incline of the head — formal respect.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、頼んだ。",
+      "en": "Good. I'm counting on you.",
+      "style": "Noticeably warmer than before — a slight soften in the jaw audible. Brief, genuine. The shift from command to something closer to trust. Not quite warm, but no longer purely transactional. A moment of recognition that he's handed Kenji something real.",
+      "mood": "trusting"
+    }
+  ]
+}

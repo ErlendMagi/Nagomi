@@ -1,0 +1,78 @@
+{
+  "id": "conv_04011",
+  "context": "A boss and his manager debate the morning political headlines",
+  "purpose": "Teach: 官房/省庁/起訴/告発/追及/朝刊/闘い/難民",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "官房",
+    "省庁",
+    "起訴",
+    "告発",
+    "追及",
+    "朝刊",
+    "闘い",
+    "難民"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の朝刊、もう目を通したか？官房長官の会見、なかなか興味深かったぞ。",
+      "en": "Did you read this morning's paper? The Chief Cabinet Secretary's press conference was quite interesting.",
+      "style": "Authoritative boss tone, casual command, slight intellectual curiosity"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、拝見しました。例の汚職の件で、ついに起訴される可能性が出てきたようですね。",
+      "en": "Yes, I saw it. It seems indictment is finally becoming a real possibility in that corruption case.",
+      "style": "Polite subordinate speech, measured and slightly hedged delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "内部告発がきっかけだろう。野党も国会で徹底的に追及する構えらしいな。",
+      "en": "It started with a whistleblower, didn't it? The opposition apparently plans to grill them thoroughly in the Diet.",
+      "style": "Confident boss, analytical, somewhat enjoying the political drama"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、関係省庁にも捜査が及ぶという噂もあって、まさに泥沼の闘いになりそうです。",
+      "en": "Yes, there's even talk the investigation will reach the related ministries — it looks like a real quagmire of a fight.",
+      "style": "Cautious manager voice, slightly worried, professionally restrained"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。それより、難民受け入れの方針転換のほうが俺は気になるな。経済への影響が読めん。",
+      "en": "Hm. Personally, I'm more concerned about the shift in refugee policy. The economic impact is unpredictable.",
+      "style": "Gruff boss pivoting topic, businesslike concern, masculine speech"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かにそちらも重要ですね。社説では賛否両論で、現場の混乱を懸念する声も多いようです。",
+      "en": "Indeed, that's also crucial. The editorials are split, and many voices worry about confusion on the ground.",
+      "style": "Diplomatic agreement, balanced summary, polite workplace register"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "結局、どの問題も根は同じだ。政治家がきちんと説明責任を果たさん限り、信頼は戻らんよ。",
+      "en": "In the end, every issue has the same root. Until politicians properly fulfill their accountability, trust won't return.",
+      "style": "Resigned boss wisdom, gruff sentence-final particles, conclusive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。さて、そろそろ午前の会議の準備に取りかかりましょうか。",
+      "en": "You're absolutely right. Well then, shall we start preparing for the morning meeting?",
+      "style": "Polite agreement and smooth professional transition back to work"
+    }
+  ]
+}

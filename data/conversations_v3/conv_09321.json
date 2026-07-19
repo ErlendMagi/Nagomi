@@ -1,0 +1,86 @@
+{
+  "id": "conv_09321",
+  "context": "Mom and son chat",
+  "purpose": "Teach: むちゃくちゃ/聴こえ/だまし/気が付か/呟き/めげ/つかまえ/おさえ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "むちゃくちゃ",
+    "聴こえ",
+    "だまし",
+    "気が付か",
+    "呟き",
+    "めげ",
+    "つかまえ",
+    "おさえ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_468 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お部屋がむちゃくちゃね、お片付けしましょう",
+      "en": "Sho, your room is quite a mess. Let's tidy it up together, shall we?",
+      "style": "Matter-of-fact, warm instruction. Light on the 'quite a mess' — not scolding, just stating fact. Gentle redirect, like she's done this a hundred times before and will do it a hundred times again.",
+      "mood": "patient_pragmatic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんの声が聴こえないと寂しいよ",
+      "en": "Mom… when I can't hear Grandpa's voice, I feel really lonely.",
+      "style": "Small, careful voice. Hesitant — testing if it's okay to say this. Quiet certainty underneath. Like he's noticed something true and is telling it slowly.",
+      "mood": "wistful_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達をだまして遊ぶのはやめましょうね",
+      "en": "Sho, we don't trick our friends to play with them. Let's stop doing that, okay?",
+      "style": "Gentle but firm. Not harsh. The tone of someone setting a boundary she needs him to understand. Quiet conviction, no raised voice.",
+      "mood": "caring_resolute"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんの優しさに気が付かなかった事もあったよ",
+      "en": "Mom… I didn't always notice how kind Grandpa was being.",
+      "style": "Quiet, almost to himself. Small dawning recognition. Not proud of it, just truthful. Soft, careful pacing — like he's thinking while speaking.",
+      "mood": "reflective_regretful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが小さく呟きでお返事されたわ",
+      "en": "Sho, your father replied with just a small murmur.",
+      "style": "Observant, tender. She's noticing something quiet. Gentle pace, as if she's seen something her son hasn't yet — something in the small gesture that matters.",
+      "mood": "gentle_perceptive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ちょっとやそっとじゃめげないよ",
+      "en": "Mom… a little bit of trouble won't keep me down.",
+      "style": "Quiet determination. Not boastful — just steady fact. Small chest, big resolve. Voice stays level, almost matter-of-fact, which makes the stubbornness ring truer.",
+      "mood": "resilient_assured"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お庭で蝶々をつかまえる名人ね",
+      "en": "Sho, you're quite the expert at catching butterflies in the garden.",
+      "style": "Warmth with genuine pleasure. Light, almost playful tone — she's delighted by this small skill of his. Pride that doesn't embarrass, just notices.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんの涙をおさえる仕草を見たよ",
+      "en": "Mom… I saw Dad holding back his tears.",
+      "style": "Very soft, very careful. He's sharing something tender he witnessed. No performance — just gentle observation. Slow pace, like he's still processing what he saw.",
+      "mood": "tender_understanding"
+    }
+  ]
+}

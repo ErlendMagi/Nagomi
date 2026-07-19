@@ -1,0 +1,69 @@
+{
+  "id": "conv_02466",
+  "context": "Kenji helps Yuki navigate a company website.",
+  "purpose": "WIDENED SCENARIO: web help; internet vocabulary (ホームページ/アクセス/トップ/クリック) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ホームページ",
+    "アクセス",
+    "トップ",
+    "クリック",
+    "リンク"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_124)",
+    "generated_at": "2026-05-29T12:51:41.976Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "会社のホームページが、開けないの。",
+      "en": "I can't open the company website.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、ここからアクセスしてみて下さい。",
+      "en": "First, try accessing from here.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "アクセスしたら、トップが出ました。",
+      "en": "After accessing, the top page appeared.",
+      "style": "relieved office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "トップのメニューを、クリックして下さい。",
+      "en": "Please click the menu on the top page.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "クリックしたら、リンクが並びました。",
+      "en": "When I clicked, links lined up.",
+      "style": "engaged office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "目的のリンクを、もう一度クリック。",
+      "en": "Click the link you want once more.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ホームページの使い方、分かってきた。",
+      "en": "I'm getting the hang of the website.",
+      "style": "satisfied office woman voice, soft warm appreciative delivery throughout"
+    }
+  ]
+}

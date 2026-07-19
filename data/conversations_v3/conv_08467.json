@@ -1,0 +1,86 @@
+{
+  "id": "conv_08467",
+  "context": "Two managers chat",
+  "purpose": "Teach: モットー/貸与/累計/問屋/立ち寄り/小売り/衣料/言明",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "モットー",
+    "貸与",
+    "累計",
+    "問屋",
+    "立ち寄り",
+    "小売り",
+    "衣料",
+    "言明"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_425 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "社員研修で当社のモットーを再確認しましょう",
+      "en": "Let's use the staff training session to reaffirm our company values.",
+      "style": "Professional, measured tone. Direct but not unkind. Opens with quiet authority — this is what we're here to do. Steady pace, no rush.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社用車の貸与申請が増えました",
+      "en": "Yes — we've been seeing more applications for company vehicle loans.",
+      "style": "Attentive, responsive. Slight lean-in quality — offering information that feeds the conversation naturally. Warm professionalism, no flourish.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "累計の来客数を集計しましょう",
+      "en": "Let's compile the cumulative customer numbers.",
+      "style": "Clear directive, methodical. Brief pause after the opening word. Even tone throughout — this is practical work to be done together, not a demand.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。問屋への発注頻度を見直しました",
+      "en": "Yes — I reviewed the ordering frequency with our wholesalers.",
+      "style": "Steady report. Light emphasis on the completed action. Reliable in delivery — not apologetic, not over-eager, just informing as promised.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お取引先に立ち寄りで顔を出しましょう",
+      "en": "Let's make a point to stop by and see our business partners in person.",
+      "style": "Gentle directive with warmth underneath. Slight soft attack on the opening. Even, conversational pace — this is relationship-building, not a chore.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。小売り価格の改定をお願いしました",
+      "en": "Yes — I've asked them to implement the retail price revisions.",
+      "style": "Steady, confirming tone. Brief pause on the verb. Even delivery — completing the action that was asked of him, nothing more to prove.",
+      "mood": "dependable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "衣料部門の在庫管理を強化しましょう",
+      "en": "Let's strengthen our inventory management in the clothing department.",
+      "style": "Clear, purposeful direction. Slight weight on the action verb. Even tempo, calm authority — this matters and we're doing it together.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社の方針を正式に言明する文書を準備中です",
+      "en": "Yes — I'm preparing a formal policy statement document for the company.",
+      "style": "Closing tone, slight sense of completion. Steady throughout. Light emphasis on 'formal' — this is the final piece coming into place. Satisfied without excess.",
+      "mood": "accomplished"
+    }
+  ]
+}

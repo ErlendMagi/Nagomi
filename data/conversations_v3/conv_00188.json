@@ -1,0 +1,69 @@
+{
+  "id": "conv_00188",
+  "context": "A local autumn festival. The boss Hiroshi crosses paths with Mrs. Mori from his neighborhood.",
+  "purpose": "community out-of-context recognition — workplace-self meeting neighborhood-self",
+  "ambient": "festival_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "お祭り",
+    "久しぶり",
+    "地域",
+    "楽しい",
+    "元気"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、田中さん。お久しぶりねえ。",
+      "en": "Oh, Tanaka-san. Long time no see.",
+      "style": "Neighbor warm recognition surprise, the surname-keigo casual but familiar, soft real pleasure threading through throughout.",
+      "mood": "warmly-recognizing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "これは森さん。お元気そうで。",
+      "en": "Ah, Mori-san. You look well.",
+      "style": "Boss authority softening into neighborhood register, the formal courtesy preserved, soft real warmth audible underneath.",
+      "mood": "authoritatively-warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お祭りは、毎年いいわねえ。",
+      "en": "The festival is good every year, isn't it.",
+      "style": "Neighbor warm easy observation, the comfortable community-talk register, soft real appreciation threading through throughout.",
+      "mood": "easily-appreciative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうですね。地域の繋がりは、大事ですから。",
+      "en": "Indeed. Community connections matter, after all.",
+      "style": "Boss measured weighted agreement, the professional gravity laid down for neighborhood-self, soft sincere acknowledgment throughout.",
+      "mood": "measuredly-warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "奥様にもよろしくね。",
+      "en": "Give my regards to your wife.",
+      "style": "Neighbor warm closing extension, the routine community-politeness held with real care, soft sincere closing throughout.",
+      "mood": "warmly-extending"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ありがとうございます。森さんもどうぞお元気で。",
+      "en": "Thank you. Please stay well too, Mori-san.",
+      "style": "Boss formal warm closing, the authority softened into neighborhood reciprocity, soft real care threading throughout delivery.",
+      "mood": "formally-warm"
+    }
+  ]
+}

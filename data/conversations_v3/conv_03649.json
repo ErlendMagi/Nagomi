@@ -1,0 +1,78 @@
+{
+  "id": "conv_03649",
+  "context": "A ward officer helps a citizen fill in an official form",
+  "purpose": "Teach: 申込/様式/分担/学期/人員/加える/細かく/穏やか",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込",
+    "様式",
+    "分担",
+    "学期",
+    "人員",
+    "加える",
+    "細かく",
+    "穏やか"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_183 workflow wlr1s3w84)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "すみません、子どもの学童保育の申込書を提出したいんですが。",
+      "en": "Excuse me, I'd like to submit the application form for my child's after-school care.",
+      "style": "Polite middle-aged father at a ward office counter, slightly hesitant tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、こちらの様式にご記入ください。新学期からのご利用ですね。",
+      "en": "Yes, please fill in this form. You'll be using it from the new term, correct?",
+      "style": "Calm professional ward officer using polite institutional register throughout"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうです。妻と家事を分担していて、平日の夕方が特に厳しくて。",
+      "en": "That's right. My wife and I split the housework, and weekday evenings are especially tough.",
+      "style": "Honest explanatory tone from a slightly tired working parent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。では保護者欄に勤務時間も細かく書いていただけますか。",
+      "en": "I see. Then could you write your working hours in the guardian section in detail?",
+      "style": "Gentle guiding instruction in a patient clerk voice"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかりました。兄弟も一緒に申込みたいんですが、まだ空きはありますか?",
+      "en": "Understood. I'd also like to apply for his sibling — are there still spots available?",
+      "style": "Curious slightly anxious follow-up question in a soft tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、人員の枠にまだ余裕がありますので、お二人分の名前をこの欄に加えることができますよ。",
+      "en": "Yes, there's still room in our capacity, so you can add both children's names in this section.",
+      "style": "Reassuring measured reply with professional warmth"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ありがとうございます。丁寧にご対応いただいて助かりました。",
+      "en": "Thank you so much. I really appreciate your courteous help.",
+      "style": "Relieved grateful tone in a sincere middle-aged voice"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "とんでもないです。穏やかに手続きを進めますので、学期が始まる前に結果のお知らせが届くようにいたしますね。",
+      "en": "Not at all. We'll process this calmly, and I'll make sure the notification reaches you before the term begins.",
+      "style": "Polite closing reassurance in a smooth professional register"
+    }
+  ]
+}

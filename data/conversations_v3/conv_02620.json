@@ -1,0 +1,75 @@
+{
+  "id": "conv_02620",
+  "context": "Saito explains a sensation-related symptom to a patient.",
+  "purpose": "WIDENED SCENARIO: medical explanation; vocabulary (感覚/現象/基礎/いれ/理論) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "感覚",
+    "現象",
+    "基礎",
+    "いれ",
+    "理論"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_131)",
+    "generated_at": "2026-05-29T13:21:58.443Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "指の感覚が、少し鈍いんです。",
+      "en": "The sensation in my fingers is a bit dull.",
+      "style": "concerned office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは、よくある現象ですよ。",
+      "en": "That's a common phenomenon.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感覚は、戻るんでしょうか?",
+      "en": "Will the sensation come back?",
+      "style": "worried office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "基礎的な運動を、続ければ戻ります。",
+      "en": "If you keep up basic exercises, it returns.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "力を入れすぎると、よくないですか?",
+      "en": "Is putting in too much force bad?",
+      "style": "curious office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "力を入れすぎず、ゆっくり動かして下さい。",
+      "en": "Don't force it; move slowly.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "この現象には、理論があるんですか?",
+      "en": "Is there a theory behind this phenomenon?",
+      "style": "thoughtful office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、基礎の医学で、説明できます。",
+      "en": "Yes, basic medicine can explain it.",
+      "style": "warm doctor voice, soft warm reassuring closing clarity throughout"
+    }
+  ]
+}

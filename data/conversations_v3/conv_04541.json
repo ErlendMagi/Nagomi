@@ -1,0 +1,72 @@
+{
+  "id": "conv_04541",
+  "context": "A boss reviews strategy with his manager",
+  "purpose": "Teach: カネ/技能/適し/所長/複合/寄与/上限/模索",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "カネ",
+    "技能",
+    "適し",
+    "所長",
+    "複合",
+    "寄与",
+    "上限",
+    "模索"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_229 workflow wjoc5dipz)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の方針を模索しているんだが、君の意見を聞かせてくれ。",
+      "en": "I'm exploring our policy this quarter—I'd like to hear your thoughts.",
+      "style": "Calm executive opening, measured and inviting input"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。研究所長からの報告では、新部門が売上に寄与し始めているようです。",
+      "en": "Yes. According to the lab director, the new division has begun contributing to revenue.",
+      "style": "Respectful manager tone, factual and crisp report"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "問題はカネだ。投資の上限を決めずに動けば、後で必ず痛い目を見る。",
+      "en": "The issue is money. If we move without setting an investment ceiling, we'll suffer for it later.",
+      "style": "Stern, blunt, slightly gruff senior-male warning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。技術者の技能を活かしつつ、コストを抑える方法を考えております。",
+      "en": "Exactly. We're considering ways to leverage our engineers' skills while keeping costs down.",
+      "style": "Polite deferential keigo, thoughtful and composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うちの強みは、ハードとソフトの複合だ。そこに適した人材を集中投入しろ。",
+      "en": "Our strength is the fusion of hardware and software. Pour the right talent into that area.",
+      "style": "Confident directive, strategic and forceful tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来週までに、具体的な配置案をまとめてお持ちします。",
+      "en": "Understood. I'll prepare a concrete staffing proposal by next week.",
+      "style": "Crisp affirmative reply, businesslike and committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。会社の未来がかかっている、慎重に進めてくれ。",
+      "en": "I'm counting on you. The company's future is at stake—proceed carefully.",
+      "style": "Warm but weighty closing, trust mixed with pressure"
+    }
+  ]
+}

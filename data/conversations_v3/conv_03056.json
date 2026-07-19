@@ -1,0 +1,75 @@
+{
+  "id": "conv_03056",
+  "context": "Ren interviews a trade analyst.",
+  "purpose": "WIDENED SCENARIO: expert interview; vocabulary (貿易/統一/承認/検証/提示) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "貿易",
+    "統一",
+    "承認",
+    "検証",
+    "提示"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_153)",
+    "generated_at": "2026-05-29T15:21:48.189Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今の貿易の課題は、何ですか?",
+      "en": "What's the current trade challenge?",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "基準の統一が、最大の課題です。",
+      "en": "Unifying standards is the biggest challenge.",
+      "style": "composed analyst voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承認の手続きは、複雑ですか?",
+      "en": "Are approval procedures complex?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "承認には、丁寧な検証が要ります。",
+      "en": "Approval requires careful verification.",
+      "style": "patient analyst voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "提案は、どう提示するんですか?",
+      "en": "How are proposals presented?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "データを提示し、検証してもらいます。",
+      "en": "We present data and have it verified.",
+      "style": "composed analyst voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "統一が進めば、貿易は楽になりますか?",
+      "en": "If unification advances, does trade get easier?",
+      "style": "thoughtful young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、統一が、貿易を滑らかにします。",
+      "en": "Yes, unification smooths trade.",
+      "style": "warm analyst voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

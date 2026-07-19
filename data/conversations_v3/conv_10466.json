@@ -1,0 +1,86 @@
+{
+  "id": "conv_10466",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 友の会/回分/新譜/吹き替え/データー/ゲージ/コンソール/特番",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "友の会",
+    "回分",
+    "新譜",
+    "吹き替え",
+    "データー",
+    "ゲージ",
+    "コンソール",
+    "特番"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_525 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お客様の友の会の運営を強化しろ",
+      "en": "Strengthen our customer loyalty program operations.",
+      "style": "Clipped, businesslike. Each phrase lands with equal weight. No inflection—this is instruction, not discussion. Posture: forward, decisive.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内研修を全部で十回分予定します",
+      "en": "Understood. I'm planning ten in-house training sessions.",
+      "style": "Steady confirmation. Slight pause after the affirmative, then factual delivery. Respectful but unadorned. The tone of someone noting what they've already begun.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、契約アーティストの新譜販促を強化しろ",
+      "en": "Strengthen our contracted artists' new release promotion.",
+      "style": "Same clipped cadence as before. No variation—this is a list being delivered through him. Eye contact neutral, professional. Pure instruction.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新CMの吹き替え収録を来週おこないます",
+      "en": "Understood. We'll be recording new commercial voiceovers next week.",
+      "style": "Same steady pace. Slightly more specific this time—a concrete date grounds the response. Demonstrates readiness, not hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、市場データー、つまり統計データの精度を高めろ",
+      "en": "Strengthen the accuracy of our market data—our statistical metrics.",
+      "style": "Slight emphasis on 'accuracy'—this matters more. The clarification on 'statistical' is precise, almost pedantic. Measured. Expects understanding.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。生産ラインのゲージ計測を再校正します",
+      "en": "Understood. We'll recalibrate the production line gauges.",
+      "style": "Steady, professional. A beat of competence here—he's moving from listening to acting. No excitement, no hesitation. Factual.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、店舗のコンソール画面の操作性を上げろ",
+      "en": "Strengthen the usability of our in-store console interface.",
+      "style": "Same delivery. Final instruction in the sequence. Slightly heavier landing on 'usability'—this is the last directive before closure. Still clipped, still certain.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品発表の特番を組みます",
+      "en": "Understood. We'll produce a special program for the new product launch.",
+      "style": "Final affirmation. Slightly fuller than the others—this is the closing response. Professional warmth barely registers, but presence settles. Ready to be dismissed.",
+      "mood": "attentive"
+    }
+  ]
+}

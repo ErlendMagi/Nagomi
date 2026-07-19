@@ -1,0 +1,78 @@
+{
+  "id": "conv_04262",
+  "context": "A uni student interviews a retired executive about company-building",
+  "purpose": "Teach: ビジョン/不況/意向/階層/儲け/結成/継承/有力",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ビジョン",
+    "不況",
+    "意向",
+    "階層",
+    "儲け",
+    "結成",
+    "継承",
+    "有力"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_215 workflow wcx5zhi55)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はよろしくお願いします。まず、創業当時の企業ビジョンを教えていただけますか。",
+      "en": "Thank you for today. First, could you tell me about your founding company vision?",
+      "style": "Polite student interviewer, respectful and slightly nervous opening tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ、諸君のような若者に話せるのは嬉しい。最初は仲間三人で会社を結成したんだ。",
+      "en": "Well, it's a joy to speak to young people like you. We started by founding the company with three colleagues.",
+      "style": "Warm elder statesman, slow deliberate cadence, reminiscent and avuncular."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "三人で、ですか。当時は長引く不況の影響もあったと聞きますが、何事もなく進みましたか。",
+      "en": "Just three of you? I heard the prolonged recession was a factor too — did things go smoothly?",
+      "style": "Curious follow-up, leaning forward, careful academic phrasing."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いや、あっさり儲けが出るほど甘くはなかった。困難を克服するのに何年もかかったよ。",
+      "en": "No, it wasn't easy enough to turn a profit quickly. Overcoming the hardships took us many years.",
+      "style": "Reflective elder, slight chuckle, candid about past struggles."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "組織の階層が固まってからは、後継者選びも難しかったのではないでしょうか。",
+      "en": "Once the organizational hierarchy solidified, choosing a successor must have been difficult too.",
+      "style": "Thoughtful student probing deeper, formal interview register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通り。私が辞任する際、有力な候補が二人いてね。最終的に創業メンバーの意向を確認して、息子に事業を継承させた。",
+      "en": "Exactly. When I resigned, there were two strong candidates. In the end, I confirmed the founders' wishes and passed the business to my son.",
+      "style": "Measured elder explaining a weighty decision with quiet pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最後に、これから起業する学生に一言いただけますか。",
+      "en": "I see. Lastly, could you give one piece of advice to students starting businesses?",
+      "style": "Closing interview question, warm and grateful tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "目先の儲けより、自分のビジョンを信じなさい。それが何より大事だよ。",
+      "en": "Believe in your own vision rather than short-term profit. That matters more than anything.",
+      "style": "Sincere parting wisdom from elder, calm and firm closing line."
+    }
+  ]
+}

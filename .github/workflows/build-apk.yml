@@ -1,0 +1,50 @@
+# Builds the release APK in the cloud on every push (and on demand), then
+# attaches it to a rolling "latest" release — so the phone can download new
+# builds from GitHub anywhere in the world, no LAN server needed.
+name: build-apk
+
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+concurrency:
+  group: build-apk
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Install dependencies
+        run: npm ci --legacy-peer-deps
+
+      - name: Build release APK
+        working-directory: android
+        run: ./gradlew assembleRelease -q
+
+      - name: Rename with run number
+        run: cp android/app/build/outputs/apk/release/app-release.apk nagomi.apk
+
+      - name: Update rolling "latest" release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest build
+          body: "Auto-built from ${{ github.sha }} — install nagomi.apk on the phone."
+          files: nagomi.apk

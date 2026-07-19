@@ -1,0 +1,75 @@
+{
+  "id": "conv_02448",
+  "context": "Saito explains a minor procedure to a patient.",
+  "purpose": "WIDENED SCENARIO: medical explanation; clinical vocabulary (行為/固定/障害) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "行為",
+    "固定",
+    "障害",
+    "精神",
+    "非常"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_123)",
+    "generated_at": "2026-05-29T12:47:34.257Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、この処置は痛いですか?",
+      "en": "Doctor, will this procedure hurt?",
+      "style": "soft anxious woman voice, gentle warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "痛みを伴う行為は、ほとんどありません。",
+      "en": "There's almost no painful action involved.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "動かないように、固定するんですか?",
+      "en": "Do you fix it so it doesn't move?",
+      "style": "curious woman voice, gentle warm attentive delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、しばらく軽く固定します。",
+      "en": "Yes, we'll fix it lightly for a while.",
+      "style": "clear doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "日常の動作に、障害は残りますか?",
+      "en": "Will any impairment to daily movement remain?",
+      "style": "concerned woman voice, gentle warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "障害が残ることは、まずありません。",
+      "en": "Lasting impairment is highly unlikely.",
+      "style": "reassuring doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "精神的に、少し不安で。",
+      "en": "I'm a little anxious mentally.",
+      "style": "vulnerable woman voice, gentle warm quiet honesty throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "精神面の緊張は、非常に自然なことです。",
+      "en": "Mental tension is a very natural thing.",
+      "style": "gentle doctor voice, soft warm compassionate reassuring clarity throughout"
+    }
+  ]
+}

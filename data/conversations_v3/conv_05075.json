@@ -1,0 +1,90 @@
+{
+  "id": "conv_05075",
+  "context": "A doctor explains a public-health regulation study to a teen",
+  "purpose": "Teach: 浄化/鉱山/過酷/添加/ガード/租税/陪審/懲役",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "浄化",
+    "鉱山",
+    "過酷",
+    "添加",
+    "ガード",
+    "租税",
+    "陪審",
+    "懲役"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は新しい公衆衛生の規制について、研究の話をするね。閉山した鉱山の周辺で、住民の健康調査をしていたんだ。",
+      "en": "Today I'll talk about a study on new public-health regulations. We surveyed residents around a closed mine.",
+      "style": "Calm, professorial doctor tone, gentle and explanatory toward a younger listener."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "鉱山って、なんか過酷な労働のイメージしかないんですけど、今も健康に影響あるんですか?",
+      "en": "Mines—I only picture harsh labor. Does it still affect people's health today?",
+      "style": "Curious teenage girl, slightly informal but respectful, leaning forward with interest."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そう、土壌に重金属が残っていてね。だから自治体は浄化装置を導入して、飲み水を守っているんだよ。",
+      "en": "Yes, heavy metals remain in the soil. So the municipality installed purification devices to protect drinking water.",
+      "style": "Patient, informative explanation with a soft reassuring cadence."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、食べ物の添加物みたいに、水にも何か入れて中和したりするんですか?",
+      "en": "Huh, like food additives—do they put something in the water to neutralize it too?",
+      "style": "Bright, inquisitive teen voice with a small note of surprise."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鋭いね。河川にも流出を防ぐためのガードを設置してあるんだよ。",
+      "en": "Sharp question. They've also installed guards along the rivers to prevent runoff.",
+      "style": "Slightly impressed, warm and approachable as he simplifies the engineering side."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、企業はちゃんと守ってくれるんですか?違反したらどうなるんだろう。",
+      "en": "Hmm, do the companies actually comply? I wonder what happens if they violate it.",
+      "style": "Engaged teen pressing for more detail, a touch skeptical but curious."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "違反した企業は租税の優遇を取り消されるんだ。罰金だけじゃ済まないんだよ。",
+      "en": "Violating companies lose their tax breaks. It's not just a matter of fines.",
+      "style": "Firm policy-explanation mode, steady and clear about the stakes."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど…じゃあ、もっと重い違反だと、裁判とかにもなるんですか?",
+      "en": "I see… So for heavier violations, does it actually go to court?",
+      "style": "Thoughtful teen probing further, voice rising gently in genuine curiosity."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "重大なケースだと陪審のいる審理にかけられて、責任者に懲役が科されることもあるんだ。",
+      "en": "In serious cases it goes before a jury trial, and those responsible can even face prison time.",
+      "style": "Measured, slightly grave tone emphasizing the seriousness of the consequences."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "懲役まで…健康って、思ってたよりずっと法律でガッチリ守られてるんですね。",
+      "en": "Prison, even… Health really is protected by law much more firmly than I thought.",
+      "style": "Thoughtful, slightly awed teen reflection, voice quieting in realization."
+    }
+  ]
+}

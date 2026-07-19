@@ -1,0 +1,78 @@
+{
+  "id": "conv_04376",
+  "context": "A boss briefs his secretary on a new branding rollout",
+  "purpose": "Teach: コンサルタント/コンセプト/アーカイブ/前述/特例/相違/宜しく/フロント",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンサルタント",
+    "コンセプト",
+    "アーカイブ",
+    "前述",
+    "特例",
+    "相違",
+    "宜しく",
+    "フロント"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山田君、新しいブランディングの件で話がある。前述の会議でも触れたが、今回は外部のコンサルタントを起用することになった。",
+      "en": "Yamada, I need to talk about the new branding. As mentioned in the previous meeting, we've decided to bring in an outside consultant this time.",
+      "style": "Authoritative boss opening, measured and businesslike tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知いたしました。コンセプトの方向性については、既に固まっているのでしょうか。",
+      "en": "Understood. Has the direction of the concept already been settled?",
+      "style": "Polite secretary, attentive and professional register"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、大筋はね。過去のキャンペーン資料はすべてアーカイブに残してあるから、後で目を通しておいてくれ。",
+      "en": "Yes, the broad strokes. All the past campaign materials are kept in the archive, so look them over later.",
+      "style": "Confident boss giving instructions, brisk delegating manner"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。以前のロゴ案との相違点も整理しておきますね。",
+      "en": "Certainly. I'll also organize the points of difference from the previous logo proposals.",
+      "style": "Diligent secretary confirming, anticipating needs proactively"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かる。それと、今回は社長の特例で予算枠を広げてもらった。だから手は抜けない。",
+      "en": "That helps. Also, by a special exception from the president, we got the budget expanded this time. So we can't cut corners.",
+      "style": "Boss emphasizing importance, slightly serious lowered voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本社一階のフロントに掲示するポスター類も、新しいデザインに差し替えるという理解でよろしいでしょうか。",
+      "en": "May I understand that the posters displayed at the front reception on the first floor will also be replaced with the new design?",
+      "style": "Methodical secretary clarifying scope of rollout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "その通りだ。コンサルタントとの初回打ち合わせは来週月曜、宜しく頼むよ。",
+      "en": "Exactly. The first meeting with the consultant is next Monday, so I'm counting on you.",
+      "style": "Boss wrapping up, warm but firm closing tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、スケジュール調整いたします。こちらこそ宜しくお願い申し上げます。",
+      "en": "Yes, I'll arrange the schedule. I look forward to working on this with you as well.",
+      "style": "Formal secretary closing with deferential bow tone"
+    }
+  ]
+}

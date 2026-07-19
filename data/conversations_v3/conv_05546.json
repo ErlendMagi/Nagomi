@@ -1,0 +1,65 @@
+{
+  "id": "conv_05546",
+  "context": "A boss reviews an event-cancellation impact",
+  "purpose": "Teach: キャンセル/器具/儲かる/スクリプト/ゲート/実例/使い勝手/成り立た",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "キャンセル",
+    "器具",
+    "儲かる",
+    "スクリプト",
+    "ゲート",
+    "実例",
+    "使い勝手",
+    "成り立た"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回のキャンセル、収支は儲かる方向に戻せるか?",
+      "en": "With this cancellation, can we bring the numbers back into the black?",
+      "style": "Lean forward slightly. Clipped pace, each word precise. No flourish. Businesslike but not cold—the question of someone checking feasibility, not doubting.",
+      "mood": "focused_pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。器具の使い勝手を改善した実例、社内で共有しています。",
+      "en": "Yes. We've been sharing case studies on equipment usability improvements internally.",
+      "style": "Even keel. Measured cadence. Hands steady. Confidence without overstatement—the report of someone who has done the legwork and knows what he's talking about.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ゲートでの動線、スクリプトに従って整理を。",
+      "en": "The flow at gate traffic—organize it according to the script.",
+      "style": "Instructional but not harsh. Slight pause after the dash. Direct eye contact. The clarity of someone who expects competence and sees no need to soften the directive.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。計画が成り立たない部分は、別案も用意します。",
+      "en": "Understood. I'll have backup options ready for any parts where the plan doesn't hold.",
+      "style": "Quick nod of assent. Slightly faster tempo than before—eagerness to move forward. Calm certainty underneath. No apology, just readiness.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on you.",
+      "style": "Soft drop in volume. A beat of quiet weight. Not gratuitous—the full stop of someone whose few words carry actual trust.",
+      "mood": "trusting"
+    }
+  ]
+}

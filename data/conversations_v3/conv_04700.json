@@ -1,0 +1,84 @@
+{
+  "id": "conv_04700",
+  "context": "A rural uncle teaches a uni reporter about local crops",
+  "purpose": "Teach: 大豆/エビ/日本酒/書物/ドラム/ドコモ/馬場/ローズ",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "大豆",
+    "エビ",
+    "日本酒",
+    "書物",
+    "ドラム",
+    "ドコモ",
+    "馬場",
+    "ローズ"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_236 workflow wj5mdwm6v)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "叔父さん、今日は地元の作物について取材させてください。大学の書物では学べないことを聞きたいんです。",
+      "en": "Uncle, please let me interview you about local crops today. I want to hear things I can't learn from university books.",
+      "style": "Polite university reporter requesting an interview from an elder relative"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おう、よく来たな。うちの畑じゃ大豆が一番の自慢だぞ。味噌も醤油も全部これから作るんだ。",
+      "en": "Oh, glad you came. Soybeans are our biggest pride here. Miso and soy sauce all come from these.",
+      "style": "Warm rural uncle speaking proudly in casual countryside tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ちなみに川の方ではエビも獲れるって聞きましたが、本当ですか?",
+      "en": "I see. By the way, I heard you can also catch shrimp in the river — is that true?",
+      "style": "Curious student asking follow-up question with respectful tone"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、小さい川エビな。秋になると地元の蔵元が日本酒の肴にって買い付けに来るんだよ。",
+      "en": "Yeah, little river shrimp. In autumn the local sake brewery comes to buy them as snacks for their sake.",
+      "style": "Explaining local food culture with knowledgeable folksy pride"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それ、すごく面白いです!写真も撮りたいので、ドコモのスマホで動画も回していいですか?",
+      "en": "That's super interesting! I'd like to take photos, so can I also record video on my Docomo phone?",
+      "style": "Enthusiastic young reporter asking permission with modern eagerness"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "構わんよ。あっちの納屋にゃ古いドラム缶があって、昔はあれで大豆を運んだもんだ。",
+      "en": "Don't mind at all. In that barn there are old drums — we used to haul soybeans in them.",
+      "style": "Inviting and nostalgic, sharing practical farm history casually"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、ドラム缶で!ところで裏山の馬場跡みたいな所は何だったんですか?",
+      "en": "Wow, in drums! By the way, what was that horse-track-looking place on the back hill?",
+      "style": "Genuinely surprised reporter probing about a curious local landmark"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、昔は競馬場の馬場だったが、今はローズマリーやハーブを育てる畑になっとる。",
+      "en": "Ah, used to be a racetrack course, but now it's a field where we grow rosemary and herbs.",
+      "style": "Nostalgic uncle explaining gentle transformation of village land"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大豆にエビに日本酒、ローズマリーまで…一つの村にこんなに豊かさが詰まってるんですね。",
+      "en": "Soybeans, shrimp, sake, even rosemary — one village holds so much abundance, doesn't it?",
+      "style": "Reflective closing remark from impressed and moved young reporter"
+    }
+  ]
+}

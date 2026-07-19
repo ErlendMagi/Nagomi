@@ -1,0 +1,65 @@
+{
+  "id": "conv_05689",
+  "context": "A police officer briefs a manager about office security",
+  "purpose": "Teach: 市役所/フロア/洗練/ハードディスク/大物/スマート/本題/紙面",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市役所",
+    "フロア",
+    "洗練",
+    "ハードディスク",
+    "大物",
+    "スマート",
+    "本題",
+    "紙面"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "市役所への申請、防犯計画も添付してください。",
+      "en": "Please attach a crime-prevention plan when you submit the application to city hall.",
+      "style": "Professional, measured opening. Even tone. Clear instruction without pressure. The voice of someone used to giving directions that need to stick.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。各フロアに洗練されたカメラ、配置しています。",
+      "en": "Yes, of course. We have sophisticated cameras positioned on each floor.",
+      "style": "Respectful but not deferential. Slight lift on the detail—showing she's thought this through. Steady, competent. The tone of someone presenting work they stand behind.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本題は、ハードディスク等の保管です。",
+      "en": "The main issue is storage—hard drives and sensitive documents.",
+      "style": "Shift to business. Slightly sharper focus. This is the real concern. Level, no-nonsense delivery. Pause weight before the colon.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大物来訪時にも対応できるスマートな仕様です。",
+      "en": "It's a smart setup—we're ready even for high-profile visits.",
+      "style": "Confident, not defensive. Slight pride in the detail. Forward-leaning tone. Sells the solution quietly, letting the work speak.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "紙面に出ない地味な対策こそ大事です。",
+      "en": "The unglamorous measures—the ones that don't make the news—those are what actually matter.",
+      "style": "Quiet weight on the second phrase. Knowing tone. A soft but firm reminder, not lecturing. The steady voice of someone who has seen what happens when people skip the boring part.",
+      "mood": "grave"
+    }
+  ]
+}

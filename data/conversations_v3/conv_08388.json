@@ -1,0 +1,86 @@
+{
+  "id": "conv_08388",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 配付/減額/必需/構文/造る/充足/取消/買物",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "配付",
+    "減額",
+    "必需",
+    "構文",
+    "造る",
+    "充足",
+    "取消",
+    "買物"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_421 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文を学会で配付しろ",
+      "en": "Ren — distribute the paper at the conference.",
+      "style": "Clipped, direct instruction. No wasted breath. Calm authority with the weight of experience behind it. Looks at him straight on.",
+      "mood": "composed_directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の減額が議題になっております",
+      "en": "Yes. The research funding cutback is under discussion.",
+      "style": "Respectful, slightly anxious. Processing the weight of the task while trying to be helpful. Offers context as though it matters to the decision.",
+      "mood": "earnest_concerned"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、必需試薬の発注を忘れるな",
+      "en": "Ren — don't forget to order the essential reagents.",
+      "style": "Firm, practical. Not a suggestion. The tone of someone who has seen important work derailed by small oversights. Direct eye contact.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の文章構文を見直しました",
+      "en": "Yes. I've reviewed the manuscript structure and syntax.",
+      "style": "Eager to show readiness, almost over-reporting. Slightly defensive in wanting to prove he's on top of things. Careful, precise delivery.",
+      "mood": "earnest_vigilant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、世に名を造る研究を目指せ",
+      "en": "Ren — aim for research that builds your name in the field.",
+      "style": "Quiet conviction underneath. Expectation, not pressure. The voice of someone passing on what he learned. Slower pace, weight on the words.",
+      "mood": "wise_encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究で充足感を得ております",
+      "en": "Yes. I'm finding real fulfillment in the research.",
+      "style": "Soft, genuine. Not performing for the boss — actually meaning it. Slight relief in his voice, like he's allowed to admit this.",
+      "mood": "satisfied_honest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文投稿の取消はしないこと",
+      "en": "Ren — don't cancel the paper submission.",
+      "style": "Sharp, knowing. He's read Ren's hesitation before it became words. Not harsh — protective. The finality of someone who won't let self-doubt win.",
+      "mood": "firm_protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究用物品の買物リストを整えました",
+      "en": "Yes. I've prepared the research supplies shopping list.",
+      "style": "Quiet relief in accepting the push. Returning to concrete tasks, things he can control. Trailing with a small exhale, as though grounded.",
+      "mood": "reassured_grounded"
+    }
+  ]
+}

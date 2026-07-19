@@ -1,0 +1,56 @@
+{
+  "id": "conv_01562",
+  "context": "Daichi takes baby Hikari to a pediatric checkup with Saito.",
+  "purpose": "Father reassured by family doctor about young child.",
+  "ambient": "clinic_pediatric_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤ちゃん",
+    "健康",
+    "成長",
+    "安心"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_078)",
+    "generated_at": "2026-05-27T06:31:10.776Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "赤ちゃん、順調に育ってますよ。",
+      "en": "Baby's growing well.",
+      "style": "warm doctor voice, soft professional reassuring delivery carefully"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ほんま?ありがたいわ。",
+      "en": "Really? Grateful.",
+      "style": "soft Kansai father voice, warm relieved grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康に、何の問題もありません。",
+      "en": "No health issues at all.",
+      "style": "gentle doctor voice, soft warm clear delivery carefully"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "夜泣き、ようするけどな。",
+      "en": "Cries at night a lot, though.",
+      "style": "fond Kansai father voice, soft warm honest delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは、普通の成長ですよ。",
+      "en": "That's normal development.",
+      "style": "warm doctor voice, soft reassuring kind delivery carefully"
+    }
+  ]
+}

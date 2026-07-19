@@ -1,0 +1,78 @@
+{
+  "id": "conv_03881",
+  "context": "A teen reporter interviews a police officer who acted as a witness on a public-safety case",
+  "purpose": "Teach: 警告/証言/証人/言及/通過/評論/訂正/反発",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "警告",
+    "証言",
+    "証人",
+    "言及",
+    "通過",
+    "評論",
+    "訂正",
+    "反発"
+  ],
+  "cast": [
+    "sakura_teen",
+    "takeda_officer"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "今日はお時間ありがとうございます。あの公園の事件について、証人として現場にいらっしゃったと聞きました。",
+      "en": "Thank you for your time today. I heard you were at the scene as a witness for that park incident.",
+      "style": "Polite teen reporter opening with respectful inquiry"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、たまたま通過中でした。不審な音を聞いて、すぐに警告を発しました。",
+      "en": "Yes, I happened to be passing through. I heard a suspicious noise and immediately issued a warning.",
+      "style": "Calm professional officer delivering a measured factual recollection"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。先日の新聞記事では、警官の証言が一部間違って報じられて、強い反発を招いたそうですね。",
+      "en": "I see. In a recent newspaper article, the officer's testimony was partly misreported and provoked strong backlash, I heard.",
+      "style": "Probing teen journalist pressing carefully on sensitive misreporting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうなんです。新聞社は後で訂正を出しましたが、ネットの評論家たちはまだ騒いでいます。",
+      "en": "That's right. The newspaper later issued a correction, but online commentators are still making noise about it.",
+      "style": "Officer acknowledging frustration with media handling and aftermath"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "署長が会見で事件に言及されたと聞きましたが、何かお考えはありますか?",
+      "en": "I heard the chief referenced the incident at a press conference — do you have any thoughts on that?",
+      "style": "Curious follow-up question seeking the officer's personal opinion"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "立場上、多くは申し上げられません。ただ、私は淡々と事実を伝えるだけです。",
+      "en": "Given my position, I can't say much. I just convey the facts plainly, that's all.",
+      "style": "Reserved officer carefully deflecting while staying professional and honest"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "誠実なお答え、ありがとうございます。最後に、若い世代に向けて一言お願いできますか?",
+      "en": "Thank you for your honest answer. Finally, could I ask for a word to the younger generation?",
+      "style": "Warm closing prompt by teen reporter inviting parting message"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "周りで困っている人がいたら、ためらわず声を上げてください。それが大切な証言になります。",
+      "en": "If someone around you is in trouble, don't hesitate to speak up. That becomes important testimony.",
+      "style": "Sincere closing message encouraging civic courage from older mentor"
+    }
+  ]
+}

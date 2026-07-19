@@ -1,0 +1,86 @@
+{
+  "id": "conv_08024",
+  "context": "Teens chat",
+  "purpose": "Teach: まんま/とび/破っ/お方/挟ま/うなずい/つかえ/ぶら",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "まんま",
+    "とび",
+    "破っ",
+    "お方",
+    "挟ま",
+    "うなずい",
+    "つかえ",
+    "ぶら"
+  ],
+  "cast": [
+    "sakura_teen",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、お前、寝間着のまんま登校したろ?",
+      "en": "Riku — you came to school in your pajamas, didn't you?",
+      "style": "Playful, knowing lilt on the question. Sharp eyes. Teasing someone she's close enough to call out without malice. Fast, confident delivery.",
+      "mood": "playful_teasing"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前、運動会でとびの真似してたな、桜",
+      "en": "You were doing that bird impression at the sports day, Sakura.",
+      "style": "Dry, deflecting counterattack. Almost a smile in the voice. Not defensive—just turning the tables. Level, steady tone.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、お前、約束を破ったぜ",
+      "en": "Riku, you broke your promise.",
+      "style": "Accusation with teeth, but no real anger underneath. Sharp opening. Slight pause before the verb lands. Testing him.",
+      "mood": "accusatory"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前のお祖父ちゃん、立派なお方だな、桜",
+      "en": "Your grandfather is a pretty great man, Sakura.",
+      "style": "Genuine admiration, carefully delivered. Warm but slightly formal—respect in the tone. No performance, just honest. Soft landing.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、お前、ぼくと隣のクラスの間に挟まれてんな",
+      "en": "Riku, you're stuck between me and the class next door, aren't you?",
+      "style": "Quiet observation, almost to herself. Thoughtful, noticing something he probably doesn't realize she sees. Gentle, introspective tone.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前、授業中うなずいてばかりだな、桜",
+      "en": "You just nod along in class all the time, don't you?",
+      "style": "Light teasing with an edge of actual noticing. Gentle mockery. Quick pace on the observation, trailing warmth at the end.",
+      "mood": "teasing_observant"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、お前のスマホ、ポケットにつかえてんぞ",
+      "en": "Riku, your phone is stuck in your pocket.",
+      "style": "Matter-of-fact callout with dry humor. Pointing out the obvious without judgment. Quick, practical delivery.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前、駅前をぶらっとしてきたろ?桜",
+      "en": "You stopped by the station area on the way, didn't you, Sakura?",
+      "style": "Curious, fishing gently. Intimate tone—close enough to notice, close enough to ask. Soft, interested cadence. No accusation, just wondering.",
+      "mood": "curious_intimate"
+    }
+  ]
+}

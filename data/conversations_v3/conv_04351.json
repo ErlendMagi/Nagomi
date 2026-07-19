@@ -1,0 +1,78 @@
+{
+  "id": "conv_04351",
+  "context": "A boss reads policy headlines with his manager",
+  "purpose": "Teach: 分権/入札/海軍/排出/大気/中略/省略/ビザ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "分権",
+    "入札",
+    "海軍",
+    "排出",
+    "大気",
+    "中略",
+    "省略",
+    "ビザ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の一面は地方分権の見直しか。また同じ議論の繰り返しだな。",
+      "en": "Front page is decentralization reform again. Same debate as always.",
+      "style": "Gruff boss reading newspaper aloud at his desk, mildly exasperated tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "次の段落、公共事業の入札制度に不正があったと書いてあります。",
+      "en": "The next paragraph says there was misconduct in the public bidding system.",
+      "style": "Calm manager reporting facts neutrally, professional reading voice."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "またか。米海軍との合同訓練の記事はどこだ。あれが気になる。",
+      "en": "Again? Where's the article on joint drills with the US Navy? I'm curious.",
+      "style": "Impatient older boss flipping pages, slightly louder and demanding."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "三面です。あと工場の排出ガス規制が強化されるそうですよ。",
+      "en": "Page three. Also, factory emissions regulations will be tightened apparently.",
+      "style": "Polite subordinate redirecting boss's attention, even measured pace."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "排出か。うちの取引先にも影響が出るな。大気汚染の数値も載ってるか?",
+      "en": "Emissions, huh. Our suppliers will feel it. Are the air pollution numbers listed?",
+      "style": "Thoughtful boss connecting news to business, slower contemplative delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、グラフ付きで。長いので中略しますが、東京は基準値を超えています。",
+      "en": "Yes, with a graph. I'll skip the middle, but Tokyo exceeds the threshold.",
+      "style": "Efficient manager summarizing concisely, professional briefing tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "細かい数字は省略でいい。最後、外国人労働者のビザ緩和の件は?",
+      "en": "Skip the fine numbers. Last thing — what about the foreign worker visa easing?",
+      "style": "Decisive boss cutting to what matters, brisk and authoritative."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来月から審査基準が変わるそうです。詳細は午後の会議で共有します。",
+      "en": "Screening criteria change next month. I'll share details at the afternoon meeting.",
+      "style": "Composed manager wrapping up briefing, reassuring professional close."
+    }
+  ]
+}

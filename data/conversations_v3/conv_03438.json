@@ -1,0 +1,72 @@
+{
+  "id": "conv_03438",
+  "context": "Recommending a series to a friend",
+  "purpose": "Recommend a series; teach マンガ/週刊/本書/あんまり/性質/おもしろい/たまたま/大いに",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "マンガ",
+    "週刊",
+    "本書",
+    "あんまり",
+    "性質",
+    "おもしろい",
+    "たまたま",
+    "大いに"
+  ],
+  "cast": [
+    "riku_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_172)",
+    "generated_at": "2026-05-31T21:41:10.917Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "このマンガ、読んでみない？",
+      "en": "Want to try this manga?",
+      "style": "enthusiastic friend offering, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "週刊で連載してるやつ？",
+      "en": "The one serialized weekly?",
+      "style": "curious friend confirming, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "そう。本書のあらすじを話すよ。",
+      "en": "Yes. I’ll summarize the book’s plot.",
+      "style": "eager friend pitching, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あんまり時間ないんだけど、要点を。",
+      "en": "I don’t have much time, but the gist.",
+      "style": "busy friend asking briefly, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "主人公が独特の性質を持ってて、おもしろいんだ。",
+      "en": "The hero has a unique nature — it’s fun.",
+      "style": "fan selling the appeal, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "たまたま電車で見かけて、気になってた。",
+      "en": "I happened to see it on the train — was curious.",
+      "style": "friend admitting interest, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ハマったら、大いに楽しめるよ。",
+      "en": "If you get hooked, you’ll greatly enjoy it.",
+      "style": "fan promising payoff, delivery emotionally grounded and unforced"
+    }
+  ]
+}

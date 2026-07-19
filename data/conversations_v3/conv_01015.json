@@ -1,0 +1,76 @@
+{
+  "id": "conv_01015",
+  "context": "Hiroshi tells Kenji they won a major contract.",
+  "purpose": "boss-subordinate contract-success exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "契約",
+    "一緒",
+    "頑張る",
+    "会社",
+    "感謝"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_051)",
+    "generated_at": "2026-05-27T03:21:23.101Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、大きな契約、取れた！",
+      "en": "Kenji—we got the big contract.",
+      "style": "Sharp, satisfied opening. Firm tone with barely concealed warmth underneath. Lets the news land before the warmth shows. Steady breath, measured pace. A leader announcing victory to someone who earned it.",
+      "mood": "proud_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "え、本当ですか！",
+      "en": "Really? We actually did it?",
+      "style": "A catch in the voice at the start—surprise breaking through. Then it softens into genuine warmth. Quick intake of breath. Builds slightly on the second question. Humble but radiant. A subordinate receiving praise from someone whose opinion matters.",
+      "mood": "elated_humble"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お前のチーム、本当、頑張った。",
+      "en": "Your team really came through.",
+      "style": "Each word deliberate and equal weight. No rush. The appreciation is in the steadiness, not the volume. Eyes on him. Chin level. This is the kind of praise a good boss gives—earned, specific, unflinching.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "皆、喜びます、本当に。",
+      "en": "They're going to be so pleased.",
+      "style": "Soft gratitude threading through. Slight upward lilt at the end—imagining their faces. Slower pace. The words sit gently, like he's turning the moment over in his hands. Tender without performing it.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会社全体、活気、戻る。",
+      "en": "The whole place needed this.",
+      "style": "Philosophical breath. Slight pause before speaking. Steady, almost quiet. He's looking past the moment to what it means. No flourish. Just the weight of something clicking back into place.",
+      "mood": "thoughtful_encouraging"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感謝、本当に、皆に。",
+      "en": "I owe thanks to all of them.",
+      "style": "Quiet and genuine. Not self-effacing—just accurate. Breath flows easily. Gaze still warm. The word 'all' gets a tiny emphasis. He means it to reach them through him.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、お祝い、しよう。",
+      "en": "Come on. Let's celebrate together.",
+      "style": "Warm invitation. The opening is almost gentle—a hand offered. Pace opens up slightly. The word 'together' carries the real weight: this is not just a boss's order but a shared moment. Posture leans slightly forward. The door stays open.",
+      "mood": "inclusive_warm"
+    }
+  ]
+}

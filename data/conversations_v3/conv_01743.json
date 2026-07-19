@@ -1,0 +1,75 @@
+{
+  "id": "conv_01743",
+  "context": "Kenji discusses his recent art commission with Hiroshi-boss.",
+  "purpose": "Artist and patron talking professionally about creative work.",
+  "ambient": "office_quiet_window",
+  "sound_effects": [],
+  "target_vocab": [
+    "依頼",
+    "作品",
+    "完成",
+    "納品"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "社長、依頼の作品、完成しました。",
+      "en": "Boss, the commissioned work is finished.",
+      "style": "Straightforward, professional tone. Clear and measured delivery without rush. Quiet pride in the work—not boasting, just factual. Slight ease at the completion.",
+      "mood": "accomplished"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おう、早かったな。",
+      "en": "You were quick.",
+      "style": "Approving nod in the voice. Light, genuine warmth. Brief but not curt—the efficiency of a boss who respects good work when he sees it.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "納品、いつにしましょうか?",
+      "en": "When should we arrange delivery?",
+      "style": "Practical, forward-moving. Clear enunciation. Professional but not stiff—the tone of someone who's already thinking about the next step.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今週中、頼めるか?",
+      "en": "Can you get it done within the week?",
+      "style": "Measured, direct question. Not demanding—genuine ask. Slight lift at the end, genuinely open to the answer. The kind of boss who asks because he wants to know.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、明日にでも。",
+      "en": "Yes, I can have it ready tomorrow.",
+      "style": "Quiet confidence without overstatement. Warm commitment underneath the professionalism. Slight emphasis on 'tomorrow'—small assurance that he's already thought it through.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ありがとう、助かるで。",
+      "en": "Thanks—that really helps.",
+      "style": "Genuine gratitude, softly delivered. Not performative. The kind of thank-you that lands because it's specific and real. Ease in the voice.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ、ご縁をありがとうございます。",
+      "en": "The pleasure's mine—thank you for the opportunity.",
+      "style": "Respectful without being obsequious. Warm, genuine. Slight formality because it matters, but it lands as sincere. The closing of a good working moment.",
+      "mood": "grateful_respectful"
+    }
+  ]
+}

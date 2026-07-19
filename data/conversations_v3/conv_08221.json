@@ -1,0 +1,86 @@
+{
+  "id": "conv_08221",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 見知らぬ/さんざん/もどる/気まま/だんだんと/何気なく/アナタ/ありとあらゆる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "見知らぬ",
+    "さんざん",
+    "もどる",
+    "気まま",
+    "だんだんと",
+    "何気なく",
+    "アナタ",
+    "ありとあらゆる"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_413 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、見知らぬ人にはついていかないでね",
+      "en": "Sho, don't go off with strangers, okay?",
+      "style": "Gentle but clear instruction. Calm, matter-of-fact delivery. A mother's care wrapped in practicality, not alarm. Direct eye contact level.",
+      "mood": "caring_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、昨日のテスト、さんざんだったよ",
+      "en": "Mom, yesterday's test was a total disaster.",
+      "style": "Quiet, rueful confession. A small sigh underneath. Not asking for sympathy — just stating the fact to the person he trusts. Slightly downward gaze.",
+      "mood": "discouraged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お部屋にもどるまで気をつけてね",
+      "en": "Sho, be careful until you get back to your room, okay?",
+      "style": "Warm check-in. Specific concern without hovering. The kind of gentle reminder that says 'I'm thinking of you.' Soft, attentive tone.",
+      "mood": "watchful_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お休みは気ままに過ごしたいな",
+      "en": "Mom, I want to spend my days off however I feel like.",
+      "style": "Wistful, half-daydreaming. A quiet bid for freedom that isn't quite a complaint. Hopeful underneath, testing whether this wish is allowed.",
+      "mood": "yearning"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、だんだんと寒くなってきたわね",
+      "en": "Sho, it's getting colder and colder, isn't it?",
+      "style": "Observational, almost to herself. A quiet noticing of the season's shift. Warmth in the voice — the kind of small comment that invites closeness without demanding it.",
+      "mood": "reflective_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、何気なく窓を開けたら、お祖父ちゃんがいたよ",
+      "en": "Mom, when I opened the window just now, Grandpa was there!",
+      "style": "Bright, surprised burst of discovery. Quick opening. Genuine delight that something unexpected happened. Alive in the moment. Small pitch lift at the end.",
+      "mood": "delighted_surprised"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、アナタが嫌がる事は絶対しないよ",
+      "en": "Sho, I would never make you do something you hate.",
+      "style": "Quiet, steady reassurance. No performance — just a promise. Tender but not uncertain. The steady voice of someone who means exactly what she says.",
+      "mood": "protective_sincere"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ありとあらゆる遊びを試したいよ",
+      "en": "Mom, I want to try every kind of game there is.",
+      "style": "Eager but thoughtful. Not demanding — genuinely curious, reaching. A boy who's considering possibilities. Warmth in his hope. Close and trusting tone.",
+      "mood": "curious_hopeful"
+    }
+  ]
+}

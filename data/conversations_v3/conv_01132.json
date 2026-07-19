@@ -1,0 +1,76 @@
+{
+  "id": "conv_01132",
+  "context": "Saito visits Ryosuke at his country home.",
+  "purpose": "doctor-retiree home-visit exchange",
+  "ambient": "porch_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_057)",
+    "generated_at": "2026-05-27T04:03:15.311Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、田舎の生活、合ってますか？",
+      "en": "Ryosuke — how's country life treating you?",
+      "style": "Warm, genuine inquiry. Soft opening, unhurried. Real interest in the answer — not checking a box. The ease of a doctor who knows her patient well enough to ask as a person, not just a practitioner.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "おかげさまで、健康、最高。",
+      "en": "Thanks to you — I'm healthier than I've been in years.",
+      "style": "Bright and genuine, almost boyish relief in the words. Light laugh underneath. The gratitude is sincere but not heavy — he's reporting good news, not performing it. A little pride in how well things are going.",
+      "mood": "grateful_bright"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "生活習慣、続けて、本当に、大切。",
+      "en": "Keeping up those habits — that's what really matters, you know.",
+      "style": "Measured, steady rhythm. Not lecturing — affirming. A gentle tap of emphasis on 「大切」 as if underlining something they both already know. Warm counsel from someone who has seen what consistency does.",
+      "mood": "wise_gentle"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "優子と、毎日、散歩。",
+      "en": "Every day now — walks with my wife.",
+      "style": "Soft pride in the detail. Not bragging, but genuinely pleased to report this small consistency. A little tenderness when mentioning his wife — the words slow slightly, grounded.",
+      "mood": "content_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素晴らしい、習慣。",
+      "en": "That's wonderful. That habit is everything.",
+      "style": "Quiet conviction. A slight nod in the voice. She means it — this simple daily act matters more than any prescription. Warm affirmation that carries the weight of years of medical knowing.",
+      "mood": "approving_tender"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "相談、いつでも、感謝。",
+      "en": "And thank you — for being there whenever I need to talk.",
+      "style": "Sincere, almost vulnerable gratitude. Not effusive, but real. The words come from genuine relief at having someone steady to turn to. A small pause before 「感謝」, making room for the weight of what he's saying.",
+      "mood": "grateful_trusting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、長く、お元気で。",
+      "en": "Stay well with me — for a long time to come.",
+      "style": "Soft closing promise. Unhurried, almost ceremonial in its gentleness. Not clinical — personal. The words carry a physician's care and something deeper: a wish, a commitment to walk alongside him.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

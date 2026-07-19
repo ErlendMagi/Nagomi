@@ -1,0 +1,78 @@
+{
+  "id": "conv_03584",
+  "context": "A businessman and assistant skim the Nikkei over morning coffee",
+  "purpose": "Teach: 獲得/不幸/素人/格差/日経/人達/もしくは/ブッシュ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "獲得",
+    "不幸",
+    "素人",
+    "格差",
+    "日経",
+    "人達",
+    "もしくは",
+    "ブッシュ"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_180 workflow w1fqcqim4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おはよう、ゆきさん。今朝の日経、もう目を通した?",
+      "en": "Morning, Yuki. Have you skimmed today's Nikkei yet?",
+      "style": "Relaxed morning greeting from boss to assistant, casual but professional tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、ざっとですが。一面はアメリカの選挙で、ブッシュ家のコメントが載っていましたよ。",
+      "en": "Yes, just a quick look. The front page covers the U.S. election, with a comment from the Bush family.",
+      "style": "Polite assistant reply, calm and informative with desu/masu register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、あの記事ね。経済面のほうは? 所得の格差がまた広がっているらしいけど。",
+      "en": "Ah, that article. What about the economy section? I heard income inequality is widening again.",
+      "style": "Conversational businessman tone, mildly concerned, sipping coffee casually."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、特に若い人達の間で深刻みたいです。新しい顧客を獲得するのも以前より大変だと書いてありました。",
+      "en": "Yes, it seems especially serious among younger people. It also said acquiring new clients has gotten harder than before.",
+      "style": "Thoughtful polite delivery, reading aloud from memory, slight worry in voice."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "素人目には景気が良さそうに見えるけど、現場は違うんだなあ。",
+      "en": "To an amateur's eye the economy looks fine, but the front lines tell a different story.",
+      "style": "Reflective middle-aged businessman, slightly sighing, half to himself."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ですね。地震の被害に遭ったかたがたも、まだ不幸な状況が続いているそうです。",
+      "en": "Right. And people affected by the earthquake are apparently still living through unfortunate circumstances.",
+      "style": "Soft, sympathetic polite tone, eyes lowered as she relays the news."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "支援策の見直しか、もしくは民間の寄付を増やすか、どちらかが必要だな。",
+      "en": "Either a review of support measures, or an increase in private donations — one of the two is needed.",
+      "style": "Decisive businessman tone, thinking out loud while folding the newspaper."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では、今日の会議の資料に、その辺りもまとめておきますね。",
+      "en": "Then I'll include a summary of that area in today's meeting materials.",
+      "style": "Brisk, helpful assistant wrap-up, polite and efficient with a small smile."
+    }
+  ]
+}

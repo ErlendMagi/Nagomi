@@ -1,0 +1,65 @@
+{
+  "id": "conv_05815",
+  "context": "A teacher and a uni student discuss a documentary on transitional justice",
+  "purpose": "Teach: 戦犯/爆破/暴動/ナチス/部落/慰安/暴行/売春",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "戦犯",
+    "爆破",
+    "暴動",
+    "ナチス",
+    "部落",
+    "慰安",
+    "暴行",
+    "売春"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "移行期正義の特集、戦犯処理から始まる構成でしたね。",
+      "en": "That transitional justice feature opened with war-crimes processing, didn't it.",
+      "style": "Warm, thoughtful opening. Slight lift at the end—inviting him to reflect alongside her, not interrogating. Steady breath, conversational pace. The voice of someone genuinely curious about what he noticed.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ナチス後のドイツの暴動収束、丁寧に描かれていました。",
+      "en": "Yes. The post-Nazi German section was really carefully depicted—especially the riot response.",
+      "style": "Genuine agreement, leaning in. Slight emphasis on 'carefully' — acknowledging the filmmakers' work. Measured, respectful pace. A student thinking aloud with someone he trusts to listen.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "暴行被害者の救済、部落単位の聞き取り、根気の要る作業ですね。",
+      "en": "The victim relief work, the village-by-village interviews… that's the kind of patience that breaks you, isn't it.",
+      "style": "Quiet recognition of the weight. Slight pause before 'that's the kind' — letting it sink. Gentle but unflinching. Voice carries respect for the difficult work being described, not distance from it.",
+      "mood": "respectful_somber"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "慰安をめぐる証言、二次被害を避ける配慮も語られていました。",
+      "en": "The testimonies around comfort women especially—I noticed how they talked about avoiding secondary harm. How careful they had to be.",
+      "style": "Careful, probing slightly deeper. Slight hesitation before 'secondary harm' — he's thinking as he speaks, not reciting. Quieter, more intimate. The tone of someone trust enough to voice something harder.",
+      "mood": "serious_attentive"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "戦後の売春の社会問題、爆破事件と並ぶ報道の難しさ、現代に通じます。",
+      "en": "That's what strikes me most—how postwar sex work sits right alongside the bombings in the news cycle, and how much harder that makes everything to report fairly. It still does, doesn't it.",
+      "style": "Reflective, drawing a line toward now. Slight breath before the final question—not rhetorical, but genuine. Slower pace. The voice of a teacher thinking out loud, inviting him to see what she sees.",
+      "mood": "reflective_troubled"
+    }
+  ]
+}

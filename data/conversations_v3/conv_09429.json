@@ -1,0 +1,86 @@
+{
+  "id": "conv_09429",
+  "context": "Officer briefs",
+  "purpose": "Teach: 取りまとめ/ファックス/激励/主査/次官/母体/個室/衣服",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "取りまとめ",
+    "ファックス",
+    "激励",
+    "主査",
+    "次官",
+    "母体",
+    "個室",
+    "衣服"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_473 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査情報の取りまとめを進めておられますね",
+      "en": "The police are moving forward with compiling investigative information.",
+      "style": "Steady, observational tone. Speaking as though noting standard procedure. Warm but professional. No urgency—matter-of-fact respect for the work being done.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、地方署とのファックスでの連絡もされてますね",
+      "en": "The police are also communicating with the local precinct via fax.",
+      "style": "Same steady pace. A slight nod in the voice—acknowledging coordination. Still collaborative in tone, no edge. Just noticing the practical steps being taken.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、新人警官への激励をされてますね",
+      "en": "The police are encouraging the newer officers.",
+      "style": "A tiny warmth enters. Still measured, but there's approval underneath. Soft on 「激励」—gentle recognition that this matters. No sentimentality, just human notice.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査本部の主査も会議に出られますね",
+      "en": "The investigation headquarters' deputy chief is attending the meetings.",
+      "style": "Back to steady documentation. Clear, factual delivery. A small emphasis on the hierarchy—not critical, just noting the structure. Still warm underneath.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、元次官の不正にも厳しく対応されますね",
+      "en": "The police are responding strictly to the former vice-minister's misconduct.",
+      "style": "Firmness enters here. Not angry, but conviction. A sharper attack on the opening. The tone says 'they're not letting this slide.' Professional, but with an undertone of approval for that seriousness.",
+      "mood": "approving_firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査の母体組織を市民に説明されますね",
+      "en": "The police are explaining the investigation's organizational structure to the public.",
+      "style": "Back to the even keel. Noticing transparency as a good thing. No performance, just acknowledging that they're doing the work of public trust. Calm, steady.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、取調べ用の個室を整備されてますね",
+      "en": "The police have prepared private rooms for interrogations.",
+      "style": "Still steady, but now there's a careful gentleness. The focus shifts slightly—this is about victim care, not just procedure. Quieter on the ending. Approving but not sentimental.",
+      "mood": "thoughtful_approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、被害者の衣服を証拠物として保管されますね",
+      "en": "The police are keeping the victim's clothing as evidence.",
+      "style": "Slower now. Quieter. The tone becomes more intimate and serious—this is tender ground. No rush. A slight pause before continuing, as if handling something fragile. Deep respect, deep care in the delivery.",
+      "mood": "grave_careful"
+    }
+  ]
+}

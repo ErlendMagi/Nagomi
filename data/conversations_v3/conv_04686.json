@@ -1,0 +1,78 @@
+{
+  "id": "conv_04686",
+  "context": "A boss reviews proposed cost terms with his deputy",
+  "purpose": "Teach: 算定/暫定/安価/付与/除外/評議/総括/助教授",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "算定",
+    "暫定",
+    "安価",
+    "付与",
+    "除外",
+    "評議",
+    "総括",
+    "助教授"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_236 workflow wj5mdwm6v)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の提案、料金の算定基準が少し曖昧だな。",
+      "en": "The pricing calculation criteria in this proposal are a bit vague.",
+      "style": "Authoritative, measured tone with slight skepticism, evaluating subordinate's work"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "申し訳ありません。現時点では暫定的な数字として出しております。",
+      "en": "I apologize. At this point we've submitted them as provisional figures.",
+      "style": "Deferential and apologetic, professional explanation to superior"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "クライアントは安価で提供してほしいと言っているが、無理は禁物だ。",
+      "en": "The client wants it offered at a low price, but we mustn't overextend.",
+      "style": "Cautious and pragmatic, conveying business wisdom firmly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では、初年度のみ割引を付与する形ではいかがでしょうか。",
+      "en": "Then how about granting a discount only for the first year?",
+      "style": "Tentative suggestion, polite and exploratory in proposing alternative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "悪くない。ただし保守費用は割引の対象から除外しよう。",
+      "en": "Not bad. However, let's exclude maintenance fees from the discount.",
+      "style": "Approving but adding firm conditions, decisive executive tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来週の役員評議までに修正案をまとめます。",
+      "en": "Understood. I'll compile the revised proposal by next week's executive review.",
+      "style": "Confident acknowledgment, committing to clear deliverable with respect"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。それと、顧問を務めてくださっている田中元助教授にも一度意見を伺ってくれ。",
+      "en": "I'm counting on you. Also, please consult Mr. Tanaka, the former associate professor serving as our advisor.",
+      "style": "Trusting delegation with additional instruction, warm but authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。総括のご報告は金曜日に差し上げます。",
+      "en": "Certainly. I'll deliver the summary report on Friday.",
+      "style": "Formal business closure, respectful and organized commitment"
+    }
+  ]
+}

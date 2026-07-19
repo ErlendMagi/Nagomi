@@ -1,0 +1,75 @@
+{
+  "id": "conv_03071",
+  "context": "Saito advises a high schooler on sleep.",
+  "purpose": "WIDENED SCENARIO: medical advice; vocabulary (ベッド/タイミング/新宿/高校生/解放) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ベッド",
+    "タイミング",
+    "新宿",
+    "高校生",
+    "解放"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_154)",
+    "generated_at": "2026-05-29T15:38:40.953Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "先生、最近よく眠れないんです。",
+      "en": "Doctor, I can't sleep well lately.",
+      "style": "tired teen boy voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "高校生は、生活が不規則になりがちですね。",
+      "en": "High schoolers tend to have irregular schedules.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "新宿で遊んで、帰りが遅くて。",
+      "en": "I play in Shinjuku and get home late.",
+      "style": "sheepish teen boy voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "寝るタイミングを、一定にしましょう。",
+      "en": "Let's keep your bedtime timing consistent.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ベッドに入っても、目が冴えるんです。",
+      "en": "Even in bed, I'm wide awake.",
+      "style": "troubled teen boy voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ベッドでは、スマホを置きましょう。",
+      "en": "In bed, put the phone away.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "勉強から解放されると、安心します。",
+      "en": "When freed from studying, I feel relieved.",
+      "style": "honest teen boy voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "良いタイミングで休めば、解放されますよ。",
+      "en": "Rest at the right timing and you'll feel released.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

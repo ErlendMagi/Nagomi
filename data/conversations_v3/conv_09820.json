@@ -1,0 +1,86 @@
+{
+  "id": "conv_09820",
+  "context": "Mom and son chat",
+  "purpose": "Teach: フロリダ/クリントン/信長/ヘンリー/ハンター/つくば/赤坂/ミクロ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "フロリダ",
+    "クリントン",
+    "信長",
+    "ヘンリー",
+    "ハンター",
+    "つくば",
+    "赤坂",
+    "ミクロ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_492 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがフロリダの旅行記を読んで下さるそうよ",
+      "en": "Sho, your father is going to read us his travel journal from Florida.",
+      "style": "Warm, matter-of-fact announcement. Slight lift at the end — offering this to Sho as a small gift of time together. Calm, settled voice.",
+      "mood": "warm_matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとクリントン元大統領のドキュメンタリー観たよ",
+      "en": "Mom, Dad and I watched a documentary about President Clinton.",
+      "style": "Quick, bright response. Eager to share his own memory right away. Slightly breathless with the rush of wanting to tell her. Small voice, genuine excitement.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが織田信長の大河ドラマ観てらしたわ",
+      "en": "Sho, your father was watching a historical drama about Oda Nobunaga.",
+      "style": "Gentle observation, almost thinking aloud. Noticing what her husband is doing, sharing it as context. Warm but unhurried. Slight pause before the name.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとヘンリー王子の絵本見たよ",
+      "en": "Mom, Dad and I looked at a picture book about Prince Henry.",
+      "style": "Same brightness as before but with even more eagerness. Rushing slightly to share this second memory. Small, genuine laugh underneath. Voice rising a touch at the end.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがハンターの友達と山に行かれたわ",
+      "en": "Sho, your father went to the mountains with a friend who hunts.",
+      "style": "Quiet, reflective delivery. Factual but touched with a note of — he's doing his own things, growing in his own ways. Slight trailing-off. Composed but warm.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとつくば学園都市行ったよ",
+      "en": "Mom, Dad and I went to Tsukuba Science City.",
+      "style": "Same eager brightness, but slightly slower this time — savoring the memory a little. Still quick to share but with the warmth of something he genuinely enjoyed. Small, satisfied tone.",
+      "mood": "eager_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが赤坂で重要な打ち合わせをされるそうよ",
+      "en": "Sho, your father has an important meeting in Akasaka.",
+      "style": "Measured, informative. Acknowledging something a little more serious. Still warm but with a thread of — this is grown-up business, this is what he does. Calm, slightly distanced.",
+      "mood": "calm_matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとミクロの世界の図鑑見たよ",
+      "en": "Mom, Dad and I looked at a picture book about the microscopic world.",
+      "style": "One final eager rush, but deeper this time — the delight in sharing something he found genuinely interesting. Warm, close, almost confiding. Slight breathlessness at the end.",
+      "mood": "eager_wonder"
+    }
+  ]
+}

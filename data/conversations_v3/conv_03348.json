@@ -1,0 +1,84 @@
+{
+  "id": "conv_03348",
+  "context": "A student interviews the doctor about a disease",
+  "purpose": "Interview on illness; teach 感染/拒否/対処/防衛/認定/形態/青年/実質",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "感染",
+    "拒否",
+    "対処",
+    "防衛",
+    "認定",
+    "形態",
+    "青年",
+    "実質"
+  ],
+  "cast": [
+    "sakura_teen",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_168)",
+    "generated_at": "2026-05-29T17:43:33.003Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、この病気はどう広がるんですか？",
+      "en": "Doctor, how does this disease spread?",
+      "style": "curious interviewer asking clearly, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "接触で感染が広がります。",
+      "en": "Infection spreads through contact.",
+      "style": "doctor answering precisely, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ワクチンを拒否する人もいますよね。",
+      "en": "Some people refuse the vaccine, right?",
+      "style": "interviewer raising a real issue, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、ですが早期の対処が肝心です。",
+      "en": "Yes, but early action is crucial.",
+      "style": "doctor stressing a key point, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "体の防衛反応って、どう働くんですか？",
+      "en": "How does the body’s defense response work?",
+      "style": "interviewer probing the science, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "免疫が敵を認定して、攻撃します。",
+      "en": "The immune system identifies the enemy and attacks.",
+      "style": "doctor explaining vividly, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ウイルスの形態は変化するんですか？",
+      "en": "Does the virus’s form change?",
+      "style": "interviewer following up, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "します。特に青年層での流行が懸念されます。",
+      "en": "It does. Spread among young people is a concern.",
+      "style": "doctor noting a worry, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実質、予防が最大の対策ですね。",
+      "en": "Essentially, prevention is the biggest measure.",
+      "style": "interviewer summarizing the lesson, voice clear and distinctly their own"
+    }
+  ]
+}

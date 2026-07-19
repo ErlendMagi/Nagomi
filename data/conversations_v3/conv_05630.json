@@ -1,0 +1,65 @@
+{
+  "id": "conv_05630",
+  "context": "A retired exec mentors a current boss",
+  "purpose": "Teach: 残高/納税/人件/同行/職種/命じ/多額/持ち出し",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "残高",
+    "納税",
+    "人件",
+    "同行",
+    "職種",
+    "命じ",
+    "多額",
+    "持ち出し"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "残高の見方、若い頃の私も多額に振り回された。",
+      "en": "Reading balances—in my younger days, I too got caught up in large numbers.",
+      "style": "Measured, reflective opening. Quiet authority without weight. Leans on lived experience. Slow enough to land the personal admission, then a gentle settling into wisdom.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "納税前の精査、慎重にやっています。",
+      "en": "Pre-filing review—I'm handling it carefully.",
+      "style": "Clipped, professional assurance. Respectful but present. No apology in the tone, just clean commitment. Brief pause before the second clause.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "人件費の硬直性、職種で分けて見るといい。",
+      "en": "Personnel costs have rigidity built in—splitting them by role shows you the structure.",
+      "style": "Practical advice delivered with gentle firmness. Each phrase lands like a small stone. Not lecturing, teaching. A grandfather sharing something that took him decades to see clearly.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "承知です。外部顧問の同行も命じておきます。",
+      "en": "Understood. I'll have an outside advisor come along for the process.",
+      "style": "Prompt acknowledgment, then clear statement of action. Respectful deference that's earned, not performed. Steady eye contact in the voice—he's heard, he's moving.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "資料の持ち出し、デジタルでも要注意だ。",
+      "en": "Documents—whether paper or digital—require the same caution.",
+      "style": "Closing counsel delivered quietly but with weight. A slight lean forward in the voice. Not warning, but wise closure. Lets the silence after settle in.",
+      "mood": "cautious_wise"
+    }
+  ]
+}

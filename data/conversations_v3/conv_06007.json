@@ -1,0 +1,79 @@
+{
+  "id": "conv_06007",
+  "context": "Two managers prepare a vendor visit",
+  "purpose": "Teach: 来訪/実業/セットアップ/省エネ/一線/下位/浮かび/帳簿",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "来訪",
+    "実業",
+    "セットアップ",
+    "省エネ",
+    "一線",
+    "下位",
+    "浮かび",
+    "帳簿"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "取引先来訪、明日午前ね。",
+      "en": "The client's coming by tomorrow morning.",
+      "style": "Efficient, matter-of-fact. Rapid delivery on 'coming by'—she's moving through a checklist. No flourish, but not cold. The tone of someone delegating because there's work to do.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。実業出身の社長、礼節重視です。",
+      "en": "Right. The president's from the industry—he's all about protocol.",
+      "style": "Nodding affirmation. Steady, informative tone. A light lift on 'protocol' showing he understands the stakes. Not anxious, just flagging what matters.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "プロジェクター、セットアップ済み?",
+      "en": "The projector's set up, right?",
+      "style": "Quick check-in. Brief, clipped. She's moving down the list. Expects a yes but needs confirmation. Tone is brisk but not impatient.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。省エネモードで運用しています。",
+      "en": "Yes. Running it in power-save mode.",
+      "style": "Straightforward update delivered with quiet competence. No apology or over-explanation. He's checked, he's handled it. Small pause after 'Yes' shows he's thought it through.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "予算、一線越えないよう、下位項目も精査して。",
+      "en": "Budget—don't overstep. Go through the smaller line items too.",
+      "style": "Firm directive without sharpness. A touch of worry underneath—she's thinking ahead about numbers. Measured pace, slight emphasis on 'go through' to show this matters.",
+      "mood": "cautious_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "新案、浮かび上がらせて、提案できそうです。",
+      "en": "I can pull together some new angles to pitch.",
+      "style": "Mild optimism. A small lift in energy—he's caught onto her worry and is offering something concrete. Not overselling, but genuine forward momentum in his voice.",
+      "mood": "resourceful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "帳簿の数字、ダブルチェックを。",
+      "en": "And the figures in the books—get someone to verify them.",
+      "style": "Final checkpoint, delivered with quiet gravity. She's being thorough because it matters. Slight pause before 'get someone' shows she's not delegating casually—this is important. Trailing slightly on 'figures' like she's thinking of what else could go wrong.",
+      "mood": "meticulous"
+    }
+  ]
+}

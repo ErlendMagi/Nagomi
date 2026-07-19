@@ -1,0 +1,78 @@
+{
+  "id": "conv_03283",
+  "context": "A roadside stop at a mechanic’s",
+  "purpose": "Diagnose car trouble; teach エンジン/コントロール/横浜/ガス/キロ/マーク/パターン/トン",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "エンジン",
+    "コントロール",
+    "横浜",
+    "ガス",
+    "キロ",
+    "マーク",
+    "パターン",
+    "トン"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_165)",
+    "generated_at": "2026-05-29T17:24:30.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、エンジンから変な音がして。",
+      "en": "Excuse me, the engine’s making a strange noise.",
+      "style": "worried driver seeking help, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "どれどれ、ちょっとコントロール効きにくかったやろ？",
+      "en": "Let’s see — handling felt a bit off, right?",
+      "style": "shrewd Kansai mechanic diagnosing aloud, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、横浜に向かう途中で気づいて。",
+      "en": "Yes, I noticed on the way to Yokohama.",
+      "style": "driver explaining the situation, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ガス系統に問題あるかもしれんな。",
+      "en": "Might be a problem in the fuel system.",
+      "style": "experienced Kansai mechanic giving a hunch"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あと二十キロで着くんですけど、大丈夫ですか？",
+      "en": "It’s twenty kilometers more — will it be okay?",
+      "style": "anxious driver hoping to continue, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "警告マーク点いてへんし、走行はいけるで。",
+      "en": "No warning mark’s lit, so you can keep going.",
+      "style": "reassuring Kansai mechanic clearing him, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "トラブルのパターン、よくあるやつですか？",
+      "en": "Is this a common trouble pattern?",
+      "style": "curious driver seeking reassurance, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "せやな、何トンも積む車やとよう起こるわ。",
+      "en": "Yeah, it happens often with vehicles hauling tons.",
+      "style": "knowing Kansai mechanic generalizing, tone holding steady through the whole line"
+    }
+  ]
+}

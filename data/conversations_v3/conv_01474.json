@@ -1,0 +1,61 @@
+{
+  "id": "conv_01474",
+  "context": "Ren stops by the cafe; Aoi makes him a coffee while they catch up.",
+  "purpose": "Friendly cafe regular and barista exchange; gentle weekday warmth.",
+  "ambient": "cafe_morning_espresso",
+  "sound_effects": [],
+  "target_vocab": [
+    "コーヒー",
+    "注文",
+    "元気",
+    "今朝"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "蓮くん、今朝早いね。",
+      "en": "You're up early this morning, Ren.",
+      "style": "Warm, familiar recognition. Soft opening. The tone of someone who's noticed his routine and likes him for it. Gentle, unhurried.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "おはようございます、元気です。",
+      "en": "Good morning. I'm doing well, thank you.",
+      "style": "Quiet, genuinely polite. No performance in it. Slight uncertainty in the phrasing — careful not to overstep. Soft eye contact.",
+      "mood": "earnest_mild"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いつもの注文?",
+      "en": "The usual, then?",
+      "style": "Light, knowing affection. She's already reaching for the cup. Not a question really — a gentle confirmation. Soft and quick.",
+      "mood": "fond"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、ブラックでお願いします。",
+      "en": "Yes, black coffee, please.",
+      "style": "Quiet, polite agreement. No hesitation. He's said this before. Gentle, straightforward. A small, genuine smile in his voice.",
+      "mood": "content_polite"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はいよ、すぐ作るね。",
+      "en": "You got it. Won't be a minute.",
+      "style": "Brisk, efficient warmth. Already moving toward the machine. Professional but genuinely pleased to serve him. Bright without being loud.",
+      "mood": "bright_efficient"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00520",
+  "context": "Sachiko checks in with Saito. Doctor briefly tells her about Mei's pregnancy follow-up.",
+  "purpose": "small medical-and-family overlap moment",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤ちゃん",
+    "安心",
+    "元気",
+    "感謝",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_026)",
+    "generated_at": "2026-05-27T00:13:43.500Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "斎藤先生、メイさん、見ていただいて、ありがとうございます。",
+      "en": "Dr. Saito, thank you for seeing Mei-san.",
+      "style": "Soft grandmother warm soft sincere-warm civil-grateful-opening, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お祖母様、お孫さん、すごくお元気ですよ。",
+      "en": "Grandmother, your grandchild — very healthy.",
+      "style": "Doctor warm professional gentle bright sincere-warm reassuring, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-bright"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に、安心しました。",
+      "en": "Truly, relieved.",
+      "style": "Soft grandmother warm soft sincere deep-warm relieved-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご家族で、ちゃんと、見守られて。本当に、いいご家族で。",
+      "en": "Family watching properly. Truly good family.",
+      "style": "Doctor warm professional gentle sincere-warm appreciating-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "皆さんに、本当に、感謝してます。",
+      "en": "Truly grateful to everyone.",
+      "style": "Soft grandmother warm soft sincere deep-warm closing-grateful-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    }
+  ]
+}

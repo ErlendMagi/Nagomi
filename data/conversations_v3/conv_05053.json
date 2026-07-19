@@ -1,0 +1,78 @@
+{
+  "id": "conv_05053",
+  "context": "A police officer briefs a uni reporter about a wildlife case",
+  "purpose": "Teach: うつ病/生息/虚偽/発する/挫折/成り立つ/一角/掲げる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "うつ病",
+    "生息",
+    "虚偽",
+    "発する",
+    "挫折",
+    "成り立つ",
+    "一角",
+    "掲げる"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件、市の北側の森の一角で密猟者が逮捕された件です。",
+      "en": "About this case — poachers were arrested in one corner of the forest on the north side of the city.",
+      "style": "Formal police briefing, measured pace, slightly weary tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あの辺りは確か、絶滅危惧種のフクロウが生息している場所ですよね?",
+      "en": "That area is where the endangered owl species lives, right?",
+      "style": "Eager student reporter, rising inquisitive pitch, notebook in hand"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。容疑者は偽造した許可証を掲げる手口で入山し、後に虚偽の申請だと判明しました。",
+      "en": "Exactly. The suspect used the tactic of holding up a forged permit to enter the mountain, and it later turned out to be a false application.",
+      "style": "Crisp official delivery, slight emphasis on key facts"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ひどい話ですね…そういう人って、よく罪悪感とか感じないものなんでしょうか。",
+      "en": "That's awful... do people like that not feel any guilt?",
+      "style": "Soft, troubled, genuinely disturbed young voice"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "実は容疑者、長年うつ病を患っていて、事業の挫折からこの行為に至ったと供述しています。",
+      "en": "Actually, the suspect has suffered from depression for years and stated that the failure of his business led him to this act.",
+      "style": "Lower, more sober tone, professional but humane"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど…でも、それで動機が成り立つとしても、絶対に許される行為じゃないですよね。",
+      "en": "I see... but even if that explains the motive, it's absolutely not something that can be forgiven.",
+      "style": "Thoughtful, firm conclusion, slightly raised conviction"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。我々としても、こうした事案には強い警告を発する必要があると考えています。",
+      "en": "Yes. From our standpoint, we believe a strong warning needs to be issued regarding cases like these.",
+      "style": "Resolute closing statement, official authoritative finish"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。記事の最後にその一文、しっかり載せさせていただきます。",
+      "en": "Thank you very much. I'll make sure to include that line at the end of the article.",
+      "style": "Polite grateful sign-off, lifting energy, respectful bow tone"
+    }
+  ]
+}

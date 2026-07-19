@@ -1,0 +1,76 @@
+{
+  "id": "conv_03184",
+  "context": "Planning next week’s stall location over closing chat",
+  "purpose": "Plan the next market; teach 売り/最低/わずか/トラブル/つくる/売る/づくり",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "わずか",
+    "売り",
+    "最低",
+    "トラブル",
+    "つくる",
+    "売る"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "来週の売り場、場所変えよか。",
+      "en": "Should we change the stall spot next week?",
+      "style": "pondering Kansai owner weighing a move"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いいですね。最低でも今より広い所がいい。",
+      "en": "Good idea. At least somewhere bigger than now.",
+      "style": "eager assistant pushing for more space"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "わずかでも家賃上がるとつらいけどな。",
+      "en": "Even a tiny rent increase would sting, though.",
+      "style": "budget-conscious owner wary of cost, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "トラブルが少ない場所を選びましょう。",
+      "en": "Let us pick a place with fewer problems.",
+      "style": "sensible helper prioritizing a calm spot"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "商品、もっとつくる必要あるな。",
+      "en": "We need to make more products.",
+      "style": "planning craftsman thinking about supply, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "手づくりの良さが売りですもんね。",
+      "en": "The handmade quality is our selling point, after all.",
+      "style": "affirming helper naming the stall’s strength"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "せや、それが一番売れる理由や。",
+      "en": "Right, that is the biggest reason they sell.",
+      "style": "agreeing owner proud of his craft"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "残り全部、夏までに売るつもりや。",
+      "en": "I plan to sell all the rest by summer.",
+      "style": "ambitious Kansai owner setting a deadline"
+    }
+  ]
+}

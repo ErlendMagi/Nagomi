@@ -1,0 +1,78 @@
+{
+  "id": "conv_02323",
+  "context": "Saito checks Sho-young's temperature; mild fever care.",
+  "purpose": "Doctor caring for child fever.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "体温",
+    "症状",
+    "熱い",
+    "直ぐに",
+    "回復",
+    "優しい",
+    "安心",
+    "休む"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_117)",
+    "generated_at": "2026-05-29T11:29:34.834Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "翔くん、体温、測ってみようね。",
+      "en": "Sho, let's take your temperature, okay?",
+      "style": "Calm, professional opener. Eyes warm behind the clinical routine. Voice pitched low and steady for a nervous child. A gentleness that says you've done this a hundred times and nothing is wrong.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、熱い感じ、する。",
+      "en": "Doctor... I feel hot.",
+      "style": "Small voice, slightly trembling. Not dramatic — just the honest observation of a six-year-old noticing something in his own body. A pause before speaking, like he's checking the words before they come out.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "症状、軽いから、安心して。",
+      "en": "The symptoms are mild, so you can rest easy.",
+      "style": "Clear and direct, but the firmness is wrapped in warmth. Not dismissive — protective. The tone of someone who has seen worse and wants him to know it."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "直ぐに、回復する?",
+      "en": "Will I get better soon?",
+      "style": "Cautious hope in the question. Not demanding reassurance, but asking it quietly, like he's prepared for the answer either way. The small breath before 'soon' shows the worry underneath.",
+      "mood": "hopeful_anxious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "優しく、休めば、すぐ良くなるよ。",
+      "en": "If you rest gently and take it easy, you'll feel better very quickly.",
+      "style": "Steady and certain without being rushed. Each phrase lands with quiet conviction. The voice of someone who knows exactly what will happen and is confident enough not to oversell it.",
+      "mood": "confident_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、先生!",
+      "en": "Thank you, Doctor!",
+      "style": "Relief floods in — the worry breaks like a small wave. Genuine gratitude, not performed. A brightness returning to his voice now that he has an answer.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さん、心配いりませんよ。",
+      "en": "There's nothing to worry about, Mom. He'll be fine.",
+      "style": "Turned slightly toward the mother now, voice dropping into the register of adult-to-adult reassurance. Professional but not cold — the confidence of expertise offered as a gift to ease her mind.",
+      "mood": "reassuring"
+    }
+  ]
+}

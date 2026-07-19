@@ -1,0 +1,86 @@
+{
+  "id": "conv_06852",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 民俗/幼少/薄れ/彼方/亡くなり/作詞/蒸気/道路公団",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "民俗",
+    "幼少",
+    "薄れ",
+    "彼方",
+    "亡くなり",
+    "作詞",
+    "蒸気",
+    "道路公団"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_344 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者の周辺、民俗信仰、関わっているようです。",
+      "en": "This case appears to involve folk beliefs connected to the suspect's immediate circle.",
+      "style": "Professional, measured delivery. Level eye contact. Each phrase deliberate, not rushed. Calm authority underneath — this is information, not speculation.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、幼少期、虐待を受けた経歴、ありますか?",
+      "en": "Does the suspect have a history of abuse during childhood?",
+      "style": "Lean forward slightly. Genuine curiosity — this is investigative, not accusatory. Pace slows on the key word. Waiting for the answer, not filling the air.",
+      "mood": "focused_probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者、記憶、徐々に、薄れていく中、証言、続けてくださっています。",
+      "en": "Yes. As the victim's memory has been fading, they've continued to provide testimony.",
+      "style": "Steady, professional tone. Slight weight on 'continued' — noting the victim's effort despite deterioration. Measured pace, clear diction. The tone of someone documenting fact.",
+      "mood": "composed_somber"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、彼方へ、逃亡を、試みていたんですね、警察、捕まえました。",
+      "en": "So the suspect attempted to flee — and the police caught him.",
+      "style": "Quiet realization in the voice. Not a question, though phrased as one. A moment of understanding something difficult. Slight pause before the second clause.",
+      "mood": "grim_understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。事件直後に、被害者、お亡くなりになりました、残念です。",
+      "en": "Yes. Unfortunately, the victim passed away shortly after the incident occurred.",
+      "style": "Softer here. Professional composure maintained, but a real note of loss underneath. Not performing sadness, but not hiding it either. Slight pause before 'unfortunately'.",
+      "mood": "grave_regretful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証拠の中に、作詞風のメモ、容疑者から、見つかったって聞きました。",
+      "en": "I heard that among the evidence, they found what looked like song lyrics — notes written by the suspect.",
+      "style": "Curiosity sharpens. Leans in slightly. This detail matters and the voice shows it — not urgent, but engaged. Slight emphasis on 'song lyrics' — unusual detail.",
+      "mood": "intrigued"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。現場周辺の蒸気プラント、調査対象に、入っております。",
+      "en": "Yes. The steam plant in the vicinity of the scene is part of the investigation.",
+      "style": "Returns to procedural tone. Clear, factual. 'Steam plant' gets slight emphasis — a concrete detail. No inflection suggesting doubt or speculation.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "道路公団管理の道路、警察、検問、設置されたんですね、容疑者発見のために。",
+      "en": "So the police have set up checkpoints on the roads managed by the highway authority — to find the suspect.",
+      "style": "Connecting the pieces aloud. Thoughtful pace. Not rushed. A moment of seeing how pieces fit. Slight lift on 'highways' — the scale of the manhunt. Closes with quiet finality.",
+      "mood": "comprehending_serious"
+    }
+  ]
+}

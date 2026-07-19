@@ -1,0 +1,105 @@
+{
+  "id": "conv_00049",
+  "context": "A Tuesday evening phone call. Kenji, between meetings, calls his mother. She picks up on the second ring.",
+  "purpose": "adult son to aging mother — light maintenance call with a small genuine moment",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "今",
+    "本当に",
+    "元気",
+    "時間",
+    "大丈夫",
+    "明日",
+    "大変"
+  ],
+  "cast": [
+    "kenji_office",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "もしもし、けんちゃん？",
+      "en": "Hello — Ken-chan?",
+      "style": "Pleased recognition. The childhood diminutive still in use.",
+      "mood": "pleased_recognising"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "母さん、元気？今、大丈夫？",
+      "en": "Mom — you good? Got a sec?",
+      "style": "Brisk but warm. Walking somewhere in the voice.",
+      "mood": "warm_brisk"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "元気よ。あなたは？仕事、大変じゃない？",
+      "en": "I'm well. And you? Work isn't too hard?",
+      "style": "The mother's first instinct: ask back. Voice gentle.",
+      "mood": "asking_back"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まあ、まあ。今日、長かった。",
+      "en": "It's — fine. Today was long.",
+      "style": "Half-honest. Doesn't want to worry her, can't lie either.",
+      "mood": "half_honest"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "そう。無理しちゃ駄目よ。本当に。",
+      "en": "Mm. Don't push yourself. Really.",
+      "style": "Slow, weighted. The 「本当に」 is the whole line.",
+      "mood": "maternal_warning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん。…明日は早く帰る予定。",
+      "en": "Yeah. …Planning to come home early tomorrow.",
+      "style": "A small offering of reassurance. Voice softer.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いつ、こっち来れる？",
+      "en": "When can you come over?",
+      "style": "The question she has been holding onto. Light, but real.",
+      "mood": "gentle_ask"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今月中…たぶん。時間、作る。",
+      "en": "Within this month… probably. I'll make time.",
+      "style": "A promise to himself as much as her. Walks faster in the voice.",
+      "mood": "promising_self"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "無理しないで。…声、聞けたから、それでいい。",
+      "en": "Don't push yourself. …Just hearing your voice — that's enough.",
+      "style": "The line every adult child eventually hears. Slow, real.",
+      "mood": "enough_real"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…うん。また電話する。",
+      "en": "…Yeah. I'll call again.",
+      "style": "Smaller. Caught by the line. A beat before he speaks.",
+      "mood": "caught_smaller"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お仕事、頑張ってね。",
+      "en": "Work hard, alright.",
+      "style": "Closing line, the universal mom version. Affectionate.",
+      "mood": "closing_warm"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04291",
+  "context": "A boss and his manager read morning policy headlines",
+  "purpose": "Teach: 厚生省/秘書/開幕/食糧/原油/入国/懇談/刊行",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "厚生省",
+    "秘書",
+    "開幕",
+    "食糧",
+    "原油",
+    "入国",
+    "懇談",
+    "刊行"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おはよう、今朝の新聞だ。まず厚生省の発表が一面に出ているな。",
+      "en": "Morning. Here's today's paper. The Health Ministry's announcement is on the front page.",
+      "style": "Authoritative boss voice, calm morning tone, steady delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、社長秘書から既にコピーをいただきました。重要な示唆を含む内容ですね。",
+      "en": "Yes, the president's secretary already gave me a copy. It contains important hints.",
+      "style": "Polite male office worker, respectful, slightly tense."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "次は経済面だ。原油価格がまた上がっているぞ。来月の国会開幕までに対策が要る。",
+      "en": "Next, the economy section. Crude oil prices are rising again. We need countermeasures before the Diet opens next month.",
+      "style": "Serious tone, low pitch, business-focused emphasis throughout."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "世界の食糧事情も不安定です。マクロ経済への影響を及ぼす可能性があります。",
+      "en": "Global food conditions are also unstable. It could affect the macro economy.",
+      "style": "Analytical male delivery, careful pacing, measured concern."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。入国管理の新規制の記事も気になる。観光業に響くだろう。",
+      "en": "I see. The article on new immigration controls also concerns me. It will hit tourism.",
+      "style": "Thoughtful boss, slower cadence, contemplative inflection."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "午後の業界懇談会で話題になりそうですね。資料は適宜まとめておきます。",
+      "en": "It's likely to come up at this afternoon's industry meeting. I'll prepare the materials as appropriate.",
+      "style": "Helpful assistant tone, brisk and professional cadence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。それから去年の白書の刊行物も取り出しておいてくれ。比較資料が要る。",
+      "en": "Please do. Also, pull out last year's white paper publication. I need comparison materials.",
+      "style": "Directive command voice, firm but polite request tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。バックナンバーも揃えて、チャートにして机にお持ちします。",
+      "en": "Understood. I'll gather the back issues and bring a chart to your desk.",
+      "style": "Eager confirmation, crisp ending, deferential office tone."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06352",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 腫瘍/叩か/舐め/湧き/たどる/明かし/白熱/惑わさ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "腫瘍",
+    "叩か",
+    "舐め",
+    "湧き",
+    "たどる",
+    "明かし",
+    "白熱",
+    "惑わさ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_319 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、医療絡みで腫瘍診断、関連した詐欺事案です。",
+      "en": "This case involves medical fraud — specifically a tumor diagnosis scam.",
+      "style": "Measured, professional opening. Even pace. Laying out facts without inflection. The voice of someone presenting a case file for the first time.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、騙されたうえ、叩かれる被害も。",
+      "en": "The victims were deceived, and now they're being attacked for it.",
+      "style": "Quiet concern beneath the question. Lean forward slightly. Processing the cruelty as he says it. Genuine curiosity about the injustice, not just the case.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。証拠を舐めるように、地道に集めます。",
+      "en": "Yes. We're gathering evidence carefully—piece by piece.",
+      "style": "Steady, almost meditative. Slow pace on 'piece by piece'. The confidence of someone who trusts the process. No rush in the delivery.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害情報、地域から湧き上がっています。",
+      "en": "Reports of damages keep coming in from communities across the region.",
+      "style": "Alert but controlled. Slight rise on 'keep coming in' — noting the scale without alarm. The tone of someone watching something grow in real time.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者の足取りをたどる作業、複雑です。",
+      "en": "Yes. Tracking the suspect's movements is proving complicated.",
+      "style": "Honest acknowledgment. Pause before 'complicated'. No defensiveness—just the reality of the work. Level eye contact.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記者会見、警察が真相を明かしましたね。",
+      "en": "The press conference went out, and the truth is getting out there.",
+      "style": "Slight relief in the voice. Recognition that transparency is in motion. Calm but engaged. The satisfaction of information moving toward the right people.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。報道、白熱した状態、続いてます。",
+      "en": "Yes. Media coverage has stayed intense since then.",
+      "style": "Observational, almost reflective. Not disapproving of the heat—noting it as a fact. Measured breath. The perspective of someone who sees attention as both useful and relentless.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "デマに惑わされないよう、市民に呼びかけてますね。",
+      "en": "We're calling on people not to be swayed by rumors—to stay grounded in what we can verify.",
+      "style": "Firm but not stern. Slightly deliberate pace, like choosing each word carefully. The appeal is genuine—a police officer asking for discipline and trust at once.",
+      "mood": "earnest"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08132",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 目下/下車/一向に/終結/逸脱/釈放/破棄/自爆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "目下",
+    "下車",
+    "一向に",
+    "終結",
+    "逸脱",
+    "釈放",
+    "破棄",
+    "自爆"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_408 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、目下の重要事件として捜査しております",
+      "en": "We're currently investigating this as a high-priority case.",
+      "style": "Professional and measured. Clear diction on key procedural terms. Steady, level delivery without inflection. The calm of someone who has delivered this statement many times before.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、容疑者は途中駅で下車されたんですね",
+      "en": "So the suspect got off at an intermediate station, then?",
+      "style": "Genuine curiosity, not challenging. Slight uptick at the end—a real question seeking confirmation. Engaged but respectful of the officer's authority. Careful phrasing shows he's paying close attention.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪発生が一向に減らない地区を集中警備します",
+      "en": "We're increasing patrols in districts where crime hasn't decreased.",
+      "style": "Factual, authoritative statement. Even pace throughout. No apologetic softening—this is operational reality. Slight emphasis on the commitment to action, not blame.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、紛争の終結に警察も貢献されたんですね",
+      "en": "So the police did play a part in bringing this conflict to an end.",
+      "style": "Thoughtful, almost gently acknowledging. Slight pause before speaking, as if turning something over. Voice drops slightly—not a question but an observation seeking quiet confirmation. Respectful tone.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、規則からの逸脱を厳しく咎めます",
+      "en": "We enforce regulations strictly—deviations are not tolerated.",
+      "style": "Firm but not harsh. Sharp consonants on the procedural language. Posture is upright, resolute. This isn't a threat, it's a statement of institutional principle. No wavering.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、釈放後の追跡を警察、続けておられますね",
+      "en": "You're saying the department is still tracking them after release.",
+      "style": "Softer realization dawning. Breath slightly held before speaking, as if putting pieces together. Voice trails up gently at the end—not quite a question, more acknowledgment. Quieter than before.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収証拠の破棄は行いません",
+      "en": "We don't dispose of seized evidence.",
+      "style": "Simple, declarative. Almost factual in its understatement. Even breath. This is not a boast—it's a statement of procedure that stands on its own. Steady, unbending.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、自爆テロを警察、未然に防がれたんですね",
+      "en": "So you did manage to prevent that attack before it happened.",
+      "style": "Quiet respect and relief underneath. Very slight tremor of emotion held back. Long exhale at the very end, like something tense finally releasing. Voice becomes smaller, more intimate than before.",
+      "mood": "relieved_respect"
+    }
+  ]
+}

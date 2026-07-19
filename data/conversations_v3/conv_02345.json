@@ -1,0 +1,62 @@
+{
+  "id": "conv_02345",
+  "context": "Saito explains a mild illness to a worried Mei.",
+  "purpose": "Doctor reassuring patient naturally.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "病気",
+    "医師",
+    "詳しく",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_118)",
+    "generated_at": "2026-05-29T11:54:33.020Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、この病気、心配なんです。",
+      "en": "Doctor, I'm worried about this illness.",
+      "style": "soft worried young mother voice, warm honest delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫ですよ、詳しく説明しますね。",
+      "en": "It's all right — let me explain in detail.",
+      "style": "measured doctor voice, soft warm reassuring delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "お薬で、よくなりますか?",
+      "en": "Will medicine make it better?",
+      "style": "gentle young woman voice, soft warm hopeful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、ゆっくり休めば、回復します。",
+      "en": "Yes — with rest, you'll recover.",
+      "style": "gentle doctor voice, soft warm caring delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "医師の先生に、聞けて安心しました。",
+      "en": "I feel relieved hearing it from you, Doctor.",
+      "style": "tender young woman voice, soft warm grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつでも、相談してくださいね。",
+      "en": "Please consult me anytime.",
+      "style": "warm doctor voice, soft warm supportive delivery carefully"
+    }
+  ]
+}

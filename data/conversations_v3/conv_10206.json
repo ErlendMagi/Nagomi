@@ -1,0 +1,86 @@
+{
+  "id": "conv_10206",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 岩波書店/ワーキング/大学院生/読了/セーブ/日弁連/コンディション/クラッシュ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "岩波書店",
+    "ワーキング",
+    "大学院生",
+    "読了",
+    "セーブ",
+    "日弁連",
+    "コンディション",
+    "クラッシュ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_512 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、岩波書店との共同企画を進めろ",
+      "en": "Move forward with the joint project with Iwanami Shoten.",
+      "style": "Crisp, authoritative opening. No inflection—statement of fact delivered at steady pace. Direct eye contact. The voice of someone accustomed to being obeyed without repetition.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ワーキングペーパーを社内で共有します",
+      "en": "Understood. I'll share the working paper with the team.",
+      "style": "Respectful, immediate compliance. Measured tempo. Slightly forward-leaning posture in the voice—ready to execute. Not deferential, but clearly in service of the directive.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、大学院生のインターンも受け入れろ",
+      "en": "We're also taking on graduate student interns. Make it happen.",
+      "style": "Same authority as the first line. Slight pause after the period—letting the weight land. No softening. The tone of someone who has already thought through the implications.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。報告書の読了確認を社員に求めます",
+      "en": "Understood. I'll have the team confirm they've reviewed the report.",
+      "style": "Quick, efficient confirmation. Slightly faster pace than before—showing he's already moving on it. Still respectful but energetic. The voice of someone taking mental notes in real time.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "データのセーブを毎日必ずしろ",
+      "en": "Data backups happen every single day. Non-negotiable.",
+      "style": "Firm, no room for interpretation. Clipped at the end. Weight on 'every' and 'single'—emphasis through precision, not volume. Quiet intensity.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日弁連の見解にも目を通します",
+      "en": "Understood. I'll also review the JFBA guidelines.",
+      "style": "Rapid acknowledgment. Slightly breathless—keeping pace with the mounting directives. Still competent, but now showing the load is accumulating. Forward momentum without losing composure.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員のコンディションを管理しろ",
+      "en": "Monitor your team's wellbeing. That's on you.",
+      "style": "Shift in register—more personal, less transactional. Slower delivery. Weight on 'on you'—not blame, but clear assignment of responsibility. A moment where the manager becomes slightly more human.",
+      "mood": "authoritative_caring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバークラッシュ対策を強化します",
+      "en": "Understood. I'll strengthen our server backup protocols.",
+      "style": "Final confirmation. Voice settles into a steady, almost relieved rhythm—the end of a long list. Still professional, but now with a note of quiet resolution. Not trailing off, but landing clearly.",
+      "mood": "resolute"
+    }
+  ]
+}

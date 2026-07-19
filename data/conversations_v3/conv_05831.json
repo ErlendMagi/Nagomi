@@ -1,0 +1,65 @@
+{
+  "id": "conv_05831",
+  "context": "A police officer briefs a uni reporter about a hacking case",
+  "purpose": "Teach: 河野/反戦/飲酒/尋問/ハッカー/出世/失点/致命",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "河野",
+    "反戦",
+    "飲酒",
+    "尋問",
+    "ハッカー",
+    "出世",
+    "失点",
+    "致命"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "河野容疑者、ハッカー集団の中核と判明しました。",
+      "en": "Suspect Kono has been identified as a core member of the hacker group.",
+      "style": "Professional, measured delivery. Slight pause after the name to let it land. Even tone, factual weight without drama. Steady eye contact — this is routine briefing, but matters.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当日、飲酒運転で別件逮捕されたんですよね。",
+      "en": "So he was arrested on the DUI charge that same day, wasn't he?",
+      "style": "Genuine curiosity, slightly tentative — reaching to understand the timeline. Leans forward slightly. Tone is earnest, not skeptical. A question that wants the answer to make sense.",
+      "mood": "curious_seeking"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。長時間の尋問で、出世欲が動機の核と判明。",
+      "en": "That's correct. During the extended questioning, his ambition for promotion emerged as the core motivation.",
+      "style": "Calm, procedural tone. Measured pacing — each clause deliberate. Not rushing. The voice of someone used to translating messy hours into clear facts. Slight formality that respects what was learned.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "反戦系のメッセージで偽装した手口、致命的でしたね。",
+      "en": "The way he disguised it with anti-war messaging was what ultimately exposed him, wasn't it?",
+      "style": "Thoughtful, probing intonation. Not accusatory — analytical. Slight upward lift on the final phrase, inviting agreement. Pace is steady, almost conversational despite the weight of the statement.",
+      "mood": "analytical_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害企業、失点を最小化すべく、迅速に動きました。",
+      "en": "The affected companies acted quickly to minimize their losses.",
+      "style": "Calm, concluding delivery. Slight drop in pace compared to earlier lines — settling into summary. No judgment, just observation. The closing note of someone wrapping a briefing with competence.",
+      "mood": "factual"
+    }
+  ]
+}

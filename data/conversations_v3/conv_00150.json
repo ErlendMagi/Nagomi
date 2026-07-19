@@ -1,0 +1,97 @@
+{
+  "id": "conv_00150",
+  "context": "Bedtime in Sho's room. Yumiko sits on the edge of his bed as he settles in, his small worries surfacing the way they often do at night.",
+  "purpose": "tender bedtime — mother soothing a six-year-old's nighttime worries",
+  "ambient": "bedroom_night",
+  "sound_effects": [],
+  "target_vocab": [
+    "眠る",
+    "心配",
+    "大丈夫",
+    "明日",
+    "一緒"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もう寝る時間だよ。電気消すね。",
+      "en": "It's already bedtime. I'll turn off the light.",
+      "style": "Warm maternal hush, slowing the cadence intentionally, voice softening to bedtime register throughout.",
+      "mood": "soothing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おかあさん…ちょっとだけ、いて。",
+      "en": "Mom… just a little bit, stay.",
+      "style": "Small breathy six-year-old request, voice trailing off shyly, the request quiet but earnest underneath.",
+      "mood": "small-requesting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いいよ。どうしたの？",
+      "en": "Okay. What's wrong?",
+      "style": "Maternal attentive softness, the question opening space without pressing, real listening in the tone.",
+      "mood": "attentive-soft"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "なんか、眠れない…。",
+      "en": "Somehow… I can't sleep.",
+      "style": "Tiny six-year-old voice, almost whispered, slight worried catch on the trailing-off vowel at the end.",
+      "mood": "worried-tiny"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "心配なことある？",
+      "en": "Is there something you're worried about?",
+      "style": "Gentle maternal probe, careful pacing leaving room to answer, no rush behind the question at all.",
+      "mood": "probing-gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "明日、お友達と話せるかな…。",
+      "en": "Tomorrow, I wonder if I can talk to my friend…",
+      "style": "Soft trailing six-year-old worry, voice dropping further on the hesitation, small real anxiety threaded in.",
+      "mood": "anxious-small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大丈夫だよ。きっと話せる。",
+      "en": "It'll be okay. You'll definitely be able to.",
+      "style": "Steady maternal reassurance, soft warm certainty wrapping each word, conviction without forcing it.",
+      "mood": "reassuring-firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ほんと？",
+      "en": "Really?",
+      "style": "Single quiet six-year-old check, faint hope rising in the voice, vulnerability bare in the small word.",
+      "mood": "hopeful-tiny"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。一緒に練習したじゃない？",
+      "en": "Yes. We practiced together, didn't we?",
+      "style": "Warm maternal reminder, slight smile in the voice anchoring him in shared memory, gentle and sure.",
+      "mood": "anchoring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。おやすみ、おかあさん。",
+      "en": "…Yeah. Goodnight, Mom.",
+      "style": "Small settled six-year-old exhale, voice softening into sleep already, contented and quietly secure.",
+      "mood": "settled"
+    }
+  ]
+}

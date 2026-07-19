@@ -1,0 +1,86 @@
+{
+  "id": "conv_06333",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 問いかけ/たどっ/潰れ/壊さ/敷い/歪ん/聞き取れ/消さ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "問いかけ",
+    "たどっ",
+    "潰れ",
+    "壊さ",
+    "敷い",
+    "歪ん",
+    "聞き取れ",
+    "消さ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者への問いかけ、診断の核です。",
+      "en": "Ren — patient questioning is the foundation of diagnosis.",
+      "style": "Steady, didactic tone. A teaching moment delivered with quiet authority. No rush. The weight of experience in each clause. Looking directly at the learner.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状をたどった経過、診療録に残ります。",
+      "en": "The trajectory of symptoms — it goes into the medical record.",
+      "style": "Thoughtful, working through the logic aloud. Soft on the opening. Registering the significance as he speaks. Not quite a question, but searching for understanding.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。腫瘍が潰れた症例、研究進んでいます。",
+      "en": "Yes. We're making progress on cases where the tumor has ruptured.",
+      "style": "Affirmative and measured. A small nod in the voice on 「はい」. Matter-of-fact about advancement. Clinical but not cold.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "臓器を壊さずに摘出する技術、進化していますね。",
+      "en": "The technique for removing it without damaging the organ — it's evolving.",
+      "style": "Engaged, following the thread of the teaching. Slight uptick of interest on 「進化」. Not performing discovery, but genuinely tracking the logic.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。手術台に敷いた清潔布、必ず確認します。",
+      "en": "Yes. The sterile field in the OR — always verified before we proceed.",
+      "style": "Procedural precision. Each element stated as non-negotiable. Calm but firm. The voice of someone for whom this is muscle memory.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "画像、歪んだ場合、再撮影しますか。",
+      "en": "If the imaging is compromised, we take it again.",
+      "style": "Direct question, but with the confidence of someone who knows the answer. Testing comprehension. Slight lean forward in attention.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。心音、聞き取れない場合、機材を変えます。",
+      "en": "Yes. Heart sounds — if they're unclear, we change equipment.",
+      "style": "Clear protocol statement. No room for shortcuts. Spoken with the finality of clinical necessity. Clinical, unhurried.",
+      "mood": "definitive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "カルテ、誤情報、消さずに修正履歴を残しますね。",
+      "en": "Errors in the chart — never erased. The correction history stays.",
+      "style": "Final teaching point. Firm on the principle. The voice of someone who has seen what careless record-keeping costs. Quiet but unambiguous.",
+      "mood": "serious"
+    }
+  ]
+}

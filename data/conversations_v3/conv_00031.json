@@ -1,0 +1,98 @@
+{
+  "id": "conv_00031",
+  "context": "A small wine bar after work. Yumiko and Yuki — colleagues at the same firm — discovered recently they're both mothers of young kids (Yuki isn't one yet, but caught up in the conversation anyway). First time meeting outside the office.",
+  "purpose": "colleague friendship gelling — small revelation about shared territory",
+  "ambient": "bar_evening",
+  "target_vocab": [
+    "本当に",
+    "大変",
+    "時間",
+    "今日",
+    "大丈夫",
+    "一緒",
+    "子供"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "yuki_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "初めての二人飲みやね。",
+      "en": "First time it's just the two of us drinking together, isn't it.",
+      "style": "Warm, easy opening that dissolves any awkwardness. Light, inclusive tone. Inviting.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ですね。ちょっと緊張してます。",
+      "en": "It is. I'm a bit nervous, actually.",
+      "style": "A small, self-aware laugh. Voice lifts slightly — vulnerability wrapped in honesty. Genuine.",
+      "mood": "nervous_honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えっ、なんで？",
+      "en": "What — why would you be?",
+      "style": "Amused, leaning in slightly. The curiosity is warm, not interrogative. Already enjoying the moment.",
+      "mood": "amused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "先輩なので、いつもオフィスで…",
+      "en": "Well, you're my senior at work, so it's always…",
+      "style": "Trails off intentionally. Doesn't finish — both of them understand the unspoken weight. Hesitant, searching.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日は普通に。私もただの飲み仲間。",
+      "en": "Not tonight. Tonight I'm just a drinking buddy.",
+      "style": "Sets down her glass on 「ただの」 with quiet intention. Real permission being given. Steady, clear.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。…じゃあ、お子さん、二人でしたよね。",
+      "en": "Right. …You have two kids though, don't you?",
+      "style": "Soft pivot toward real conversation. A beat of gathering courage. She's been listening — she knows things.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、十歳と五歳。今日、夫が見てくれてる。",
+      "en": "Ten and five. My husband's with them tonight.",
+      "style": "Matter-of-fact comfort. The gratitude in 「見てくれてる」 is quiet and genuine. No performance.",
+      "mood": "content"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいですね、そういうの、本当に大事。",
+      "en": "That's really important — that kind of thing actually matters.",
+      "style": "Sincere, no artifice. She means it. Thoughtful observation, not flattery.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ゆきちゃんは、子供は？",
+      "en": "What about you, Yuki-chan — do you have kids?",
+      "style": "Drops to the diminutive name. The gate opens a little wider. Gentle, genuinely curious, safe.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえ、まだ。…でも、大変そうですね、本当に。",
+      "en": "No, not yet. …But it sounds genuinely hard, honestly.",
+      "style": "Quieter, more reflective. A real observation, not sympathy. The 「本当に」 carries actual respect.",
+      "mood": "thoughtful"
+    }
+  ]
+}

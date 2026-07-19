@@ -1,0 +1,86 @@
+{
+  "id": "conv_06431",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 探っ/効か/呪い/治っ/振ら/古今/身元/速攻",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "探っ",
+    "効か",
+    "呪い",
+    "治っ",
+    "振ら",
+    "古今",
+    "身元",
+    "速攻"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_323 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者の心理、地道に探っています。",
+      "en": "I'm working through the suspect's psychology carefully, step by step.",
+      "style": "Professional and measured. Quiet conviction. Speaks like someone used to being listened to. Steady pace, grounded. No rush.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "説得が効かない時、対応、難しいですね。",
+      "en": "When persuasion doesn't work, the response gets really difficult, doesn't it?",
+      "style": "Thoughtful and genuinely curious. Slight lean forward in the voice. Not testing — actually wanting to understand. A little uncertain at the end.",
+      "mood": "earnest_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域の呪いと言われる伝承、関連あると噂されています。",
+      "en": "Yes. There's a local legend about a curse that people say might be connected to this.",
+      "style": "Matter-of-fact but careful. Acknowledging the weight without dismissing it. Like explaining something unusual without apology. Clear enunciation.",
+      "mood": "professional_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の傷、治った後の心のケア、必要ですね。",
+      "en": "The victim's injuries healed, but what comes after — the emotional part — that needs real care too.",
+      "style": "Soft but serious. Speaking from genuine thought, not protocol. Pace slows on 'emotional part'. Voice carries quiet concern underneath.",
+      "mood": "compassionate_aware"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。世論に振らされず、捜査、続けます。",
+      "en": "Yes. We'll keep investigating without getting pulled by public opinion.",
+      "style": "Firm, steady. A light emphasis on 'without getting pulled'. Speaks like someone who's seen pressure before and won't bend. Short, confident.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "古今東西の事件、参考事例、多いですね。",
+      "en": "There are a lot of historical cases — ancient and modern — that give us reference points.",
+      "style": "Engaged and slightly energized. Like making a real connection across time. Not lecturing — sharing something interesting he's noticed. Small note of wonder.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者の身元、特定しました。",
+      "en": "Yes. We've confirmed the suspect's identity.",
+      "style": "Clear and direct. A small note of finality on 'confirmed'. Professional relief — the kind that comes from concrete progress. No excess.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "速攻で逮捕、判断、見事でしたね。",
+      "en": "The speed of the arrest — that was a really good call.",
+      "style": "Genuine admiration, understated. Quiet respect. No flattery, just honest recognition. Voice lifts slightly on 'good call' — authentic.",
+      "mood": "respectful_impressed"
+    }
+  ]
+}

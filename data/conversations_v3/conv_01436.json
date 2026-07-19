@@ -1,0 +1,76 @@
+{
+  "id": "conv_01436",
+  "context": "Mei and Aoi chat in the café.",
+  "purpose": "two-mother café exchange",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "友達",
+    "感謝",
+    "楽しい",
+    "家族"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_072)",
+    "generated_at": "2026-05-27T05:49:20.749Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "あおいちゃん、本当、お店、いい雰囲気、ね。",
+      "en": "Aoi-chan, this café of yours really does have such a lovely atmosphere.",
+      "style": "Soft, unhurried opening. Genuine appreciation in the voice, not performing it. Warm gaze steady. Slight pause after her name—tenderness, not distance. Trail off the last word like you're letting her sit with the compliment.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、本当、嬉しい、本当に。",
+      "en": "Yeah, I'm really happy you think so.",
+      "style": "Quiet, genuine pleasure. Not deflecting the compliment. Small breath before answering—she's taking it in. Steady, warm tone. The kind of gratitude that doesn't oversell itself.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "友達、本当、宝、ね。",
+      "en": "A real friend is a treasure, you know?",
+      "style": "Thoughtful, almost musing. The words land slowly, deliberately. Soft, sincere delivery—this is something she means deeply. Slight hush on 'treasure' like it's sacred.",
+      "mood": "tender_reverent"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "一緒に、本当、過ごせる、嬉しい。",
+      "en": "I'm so glad we get to spend time like this together.",
+      "style": "Warmth with an undertone of quiet emotion. The words are simple but the delivery carries weight. Steady eye contact feeling. A slight thickness in the voice—genuine, not strained.",
+      "mood": "grateful_moved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家族、本当、繋がってる、感じ。",
+      "en": "It really does feel like family, the way we're connected.",
+      "style": "Slow, philosophical. Each phrase carefully chosen. Soft, almost reverent tone—she's describing something precious she's only recently let herself name. Breath between clauses.",
+      "mood": "tender_amazed"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "感謝、本当、いつも、ね。",
+      "en": "I'm grateful for you, always.",
+      "style": "Simple, direct, weighted. No decoration. Quiet, steady voice—the kind of sincerity that doesn't need volume. Slight pause before 'always' to let the permanence land.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "楽しい、本当、ね。",
+      "en": "This is really fun, isn't it?",
+      "style": "Lighter, closing warmth. A small smile in the voice. Still tender but with ease now—not heavy, just full. Soft questioning rise at the end, inviting agreement rather than demanding it.",
+      "mood": "warm_content"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_01097",
+  "context": "Sho plants a tree with Sachiko in the garden.",
+  "purpose": "child-grandma planting exchange",
+  "ambient": "garden_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "頑張る",
+    "育てる"
+  ],
+  "cast": [
+    "sho_child",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_055)",
+    "generated_at": "2026-05-27T03:49:30.426Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "しょうくん、木、植えようね。",
+      "en": "Sho-kun, shall we plant a tree together?",
+      "style": "Warm, unhurried opening. Soft voice like sunlight. Inviting, not commanding. The kind of gentle certainty that makes a child want to say yes.",
+      "mood": "tender_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、優しく、する。",
+      "en": "Yes. I'll be gentle with it.",
+      "style": "Small, serious voice. A careful promise — he understands something important is being asked of him. No rush. Quiet determination underneath.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "育てる、長い時間、かかる。",
+      "en": "Growing takes a long time.",
+      "style": "Speaking as if sharing an old truth. Measured pace. A slight pause after the first clause, letting the weight of that settle. Not a warning — a reassurance.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張って、毎日、見る。",
+      "en": "I'll come see it every day. I won't give up.",
+      "style": "Six-year-old's quiet conviction. Bright undertone — he's made a decision and it matters to him. Small voice but steady.",
+      "mood": "determined_bright"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "一緒に、見守ろう。",
+      "en": "We'll watch it grow together.",
+      "style": "Closing with soft warmth. The emphasis lands gently on 'together' — a promise made simple and true. Like she's known him all his life.",
+      "mood": "warm_promise"
+    }
+  ]
+}

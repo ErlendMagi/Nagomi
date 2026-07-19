@@ -1,0 +1,75 @@
+{
+  "id": "conv_01481",
+  "context": "Hina shows Sakura her new diary and asks for writing tips.",
+  "purpose": "Teen girl seeking gentle writing mentorship from adult writer.",
+  "ambient": "living_room_lamp_dim",
+  "sound_effects": [],
+  "target_vocab": [
+    "日記",
+    "書く",
+    "文章",
+    "練習"
+  ],
+  "cast": [
+    "hina_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "さくらさん、日記の書き方教えて。",
+      "en": "Sakura, will you teach me how to write a diary?",
+      "style": "Bright, direct ask — the warmth of admiration in her voice. Quick tempo on the request. Genuine curiosity, not performing politeness. Leans into the question like she's been thinking about it.",
+      "mood": "eager_admiring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "毎日、短くてもいいよ。",
+      "en": "You can keep it short, even just a few lines.",
+      "style": "Matter-of-fact opening, warm underneath. A small reassurance offered without fanfare. Paced like she's clearing the barrier — making it simple. Slight pause before 'even just a few lines' as if to soften a potential worry.",
+      "mood": "gently_reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "文章、苦手かも。",
+      "en": "I might not be very good at writing, though.",
+      "style": "Soft, half-vulnerable admission. Not fishing for reassurance but letting doubt out into the open. Gentle self-doubt in the voice — the hesitation of an eight-year-old testing if it's safe to show she worries.",
+      "mood": "honest_worried"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "練習すれば、必ず上手くなる。",
+      "en": "If you practice, you'll definitely get better at it.",
+      "style": "Steady conviction without lecturing. Quiet confidence in the statement — not enthusiasm, but certainty. Like she's speaking from something she knows. Slight weight on 'definitely' — not condescending, just real.",
+      "mood": "confident_kind"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "どんなテーマがいい?",
+      "en": "What kind of things should I write about?",
+      "style": "Eager follow-up, the energy lifting. Genuine curiosity — she's moved past the doubt and now wants the next step. Tempo picks up slightly. Open-ended, not tentative.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "今日嬉しかったこと、一つでも。",
+      "en": "Just one thing that made you happy today — that's enough.",
+      "style": "Gentle instruction, warm and specific. The 'just one thing' lands softly — permission and direction at once. Slightly slower pace, like she's handing over something precious. Slight trailing warmth at the end.",
+      "mood": "tender_guiding"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、書いてみる!",
+      "en": "Yeah, I'll try it!",
+      "style": "Bright, resolved energy. The 'yeah' comes quick and sure. Genuine enthusiasm now — no more hesitation. Light, forward-moving tempo. The sound of someone ready to go do the thing.",
+      "mood": "eager_determined"
+    }
+  ]
+}

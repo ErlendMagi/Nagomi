@@ -1,0 +1,86 @@
+{
+  "id": "conv_08661",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 取りあえず/なかには/ちらほら/うかがっ/食え/何れ/ほったらかし/大概",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "取りあえず",
+    "なかには",
+    "ちらほら",
+    "うかがっ",
+    "食え",
+    "何れ",
+    "ほったらかし",
+    "大概"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_435 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、取りあえず手を洗ってきてね",
+      "en": "Sho, go wash your hands before we eat, will you?",
+      "style": "Practical, warm. Light cadence—not a demand but a gentle steering. Voice stays steady and present.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達のなかには漫画家になりたい子もいるよ",
+      "en": "Mom, did you know some of my friends want to be manga artists?",
+      "style": "Soft opening. Wondering aloud more than asking. Small pause before 'manga artists'—like he's discovered something interesting and wants to share it. Genuine curiosity, not showing off.",
+      "mood": "curious_thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お花がちらほら咲いてきたわね",
+      "en": "Sho, look—the flowers are starting to come out all over the place.",
+      "style": "Warm noticing. Gaze outward, inviting him to see it too. Pleased murmur on the opening. Gentle pace, like she's pointing something lovely out to him.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんのお話、うかがって楽しかったよ",
+      "en": "Mom, I really enjoyed listening to Grandpa's stories today.",
+      "style": "Earnest and direct. Small lift of warmth in the middle—pride in having been included. Clear, unguarded. The voice of a child who felt seen.",
+      "mood": "grateful_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、食え食えって、お祖父ちゃんがたくさんよそって下さったわね",
+      "en": "Sho, Grandpa just kept heaping food onto your plate, didn't he? 'Eat, eat.'",
+      "style": "Affectionate amusement in the memory. Slight rise on 'eat, eat'—a gentle mimicry of his grandfather's voice. Warm reflection, not complaint. Observing something tender about how they love him.",
+      "mood": "affectionate_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、何れ大きくなったら、お父さんみたいになりたい",
+      "en": "When I grow up, I want to be like Dad.",
+      "style": "Quiet conviction beneath the words. No bravado. Matter-of-fact the way children state what they know to be true. Steady pace. The earnestness of aspiration without performance.",
+      "mood": "earnest_admiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、おもちゃをほったらかしにしないでね",
+      "en": "Sho, don't leave your toys scattered around, okay?",
+      "style": "Gentle redirection. Not stern. The tone of someone guiding rather than correcting. Light, present, assumed compliance. No edge underneath.",
+      "mood": "patient_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、大概、宿題は夕食前に終えるよ",
+      "en": "I usually finish my homework before dinner, Mom.",
+      "style": "Quiet pride in the statement. Straightforward, offering information. Small warmth—he's doing what he knows is right and wants her to know it. No boasting, just fact and gentle satisfaction.",
+      "mood": "proud_reliable"
+    }
+  ]
+}

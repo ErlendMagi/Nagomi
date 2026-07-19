@@ -1,0 +1,86 @@
+{
+  "id": "conv_06608",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 長期間/しまわ/すんなり/売り切れ/兆し/区切り/近日/工具",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長期間",
+    "しまわ",
+    "すんなり",
+    "売り切れ",
+    "兆し",
+    "区切り",
+    "近日",
+    "工具"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究、長期間、計画的に進めろ。",
+      "en": "Ren — research over the long term, advance it methodically.",
+      "style": "Measured and direct. Weight on each clause. Not rushing the instruction. The tone of someone who expects to be heard and understood. No condescension; this is how he talks to people he respects.",
+      "mood": "mentor"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験ノート、しまわないと、紛失したら、大変ですね。",
+      "en": "Yes. The lab notebook — if I don't file it properly, we could lose everything.",
+      "style": "Alert focus. Slightly anxious undertone — he's thinking through the implications as he speaks. Careful, slightly clipped pacing. The worry of someone who thinks ahead to problems.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "査読、すんなり、通った論文、君の地力だ。",
+      "en": "The peer review came through cleanly. That's your own ability showing.",
+      "style": "Steady approval. Slight pause before the second sentence — genuine, not performative. Quiet firmness on 「地力」. This is him delivering praise the way he means it: clear, specific, unembellished.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。書店で、書籍が売り切れ、嬉しい誤算でした。",
+      "en": "Yes. The book sold out at the bookstore — that was a happy surprise.",
+      "style": "Quiet delight underneath. Not loud about it, but unmistakably pleased. A little wonder in the voice — he didn't expect this. Slight lift on the second clause, like he's still processing the luck.",
+      "mood": "pleasantly_surprised"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手の研究、成長の兆し、感じるぞ。",
+      "en": "I can see the growth in your research. The younger generation is on an upward path.",
+      "style": "Observational, assured. Speaking from experience. A subtle warmth — he's noticing something he approves of. Even pace, no rush, the confidence of someone making a statement he believes in.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の章ごとに、区切りをつけて、書き進めます。",
+      "en": "Yes. I'm writing chapter by chapter and putting clear boundaries between each one.",
+      "style": "Methodical and focused. Slight emphasis on the structure — he's showing he has a system. Calm, deliberate pacing. The voice of someone solving the problem as he explains it.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "近日、海外学会、発表のチャンス、与える。",
+      "en": "I'm going to give you a chance to present at an international conference soon.",
+      "style": "Direct announcement. Not asking permission; offering opportunity. Calm authority. A slight pause before 「発表」 — he's letting that sink in. This is something significant he's saying.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験室の工具、整備、徹底しました。",
+      "en": "Yes. I've made sure the lab tools are in good maintenance — thoroughly organized.",
+      "style": "Quiet closure. Pride of completion sitting lightly under the words. Even tempo, finishing thought. The relief of someone tying off a detail before moving forward. Slight downward motion at the end — the period.",
+      "mood": "satisfied"
+    }
+  ]
+}

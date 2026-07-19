@@ -1,0 +1,90 @@
+{
+  "id": "conv_00119",
+  "context": "A 7am phone call. Hiroshi (boss) is at home with a fever and has to delegate to Kenji.",
+  "purpose": "small workplace logistics by phone — boss too sick to be the boss",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "時間",
+    "大丈夫",
+    "仕事",
+    "すみません"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤くん、朝早くにすまない。",
+      "en": "Sato-kun — sorry for calling so early.",
+      "style": "Slight rasp in the voice. Soften the title; formality stripped down by exhaustion. A small, deliberate apology. No rushed energy.",
+      "mood": "apologetic_weak"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、大丈夫です。どうかされましたか。",
+      "en": "No, it's fine. Is something wrong?",
+      "style": "Alert professional tone — genuine, not performative. Slight lean forward in the voice. Real attention underneath the formal register.",
+      "mood": "concerned_alert"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本当に申し訳ないが、今日、休む。熱で。",
+      "en": "I'm really sorry — I need to take the day. Running a fever.",
+      "style": "Admission costs him something. Slight hesitation before naming the illness. Quiet, not defensive. Slow delivery. The vulnerability of asking for weakness.",
+      "mood": "reluctant_unwell"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大丈夫ですか。お大事に。",
+      "en": "Will you be alright? Please take care of yourself.",
+      "style": "Genuine concern rises first. Measured, steady response. The tone of someone who means the politeness. No rush — gives the moment its weight.",
+      "mood": "caring_steady"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "十時の会議、君に任せていいか。",
+      "en": "Can I leave the ten o'clock meeting to you?",
+      "style": "Direct request without apology for asking. Trust implicit in the phrasing. Quiet, matter-of-fact. The tone of a man who doesn't doubt the answer.",
+      "mood": "trusting_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。任せてください。",
+      "en": "Of course. Leave it with me.",
+      "style": "Immediate, no hesitation. Firm underneath the formality. The voice carries quiet authority — this is settled now. Steady conviction.",
+      "mood": "reliable_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本当に、助かる。…時間、後でかかったら、すまない。",
+      "en": "Really — that helps. …If I'm not back by the time it ends, I'm sorry.",
+      "style": "Gratitude with unguarded warmth. Small pause before the second thought. The admission of vulnerability — rare and genuine. Quiet, almost tired.",
+      "mood": "grateful_vulnerable"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "気にせずに、休んでください。仕事は、こちらで。",
+      "en": "Don't think about it — just rest. We'll take care of everything here.",
+      "style": "Senior employee firmness delivered gently. The reassurance is not cheerful — it's steady and real. Voice carries weight of actual competence. No performance.",
+      "mood": "capable_reassuring"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ありがとう。…君に頼んでよかった。",
+      "en": "Thank you. …I'm glad I called you.",
+      "style": "Unguarded, unscripted. Small pause before the second line — the realization is genuine. Quiet, almost surprised by his own warmth. The rarest kind of honesty from him.",
+      "mood": "grateful_trusting"
+    }
+  ]
+}

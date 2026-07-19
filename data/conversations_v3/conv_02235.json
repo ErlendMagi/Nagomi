@@ -1,0 +1,79 @@
+{
+  "id": "conv_02235",
+  "context": "Yuki-office helps Ren find a new apartment listing.",
+  "purpose": "Friend helping with practical move logistics.",
+  "ambient": "cafe_afternoon_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "移っ",
+    "住所",
+    "本屋",
+    "安い",
+    "便利",
+    "広場",
+    "丁寧",
+    "日程"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_112)",
+    "generated_at": "2026-05-27T17:35:22.838Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "蓮くん、新しい部屋に移ってみる?",
+      "en": "Would you want to look at moving into a new place, Ren?",
+      "style": "Warm, genuine curiosity. Soft opening — offering help without pressure. Slight lift on the question mark. Engaged but not intrusive.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、住所、変わるかもしれません。",
+      "en": "Yeah, I might need to change my address soon anyway.",
+      "style": "Thoughtful, slightly hesitant. Small pause before the second clause — not quite prepared to need the help. Honest but modest in tone.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本屋にも、近い、便利な場所。",
+      "en": "There's a bookstore nearby, and the location is really convenient.",
+      "style": "Practical and encouraging. Matter-of-fact about the details, but warmth underneath — she's clearly thought about this for him. No need to oversell.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "広場、ようけあって、安いから良いです。",
+      "en": "The plaza has a lot of options and the rent is reasonable, so it seems good.",
+      "style": "Genuinely pleased. Soft emphasis on 'reasonable' — relief in his voice. Speaking from real consideration, not performing. Ends on settled contentment.",
+      "mood": "relieved_content"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "丁寧に、契約見ようね。",
+      "en": "Let's take a careful look at the contract together, okay?",
+      "style": "Gentle firmness. Not lecturing — protecting. Slight emphasis on 'careful' and 'together'. The tone of someone who cares about the details so he doesn't have to worry alone.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "日程、お送りします。",
+      "en": "I'll send you the details.",
+      "style": "Quiet follow-through. Professional but warm — the voice of someone keeping his word. No fanfare, just reliability.",
+      "mood": "dependable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一緒に、行きましょう。",
+      "en": "Let's go together.",
+      "style": "Gentle, steady offer. Simple statement with underlying support. Warmth in the simplicity — no need to embellish. She means it.",
+      "mood": "warm_steadfast"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06332",
+  "context": "A police officer briefs about an investigation",
+  "purpose": "Teach: 問いかけ/たどっ/潰れ/壊さ/敷い/歪ん/聞き取れ/消さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "問いかけ",
+    "たどっ",
+    "潰れ",
+    "壊さ",
+    "敷い",
+    "歪ん",
+    "聞き取れ",
+    "消さ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、住民への問いかけ、続けています。",
+      "en": "We're continuing to interview residents about this case.",
+      "style": "Professional, methodical. Even cadence. Opens clearly on the facts. No rush—the work will take what it takes.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者をたどった捜査、地道ですね。",
+      "en": "Tracking the suspect through the investigation is slow work, isn't it.",
+      "style": "Thoughtful, genuinely interested. Soft onset. Slight uplift at the end—not a question, but an opening for confirmation. Respectful.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。証拠が潰れた事案、再構築、慎重に。",
+      "en": "Yes. When evidence has been compromised, we have to rebuild very carefully.",
+      "style": "Steady, authoritative without being dismissive. Lands lightly on 'carefully'—that's where the weight matters. Professional but not cold.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場の遺留品、壊さずに保全しますね。",
+      "en": "The physical evidence at the scene—you preserve it without damage, right.",
+      "style": "Gentle probe, testing understanding. Quiet certainty underneath. No doubt in his voice, just confirming the practice. Respectful listening.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。立ち入り禁止のテープ、敷いた直後に、報道入りました。",
+      "en": "Yes. We'd only just put up the barrier tape when the press showed up.",
+      "style": "Slight weariness—not frustration, just acknowledging pressure. Even tone. The facts delivered plainly. A hint of rueful acceptance.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証言、歪んだ内容、見抜く目、警察の力量ですね。",
+      "en": "Spotting distortions in witness testimony—that takes real police experience.",
+      "style": "Earnest, admiring. Slower pace on 'spotting distortions'—he's recognizing a skill. Warm without being obsequious. Genuine respect for the craft.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。雑音で聞き取れない部分、機材で補強します。",
+      "en": "Yes. We use equipment to fill in the parts obscured by background noise.",
+      "style": "Technical, but not cold. Clear explanation of method. Slight emphasis on 'fill in'—practical solution, not perfection. Professional confidence.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記録、消さずに保存、ですね。",
+      "en": "Everything's preserved—nothing gets erased.",
+      "style": "Quiet, final statement. Soft landing. This is the bedrock. Small vocal weight on 'preserved.' Acceptance. Almost meditative closure.",
+      "mood": "resolute"
+    }
+  ]
+}

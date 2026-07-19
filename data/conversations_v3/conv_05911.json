@@ -1,0 +1,79 @@
+{
+  "id": "conv_05911",
+  "context": "A doctor explains anesthesia to a reporter",
+  "purpose": "Teach: 麻酔/化石/慢性/申し立て/賞賛/予期/偏っ/迄",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻酔",
+    "化石",
+    "慢性",
+    "申し立て",
+    "賞賛",
+    "予期",
+    "偏っ",
+    "迄"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、麻酔の歴史、化石的な手法から現代まで、興味深いですよ。",
+      "en": "Ren, the history of anesthesia is fascinating—from those early crude techniques all the way through to what we use now.",
+      "style": "Warm and unhurried. Opens with his name gently, as if inviting him into the conversation. Steady pace. Genuine interest lighting the tone, but grounded—not theatrical.",
+      "mood": "engaged_welcoming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "慢性疾患の患者にも、配慮された麻酔があるんですね。",
+      "en": "So patients with chronic conditions get specially tailored anesthesia approaches?",
+      "style": "Eager but measured. A small pause after the question mark—not rushing her answer. Leaning in slightly with genuine curiosity. The tone of someone discovering something that makes sense once explained.",
+      "mood": "curious_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。事前申し立てを患者にしてもらう運用、徹底しています。",
+      "en": "Yes. We require detailed pre-procedure assessments from patients—it's protocol we follow carefully every time.",
+      "style": "Clear and steady. Matter-of-fact delivery that conveys both expertise and care. Slight emphasis on 'carefully'—showing that rigour comes from commitment, not just procedure. Reassuring without being condescending.",
+      "mood": "assured_methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療界の賞賛、独自の手法を持つ先生方に集まりますね。",
+      "en": "So doctors with innovative techniques end up getting recognized more in the medical field.",
+      "style": "Thoughtful and testing. Gentle probe—not accusatory, more like he's checking his own understanding aloud. Slight rise at the end, inviting her perspective. Respectful but not deferential.",
+      "mood": "reflective_questioning"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "予期せぬ反応、データ偏った時期もあり、改善を重ねています。",
+      "en": "We've had periods where our data was skewed, unexpected patient reactions we hadn't anticipated—so we keep refining our methods.",
+      "style": "Honest and unhurried. A slight heaviness on 'unexpected'—acknowledging the difficulty without shame. Measured tempo. The tone of someone who accepts imperfection as part of the work, not a failure.",
+      "mood": "candid_resilient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "江戸時代迄遡る研究もあるとか。",
+      "en": "There's research that goes back centuries—all the way to the Edo period.",
+      "style": "Warm curiosity lighting the delivery. Slight wonder in the voice, as if this history still surprises her. Unhurried. A small lift on 'centuries' as the scope widens.",
+      "mood": "intrigued_appreciative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、歴史は深いです。",
+      "en": "Yes. The history goes very deep.",
+      "style": "Quiet, reflective. A pause before 'very'—letting the weight of that depth settle. Gentle finishing note, like closing a book you've found something in. Not final, but contemplative.",
+      "mood": "reflective_humble"
+    }
+  ]
+}

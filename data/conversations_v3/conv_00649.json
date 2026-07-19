@@ -1,0 +1,62 @@
+{
+  "id": "conv_00649",
+  "context": "Riku visits Saito briefly under work pressure.",
+  "purpose": "small adult-patient stress check",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "疲れる",
+    "健康",
+    "相談",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "リクさん、お疲れですか。",
+      "en": "Riku, you look worn out lately.",
+      "style": "Steady, attentive opening. Warm professional concern without probing. A slight lift at the end—genuine question, not diagnosis. The care audible but not fussy.",
+      "mood": "gentle_attentive"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、最近、ちょっと。",
+      "en": "Yeah, a bit lately, actually.",
+      "style": "Quiet, measured admission. A small pause before speaking—weighing whether to be honest. Soft throughout. Not defensive, just careful with vulnerability.",
+      "mood": "tired_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理しないこと、大事。睡眠、ちゃんと、取れてますか。",
+      "en": "It's important not to push yourself too hard. Are you getting proper sleep?",
+      "style": "Clear, direct concern grounded in practicality. Light emphasis on 'proper'—the real question beneath the question. Warm but clinical. Listening attentively for the answer.",
+      "mood": "caring_practical"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "まあまあ。気を付けます。",
+      "en": "More or less. I'll be mindful about it.",
+      "style": "Brief, steady. Not reassuring himself—reassuring her. A small resolve underneath. Closing gently, like he means it but won't make a show of it.",
+      "mood": "sincere_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、来てください。",
+      "en": "Come talk to me anytime. About anything.",
+      "style": "Unhurried, direct. A small softening at 'anything'—the door genuinely open. Not a closing statement but an offering left on the table. Warm without sentimentality.",
+      "mood": "warm_steadfast"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10786",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 伊丹/長岡/武藤/菊池/亀田/五十嵐/塚本/八田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "伊丹",
+    "長岡",
+    "武藤",
+    "菊池",
+    "亀田",
+    "五十嵐",
+    "塚本",
+    "八田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_541 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の伊丹部長を歓迎しろ",
+      "en": "Welcome our new department head, Itami.",
+      "style": "Measured authority. Clipped opening on the command verb. No inflection on the name—just fact. The tone of someone used to being heard the first time.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の長岡課長の出張日程を整えます",
+      "en": "Understood. I'll coordinate the sales manager Nagaoka's travel schedule.",
+      "style": "Calm, efficient. Quick intake of the instruction. Even delivery that signals readiness to execute. No flourish—just competence.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、技術担当の武藤主任にプロジェクトを任せろ",
+      "en": "Assign the Muto team lead in technical operations to take the project.",
+      "style": "Same measured authority as before. Slightly heavier on the assignment itself. Expects compliance without question. The cadence of delegation.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の菊池様の戦略を採用します",
+      "en": "Understood. We'll adopt the strategy from PR director Kikuchi.",
+      "style": "Brisk acknowledgment. Slightly faster pace than before—he's moving through the checklist. Professional, no hesitation. One step ahead.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、顧問の亀田様にご助言を仰げ",
+      "en": "Get the company advisor Kameda's counsel on this.",
+      "style": "Clipped command. Soft 't' on the verb—efficiency over ceremony. Same authority but briefer. He's in rhythm now.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の五十嵐様の決算スケジュールを整えます",
+      "en": "Understood. I'll confirm the accounting manager Igarashi's closing schedule.",
+      "style": "Steady, unrushed. He's maintaining pace and composure through the sequence. Each confirmation sits lightly—already absorbing and organizing.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の塚本様に新人研修を任せろ",
+      "en": "Have HR manager Tsukamoto handle the new employee training program.",
+      "style": "Authoritative assignment. Slight pause before the name—precision matters here. The weight of responsibility in his voice. Still directive, still clear.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の八田様に契約書確認を依頼します",
+      "en": "Understood. I'll request contract review from the legal department's Hatta.",
+      "style": "Final confirmation. Slightly more deliberate—closing out the sequence. Clear, professional finality. The punctuation of a completed briefing.",
+      "mood": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "conv_01450",
+  "context": "Dr. Saito briefs nurse Yumiko on an incoming emergency patient at the hospital.",
+  "purpose": "Medical professionals coordinating under pressure with calm clarity.",
+  "ambient": "hospital_corridor_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "患者",
+    "緊急",
+    "血",
+    "痛い",
+    "対応",
+    "注意"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_073)",
+    "generated_at": "2026-05-27T05:55:27.702Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "緊急の患者さん、五分後に着きます。",
+      "en": "Emergency patient arriving in five minutes.",
+      "style": "measured doctor voice, calm urgency, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "了解です。状態は?",
+      "en": "Understood. What's the condition?",
+      "style": "composed nurse, professional alert, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "出血が多い。痛みも強いそうです。",
+      "en": "Heavy bleeding. Strong pain reported too.",
+      "style": "clinical male voice, careful informing, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "輸血の準備、進めておきます。",
+      "en": "I'll prepare for transfusion right away.",
+      "style": "efficient nurse, clipped and steady, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "助かります。血液型の確認も。",
+      "en": "That helps. Confirm blood type as well.",
+      "style": "grateful doctor voice, focused, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、家族にも連絡しましょうか?",
+      "en": "Yes — should I contact the family?",
+      "style": "thoughtful nurse, considerate prompt, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お願いします。落ち着いた口調で。",
+      "en": "Please. Use a calm tone.",
+      "style": "experienced doctor, gentle reminder, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もちろんです。注意して伝えます。",
+      "en": "Of course. I'll be careful in how I tell them.",
+      "style": "compassionate nurse, measured promise, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "チーム全員、対応に集中してください。",
+      "en": "Whole team — focus on the response.",
+      "style": "leading physician, authority with care, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "了解しました。先生、頼みます。",
+      "en": "Understood. Doctor, we're with you.",
+      "style": "steady nurse, professional trust, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。一緒に乗り切りましょう。",
+      "en": "Likewise. Let's get through this together.",
+      "style": "warm doctor, quiet camaraderie, soft real warmth audible threading throughout delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、必ず。",
+      "en": "Yes — without fail.",
+      "style": "firm nurse, resolved softness, soft real warmth audible threading throughout delivery"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06326",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 代物/承っ/施さ/組み立てる/忘れ物/目指せ/習う/参観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "代物",
+    "承っ",
+    "施さ",
+    "組み立てる",
+    "忘れ物",
+    "目指せ",
+    "習う",
+    "参観"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品、なかなかの代物だな。",
+      "en": "This new product is quite impressive.",
+      "style": "Measured and direct. Steady opening on the assessment. Pause of approval before delivering judgment. The tone of a leader evaluating something solid.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。発注、承っております。",
+      "en": "Yes, sir. We've taken the order.",
+      "style": "Respectful, efficient. Crisp delivery on the affirmation. Lean toward the task at hand—no elaboration needed. Composed and ready.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "手厚いケアを施さない顧客は、リピート率、低い。",
+      "en": "Customers who receive proper attention tend to come back. That matters.",
+      "style": "Deliberate pacing, slight weight on 'proper attention.' This is wisdom being offered, not mere direction. Calm authority. Watching for understanding.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。プロジェクトを組み立てる過程、丁寧に進めます。",
+      "en": "Understood. We'll move carefully through the project setup.",
+      "style": "Earnest and thorough. Slight emphasis on 'carefully'—he's taking this seriously. Confident but not rushed. Shows he's listened.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書、忘れ物のないように。",
+      "en": "Make sure the contracts are complete. No oversights.",
+      "style": "Final-sounding but not harsh. Clear, specific instruction. Brief pause before 'no oversights'—this is the safety net. Expectation is clear.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。上場、目指せる業績、出ています。",
+      "en": "Yes. The results are already showing what we need for a listing.",
+      "style": "Slight lift of positivity. Measured confidence—not boasting, reporting facts. Touch of momentum in the delivery. Acknowledgment that things are tracking well.",
+      "mood": "steady_optimistic"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手、現場で習う姿勢、評価する。",
+      "en": "I respect how your younger staff learn by doing on the ground.",
+      "style": "Warm observation. Slight pause before the compliment lands. This is genuine recognition, not casual. Speaks to something he values. Reflective, not rushed.",
+      "mood": "approving_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。役員、現場参観、来週、設定します。",
+      "en": "I'll set up the executive site visit for next week.",
+      "style": "Efficient wrap-up. Direct and action-oriented. Small note of satisfaction—he's already planning ahead. Clean close, ready to move forward.",
+      "mood": "efficient"
+    }
+  ]
+}

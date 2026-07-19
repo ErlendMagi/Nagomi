@@ -1,0 +1,72 @@
+{
+  "id": "conv_05548",
+  "context": "A uni intern interviews a manager about product testing",
+  "purpose": "Teach: キャンセル/器具/儲かる/スクリプト/ゲート/実例/使い勝手/成り立た",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "キャンセル",
+    "器具",
+    "儲かる",
+    "スクリプト",
+    "ゲート",
+    "実例",
+    "使い勝手",
+    "成り立た"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "新製品の器具、使い勝手はどう確かめるんですか。",
+      "en": "How do you test whether new equipment actually works well for people?",
+      "style": "Genuine curiosity, formal but not stiff. Leans forward slightly on the question. Respectful of her expertise without self-consciousness about asking.",
+      "mood": "curious_eager"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "実例を集めて、スクリプト化したテストを通します。",
+      "en": "We collect real-world data and run it through standardized test cases.",
+      "style": "Clear and matter-of-fact, taking his question seriously. Matter-of-fact pacing, slight lift at the end showing she's inviting follow-up.",
+      "mood": "professional_engaged"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "コストが成り立たないと、儲かる事業にならないですよね。",
+      "en": "But if the costs don't work out, you can't actually make money off it, can you?",
+      "style": "Thoughtful probe, not challenging. He's thinking out loud, checking his logic. Slight hesitation before 'make money' — testing the idea as he says it.",
+      "mood": "analytical_searching"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。ゲート審査に通過した案件だけ、量産化します。",
+      "en": "Right. We only move projects into full production if they pass the gate review.",
+      "style": "Affirmative and straightforward. Light emphasis on 'only' — establishing the checkpoint clearly. Steady, explanatory tone without condescension.",
+      "mood": "direct_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "キャンセル率の許容範囲、決まってますか。",
+      "en": "Is there a specific threshold for how many cancellations are acceptable?",
+      "style": "Following thread naturally. Conversational energy has built — he's engaging deeper. Slight uptick in pace, still respectful, genuinely interested in the metrics.",
+      "mood": "engaged_detail_oriented"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "各部署で目安があります。",
+      "en": "Each department has its own benchmarks.",
+      "style": "Warm permission to keep asking. Brief answer that opens rather than closes — soft, approachable. The tone of someone who sees his questions are genuine and worthwhile.",
+      "mood": "warm_open"
+    }
+  ]
+}

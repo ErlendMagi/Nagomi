@@ -1,0 +1,86 @@
+{
+  "id": "conv_06726",
+  "context": "A boss reviews business operations",
+  "purpose": "Teach: 通告/知らさ/運送/日報/年内/償却/用地/代わる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通告",
+    "知らさ",
+    "運送",
+    "日報",
+    "年内",
+    "償却",
+    "用地",
+    "代わる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取引先からの通告、内容、確認しろ。",
+      "en": "Verify the details of the notice from our trading partner.",
+      "style": "Clipped, direct authority. Minimal breath. Each word lands as an instruction, not a request. No wasted syllables. Eyes level, jaw set.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。重要な案件は、社員一同、知らされております。",
+      "en": "Understood. The entire staff has been informed of the important matters.",
+      "style": "Respectful, steady. Slight emphasis on 「一同」 to show completeness and readiness. Posture attentive. Not defensive — just reporting what's already in motion.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "運送会社との契約、来月、見直す。",
+      "en": "We're reviewing the shipping company contract next month.",
+      "style": "Measured, decisive. Slight pause before 「来月」. Tempo steady as a clock. This is policy being stated, not negotiated. Forward-facing.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日報、毎日、丁寧に、書かせております。",
+      "en": "Yes. I'm making sure the daily reports are being filled out carefully every day.",
+      "style": "Attentive, showing initiative without overstepping. Light emphasis on 「丁寧に」 — care in the details. Tone says: the groundwork is solid.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プロジェクト、年内に、完了を目指せ。",
+      "en": "Aim to have the project completed by year-end.",
+      "style": "Sharp, final. Weight on 「年内に」. Not a question of if, but when. The kind of instruction that settles into the room and doesn't move.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。設備の償却年数、見直しております。",
+      "en": "Yes. We're reviewing the equipment depreciation schedule.",
+      "style": "Composed, methodical. Steady breathing. Shows he's already thinking ahead and tracking multiple threads. No anxiety — just competence.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新工場の用地、東京近郊で、調査しろ。",
+      "en": "Survey potential sites for the new factory in the Tokyo area.",
+      "style": "Brisk, forward momentum. Weight on 「調査しろ」. This is expansion — no hesitation in his voice. Eyes already past this moment to the next phase.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議に、私が代わる形で、出席することも、できます。",
+      "en": "Understood. I'm also available to attend meetings in your place if needed.",
+      "style": "Respectful but assured. Light emphasis on 「代わる形で」 — offering without presumption. Quietly volunteering readiness without seeking credit. Still professional, still in posture.",
+      "mood": "reliable"
+    }
+  ]
+}

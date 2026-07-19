@@ -1,0 +1,78 @@
+{
+  "id": "conv_03488",
+  "context": "Boss and manager review payroll and accounting matters",
+  "purpose": "Teach: 鈴木/配布/交付/給与/口座/同社/同一/排除",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鈴木",
+    "配布",
+    "交付",
+    "給与",
+    "口座",
+    "同社",
+    "同一",
+    "排除"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_175 workflow w1swddwqe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "鈴木さんの件なんだけど、給与の振込先がまだ確認できていないんだ。",
+      "en": "About Suzuki-san — we still haven't confirmed where his salary should be transferred.",
+      "style": "Measured opening from a busy executive easing into a serious topic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、先週配布した申請書のことですよね。口座情報の欄が空欄のまま提出されていました。",
+      "en": "Ah, you mean the forms we distributed last week. The bank account field was left blank when he submitted it.",
+      "style": "Professional middle-manager tone, slightly apologetic but factual throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "困ったな。実は取引先のA社、同社の経理部からも同一の問題が三件続いていると連絡があったんだ。",
+      "en": "That's troublesome. Actually our client A-sha — their accounting department also reported three identical cases in a row.",
+      "style": "Frustrated sigh layered under controlled business voice, sharing inside info"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "やはりですか。申請書の配布手順そのものを見直したほうがいいかもしれません。",
+      "en": "I suspected as much. We might need to overhaul the form distribution procedure itself.",
+      "style": "Thoughtful problem-solving cadence, gently proposing reform from below"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだな。曖昧な記入欄は、はっきり言ってなくすべきだ。不要な選択肢は排除しよう。",
+      "en": "You're right. The ambiguous fields, frankly, should be removed. Let's get rid of unnecessary options entirely.",
+      "style": "Decisive boss voice cutting through hesitation with firm authority"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。それと、口座情報の交付については経理から直接行う形に変えましょうか。",
+      "en": "Understood. Also, shall we change it so accounting handles the account information issuance directly?",
+      "style": "Crisp acknowledgment followed by proactive suggestion in subordinate register"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼むよ。鈴木さんの来月の給与日までには絶対に間に合わせてくれ。",
+      "en": "Please. I need Suzuki-san's case resolved before next month's payday, no exceptions.",
+      "style": "Firm closing instruction with quiet urgency in the voice"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "必ず対応いたします。同様の遅延が二度と起きないよう徹底します。",
+      "en": "I'll make sure it gets handled. I'll see to it that this kind of delay never happens again.",
+      "style": "Reassuring wrap-up with formal commitment and steady resolve"
+    }
+  ]
+}

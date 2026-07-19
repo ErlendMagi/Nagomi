@@ -1,0 +1,91 @@
+{
+  "id": "conv_00201",
+  "context": "Yumiko is taking both kids on the bus to a museum. She's managing one excited Hina and one curious quiet Sho.",
+  "purpose": "family-on-the-move tableau — three voices coordinating in a small public space",
+  "ambient": "bus_interior",
+  "sound_effects": [],
+  "target_vocab": [
+    "静か",
+    "一緒",
+    "見る",
+    "楽しい",
+    "前"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、見て、あの雲！",
+      "en": "Mom, look, that cloud!",
+      "style": "High child bright pointing excitement, the burst of childish wonder, soft real joy threading throughout delivery throughout.",
+      "mood": "brightly-pointing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、可愛い形ね。ちょっと声小さくね。",
+      "en": "Yes, what a cute shape. A little quieter, please.",
+      "style": "Maternal warm gentle volume-management, the affectionate redirect audible, soft real care threading throughout delivery.",
+      "mood": "gently-managing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うさぎ、みたい。",
+      "en": "Like a rabbit.",
+      "style": "Tiny six-year-old quiet observation, the soft contribution carrying real attention, soft small wonder threading throughout.",
+      "mood": "quietly-contributing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うわ、本当だ、しょうくんすごい！",
+      "en": "Wow, true, Sho-kun amazing!",
+      "style": "High child warm bright validation of younger brother, the genuine sibling-praise audible, soft real warmth throughout delivery.",
+      "mood": "warmly-validating"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "次の駅で降りるから、準備してね。",
+      "en": "We get off at the next stop, so get ready.",
+      "style": "Maternal warm practical instruction, the gentle coordination audible, soft real care threading throughout delivery throughout.",
+      "mood": "warmly-coordinating"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、手、つなぐ？",
+      "en": "Mom, hold hands?",
+      "style": "Tiny six-year-old soft request, the gentle reaching audible in the question, soft small wanting throughout delivery throughout.",
+      "mood": "softly-reaching"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、もちろん。一緒に降りようね。",
+      "en": "Yes, of course. We'll get off together.",
+      "style": "Maternal warm tender response, the soft real care audible, gentle love threading throughout delivery throughout the response.",
+      "mood": "tenderly-warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はやく着かないかな、博物館！",
+      "en": "Wonder when we'll get there, the museum!",
+      "style": "High child bright impatient anticipation, the eager forward-energy audible, soft real excitement threading throughout delivery.",
+      "mood": "brightly-impatient"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もうすぐよ。静かに待ってね。",
+      "en": "Almost there. Wait quietly, okay?",
+      "style": "Maternal warm gentle anchor, the soft directional patience audible, soft real care threading throughout delivery throughout.",
+      "mood": "gently-anchoring"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06209",
+  "context": "A police officer briefs on coordination",
+  "purpose": "Teach: 会報/受け継が/持論/定評/堅調/申し分/セグメント/第一人者",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "会報",
+    "受け継が",
+    "持論",
+    "定評",
+    "堅調",
+    "申し分",
+    "セグメント",
+    "第一人者"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_312 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察会報、御社にも一部、お送りします。",
+      "en": "We'll be sending a copy of the police newsletter to your company as well.",
+      "style": "Measured, professional opening. Even pace. Light formality—not warm, not distant. A routine matter stated with quiet competence.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の伝統、受け継がれてきた精神、敬意持って読みます。",
+      "en": "Of course. We'll read it with respect for the traditions and values the force has built over time.",
+      "style": "Earnest agreement. Slight warmth underneath the formality—genuine regard, not just politeness. Steady, reassuring tone.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "防犯の持論、若手警官にも展開してます。",
+      "en": "We're also implementing these crime-prevention principles with our younger officers.",
+      "style": "Matter-of-fact, informative. Calm delivery. The weight of institutional practice behind the words, but spoken simply.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の手腕、業界で定評ありますね。",
+      "en": "Absolutely. The police department's expertise is well-respected throughout the sector.",
+      "style": "Genuine acknowledgment. A beat of sincerity—not flattery, but real recognition. Slight nod in the voice.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "予算、堅調に推移。",
+      "en": "Budget allocations have remained stable.",
+      "style": "Factual, assured. Quick, efficient delivery. The tone of someone reporting something that went right.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "申し分のない協力、ありがとうございます。",
+      "en": "We're grateful for your seamless cooperation with us.",
+      "style": "Formal but warm. The gratitude is genuine, not obligatory. Steady eye-contact level. Slight softening at the end.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域セグメント別の防犯計画、共有します。",
+      "en": "We'll share the crime-prevention strategies broken down by district.",
+      "style": "Practical, forward-moving. Clear and direct. The tone of someone moving to the next item on a list, but without rushing.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "治安維持の第一人者、警察庁ですね。",
+      "en": "The National Police Agency truly is the foremost authority on maintaining public safety.",
+      "style": "Respectful closing statement. Sincere, not performative. Slight weight on the final words—settling into a professional conclusion.",
+      "mood": "respectful_closing"
+    }
+  ]
+}

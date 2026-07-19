@@ -1,0 +1,79 @@
+{
+  "id": "conv_05269",
+  "context": "A retired exec mentors a younger boss on corporate culture",
+  "purpose": "Teach: 放出/談合/次長/書房/三菱/東芝/ブロガー/ベイ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "放出",
+    "談合",
+    "次長",
+    "書房",
+    "三菱",
+    "東芝",
+    "ブロガー",
+    "ベイ"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_265 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "昔の話だが、三菱と東芝の競争、本物だったよ。",
+      "en": "It's an old story, but the rivalry between Mitsubishi and Toshiba—that was real competition.",
+      "style": "Slow, measured opening. Nostalgic warmth underneath. Slight pause before the dash, as if seeing it clearly again. Conversational but unhurried, the voice of someone who was there.",
+      "mood": "nostalgic_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今は談合疑惑が一度出ると、ブロガーが容赦なく追ってきます。",
+      "en": "Now, the moment a collusion rumor surfaces, bloggers come after you without mercy.",
+      "style": "Softer than it sounds—not complaint, observation. Light underline on 「容赦なく」. Tired weight without bitterness. The voice of someone who knows how fast things move now.",
+      "mood": "wary"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "広報資料、岩波書房の業界本に並ぶくらい誠実に書け。",
+      "en": "Write your PR materials with as much integrity as you'd find in an Iwanami Bookhouse text.",
+      "style": "Firm but not scolding. A standard being set, not a criticism. Slight lift on 「書け」—directive, but respectful. The voice expecting capability, not doubt.",
+      "mood": "steady_direct"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。次長と連携して、表現を一つずつ詰めています。",
+      "en": "Yes. I'm working with the deputy director now, tightening up each word as we go.",
+      "style": "Focused, deliberate pace. Respectful attention—he's listening and acting. No defensiveness, just steady forward motion. The confidence of someone doing the work.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "在庫の放出戦略は、ベイ地区の販路を活用するんだろう?",
+      "en": "And the inventory offload strategy—you're planning to use the Bay-area distribution channel for that, aren't you?",
+      "style": "Knowing tone, not testing. A question posed as gentle certainty. Lean-in curiosity, the elder thinking out loud with someone who'll follow. A nudge forward, not a challenge.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おっしゃる通りです。地域差を活かして、損切りを最小化します。",
+      "en": "That's right. We're leveraging the regional differences to keep the losses minimal.",
+      "style": "Clear, assured reply. Direct eye contact in the voice. No hedging—the plan is solid. Respectful but unguarded, speaking from ground already covered.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よし、頑張れ。",
+      "en": "Good. Keep at it.",
+      "style": "Brief, warm close. A pat on the shoulder in sound. Faith underneath the simplicity. The elder stepping back, letting him move forward.",
+      "mood": "warm_affirmative"
+    }
+  ]
+}

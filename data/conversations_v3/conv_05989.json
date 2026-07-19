@@ -1,0 +1,79 @@
+{
+  "id": "conv_05989",
+  "context": "A police officer briefs on corporate ethics",
+  "purpose": "Teach: 人脈/吟味/分岐/社交/やり直し/斬新/持ち帰り/ごまかし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "人脈",
+    "吟味",
+    "分岐",
+    "社交",
+    "やり直し",
+    "斬新",
+    "持ち帰り",
+    "ごまかし"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_301 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の人脈、業界全体で評価されています。",
+      "en": "Your network has strong standing across the industry.",
+      "style": "Measured, professional opening. Even tone, unhurried. Slight weight on the compliment—this is noted observation, not flattery. Eye contact steady.",
+      "mood": "professional_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。情報の吟味、社内体制も整えています。",
+      "en": "Yes. We're careful with information flow, and our internal systems are solid.",
+      "style": "Attentive, responsive. Speaking clearly but not stiffly. Slight emphasis on the structures in place—demonstrating readiness without over-explaining. Deferential but grounded.",
+      "mood": "earnest_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "業界の分岐点、警察庁の指導、共有します。",
+      "en": "There are critical junctures ahead in the industry. The NPA's guidance—we're aligned on this.",
+      "style": "Formal but conversational. Deliberate pacing on the key terms. Slightly higher authority in the voice—not threatening, just official. Information being shared as equal stakeholders.",
+      "mood": "serious_official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社交の場でも、コンプライアンス、徹底中です。",
+      "en": "We're keeping compliance at the forefront even at social events.",
+      "style": "Direct, assured. Slight emphasis on 'social events'—showing thoroughness extends beyond the obvious. Confident without being defensive. Even breathing.",
+      "mood": "vigilant_compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "過去の失敗、やり直し可能なら、是非。",
+      "en": "If past missteps can be corrected, we're ready to do that.",
+      "style": "Thoughtful pause before speaking. Warm undertone beneath the formality—not evasive, genuinely open. Slower pace. Ending with quiet intention, not finality.",
+      "mood": "honest_receptive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "斬新な施策、警察と組んで進めます。",
+      "en": "We're moving forward with new approaches—working with your department on this.",
+      "style": "Forward-looking, energized slightly. Partnership emphasis on 'working with.' Confident without overstepping. Clean, purposeful cadence.",
+      "mood": "proactive_collaborative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "資料の持ち帰り、ごまかしは厳禁。",
+      "en": "Taking materials outside this room, cutting corners—neither one is acceptable.",
+      "style": "Firm but not harsh. Clear separation between the two boundaries. Final word spoken with quiet finality. No room for misinterpretation, but delivered with professional respect.",
+      "mood": "strict_final"
+    }
+  ]
+}

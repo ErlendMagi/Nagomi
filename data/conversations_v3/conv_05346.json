@@ -1,0 +1,72 @@
+{
+  "id": "conv_05346",
+  "context": "A boss reviews a fiscal-year reporting plan",
+  "purpose": "Teach: 出願/支払っ/割り当て/閣議/即座/創立/書記/税理士",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出願",
+    "支払っ",
+    "割り当て",
+    "閣議",
+    "即座",
+    "創立",
+    "書記",
+    "税理士"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_269 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今月の閣議決定、内容把握しているか。",
+      "en": "Do you have a handle on this month's cabinet decision?",
+      "style": "Clipped, efficient opening. Direct eye contact. No warmth, no waste. The tone of someone checking boxes quickly. Slight lean forward on the question mark — expecting competence.",
+      "mood": "business_testing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、即座に書記を通じて要点を整理しました。",
+      "en": "Yes. I had the secretary pull the key points together right away.",
+      "style": "Measured, matter-of-fact. Steady tempo. No over-explaining. The confidence of someone who anticipated the question and delivered before being asked. Clean, minimal.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "関連の特許出願、税理士との連携は?",
+      "en": "Patent filings on that — are we coordinated with the tax accountant?",
+      "style": "Sharp, probing. Slight emphasis on the first word. The delivery of someone digging into details. Pace quickens slightly on the second question. Not accusatory, but searching.",
+      "mood": "scrutinizing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "割り当てに沿って、来週中に支払っ予定です。",
+      "en": "Per allocation, we're on track for payment by end of next week.",
+      "style": "Steady, factual. No hedging. Speaks with the clarity of someone who has already checked the timeline. Even pace throughout. Confident without being presumptuous.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "創立記念のイベント費用も、その流れで処理しよう。",
+      "en": "We'll run the founding-day event costs through the same process.",
+      "style": "Decisive, settling-it tone. No inflection that invites debate. The voice of someone saying this is how it will be. Brief pause before the period — gives weight to the decision.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Crisp, immediate. No hesitation. The single word delivered with the snap of professional acknowledgment. Minimal breath, maximum efficiency.",
+      "mood": "compliant"
+    }
+  ]
+}

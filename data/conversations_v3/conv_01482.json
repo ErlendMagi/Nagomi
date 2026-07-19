@@ -1,0 +1,61 @@
+{
+  "id": "conv_01482",
+  "context": "Ren is at the bank applying for a small loan; Saito happens to be there.",
+  "purpose": "Two acquaintances briefly meeting in a public space; small talk.",
+  "ambient": "bank_quiet_atm",
+  "sound_effects": [],
+  "target_vocab": [
+    "銀行",
+    "手続き",
+    "確認",
+    "時間"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮くん、銀行で会うとは。",
+      "en": "Ren — what a surprise, running into you at the bank.",
+      "style": "Warm, gentle opening. Light surprise in the voice — pleased, not startled. Brief pause after his name, like a small smile. Careful, steady delivery that puts him at ease.",
+      "mood": "warm_surprised"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "こんにちは、手続きで来ました。",
+      "en": "Oh, hello — just here to take care of some paperwork.",
+      "style": "Polite but not stiff. Slightly self-conscious about the mundane errand. Quiet, respectful tone. Matches her warmth but stays in his own softer register.",
+      "mood": "reserved_courteous"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "時間かかりますね、ここは。",
+      "en": "It does take forever here, doesn't it.",
+      "style": "Sympathetic exhale. Soft, knowing — like she's commiserating from shared experience. No urgency. Warm acknowledgment of his time being eaten up.",
+      "mood": "empathetic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確認だけで三十分です。",
+      "en": "Thirty minutes just for the verification part.",
+      "style": "Matter-of-fact but wry. Slight resignation under it, but good-natured. Soft, conversational pace. He's not complaining, just stating fact with dry acceptance.",
+      "mood": "wryly_resigned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お疲れさま、頑張って。",
+      "en": "You've got this — take your time.",
+      "style": "Brief, fond encouragement. Quiet confidence in her voice — not performative, just genuine. A small beat of presence before she steps back. Steady and warm.",
+      "mood": "encouraging"
+    }
+  ]
+}

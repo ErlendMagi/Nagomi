@@ -1,0 +1,72 @@
+{
+  "id": "conv_04715",
+  "context": "A mom consults a doctor about her family routine",
+  "purpose": "Teach: 矯正/救急/注射/生理/医薬品/探る/本能/許容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "矯正",
+    "救急",
+    "注射",
+    "生理",
+    "医薬品",
+    "探る",
+    "本能",
+    "許容"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、最近うちの家族の生活習慣が乱れていて、一度ご相談したくて来ました。",
+      "en": "Doctor, our family's lifestyle has gotten out of rhythm lately, so I came to consult you.",
+      "style": "Polite mother opening a family-routine consultation respectfully and warmly."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。まずお子さんの食事や睡眠など、生理的なリズムから伺ってもいいですか。",
+      "en": "I see. May I start by asking about your child's meals, sleep, and other physiological rhythms?",
+      "style": "Calm professional doctor gathering daily-life background details carefully."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "夜更かしが続いていて、先月は熱で救急に駆け込んだこともあったんです。",
+      "en": "He keeps staying up late, and last month we even rushed to the emergency room with a fever.",
+      "style": "Concerned mother linking poor routine to a recent worrying incident."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "予防注射の時期も乱れがちですか。普段使っている市販の医薬品も教えてください。",
+      "en": "Are his vaccination schedules also slipping? Please tell me any over-the-counter medications you use.",
+      "style": "Methodical doctor probing routine-related health management details thoroughly."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "歯並びの矯正も勧められているのですが、本人が嫌がっていて、気持ちを探るのが難しくて。",
+      "en": "Orthodontic treatment was also recommended, but he dislikes it, and it's hard to read his feelings.",
+      "style": "Reflective mother sharing multiple parenting concerns and emotional uncertainty."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さんの本能的な感覚は大切ですよ。多少の不規則さは許容できますが、無理は禁物です。",
+      "en": "Your motherly instinct matters. Some irregularity is acceptable, but don't push too hard.",
+      "style": "Reassuring doctor balancing empathy with clear medical guidance gently."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます。家族全体の生活リズムを、もう一度見直してみますね。",
+      "en": "Thank you. I'll review our whole family's daily rhythm once again.",
+      "style": "Grateful mother committing to take constructive next steps forward."
+    }
+  ]
+}

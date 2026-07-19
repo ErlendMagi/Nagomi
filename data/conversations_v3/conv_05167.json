@@ -1,0 +1,78 @@
+{
+  "id": "conv_05167",
+  "context": "Two managers prep an investor portfolio review",
+  "purpose": "Teach: 受容/無用/図式/電圧/パラメータ/時価/インデックス/忍耐",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "受容",
+    "無用",
+    "図式",
+    "電圧",
+    "パラメータ",
+    "時価",
+    "インデックス",
+    "忍耐"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "明日の投資家レビュー、ポートフォリオの構成図から見せた方が分かりやすいですよね。対立の図式みたいに整理して。",
+      "en": "For tomorrow's investor review, showing the portfolio composition chart first would be clearer, right? Organized like a contrast diagram.",
+      "style": "Polite workplace tone, slightly tentative seeking agreement from colleague"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうだね。最初に時価総額の推移を載せて、それからインデックス連動部分を説明しよう。",
+      "en": "Right. Let's show the market cap trend first, then explain the index-linked portion.",
+      "style": "Calm decisive male manager voice giving clear direction"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "リスクモデルのパラメータなんですが、先月の設定のままで大丈夫でしょうか。",
+      "en": "About the risk model parameters, are last month's settings still okay?",
+      "style": "Careful checking-in tone, polite suffix, raising a real concern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、ボラティリティが上がっているので、少しずつ調整した方がいいですね。電圧を測るように丁寧に。",
+      "en": "No, volatility has risen, so we should adjust gradually. Carefully, like measuring voltage.",
+      "style": "Thoughtful analytical male voice matching the polite register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。投資家側の懸念に応える形で、現実の受容を示す一節も入れておきましょうか。",
+      "en": "I see. Should we add a section responding to investors' concerns and showing acceptance of reality?",
+      "style": "Constructive professional suggestion, slightly thinking aloud"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、それは絶対必要。無用に強気なコメントは、今回は外そう。",
+      "en": "Yes, that's essential. Let's drop the needlessly bullish remarks this time.",
+      "style": "Firm pragmatic male voice, mildly dismissive of fluff"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ですよね。この相場、結果が出るまでは忍耐強く待つしかないですし。",
+      "en": "Agreed. With this market, we just have to wait patiently for results.",
+      "style": "Quiet agreement with a slight sigh, realistic about timeline"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ夜までに僕が叩き台作るよ。明日の朝、一緒に最終確認しよう。",
+      "en": "Alright, I'll draft a base version by tonight. Let's finalize tomorrow morning.",
+      "style": "Warm closing tone from senior colleague, taking responsibility"
+    }
+  ]
+}

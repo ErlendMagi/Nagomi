@@ -1,0 +1,78 @@
+{
+  "id": "conv_05008",
+  "context": "A uni intern interviews a manager about a manufacturing line",
+  "purpose": "Teach: 承諾/着用/期日/着目/配列/精密/随時/皆無",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "承諾",
+    "着用",
+    "期日",
+    "着目",
+    "配列",
+    "精密",
+    "随時",
+    "皆無"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日は取材のご承諾、ありがとうございます。提出期日が近くて焦っていました。",
+      "en": "Thank you for granting the interview today. The submission deadline is close and I was panicking.",
+      "style": "polite intern speech, slightly nervous, formal greeting tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえいえ、構いませんよ。まずヘルメットの着用をお願いしますね。",
+      "en": "Not at all, it's fine. First, please put on a helmet.",
+      "style": "friendly office manager, professional yet warm guidance"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、着けました。早速ですが、このラインで特に着目すべき点はどこでしょうか。",
+      "en": "Yes, I've put it on. To get right to it, what's the key point I should focus on regarding this line?",
+      "style": "eager student tone, notebook-ready inquisitive curiosity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうですね、この精密機械の配列が当社の自慢なんです。一ミリの狂いも許されません。",
+      "en": "Well, the arrangement of these precision machines is our pride. Not even a millimeter of deviation is allowed.",
+      "style": "proud explanatory tone, confident manager showing expertise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、すごいですね。ラインのデータは随時更新されているんですか。",
+      "en": "I see, that's amazing. Is the line's data updated in real time?",
+      "style": "impressed student response, follow-up technical question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、センサーから随時送られてきます。導入してから不良品はほぼ皆無になりましたよ。",
+      "en": "Yes, data comes in continuously from the sensors. Since introducing it, defective products have become almost nonexistent.",
+      "style": "confident explanation, factual workplace pride showing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "皆無ですか、それは驚きです。最後に、現場で働く方々へのメッセージをいただけますか。",
+      "en": "Nonexistent? That's astonishing. Lastly, could I get a message for the people working on site?",
+      "style": "genuinely surprised, wrapping up interview politely"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "毎日の小さな積み重ねが品質を作る、それに尽きますね。",
+      "en": "Daily small accumulations create quality — that says it all.",
+      "style": "reflective closing remark, sincere veteran wisdom"
+    }
+  ]
+}

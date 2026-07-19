@@ -1,0 +1,79 @@
+{
+  "id": "conv_05933",
+  "context": "A doctor explains medical-ethics issues",
+  "purpose": "Teach: 陣営/隠蔽/介助/接点/取り扱う/内臓/賛否/取り締まり",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "陣営",
+    "隠蔽",
+    "介助",
+    "接点",
+    "取り扱う",
+    "内臓",
+    "賛否",
+    "取り締まり"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療現場、二陣営に分かれる議論、たまにあります。",
+      "en": "In medicine, you sometimes get these two-camp disagreements.",
+      "style": "Measured, steady opening. Slight pause before the second thought. Clinical but not cold — the tone of someone who has seen this pattern repeat.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去の隠蔽事件、業界の信頼を傷つけましたね。",
+      "en": "Past cover-ups really did damage the industry's credibility, didn't they.",
+      "style": "Thoughtful, building — not quite a question. Intelligent observation leaning forward slightly. Respectful of the weight of what he's raising.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。介助保険、患者との接点を増やす制度です。",
+      "en": "Yes. Care insurance — it's a system designed to expand points of contact between patient and provider.",
+      "style": "Clarifying, unhurried. Gentle teacher's pace. Treats the question as legitimate and worth explaining clearly. No trace of condescension.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療データを取り扱う基準、内臓関連、特に厳しいですね。",
+      "en": "The standards for handling medical data are incredibly strict — especially anything involving organ-related procedures.",
+      "style": "Probing deeper, specific. Even pace building toward the second clause. Recognition that he's picked up on something real and important.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "治療法への賛否、議論する場が必要です。",
+      "en": "There needs to be space for people to actually debate the merits and drawbacks of different treatments.",
+      "style": "Reflective exhale. Not declarative — more like thinking out loud. The weariness of someone who knows these conversations are needed but difficult.",
+      "mood": "pensive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "違法な臨床実験、取り締まりは厳格化されましたか。",
+      "en": "Illegal clinical trials — have enforcement measures gotten stricter?",
+      "style": "Direct, serious. The question lands with weight. No hesitation — he's asked something real and expects a real answer.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。世界的にも、です。",
+      "en": "Yes. Worldwide, too.",
+      "style": "Firm, conclusive. Short and assured. The period lands clearly. No softening, no elaboration — the facts speak.",
+      "mood": "assured"
+    }
+  ]
+}

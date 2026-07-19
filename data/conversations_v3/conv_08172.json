@@ -1,0 +1,86 @@
+{
+  "id": "conv_08172",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 主席/報復/紫外線/盗聴/衰え/反抗/自閉症/射撃",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主席",
+    "報復",
+    "紫外線",
+    "盗聴",
+    "衰え",
+    "反抗",
+    "自閉症",
+    "射撃"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_410 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者は主席で大学を卒業されたとのこと",
+      "en": "The suspect graduated top of their university class, according to the records.",
+      "style": "Measured, matter-of-fact delivery. Even cadence with a slight emphasis on the detail as fact. Professional but not cold—this is procedural information he's conveying clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、報復事件として捜査中ですね",
+      "en": "So the police are treating this as a retaliation case then?",
+      "style": "Thoughtful, seeking confirmation. Voice rises slightly at the end of the question. Quiet interest—he's processing, not judging. The tone of someone working through implications.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場の紫外線分析を進めております",
+      "en": "We're advancing the UV analysis of the scene right now.",
+      "style": "Direct, steady delivery. Slight emphasis on the procedural action. Professional distance maintained, but with the reassurance that work is actively moving forward.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、盗聴疑惑を警察、追及されたんですね",
+      "en": "So the police did pursue the wiretapping allegation in this case.",
+      "style": "Careful realization dawning. Quiet, as if he's piecing something together. Not accusatory—more like he's confirming his understanding with gentle certainty.",
+      "mood": "realizing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、衰えた記憶力の被害者にも丁寧に対応します",
+      "en": "We made sure to treat the victim with diminished memory capacity with the same care.",
+      "style": "Deliberate, emphasizing the word \"care.\" Slight warmth beneath the professional tone—this is a point of integrity for him. Not defensive, but clear.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、反抗的な容疑者を警察、慎重に対応されたんですね",
+      "en": "And you handled the confrontational suspect with caution, as you should.",
+      "style": "Quiet approval. Respectful acknowledgment—he's recognizing something difficult that was done well. Slight nod in his voice, measured but genuine.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、自閉症の方への配慮も心がけております",
+      "en": "We also made a point to show consideration toward the individual with autism.",
+      "style": "Calm, genuine emphasis on the word \"consideration.\" This isn't rote procedure—there's real care underneath. Patient, as if he's explaining something that matters to him.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、射撃事件として警察、捜査中ですね",
+      "en": "So this is being investigated as a shooting incident, then.",
+      "style": "Quiet statement, almost closing a thought. No question mark in the voice—more a confirmation to himself. Weary, as if the full picture has finally settled.",
+      "mood": "resigned"
+    }
+  ]
+}

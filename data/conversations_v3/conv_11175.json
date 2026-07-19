@@ -1,0 +1,86 @@
+{
+  "id": "conv_11175",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 市中/汝/減退/ゴシップ/小声/快挙/真田/悪戯",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市中",
+    "汝",
+    "減退",
+    "ゴシップ",
+    "小声",
+    "快挙",
+    "真田",
+    "悪戯"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_560 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、市中、つまり市中相場の動向を毎朝確認しろ",
+      "en": "Every morning, check the movement of the open-market rates. Without fail.",
+      "style": "Clipped authoritative opening, no warm-up. Even command pace, each word landing squarely, flat final consonant.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。「汝、お客様を大事にせよ」と社訓に追加します",
+      "en": "Yes, sir. I'll add 'Thou shalt hold the customer dear' to the company precepts.",
+      "style": "Quick crisp acknowledgment, then careful recitation of the quote. Methodical pace, mock-solemn formality stiffening the archaic phrase.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、業績減退の兆候を早めに把握しろ",
+      "en": "Get a grip on any sign of declining performance — early.",
+      "style": "Low controlled urgency. Measured pace, weight pressed onto the word early, unadorned declarative finish.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内ゴシップを抑制する制度を整えます",
+      "en": "Yes, sir. I'll put a system in place to keep office gossip in check.",
+      "style": "Prompt compliant reply, businesslike. Brisk even pace, a small conscientious stress on the new system.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、会議では小声、つまり小声でも明瞭に話せ",
+      "en": "In meetings, even at a whisper, speak clearly.",
+      "style": "Quieter but firmer, modeling the instruction itself. Slow deliberate pace, precise clipped articulation throughout.",
+      "mood": "firm_quiet"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の快挙を表彰式で讃えます",
+      "en": "Yes, sir. We'll celebrate our employees' finest feats at the awards ceremony.",
+      "style": "Brighter note of genuine enthusiasm breaking through. Upbeat pace, warmth lifting the ceremony mention.",
+      "mood": "upbeat"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、戦略アドバイザーの真田様にご助言を仰げ",
+      "en": "Seek the counsel of Mr. Sanada, our strategy advisor.",
+      "style": "Respect entering the register for the advisor's name. Measured pace, formal weight resting on the honorific.",
+      "mood": "deferential"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内の悪戯、つまり悪戯防止研修を実施します",
+      "en": "Yes, sir. I'll run training on preventing pranks and mischief in the office.",
+      "style": "Efficient closing acknowledgment, faint amusement suppressed. Steady pace, dutiful firm landing on the final verb.",
+      "mood": "wry_dutiful"
+    }
+  ]
+}

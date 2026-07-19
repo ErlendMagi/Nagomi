@@ -1,0 +1,72 @@
+{
+  "id": "conv_03925",
+  "context": "Two office colleagues review specs for an industrial parts order",
+  "purpose": "Teach: 原子力/面積/工学/金属/抑制/含ん/規格/代替",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原子力",
+    "面積",
+    "工学",
+    "金属",
+    "抑制",
+    "含ん",
+    "規格",
+    "代替"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_198 workflow wmokhormi)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "この新規案件、原子力発電所向けの部品リストなんだけど、面積の計算が合ってる？",
+      "en": "About this new project, it's a parts list for a nuclear power plant—are the area calculations correct?",
+      "style": "Direct workplace tone, slightly pressed, checking facts with a peer"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "確認しました。工学部出身の田中さんが見直してくれたので大丈夫だと思います。",
+      "en": "I checked it. Tanaka-san, who graduated from the engineering department, reviewed it again, so I think it's fine.",
+      "style": "Polite professional female voice, reassuring and competent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは安心だね。ただ、この金属部品の振動抑制の規格、最新版に対応してる？",
+      "en": "That's reassuring. But these metal parts—are the vibration suppression standards compliant with the latest version?",
+      "style": "Focused, mid-level engineer probing for details"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "去年改訂された国際規格を含んでいます。古い基準は外しておきました。",
+      "en": "It includes the international standards revised last year. I removed the older criteria.",
+      "style": "Calm, organized, confident in her preparation"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かるよ。もし在庫が足りなかった場合の代替案も用意してある？",
+      "en": "That's a big help. Do we also have an alternative plan in case the stock runs short?",
+      "style": "Practical and forward-thinking, light concern in voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、二社ほど代替メーカーを押さえてあります。納期も問題ありません。",
+      "en": "Yes, I've secured about two alternative manufacturers. The delivery dates are not a problem either.",
+      "style": "Crisp and efficient report-back with quiet pride"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "完璧だ。じゃあ午後の会議で部長に提出しよう。",
+      "en": "Perfect. Then let's submit it to the manager at the afternoon meeting.",
+      "style": "Decisive close-out, satisfied colleague approval tone"
+    }
+  ]
+}

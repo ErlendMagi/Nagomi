@@ -1,0 +1,65 @@
+{
+  "id": "conv_05906",
+  "context": "A boss reviews a product-launch plan",
+  "purpose": "Teach: 晋/炉/包装/試みる/封筒/簡素/直結/軽視",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "晋",
+    "炉",
+    "包装",
+    "試みる",
+    "封筒",
+    "簡素",
+    "直結",
+    "軽視"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新商品、晋一郎が主担当だな。",
+      "en": "The new product goes to Shin-ichiro as lead.",
+      "style": "Clipped, businesslike opening. Measured pace, authority without performance. The tone of someone stating what is already decided.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製造現場の電気炉、最新型に更新済みです。",
+      "en": "Yes. The plant's electric furnace has been upgraded to the latest model.",
+      "style": "Clear, factual delivery. Steady rhythm like checking items off a list. Respectful but unadorned — showing competence through precision.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "包装デザイン、簡素を意識しろ。",
+      "en": "Keep the packaging design simple. Intentional simplicity.",
+      "style": "Sharp directive, slight pause after the dash. Weight on 「簡素」. The voice of someone who knows what matters and says it once.",
+      "mood": "firm_clear"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "試みるサンプル、封筒に入れて役員に配布します。",
+      "en": "We'll prepare trial samples and distribute them to the executives in envelopes.",
+      "style": "Steady confirmation. Slight upward inflection at the end — a question-mark beneath the statement, checking alignment. Efficient, not rushed.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "技術と販売が直結する設計だ。市場の声を軽視するな。",
+      "en": "Design where technology and sales meet directly. Don't ignore what the market is telling us.",
+      "style": "Slow burn, building conviction. Emphasis on the connection between the two halves. Final sentence leans forward — not a lecture, a principle. Quiet intensity.",
+      "mood": "authoritative_serious"
+    }
+  ]
+}

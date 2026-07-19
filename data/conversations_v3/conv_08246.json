@@ -1,0 +1,86 @@
+{
+  "id": "conv_08246",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 参事官/占有/便宜/納付/受託/公然/始動/散会",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参事官",
+    "占有",
+    "便宜",
+    "納付",
+    "受託",
+    "公然",
+    "始動",
+    "散会"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_414 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、外務省の参事官と打ち合わせを行え",
+      "en": "Coordinate a meeting with the Foreign Ministry counselor.",
+      "style": "Clipped, authoritative opening. Matter-of-fact delivery with no room for negotiation. Eyes steady, chin level. Each word lands with equal weight.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。倉庫の占有面積を整理しました",
+      "en": "Yes. I've organized the warehouse storage allocation.",
+      "style": "Respectful but confident. Straightforward tone reporting completed work. Slight formal lift on the acknowledgment, then settle into the briefing.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お得意様には便宜を図れ",
+      "en": "Make sure we facilitate what our key clients need.",
+      "style": "Direct instruction, no softening. Lean forward slightly. Implied weight behind the words — this is important. Steady gaze.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。税金の納付期限を確認しております",
+      "en": "Yes. I'm confirming the tax payment deadlines now.",
+      "style": "Professional reassurance. Calm, ongoing-work tone. Slightly deferential without being obsequious. Shows competence through steadiness.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新規受託業務を増やせ",
+      "en": "Increase our new commissioned work.",
+      "style": "Command with expectation built in. Short, efficient. No explanation needed — the order is clear. Slight pause after, as if waiting for acknowledgment.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品の公然たる発表をいたしました",
+      "en": "Yes. We've made the public announcement of the new product.",
+      "style": "Professional completion report. Slight pride in 'made' — task finished well. Steady pace, formal register maintained throughout.",
+      "mood": "accomplished"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新システムを始動しろ",
+      "en": "Launch the new system.",
+      "style": "Final directive, crisper than before. Imperative, no room for questions. Voice carries finality — meeting nearly over, this is the last order.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。今日の会議は無事散会いたしました",
+      "en": "Yes. Today's meeting concluded successfully.",
+      "style": "Closing acknowledgment. Slight softening compared to earlier updates — meeting is wrapping. Respectful, clear finality. Slight bow in the voice.",
+      "mood": "conclusive"
+    }
+  ]
+}

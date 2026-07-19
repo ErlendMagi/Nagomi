@@ -1,0 +1,69 @@
+{
+  "id": "conv_02444",
+  "context": "Kenji helps Yuki fill in a digital form.",
+  "purpose": "WIDENED SCENARIO: form-filling help; UI vocabulary in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "固定",
+    "表示",
+    "以下",
+    "下さい",
+    "作成"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_123)",
+    "generated_at": "2026-05-29T12:47:34.257Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この書類は、どう作成すればいい?",
+      "en": "How should I create this document?",
+      "style": "slightly unsure office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、以下の欄を埋めて下さい。",
+      "en": "First, please fill in the fields below.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "名前の欄が、表示されないんだけど。",
+      "en": "The name field isn't displaying, though.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "上の項目を、固定してみて下さい。",
+      "en": "Try fixing the top item in place.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "固定したら、ちゃんと表示されました。",
+      "en": "After fixing it, it displayed properly.",
+      "style": "relieved office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "最後に、作成ボタンを押して下さい。",
+      "en": "Finally, please press the create button.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "無事、作成できました。助かった。",
+      "en": "Created it without trouble. That helped.",
+      "style": "grateful office woman voice, soft warm relieved appreciative throughout"
+    }
+  ]
+}

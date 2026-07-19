@@ -1,0 +1,72 @@
+{
+  "id": "conv_04952",
+  "context": "A boss and his manager discuss a long-form business article",
+  "purpose": "Teach: 風土/風潮/全集/もたらさ/変形/楽譜/かかわっ/遂に",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "風土",
+    "風潮",
+    "全集",
+    "もたらさ",
+    "変形",
+    "楽譜",
+    "かかわっ",
+    "遂に"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_249b workflow wwwp084s6)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "例の記事、遂に読み終えたよ。我が社の風土について、ずいぶん厳しいことが書いてあったな。",
+      "en": "I finally finished reading that article. It said some pretty harsh things about our company's culture.",
+      "style": "Gruff, weighty boss tone with reflective pause mid-sentence."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、私も拝読しました。最近の風潮として、トップダウン経営を批判する論調が増えていますね。",
+      "en": "Yes, I read it too. As a recent trend, there's been more criticism of top-down management.",
+      "style": "Measured, deferential manager voice with careful business register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "筆者はドラッカー全集を引用していたが、ああいう古典的経営論が再評価される時代になったか。",
+      "en": "The author quoted from the Drucker complete works—are we in an era where those classical management theories get reevaluated?",
+      "style": "Contemplative, slightly nostalgic with intellectual undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "デジタル化が職場に変形をもたらさなかったわけではないですが、人間中心の視点はやはり重要かと。",
+      "en": "It's not that digitalization hasn't brought transformation to the workplace, but the human-centered perspective remains crucial.",
+      "style": "Diplomatic hedging with thoughtful corporate phrasing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "記事の中で、組織を楽譜に喩えていた箇所が印象的だったな。指揮者だけでは音楽にならんと。",
+      "en": "The part where the article compared the organization to a musical score was striking. A conductor alone can't make music.",
+      "style": "Reflective and warm, savoring the metaphor aloud."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "筆者は長年現場にかかわってきた方ですから、説得力がありますね。社長、何か施策をお考えで?",
+      "en": "The author has been involved in the field for years, so it's persuasive. Sir, are you considering any measures?",
+      "style": "Probing yet respectful, gently steering toward action."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ、来週の役員会で議題に上げるつもりだ。君も資料を用意しておいてくれ。",
+      "en": "Hm, I intend to raise it at next week's board meeting. You prepare the materials too.",
+      "style": "Decisive executive tone closing the discussion firmly."
+    }
+  ]
+}

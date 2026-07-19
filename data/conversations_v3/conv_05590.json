@@ -1,0 +1,65 @@
+{
+  "id": "conv_05590",
+  "context": "A police officer briefs a uni reporter about reform",
+  "purpose": "Teach: 指針/区分/補正/集約/選考/単価/助手/裁量",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "指針",
+    "区分",
+    "補正",
+    "集約",
+    "選考",
+    "単価",
+    "助手",
+    "裁量"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本年度の指針、選考プロセスを集約しました。",
+      "en": "I've consolidated this year's guidance and the selection process.",
+      "style": "Clear, measured opener. Professional but not stiff. Briefing-tone — the kind of statement that invites questions. Even pace, settled posture.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "区分別の単価補正も、行われているんですか。",
+      "en": "Are the per-category unit-price adjustments being applied as well?",
+      "style": "Genuinely curious, not challenging. Leans forward slightly with the question. Respectful of hierarchy but clearly thinking hard. A student testing the edges of understanding.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。担当者の裁量で柔軟に運用しています。",
+      "en": "Yes. We operate with flexible discretion depending on the handler.",
+      "style": "Reassuring specificity. Not defensive — just clarifying how it actually works on the ground. Steady, slightly warming. The kind of answer that suggests experience.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "助手職の方の育成方針も、変わってきましたか。",
+      "en": "Has the training approach for assistant-level positions changed too?",
+      "style": "Following thought to its logical place. Soft curiosity — not interrogating, just wanting the full picture. Natural continuation of the previous exchange.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、改善中です。",
+      "en": "Yes. We're working on improvements.",
+      "style": "Brief but genuine. A small softening — less procedural, more present. The kind of answer that says 'you're asking the right questions.' Slight pause before answering.",
+      "mood": "candid"
+    }
+  ]
+}

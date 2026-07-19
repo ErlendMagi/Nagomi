@@ -1,0 +1,86 @@
+{
+  "id": "conv_09454",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 滑走/注入/征服/履修/標高/図形/代謝/点滴",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "滑走",
+    "注入",
+    "征服",
+    "履修",
+    "標高",
+    "図形",
+    "代謝",
+    "点滴"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_474 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、リハビリ滑走路状の歩行訓練を医療チームで設計します",
+      "en": "Ren, we're designing a staged walking rehabilitation program with the medical team.",
+      "style": "Clear, measured opening. Steady voice with professional reassurance. Slightly slower pace on the medical details. Gentle confidence—no rushed explanations.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、薬剤の点滴注入は医療チームで慎重におこないます",
+      "en": "Yes, the medical team will handle all IV medications very carefully.",
+      "style": "Nod in the voice. Warm but precise. Emphasize 'carefully' with quiet weight. Reassuring without overselling—she's seen this work before.",
+      "mood": "steady_reassuring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、依存症征服を支える治療を医療チームで研究します",
+      "en": "Ren, we're researching supportive treatments that help overcome dependency—it's a team effort.",
+      "style": "Shift to slightly warmer tone. 'Overcome' gets a lift of hope. Still clinical but less distant. Acknowledge the weight of the work without dwelling on it.",
+      "mood": "hopeful_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医学部生の履修指導を、貴院、担当されますね、先生",
+      "en": "So your hospital does handle the curriculum guidance for medical students, doesn't it, Doctor?",
+      "style": "Quiet, exploratory tone. Respectful address with a hint of genuine curiosity underneath. Not testing—asking because he wants to understand. Slight upward lift on the question.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、標高の高い病院での医療連携を医療チームで進めます",
+      "en": "Yes, we coordinate care across different hospital settings—it's all part of how the team works together.",
+      "style": "Straightforward affirmation. Matter-of-fact but not cold. Slight emphasis on 'together' to underscore the collaborative nature. Steady breathing.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "小児の図形認識試験を、貴院、おこなわれますね、先生",
+      "en": "And your hospital administers the pediatric cognitive assessments as well, doesn't it?",
+      "style": "Same respectful curiosity as before. Building on what he's learning. Gentle upward question inflection. He's connecting dots—let it show in the pace.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、代謝症候群の患者を医療チームで治療します",
+      "en": "Yes, we treat metabolic syndrome patients with a coordinated team approach.",
+      "style": "Patient, clear. Slight nod to the clinical competence—she knows this territory well. No hesitation. Calm, steady delivery.",
+      "mood": "composed_competent"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "点滴管理の徹底を、貴院、おこなわれてますね、先生",
+      "en": "You maintain strict IV management protocols here, don't you, Doctor?",
+      "style": "Quiet admiration in the tone. He's impressed by the thoroughness. Gentle, not probing. Almost reflective—thinking aloud with respect. Slight fade on the end.",
+      "mood": "admiring_reflective"
+    }
+  ]
+}

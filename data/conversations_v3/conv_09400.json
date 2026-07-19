@@ -1,0 +1,86 @@
+{
+  "id": "conv_09400",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 高架/岩石/邸宅/蜘蛛/蝉/コスモス/重油/広辞苑",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "高架",
+    "岩石",
+    "邸宅",
+    "蜘蛛",
+    "蝉",
+    "コスモス",
+    "重油",
+    "広辞苑"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_471 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと高架駅を見学に行きましょうね",
+      "en": "Sho, why don't you and Dad go visit the train station today?",
+      "style": "Warm, inviting tone. Soft opening, as if offering a gift. Gentle cadence that makes it feel like a suggestion, not a directive. Slight lift at the end—encouragement without pressure.",
+      "mood": "tender_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと岩石を集めたよ",
+      "en": "Mom, Dad and I collected rocks today!",
+      "style": "Bright, genuine excitement. Quick attack on the opening word. Words tumble slightly—eager to share. A small pause before 'rocks' as if picturing them. Unselfconscious joy.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんが古い邸宅のお話してくれたわ",
+      "en": "Sho, Grandpa told me such an interesting story about an old mansion.",
+      "style": "Thoughtful, almost nostalgic. Deliberate pace, as if she's savoring the memory. Slight wonder in the middle—like she's still turning the story over in her mind. Warm recognition that Sho would find this interesting too.",
+      "mood": "reflective_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お庭で蜘蛛の巣を見つけたよ",
+      "en": "Mom, I found a spider web in the garden!",
+      "style": "Direct, observant excitement. Not loud—a clearer, more present kind of enthusiasm. The discovery is important to him. Slight emphasis on 'spider web' as if he wants her to really see it.",
+      "mood": "eager_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、夏は蝉の声がいっぱいね",
+      "en": "Sho, there are so many cicada sounds in the summer, aren't there?",
+      "style": "Gentle, almost wistful. Slow, unhurried pacing. She's noticing the season aloud, inviting him into the observation. Soft trailing off—like she's listening to something distant, somewhere between memory and the present moment.",
+      "mood": "reflective_content"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとコスモスを植えたよ",
+      "en": "Mom, Dad and I planted cosmos flowers today!",
+      "style": "Bright, accomplishment-tinged excitement. Quick opening. Words come with light emphasis on the shared action—he's proud they did this together. Genuine childlike delight in having grown something.",
+      "mood": "eager_accomplished"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが重油の流出事故のニュースを観てらしたわ",
+      "en": "Sho, your father was watching the news about that oil spill.",
+      "style": "Measured, observant tone. Slight pause before the main clause—like she's choosing her words carefully. Weight on 'oil spill'—something heavier than the garden or rocks. Concerned but not alarming. She's marking that adults notice different things.",
+      "mood": "reflective_concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが広辞苑を引いて下さったよ",
+      "en": "Mom, Dad looked up a word for me in the dictionary!",
+      "style": "Warm, proud closeness. The words come with gentle satisfaction. Emphasis on 'looked up'—this gesture mattered to him. A small, contented exhale at the end. The tone of someone who just received real attention.",
+      "mood": "eager_touched"
+    }
+  ]
+}

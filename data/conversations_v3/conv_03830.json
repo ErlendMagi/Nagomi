@@ -1,0 +1,78 @@
+{
+  "id": "conv_03830",
+  "context": "A doctor sees a young patient with mild injury, advising prevention",
+  "purpose": "Teach: 保育/処置/負荷/か月/チェーン/外れ/嬢/回避",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "保育",
+    "処置",
+    "負荷",
+    "か月",
+    "チェーン",
+    "外れ",
+    "嬢",
+    "回避"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_192 w51cjnmo1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "やあ、お嬢ちゃんじゃなくて坊やか。保育園の帰りに転んだんだって?",
+      "en": "Oh, not a young lady but a young man. You fell on the way home from preschool?",
+      "style": "Warm, gentle doctor greeting a small child softly."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん…自転車のチェーンが外れて、こけちゃった。",
+      "en": "Yeah... my bike chain came off and I fell over.",
+      "style": "Small shy child speaking quietly with slight embarrassment."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。じゃあ応急処置をしようね。痛かったら言ってね。",
+      "en": "I see. Then let's do some first aid. Tell me if it hurts.",
+      "style": "Calm reassuring doctor explaining next step to patient."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "せんせい、骨は折れてない?三か月前も腕けがしたから怖い。",
+      "en": "Doctor, is the bone not broken? Three months ago I hurt my arm so I'm scared.",
+      "style": "Worried child asking with anxious trembling small voice."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫、骨は無事だよ。ただ、足にあまり負荷をかけないようにね。",
+      "en": "It's okay, the bone is fine. Just try not to put too much load on your leg.",
+      "style": "Reassuring professional tone, friendly but medically clear."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ふつうに走ったらだめ?",
+      "en": "I can't run normally?",
+      "style": "Curious disappointed child asking a quick simple question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は休もう。次のけがを回避するために、軽いストレッチも覚えようね。",
+      "en": "Rest today. To avoid the next injury, let's also learn some light stretching.",
+      "style": "Encouraging doctor giving prevention advice with patient kindness."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん!ストレッチがんばる!",
+      "en": "Okay! I'll do my best with the stretches!",
+      "style": "Cheerful energetic child suddenly motivated and brightening up."
+    }
+  ]
+}

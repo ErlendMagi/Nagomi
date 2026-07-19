@@ -1,0 +1,86 @@
+{
+  "id": "conv_08861",
+  "context": "Mom and son chat",
+  "purpose": "Teach: はずす/淋しい/逢い/ぐったり/たいがい/楽々/あわせる/あたえ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "はずす",
+    "淋しい",
+    "逢い",
+    "ぐったり",
+    "たいがい",
+    "楽々",
+    "あわせる",
+    "あたえ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_445 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、メガネをはずすと顔が違って見えるわね",
+      "en": "Your face looks different without your glasses, Sho.",
+      "style": "Light, affectionate observation. Warm amusement in the eyes—noticing something small about him. Not teasing, just seeing.",
+      "mood": "warm_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんがいなくて淋しいよ",
+      "en": "Mom, I miss Grandpa.",
+      "style": "Quiet, reaching—the particular vulnerability of a six-year-old naming something that hurts. Open and honest without performance. Slight pause before speaking.",
+      "mood": "lonely"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんとお家で逢いましょうね",
+      "en": "We'll visit Grandpa at home soon, okay?",
+      "style": "Gentle reassurance. Soft on the opening—a promise meant to land. Steady, the way a mother's voice can settle something in a child. Not rushing past his feeling.",
+      "mood": "tender_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、運動会の後、ぐったりしちゃった",
+      "en": "After the sports day, you were completely worn out.",
+      "style": "Mild observation with affection underneath. The tone of someone who noticed him dragging, remembering how hard he pushed. Understated acknowledgment of his effort.",
+      "mood": "gently_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、たいがいのことはお父さんに相談しなさい",
+      "en": "For most things, talk to your dad about it, alright?",
+      "style": "Practical, matter-of-fact guidance. Not unkind—just clear. The voice of someone redirecting, trusting the other parent. Steady eye contact implied.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ピアノが楽々弾けるようになったよ",
+      "en": "You can play the piano so smoothly now.",
+      "style": "Genuine pride and pleasure. Warm recognition of his progress. The words land with quiet certainty—she means it. A mother noticing real growth.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんに時間をあわせるのは大事よ",
+      "en": "It's important to make time to match your dad's schedule, you know.",
+      "style": "Practical wisdom delivered gently. Not lecturing—guiding. The tone of someone teaching without pushing. Clear but warm.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんが好物をあたえて下さったよ",
+      "en": "Grandpa gave you some of your favorite food!",
+      "style": "Bright warmth, sharing in his delight. Quick tempo, genuinely pleased at his happiness. The lift of a mother delighted by what her son has received. Open, eager with him.",
+      "mood": "warm_delighted"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06649",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 知識人/会派/替わり/積ま/計っ/常用/手作業/シード",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "知識人",
+    "会派",
+    "替わり",
+    "積ま",
+    "計っ",
+    "常用",
+    "手作業",
+    "シード"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_334 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、知識人の証言も、参考にしております。",
+      "en": "We've also taken statements from community members who know the situation well.",
+      "style": "Even, measured tone. Professional but not cold. Slight pause after the opening phrase, as if documenting as he speaks. Clear enunciation, steady rhythm.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域の自治会派、警察と協力体制、できています。",
+      "en": "Yes. The neighborhood association and police have a good working relationship already.",
+      "style": "Affirming nod in the voice. Steady, collaborative tone. Not rushed—each phrase given its due. Slight lift at the end, showing readiness to cooperate further.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "担当官の替わりに、私が、ご説明します。",
+      "en": "The assigned officer is unavailable, so I'll walk you through the details.",
+      "style": "Respectful and reassuring. Light emphasis on 'I'—taking responsibility without ceremony. Warm but official. The voice of someone stepping in with competence.",
+      "mood": "professional_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害品、倉庫に、積まれていた状態でした。",
+      "en": "Understood. The stolen items were stacked in the warehouse when we discovered them.",
+      "style": "Factual, direct delivery. Slight pause between each element—giving Officer Takeda time to document. No emotion, just clear information. Quiet confidence in the details.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害金額、しっかり計って、報告書、提出します。",
+      "en": "We'll calculate the total loss carefully and submit a full report.",
+      "style": "Methodical and precise. Light stress on 'carefully'—showing diligence. Deliberate pacing, like checking items off a list. Professional commitment without fanfare.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社用車、常用している運転手、確認しました。",
+      "en": "Yes. We've confirmed the driver who uses the company vehicle regularly.",
+      "style": "Steady confirmation. Brief pause after 'driver'—letting the important detail land. No hesitation, suggesting thorough verification already done. Cooperative tone.",
+      "mood": "confirmed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠検証、手作業で、慎重にやらせていただいています。",
+      "en": "We're examining the evidence by hand, taking our time to be thorough.",
+      "style": "Careful, almost deliberate pace. Slight emphasis on 'by hand'—reassuring precision. Respectful tone, showing the care being taken. Voice level steady and assured.",
+      "mood": "meticulous"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新規防犯活動の、シード資金、ご相談したいです。",
+      "en": "Thank you. I'd like to discuss funding for some new neighborhood crime prevention initiatives.",
+      "style": "Respectful shift in tone—moving from report-giving to request. Slightly tentative, but not uncertain. A pause before 'funding,' showing this matters. Earnest and direct.",
+      "mood": "hopeful_respectful"
+    }
+  ]
+}

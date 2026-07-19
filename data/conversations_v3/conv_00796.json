@@ -1,0 +1,76 @@
+{
+  "id": "conv_00796",
+  "context": "Dr. Saito gives Yumiko her annual checkup result.",
+  "purpose": "doctor-patient woman health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "検査",
+    "結果",
+    "女性",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_040)",
+    "generated_at": "2026-05-27T01:57:34.077Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "優子さん、検査の結果、お話します。",
+      "en": "Yumiko-san, I have your exam results to share with you.",
+      "style": "Clear, measured opening. Warm but professional. Slight forward lean in posture. Delivering reassuring news with the careful steadiness of someone who has done this many times. No rush.",
+      "mood": "composed_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、お願いします。",
+      "en": "Yes, please.",
+      "style": "Quiet readiness. A small nod in the voice. Respectful, trusting. Not anxious—she's bracing herself for whatever comes, but with dignity. Open attention.",
+      "mood": "receptive_composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "全体的に、健康。問題ありません。",
+      "en": "Overall, you're in good health. There's nothing to be concerned about.",
+      "style": "Gentle relief delivered with quiet authority. Light emphasis on the reassurance. Warm exhale underneath—this is the news she came for. Slow enough to let it land.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ああ、良かった。",
+      "en": "Ah, thank goodness.",
+      "style": "Soft exhale of relief. Brief, genuine, almost to herself. The tension she was holding visibly releases in the breath. Grateful, not effusive. Grounded.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "女性は、年齢で、変化、ありますね。",
+      "en": "Of course, women do experience changes as they age. That's completely normal.",
+      "style": "Conversational shift—slightly warmer, less formal. Matter-of-fact without being clinical. She's moved from doctor-mode into the shared-understanding space. Reassuring through normalization.",
+      "mood": "informative_kind"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "気を付けてます。生活、大切に。",
+      "en": "I'm being careful. I try to take care of myself.",
+      "style": "Quiet conviction underneath. Not defensive, but grounded. A small note of pride—she's doing the work. Steady and deliberate, like someone speaking to her own commitment out loud.",
+      "mood": "determined_grounded"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、また来年。",
+      "en": "Stay well, and I'll see you again next year.",
+      "style": "Warm closing. Gentle goodbye cadence. The voice sits lower, almost intimate in its quiet care. Dismissing her not coldly but with the gentle finality of someone truly wishing her well.",
+      "mood": "warm_closing"
+    }
+  ]
+}

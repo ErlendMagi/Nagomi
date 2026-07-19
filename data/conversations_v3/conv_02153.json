@@ -1,0 +1,79 @@
+{
+  "id": "conv_02153",
+  "context": "Mei runs an errand at the bank; small administrative chat.",
+  "purpose": "Adult woman handling bank business briefly.",
+  "ambient": "bank_lobby_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "銀行",
+    "記入",
+    "住所",
+    "渡し",
+    "関わる",
+    "進み",
+    "スタッフ",
+    "気軽"
+  ],
+  "cast": [
+    "mei_romantic",
+    "takeda_officer"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_108)",
+    "generated_at": "2026-05-27T16:46:29.640Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "銀行員さん、書類、記入しましたか?",
+      "en": "Excuse me — have you finished filling out the documents?",
+      "style": "Soft, respectful opening. Warm but careful — she's not trying to rush. A gentle question offered, not a demand. Quiet pacing.",
+      "mood": "polite_attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、住所、こちらでよろしいですか?",
+      "en": "Yes. Is the address correct as it is here?",
+      "style": "Clear, professional confirmation. Warm undertone — not sterile. Eyes on the form, voice steady and reassuring. Matter-of-fact but human.",
+      "mood": "professional_helpful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、合ってます、渡してください。",
+      "en": "Yes, that's right. Please give it to me.",
+      "style": "Gentle confirmation. Brief and direct without coldness. Light, almost grateful tone — acknowledging his care. No impatience.",
+      "mood": "warm_accepting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "進み、すぐ、ご確認いただけます。",
+      "en": "We'll get it processed right away for you to review.",
+      "style": "Efficient and reassuring. Calm, professional pace. The words land like a small promise — not rushed, just competent. Slight nod in the voice.",
+      "mood": "capable_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "スタッフの方、皆、丁寧ですね。",
+      "en": "Your staff members are all so thoughtful.",
+      "style": "Genuine observation, softly offered. A small smile in the voice — not flattery, but real recognition. Warm, wondering tone. Trailing slightly upward.",
+      "mood": "appreciative_relief"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "気軽に、ご質問、どうぞ。",
+      "en": "Please, feel free to ask any questions you have.",
+      "style": "Open, unhurried invitation. Warm professional encouragement. Slight lean-in in the tone — he means it. Not just protocol, but genuine welcome.",
+      "mood": "welcoming_patient"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "Quiet gratitude, genuine and simple. Slight bow in the voice — respectful without being distant. Warm close to the exchange.",
+      "mood": "grateful_sincere"
+    }
+  ]
+}

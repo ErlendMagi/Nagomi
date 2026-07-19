@@ -1,0 +1,86 @@
+{
+  "id": "conv_06328",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 代物/承っ/施さ/組み立てる/忘れ物/目指せ/習う/参観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "代物",
+    "承っ",
+    "施さ",
+    "組み立てる",
+    "忘れ物",
+    "目指せ",
+    "習う",
+    "参観"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、業界の代物、見極める目、養え。",
+      "en": "Ren — develop the eye to discern quality in this industry.",
+      "style": "Measured, direct. Slight pause before the main verb, letting the weight settle. Not unkind, but unadorned. The tone of someone who knows what matters.",
+      "mood": "measured_directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。注文を承って対応する流れ、丁寧に学びたいです。",
+      "en": "Yes. I want to learn the order process carefully, step by step.",
+      "style": "Deferential but genuine. A small intake before speaking, showing he's listening actively. Quiet conviction underneath. Not performing eagerness, but present with it.",
+      "mood": "earnest_attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "特殊な工程を施さない製品は、付加価値、出ない。",
+      "en": "Products without special processing don't add value. Remember that.",
+      "style": "Teaching tone, not explaining. Slight emphasis on the logic itself — not the words, but the principle. Brief, letting silence do the work after.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "プロジェクトを組み立てる手法、勉強します。",
+      "en": "I'll study how to structure projects properly.",
+      "style": "Quick, crisp agreement. Lean forward slightly in the voice — not rushing, but focused. The sound of someone taking mental notes while listening.",
+      "mood": "focused_determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "打合せ、忘れ物のないように。",
+      "en": "Come to meetings prepared. No oversights.",
+      "style": "Clipped, expectant. Not harsh, but final. A baseline standard, stated plainly. The pause after carries more weight than the words.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "目指せる先輩、見つけました。",
+      "en": "I found a senior I can actually look up to.",
+      "style": "Soft brightness underneath careful respect. Small smile in the voice without losing composure. The relief of recognizing something real in what seemed formal.",
+      "mood": "grateful_realized"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の慣習、習う姿勢、忘れるな。",
+      "en": "Don't forget — learn the customs of this industry the way you learn anything worth learning.",
+      "style": "Not quite stern, but weighted. Slow, deliberate pacing on the key phrase. The voice of someone investing in a younger person's future, not just filling time.",
+      "mood": "serious_invested"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今度、生産ライン、参観、楽しみです。",
+      "en": "I'm really looking forward to observing the production line.",
+      "style": "Earnest close — quiet excitement held in check by respect. Small pause before the final word, landing it with genuine interest. A moment of authentic hope.",
+      "mood": "eager_hopeful"
+    }
+  ]
+}

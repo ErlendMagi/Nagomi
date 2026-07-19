@@ -1,0 +1,86 @@
+{
+  "id": "conv_06861",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 親しく/ノック/バレンタイン/小児科/丸ごと/ひととき/救っ/かなわ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "親しく",
+    "ノック",
+    "バレンタイン",
+    "小児科",
+    "丸ごと",
+    "ひととき",
+    "救っ",
+    "かなわ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_345 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お友達と、親しくなれたよ、転校先で、ぼく、嬉しいんだ。",
+      "en": "Mom — I made a friend at my new school. I'm really happy about it.",
+      "style": "Bright, eager opening with natural childlike pacing. Soft pride in the voice without trying to impress. Slight lift at the end, seeking her approval and warmth.",
+      "mood": "proud_happy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お父さんが、ノックの音、してくれたわよ、もうすぐ、帰宅ね。",
+      "en": "Yes. Your dad's knocking at the door — he'll be home soon.",
+      "style": "Warm acknowledgment, gently redirecting attention. Soft, present tone. The ease of someone who listens while doing something else. Slight lift toward the end, as if checking in.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今年のバレンタイン、ぼく、誰にあげようかな、迷ってるよ、ママ。",
+      "en": "Mom, I'm not sure who to give my Valentine chocolate to this year.",
+      "style": "Thoughtful, slightly hesitant pacing. Genuine uncertainty in the voice — not performative worry. Soft, conversational, like he's thinking out loud with someone he trusts.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "熱、出てきたかな、翔くん、明日、小児科、行きましょうね。",
+      "en": "Sho, do you have a fever? We should go to the pediatrician tomorrow.",
+      "style": "Shift to gentle concern. Closer listening attention now. Not alarmed, but noticing. Soft firmness on the instruction — practical care masked as light suggestion.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お祖父ちゃんの梅干し、丸ごと、食べちゃったよ、ぼく、すっぱかった!",
+      "en": "I ate Grandpa's whole pickled plum. It was so sour!",
+      "style": "Quick, surprised laugh in the opening. Bright, slightly sheepish energy — the admission of small mischief. Wry satisfaction on 'sour' — he did it, and he's own the consequence.",
+      "mood": "playful_sheepish"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族でゆっくり、ひととき、過ごす時間、本当に、大切ね、翔くん。",
+      "en": "Spending time together like this with the whole family — it's really precious, isn't it, Sho.",
+      "style": "Tender, reflective pause before speaking. Slow pace, as if noticing the moment while it happens. Warmth that doesn't try too hard. Slight trailing-off, like she's speaking partly to herself.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "子犬を、救ったお話、絵本で、読んだよ、感動したんだ、ぼく、本当に。",
+      "en": "I read a picture book about saving a puppy. It really moved me.",
+      "style": "Animated, genuine emotion in the voice. Soft but clear — not performing excitement, but sharing something that touched him. Earnest delivery, slightly breathless on the feeling.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さんに、かなわないって、お父さん、言ってたわよ、料理、上手だって。",
+      "en": "Your dad was saying he can't match you in the kitchen — that you're really good at cooking.",
+      "style": "Reflective, almost playful observation. Warm gaze toward Sho. Soft pride in the delivery, like sharing a small secret. Gentle close, lingering slightly on the compliment.",
+      "mood": "proud_affectionate"
+    }
+  ]
+}

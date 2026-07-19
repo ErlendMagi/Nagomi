@@ -1,0 +1,86 @@
+{
+  "id": "conv_07992",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 覆い/明かさ/少数/気がつい/人民/調和/振れ/成人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "覆い",
+    "明かさ",
+    "少数",
+    "気がつい",
+    "人民",
+    "調和",
+    "振れ",
+    "成人"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者は事実を覆い隠そうとしていました",
+      "en": "In this case, the suspect was attempting to conceal the facts.",
+      "style": "Matter-of-fact delivery, measured pace. Professional distance but not cold. Slight emphasis on 'attempting' — a factual observation, not judgment.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、まだ犯人像を明かさないご方針ですね",
+      "en": "So the police are still maintaining discretion about the suspect's profile, I see.",
+      "style": "Respectful inquiry, careful phrasing. Seeking clarification without pushback. Slight upward inflection at the end — genuine question, not challenge.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、少数の目撃証言を慎重に扱っております",
+      "en": "We're handling the witness statements very carefully at this stage.",
+      "style": "Steady, procedural tone. Slightly formal register. Even pacing. Reassuring without over-explaining — the speech of someone used to giving official statements.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察が気がついた手がかり、すばらしいです",
+      "en": "That's excellent detective work on the part of your team.",
+      "style": "Genuine appreciation. Warm but not effusive. Acknowledges competence without flattery. Slight pause before speaking — choosing words with care.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、人民の安全を最優先にしております",
+      "en": "Public safety remains our highest priority in all of this.",
+      "style": "Firm, principled tone. Steady rhythm like a statement of purpose. No defensive edge — just clear conviction. Professional composure throughout.",
+      "mood": "steadfast"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、地域の調和を保つご努力、警察ありがたいです",
+      "en": "Your efforts to maintain harmony in the community are something we're truly grateful for.",
+      "style": "Sincere and deferential. Slower pace than before — the weight of genuine thanks. Slight softening in the voice. Respecting authority without kowtowing.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の証言に振れがあると判断しております",
+      "en": "We've noted inconsistencies in the suspect's account that warrant further investigation.",
+      "style": "Controlled precision. Each phrase lands deliberately. Professional but not distant — the tone of someone sharing information they take seriously.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、成人前の少年は警察、保護対応ですね",
+      "en": "And minors will naturally receive protective measures throughout this process, I imagine.",
+      "style": "Gentle close. Thoughtful, almost trailing-off quality. Concern for the vulnerable showing through respect for procedure. Soft landing on the final phrase.",
+      "mood": "protective_concerned"
+    }
+  ]
+}

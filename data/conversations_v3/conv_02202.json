@@ -1,0 +1,79 @@
+{
+  "id": "conv_02202",
+  "context": "Aoi serves a customer who orders soba; brief shop talk.",
+  "purpose": "Cafe owner serving customer professionally.",
+  "ambient": "cafe_lunch_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "蕎麦",
+    "注文",
+    "料理",
+    "味",
+    "配り",
+    "丁寧",
+    "渡し",
+    "感謝"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_111)",
+    "generated_at": "2026-05-27T17:28:11.025Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "蒼さん、蕎麦、ありますか?",
+      "en": "Do you have soba today?",
+      "style": "Gentle, slightly uncertain opening. Soft spoken with genuine politeness. Light hopeful lift at the end. A regular asking a quiet question, not demanding.",
+      "mood": "polite_hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、注文受け付けます。",
+      "en": "Yes, I can take your order.",
+      "style": "Warm, attentive. Professional but not distant. A small nod in the voice — she's already reaching for notepad. Unhurried and present.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "料理、味、いつもうまい。",
+      "en": "Your food always tastes really good.",
+      "style": "Sincere compliment, delivered softly without fanfare. Slight hesitation before saying it — genuine but a little shy. Appreciative warmth underneath.",
+      "mood": "genuine_admiring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "丁寧に、配ってお出ししますね。",
+      "en": "I'll plate it carefully for you.",
+      "style": "Tender reassurance. Slightly slower pace on the word 'carefully' — showing she takes care. Warm professional tone, the kind that makes a customer feel seen.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "渡してください、お皿に。",
+      "en": "Could you put it on a plate for me?",
+      "style": "Polite request, almost apologetic in its gentleness. Careful not to be demanding. The politeness of someone who doesn't want to impose, spoken softly.",
+      "mood": "polite_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、お待たせしました。",
+      "en": "Sorry for the wait.",
+      "style": "Warm, professional apology. Set down with care. Not rushed — she's present as she hands it over. A small acknowledgment of patience.",
+      "mood": "apologetic_attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感謝します、ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Genuine gratitude, said quietly but with full heart. Slightly bowed inflection in the voice. The thanks of someone who means it, not just politeness.",
+      "mood": "grateful_sincere"
+    }
+  ]
+}

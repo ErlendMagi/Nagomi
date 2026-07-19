@@ -1,0 +1,86 @@
+{
+  "id": "conv_09087",
+  "context": "Two managers chat",
+  "purpose": "Teach: 読み書き/本誌/常務/出回っ/既婚/上述/免責/全長",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "読み書き",
+    "本誌",
+    "常務",
+    "出回っ",
+    "既婚",
+    "上述",
+    "免責",
+    "全長"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_456 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新人の読み書きスキルを評価しましょう",
+      "en": "Let's start by evaluating the new hire's reading and writing skills.",
+      "style": "Crisp, professional opening. Clean attack on the first syllable. Steady pace, no hesitation. Speaking from a checklist—organized, task-focused.",
+      "mood": "business_brisk"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本誌記事を社内報にも転載します",
+      "en": "Understood. I'll also make sure the article gets reprinted in the company newsletter.",
+      "style": "Calm affirmation. Light nod in the voice. Acknowledging while already moving to the next step. Reliable, no flourish.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "常務会議で新方針を承認してもらいましょう",
+      "en": "We should get the new policy approved at the executive meeting.",
+      "style": "Slightly forward-leaning. Purposeful tone. Small emphasis on 'approved'—this matters. Speaking with quiet confidence, not requesting.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市場に出回っている類似品を調査中です",
+      "en": "Understood. We're currently looking into similar products already on the market.",
+      "style": "Steady update voice. Factual, no drama. A slight pause before the detail, like checking off a point. Professional but present.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "既婚者向けの社宅制度を案内しましょう",
+      "en": "Let's put together an announcement about the new housing program for married employees.",
+      "style": "Clear instruction, slightly warmer than the first. Not commanding—collaborative. Even pace. The kind of direction that expects competent execution.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。上述の通り、改善計画を出します",
+      "en": "Understood. As I mentioned, I'll submit the improvement plan.",
+      "style": "Confirming tone. Light reference back to what was said before—a little nod of continuity. Steady, factual. Ready to move on.",
+      "mood": "confirmative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "保険の免責範囲を社員に説明しましょう",
+      "en": "We need to explain the insurance deductible limits to the staff.",
+      "style": "Instructional but not stern. Methodical. Speaking as someone moving through necessary items. Clear and direct without urgency.",
+      "mood": "business_directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商品の全長表記を統一しました",
+      "en": "Understood. I've already standardized the product length labeling.",
+      "style": "Finishing affirmation. Light satisfaction—a task complete. Slight slowdown at the end, like setting something down. Closed loop, ready for the next one.",
+      "mood": "task_complete"
+    }
+  ]
+}

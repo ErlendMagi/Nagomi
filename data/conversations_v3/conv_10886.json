@@ -1,0 +1,86 @@
+{
+  "id": "conv_10886",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 小田/富田/天野/遠山/篠原/藤村/須藤/牧野",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "小田",
+    "富田",
+    "天野",
+    "遠山",
+    "篠原",
+    "藤村",
+    "須藤",
+    "牧野"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_546 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の小田部長を歓迎しろ",
+      "en": "Welcome our newly appointed department head, Oda.",
+      "style": "Measured, authoritative opening. Crisp articulation on the directive. Calm baseline; this is standard protocol being stated. No inflection that suggests doubt.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の富田課長の出張日程を整えます",
+      "en": "Understood. I'll coordinate Sales Manager Tomita's travel schedule.",
+      "style": "Quick acknowledgment. Efficient, slightly clipped—taking notes mentally. Professional readiness. No flourish, just competent forward motion.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、技術担当の天野主任にプロジェクトを任せろ",
+      "en": "Assign the project to Amano, our lead technician.",
+      "style": "Clear directive, same steady authority. Weight on the assignment itself. Deliberate pace. Expects compliance without elaboration.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の遠山様の戦略を採用します",
+      "en": "Understood. I'll adopt the PR strategy Toyama has proposed.",
+      "style": "Confirmation without hesitation. Slight lift of confirmation on 'understood'—showing he's tracking. Professional efficiency. Moving to the next item.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、顧問の篠原様にご助言を仰げ",
+      "en": "Consult with our advisor Shinohara for guidance.",
+      "style": "Directive with respect embedded in the tone. Slightly warmer than the first—deference to a senior consultant. Still authoritative but collaborative in feel.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の藤村様の決算スケジュールを整えます",
+      "en": "Understood. I'll coordinate the accounting close schedule with Fujimura.",
+      "style": "Quick, steady confirmation. Same efficient tempo. Demonstrating he's moving through the list methodically. No stumble, no delay.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の須藤様に新人研修を任せろ",
+      "en": "Have our HR manager Sudo oversee the new employee training.",
+      "style": "Final directive of the sequence. Same measured authority. Slight completion-sense to the phrasing, but delivered with the same calm certainty as the rest.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の牧野様に契約書確認を依頼します",
+      "en": "Understood. I'll request that Legal review the contracts with Makino.",
+      "style": "Final confirmation—slightly more weighted, as this closes the exchange. Professional closure. Alert and ready for follow-up if needed. Formal completeness.",
+      "mood": "resolved"
+    }
+  ]
+}

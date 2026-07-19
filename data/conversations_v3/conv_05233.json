@@ -1,0 +1,78 @@
+{
+  "id": "conv_05233",
+  "context": "A police officer briefs a uni reporter about emergency-response data",
+  "purpose": "Teach: 救急車/アトピー/大工/言説/無力/暗闇/筆頭/狂気",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "救急車",
+    "アトピー",
+    "大工",
+    "言説",
+    "無力",
+    "暗闇",
+    "筆頭",
+    "狂気"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "竹田さん、今日は消防との連携で見えてくる救急車の出動データについて伺いたいんです。",
+      "en": "Officer Takeda, today I'd like to ask about ambulance dispatch data as seen through your coordination with the fire department.",
+      "style": "Polite, slightly nervous tone from a young university reporter framing the interview carefully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、消防から共有される統計だと、件数の筆頭はやはり高齢者の急病だね。",
+      "en": "Ah, in the statistics shared from the fire department, the top category by count is still sudden illness in the elderly.",
+      "style": "Calm, matter-of-fact delivery from a seasoned officer used to inter-agency briefings."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。子供の重いアトピーの発作で呼ばれるケースもあると聞きましたが、本当ですか?",
+      "en": "I see. I heard there are also cases where ambulances are called for severe atopy-related attacks in children — is that true?",
+      "style": "Curious, leaning-forward question from an engaged interviewer pressing for specifics."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "稀にあるよ。あと現場でよく聞くのは、建設現場で大工さんが足場から落ちる事故だ。",
+      "en": "It happens occasionally. And something we often hear about on the scene is carpenters falling from scaffolding at construction sites.",
+      "style": "Informative tone from an officer sharing concrete field observations matter-of-factly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "SNSでは「警察も救急隊も無力だ」みたいな言説が流れていますが、現場ではどう感じますか?",
+      "en": "On social media, there's talk that 'both the police and rescue crews are powerless' — how do you feel about that on the ground?",
+      "style": "Probing, slightly confrontational question testing the officer's honest reaction openly."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "正直、深夜の暗闇の現場で人を助けられなかった時は、自分の無力さを思い知らされるよ。",
+      "en": "Honestly, when we can't help someone at a scene in the dark of late night, I'm forcibly reminded of my own powerlessness.",
+      "style": "Lowered, reflective voice revealing personal weight without slipping into literary register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "…重い言葉ですね。それでも続けられる理由は何ですか?",
+      "en": "...Those are heavy words. What keeps you going despite that?",
+      "style": "Softened, respectful follow-up acknowledging the emotional moment that was just shared."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "一件でも救えれば、それでいい。狂気じみた忙しさの夜があっても、また現場に走るだけだよ。",
+      "en": "If we can save even one case, that's enough. Even on nights with an almost insane level of busyness, we just run to the next scene again.",
+      "style": "Quiet conviction, restrained but firm declaration from a weathered working professional."
+    }
+  ]
+}

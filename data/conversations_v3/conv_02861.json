@@ -1,0 +1,75 @@
+{
+  "id": "conv_02861",
+  "context": "Kenji and Ren review a survey dashboard.",
+  "purpose": "WIDENED SCENARIO: data review; vocabulary (示す/取る/語っ/ボタン/載っ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "示す",
+    "取る",
+    "語っ",
+    "ボタン",
+    "載っ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_144)",
+    "generated_at": "2026-05-29T14:39:39.757Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "アンケートの結果は、どこに載っていますか?",
+      "en": "Where are the survey results listed?",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "このボタンを押すと、グラフが出ますよ。",
+      "en": "Press this button and a graph appears.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "グラフが、傾向を示していますね。",
+      "en": "The graph shows the trend.",
+      "style": "observant young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "回答者の多くが、不満を語っていました。",
+      "en": "Many respondents voiced dissatisfaction.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その声は、報告に載せますか?",
+      "en": "Do we put those voices in the report?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、ボタン一つで、表に取り込めます。",
+      "en": "Yes, with one button, you can pull them into a table.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "データを取って、結論を示しましょう。",
+      "en": "Let's take the data and show a conclusion.",
+      "style": "resolved young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "皆が語った声を、しっかり載せましょうね。",
+      "en": "Let's firmly include everyone's voiced opinions.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

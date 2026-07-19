@@ -1,0 +1,90 @@
+{
+  "id": "conv_04280",
+  "context": "Two coworkers review office equipment vendor options",
+  "purpose": "Teach: 家電/トヨタ/メンテナンス/ポケット/オイル/サウンド/マップ/グリーン",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "家電",
+    "トヨタ",
+    "メンテナンス",
+    "ポケット",
+    "オイル",
+    "サウンド",
+    "マップ",
+    "グリーン"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_215 workflow wcx5zhi55)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "ユキさん、新しいオフィス家電の見積もり、三社から届きましたよ。",
+      "en": "Yuki-san, the quotes for the new office appliances arrived from three vendors.",
+      "style": "Polite male coworker, businesslike but approachable tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。トヨタ系列の業者さんも入っていますよね?",
+      "en": "Thank you. The Toyota-affiliated vendor is included too, right?",
+      "style": "Polite female coworker, confirming details with mild curiosity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、入ってます。あそこは定期メンテナンスの契約もセットで提示してきました。",
+      "en": "Yes, they're in. They proposed a regular maintenance contract as a set.",
+      "style": "Polite male, factual delivery with slight emphasis on the package deal."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。社用車のオイル交換とか、細かい消耗品まで含まれてるんですか?",
+      "en": "I see. Are small consumables like oil changes for the company cars included too?",
+      "style": "Polite female, probing into specifics with professional interest."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "含まれてます。会議室のサウンドシステムの調整まで一括対応してくれるそうです。",
+      "en": "Yes. They even handle tuning the conference room sound system as part of the bundle.",
+      "style": "Polite male, listing benefits with steady measured enthusiasm."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "至れり尽くせりですね。ただ、見積書が分厚くて、ポケットに入れて持ち歩くのは無理ですね。",
+      "en": "Quite thorough. Though the quote is so thick you can't carry it in a pocket.",
+      "style": "Polite female, gentle humor softening a small complaint."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ははは、確かに。サービス範囲のマップも付いていて、どこまで対応してくれるか一目でわかりますよ。",
+      "en": "Ha, true. There's even a service-coverage map showing at a glance what's included.",
+      "style": "Polite male, light laugh then returning to a confident informative pitch."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それは助かります。グリーン購入にも対応しているなら、部長への説明もしやすそうですね。",
+      "en": "That helps. If they also support green purchasing, it should be easier to explain to the manager.",
+      "style": "Polite female, building toward a decision with practical optimism."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、その点もアピールできます。資料、午後までにまとめておきましょうか?",
+      "en": "Yes, we can highlight that too. Shall I compile the materials by this afternoon?",
+      "style": "Polite male, offering to take initiative with collaborative warmth."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お願いします。じゃあ、この案で部長に提案してみましょう。",
+      "en": "Please do. Then let's propose this plan to the manager.",
+      "style": "Polite female, decisive and forward-moving collaborative tone."
+    }
+  ]
+}

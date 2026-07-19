@@ -1,0 +1,83 @@
+{
+  "id": "conv_00236",
+  "context": "Yuki has just moved into the same building as Mrs. Mori. She comes by to greet her with a small token gift.",
+  "purpose": "new-neighbor introduction — small civic ritual of moving-in greeting",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "引っ越し",
+    "挨拶",
+    "近所",
+    "始める",
+    "よろしく"
+  ],
+  "cast": [
+    "yuki_office",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_012)",
+    "generated_at": "2026-05-26T20:02:12.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "こんにちは。今度、隣に引っ越してきました。",
+      "en": "Hello. I've just moved in next door.",
+      "style": "Office woman warm formal pleasant new-neighbor opener, the careful real first-meeting audible, soft real warmth throughout delivery.",
+      "mood": "formally-pleasant"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、いらっしゃい。よろしくね。",
+      "en": "Oh, welcome. Pleased to know you.",
+      "style": "Neighbor warm gentle welcoming community-greeting, the soft real elder-graciousness audible, gentle real warmth throughout delivery.",
+      "mood": "gently-welcoming"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "佐藤と申します。これ、ご挨拶代わりに。",
+      "en": "I'm Sato. This is in place of greetings.",
+      "style": "Office woman warm formal proper introduction-with-gift, the careful real respect audible, soft real warmth throughout delivery throughout.",
+      "mood": "formally-proper"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "まあ、わざわざ。気を遣ってもらって。",
+      "en": "Oh, going out of your way. Such consideration.",
+      "style": "Neighbor warm gentle touched gracious receiving, the soft real elder-appreciation audible, gentle real warmth throughout delivery.",
+      "mood": "graciously-touched"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "これから、よろしくお願いします。",
+      "en": "From now on, please look after me.",
+      "style": "Office woman warm formal sincere extending, the soft real careful-respect audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "formally-sincere"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "若い方が来てくれて、嬉しいわ。何かあれば言ってね。",
+      "en": "I'm glad a young person came. If anything comes up, tell me.",
+      "style": "Neighbor warm gentle generous welcoming offer, the soft real elder-community audible, gentle real warmth throughout delivery throughout.",
+      "mood": "generously-welcoming"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当に、ありがとうございます。安心しました。",
+      "en": "Truly, thank you. I'm relieved.",
+      "style": "Office woman warm soft sincere relieved-gratitude, the soft real touched-warmth audible, gentle real warmth threading throughout delivery.",
+      "mood": "sincerely-relieved"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "いつでも来てちょうだいね。",
+      "en": "Come anytime.",
+      "style": "Neighbor warm gentle elder-closing, the soft real generous-openness audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-closing"
+    }
+  ]
+}

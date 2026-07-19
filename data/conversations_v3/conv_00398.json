@@ -1,0 +1,69 @@
+{
+  "id": "conv_00398",
+  "context": "Tatsuya stops at a roadside koban on his way home with too many vegetables. Takeda happens to be the officer.",
+  "purpose": "small civic chance encounter — rural-urban kindness",
+  "ambient": "koban_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "野菜",
+    "田舎",
+    "親切",
+    "元気",
+    "ありがとう"
+  ],
+  "cast": [
+    "takeda_officer",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_020)",
+    "generated_at": "2026-05-26T22:35:10.029Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "すいません、ちょっと休憩、いいですか。",
+      "en": "Excuse me, can I take a small rest?",
+      "style": "Country gruff warm formal-rural civil-asking-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gruffly-civil"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろん。長距離、お疲れさまです。",
+      "en": "Of course. Long distance — good work.",
+      "style": "Officer warm professional gentle generous-welcoming-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-generous"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "田舎から、野菜運んできまして。これ、一つどうぞ。",
+      "en": "Brought veggies from the country. Here, take one.",
+      "style": "Country gruff warm sincere generous-rural-offering-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gruffly-generous"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "えっ、いいんですか。ありがとうございます。",
+      "en": "Eh, really? Thank you very much.",
+      "style": "Officer warm soft sincere surprised-touched-warm grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-touched"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いつもお仕事、ありがとうな。元気でな。",
+      "en": "Always thanks for your work. Stay well.",
+      "style": "Country gruff warm sincere closing-civic-warm appreciating, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。気を付けて、お帰りください。",
+      "en": "Same. Take care, head home safe.",
+      "style": "Officer warm gentle sincere closing-civic-warm farewell, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-warm"
+    }
+  ]
+}

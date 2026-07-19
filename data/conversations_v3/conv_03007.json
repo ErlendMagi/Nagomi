@@ -1,0 +1,75 @@
+{
+  "id": "conv_03007",
+  "context": "Ren reports a marketing plan to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (製造/削減/賃金/取得/マーケティング) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "製造",
+    "削減",
+    "賃金",
+    "取得",
+    "マーケティング"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_151)",
+    "generated_at": "2026-05-29T15:13:22.768Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "マーケティングの新案を、まとめました。",
+      "en": "I compiled a new marketing proposal.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "費用は、削減できているかね?",
+      "en": "Are costs reduced?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "広告費を、二割削減しました。",
+      "en": "I cut ad costs by twenty percent.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "製造との連携は、取れているかね?",
+      "en": "Is coordination with manufacturing in place?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "製造部門と、データを取得しました。",
+      "en": "I acquired data with the manufacturing division.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "賃金への影響は、ないかね?",
+      "en": "Is there no impact on wages?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "賃金は、影響なく進められます。",
+      "en": "Wages can stay unaffected as we proceed.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "マーケティングで、攻めていこう。",
+      "en": "Let's go on the offensive with marketing.",
+      "style": "warm boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

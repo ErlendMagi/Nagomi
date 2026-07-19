@@ -1,0 +1,69 @@
+{
+  "id": "conv_02454",
+  "context": "Kenji and Ren review a data dashboard layout.",
+  "purpose": "WIDENED SCENARIO: data-tooling chat; UI vocabulary (固定/表示/および) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "固定",
+    "表示",
+    "検索",
+    "以下",
+    "および"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_123)",
+    "generated_at": "2026-05-29T12:47:34.257Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この表が、長くて見にくいんです。",
+      "en": "This table is long and hard to read.",
+      "style": "mildly frustrated young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "見出しを、固定するといいですよ。",
+      "en": "It helps to fix the header in place.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "固定したら、ずっと表示されますね。",
+      "en": "Once fixed, it stays displayed.",
+      "style": "pleased young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "名前および日付で、検索もできます。",
+      "en": "You can search by name and date too.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "検索すると、以下に結果が並びますか?",
+      "en": "When I search, do results line up below?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、以下の欄に表示されます。",
+      "en": "Yes, they display in the field below.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "数字および文字、両方探せて便利だ。",
+      "en": "Searching both numbers and text is handy.",
+      "style": "satisfied young colleague voice, soft warm appreciative throughout"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01558",
+  "context": "Hiroshi-elder reflects with Hiroshi-boss about an old friend who recently passed.",
+  "purpose": "Two older men sharing quiet grief.",
+  "ambient": "tatami_late_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "友達",
+    "亡くなる",
+    "想う",
+    "寂しい"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_078)",
+    "generated_at": "2026-05-27T06:31:10.776Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "昔の友達、亡くなったんや。",
+      "en": "An old friend of mine passed away.",
+      "style": "Slow, measured opening. Kansai warmth underneath quiet sorrow. Slight pause between clauses, as if gathering the weight of it. Voice settles low, with the particular gentleness of someone who has learned to hold grief without performing it.",
+      "mood": "grieving_composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "残念です、心からお悔やみを。",
+      "en": "That's truly difficult. My sincere condolences.",
+      "style": "Steady, formal but genuine. Soft attack. No rush to fill space. Each word carries its proper weight — respectful without distance. The kind of pause a person uses when they understand that some moments need room.",
+      "mood": "respectful_empathetic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "長い付き合いやった。",
+      "en": "We knew each other a long time.",
+      "style": "Reflective, almost to himself. Kansai lilt gentle. Breath underneath the words like he's holding a memory. Slow cadence. The tone of someone standing in the past for a moment, not rushing back.",
+      "mood": "reflective_tender"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "思い出、たくさんあるでしょう。",
+      "en": "I imagine you have many memories together.",
+      "style": "Soft, inviting without pressing. A quiet affirmation — the voice of someone who knows that asking permission to grieve is sometimes necessary. Warm but not intrusive. Opens space for him to speak if he wants to.",
+      "mood": "gently_inviting"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "寂しいなぁ、ほんま。",
+      "en": "It's lonely. Really is.",
+      "style": "The admission drops quiet. Kansai warmth, but stripped down to honesty. Small exhale before the second clause. No apology in it — just the plain weight of missing someone. Trails gently, like an echo.",
+      "mood": "lonely_honest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お話、聞かせてください。",
+      "en": "Please, tell me about them.",
+      "style": "Gentle imperative. Not a demand — an honoring. Warm but clear. Slight lean into the word 'tell,' as if making space at the table. The voice of someone who knows that bearing witness is sometimes the greatest kindness.",
+      "mood": "warm_witnessing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おおきに、聞いてくれて。",
+      "en": "Thank you for listening.",
+      "style": "Kansai gratitude, soft and genuine. Slight waver on the opening, steadying through. The particular tenderness of an elder thanking someone for showing up. No performance — just recognition of a small, profound kindness.",
+      "mood": "grateful_touched"
+    }
+  ]
+}

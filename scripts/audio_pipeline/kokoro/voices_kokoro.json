@@ -1,0 +1,29 @@
+{
+  "_comment": "22-char Kokoro mapping. JP: 4 female voices + 1 male (jm_kumo) differentiated by blend+speed. EN: unique voice per char. Placeholder tier — replaced by paid TTS later (see audio_engine_ledger).",
+
+  "hina_child":        { "jp": { "blend": [["jf_nezumi", 1.0]], "speed": 1.15 },                      "en": { "blend": [["af_sky", 1.0]], "speed": 1.1 } },
+  "sho_child":         { "jp": { "blend": [["jm_kumo", 0.7], ["jf_nezumi", 0.3]], "speed": 1.15 },    "en": { "blend": [["af_river", 1.0]], "speed": 1.1 } },
+  "sakura_teen":       { "jp": { "blend": [["jf_nezumi", 0.6], ["jf_alpha", 0.4]], "speed": 1.05 },   "en": { "blend": [["bf_isabella", 1.0]], "speed": 1.05, "lang": "en-gb" } },
+  "riku_teen":         { "jp": { "blend": [["jm_kumo", 0.8], ["jf_nezumi", 0.2]], "speed": 1.05 },    "en": { "blend": [["am_puck", 1.0]], "speed": 1.05 } },
+  "yuki_office":       { "jp": { "blend": [["jf_alpha", 1.0]], "speed": 1.0 },                        "en": { "blend": [["af_heart", 1.0]], "speed": 1.0 } },
+  "kenji_office":      { "jp": { "blend": [["jm_kumo", 1.0]], "speed": 1.0 },                         "en": { "blend": [["am_michael", 1.0]], "speed": 1.0 } },
+  "aoi_barista":       { "jp": { "blend": [["jf_tebukuro", 1.0]], "speed": 1.05 },                    "en": { "blend": [["af_bella", 1.0]], "speed": 1.05 } },
+  "daichi_kansai":     { "jp": { "blend": [["jm_kumo", 0.9], ["jf_tebukuro", 0.1]], "speed": 1.1 },   "en": { "blend": [["am_fenrir", 1.0]], "speed": 1.05 } },
+  "mei_romantic":      { "jp": { "blend": [["jf_gongitsune", 1.0]], "speed": 0.9 },                   "en": { "blend": [["bf_emma", 1.0]], "speed": 0.9, "lang": "en-gb" } },
+  "ren_uni":           { "jp": { "blend": [["jm_kumo", 0.85], ["jf_alpha", 0.15]], "speed": 0.95 },   "en": { "blend": [["bm_george", 1.0]], "speed": 0.95, "lang": "en-gb" } },
+  "hiroshi_boss":      { "jp": { "blend": [["jm_kumo", 1.0]], "speed": 0.85 },                        "en": { "blend": [["am_onyx", 1.0]], "speed": 0.9 } },
+  "yumiko_mom":        { "jp": { "blend": [["jf_alpha", 0.5], ["jf_gongitsune", 0.5]], "speed": 0.95 }, "en": { "blend": [["af_sarah", 1.0]], "speed": 0.95 } },
+  "ryosuke_dad":       { "jp": { "blend": [["jm_kumo", 0.95], ["jf_gongitsune", 0.05]], "speed": 0.9 }, "en": { "blend": [["bm_fable", 1.0]], "speed": 0.95, "lang": "en-gb" } },
+  "naoko_aunt":        { "jp": { "blend": [["jf_tebukuro", 0.6], ["jf_alpha", 0.4]], "speed": 1.1 },  "en": { "blend": [["af_nicole", 1.0]], "speed": 1.05 } },
+  "tatsuya_country":   { "jp": { "blend": [["jm_kumo", 1.0]], "speed": 0.78 },                        "en": { "blend": [["am_eric", 1.0]], "speed": 0.85 } },
+  "asuka_teacher":     { "jp": { "blend": [["jf_alpha", 0.7], ["jf_tebukuro", 0.3]], "speed": 0.95 }, "en": { "blend": [["bf_alice", 1.0]], "speed": 0.95, "lang": "en-gb" } },
+  "sachiko_grandma":   { "jp": { "blend": [["jf_gongitsune", 1.0]], "speed": 0.8 },                   "en": { "blend": [["bf_lily", 1.0]], "speed": 0.85, "lang": "en-gb" } },
+  "goro_grandpa":      { "jp": { "blend": [["jm_kumo", 0.9], ["jf_gongitsune", 0.1]], "speed": 0.72 }, "en": { "blend": [["am_liam", 1.0]], "speed": 0.8 } },
+  "mrs_mori_neighbor": { "jp": { "blend": [["jf_tebukuro", 0.5], ["jf_gongitsune", 0.5]], "speed": 1.05 }, "en": { "blend": [["af_aoede", 1.0]], "speed": 1.0 } },
+  "hiroshi_elder":     { "jp": { "blend": [["jm_kumo", 0.85], ["jf_gongitsune", 0.15]], "speed": 0.82 }, "en": { "blend": [["am_echo", 1.0]], "speed": 0.85 } },
+  "takeda_officer":    { "jp": { "blend": [["jm_kumo", 0.95], ["jf_alpha", 0.05]], "speed": 0.9 },    "en": { "blend": [["am_adam", 1.0]], "speed": 0.9 } },
+  "saito_doctor":      { "jp": { "blend": [["jf_alpha", 1.0]], "speed": 0.9 },                        "en": { "blend": [["af_kore", 1.0]], "speed": 0.9 } },
+
+  "_narrator_en_f":    { "jp": { "blend": [["jf_alpha", 1.0]], "speed": 0.95 },                       "en": { "blend": [["af_heart", 1.0]], "speed": 0.95 } },
+  "_narrator_en_m":    { "jp": { "blend": [["jm_kumo", 1.0]], "speed": 0.95 },                        "en": { "blend": [["am_michael", 1.0]], "speed": 0.95 } }
+}

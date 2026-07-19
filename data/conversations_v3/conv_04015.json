@@ -1,0 +1,78 @@
+{
+  "id": "conv_04015",
+  "context": "A uni student debates current affairs with his teacher",
+  "purpose": "Teach: 官房/省庁/起訴/告発/追及/朝刊/闘い/難民",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "官房",
+    "省庁",
+    "起訴",
+    "告発",
+    "追及",
+    "朝刊",
+    "闘い",
+    "難民"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、今朝の朝刊、もう読まれましたか。官房長官の会見、ひどい内容でしたよ。",
+      "en": "Sensei, did you read this morning's paper? The Chief Cabinet Secretary's press conference was awful.",
+      "style": "Polite student opening a heated political debate"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、読みました。野党が責任を追及しているけれど、結局うやむやになるんじゃないかしら。",
+      "en": "Yes, I read it. The opposition is pursuing responsibility, but I wonder if it'll just fizzle out.",
+      "style": "Calm teacher responding with measured weary skepticism"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "でも今回は内部告発まで出てるんです。さすがに起訴は避けられないと思うんですが。",
+      "en": "But this time there's even a whistleblower. Surely indictment can't be avoided, I think.",
+      "style": "Earnest student pushing his argument forward firmly"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "甘いわよ。省庁ぐるみでもみ消す可能性だってある。長年の闘いになるでしょうね。",
+      "en": "You're naive. The ministries could collectively cover it up. It'll become a long battle.",
+      "style": "Teacher cautioning student with weary jaded realism"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それと、難民認定の問題も気になっていて。日本は受け入れが少なすぎませんか。",
+      "en": "Also, the refugee recognition issue bothers me. Doesn't Japan accept far too few?",
+      "style": "Shifting topic with genuine personal moral concern"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "たしかに難しい問題ね。制度自体を見直さないと、何も変わらないわ。",
+      "en": "That really is a difficult issue. Without reviewing the system itself, nothing will change.",
+      "style": "Teacher acknowledging complexity thoughtfully and quite carefully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "卒論でこのテーマを扱いたいんです。先生、ご指導頂けないでしょうか。",
+      "en": "I want to address this theme in my thesis. Sensei, could I receive your guidance?",
+      "style": "Humble formal request to mentor for thesis"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん了承します。ただし、感情論ではなく、事実とデータで論じてくださいね。",
+      "en": "Of course I accept. However, please argue with facts and data, not just emotion.",
+      "style": "Teacher granting permission with firm scholarly condition"
+    }
+  ]
+}

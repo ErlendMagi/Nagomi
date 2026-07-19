@@ -1,0 +1,86 @@
+{
+  "id": "conv_07988",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 埋まっ/労組/貸出/定休/代え/所存/営ん/取調べ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "埋まっ",
+    "労組",
+    "貸出",
+    "定休",
+    "代え",
+    "所存",
+    "営ん",
+    "取調べ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室、機材で埋まってないか?",
+      "en": "Ren — is your lab getting buried under equipment?",
+      "style": "Measured, direct inquiry. Not accusing — genuinely checking in. The tone of someone who asks because they've seen this pattern before. Slight pause after the name, letting it land as a point of attention.",
+      "mood": "observant_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。労組について経済学の論文を読みました",
+      "en": "Yes, sir. I've been reading economics papers on labor unions.",
+      "style": "Straightforward, slightly defensive in its clarity. Eager to show he's been working. Speaks at a steady, careful pace — each word deliberate, nothing wasted. The earnestness of proving oneself.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、図書館の貸出制度、活用しろ",
+      "en": "Then use the library's lending system. Don't just hoard everything in the lab.",
+      "style": "Practical, not unkind. A quick jab of wisdom — brief enough to sting a little but grounded in real advice. The tone of a mentor who expects the student will actually listen.",
+      "mood": "firm_guiding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。教授の定休日、把握しております",
+      "en": "Understood, sir. I'm aware of your office hours.",
+      "style": "Formal, respectful. Almost rehearsed — the careful speech of someone trying to absorb and implement feedback immediately. Slightly stiff in its precision, but genuine.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究テーマを代えての挑戦も検討しろ",
+      "en": "And consider switching your research focus. A fresh angle might serve you better.",
+      "style": "Deliberate, calm authority. Not a suggestion — a gentle insistence. Eyes steady on him. The words land with weight because they're spoken without pressure.",
+      "mood": "wisely_directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、博士取得まで頑張る所存です",
+      "en": "Yes, sir. I'm committed to earning my doctorate.",
+      "style": "Quiet conviction underneath the formality. A slight lift in the voice — determination without arrogance. He means it. Sits straighter as he says it.",
+      "mood": "determined_sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究を続けて営んでいけ",
+      "en": "Good. Keep pushing forward with your research.",
+      "style": "Final affirmation. Warm but brief — the tone of dismissal that is also encouragement. A small nod in the voice. Not effusive, but unmistakably approving.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験データの内部取調べを進めております",
+      "en": "Yes, sir. I'm working through the experimental data now.",
+      "style": "Quiet, focused. The closer — his voice settles into the work itself. Steady, almost meditative. Not rushed, but purposeful. A man at work.",
+      "mood": "focused_resolute"
+    }
+  ]
+}

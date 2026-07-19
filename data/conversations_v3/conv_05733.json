@@ -1,0 +1,65 @@
+{
+  "id": "conv_05733",
+  "context": "A doctor explains addiction treatment to a reporter",
+  "purpose": "Teach: 原文/カウンセラー/麻薬/和解/不倫/復讐/無罪/麻生",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "原文",
+    "カウンセラー",
+    "麻薬",
+    "和解",
+    "不倫",
+    "復讐",
+    "無罪",
+    "麻生"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "麻薬依存の治療、カウンセラーとの連携が鍵です。",
+      "en": "Drug addiction treatment depends above all on coordinated care with counselors.",
+      "style": "Clear, measured opening. No rush. Clinical but not cold — the steady voice of someone who has said this to many students. Even weight on each clause.",
+      "mood": "steady_didactic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家族間の不倫や、復讐感情の蓄積もあるんでしょうね。",
+      "en": "There's often family infidelity underneath, and resentment that builds up over time.",
+      "style": "Careful, intellectually engaged. Lean forward slightly — testing the waters, not lecturing. Genuine curiosity about whether the doctor agrees. Pause before 'accumulate'.",
+      "mood": "thoughtful_probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。和解までの過程、長期にわたります。",
+      "en": "Yes. And the path to reconciliation — that takes months, sometimes years.",
+      "style": "Nodding affirmation, then settling in. Slightly slower on the second half. The weight of experience without heaviness. Quiet authority.",
+      "mood": "knowing_patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "裁判で無罪となった患者、その後の追跡もありますか。",
+      "en": "Do you keep track of patients after they're acquitted in court?",
+      "style": "Leaning into genuine interest. Respectful pause before the question. Ren asking like he's building on what she's said, not testing her.",
+      "mood": "engaged_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。原文の医療記録は、麻生弁護士経由で扱います。",
+      "en": "Yes. The original medical records are processed through their attorney — typically Aso's office in these cases.",
+      "style": "Professional closure. Clinical precision without coldness. Slight nod to the procedural detail. Even breath, no hesitation. Closing a thought cleanly.",
+      "mood": "informative_composed"
+    }
+  ]
+}

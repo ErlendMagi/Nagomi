@@ -1,0 +1,86 @@
+{
+  "id": "conv_10047",
+  "context": "Two managers chat",
+  "purpose": "Teach: 可動/一団/電通/テコ/使節/敷設/全貌/国内線",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "可動",
+    "一団",
+    "電通",
+    "テコ",
+    "使節",
+    "敷設",
+    "全貌",
+    "国内線"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_504 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "可動式パーティションで会議室を分けましょう",
+      "en": "Let's divide up the meeting rooms with movable partitions.",
+      "style": "Efficient, matter-of-fact. Slight forward lean in the voice. Snappy attack on the opening word. Delegating without a question mark — this is how we'll proceed.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人を一団でオリエンします",
+      "en": "Got it. I'll orient the new hires as a group.",
+      "style": "Affirming and immediate. A quick nod in the voice. Smooth, capable tone. No hesitation — he's already picturing the logistics.",
+      "mood": "compliant_ready"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "電通とのキャンペーンを企画しましょう",
+      "en": "Let's get the campaign with Dentsu planned out.",
+      "style": "Brisk authority. Clean attack on 'Let's.' Purposeful pacing. She's moving down a checklist with confidence, not seeking agreement.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業にテコ入れの予算を確保します",
+      "en": "Yes. I'll secure the budget boost for sales.",
+      "style": "Clipped, professional. Slight vocal dip on 'yes' — acknowledging before pivoting to his action. Efficient and assured.",
+      "mood": "engaged_efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "海外使節への接待を計画しましょう",
+      "en": "Let's plan the reception for the overseas delegation.",
+      "style": "Poised, composed. Steady pacing. Formal register sits lightly in her voice — this is important but she's handled it before.",
+      "mood": "directive_composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ネット敷設工事の業者を選定します",
+      "en": "Yes. I'll select the vendor for the network infrastructure work.",
+      "style": "Straightforward and capable. No fumbling. Each phrase lands evenly. He's working through the to-do list with quiet competence.",
+      "mood": "assured_efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "プロジェクトの全貌を共有しましょう",
+      "en": "Let's make sure everyone's aligned on the full project scope.",
+      "style": "Measured authority. Deliberate pace on 'full project scope' — emphasizing the stakes. Clear-eyed, not rushed. She's ensuring comprehension.",
+      "mood": "directive_deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。国内線優待制度を社員に案内します",
+      "en": "Yes. I'll get the domestic flight privileges information out to the staff.",
+      "style": "Closing note. A touch lighter than the previous lines — still professional, but with the ease of wrapping up. Warm without losing focus.",
+      "mood": "compliant_closing"
+    }
+  ]
+}

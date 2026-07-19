@@ -1,0 +1,86 @@
+{
+  "id": "conv_06772",
+  "context": "A doctor discusses a complex case",
+  "purpose": "Teach: 過失/匹敵/八木/出血/究明/受診/遮断/一刻",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "過失",
+    "匹敵",
+    "八木",
+    "出血",
+    "究明",
+    "受診",
+    "遮断",
+    "一刻"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さん、過失による事故で、運ばれてこられました。",
+      "en": "Ren — the patient came in with injuries from a negligence-related accident.",
+      "style": "Direct medical briefing. Steady, unhurried pace. Clinical tone without coldness. Protective distance maintained — the facts first, the human layer underneath.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症例、過去の大事故に、匹敵するレベルですね。",
+      "en": "The severity matches what we'd see in major trauma cases from the past.",
+      "style": "Thoughtful intake of breath. Leaning into genuine intellectual interest. Not performing curiosity — actually tracking the complexity. Slight pause before the comparison lands.",
+      "mood": "intellectually_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。八木先生、麻酔のスペシャリストとして、対応しております。",
+      "en": "Yes. Yagi-sensei is managing the case in her capacity as an anesthesia specialist.",
+      "style": "Confirmation with quiet authority. Even tone — naming expertise without fanfare. The patience of someone who's explained this many times and will explain it again.",
+      "mood": "steady_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "術中、出血コントロール、難しいケースだったんですね。",
+      "en": "Bleeding control during surgery — it was a difficult case to manage.",
+      "style": "Slower, more careful. Not quite a question, but open-ended. The weight of 'difficult' settles. Recognition without complaint. Soft tone, like turning something over in your hands.",
+      "mood": "soberly_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。原因究明のため、検査、複数回、実施しました。",
+      "en": "Yes. We ran multiple diagnostic rounds to determine the underlying cause.",
+      "style": "Procedural certainty. Even pace, no rushing. The competence of someone who followed protocol without shortcuts. Slight emphasis on 'multiple' — not guessing, investigating.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "初期段階で、受診されていれば、もっと、軽症だったかもしれませんね。",
+      "en": "If he'd presented earlier, at the initial stage, the injury might have been less severe.",
+      "style": "Gentle conditional. Not accusatory — observational. The 'if' is soft, the 'might have been' trails slightly. Clinical regret without blame.",
+      "mood": "wistful_clinical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。出血を、薬で、遮断する技術、進歩していますね。",
+      "en": "Yes. The pharmaceutical techniques for controlling hemorrhage have come a long way.",
+      "style": "Quiet note of qualified hope. Measured but genuine — not sales pitch, but acknowledgment of real progress. The tone of someone who sees both what's still hard and what's getting better.",
+      "mood": "cautiously_hopeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一刻を争う場面、医療現場、緊張感、すごいですよね。",
+      "en": "When every second counts — the intensity in the medical setting, it's something else entirely.",
+      "style": "Final observation, almost to himself. Awe without dramatizing. Soft landing — the recognition that he's witnessed something he didn't expect to feel. Trailing off with genuine respect.",
+      "mood": "awed_humbled"
+    }
+  ]
+}

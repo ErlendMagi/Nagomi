@@ -1,0 +1,78 @@
+{
+  "id": "conv_03204",
+  "context": "End of day: tallying sales and restocking",
+  "purpose": "Close the shop; teach 匹/ワン/在庫/もつ/だめ/とれ/我慢/垢",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "匹",
+    "ワン",
+    "在庫",
+    "もつ",
+    "だめ",
+    "とれ",
+    "我慢",
+    "垢"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "今日は子犬、二匹も決まったわ。",
+      "en": "Two puppies found homes today.",
+      "style": "satisfied Kansai owner pleased with the day"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "よかったですね。ワンちゃんたち幸せそう。",
+      "en": "Wonderful. The pups looked happy.",
+      "style": "warm helper sharing in the good feeling"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "フードの在庫、だいぶ減ったな。",
+      "en": "The food stock has dropped a lot.",
+      "style": "observant owner checking the shelves, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "週末までもつか微妙ですね。",
+      "en": "Iffy whether it lasts till the weekend.",
+      "style": "practical helper flagging a supply risk"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "発注せな。切らしたらだめや。",
+      "en": "Got to order more. Running out is no good.",
+      "style": "decisive Kansai owner making the call"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "展示の首輪、いくつかとれてました。",
+      "en": "Some of the display collars had come off.",
+      "style": "attentive helper reporting a small issue"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "直しとくわ。お客さん来るまで我慢の作業や。",
+      "en": "I will fix them. Tedious work till customers come.",
+      "style": "dutiful owner resigned to the chore"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ケージの垢も拭いておきますね。",
+      "en": "I will wipe the grime off the cages too.",
+      "style": "conscientious helper finishing the cleanup, delivery emotionally grounded and unforced"
+    }
+  ]
+}

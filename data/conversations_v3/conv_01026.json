@@ -1,0 +1,76 @@
+{
+  "id": "conv_01026",
+  "context": "Aoi visits a beauty salon and the stylist is Yuki's friend.",
+  "purpose": "two-women beauty-salon exchange",
+  "ambient": "salon_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "美容",
+    "髪型",
+    "一緒",
+    "楽しい",
+    "可愛い"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_052)",
+    "generated_at": "2026-05-27T03:28:17.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あおいちゃん、美容室、来てくれた！",
+      "en": "Aoi-chan, you came to the salon!",
+      "style": "Warm, surprised delight. Soft opening that catches itself mid-sentence. Genuine pleasure at seeing her. Light, genuine smile audible in the voice.",
+      "mood": "warm_delighted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、髪型、変えたい。",
+      "en": "Yeah, I wanted to change my hairstyle.",
+      "style": "Thoughtful, a little vulnerable. Not defensive—just admitting something she's been thinking about. Steady, genuine tone. Slightly hesitant, like she's deciding as she speaks.",
+      "mood": "sincere_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "可愛い感じ、似合いそう。",
+      "en": "I think a cute style would really suit you.",
+      "style": "Genuine reassurance, not flattery. Warm and matter-of-fact. A beat of real observation before speaking. The tone of someone who actually means what she's saying.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "短めに、して。",
+      "en": "Shorter would be nice.",
+      "style": "Quiet decision-making. Light, specific. Not asking permission—stating a preference she's settled on. Soft but clear.",
+      "mood": "calm_decided"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解、楽しい時間に、しよう。",
+      "en": "Okay, let's make this a really fun time together.",
+      "style": "Gentle commitment. Warm opening. Small pause before the second part, like she's meaning it sincerely. Tender without being precious. The tone of someone settling in.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "一緒に、過ごせる、嬉しい。",
+      "en": "I'm so happy we get to spend time together like this.",
+      "style": "Soft, genuine gratitude. Slight vulnerability underneath—like she doesn't take these moments for granted. Warm and present. Quiet sincerity on the last phrase.",
+      "mood": "grateful_moved"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "友達、価格、特別ね。",
+      "en": "Friend discount, of course.",
+      "style": "Warm, gentle playfulness. Light tease with no edge. Casual certainty. The tone of someone stating something obvious and kind at once.",
+      "mood": "playful_warm"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08152",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 洗脳/疾病/空想/部族/拷問/国営/改変/公営",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗脳",
+    "疾病",
+    "空想",
+    "部族",
+    "拷問",
+    "国営",
+    "改変",
+    "公営"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_409 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、カルト団体による洗脳被害を捜査しております",
+      "en": "We're investigating cases of brainwashing and psychological manipulation connected to cult activity.",
+      "style": "Measured, official opening. Clear diction on key terms. Professional distance without coldness. Steady eye contact. The tone of someone who has said this before and means it.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察も希少疾病の影響を考慮されたんですね",
+      "en": "So the department took rare medical conditions into account with this case, then?",
+      "style": "Thoughtful, slightly surprised. Gentle question—not challenging authority. Slight tilt upward at the end, genuine curiosity. Ren testing whether he understands correctly, not testing the officer.",
+      "mood": "curious_impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の空想的な供述を慎重に扱います",
+      "en": "We handle the suspect's statements with considerable care, particularly when they lack corroboration.",
+      "style": "Formal but not stiff. Emphasize 'handle with care'—measured cadence. This is procedure, not improvisation. Calm authority. A line that's been refined through many briefings.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、特定部族向けの偏見問題を警察、対応されたんですね",
+      "en": "So the department was thorough about addressing potential prejudice toward specific communities in this investigation?",
+      "style": "Genuine recognition in his voice. Softer than the last question—almost a moment of relief that the process included this. Slight pause before speaking, choosing words with care. Respect underneath.",
+      "mood": "relieved_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者への拷問は絶対に行いません",
+      "en": "We absolutely do not use coercion or torture under any circumstances.",
+      "style": "Firm but not defensive. The word 'absolutely' carries quiet conviction. This is non-negotiable ground. Professional clarity without aggression. Eye-level steady.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、国営インフラへの攻撃を警察、防いだんですね",
+      "en": "So you prevented an attack on state infrastructure through this investigation?",
+      "style": "Ren processing the scale of what's being described. Slight awe underneath—not theatrical, just real. Careful phrasing, almost as if testing the weight of the statement. Pause before 'prevented.'",
+      "mood": "awed_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、証拠の改変は厳しく取り締まります",
+      "en": "We enforce strict penalties for evidence tampering in all cases.",
+      "style": "Unwavering procedural tone. The word 'strict' has a slight emphasis—not angry, just immovable. This is the line of work itself, stated plainly. The composure of someone upholding standards.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、公営住宅での不正利用を警察、摘発されたんですね",
+      "en": "So the investigation caught illegal occupancy in the public housing units, then?",
+      "style": "Last question—slightly quieter, a note of completion. Ren summarizing what he's heard. Less surprised now, more reflective. Trailing softly, like he's piecing the whole picture together.",
+      "mood": "thoughtful_close"
+    }
+  ]
+}

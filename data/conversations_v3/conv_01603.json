@@ -1,0 +1,61 @@
+{
+  "id": "conv_01603",
+  "context": "Mrs. Mori shares her late husband's favorite poem with Sakura.",
+  "purpose": "Widow opening up to young writer tenderly.",
+  "ambient": "tatami_quiet_kettle",
+  "sound_effects": [],
+  "target_vocab": [
+    "詩",
+    "言葉",
+    "亡くなる",
+    "想う"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_080)",
+    "generated_at": "2026-05-27T06:43:51.775Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "夫が好きやった詩、聞く?",
+      "en": "Would you like to hear the poem my husband loved?",
+      "style": "Gentle opening, almost tentative. Warm but watchful — gauging if this moment is welcome. Soft exhale before speaking, like she's been thinking about this. No performance, just offering something precious.",
+      "mood": "tender_vulnerable"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、ぜひ。",
+      "en": "Yes, please.",
+      "style": "Quiet, immediate assent. Respectful attention settling in. No hesitation — she recognizes this is a gift being offered. Soft and present.",
+      "mood": "attentive_honor"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ、短いけど深い言葉やの。",
+      "en": "It's short, but the words run deep.",
+      "style": "Small, almost surprised laugh — like she's seeing it fresh again. Warm affection in the delivery. Pride in her husband's taste, not in performance. Pace slows slightly on 'deep'.",
+      "mood": "fond_wistful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お聞かせください。",
+      "en": "I'm listening.",
+      "style": "Quiet, steady, fully present. No fanfare. Just clear permission and attention. The kind of listening that makes space for something that matters.",
+      "mood": "reverent_still"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "想い出すたびに、温かいわ。",
+      "en": "Every time I remember it — it's warm.",
+      "style": "Soft, almost surprised by her own emotion. Tender recognition of what the memory still gives her. Slight tremor of age and affection, but held steady. Pace unhurried, like she's savoring the warmth as she speaks.",
+      "mood": "grateful_warmth"
+    }
+  ]
+}

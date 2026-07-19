@@ -1,0 +1,185 @@
+{
+  "id": "conv_00102",
+  "context": "Sachiko, her adult daughter Yumiko, and her five-year-old grandson Sho are at the kitchen table on a quiet Sunday. Sachiko has news. The whole afternoon turns on it.",
+  "purpose": "three-generation extended scene — health news, three layers of reaction",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "心配",
+    "大丈夫",
+    "一緒",
+    "大切",
+    "家族",
+    "元気"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Extended (21-30)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ゆみちゃん、しょうくん、ちょっと、座って。",
+      "en": "Yumi-chan, Sho-kun — sit down for a moment.",
+      "style": "Soft, careful summoning. The words arrive gently but with quiet intention. Kitchen quiets. No rush in the delivery.",
+      "mood": "tender_serious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん…何、お母さん。",
+      "en": "Mm — what is it, Mom?",
+      "style": "Reads the air instantly. Careful, composed. Adult-voice activates. A question that already suspects weight.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…(climbs into chair, quiet)",
+      "en": "(climbs into chair, quiet)",
+      "style": "A real pause. Child moves with unusual stillness. Reads the adults' faces and settles — observant, not quite understanding but knowing something matters.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "こないだ、検査受けてね。…ちょっと、見つかったんよ。",
+      "en": "I had a test done the other day. …Something — was found.",
+      "style": "Steady release, voice soft but clear. No padding. Just the fact, delivered with mother's composure. A small breath before continuing.",
+      "mood": "composed_grave"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…(beat)どんな、検査？",
+      "en": "…(beat) What kind of test?",
+      "style": "Adult voice locked in. Controlled intake of breath. Asks the necessary question first — everything else can wait.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に、心配しすぎなくて、大丈夫よ。",
+      "en": "Truly — don't worry too much. It's okay.",
+      "style": "Mother-soothing first, news-delivering second. Reassurance in the tone, not in false brightness. Unhurried.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、痛い？",
+      "en": "Grandma — does it hurt?",
+      "style": "Small, honest question — voice carries the full weight of five-year-old directness. Cuts through to what matters. Genuine worry, no softening.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "(small laugh) 痛くないよ、しょうくん。本当に。",
+      "en": "(small laugh) No, Sho-kun. It doesn't hurt. Really.",
+      "style": "A real, warm laugh — caught in the throat just slightly. Reaches over and pats his hand. Reassurance made tangible.",
+      "mood": "warm_relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん、ちゃんと教えて。",
+      "en": "Mom — tell me properly.",
+      "style": "Firm. Adult line. Voice steady but carries tension underneath — tight at the edges. No more softening.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。…小さいの、見つかったの。今、経過観察。",
+      "en": "Mm. …Something small — was found. We're just monitoring it now.",
+      "style": "Clinical but soft. Chooses words carefully. Delivers facts with a mother's understanding of what her daughter needs to hear.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…一緒に、病院、行く。次は、必ず。",
+      "en": "…I'm going with you. Next time — I will.",
+      "style": "Firm commitment. Voice catches slightly on the second part. Quiet steel underneath. Not a suggestion.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いいの、いいの。あなた、仕事、本当に大変なのに。",
+      "en": "It's fine, it's fine. You — work is really hard for you.",
+      "style": "Gentle protest, mother-style. Genuine concern underneath her own reassurance. Not trying to convince, just being true.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "仕事、関係ない。時間、絶対作る。",
+      "en": "Work doesn't matter. I'll make the time — absolutely.",
+      "style": "Overrule, delivered quietly. Voice steady. This is not negotiable. Sets it down like fact.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "私も、行く。",
+      "en": "I'm going too.",
+      "style": "Small, clear voice. Quiet certainty without hesitation. Child offers himself with no performance, just presence.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "しょうくん…(voice softens)ありがとう。",
+      "en": "Sho-kun… (voice softens) thank you.",
+      "style": "Catch in the voice. Real emotion breaking through composure. A grandmother undone by a small boy's offer. Genuine, not performed.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族、みんなで、ちゃんとやろ。本当に。",
+      "en": "Family — all of us — let's do this properly. Really.",
+      "style": "Grounding line. Reaches for both their hands. Voice steady. Pulls them together with quiet authority. The anchor settles.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "…(small breath)ありがとう、二人とも。",
+      "en": "…(small breath) Thank you — both of you.",
+      "style": "Real exhale. Voice steadier than before. A moment of release. Quieter now, but held.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、私の絵、見る？元気になるから。",
+      "en": "Grandma — want to see my drawing? It'll make you feel better.",
+      "style": "Small, unexpected pivot. Pure kid-warmth without trying. Offers what he has, simply. Energy begins to shift.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "見る、見る。本当に、見たい。",
+      "en": "I do — I really do.",
+      "style": "Small, real laugh underneath. Voice brightens just slightly. Recognition of what the boy is offering. Gratitude and warmth mixed together.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん、一緒に、お茶でも入れる？",
+      "en": "Mom — should I make some tea? We could do it together.",
+      "style": "Practical kindness. Stands — unhurried, present. Reaches for the ordinary as a way to hold the day. Attentive and steady.",
+      "mood": "gentle"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。…一緒に、ね。",
+      "en": "Mm. …Together — yes.",
+      "style": "Small, quiet line. Agreement that contains everything. The whole weight of the afternoon held in two words. Softness returned.",
+      "mood": "settled"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "(running for the drawings)",
+      "en": "(running for the drawings)",
+      "style": "A real beat. Child's energy re-channels the room. Movement restores breath. Real sound of small feet, full of purpose.",
+      "mood": "hopeful"
+    }
+  ]
+}

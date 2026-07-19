@@ -1,0 +1,84 @@
+{
+  "id": "conv_03586",
+  "context": "A ward officer reads out a formal announcement about a November ceremony",
+  "purpose": "Teach: 市町村/にて/べく/かかわら/におきまして/某/いえる/１１月",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市町村",
+    "にて",
+    "べく",
+    "かかわら",
+    "におきまして",
+    "某",
+    "いえる",
+    "１１月"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_180 workflow w1fqcqim4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "皆様、本日１１月の式典につきまして、ご案内申し上げます。",
+      "en": "Everyone, today I would like to inform you about the November ceremony.",
+      "style": "Formal civic register opening announcement with elevated polite forms"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、よろしくお願いします。場所はどちらになりますか。",
+      "en": "Yes, thank you. Where will it be held?",
+      "style": "Polite middle-aged father responding respectfully to a ward official"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "区民会館にて執り行います。近隣の各市町村からも代表者をお招きしております。",
+      "en": "It will be conducted at the ward citizens' hall. We have invited representatives from each neighboring municipality as well.",
+      "style": "Formal officer voice specifying venue and scope of invited attendees"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほど。ある有名な先生も来られるという噂を聞きましたが、本当でしょうか。",
+      "en": "I see. I heard a rumor that a certain famous teacher will also attend — is that true?",
+      "style": "Curious citizen inquiring about notable guests in a mildly indirect polite tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、某大学の名誉教授をお迎えし、地域の絆を深めるべく特別講演を予定しております。",
+      "en": "Yes, we will welcome an emeritus professor from a certain university, and a special lecture is planned in order to deepen community bonds.",
+      "style": "Highly formal bureaucratic confirmation tying the guest to the civic purpose"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "それは楽しみですね。天候にかかわらず開催されるのでしょうか。",
+      "en": "That sounds wonderful. Will it be held regardless of the weather?",
+      "style": "Practical question from a concerned father in polite conversational form"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、雨天にかかわらず実施いたしますので、ご安心ください。",
+      "en": "Yes, it will be carried out regardless of rain, so please rest assured.",
+      "style": "Reassuring formal reply directly addressing the weather concern"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ありがとうございます。家族にとっても貴重な行事といえると思います。",
+      "en": "Thank you. I think it can truly be called a precious event for our family as well.",
+      "style": "Warm sincere closing from a father expressing personal appreciation"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本式典におきましては、皆様のご参加を心よりお待ち申し上げております。",
+      "en": "At this ceremony, we sincerely look forward to everyone's participation.",
+      "style": "Formal civic closing with elevated humble forms welcoming attendance"
+    }
+  ]
+}

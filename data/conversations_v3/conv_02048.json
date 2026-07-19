@@ -1,0 +1,79 @@
+{
+  "id": "conv_02048",
+  "context": "Hina-young struggles with a homework problem; calls Ren for help.",
+  "purpose": "Teen seeking academic help from young adult mentor.",
+  "ambient": "phone_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "パソコン",
+    "使っ",
+    "設定",
+    "うまく",
+    "まったく",
+    "戻る",
+    "違っ",
+    "おら"
+  ],
+  "cast": [
+    "hina_child",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_103)",
+    "generated_at": "2026-05-27T13:02:24.898Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "蓮くん、パソコン、うまく動かない!",
+      "en": "Ren, the computer won't work right!",
+      "style": "Urgent and slightly panicked. Quick breath intake. Assumes he'll understand the crisis immediately. Sunshine-bright even in frustration — a kid who trusts adults to fix things.",
+      "mood": "frustrated_trusting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "まったく動かないんですか?",
+      "en": "It won't start up at all, or just running slowly?",
+      "style": "Calm, clarifying question. Soft and careful — not condescending. Leans in mentally to understand the problem. The gentle attentiveness of someone actually listening.",
+      "mood": "focused_kind"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "設定、変えちゃったかも。",
+      "en": "I think I might have changed the settings by accident.",
+      "style": "Small, worried voice. Self-blame creeping in. Hesitant on the admission — checking whether he'll be upset. The vulnerability of a kid realizing she may have broken something.",
+      "mood": "sheepish_worried"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "元の設定に、戻ることできますか?",
+      "en": "Can we try going back to the original settings?",
+      "style": "Patient and methodical. Speaks like he's thinking alongside her, not at her. A steady voice that makes problem-solving feel manageable and safe.",
+      "mood": "reassuring_practical"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "やってみる、けど、画面、違っている。",
+      "en": "Okay, I'll try — but the screen looks really different now.",
+      "style": "Determined but uncertain. Open question seeking reassurance. Still engaged, still trying, but aware something isn't matching her expectations. The resilience of a kid mid-troubleshoot.",
+      "mood": "determined_confused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今、お部屋に、おらんでも、教えられます。",
+      "en": "I can walk you through it even if I'm not there with you.",
+      "style": "Warm reassurance delivered simply. No distance in the voice — he's present through guidance. The kind of competent gentleness that makes a kid feel less alone.",
+      "mood": "capable_present"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "助かる、本当に、ありがとう!",
+      "en": "That really helps — thank you so much!",
+      "style": "Bright relief flooding through. The happiness of being rescued. Genuine gratitude, unguarded and immediate. The sunny voice returns, restored.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

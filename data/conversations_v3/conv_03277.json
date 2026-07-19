@@ -1,0 +1,78 @@
+{
+  "id": "conv_03277",
+  "context": "Confirming the flyer and turnout",
+  "purpose": "Confirm details; teach セミナー/日時/メイン/地区/時点/できるだけ/もともと/多少",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セミナー",
+    "日時",
+    "メイン",
+    "地区",
+    "時点",
+    "できるだけ",
+    "もともと",
+    "多少"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "セミナーの受付、私が手伝います。",
+      "en": "I’ll help with the seminar reception.",
+      "style": "eager helper volunteering cheerfully, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かる。日時はチラシに大きく載せてね。",
+      "en": "Thanks. Put the date and time big on the flyer.",
+      "style": "grateful organizer giving direction, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "メイン会場の地図も入れますか？",
+      "en": "Shall I include a map of the main venue?",
+      "style": "thoughtful helper anticipating needs, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お願い。地区の住民にも配りたいの。",
+      "en": "Please. I want to hand it out to the district’s residents.",
+      "style": "organizer expanding the outreach, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "現時点で、参加者は何人ですか？",
+      "en": "How many attendees as of now?",
+      "style": "helper checking the count, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "できるだけ多く集めたいけど、今は五十人ほど。",
+      "en": "I want as many as possible, but it’s about fifty now.",
+      "style": "organizer sharing the honest number, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もともと小さく始める予定でしたよね。",
+      "en": "We originally planned to start small, right?",
+      "style": "helper recalling the plan, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、多少増えても対応できます。",
+      "en": "Yes, we can handle it growing a little.",
+      "style": "organizer staying flexible, voice clear and distinctly their own"
+    }
+  ]
+}

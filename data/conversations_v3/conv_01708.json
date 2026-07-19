@@ -1,0 +1,61 @@
+{
+  "id": "conv_01708",
+  "context": "Kenji and Mei navigate a busy train station; quick logistical exchange.",
+  "purpose": "Two adults coordinating quick transit changes.",
+  "ambient": "station_busy_announce",
+  "sound_effects": [],
+  "target_vocab": [
+    "乗り換え",
+    "改札",
+    "路線",
+    "時刻"
+  ],
+  "cast": [
+    "kenji_office",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_086)",
+    "generated_at": "2026-05-27T07:25:45.824Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "健司さん、乗り換え、こっち?",
+      "en": "Kenji, is the transfer this way?",
+      "style": "Quick, slightly breathless question. Warm but focused — checking in with him mid-motion. Soft pitch, light touch on the final question mark. Moving while speaking.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、改札出てから、左や。",
+      "en": "Yeah, once we're through the gates, take a left.",
+      "style": "Easy reassurance with a Kansai lilt. Clear, brief directions delivered like he's done this a hundred times. Steady pace, grounding presence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "次の路線、何時発?",
+      "en": "When's the next train?",
+      "style": "Practical question, slightly urgent. Narrow focus — she's already calculating. Soft but direct, no decoration. Held note at the end.",
+      "mood": "focused_urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "十分後、急ごか。",
+      "en": "Ten minutes — we should move.",
+      "style": "Quick, matter-of-fact Kansai directness. Not panicked, but motivated. Slight lean forward in the voice. Action-oriented, helping her decide.",
+      "mood": "helpful_quickened"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "間に合うかな?",
+      "en": "Will we make it?",
+      "style": "Quiet worry underneath. The question of someone trusting him to know. Soft exhale at the start. Gentle, genuine — not panicked, just checking.",
+      "mood": "hopeful_uncertain"
+    }
+  ]
+}

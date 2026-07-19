@@ -1,0 +1,86 @@
+{
+  "id": "conv_06502",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 聴け/ダラダラ/働け/蹴っ/滑らか/呑み/噛ん/食費",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "聴け",
+    "ダラダラ",
+    "働け",
+    "蹴っ",
+    "滑らか",
+    "呑み",
+    "噛ん",
+    "食費"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_327 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お話、もうちょっと、聴けば、寝る!",
+      "en": "Mom, just a little more story, then I'll sleep, I promise.",
+      "style": "Quiet, earnest negotiation. Soft but firm. He's not asking—he's proposing a deal. Small breathy pause after 'Mom', then the request tumbles out in one hopeful rush.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お休みの日、ダラダラするのも、いい時間ね。",
+      "en": "Mm-hmm. Days off—doing nothing is good time too.",
+      "style": "Gentle agreement, warm and present. A soft hum of 'mm-hmm' opens the thought. Slow, deliberate pace. She's not rushing him. The tone says: I understand what matters right now.",
+      "mood": "warm_accepting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、今日、たくさん働けば、嬉しいね、明日。",
+      "en": "Dad worked really hard today, so he'll be happy tomorrow, right?",
+      "style": "Wondering aloud, connecting cause and effect the way a six-year-old does. Slightly uncertain, like he's checking if he understood correctly. Soft, thoughtful rhythm.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達、サッカーボール、力強く蹴っちゃダメよ、家のは。",
+      "en": "Your friend's soccer ball—don't kick it hard like that. Not the one at home.",
+      "style": "Gentle correction, not sharp. A small weight on 'hard.' She's not angry, just reminding him of a boundary he tested. Steady, matter-of-fact tone underneath the kindness.",
+      "mood": "gentle_cautious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お餅、滑らかな食感、好き。",
+      "en": "I like how mochi feels smooth when you chew it.",
+      "style": "Genuine discovery in his voice. He's noticing a small sensory thing and sharing it because it matters to him right now. Soft, almost meditative. No performance.",
+      "mood": "contented"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さん、出張先で、軽く呑みに行ったみたい。",
+      "en": "Sounds like Dad went out for drinks while he was away on the trip.",
+      "style": "Light, accepting observation. Not judgment—just noting what happened. Slight warmth underneath, the way you mention something ordinary about someone you know well and trust.",
+      "mood": "calm_knowing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お弁当、よく噛んで食べる、忘れないでね、と先生に言われた。",
+      "en": "My teacher told me to remember to chew my lunch really well.",
+      "style": "Reporting something important he was told. Earnest and literal—he's delivering information, not complaining. Small pause before 'really well,' showing he's emphasizing what the teacher emphasized.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "食費、家計、上手にやりくりするわよ。",
+      "en": "We'll manage the food budget carefully for the household.",
+      "style": "Quiet determination, spoken more to herself than to him. A hint of the weight she carries, but wrapped in quiet competence. Steady resolve, no complaint. Almost a promise she's making to keep things running.",
+      "mood": "resolved"
+    }
+  ]
+}

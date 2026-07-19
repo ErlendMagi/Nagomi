@@ -1,0 +1,78 @@
+{
+  "id": "conv_03910",
+  "context": "A barista chats with an aunt about her recent overseas visit",
+  "purpose": "Teach: 宿泊/入場/新幹線/来日/訪れる/治安/地帯/豪華",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "宿泊",
+    "入場",
+    "新幹線",
+    "来日",
+    "訪れる",
+    "治安",
+    "地帯",
+    "豪華"
+  ],
+  "cast": [
+    "aoi_barista",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "直子さん、お久しぶりです！海外旅行はどうでしたか？今日もいつものラテで大丈夫ですか？",
+      "en": "Naoko-san, long time no see! How was your overseas trip? The usual latte today?",
+      "style": "Warm, welcoming barista tone with familiar customer rapport."
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ええ、お願い。北欧を回ってきたのよ。どこも治安がよくて、夜でも安心して歩けたわ。",
+      "en": "Yes, please. I toured Northern Europe. Everywhere felt safe, I could walk at night without worry.",
+      "style": "Relaxed mature aunt sharing travel memories with warmth."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "へえ、いいですね。宿泊はホテルですか？それとも民泊みたいなところ？",
+      "en": "Oh, that's nice. Did you stay at hotels? Or somewhere like a guesthouse?",
+      "style": "Genuinely curious young barista asking follow-up questions casually."
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "後半は豪華なホテルに泊まったの。一泊だけね。お城を改装した宿で、入場するだけで気持ちが上がっちゃって。",
+      "en": "For the latter half I stayed at a luxurious hotel. Just one night. It was a converted castle, and just entering lifted my spirits.",
+      "style": "Mature woman recounting indulgent moments with quiet pride."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うわあ、お城ですか！僕も一度はそういうところに泊まってみたいなあ。観光客がたくさん訪れる場所なんですよね？",
+      "en": "Wow, a castle! I'd love to stay somewhere like that someday. It must be a place lots of tourists visit, right?",
+      "style": "Wide-eyed young man expressing envy with friendly enthusiasm."
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "そうそう、人気の観光地帯だから予約が大変だったわ。来日する友達にもぜひ勧めたいくらい。",
+      "en": "That's right, it's a popular tourist area so booking was tough. I'd love to recommend it to friends who come visit Japan too.",
+      "style": "Travel-savvy aunt giving practical recommendations with affection."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、移動は何で？ヨーロッパにも新幹線みたいな高速鉄道があるんですよね？",
+      "en": "Oh, how did you get around? Europe has high-speed rail like the Shinkansen too, right?",
+      "style": "Curious barista keeping conversation flowing during quiet shift."
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ええ、すごく便利だったわよ。次は甥っ子も連れて行こうかしら。あ、ラテもう一杯もらえる？",
+      "en": "Yes, it was really convenient. Maybe next time I'll bring my nephew along. Oh, can I get another latte?",
+      "style": "Aunt wrapping up story warmly before placing another order."
+    }
+  ]
+}

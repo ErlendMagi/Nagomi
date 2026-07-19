@@ -1,0 +1,78 @@
+{
+  "id": "conv_04467",
+  "context": "A geography teacher leads a teen through a places quiz",
+  "purpose": "Teach: 鹿児島/石川/学園/南部/郡/川崎/長野/東京大学",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "鹿児島",
+    "石川",
+    "学園",
+    "南部",
+    "郡",
+    "川崎",
+    "長野",
+    "東京大学"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_225 workflow wvvwn6tkp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "じゃあ地理クイズを始めるよ。桜島がある県はどこ？",
+      "en": "Alright, let's start the geography quiz. Which prefecture has Sakurajima?",
+      "style": "Cheerful teacher voice, warm and encouraging tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えーっと、鹿児島県です！",
+      "en": "Um, that's Kagoshima Prefecture!",
+      "style": "Bright teen voice, slightly hesitant then confident"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "正解！じゃあ次、能登半島があるのは石川県だよね。長野県との違い、わかる？",
+      "en": "Correct! Next, the Noto Peninsula is in Ishikawa Prefecture. Do you know how it differs from Nagano Prefecture?",
+      "style": "Teacher tone, gently quizzing with patient curiosity"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "長野県は内陸で、石川県は日本海に面してます。",
+      "en": "Nagano is inland, and Ishikawa faces the Sea of Japan.",
+      "style": "Confident teen reply, slightly proud of the answer"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "完璧！うちの学園の生徒、優秀だね。じゃあ神奈川の川崎市は本州のどのへん？",
+      "en": "Perfect! Our school's students are sharp. Now, where in Honshu is Kawasaki City in Kanagawa?",
+      "style": "Praising teacher tone, then playful next question"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "関東南部です。東京の隣ですよね。",
+      "en": "Southern Kanto. It's right next to Tokyo, right?",
+      "style": "Teen voice, increasingly engaged and quick to respond"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう。最後、鹿児島郡の島々を全部言える？言えたら東京大学レベル！",
+      "en": "Yes. Final question, can you name all the islands of Kagoshima County? If so, you're at University of Tokyo level!",
+      "style": "Teasing teacher tone with playful challenge in voice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ええ〜、それは無理ですよ先生！",
+      "en": "Whaaat, that's impossible, sensei!",
+      "style": "Whining teen voice, laughing in mock protest"
+    }
+  ]
+}

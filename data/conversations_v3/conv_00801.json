@@ -1,0 +1,76 @@
+{
+  "id": "conv_00801",
+  "context": "Hiroshi and Kenji review project budget allocation.",
+  "purpose": "boss-subordinate budget-review exchange",
+  "ambient": "office_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "全体",
+    "部分",
+    "対策",
+    "考える",
+    "責任"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_040)",
+    "generated_at": "2026-05-27T01:57:34.077Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、予算、全体、見直すぞ。",
+      "en": "Kenji, we're going to go over the entire budget again.",
+      "style": "Clipped and direct. Weight settles on the opening name. No softness, but not unkind—this is how authority sounds when it's competent. Steady eye contact in the voice.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、どの部分、ですか？",
+      "en": "Yes—which section are you focusing on?",
+      "style": "Attentive, ready. A half-step forward in the posture. Respectful without being obsequious. Genuine interest under the formal register—he wants to understand before he acts.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "開発費、削減、対策、考えろ。",
+      "en": "Development expenses. I want you to think through cost reduction measures.",
+      "style": "Deliberate pause after naming the area. Each phrase lands with purpose. Not angry, but the weight of scrutiny is audible. This is where things matter.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "理解しました。案、明日まで。",
+      "en": "Understood. I'll have a proposal ready by tomorrow.",
+      "style": "Quick, decisive commitment. No hedging. The professionalism has a backbone to it—he's promising something he means to deliver. Straightforward and serious.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "責任、お前にある。慎重に、考えろ。",
+      "en": "This responsibility falls to you. Think carefully.",
+      "style": "The tone sharpens slightly. Not a threat, but a calibration—he's marking the moment as consequential. Slow on 'carefully,' letting it sink.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、全力で、取り組みます。",
+      "en": "Yes. I'll give this my complete attention.",
+      "style": "No hesitation. The voice anchors deeper into commitment. This is the moment he steps into the weight of what's being asked. Quiet, steady resolve.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。",
+      "en": "I'm counting on you.",
+      "style": "A slight softening at the close. Brief, but the underlying respect is unmistakable. A final tap of confidence before he steps back. Not warmth exactly, but acknowledgment.",
+      "mood": "trusting"
+    }
+  ]
+}

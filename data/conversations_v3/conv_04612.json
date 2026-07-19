@@ -1,0 +1,72 @@
+{
+  "id": "conv_04612",
+  "context": "A senior trains a new hire on operations",
+  "purpose": "Teach: セールス/トピック/モジュール/ステーション/入荷/調節/短期間/新設",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セールス",
+    "トピック",
+    "モジュール",
+    "ステーション",
+    "入荷",
+    "調節",
+    "短期間",
+    "新設"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今日は新設のサポート部署で、業務全般を一緒に確認していきましょう。",
+      "en": "Today, in our newly established support department, let's go through the overall operations together.",
+      "style": "Calm professional tone, welcoming senior guiding new hire through orientation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。短期間で覚えることが多そうで、少し緊張しています。",
+      "en": "Thank you in advance. There seems to be a lot to learn in a short period, so I'm a bit nervous.",
+      "style": "Polite but slightly tense, eager new hire showing humility and honesty."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫ですよ。まずは受注のモジュールから触ってみて、画面の流れに慣れてください。",
+      "en": "It'll be fine. First, try working with the order-entry module and get used to the screen flow.",
+      "style": "Reassuring instructional voice, breaking the system into manageable starting pieces."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。商品の入荷情報は、このステーションから確認すればいいんですか?",
+      "en": "Understood. Should I check the incoming stock information from this workstation?",
+      "style": "Curious clarifying question, attentive learner pointing at the terminal."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうです。在庫数はリアルタイムで調節されるので、必ず最新の数字を見てくださいね。",
+      "en": "That's right. Stock levels are adjusted in real time, so always make sure to check the latest numbers.",
+      "style": "Precise teaching tone, emphasizing accuracy and live system behavior."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ちなみに、セールスチームへの共有はどのタイミングで行うんでしょうか?",
+      "en": "I see. By the way, when exactly do we share this with the sales team?",
+      "style": "Thoughtful follow-up, showing initiative to understand cross-team workflow."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "朝会で主要トピックとしてまとめます。質問があれば遠慮なく聞いてくださいね。",
+      "en": "We summarize it as a main topic in the morning meeting. Feel free to ask anything anytime.",
+      "style": "Warm closing reassurance, mentor inviting open communication going forward."
+    }
+  ]
+}

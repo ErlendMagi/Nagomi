@@ -1,0 +1,65 @@
+{
+  "id": "conv_05803",
+  "context": "Two friends gossip lightly about acquaintances",
+  "purpose": "Teach: 和田/小野/阿部/内田/西村/太田/前田/永田",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "和田",
+    "小野",
+    "阿部",
+    "内田",
+    "西村",
+    "太田",
+    "前田",
+    "永田"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "和田さん、結婚したんだって。小野さん経由で聞いた。",
+      "en": "Wada got married. I heard through Ono.",
+      "style": "Quick, bright opening—genuine interest lifting the tone. Conversational pace, like sharing good news casually between friends. Light energy on 'married,' no weight.",
+      "mood": "cheerful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "阿部さんも、もうすぐ転勤らしいね。内田さん、寂しがってた。",
+      "en": "Abe's transferring soon. Uchida-san looked really sad about it.",
+      "style": "Gentle concern underneath. Pace softens noticeably at 'transferring.' Voice carries the weight of noticing someone else's feeling. Lingering, empathetic trailing on the end.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "西村さんは、フリーランス独立を考えてるって。",
+      "en": "Nishimura's thinking of going freelance.",
+      "style": "Thoughtful pause before speaking. Measured pace. Tone carries respect for the decision—neither encouraging nor discouraging. Quiet observation, like turning something over in her mind.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "太田さんと前田さんは、二人で起業するって聞いた。",
+      "en": "I heard Ota and Maeda are starting a business together.",
+      "style": "Warm energy, slightly impressed. Quicker tempo than the previous line. Voice opens up—there's genuine enthusiasm here, optimistic about their venture. Bright but grounded.",
+      "mood": "warm_impressed"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "永田さんは、海外赴任を控えて、忙しいみたい。",
+      "en": "Nagata-san's been really busy getting ready for his overseas posting.",
+      "style": "Soft, understanding tone. Slight slowness showing empathy for his stress. Tender close—acknowledging effort without making a fuss. Trails gently, leaving space for agreement.",
+      "mood": "warm_understanding"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04183",
+  "context": "A boss and his manager read morning crime headlines",
+  "purpose": "Teach: 殺害/銃/爆弾/解雇/死者/探偵/悲劇/単独",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "殺害",
+    "銃",
+    "爆弾",
+    "解雇",
+    "死者",
+    "探偵",
+    "悲劇",
+    "単独"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おい、今朝の新聞見たか。銃を使った殺害事件がまた起きたらしいぞ。",
+      "en": "Hey, did you see this morning's paper? Another shooting murder case has happened.",
+      "style": "Gruff boss voice, lowered and serious, paper rustling."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、読みました。死者は三名で、犯人は単独犯だと書いてありましたね。",
+      "en": "Yes, I read it. Three dead, and the article said the perpetrator was a lone criminal.",
+      "style": "Respectful manager tone, measured and slightly tense, factual delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それに駅前で爆弾が見つかった件、未だに容疑者が捕まっていないそうじゃないか。",
+      "en": "And that bomb found near the station, apparently they still haven't caught the suspect.",
+      "style": "Frustrated grumble, shaking head, coffee cup clinking."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察も困っているようで、私立探偵まで動員されたとかいう噂を聞きました。",
+      "en": "The police seem stuck, and I heard rumors a private detective was even called in.",
+      "style": "Hushed informative tone, leaning in confidentially."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "あぁ、本当に悲劇だな。被害者の家族のことを思うと胸が痛むよ。",
+      "en": "Ah, what a tragedy. My heart aches when I think of the victims' families.",
+      "style": "Heavy sigh, voice softening with genuine sympathy."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ところで社長、犯人は不当解雇を理由に恨みを抱いていた可能性があるとか。",
+      "en": "By the way sir, apparently the suspect may have held a grudge over unfair dismissal.",
+      "style": "Cautious analytical tone, glancing up from the newspaper carefully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほどな。一見普通の社員でも、追い詰められれば何をするか分からん時代だ。",
+      "en": "I see. Even seemingly ordinary employees can do anything when pushed to the edge.",
+      "style": "Philosophical drawl, slow nod, troubled expression deepening."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "我が社も社員のケアには気をつけないと、しょうがない事では済まされませんね。",
+      "en": "Our company must take better care of employees, otherwise we can't dismiss it lightly.",
+      "style": "Concerned earnest tone, folding the newspaper deliberately."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07956",
+  "context": "Two friends chat",
+  "purpose": "Teach: 賑わっ/戸惑う/祝っ/釣っ/ありえ/よくよく/ふっと/にわか",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "賑わっ",
+    "戸惑う",
+    "祝っ",
+    "釣っ",
+    "ありえ",
+    "よくよく",
+    "ふっと",
+    "にわか"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_399 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お店が賑わって嬉しいね、メイちゃん",
+      "en": "Aoi, I'm so glad the shop's gotten busy.",
+      "style": "Warm, animated opening. Bright and genuine pleasure in the observation. Slightly conversational pace, like she's sharing a small joy with a friend.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、メニュー多くてお客様が戸惑うかしら、メイちゃん",
+      "en": "The menu has gotten so long though—I wonder if customers feel overwhelmed by it.",
+      "style": "Thoughtful, a little worried. Gentle concern underlying the observation. Pace slows slightly on the second half, as if she's working through a concern out loud.",
+      "mood": "thoughtful_concern"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お誕生日、お祝った後どうだった?メイちゃん",
+      "en": "How's everything been since we celebrated your birthday?",
+      "style": "Genuinely curious, soft check-in. Interested without pressure. Open, inviting space for her to answer.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、彼とお魚を釣った話聞いたよ、メイちゃん",
+      "en": "Oh, I heard you and your boyfriend went fishing—he caught fish, right?",
+      "style": "Brighter, engaged. Light enthusiasm in the recall. Conversational rhythm, as if she's genuinely delighted to bring it up.",
+      "mood": "pleased_interested"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、それありえない値段ね、メイちゃん",
+      "en": "Those prices are kind of unbelievable, though.",
+      "style": "Wry amusement underneath. Slight dry laugh in the tone. Not critical, just gently amused at the absurdity.",
+      "mood": "wry_amused"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、よくよく考えるとお洒落な店、メイちゃん",
+      "en": "Though come to think of it, the place really does have a sophisticated vibe.",
+      "style": "Reflective shift. Slower, reconsidering. Genuine realization arriving as she speaks. Appreciative by the end.",
+      "mood": "appreciative_thoughtful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、ふっと思い出すお客様の顔、メイちゃん",
+      "en": "Sometimes I just remember a customer's face from out of nowhere.",
+      "style": "Soft, introspective. A small smile in the voice. Gentle wistfulness—the small, unexpected moments that linger.",
+      "mood": "wistful_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、にわか雨でお客様、減ったよ、メイちゃん",
+      "en": "The sudden rain cleared the place out though.",
+      "style": "Wry, resigned observation. Light humor masking mild disappointment. Accepting shrug in the delivery.",
+      "mood": "wry_resigned"
+    }
+  ]
+}

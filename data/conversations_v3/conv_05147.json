@@ -1,0 +1,78 @@
+{
+  "id": "conv_05147",
+  "context": "Two managers prep a logistics-route revision memo",
+  "purpose": "Teach: 償還/異論/加算/要し/キープ/区間/巨額/組み込ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "償還",
+    "異論",
+    "加算",
+    "要し",
+    "キープ",
+    "区間",
+    "巨額",
+    "組み込ま"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "健司さん、この物流ルート改定メモ、まず南関東の高速区間から見直しませんか？",
+      "en": "Kenji, shall we start the logistics route revision memo with the South Kanto highway section?",
+      "style": "Polite, focused opener framing the working session"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "賛成です。ただ、既存の長距離契約をそのままキープするか、ここで一度切るかが論点ですね。",
+      "en": "Agreed. But the issue is whether we keep the existing long-haul contract as is, or cut it here.",
+      "style": "Measured, raises the central decision point calmly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "切る方向に異論はありますか？継続だと燃料サーチャージが加算され続けて、年間で巨額のロスになります。",
+      "en": "Any objection to terminating it? If we continue, the fuel surcharge keeps adding up to a huge annual loss.",
+      "style": "Assertive, pushes with concrete cost reasoning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "異論はないですが、解約金の償還スケジュールを先に確認しないと、短期的にはむしろ赤字が膨らみます。",
+      "en": "No objection, but unless we check the cancellation-fee repayment schedule first, the short-term deficit will actually grow.",
+      "style": "Cautious counter, flags hidden financial risk"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。では償還条件の試算も、今回のメモに組み込まれる形にしておきましょう。",
+      "en": "I see. Then let's make sure the repayment-term simulation is also built into this memo.",
+      "style": "Receptive, integrates feedback into the deliverable"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かります。あと、新ルートの試走データを揃えるのに、現場ヒアリングがどうしても二週間は要します。",
+      "en": "That helps. Also, gathering test-run data for the new route will absolutely require two weeks of field interviews.",
+      "style": "Appreciative, then realistic about scheduling constraints"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "二週間、確保します。役員報告は月末にずらして、メモは完成度を優先しましょう。",
+      "en": "I'll secure those two weeks. Let's push the executive report to month-end and prioritize the memo's completeness.",
+      "style": "Decisive, reschedules to protect quality of work"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。では区間ごとの数字を僕がまとめて、明日の朝までに第一稿をお送りします。",
+      "en": "Understood. I'll compile the per-section numbers and send you a first draft by tomorrow morning.",
+      "style": "Crisp commitment, closes loop with clear deliverable"
+    }
+  ]
+}

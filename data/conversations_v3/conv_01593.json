@@ -1,0 +1,61 @@
+{
+  "id": "conv_01593",
+  "context": "Riku-teen and Hina-teen do homework together at the library.",
+  "purpose": "Teen peers studying with quiet companionship.",
+  "ambient": "library_pages_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "宿題",
+    "集中",
+    "頭",
+    "休憩"
+  ],
+  "cast": [
+    "riku_teen",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_080)",
+    "generated_at": "2026-05-27T06:43:51.775Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "宿題、進む?",
+      "en": "How's the homework coming along?",
+      "style": "Soft, warm inquiry. Open question delivered with genuine interest. No pressure—just checking in. The ease of someone comfortable with quiet.",
+      "mood": "gentle_curious"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うーん、集中できない。",
+      "en": "Mm—I can't seem to focus.",
+      "style": "Honest admission, slightly apologetic. Quiet and small. She's not complaining, just stating it. Voice trails a little, inviting understanding.",
+      "mood": "tired"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "頭、疲れてんねん。",
+      "en": "Your brain's just worn out.",
+      "style": "Recognizing agreement. Gentle and grounded—no judgment. Light weight to it, like stating something obvious and kind. Steady eye-contact voice.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "休憩、しようか。",
+      "en": "Let's take a break.",
+      "style": "Soft suggestion, not instruction. Careful—making sure it feels collaborative. Slight warmth underneath, like she's being looked after and she knows it.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん、お菓子買ってくる。",
+      "en": "Yeah, I'll grab some snacks.",
+      "style": "Quick, bright agreement. Light lift in energy. Practical and gentle—doing something small that feels like it matters. Genuine warmth on the follow-through.",
+      "mood": "warm_action"
+    }
+  ]
+}

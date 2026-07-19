@@ -1,0 +1,75 @@
+{
+  "id": "conv_02501",
+  "context": "Kenji helps Yuki install a work program.",
+  "purpose": "WIDENED SCENARIO: tech help; software vocabulary (プログラム/入力/アクセス/アップ/バー) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "プログラム",
+    "入力",
+    "アクセス",
+    "アップ",
+    "バー"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_126)",
+    "generated_at": "2026-05-29T13:00:38.994Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この新しいプログラム、入れ方が分からなくて。",
+      "en": "I don't know how to install this new program.",
+      "style": "slightly stuck office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、上のバーから設定を開いて下さい。",
+      "en": "First, open settings from the top bar.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "バーを押したら、画面が出ました。",
+      "en": "I pressed the bar and a screen appeared.",
+      "style": "engaged office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そこに、社員番号を入力して下さい。",
+      "en": "Enter your employee number there.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "入力したら、アクセスできました。",
+      "en": "After entering it, I got access.",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "プログラムを、最新版にアップして下さい。",
+      "en": "Please update the program to the latest version.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "アップしたら、通信も速くなりました。",
+      "en": "After updating, the connection got faster too.",
+      "style": "satisfied office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "通信が安定すれば、もう大丈夫です。",
+      "en": "Once the connection is stable, you're fine.",
+      "style": "reassuring office man voice, soft warm patient closing throughout"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_03028",
+  "context": "Ren interviews a researcher on study methods.",
+  "purpose": "WIDENED SCENARIO: academic interview; vocabulary (含む/単位/基づい/主体/想定) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "含む",
+    "単位",
+    "基づい",
+    "主体",
+    "想定"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "研究は、何を主体に進めますか?",
+      "en": "What do you center your research on?",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "事実を主体に、進めます。",
+      "en": "I proceed centered on facts.",
+      "style": "composed researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "結論は、何に基づきますか?",
+      "en": "What are conclusions based on?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "十分なデータに基づいて、出します。",
+      "en": "I draw them based on sufficient data.",
+      "style": "patient researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "想定と違う結果は、扱いますか?",
+      "en": "Do you treat results that differ from expectations?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "想定外も、論文に含みます。",
+      "en": "I include the unexpected in the paper too.",
+      "style": "composed researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "データの単位は、統一するんですか?",
+      "en": "Do you unify the data units?",
+      "style": "thoughtful young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "単位を統一して、想定を検証します。",
+      "en": "I unify units and verify the assumptions.",
+      "style": "warm researcher voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

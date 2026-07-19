@@ -1,0 +1,75 @@
+{
+  "id": "conv_01608",
+  "context": "Sho-young breaks something accidentally and tries to hide it; Mei finds out.",
+  "purpose": "Mother gently teaching child about honesty.",
+  "ambient": "kitchen_quiet_late",
+  "sound_effects": [],
+  "target_vocab": [
+    "嘘",
+    "本音",
+    "正直",
+    "謝る"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_081)",
+    "generated_at": "2026-05-27T06:50:51.012Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔くん、何かあった?",
+      "en": "Sho — did something happen?",
+      "style": "Warm, patient opening. Slight downward inflection — not interrogative but inviting. Soft voice, the kind that makes a child want to tell you things. Pause before his name, like she's reached across to touch his shoulder with her voice.",
+      "mood": "gentle_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "え、別に。",
+      "en": "No, nothing.",
+      "style": "Quick, almost reflexive denial. Quiet and small. Eyes sliding away. The guilty pause buried under the word 'nothing' — he's already caught.",
+      "mood": "evasive_guilty"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "嘘、ついてるね?",
+      "en": "You're not telling me the truth, are you?",
+      "style": "Steady, knowing tone without accusation. No edge. She's given him a way in — a question, not a statement. Warm firmness underneath. The voice of someone who won't accept the lie but won't shame him for trying.",
+      "mood": "calm_insistent"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ごめんなさい、お皿割っちゃった。",
+      "en": "I'm sorry — I broke a plate.",
+      "style": "Words tumble out quickly, confession-style. Voice gets smaller on 'broke.' Throat tight. The apology comes first because he's braced for punishment. Genuine distress, not performing it.",
+      "mood": "ashamed_relieved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "正直に言ってくれてありがとう。",
+      "en": "Thank you for telling me the truth.",
+      "style": "Warm, genuine gratitude. No surprise in the voice — she knew he'd come clean. Soft and steady. The kind of response that reaches into a child's chest and unknots something. Slight smile underneath the words.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "怒らないの?",
+      "en": "You're not mad?",
+      "style": "Small voice, genuinely astonished. The question rises slightly at the end — he's testing to make sure this is real. Relief and disbelief mixed together. Almost whispered.",
+      "mood": "surprised_hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本音を言える、勇気よ。",
+      "en": "That took courage — speaking up like that.",
+      "style": "Gentle teaching voice, not lecturing. Words land softly but they matter. She's naming what he just did so he'll remember it. Slow pace. Warm and serious at the same time, like she's handing him something he can keep.",
+      "mood": "tender_affirming"
+    }
+  ]
+}

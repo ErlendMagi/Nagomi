@@ -1,0 +1,86 @@
+{
+  "id": "conv_08841",
+  "context": "Mom and son chat",
+  "purpose": "Teach: いらいら/ぬれ/よかろ/しょせん/近ごろ/ぎみ/おもむろに/あやしい",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "いらいら",
+    "ぬれ",
+    "よかろ",
+    "しょせん",
+    "近ごろ",
+    "ぎみ",
+    "おもむろに",
+    "あやしい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_444 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、待たされていらいらしてた?",
+      "en": "Sho, were you getting frustrated waiting?",
+      "style": "Gentle inquiry. Warm, attentive. Moderate pace. Leans in slightly—not hovering, just present. The tone of someone checking in after noticing something off.",
+      "mood": "attentive_concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、雨でぬれちゃったよ",
+      "en": "Mom, I got all wet from the rain.",
+      "style": "Small, matter-of-fact voice. No complaint underneath—just stating what happened. Quiet acceptance. A faint pause after 'wet,' like he's waiting to see if she minds.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんに任せておけばよかろうって",
+      "en": "Sho, I should have left you with Grandpa.",
+      "style": "Thoughtful, self-recriminating exhale. Slow, measured pace. Speaking half to him and half to herself. Quiet regret, not theatrical—the voice of someone turning something over in her mind.",
+      "mood": "self_critical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、しょせん子供だからって思っちゃう",
+      "en": "Mom, sometimes I think that I'm just a kid anyway.",
+      "style": "Soft, deflating voice. The confession tumbles out small and careful. No self-pity—just a child articulating something he's noticed about himself. Trails off gently, almost apologizing for the thought.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、近ごろお父さんが元気そうね",
+      "en": "Sho, your father seems to be doing well lately.",
+      "style": "Observant, gentle shift in topic. Warmer than before—noticing something positive. Steady pace, warm undercurrent. Not cheerful, but genuinely pleased. The slight pause before 'father' shows she's shifting her focus to give him space.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ちょっと疲れぎみだよ",
+      "en": "Mom, I'm feeling a little tired these days.",
+      "style": "Quiet admission. Hesitant—he's not complaining, just reporting. Soft voice, slower pace. The kind of thing a small child says when he's been sitting with something for a while before saying it aloud.",
+      "mood": "tired_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがおもむろに手紙を取り出されたわ",
+      "en": "Sho, your father took out a letter all of a sudden.",
+      "style": "Curious, slightly puzzled tone. Measured pace, like she's replaying the moment. Warm but wondering—not dramatic, just noticing something unexpected. Slight uptick at the end, almost a question mark in her voice.",
+      "mood": "intrigued_thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お庭にあやしい物音がしたよ",
+      "en": "Mom, I heard something strange in the garden.",
+      "style": "Alert but controlled. Quiet, observant—not alarmed, just reporting what he noticed. Slight tension in the voice, but grounded. The careful tone of a watchful child sharing something he's uncertain about. Soft landing at the end.",
+      "mood": "alert_uncertain"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04946",
+  "context": "A boss reviews an ongoing contract dispute with his manager",
+  "purpose": "Teach: 可決/敗訴/先制/紳士/長所/民法/所持/負債",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "可決",
+    "敗訴",
+    "先制",
+    "紳士",
+    "長所",
+    "民法",
+    "所持",
+    "負債"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_249b workflow wwwp084s6)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "例の契約紛争の件だが、相手方が民法の規定を盾に押してきているらしいな。",
+      "en": "About that contract dispute, the other side is apparently leaning on civil code provisions.",
+      "style": "Boss opens with weighty, measured executive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、先方は紳士協定だと主張していますが、書面の根拠が弱く、こちらに分があります。",
+      "en": "Yes, they're claiming it was a gentlemen's agreement, but their written basis is weak so we have the advantage.",
+      "style": "Subordinate reports clearly and confidently with formal politeness."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。先制して内容証明を送りつけるべきか、それとも交渉の余地を残すか…。",
+      "en": "Hmm. Should we strike first with a certified letter, or leave room for negotiation?",
+      "style": "Boss muses aloud, weighing strategic options carefully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "顧問弁護士は先制パンチを推奨しています。前回類似案件で相手が一審で敗訴した実績もあるそうで。",
+      "en": "Our legal counsel recommends striking first. Apparently in a similar prior case, the opponent lost at first instance.",
+      "style": "Manager cites legal counsel with crisp business briefing cadence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "敗訴判決か。とはいえ、相手の社長は所持している関連特許がかなり厄介でな。",
+      "en": "A losing judgment, huh. That said, the patents the other president holds are quite troublesome.",
+      "style": "Boss acknowledges risk with a slow, gravelly cautionary note."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その点は調査済みです。彼らは多額の負債を抱えており、長期戦に耐えられないと見ています。",
+      "en": "We've looked into that. They're carrying heavy debt, and we judge they can't endure a long fight.",
+      "style": "Manager reports intelligence findings with composed analytical delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。我が社の長所は資金力と粘り強さだ。取締役会で動議を可決させよう。",
+      "en": "I see. Our strengths are capital and tenacity. Let's get the motion passed at the board meeting.",
+      "style": "Boss decisively rallies, voice firming with executive resolve."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。本日中に資料をまとめ、明朝までに役員全員へ配布いたします。",
+      "en": "Understood. I'll compile the documents today and distribute them to all directors by tomorrow morning.",
+      "style": "Subordinate closes with brisk, dependable confirmation."
+    }
+  ]
+}

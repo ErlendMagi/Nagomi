@@ -1,0 +1,90 @@
+{
+  "id": "conv_04106",
+  "context": "A student journalist profiles a web developer about a side project",
+  "purpose": "Teach: ヘッド/タグ/オブジェクト/ポジション/フォーラム/ライセンス/認証/トップページ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘッド",
+    "タグ",
+    "オブジェクト",
+    "ポジション",
+    "フォーラム",
+    "ライセンス",
+    "認証",
+    "トップページ"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間ありがとうございます。サイドプロジェクトのトップページ、すごく綺麗ですね。",
+      "en": "Thank you for your time today. The top page of your side project is really beautiful.",
+      "style": "Polite student journalist opening with warm appreciative tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえいえ、まだまだなんですけど…一応、ヘッドの中のメタタグを整理して、表示を軽くしました。",
+      "en": "No no, it's still rough... but I did at least tidy up the meta tags inside the head and made the display lighter.",
+      "style": "Modest engineer deflecting praise before reluctantly sharing a small detail"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ヘッドの中身まで意識されてるんですね。記事のメインに据えたいので、設計の考え方も伺ってもいいですか?",
+      "en": "You're conscious of even the contents inside the head. I'd like to make this the main focus of the article, so could I ask about your design approach too?",
+      "style": "Eager journalist drilling deeper with a curious follow-up question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええと、画面に出てくる要素をオブジェクトとしてまとめて、操作しやすい形にしてあります。",
+      "en": "Well, I group the elements that appear on the screen as objects, in a form that's easy to manipulate.",
+      "style": "Engineer explaining architecture casually but with quiet pride"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ユーザー同士が交流するフォーラム機能もあると伺いましたが、ログインまわりはどう設計されたんですか?",
+      "en": "I see. I heard there's also a forum feature for users to interact — how did you design the login side of things?",
+      "style": "Sharp interviewer connecting features into a coherent follow-up question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "フォーラムは荒らしが怖かったので、二段階認証を入れて、不正ログインをかなり減らせました。",
+      "en": "I was scared of trolls on the forum, so I added two-factor authentication, which cut down unauthorized logins quite a bit.",
+      "style": "Developer answering precisely while revealing the motivation behind the choice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、運営する側の苦労が伝わります。コード自体はどこかで公開されているんですか?",
+      "en": "I see, the difficulty of running it really comes through. Is the code itself published anywhere?",
+      "style": "Journalist following the engineer's lead with a natural curious pivot"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、MITライセンスでGitHubに置いてます。誰かが改造して使ってくれたら嬉しいですね。",
+      "en": "Yes, I've put it on GitHub under the MIT license. I'd be happy if someone modified it and used it.",
+      "style": "Developer sharing open-source values with quiet hope for community"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素敵ですね。最後に、本業のポジションとは別に、これから挑戦したいことを伺えますか?",
+      "en": "That's wonderful. Lastly, separate from your position at your day job, could I ask what you'd like to challenge next?",
+      "style": "Journalist wrapping up with admiration and a final open prompt"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね、いつかこのフォーラムを軸に、開発者が集まれる場所を作ってみたいなと思っています。",
+      "en": "Well, someday I'd like to use this forum as a base and build a place where developers can gather.",
+      "style": "Reflective closing answer expressing a concrete and heartfelt ambition"
+    }
+  ]
+}

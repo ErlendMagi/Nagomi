@@ -1,0 +1,69 @@
+{
+  "id": "conv_00147",
+  "context": "A quiet weekday afternoon at the café. Ren orders his usual; Aoi notices he looks tired and asks gently.",
+  "purpose": "low-stakes café interaction — recognition of a regular through small attentiveness",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "いつも",
+    "疲れる",
+    "大丈夫",
+    "ホット",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "いつものでお願いします。",
+      "en": "The usual, please.",
+      "style": "Low university student voice, slightly worn at the edges, comfortable familiarity in a steady delivery.",
+      "mood": "tired-comfortable"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、ホットラテですね。",
+      "en": "Yes, hot latte, right?",
+      "style": "Soft barista warmth confirming, dreamy cadence with a slight up-lift on the confirmation question.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今日、なんかちょっと疲れてる感じ？",
+      "en": "Today, you seem a little tired, maybe?",
+      "style": "Gentle artist-soft observation, careful not to intrude, voice lowering with quiet concern.",
+      "mood": "concerned-gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あー、テストでね。寝てない。",
+      "en": "Ah, it's tests. Haven't slept.",
+      "style": "Worn university drawl, easy admission, small self-deprecating laugh threaded under the words.",
+      "mood": "self-deprecating"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "大丈夫？少しシロップ多めにしとくね。",
+      "en": "You okay? I'll add a little extra syrup for you.",
+      "style": "Soft barista care extending, dreamy warmth in the offer, small kindness slipped in casually.",
+      "mood": "caring-quiet"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとう、助かる。",
+      "en": "Thanks, that helps.",
+      "style": "Genuine worn-out gratitude, university student voice softened by appreciation, quiet weight on each word.",
+      "mood": "grateful"
+    }
+  ]
+}

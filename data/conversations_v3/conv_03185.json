@@ -1,0 +1,82 @@
+{
+  "id": "conv_03185",
+  "context": "A citizen applies for a benefit at the ward office counter",
+  "purpose": "Process an application; teach 番号/審査/事項/承知/ご覧/お答え",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "審査",
+    "番号",
+    "事項",
+    "承知",
+    "ご覧",
+    "お答え"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "受付番号をお持ちですか？",
+      "en": "Do you have your reception number?",
+      "style": "polite official beginning the procedure, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、こちらの番号です。",
+      "en": "Yes, here is the number.",
+      "style": "cooperative citizen handing over the slip"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "では審査の流れをご説明します。",
+      "en": "Then I will explain the screening process.",
+      "style": "measured official walking through the steps"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "審査にはどれくらいかかりますか？",
+      "en": "How long does the screening take?",
+      "style": "mildly anxious applicant asking about time"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "この用紙の記入事項をご覧ください。",
+      "en": "Please look at the items to fill in on this form.",
+      "style": "guiding official directing attention to the form"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "記入事項が多いですね。承知しました。",
+      "en": "There are a lot of items. Understood.",
+      "style": "slightly daunted but compliant citizen, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご不明な点はこちらでお答えします。",
+      "en": "I will answer any unclear points here.",
+      "style": "reassuring official offering support, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "では一つお答えいただけますか？",
+      "en": "Then could you answer one question?",
+      "style": "polite citizen seizing the offer to ask"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろん、承知しました。",
+      "en": "Of course, certainly.",
+      "style": "accommodating official ready to help, each word carrying genuine natural feeling"
+    }
+  ]
+}

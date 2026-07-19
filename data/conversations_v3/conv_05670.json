@@ -1,0 +1,65 @@
+{
+  "id": "conv_05670",
+  "context": "A retired exec mentors a current boss",
+  "purpose": "Teach: 返答/内訳/値上がり/倍増/消耗/受給/心得/規律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返答",
+    "内訳",
+    "値上がり",
+    "倍増",
+    "消耗",
+    "受給",
+    "心得",
+    "規律"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "原油の値上がり、若い頃にも倍増の局面があった。",
+      "en": "Oil prices climbed sharply even when I was young — we saw them double more than once.",
+      "style": "Measured opening, letting the memory settle. Long pauses between thoughts. Voice pitched low, unhurried. The weight of lived experience behind each phrase.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "コストの内訳、当時はどう乗り切ったんですか。",
+      "en": "How did you manage the costs then, sir? What got you through it?",
+      "style": "Lean forward slightly. Respectful but engaged — not deferential. Genuine curiosity beneath the formality. Eyes steady on him.",
+      "mood": "attentive_earnest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "規律を守り、消耗戦を避けた。返答は迅速にしたな。",
+      "en": "We held to our principles, avoided grinding people down. And we answered quickly when it mattered.",
+      "style": "Deliberate emphasis on the first clause — conviction without volume. Then soften slightly on the second thought. Nod subtly, like he's confirming this to himself as much as to you.",
+      "mood": "steady_certain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人事の受給制度、心得として伺いたいです。",
+      "en": "About personnel systems — the philosophy behind your approach. I'd like to understand that.",
+      "style": "Lean in again, genuine wanting-to-learn. Not performative respect — real. Slight quickness in delivery, eagerness underneath the careful grammar.",
+      "mood": "humble_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "人を粗末にすれば、企業は終わる。",
+      "en": "Treat people carelessly, and the company will fail. It's that simple.",
+      "style": "Final truth, delivered quietly but with absolute conviction. No softening. Pause before speaking. Then let it hang — he's said what matters. No need to explain further.",
+      "mood": "grave_certain"
+    }
+  ]
+}

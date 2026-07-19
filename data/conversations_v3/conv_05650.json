@@ -1,0 +1,65 @@
+{
+  "id": "conv_05650",
+  "context": "A retail manager visits a cafe owner about supply issues",
+  "purpose": "Teach: 支障/通行/務める/打ち出し/最善/適度/応える/相次い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支障",
+    "通行",
+    "務める",
+    "打ち出し",
+    "最善",
+    "適度",
+    "応える",
+    "相次い"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "葵さん、業者から納品遅延が相次いでいて、店舗運営に支障は?",
+      "en": "Aoi-san, we're getting hit with vendor delays left and right — is the store operations being affected?",
+      "style": "Measured concern. Leans forward slightly. Speaks directly but not accusingly. The tone of someone already thinking three steps ahead about solutions.",
+      "mood": "concerned_practical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、若干。仕入れ担当を務めるスタッフ、最善を尽くしてくれてます。",
+      "en": "Yes, a bit. But our procurement team is really putting in the effort.",
+      "style": "Honest and steady. No defensive edge — she's stating fact. Small pause after 'a bit' like she's making sure she's not downplaying it. Gratitude for her team sits underneath.",
+      "mood": "honest_grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "適度な在庫の打ち出し、本社にも要請しておきます。",
+      "en": "I'll reach out to headquarters about getting reasonable stock levels restored.",
+      "style": "Focused and decisive. Each word lands with quiet authority. Not reassuring — acting. The speed picks up slightly, the energy shifting from listening to doing.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "通行制限が長引いて、ご迷惑をおかけしてます。",
+      "en": "The extended closures have really put customers out. I apologize for the inconvenience.",
+      "style": "Soft and sincere. Takes responsibility without self-flagellation. Slight downward inflection on 'inconvenience' — she genuinely feels it. Almost a whisper at the end.",
+      "mood": "apologetic_earnest"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえ、お客様に応える姿勢、葵さんは素晴らしいです。",
+      "en": "Not at all. The way you've been showing up for customers — it's really something special.",
+      "style": "Warm and genuine. Locks eye contact. Speaks slowly enough that Aoi can actually take it in. Not flattery — recognition. The small smile in her voice is real.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

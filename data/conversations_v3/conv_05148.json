@@ -1,0 +1,78 @@
+{
+  "id": "conv_05148",
+  "context": "A uni intern interviews a manager about budgeting",
+  "purpose": "Teach: 償還/異論/加算/要し/キープ/区間/巨額/組み込ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "償還",
+    "異論",
+    "加算",
+    "要し",
+    "キープ",
+    "区間",
+    "巨額",
+    "組み込ま"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "予算編成について伺いたいのですが、今期は巨額の設備投資が組み込まれているそうですね。",
+      "en": "I'd like to ask about budget planning—I hear a huge capital investment is built into this term.",
+      "style": "Polite interview opener with formal vocabulary and slight hesitation typical of a student."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうなんです。社債の償還スケジュールと並行して進めるので、調整にかなり時間を要しました。",
+      "en": "That's right. We're running it alongside the bond redemption schedule, so coordinating it took quite a while.",
+      "style": "Composed mid-career professional tone, explanatory and measured."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "役員会で異論は出なかったんですか？反対意見が多そうな案件に見えますが。",
+      "en": "Were there no objections at the board meeting? It looks like the kind of proposal that would attract pushback.",
+      "style": "Curious follow-up question, leaning forward in interest."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんありましたよ。特に予備費を上乗せ加算する部分で、慎重派の方々から指摘がありました。",
+      "en": "Of course there were. Especially around adding to the contingency reserve, the cautious members raised concerns.",
+      "style": "Candid admission delivered with a small wry smile."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。キャッシュフローの安全区間はどのくらいキープする方針なんでしょうか？",
+      "en": "I see. What's the policy on how much of a safety margin you keep in the cash-flow range?",
+      "style": "Inquisitive student probing for concrete numbers, notebook ready."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "三ヶ月分の運転資金は最低ラインとして死守しています。それを切ると一気に資金繰りが厳しくなるので。",
+      "en": "We absolutely hold the line at three months of working capital; below that, liquidity gets tight fast.",
+      "style": "Firm, slightly emphatic explanation showing experience and conviction."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。最後に、若手社員へのメッセージをいただけますか？",
+      "en": "That's really instructive. Lastly, could I get a message for the younger employees?",
+      "style": "Wrapping up the interview with grateful, respectful tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "数字を読む力は若いうちに鍛えてください。それが将来、必ず武器になりますよ。",
+      "en": "Train your ability to read numbers while you're young—it'll definitely become a weapon later on.",
+      "style": "Warm closing advice from a senior colleague, encouraging and confident."
+    }
+  ]
+}

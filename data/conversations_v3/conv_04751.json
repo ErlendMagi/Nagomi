@@ -1,0 +1,78 @@
+{
+  "id": "conv_04751",
+  "context": "A teacher walks a uni student through her research questions",
+  "purpose": "Teach: 仮想/カルチャー/娯楽/野生/広域/頻度/産地/石炭",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "仮想",
+    "カルチャー",
+    "娯楽",
+    "野生",
+    "広域",
+    "頻度",
+    "産地",
+    "石炭"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_239 workflow wutz90wj3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、卒論のテーマで悩んでいて、仮想空間における若者文化を扱おうか迷っています。",
+      "en": "Professor, I'm stuck on my thesis topic. I'm thinking about youth culture in virtual spaces.",
+      "style": "Hesitant, seeking guidance, lifts tone on question slightly"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白そうね。ただ「若者文化」だけだとサブカルチャー全般に広がりすぎて、論点がぼやけてしまうかもしれないわよ。",
+      "en": "Sounds interesting. But just 'youth culture' might spread too wide into all of subculture and blur your focus.",
+      "style": "Warm but academically precise, gentle warning tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに……。じゃあ、オンラインゲームを娯楽の中でどう位置づけるか、という方向に絞るのはどうでしょう。",
+      "en": "True... So how about narrowing it to how online games fit within forms of entertainment?",
+      "style": "Thinking aloud, tentative, looking up from notes politely"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "悪くないわ。利用頻度のデータを集めれば、定量的な裏付けも取れるでしょうね。",
+      "en": "Not bad. If you gather usage frequency data, you can back it up quantitatively.",
+      "style": "Encouraging, switching into mentor mode, measured pace"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "アンケートを広域で配るとして、地域差も見たほうがいいですか。都市部と地方では事情が違う気がして。",
+      "en": "If I distribute the survey over a wide area, should I also look at regional differences? Cities and rural areas feel different to me.",
+      "style": "Curious, leaning forward, articulating his reasoning carefully"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭い視点ね。例えば石炭産業の産地として栄えた町は、その後の若者の余暇の選択肢が全然違うはずよ。",
+      "en": "Sharp observation. For instance, towns that thrived as coal production hubs have very different leisure options for young people afterwards.",
+      "style": "Impressed, offering concrete regional example as peer researcher"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ちなみに、野生動物の動画や自然系の配信も今や仮想空間の娯楽の一部と考えていいでしょうか。",
+      "en": "I see. By the way, would footage of wildlife and nature streams count as part of virtual entertainment now too?",
+      "style": "Energized, asking a curious clarifying question naturally"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい視点よ。そこまで含めるなら定義を明確にして、来週までに先行研究を三本読んでまとめてきてちょうだい。",
+      "en": "Good point. If you include those, define the scope clearly, and read three prior studies and summarize them by next week.",
+      "style": "Decisive, closing the meeting, assigning concrete homework"
+    }
+  ]
+}

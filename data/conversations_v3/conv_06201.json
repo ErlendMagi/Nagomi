@@ -1,0 +1,86 @@
+{
+  "id": "conv_06201",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 通わ/控える/弱気/夢見る/拭き/あける/走れる/気がかり",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "通わ",
+    "控える",
+    "弱気",
+    "夢見る",
+    "拭き",
+    "あける",
+    "走れる",
+    "気がかり"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_312 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ピアノ教室、まだ通わせてくれる?",
+      "en": "Mom, do you still want me to keep going to piano lessons?",
+      "style": "Soft, hopeful question. A slight catch of worry underneath—testing safety. Quiet intensity. Not demanding, just needing to know.",
+      "mood": "hopeful_worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お菓子、今日は控えるけどね。",
+      "en": "Yes. But we're cutting back on sweets for a bit.",
+      "style": "Steady, practical warmth. A gentle pivot—acknowledging his worry without dramatizing it. Matter-of-fact kindness. The tone of someone who has thought this through.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "試験前、ちょっと弱気になっちゃう。",
+      "en": "Before the test, I kind of fall apart a little.",
+      "style": "Quiet admission. A small, vulnerable exhale. Testing whether it's safe to say this out loud. Self-aware but unsure. Trailing off slightly, hoping she understands without him having to explain.",
+      "mood": "vulnerable_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ピアニストを夢見るって、素敵じゃない。",
+      "en": "Dreaming of being a pianist—that's beautiful.",
+      "style": "Genuine warmth with no performance. She's looking at him, not through him. Slow, deliberate words. The kind of statement that lands because it's unhurried and true.",
+      "mood": "tender_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "こぼした水、拭きました。",
+      "en": "I wiped up the water I spilled.",
+      "style": "Quiet report, almost to himself. A small relief in his voice—the pride of fixing something. Responsible but not seeking praise. Matter-of-fact and genuine.",
+      "mood": "careful_capable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "明日、窓をあけるね、空気を入れ替えよう。",
+      "en": "Tomorrow I'll open the windows—let some fresh air in.",
+      "style": "Gentle planning voice. She's thinking out loud with him, not at him. A small, practical kindness. Settling the room, settling him. Unhurried.",
+      "mood": "calm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "運動会、もっと速く走れるようになりたい。",
+      "en": "I want to run faster at sports day.",
+      "style": "A spark of excitement, but grounded. Not performative energy—genuine determination from a small person. Hopeful and resolute. The voice of someone testing his own limits.",
+      "mood": "determined_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの体調、気がかりよね。",
+      "en": "I've been worried about your dad's health too.",
+      "style": "A shift toward seriousness. Quiet acknowledgment of his perceptiveness. Not frightening him, but meeting him honestly. Close, maternal, steady.",
+      "mood": "attentive_concerned"
+    }
+  ]
+}

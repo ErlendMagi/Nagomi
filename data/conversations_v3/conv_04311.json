@@ -1,0 +1,78 @@
+{
+  "id": "conv_04311",
+  "context": "A regular customer chats with the barista about dinner plans",
+  "purpose": "Teach: 鶏/調理/放題/代金/飲食/定員/ピーク/支払う",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鶏",
+    "調理",
+    "放題",
+    "代金",
+    "飲食",
+    "定員",
+    "ピーク",
+    "支払う"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "葵さん、今夜うちの家族で鶏料理のお店に行く予定なんですよ。",
+      "en": "Aoi, my family is going to a chicken restaurant tonight.",
+      "style": "Warm friendly tone with relaxed familiar pacing throughout the line."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わあ、いいですね!飲食店巡り、お好きなんですか?食べ放題のお店ですか?",
+      "en": "Oh nice! Do you enjoy trying out restaurants? Is it all-you-can-eat?",
+      "style": "Bright cheerful barista voice with curious upward inflection here."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いや食べ放題じゃなくて、調理を目の前でしてくれる本格的なお店なんだ。",
+      "en": "Not all-you-can-eat, a proper place where they cook right in front of you.",
+      "style": "Proud dad explaining with slight excitement and gentle smile."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "素敵!でも金曜日のピーク時は混みますよね。予約はされましたか?",
+      "en": "Lovely! But Friday peak hours get crowded. Did you make a reservation?",
+      "style": "Cheerful but slightly cautious, raising concern with kind smile."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ええ、先週電話したらもう定員ぎりぎりで、なんとか席を確保できたよ。",
+      "en": "Yeah, when I called last week they were nearly at capacity, but I got seats.",
+      "style": "Relieved chuckle, slow deliberate pace of an older man speaking."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "よかったですね!お値段の方はどんな感じのお店なんですか?",
+      "en": "Glad to hear it! What kind of price range is the place?",
+      "style": "Genuinely curious, casual conversational rhythm with light laugh."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "コースで一人五千円くらいかな。今夜は私が代金を支払うつもりだよ。",
+      "en": "About five thousand yen per person for the course. Tonight I'm paying the bill.",
+      "style": "Warm fatherly pride with a soft chuckle at the end."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わあ、太っ腹ですね!ご家族との時間、楽しんできてくださいね。",
+      "en": "Wow, so generous! Please enjoy your time with the family.",
+      "style": "Bright sincere send-off with warm smile and bow in voice."
+    }
+  ]
+}

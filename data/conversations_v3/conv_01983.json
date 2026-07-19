@@ -1,0 +1,61 @@
+{
+  "id": "conv_01983",
+  "context": "Naoko videocalls with a far-away cousin; first time using video.",
+  "purpose": "Aunt nervously trying new tech.",
+  "ambient": "ramen_shop_after_close",
+  "sound_effects": [],
+  "target_vocab": [
+    "電話",
+    "映像",
+    "懐かしい",
+    "元気"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_099)",
+    "generated_at": "2026-05-27T08:56:37.686Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ひな、映像、見えるか?",
+      "en": "Hina — can you see me okay?",
+      "style": "Relieved exhale once the connection catches. Warm but uncertain — testing the line. Kansai lilt underneath. Voice still settling into trust that this is really working.",
+      "mood": "nervous_hopeful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ちゃんと見えてる!",
+      "en": "Yeah! I can see you perfectly!",
+      "style": "Bright and immediate, no hesitation. Eight-year-old clarity and pride at being the one with the good news. Quick attack on the opening yeah, full-chested. Genuinely pleased to reassure the adult.",
+      "mood": "bright_eager"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おう、いとこ、元気そうや!",
+      "en": "Oh, cousin — you look so good!",
+      "style": "Warmth floods in now that the connection is confirmed. Louder, more Kansai — the aunt finding her ground. Affectionate teasing edge. The words land as genuine delight, not performance.",
+      "mood": "warm_delighted"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "懐かしいでしょ。",
+      "en": "It's been forever, hasn't it.",
+      "style": "Softer now, almost wistful. Not a question despite the shape of it — a small moment of noticing how much time has passed. Eight-year-old sincerity, unguarded.",
+      "mood": "fond_wistful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ほんま、嬉しいわ!",
+      "en": "God, I'm so happy to see you.",
+      "style": "Voice catches slightly on the opening. Tender and undefended — the aunt stops performing and just feels it. Slow, warm, a little rough with emotion. The kind of thing said once you stop worrying about how it sounds.",
+      "mood": "tender_emotional"
+    }
+  ]
+}

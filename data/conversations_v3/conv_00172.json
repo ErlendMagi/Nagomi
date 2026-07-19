@@ -1,0 +1,83 @@
+{
+  "id": "conv_00172",
+  "context": "Daichi is filling in for his sister at his nephew's parent-teacher meeting. Ms. Asuka has never met him before; the Kansai accent surprises her.",
+  "purpose": "professional / informal collision — Kansai uncle navigating Tokyo school formality",
+  "ambient": "classroom_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "担任",
+    "甥",
+    "代わり",
+    "成績",
+    "心配"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日はわざわざありがとうございます。",
+      "en": "Thank you for coming in today.",
+      "style": "Asuka professional teacher politeness, formal warmth holding the parent-teacher register, careful courtesy throughout.",
+      "mood": "professionally-polite"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "いえいえ、姉貴の代わりでして。",
+      "en": "Not at all — I'm here in my sister's place.",
+      "style": "Kansai warm casual register collision with school formality, easy familiarity in 「姉貴」 charming and unguarded.",
+      "mood": "casually-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "あ、関西の方ですか？",
+      "en": "Oh, are you from Kansai?",
+      "style": "Teacher mild pleasant surprise, professional formality cracking just slightly with genuine curiosity briefly.",
+      "mood": "mildly-surprised"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "大阪ですわ。甥っ子のこと、なんか問題ありますか？",
+      "en": "Osaka, yeah. Anything going on with my nephew?",
+      "style": "Kansai warm direct pivot to the matter, no formality wasted, real concern under the casual delivery.",
+      "mood": "directly-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "成績は良いんですが、最近少し静かで。",
+      "en": "His grades are good, but he's been a little quiet lately.",
+      "style": "Teacher professional careful sharing, the praise-then-concern structure delivered with experience, soft real observation.",
+      "mood": "carefully-observing"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ほー、静かに。家ではあんま喋らんですか。",
+      "en": "Huh, quiet, huh. He doesn't talk much at home either?",
+      "style": "Kansai genuine concern surfacing through the casual swing, the dialect making the heavy moment land warmly.",
+      "mood": "casually-concerned"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "お家でもですか。少し気にかけてあげてください。",
+      "en": "At home too? Please pay him a little attention.",
+      "style": "Teacher gentle professional request, the concern shared appropriately, soft careful suggestion offered with respect.",
+      "mood": "gently-requesting"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "わかりました。姉貴にも伝えます。",
+      "en": "Got it. I'll tell my sister too.",
+      "style": "Kansai sincere commitment, the family responsibility taken seriously underneath the casual register held throughout.",
+      "mood": "sincerely-committing"
+    }
+  ]
+}

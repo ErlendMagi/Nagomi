@@ -1,0 +1,84 @@
+{
+  "id": "conv_04459",
+  "context": "Two coworkers plan a small office field trip",
+  "purpose": "Teach: 楽天/フィールド/オークション/タイヤ/マッサージ/水道/マニア/六月",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "楽天",
+    "フィールド",
+    "オークション",
+    "タイヤ",
+    "マッサージ",
+    "水道",
+    "マニア",
+    "六月"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_224 workflow ww078rn24)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "雪さん、六月の初めに社員旅行を計画しようと思うんだけど、何かいい案ある？",
+      "en": "Yuki, I'm thinking of planning a company trip in early June—any ideas?",
+      "style": "Casual male coworker voice, friendly initiating tone with rising curiosity at the end."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいですね！楽天イーグルスの試合を観に行くのはどうですか？仙台なら日帰りでも行けますよ。",
+      "en": "Sounds great! How about going to see a Rakuten Eagles game? Sendai is close enough for a day trip.",
+      "style": "Bright female office voice, enthusiastic suggestion with cheerful upward inflection."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "野球か、いいね。試合の前に近くの公園でフィールドワーク的にチームビルディングもできそうだ。",
+      "en": "Baseball, nice. Before the game we could do some team-building fieldwork at a nearby park too.",
+      "style": "Thoughtful male voice warming to the idea, practical and slightly upbeat."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あ、でも社用車で行くなら、まだ冬タイヤのままなので、夏用に交換しないといけませんね。",
+      "en": "Oh, but if we take the company car, it's still on winter tires—we'd have to swap them for summer ones.",
+      "style": "Helpful female voice raising a practical concern, slightly apologetic tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうだった。最近ネットオークションで安いタイヤが出てたから、後でチェックしておくよ。",
+      "en": "Right, I forgot. There were cheap tires on an online auction recently—I'll check later.",
+      "style": "Agreeable male voice taking responsibility, calm and reassuring."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。あと、部長は鉄道マニアだから、新幹線で行く案も喜ぶと思いますよ。",
+      "en": "That helps. Also, the manager is a train enthusiast, so I think he'd love a shinkansen option too.",
+      "style": "Helpful female voice sharing insider info with a light, knowing smile."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど、新幹線も比較してみよう。長旅だと疲れるから、駅のマッサージ店に寄るのもいいかもね。",
+      "en": "Got it, let's compare the shinkansen too. Long trips are tiring, so stopping by a station massage place might be nice.",
+      "style": "Considerate male voice with a relaxed, slightly humorous chuckle at the end."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "予算の話ですが、先月オフィスの水道工事があって経費が少しきついみたいです。",
+      "en": "About the budget—there was water pipe construction at the office last month, so expenses are a bit tight.",
+      "style": "Concerned female voice lowering tone to share serious financial news."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ無理せず近場の日帰り案も用意して、みんなで予算案を出し合おう。",
+      "en": "Then let's prepare a modest local day-trip option too, and have everyone pitch in budget proposals.",
+      "style": "Decisive male voice wrapping up the discussion with a collaborative warm tone."
+    }
+  ]
+}

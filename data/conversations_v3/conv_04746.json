@@ -1,0 +1,90 @@
+{
+  "id": "conv_04746",
+  "context": "A barista chats with a uni student about regional shops",
+  "purpose": "Teach: 乗客/運賃/航空機/住居/富山/青森/秋田/茨城",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "乗客",
+    "運賃",
+    "航空機",
+    "住居",
+    "富山",
+    "青森",
+    "秋田",
+    "茨城"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_239 workflow wutz90wj3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "このコーヒー豆、青森のりんご農家がやってる小さな焙煎所のなんですよ。",
+      "en": "These coffee beans are from a small roastery run by an apple farmer in Aomori.",
+      "style": "Warm cafe voice, slightly proud, conversational opener"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、面白いですね。地方の小さなお店、最近よく特集されてますよね。",
+      "en": "Wow, interesting. Local small shops have been featured a lot lately, haven't they?",
+      "style": "Curious student tone, polite and engaged here"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんです。先週は富山の薬売り文化を見に行ってきたんですけど、今もちゃんと残ってて驚きました。",
+      "en": "Right. Last week I went to see Toyama's medicine peddler culture, and I was surprised it's still alive.",
+      "style": "Storytelling cadence, animated and friendly conversational tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "富山まで?飛行機使ったんですか、それとも新幹線?",
+      "en": "All the way to Toyama? Did you take a plane or the bullet train?",
+      "style": "Casual follow-up question, mildly impressed inquiring tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "新幹線です。航空機だと片道運賃で往復のチケットが買えちゃうくらい高くて。",
+      "en": "Bullet train. Flights are so expensive that a one-way fare costs about the same as a round-trip ticket.",
+      "style": "Practical explanation with a slightly laughing tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかります。僕も帰省するとき深夜バス使ってます。茨城の実家まで乗客もまばらで静かなんですよ。",
+      "en": "I get it. I take overnight buses when I go home, the passengers are sparse and it's quiet all the way to Ibaraki.",
+      "style": "Relatable student remark, friendly and disclosing tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "茨城のメロン、有名ですよね。今度仕入れさせてもらいたいくらい。",
+      "en": "Ibaraki melons are famous, right? I'd love to source some sometime.",
+      "style": "Enthusiastic, networking-minded barista comment with warmth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いいですね。あ、そういえば秋田の温泉旅館で出してたコーヒーがすごく美味しくて、あれも地元焙煎でした。",
+      "en": "That'd be great. Oh, the coffee at an Akita hot spring inn was amazing, also locally roasted.",
+      "style": "Recalling a memory, animated and nostalgic tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "秋田にも行きたいなあ。地方移住も考えてて、住居費が安い場所で小さな店やるのが夢なんです。",
+      "en": "I want to visit Akita too. I'm thinking about moving to the countryside, my dream is running a small shop where housing costs are cheap.",
+      "style": "Dreamy and sincere, sharing aspirations gently here"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素敵な夢ですね。応援します。次は富山の豆も飲んでみたいです。",
+      "en": "That's a wonderful dream. I'm rooting for you. Next time I'd like to try the Toyama beans too.",
+      "style": "Genuine encouragement, warm closing remark with sincerity"
+    }
+  ]
+}

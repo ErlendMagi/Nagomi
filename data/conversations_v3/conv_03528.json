@@ -1,0 +1,84 @@
+{
+  "id": "conv_03528",
+  "context": "A lawyer explains an M&A case to two managers",
+  "purpose": "Teach: 買収/債権/手数料/中止/ドメイン/マネジメント/廃棄/本件",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "買収",
+    "債権",
+    "手数料",
+    "中止",
+    "ドメイン",
+    "マネジメント",
+    "廃棄",
+    "本件"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_177 workflow w3gqipgb2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本件の買収について、状況を整理してお伝えします。",
+      "en": "Regarding this matter's acquisition, I'll organize the situation and explain it.",
+      "style": "Formal opening, slow measured pace, authoritative lawyer-like tone establishing the briefing."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、よろしくお願いします。本件はかなり複雑だと聞いていますが。",
+      "en": "Yes, thank you. I've heard this matter is quite complicated.",
+      "style": "Polite attentive manager voice, slightly tense, professional ですます register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まず、相手企業の債権の状態に問題がありまして、買収交渉は一旦中止することになりました。",
+      "en": "First, there's a problem with the target company's claims status, so we've decided to halt acquisition talks for now.",
+      "style": "Deliberate explanatory cadence, slight gravity on the word halt, controlled delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "中止ですか。すでに支払った手数料はどうなるんでしょうか。",
+      "en": "Halted? What happens to the fees we've already paid?",
+      "style": "Surprised but composed, rising worry on the question, polite manager tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "弁護士の話では、手数料の一部は契約条項により返還される見込みです。",
+      "en": "According to the lawyer, part of the fees should be refunded under the contract clauses.",
+      "style": "Reassuring but measured, slight legal precision, calm authoritative pace."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。あちらが保有しているドメインや顧客データの扱いは?",
+      "en": "I see. What about the domain and customer data they hold?",
+      "style": "Quick follow-up, sharper analytical tone, leaning forward energy."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ドメインは先方に残し、機密文書はすべて廃棄するよう要請しました。",
+      "en": "The domain stays with them, and we've requested all confidential documents be disposed of.",
+      "style": "Crisp businesslike delivery, firm on the disposal instruction, decisive cadence."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "今後のリスクマネジメントについては、どう進めればよろしいですか。",
+      "en": "How should we proceed with risk management going forward?",
+      "style": "Forward-looking professional tone, seeking direction, respectful upward inflection."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来週、改めてマネジメント会議を開いて、再発防止策を共有しましょう。",
+      "en": "Next week, let's hold a management meeting again and share preventive measures.",
+      "style": "Conclusive directive tone, warmer collaborative finish, steady leadership voice."
+    }
+  ]
+}

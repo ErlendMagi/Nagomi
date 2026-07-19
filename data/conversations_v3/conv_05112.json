@@ -1,0 +1,78 @@
+{
+  "id": "conv_05112",
+  "context": "A boss and his manager dissect a long-form policy article",
+  "purpose": "Teach: 内科/洪水/断片/正統/腐敗/駐在/車線/開花",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "内科",
+    "洪水",
+    "断片",
+    "正統",
+    "腐敗",
+    "駐在",
+    "車線",
+    "開花"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_257 workflow w2qhb13ru)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、よく書けてるけど、内科の現場の声が一切ないのが気になるな。",
+      "en": "This article is well written, but I'm bothered that the voices from internal medicine clinics are entirely absent.",
+      "style": "Authoritative boss tone with critical analytical framing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かに。豪雨と洪水の被害地域の医療体制についても、データの断片しか載っていません。",
+      "en": "Indeed. Even regarding the medical systems in heavy-rain and flood-damaged areas, only fragments of data are presented.",
+      "style": "Polite agreeable manager tone with measured professional cadence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "筆者は自分こそ正統な改革派みたいな書きぶりだが、結局は省庁の腐敗を曖昧にしてるだけだろ。",
+      "en": "The author writes as if he himself were the orthodox reformer, but in the end he's just glossing over ministerial corruption.",
+      "style": "Sharp critical boss tone with cynical executive bite"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "海外駐在の経験者として、現地の事例を引用してる箇所は説得力ありましたけどね。",
+      "en": "As someone who has done overseas postings, I did find the parts citing local cases quite persuasive though.",
+      "style": "Diplomatic manager pushback with respectful counter-framing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それはそうだが、高速の追加車線の話と政策論を並べる構成は強引すぎないか?",
+      "en": "That may be so, but isn't the structure that lines up the additional highway lane discussion with policy theory rather forced?",
+      "style": "Probing boss tone with rhetorical challenge to subordinate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。論点を絞れば、若手研究者の才能の開花にも触れられたはずです。",
+      "en": "You're absolutely right. If he had narrowed the focus, he could even have touched on the blossoming of young researchers' talents.",
+      "style": "Deferential manager agreement with constructive editorial suggestion"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うちの社内報に転載するなら、その辺を編集部に書き直してもらおう。",
+      "en": "If we're going to reprint it in our company newsletter, let's have the editorial team rewrite those portions.",
+      "style": "Decisive boss conclusion with directive managerial authority"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。明日の朝までに修正案をまとめてお持ちします。",
+      "en": "Understood. I'll compile a revision proposal and bring it to you by tomorrow morning.",
+      "style": "Crisp manager acknowledgment with committed deliverable framing"
+    }
+  ]
+}

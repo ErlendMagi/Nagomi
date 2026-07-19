@@ -1,0 +1,79 @@
+{
+  "id": "conv_05926",
+  "context": "A boss reviews international project ops",
+  "purpose": "Teach: 出費/税関/駆けつけ/散々/利息/定時/月間/多忙",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出費",
+    "税関",
+    "駆けつけ",
+    "散々",
+    "利息",
+    "定時",
+    "月間",
+    "多忙"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外案件、出費が想定を超えている。",
+      "en": "The overseas project is running over budget.",
+      "style": "Direct opening. Steady, measured delivery. No flourish—just the fact. Slight pause after the dash, like he's checking the numbers himself. Cool professional tone.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。税関手続きで散々な遅延、発生しました。",
+      "en": "Yes. The customs delays were… extensive.",
+      "style": "Respectful acknowledgment. Careful on 'extensive'—not making excuses, just stating what happened. Quiet, shoulder-forward posture. A man reporting to someone who expects precision.",
+      "mood": "apologetic_factual"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現場、誰が駆けつけたんだ。",
+      "en": "Who went out to the site?",
+      "style": "Sharp, direct question. No preamble. Eyes forward, expecting a clear answer. The tone of someone who already suspects the answer and is testing attention to detail.",
+      "mood": "scrutinizing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "多忙な中、二人が出張対応してくれました。",
+      "en": "Two of them handled the trip despite their schedules.",
+      "style": "Slight pride underneath the formality. Steady, even pace. Lift slightly on 'two'—acknowledging the sacrifice. Respectful of their effort without over-stating it.",
+      "mood": "respectful_subdued"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "銀行融資の利息、月間ベースで増減を確認しろ。",
+      "en": "Check the monthly variance on the bank interest rates.",
+      "style": "Command-level instruction. Clipped, efficient. No softening. Assumes competence—this is not a question. Weight on 'check' and 'monthly.' Eyes unchanged.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "定時で帰れる体制、見直しています。",
+      "en": "We're reviewing how to protect people's time off.",
+      "style": "Pivot in tone—softer, more reflective. Slower pace. The shift from business to principle. Quiet conviction. Looking past the numbers to what they mean.",
+      "mood": "reflective_serious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人を大事に。",
+      "en": "Take care of your people.",
+      "style": "Final statement. Gentle but firm. Like closing a door that matters. Steady eye contact. The humanity underneath all the procedure. Short breath before the full stop.",
+      "mood": "grave_caring"
+    }
+  ]
+}

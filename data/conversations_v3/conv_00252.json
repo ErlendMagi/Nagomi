@@ -1,0 +1,90 @@
+{
+  "id": "conv_00252",
+  "context": "Kenji and Mei discover they take the same morning train. The first awkward-pleasant conversation.",
+  "purpose": "commuter chance meeting — small everyday kindness across two strangers-by-proximity",
+  "ambient": "train_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "偶然",
+    "同じ",
+    "電車",
+    "仕事",
+    "帰り"
+  ],
+  "cast": [
+    "kenji_office",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "あ…おはようございます。",
+      "en": "Oh… good morning.",
+      "style": "Romantic warm soft careful tentative greeting, the gentle real wanting-to-be-polite audible, soft real warmth throughout delivery throughout.",
+      "mood": "softly-tentative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おはようございます。同じ電車ですね、最近。",
+      "en": "Good morning. Same train, lately.",
+      "style": "Salaryman warm professional careful observation, the soft real polite-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "politely-warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ですよね。気付いてました。",
+      "en": "Indeed. I noticed.",
+      "style": "Romantic warm soft mild admission, the gentle real friendly-warmth audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "mildly-warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お仕事、こっちの方面ですか？",
+      "en": "Your work — in this direction?",
+      "style": "Salaryman warm careful gentle inquiry, the soft real polite-curiosity audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "carefully-polite"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、デザイン会社で。新宿です。",
+      "en": "Yes, at a design firm. Shinjuku.",
+      "style": "Romantic warm sincere casual disclosure, the soft real polite-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "casually-sincere"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、私もそっち方面で。",
+      "en": "Ah, I head that way too.",
+      "style": "Salaryman warm friendly easy matching, the soft real adult-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "easily-matching"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "帰りも、もしかして似た時間ですか？",
+      "en": "And on the way back — similar time?",
+      "style": "Romantic warm careful curious gentle, the soft real real-friendly audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "carefully-curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "七時前後が多いです。",
+      "en": "Around seven, usually.",
+      "style": "Salaryman warm easy practical sharing, the soft real friendly-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "easily-practical"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "また、お会いするかもしれませんね。",
+      "en": "We may meet again, then.",
+      "style": "Romantic warm gentle soft closing observation, the soft real shy-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-closing"
+    }
+  ]
+}

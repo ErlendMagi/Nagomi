@@ -1,0 +1,75 @@
+{
+  "id": "conv_02958",
+  "context": "Ren reports a client negotiation to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (資産/顧客/交渉/金額/会計) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資産",
+    "顧客",
+    "交渉",
+    "金額",
+    "会計"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "大事な顧客と、交渉してきました。",
+      "en": "I negotiated with an important client.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "金額は、折り合ったかね?",
+      "en": "Did the amount come to terms?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "希望の金額で、合意できました。",
+      "en": "We agreed on the desired amount.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会計の処理は、頼んだかね?",
+      "en": "Did you ask for the accounting?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、会計に回しました。",
+      "en": "Yes, I sent it to accounting.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この顧客は、大きな資産になるな。",
+      "en": "This client will be a great asset.",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "顧客との信頼も、資産ですね。",
+      "en": "Trust with clients is an asset too.",
+      "style": "thoughtful young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良い交渉だった。引き続き頼む。",
+      "en": "A good negotiation. Keep it up.",
+      "style": "satisfied boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

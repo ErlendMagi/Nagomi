@@ -1,0 +1,72 @@
+{
+  "id": "conv_05425",
+  "context": "A uni student helps a teen friend untangle a friendship issue",
+  "purpose": "Teach: 何やら/思い込ん/思い込み/やさしく/今さら/間近/一同/礼儀",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "何やら",
+    "思い込ん",
+    "思い込み",
+    "やさしく",
+    "今さら",
+    "間近",
+    "一同",
+    "礼儀"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、最近、ナナちゃんが何やら距離置いてる気がして。",
+      "en": "Senpai, I get the feeling Nana's been pulling away from me lately.",
+      "style": "Hesitant opening, like she's been sitting on this worry. Soft tone, almost confessional. Eyes checking to see if she sounds paranoid. Quick delivery on the concern, then a small trailing question in her voice.",
+      "mood": "uncertain_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お前が思い込んでるだけかも。やさしく、真意を確かめてみよう。",
+      "en": "Could just be in your head, you know? Maybe talk to her about it, see what's really going on.",
+      "style": "Measured and steady. Not dismissing her worry—grounding it. Leans forward slightly with quiet reassurance. The tone of someone who's watched her spiral before and knows the antidote is honesty, not reassurance alone.",
+      "mood": "steady_reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "試験間近で、私の方が余裕なくて、礼儀かいてたかも。",
+      "en": "Yeah… with exams coming up, I've been so stressed I haven't even had time to think. I might've been kind of cold to her.",
+      "style": "Realization dawning mid-sentence. Quiet, almost ashamed. Self-criticism underneath but not performed—just fact-checking herself out loud. Slight exhale as she admits it.",
+      "mood": "self_aware_regretful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今さらでも、一同が分かり合うチャンスはまだあるよ。",
+      "en": "It's not too late, though. You two can still find your way back to each other.",
+      "style": "Quiet conviction. No performance of wisdom. Direct eye contact level steady. The kind of thing he wouldn't say if he didn't mean it. Warm but not soft—he's giving her permission to fix this.",
+      "mood": "gentle_believing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "明日、私から話します。",
+      "en": "Yeah. I'm going to reach out to her tomorrow.",
+      "style": "Decisive. Her voice finds its footing. Not loud—just clear. The exhale of someone who's decided. Small pause before she says it, like she's committing to it as she speaks.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん、応援してる。",
+      "en": "Good. I'm with you on this.",
+      "style": "Soft close. Said quietly but with real weight behind it. Not cheerleading—just presence. The kind of thing you say when you mean you'll remember she did this, and you believe she can do it.",
+      "mood": "supportive_warm"
+    }
+  ]
+}

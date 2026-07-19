@@ -1,0 +1,78 @@
+{
+  "id": "conv_03347",
+  "context": "A mother brings in her child",
+  "purpose": "Reassure a parent; teach 感染/拒否/対処/防衛/認定/形態/青年/実質",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "感染",
+    "拒否",
+    "対処",
+    "防衛",
+    "認定",
+    "形態",
+    "青年",
+    "実質"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_168)",
+    "generated_at": "2026-05-29T17:43:33.003Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "子どもが感染したかもしれません。",
+      "en": "My child may have caught an infection.",
+      "style": "anxious mother seeking help, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "検査を拒否しなければ、すぐ分かりますよ。",
+      "en": "If you don’t refuse the test, we’ll know soon.",
+      "style": "doctor offering a calm path, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "早く対処したくて。",
+      "en": "I want to deal with it quickly.",
+      "style": "worried mother urging speed, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子どもの防衛力は意外と高いんです。",
+      "en": "Children’s defenses are surprisingly strong.",
+      "style": "reassuring doctor offering comfort, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "学校に、病気として認定してもらう必要は？",
+      "en": "Does the school need it certified as illness?",
+      "style": "practical mother asking procedure, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "軽い形態なら、その必要はありません。",
+      "en": "If it’s a mild form, there’s no need.",
+      "style": "doctor clarifying gently, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "上の子は、もう青年ですが、うつりますか？",
+      "en": "My older one is a young adult — could it spread?",
+      "style": "mother extending her concern, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "手洗いを徹底すれば、実質、心配いりません。",
+      "en": "With thorough handwashing, essentially no worry.",
+      "style": "doctor giving practical reassurance, tone holding steady through the whole line"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_02207",
+  "context": "Saito treats a child for an ear infection; quiet exam.",
+  "purpose": "Doctor caring for sick child gently.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "治療",
+    "症状",
+    "耳",
+    "熱い",
+    "休む",
+    "心配",
+    "安心",
+    "優しい"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_111)",
+    "generated_at": "2026-05-27T17:28:11.025Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "翔くん、耳の症状、見せてね。",
+      "en": "Sho, let me see your ear — where it's bothering you.",
+      "style": "Warm, unhurried introduction. Soft eye contact as she settles in to examine him. Clear but gentle voice, the kind that steadies a worried child.",
+      "mood": "gentle_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、熱い感じ、する。",
+      "en": "Doctor, it feels hot.",
+      "style": "Small, vulnerable voice. Not performed worry — genuine discomfort breaking through. A pause before speaking, like he's checking if it's okay to admit it hurts.",
+      "mood": "uncomfortable_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配いりません、優しい薬、出します。",
+      "en": "There's nothing to worry about. I'm going to give you some gentle medicine.",
+      "style": "Steady, reassuring tone without false cheerfulness. A slight lift at the end — not a question, but an invitation to feel safer. The voice of someone who has said this a thousand times and means it each time.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "治療、いつまで?",
+      "en": "How long do I need to take it?",
+      "style": "Quiet uncertainty underneath the question. Not anxious — just wanting to understand what comes next. A 6-year-old's practical worry.",
+      "mood": "curious_worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一週間、ようけ休んでね。",
+      "en": "About a week. Make sure you get plenty of rest.",
+      "style": "Clear, straightforward instruction with warmth underneath. Not condescending — speaking to him as someone capable of following through. A beat of genuine care in the delivery.",
+      "mood": "caring_clear"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、安心した、ありがとう!",
+      "en": "Okay — I feel better already. Thank you!",
+      "style": "Sudden brightening. Relief pouring out in the words. A small child's gratitude is guileless and complete. Voice lifts on the thank you.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "元気になって、また会おうな。",
+      "en": "Get well soon, and we'll see each other again.",
+      "style": "Warm, genuine closure. Not dismissive — the voice of someone who actually cares how this small person's story continues. A gentle send-off that makes him feel seen.",
+      "mood": "warm_encouraging"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07746",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 短縮/共存/退院/各自/待機/早起き/仲介/専業",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "短縮",
+    "共存",
+    "退院",
+    "各自",
+    "待機",
+    "早起き",
+    "仲介",
+    "専業"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_389 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会議時間、本気で、絶対、短縮、絶対、しろ、本気で、頼んだぞ",
+      "en": "Shorten meeting times. I'm serious about this—non-negotiable. I'm counting on you.",
+      "style": "Sharp, commanding. Direct eye contact. No softening. Clipped rhythm. The tone of someone used to being obeyed, but not unkind about it.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新旧システム、本気で、絶対、共存、絶対、運用、絶対、いたします、本気で、感謝",
+      "en": "Yes, sir. We're managing the old and new systems in parallel. Thank you for your clear direction.",
+      "style": "Measured, professional. A slight bow of the head on the affirmative. Steady pace, careful enunciation. The tone of someone taking notes mentally, making sure he gets it right.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "入院した田中さんの、本気で、絶対、退院、絶対、状況、絶対、確認しろ、本気で、頼んだぞ",
+      "en": "Follow up on Tanaka's status. Find out when he can return to work.",
+      "style": "Clipped, purposeful. Slightly softer than the first line—this one carries a note of actual concern beneath the directness. Leans forward slightly.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人研修、本気で、絶対、各自、絶対、進捗、絶対、把握しております、本気で、感謝",
+      "en": "Understood. The new hire training is on track. We're monitoring everyone's progress closely.",
+      "style": "Calm, reassuring. Slightly quicker pace than the previous line. A small nod. The tone of someone delivering good news and wanting it to land clearly.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "非常時、本気で、絶対、待機、絶対、人員、絶対、確保しろ、本気で、頼んだぞ",
+      "en": "In case of emergency, secure adequate personnel on standby. Make it happen.",
+      "style": "Firm, no-nonsense. A short pause after 'emergency' for weight. Lower register, deliberate. The underlying seriousness of the request comes through without raising volume.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、本気で、絶対、早起き、絶対、推奨、絶対、社内、絶対、進めております、本気で、感謝",
+      "en": "Yes, sir. We're encouraging our team to maintain earlier schedules. Everything is proceeding as planned.",
+      "style": "Polished, formal. A touch of pride in the delivery—he's communicating competence. Even rhythm, clear articulation. The tone of reporting progress to someone whose approval matters.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取引、本気で、絶対、仲介、絶対、業者、絶対、選定しろ、本気で、頼んだぞ",
+      "en": "Select vendors carefully for our partnerships. Choose well.",
+      "style": "Weighted, deliberate. A slight pause before 'carefully'—this matters. Lower pitch, careful diction. The tone of someone who knows that one bad vendor choice ripples outward.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、本気で、絶対、専業、絶対、希望、絶対、調整しております、本気で、感謝",
+      "en": "Understood, sir. We're reviewing staff preferences for full-time positions and making adjustments accordingly.",
+      "style": "Professional, slightly warmer than earlier responses. A sense of completion in the delivery—this feels like the final item on a list. Clear, confident pacing.",
+      "mood": "professional"
+    }
+  ]
+}

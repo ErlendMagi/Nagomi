@@ -1,0 +1,86 @@
+{
+  "id": "conv_10000",
+  "context": "Mom and son chat",
+  "purpose": "Teach: ニッチ/日本航空/アリーナ/ソフィア/釜山/ジャマイカ/ユニセフ/松竹",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ニッチ",
+    "日本航空",
+    "アリーナ",
+    "ソフィア",
+    "釜山",
+    "ジャマイカ",
+    "ユニセフ",
+    "松竹"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_501 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがニッチなビジネスのお話して下さるそうよ",
+      "en": "Sho, your father says he'll tell you about his interesting business venture.",
+      "style": "Warm, conspiratorial tone—like she's sharing something special. Soft opening, a slight smile underneath. Unhurried, inviting Sho to feel included in what Dad wants to share.",
+      "mood": "warm_indulgent"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと日本航空のラウンジ行ったよ",
+      "en": "Mom, I went to the Japan Airlines lounge with Dad!",
+      "style": "Bright, immediate excitement. Quick breath in at the start. Words tumbling out—he can barely contain the thrill of something grown-up and new. Leaning forward slightly.",
+      "mood": "eager_pride"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがアリーナのコンサートチケットを下さったわ",
+      "en": "Sho, your father got you tickets to a concert at the arena.",
+      "style": "Gentle, pleased observation. Slight warmth in the middle—noticing how much this matters. Even pace, like she's savoring the moment of telling him. Tender trailing-off.",
+      "mood": "quietly_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとソフィアの絵本見たよ",
+      "en": "Mom, Dad and I looked at a Sofia picture book together!",
+      "style": "Bright, uncomplicated joy. Words crisp and clear. Quick energy, like he wants to make sure she knows every detail. A child's pure happiness without performance.",
+      "mood": "bright_delight"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが釜山出張のお土産を下さったわ",
+      "en": "Sho, your father brought back a souvenir from his trip to Busan.",
+      "style": "Soft appreciation in the tone. Slight pause before speaking—she's noticing the pattern. Thoughtful, not rushed. A hint of something deeper underneath—she sees what he's doing.",
+      "mood": "gently_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとジャマイカ料理屋さん行ったよ",
+      "en": "Mom, Dad took me to a Jamaican restaurant!",
+      "style": "Unbridled enthusiasm. Words sharp and present. He's moving in his seat slightly—can't hold still with the excitement. The kind of innocent joy that needs to be heard fully.",
+      "mood": "bright_wonder"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがユニセフへの募金を続けてらっしゃるわ",
+      "en": "Sho, your father continues to give to UNICEF, you know.",
+      "style": "Quiet reverence underneath the words. Slower pace. Not stating fact—reflecting on something she's come to understand about him. Composed but clearly moved.",
+      "mood": "warm_admiration"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと松竹の映画祭行ったよ",
+      "en": "Mom, Dad and I went to the Shochiku film festival together!",
+      "style": "Pure, uncontained delight reaching a peak. Words tumbling with final energy. His voice bright and secure—he wants her to know this was special. A full, satisfied brightness closing out.",
+      "mood": "joyful_proud"
+    }
+  ]
+}

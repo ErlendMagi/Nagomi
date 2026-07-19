@@ -1,0 +1,86 @@
+{
+  "id": "conv_07987",
+  "context": "Two managers chat",
+  "purpose": "Teach: 埋まっ/労組/貸出/定休/代え/所存/営ん/取調べ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "埋まっ",
+    "労組",
+    "貸出",
+    "定休",
+    "代え",
+    "所存",
+    "営ん",
+    "取調べ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "当社の駐車場、車で埋まっておりますね",
+      "en": "Our parking lot is completely full.",
+      "style": "Neutral observation. Matter-of-fact pace. No judgment in the delivery—just stating what she sees. Clear diction on the core fact.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労組へのご説明をいたしました",
+      "en": "Yes—I've already briefed the union about it.",
+      "style": "Straightforward, efficient. Slight pause after the dash. Professional tone, no apology. He's reporting completion. Steady eye contact.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員、図書貸出を進めましょう",
+      "en": "Let's move forward with the staff library lending program.",
+      "style": "Clear directive. Decisive without being sharp. Slightly lifted at the end—inviting agreement. Brisk forward momentum in the phrasing.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社の定休日、見直し中です",
+      "en": "Yes—we're currently reviewing the company's regular holidays.",
+      "style": "Calm status update. Light emphasis on 'currently' to show active progress. Maintains cooperative tone. Not defensive about the timeline.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "委託先を代えての試算を出しましょう",
+      "en": "Let's get estimates ready with a different contractor.",
+      "style": "Directive but collaborative. Measured pace. The word 'different' gets slight emphasis. She's confident but not overriding—leaving room for input.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、新規事業に挑む所存です",
+      "en": "Yes—we're committed to pursuing this new business opportunity.",
+      "style": "Formal but warm commitment. Slight emphasis on 'committed.' Respectful register. He's affirming her vision without flattery. Grounded delivery.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社長は長年、お店を営んでこられたのよ",
+      "en": "The president has been running this store for so many years.",
+      "style": "Reflective, slightly distant. Gentle warmth beneath. Slow measured pace. The 'so many years' trails with something like gratitude or quiet respect. Looking inward.",
+      "mood": "reflective_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員アンケート取調べを進めております",
+      "en": "Yes—we're proceeding with the staff survey now.",
+      "style": "Closing statement. Quieter than earlier responses. Respectful of what she just said. He's honoring the moment while still completing the report. Gentle finality.",
+      "mood": "attentive"
+    }
+  ]
+}

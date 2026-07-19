@@ -1,0 +1,79 @@
+{
+  "id": "conv_05643",
+  "context": "A mom comforts her young son after a stressful day",
+  "purpose": "Teach: 果て/負ける/素朴/相性/パニック/頼ま/車内/同居",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "果て",
+    "負ける",
+    "素朴",
+    "相性",
+    "パニック",
+    "頼ま",
+    "車内",
+    "同居"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日、急なテストでパニックになった。",
+      "en": "Mom, I panicked during a surprise test today.",
+      "style": "Quiet, strained opening. Small voice tight with lingering anxiety. Speaks carefully, like he's still catching his breath. Searching for permission to admit it hurt.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大丈夫よ。誰だって、想定外に負けることはある。",
+      "en": "That's okay. Everyone gets blindsided sometimes — it happens to all of us.",
+      "style": "Calm, steady reassurance. No false brightness. A gentle exhale underneath, like she's said this before and means it. Eye contact held. Normalizing without dismissing.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "バスの車内で、ずっと泣きそうだった。",
+      "en": "I almost cried the whole way home on the bus.",
+      "style": "Quieter now, ashamed admitting it. Staccato — the kind of brave that takes effort. Like he's testing whether shame is safe with her. Trailing off on the last word.",
+      "mood": "embarrassed_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おばあちゃんと同居してるから、後で電話してあげて。",
+      "en": "You live with Grandma — give her a call later, okay?",
+      "style": "Gentle redirecting. Not dismissing his hurt; shifting the channel. Warm, practical. The kind of mother who knows when to hold and when to gently hand off. Light, unforced.",
+      "mood": "gentle_knowing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。先生に頼まれた宿題、夜やる。",
+      "en": "Okay. I'll do the homework the teacher gave me tonight.",
+      "style": "Small agreement, gaining steadiness. Not cheerful, but collecting himself. Quiet determination beneath. The voice of a child choosing forward despite the sting.",
+      "mood": "resolute_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "素朴な気持ちで、頑張ろうね。空の果てまで、応援してるよ。",
+      "en": "With an honest heart, do your best. I'm cheering for you all the way.",
+      "style": "Soft, unhurried close. No artifice — just a mother saying what's true. Warmth that reaches without grasping. The kind of tenderness that gives space for him to grow into it.",
+      "mood": "loving_steadfast"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "相性悪い問題も、明日リベンジする。",
+      "en": "I'll tackle those harder problems again tomorrow.",
+      "style": "Small voice finding its shape again. Not bright yet, but the hint of forward motion. A whisper of the kid he was before the test. Gentle, determined, still careful.",
+      "mood": "cautious_hopeful"
+    }
+  ]
+}

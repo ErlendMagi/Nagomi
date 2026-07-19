@@ -1,0 +1,86 @@
+{
+  "id": "conv_10214",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 後世/頭部/低音/女子大/無能/野望/処女/侮辱",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "後世",
+    "頭部",
+    "低音",
+    "女子大",
+    "無能",
+    "野望",
+    "処女",
+    "侮辱"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_512 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、後世に残る診療記録を医療チームで保管します",
+      "en": "Ren, we keep medical records that will remain for future generations within our healthcare team.",
+      "style": "Direct, clinical but not cold. Even pace. A statement of institutional care, not a personal promise. Professional clarity with underlying steadiness.",
+      "mood": "professional_steady"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、頭部CTの読影を医療チームでおこないます",
+      "en": "Yes — we conduct the head CT reading as a team.",
+      "style": "Measured confirmation. Slight pause after 'Yes' to acknowledge the question. Steady, informative tone. No rush, no elaboration beyond what's needed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、低音域聴覚障害の患者を医療チームで診ます",
+      "en": "Ren, we evaluate patients with low-frequency hearing loss as a collaborative medical team.",
+      "style": "Even tone, diagnostic precision. The word 'we' carries the weight of collective responsibility. Calm authority without hierarchy.",
+      "mood": "professional_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "女子大の保健センターと、貴院、提携されてますね、先生",
+      "en": "Your hospital partners with the women's university health center, doesn't it, Doctor?",
+      "style": "Thoughtful inquiry. Slightly tentative — Ren is testing whether he's read the situation correctly. Respectful cadence. Genuine curiosity, not challenge.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医師として無能と感じる時もありますが医療チームで支え合います",
+      "en": "Yes. There are times I feel inadequate as a doctor, but our team supports one another through that.",
+      "style": "Honest vulnerability beneath professional composure. Slight pause before 'there are times' — choosing to be candid. Warm but measured. The words land quietly.",
+      "mood": "vulnerable_supported"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療職の野望を医療チームで前向きに語ります",
+      "en": "Yes, we discuss our professional aspirations constructively as a team.",
+      "style": "Affirmative with gentle emphasis on 'we.' Unhurried, almost reflective. Shows she values optimism in ambition, not dismissing it. Steady professional warmth.",
+      "mood": "encouraging_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "処女作の医学書出版を、貴院、応援されてますね、先生",
+      "en": "Your hospital supports her debut medical publication, doesn't it, Doctor?",
+      "style": "Observant, slightly impressed. Ren connecting dots — noticing the institutional support structure. Respectful curiosity. Not quite a compliment, but close.",
+      "mood": "impressed_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者を侮辱しないよう医療チームで徹底します",
+      "en": "Yes. We're rigorous as a team about never treating patients with disrespect.",
+      "style": "Firm conviction with quiet intensity. The word 'rigorous' lands with weight. Not defensive, but clear about core values. Close, intimate register — speaking to something that matters.",
+      "mood": "principled_firm"
+    }
+  ]
+}

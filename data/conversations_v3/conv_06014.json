@@ -1,0 +1,72 @@
+{
+  "id": "conv_06014",
+  "context": "A boss reviews a regional expansion plan",
+  "purpose": "Teach: 模擬/移入/膨張/大久保/重点的/流域/妨げる/動力",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "模擬",
+    "移入",
+    "膨張",
+    "大久保",
+    "重点的",
+    "流域",
+    "妨げる",
+    "動力"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新工場、模擬運用、結果は?",
+      "en": "How did the new plant mock-operations go?",
+      "style": "Measured and direct. Lean forward slightly. Eyes tracking for detail. The efficiency of someone who expects competence and will listen for gaps.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。資材の移入ルート、最適化済みです。",
+      "en": "Yes. We've optimized the material transfer routes.",
+      "style": "Steady, professional delivery. Slight nod on 'Yes.' Speak as though you've prepared this — calm, organized. Brief but complete.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "生産膨張、需要見極めて、慎重に。",
+      "en": "Expansion needs to follow demand, not lead it. We expand carefully.",
+      "style": "Quiet weight on 'carefully.' Not instructional — more a principle being restated. Pause before it, like a thing already decided but worth saying again.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大久保物流センター、重点的に強化します。",
+      "en": "The Okubo logistics center is where we focus our reinforcement efforts.",
+      "style": "Affirmative tone. Slight nod. Speaking as though confirming a plan already understood. No hesitation, no embellishment.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "河川流域の規制、操業を妨げる要素になり得る。",
+      "en": "River-basin regulations could become a real constraint on operations.",
+      "style": "Thoughtful pause before starting. Lower pitch — considering something carefully. Not alarm, but genuine weight. Eyes unfocused briefly, then back.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "動力源も、再生可能エネルギーで検討中です。",
+      "en": "We're also evaluating renewable energy sources for our power needs.",
+      "style": "Steady close. Professional finality without being abrupt. The tone of a report moving toward completion. Composed, informative.",
+      "mood": "professional"
+    }
+  ]
+}

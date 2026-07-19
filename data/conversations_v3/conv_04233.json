@@ -1,0 +1,78 @@
+{
+  "id": "conv_04233",
+  "context": "A uni student meets his teacher to discuss department requirements",
+  "purpose": "Teach: 教養/キャンパス/スペシャル/部会/講習/グランド/早朝/史上",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "教養",
+    "キャンパス",
+    "スペシャル",
+    "部会",
+    "講習",
+    "グランド",
+    "早朝",
+    "史上"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、すみません、教養課程の必修について相談したいんですが。",
+      "en": "Professor, sorry, I'd like to consult about the general education required courses.",
+      "style": "Polite student opening, slightly hesitant tone, formal academic register"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ああ、レンくん。ちょうど今、キャンパスを歩きながら考えてたところよ。",
+      "en": "Ah, Ren. I was just thinking about that while walking across campus.",
+      "style": "Warm teacher voice, casual feminine, approachable mentor tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "実は、夏休みのスペシャル講習を取るか迷っていて…",
+      "en": "Actually, I'm torn about whether to take the special summer course...",
+      "style": "Thoughtful, trailing off, expressing genuine indecision politely"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "先週の専門部会で、その件が話題になったのよ。受講者が史上最多らしくて。",
+      "en": "At last week's department committee meeting, that came up. Apparently enrollment is the highest ever.",
+      "style": "Informative teacher tone, sharing insider faculty information conversationally"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そんなに人気なんですか。早朝の枠もあるって聞きました。",
+      "en": "It's that popular? I heard there's even an early-morning slot.",
+      "style": "Surprised student, leaning forward with curiosity, polite register"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、六時集合よ。グランドで体を動かしてから講義室に移動するの。",
+      "en": "Yes, six AM gathering. You move your body on the field, then head to the lecture room.",
+      "style": "Matter-of-fact teacher, mildly amused at the demanding schedule"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うわ、きつそう…でも、それで単位が二つ取れるなら頑張ります。",
+      "en": "Whoa, sounds brutal... but if I can get two credits from it, I'll push through.",
+      "style": "Honest reaction followed by determined student commitment"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "その意気よ。申込書、明日までに私の研究室に出しておいてね。",
+      "en": "That's the spirit. Submit the application to my office by tomorrow.",
+      "style": "Encouraging close, gentle but firm deadline reminder from mentor"
+    }
+  ]
+}

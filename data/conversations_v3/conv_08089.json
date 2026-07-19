@@ -1,0 +1,86 @@
+{
+  "id": "conv_08089",
+  "context": "Officer briefs",
+  "purpose": "Teach: 宮内庁/日夜/儲ける/コネ/ドロップ/修習/総数/産婆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "宮内庁",
+    "日夜",
+    "儲ける",
+    "コネ",
+    "ドロップ",
+    "修習",
+    "総数",
+    "産婆"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_406 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、宮内庁との合同警備も対応しております",
+      "en": "We coordinate joint security operations with the Imperial Household Agency.",
+      "style": "Measured, official tone. Even pacing. Professional but not rigid. Ground-level competence being stated as fact, not boasting.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、日夜、市民を守ってくださりありがたいです",
+      "en": "Yes. It's truly appreciated—the police protecting citizens day and night.",
+      "style": "Respectful, genuinely warm. Slight pause before the dash. Steady eye contact. Not flattery, but sincere acknowledgment of difficult work.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、儲けるための職務ではない、誇り高い職務です",
+      "en": "Police work isn't about profit—it's a duty we take pride in.",
+      "style": "Quiet conviction on 'duty.' Not defensive, just stating something fundamental. Slight weight in the voice. Direct and unadorned.",
+      "mood": "dignified"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。コネで採用が決まる職場ではないと存じます",
+      "en": "Yes. I understand it's not a position where connections decide hiring.",
+      "style": "Respectful and earnest. Slight formality—he's showing he knows the merit system matters. Gentle agreement, not obsequious.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、退職ドロップは少ない方が望ましいです",
+      "en": "It's preferable that police retention rates stay high.",
+      "style": "Matter-of-fact. Low emphasis—stating an operational reality. Professional calm. Not lecturing, just noting what's practical.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の修習期間中、誠実なご姿勢ありがたいです",
+      "en": "Yes. I'm grateful for the sincere approach you showed during the training period.",
+      "style": "Warm and genuine. Slightly slower pace. Recognition of personal integrity beneath the uniform. Not flowery—just honest.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪総数を毎月集計しております",
+      "en": "We compile crime statistics monthly across the prefecture.",
+      "style": "Straightforward procedural delivery. No flourish. Factual tone. Like a routine report being noted and filed away.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害者支援では警察も産婆のような寄り添い心ですね",
+      "en": "Yes. In victim support, the police have that midwife's touch—truly present with people in pain.",
+      "style": "Softer register here. Genuine admiration breaking through formality. Slower. The metaphor carries real feeling. Not performative, but moved.",
+      "mood": "moved_sincere"
+    }
+  ]
+}

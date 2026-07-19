@@ -1,0 +1,61 @@
+{
+  "id": "conv_01662",
+  "context": "Kenji and Daichi help an elderly neighbor move heavy furniture.",
+  "purpose": "Two friends helping community elder; brief practical exchange.",
+  "ambient": "apartment_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "運ぶ",
+    "重い",
+    "手伝う",
+    "感謝"
+  ],
+  "cast": [
+    "kenji_office",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "この箪笥、重いなぁ。",
+      "en": "This dresser is heavy, man…",
+      "style": "Warm exhalation on the opening. Strained but honest — the sound of a man assessing weight without drama. Slight groan on the lift, then a soft, friendly resignation.",
+      "mood": "strained_honest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "せーので、運ぼか。",
+      "en": "On three, then. Let's get it.",
+      "style": "Gentle and steady. No rush in the count. Warm mentor energy — anchoring. The kind of calm that says he's done this before and trusts the person beside him.",
+      "mood": "calm_supportive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "気つけて、足元!",
+      "en": "Watch your feet there!",
+      "style": "Quick, alert attention on 「足元」. Protective without being sharp. The husbandly concern that comes from knowing how easily things go wrong in tight spaces. Stays close in the voice.",
+      "mood": "protective_alert"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええで、もう少しや。",
+      "en": "We're good, just a bit more.",
+      "style": "Breathing steady even under effort. Determined but not strained. Warm reassurance — not performative, just the quiet confidence of someone who sees the finish line.",
+      "mood": "determined_calm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "よっしゃ、これで一段落!",
+      "en": "There we go — one down!",
+      "style": "Bright, genuine relief breaks through. The laugh is in the voice. Animated, celebratory but not over-the-top — the warmth of a job well done with someone you trust.",
+      "mood": "triumphant_relief"
+    }
+  ]
+}

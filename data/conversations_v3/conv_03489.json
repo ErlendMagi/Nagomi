@@ -1,0 +1,84 @@
+{
+  "id": "conv_03489",
+  "context": "Two assistants compare two competing companies side by side",
+  "purpose": "Teach: 鈴木/配布/交付/給与/口座/同社/同一/排除",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鈴木",
+    "配布",
+    "交付",
+    "給与",
+    "口座",
+    "同社",
+    "同一",
+    "排除"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_175 workflow w1swddwqe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "鈴木さん、A社とB社の比較資料を配布しますね。給与体系から見ていきましょう。",
+      "en": "Mr. Suzuki, I'll hand out the comparison docs for Company A and B. Let's start with the salary structures.",
+      "style": "Polite professional opening, distributing materials with brisk efficiency"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。A社の方が口座への振込日が早いんですよね？",
+      "en": "Thank you. Company A deposits salaries into the account earlier, right?",
+      "style": "Confirming a detail with measured analytical curiosity here"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。それと同社は、社内表彰の表彰状を毎月発行しているそうです。",
+      "en": "Yes. And the same company apparently issues recognition certificates internally every month.",
+      "style": "Adding a supplementary fact with calm informative tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "へえ、表彰状の交付までするんですか。社員のモチベーション設計がしっかりしてますね。",
+      "en": "Huh, they even formally issue certificates? Their motivation design seems really solid.",
+      "style": "Mildly impressed, picking up on the formal detail"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一方、B社は不正を徹底的に排除する内部統制が強みだと朝日新聞に載っていました。",
+      "en": "On the other hand, the Asahi Shimbun reported that Company B's strength is internal controls that thoroughly eliminate fraud.",
+      "style": "Citing a source with crisp authoritative delivery"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。総裁選に出た元官僚の方が今B社の顧問にいるんでしたっけ？",
+      "en": "I see. Wasn't a former bureaucrat who ran in the party presidency election now an advisor at Company B?",
+      "style": "Recalling background context thoughtfully and conversationally"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうです。元裁判官や前の市長も名を連ねていて、社内規程と同一の基準で外部役員にもコンプライアンス決議への参加を求めているそうです。",
+      "en": "Right. A former judge and the previous mayor are also on the list, and they apparently require external officers to take part in compliance resolutions under the same standards as the internal rules.",
+      "style": "Listing credentials with steady detail-oriented confidence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うーん、甲乙つけ難いですね。鈴木さんにはどちらを推薦しましょうか。",
+      "en": "Hmm, it's hard to choose between them. Which one should we recommend to Mr. Suzuki?",
+      "style": "Pondering a decision with collaborative deliberation aloud"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "私としては、待遇面で安心できるA社を一押ししたいと思います。",
+      "en": "Personally, I'd like to push for Company A, since the compensation side feels more reassuring.",
+      "style": "Offering a firm personal recommendation with quiet conviction"
+    }
+  ]
+}

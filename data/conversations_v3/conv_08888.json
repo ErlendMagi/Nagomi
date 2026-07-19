@@ -1,0 +1,86 @@
+{
+  "id": "conv_08888",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 国名/軽自動車/預ける/最大手/料率/概論/役務/全日空",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国名",
+    "軽自動車",
+    "預ける",
+    "最大手",
+    "料率",
+    "概論",
+    "役務",
+    "全日空"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_446 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究論文の国名表記はISO規格に従え",
+      "en": "Ren, make sure the country names in your paper follow ISO standards.",
+      "style": "Direct, measured instruction. Calm authority without sharpness. Pauses slightly after his name—he's giving guidance, not criticism. Steady eye contact.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。フィールドワークに軽自動車を活用しました",
+      "en": "Yes. I used a light truck for the fieldwork portion.",
+      "style": "Respectful, attentive acknowledgment. Slight lift at the start to show he's listening. Then straightforward, matter-of-fact delivery of what he did. No hesitation.",
+      "mood": "compliant_earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究データを安全な保管庫に預ける方針だ",
+      "en": "Ren, you need to store your research data in a secure repository.",
+      "style": "Firm directive. No question mark in the voice—this is a requirement, not a suggestion. Clipped, businesslike. The tone of someone who has seen data lost before.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会で業界最大手の研究を学習しました",
+      "en": "Yes. I studied the leading company's research presentation at the conference.",
+      "style": "Quick confirmation. Eager to show he's already taken initiative. Slight energy lift—he's trying to demonstrate he's thoughtful about his work.",
+      "mood": "earnest_responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究費の料率計算を確認しろ",
+      "en": "Ren, verify your budget calculations.",
+      "style": "Sharp, specific instruction. The tone shifts slightly—more pressure here. Direct eye contact. This is something that needs checking now, not later.",
+      "mood": "demanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の冒頭に研究概論を入れました",
+      "en": "Yes. I've added a research overview to the paper's opening section.",
+      "style": "Prompt, focused reply. He's moving quickly through his checklist—showing he's on top of things. Slight relief in the delivery, like he's checking boxes correctly.",
+      "mood": "attentive_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室間の役務分担を明確にしろ",
+      "en": "Ren, clarify the division of responsibilities between the lab groups.",
+      "style": "Final instruction, weighted with importance. Slightly slower than the previous directive. The tone of someone establishing accountability. Deliberate and clear.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。全日空便で学会に向かう手配をしました",
+      "en": "Yes. I've arranged the ANA flights for the conference.",
+      "style": "Rapid-fire acknowledgment with quiet satisfaction. He's finished the list. The \"yes\" comes immediately, voice steady. A small sense of relief that preparations are complete.",
+      "mood": "attentive_resolved"
+    }
+  ]
+}

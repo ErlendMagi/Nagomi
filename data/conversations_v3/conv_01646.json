@@ -1,0 +1,75 @@
+{
+  "id": "conv_01646",
+  "context": "Mei helps Hina-young pick out an outfit for a special occasion.",
+  "purpose": "Mother-figure helping teen dress for an event.",
+  "ambient": "bedroom_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "服",
+    "スカート",
+    "シャツ",
+    "似合う"
+  ],
+  "cast": [
+    "mei_romantic",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、この服、似合う?",
+      "en": "Mei, does this outfit look good on me?",
+      "style": "Bright, eager curiosity in the opening. Soft hopeful lilt at the end — seeking approval from someone she trusts. No performance, just genuine asking.",
+      "mood": "hopeful_seeking"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、スカート、可愛いね。",
+      "en": "Yeah, the skirt's really cute.",
+      "style": "Warm, assured nod in the voice. Lands gently on 'cute' with genuine appreciation. Noticing — the kind of observation that makes the asker feel seen, not just heard.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "シャツの色、迷ってる。",
+      "en": "I'm not sure about the shirt color though.",
+      "style": "Hesitant, turns inward slightly. Soft uncertainty — not distressed, just thinking out loud. Pause before speaking, like she's weighing the options as she talks.",
+      "mood": "thoughtful_uncertain"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "白のほうが、品があるよ。",
+      "en": "The white one's more elegant.",
+      "style": "Thoughtful, measured delivery. Lands on 'elegant' with quiet conviction — offering guidance without pushing. Calm and clear, like she's seen this before and knows what works.",
+      "mood": "gently_certain"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "じゃあ、これにする!",
+      "en": "Okay then, I'll go with this one!",
+      "style": "Sudden bright clarity — the decision lands and she's decided. Quick, resolved energy. Warmth and relief on the same breath, like a small stone has been set down.",
+      "mood": "decided_pleased"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "素敵、自信もって行ってきて。",
+      "en": "Beautiful. Go with confidence.",
+      "style": "Tender, almost closing-the-door warmth. Slow delivery on 'confidence' — not a command but an offering, like she's handing something over. Steady and sure.",
+      "mood": "tender_supportive"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、嬉しい!",
+      "en": "Thank you, I'm so happy!",
+      "style": "Bright, full happiness — genuine gratitude that doesn't hold back. Light and quick, like the words are barely containing her relief and joy. Warm ending.",
+      "mood": "grateful_delighted"
+    }
+  ]
+}

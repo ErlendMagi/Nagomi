@@ -1,0 +1,90 @@
+{
+  "id": "conv_04086",
+  "context": "A student journalist interviews a tech manager about startup life",
+  "purpose": "Teach: ベンチャー/パートナー/テクノロジー/投入/チャレンジ/アクション/上場/委託",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ベンチャー",
+    "パートナー",
+    "テクノロジー",
+    "投入",
+    "チャレンジ",
+    "アクション",
+    "上場",
+    "委託"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間ありがとうございます。御社のようなベンチャー企業の現場を取材できて光栄です。",
+      "en": "Thank you for your time today. I'm honored to cover a startup like yours.",
+      "style": "Polite student journalist opening the interview respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。うちは三年前に資金を投入して立ち上げた小さな会社ですが、最新テクノロジーで勝負しています。",
+      "en": "Likewise. We're a small company launched three years ago with injected capital, competing through cutting-edge technology.",
+      "style": "Manager speaks confidently with measured business tone here."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。共同創業者のパートナーの方とは、どのように役割を分けていらっしゃいますか?",
+      "en": "I see. How do you divide roles with your co-founding partner?",
+      "style": "Curious follow-up question phrased politely by the interviewer."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "彼が技術、私が経営です。開発の一部は外部に委託していますが、コア部分は社内で守っています。",
+      "en": "He handles tech, I handle management. Some development is outsourced, but the core stays in-house.",
+      "style": "Clear factual answer using slightly formal business vocabulary throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "毎日が新しいチャレンジの連続だと思いますが、一番難しいのは何ですか?",
+      "en": "I imagine every day is a series of new challenges — what's the hardest part?",
+      "style": "Empathetic question inviting personal reflection from the manager."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "判断のスピードですね。考えるより先に、具体的なアクションを起こさないと市場に置いていかれます。",
+      "en": "Speed of judgment. If you don't take concrete action before overthinking, the market leaves you behind.",
+      "style": "Reflective remark delivered with quiet conviction and seriousness."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "将来的には上場も視野に入れていらっしゃるのでしょうか?",
+      "en": "Are you also considering going public in the future?",
+      "style": "Slightly bolder question, edging into sensitive territory politely."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いつかは上場したいですが、急ぎません。今は良いパートナーと、良いプロダクトを育てる時期です。",
+      "en": "Someday we want to list, but we're not rushing. Now is the time to nurture good partners and product.",
+      "style": "Calm, grounded answer balancing ambition with present focus."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、起業を夢見る学生に一言いただけますか?",
+      "en": "Finally, could you give one word of advice to students dreaming of founding a company?",
+      "style": "Warm closing question wrapping up the interview gracefully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "失敗を恐れず、まず動いてください。チャレンジしない人生こそが、一番大きなリスクだと思いますよ。",
+      "en": "Don't fear failure — just move. A life without challenge is itself the biggest risk.",
+      "style": "Encouraging final message delivered with warm mentor energy."
+    }
+  ]
+}

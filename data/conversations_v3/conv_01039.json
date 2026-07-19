@@ -1,0 +1,76 @@
+{
+  "id": "conv_01039",
+  "context": "Saito makes a country visit to check on Tatsuya.",
+  "purpose": "doctor-farmer rural-health exchange",
+  "ambient": "porch_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "相談",
+    "一緒",
+    "大切",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_052)",
+    "generated_at": "2026-05-27T03:28:17.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "たつやさん、健康、いかが？",
+      "en": "Tatsuya-san, how are you feeling healthwise?",
+      "style": "Warm, genuine opening. Soft voice with the composure of someone who has delivered this question a thousand times and means it each time. Slight lean forward, settling into the rhythm of care.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おかげさまで、元気。",
+      "en": "Thanks to you. I'm doing well.",
+      "style": "Slow, unhurried. The gratitude is quiet and genuine — not performative. A patient nod in the voice. The steadiness of someone rooted in daily rhythms and needs.",
+      "mood": "content_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "生活習慣、続けて、大切。",
+      "en": "Keeping up with your daily habits — that's what matters most.",
+      "style": "Gentle counsel, not instruction. Slight pause before 'matters most' — giving it weight without emphasis. The voice of someone who has seen what small consistent choices build over time.",
+      "mood": "wise_encouraging"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "田畑、毎日、動いてる。",
+      "en": "The fields keep me moving every day.",
+      "style": "Quiet pride in the work itself. Matter-of-fact, but there's something philosophical underneath — not boasting, observing. The voice of someone who understands that the work and the health are the same thing.",
+      "mood": "grounded_steady"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "自然な運動、最高の薬。",
+      "en": "Natural movement like that — it's the best medicine there is.",
+      "style": "Tender recognition. A slight smile audible. Not lecturing — acknowledging something true he already knows. The voice of a doctor who respects the patient's own wisdom.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "相談、いつでも、ね。",
+      "en": "You can talk to me anytime you need to.",
+      "style": "Reassurance offered simply, without fuss. The warmth of a standing promise. Slow, steady, the kind of sentence that sits with someone after the visit ends.",
+      "mood": "reliably_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、長く、お元気で。",
+      "en": "Let's keep you healthy for a long time to come.",
+      "style": "Closing warmth. A gentle closure that carries both the doctor's care and a shared future. Slight trailing softness — not hurried, honoring the relationship in the moment.",
+      "mood": "tender_hopeful"
+    }
+  ]
+}

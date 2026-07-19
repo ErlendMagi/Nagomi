@@ -1,0 +1,78 @@
+{
+  "id": "conv_03902",
+  "context": "A doctor and a teacher discuss applying for a medical research grant",
+  "purpose": "Teach: 臨床/介入/助成/拘束/学術/生成/振動/苦しみ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "臨床",
+    "介入",
+    "助成",
+    "拘束",
+    "学術",
+    "生成",
+    "振動",
+    "苦しみ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "浅香先生、実は今度、認知症の早期介入に関する臨床研究で、大型の研究助成に応募しようと思っているんです。",
+      "en": "Asuka-sensei, actually I'm planning to apply for a major research grant for a clinical study on early intervention in dementia.",
+      "style": "Calm professional tone, slightly excited about a new project"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それは素晴らしいですね。学術論文も多く書かれている斎藤先生なら、きっと通ると思いますよ。",
+      "en": "That's wonderful. Since you've published so many academic papers, Saito-sensei, I'm sure you'll be selected.",
+      "style": "Warm encouraging teacher voice, genuinely supportive and bright"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ただ、申請書類の作成にかなり拘束時間が取られそうで、外来との両立が悩みでして。",
+      "en": "However, preparing the application documents will eat up a lot of my time, and balancing it with outpatient care is a concern.",
+      "style": "Slightly troubled, thinking aloud with measured pace"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "わかります。私も研究計画を書く時、患者さんの苦しみを正しく伝える言葉を選ぶのに何日もかかりました。",
+      "en": "I understand. When I wrote research proposals, it took me days just to find the right words to convey patients' suffering.",
+      "style": "Empathetic and reflective, sharing personal experience softly"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。それに最近は、神経細胞内のタンパク質の生成異常まで踏み込んで書く必要があるんですよ。",
+      "en": "Yes. And these days, we even have to discuss abnormalities in protein synthesis within neurons.",
+      "style": "Technical but conversational, like explaining to a colleague"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。手の微弱な振動みたいな初期症状から、そこまで結びつけて論じるんですね。",
+      "en": "I see. So you connect early symptoms like faint hand tremors all the way down to that level.",
+      "style": "Curious and engaged, learning from the conversation"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうなんです。もしよければ、浅香先生に文章のチェックをお願いできないでしょうか。",
+      "en": "Exactly. If it's not too much trouble, could I ask you to proofread the writing for me?",
+      "style": "Polite earnest request, hopeful yet humble in tone"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん喜んで。週末に下書きを送ってください、しっかり読ませていただきますね。",
+      "en": "Of course, gladly. Please send me the draft over the weekend, I'll read it carefully.",
+      "style": "Bright committed agreement, professionally warm and supportive"
+    }
+  ]
+}

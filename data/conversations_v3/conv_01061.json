@@ -1,0 +1,62 @@
+{
+  "id": "conv_01061",
+  "context": "Hina and Sho visit a bookstore together.",
+  "purpose": "children bookstore exchange",
+  "ambient": "shop_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "本屋",
+    "一緒",
+    "楽しい",
+    "見る",
+    "本"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、本屋、好き？",
+      "en": "Sho, do you like bookstores?",
+      "style": "Bright, eager opening. Voice lifted with genuine curiosity. Natural rhythm of a child asking a friend. Warm and inviting, no performance—just real excitement about sharing the moment.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、絵本、いっぱい。",
+      "en": "Yeah—picture books, lots of them.",
+      "style": "Soft, contented reply. Small warm smile audible in the voice. Speaks quietly but with genuine appreciation. The gentle certainty of a six-year-old sharing something he likes.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、見ようよ。",
+      "en": "Let's look at them together, okay?",
+      "style": "Bright, open invitation. Slight upturn at the end—not demanding, but hopeful. The unguarded warmth of a child wanting to share something with a friend.",
+      "mood": "eager_inclusive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "これ、面白そう、ね。",
+      "en": "This one looks interesting.",
+      "style": "Quiet observation, almost thinking aloud. Soft voice, genuinely engaged. Small pause before speaking—the way a thoughtful six-year-old notices something and wants to point it out.",
+      "mood": "thoughtful_interested"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい、本屋。",
+      "en": "Bookstores are fun.",
+      "style": "Warm, simple closing. Soft contentment. No urgency—just a small, genuine statement of joy. The quiet satisfaction of being somewhere good with a friend.",
+      "mood": "content_warm"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02487",
+  "context": "Kenji helps Yuki set up a dashboard tool.",
+  "purpose": "WIDENED SCENARIO: tech help; UI vocabulary (レベル/ポイント/センター/固定/バック) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "レベル",
+    "ポイント",
+    "センター",
+    "固定",
+    "バック"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_125)",
+    "generated_at": "2026-05-29T12:55:54.386Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この画面、設定が難しいの。",
+      "en": "This screen's settings are hard.",
+      "style": "mildly stuck office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "表示のレベルを、下げてみて下さい。",
+      "en": "Try lowering the display level.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "レベルを下げたら、見やすくなった。",
+      "en": "Lowering the level made it easier to see.",
+      "style": "relieved office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大事な項目は、固定しておきましょう。",
+      "en": "Let's fix the important items in place.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "間違えたら、バックできますか?",
+      "en": "If I make a mistake, can I go back?",
+      "style": "cautious office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、左上のバックで戻れます。",
+      "en": "Yes, the back arrow at top-left returns you.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "注目すべきポイントは、どこですか?",
+      "en": "Where's the point to watch?",
+      "style": "focused office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "困ったら、支援センターに聞いて下さい。",
+      "en": "If stuck, ask the support center.",
+      "style": "helpful office man voice, soft warm patient closing throughout"
+    }
+  ]
+}

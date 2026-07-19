@@ -1,0 +1,62 @@
+{
+  "id": "conv_00547",
+  "context": "A snowy winter morning. Sho is excited; Yumiko helps him bundle up for school.",
+  "purpose": "small mother-child winter morning",
+  "ambient": "genkan_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "雪",
+    "寒い",
+    "帽子",
+    "注意",
+    "学校"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、雪、いっぱい！",
+      "en": "Mom, there's so much snow!",
+      "style": "Bright, genuine excitement with a child's natural wonder. Small voice, open delivery. Warmth in the observation, not performing it—just noticing something amazing.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当ね。寒いから、帽子も、ちゃんと、被ってね。",
+      "en": "It really is. It's cold, so make sure you wear your hat properly.",
+      "style": "Warm, attentive tone with the quiet authority of someone making sure. Gentle pacing. The care underneath the practical instruction—motherly without being fussy.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。学校、雪で、走れない、かも。",
+      "en": "Okay. At school, with all the snow, I might not be able to run.",
+      "style": "Small, thoughtful voice working through a problem out loud. Soft concern underneath—not anxious, just noticing. The slight uncertainty at the end, like he's checking if his worry makes sense.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "転ばないように、注意してね。",
+      "en": "Be careful not to fall on the ice, okay?",
+      "style": "Steady, attentive, and genuinely protective. Not alarming him—just the quiet firmness of someone making sure he hears the important thing. Gentle but clear.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい、行ってきます。",
+      "en": "Okay, I'm going.",
+      "style": "Small, earnest voice. The polite formality of a child being careful and good. Warmth in the goodbye—genuine, not rushed.",
+      "mood": "obedient_warm"
+    }
+  ]
+}

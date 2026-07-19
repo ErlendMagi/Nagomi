@@ -1,0 +1,75 @@
+{
+  "id": "conv_02913",
+  "context": "Kenji and Ren troubleshoot a membership form.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (職業/許可/問い合わせ/加入/申し訳) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "職業",
+    "許可",
+    "問い合わせ",
+    "加入",
+    "申し訳"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_146)",
+    "generated_at": "2026-05-29T14:48:14.344Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "加入の手続きで、エラーが出ます。",
+      "en": "An error shows in the enrollment process.",
+      "style": "troubled young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "職業の欄が、空いていませんか?",
+      "en": "Is the occupation field empty?",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、職業を入れ忘れていました。",
+      "en": "Oh, I forgot to enter the occupation.",
+      "style": "sheepish young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "許可の項目も、確認しましょう。",
+      "en": "Let's check the permission field too.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "許可にチェックを入れたら、進みました。",
+      "en": "When I checked permission, it proceeded.",
+      "style": "relieved young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "困ったら、問い合わせ窓口へどうぞ。",
+      "en": "If stuck, head to the inquiry desk.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "時間を取らせて、申し訳ないです。",
+      "en": "I'm sorry for taking your time.",
+      "style": "apologetic young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "無事に加入できて、良かったですね。",
+      "en": "Glad the enrollment went through.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

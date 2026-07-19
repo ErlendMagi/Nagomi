@@ -1,0 +1,78 @@
+{
+  "id": "conv_05146",
+  "context": "A boss reviews a corporate bond schedule with his manager",
+  "purpose": "Teach: 償還/異論/加算/要し/キープ/区間/巨額/組み込ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "償還",
+    "異論",
+    "加算",
+    "要し",
+    "キープ",
+    "区間",
+    "巨額",
+    "組み込ま"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の社債償還スケジュール、最終確認したいんだが。",
+      "en": "I'd like to do a final check on this term's corporate bond redemption schedule.",
+      "style": "Authoritative boss opening, calm but direct executive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、第三四半期に巨額の償還が集中しておりまして、資金繰りに少々注意を要します。",
+      "en": "Yes, a massive redemption is concentrated in Q3, so cash flow requires a bit of caution.",
+      "style": "Polite manager reporting, measured and slightly cautious delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。借換債の発行コストに、手数料の加算分は織り込んであるか?",
+      "en": "I see. Have you factored in the added fees on top of the refinancing bond issuance cost?",
+      "style": "Probing follow-up question, sharp and detail-oriented executive."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんです。新発債の利回り想定も保守的にキープしてあります。",
+      "en": "Of course. We've also kept the yield assumption on the new issue conservative.",
+      "style": "Confident reassurance, professional manager handling specifics smoothly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "六月から九月までの区間がやはり山場だな。ここを乗り切る計画に異論はないか?",
+      "en": "The stretch from June to September is clearly the critical phase. Any objections to the plan for getting through it?",
+      "style": "Strategic summarizing, inviting pushback with confident gravitas."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "異論はございません。コミットメントラインも予備枠として組み込まれています。",
+      "en": "No objections. The commitment line is also built in as a backup facility.",
+      "style": "Firm agreement, deferential but assured corporate manager voice."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし。役員会の資料にも、その予備枠を明記して提出してくれ。",
+      "en": "Good. Make sure that backup facility is clearly noted in the board materials too.",
+      "style": "Decisive closing instruction, brisk authoritative boss directive."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。本日中に修正版をお手元にお届けします。",
+      "en": "Understood. I'll have the revised version on your desk by end of day.",
+      "style": "Crisp acknowledgement, efficient and respectful subordinate close."
+    }
+  ]
+}

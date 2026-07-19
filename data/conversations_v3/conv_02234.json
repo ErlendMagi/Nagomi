@@ -1,0 +1,79 @@
+{
+  "id": "conv_02234",
+  "context": "Tatsuya-country shows Sho-young how to identify rice quality.",
+  "purpose": "Elder farmer teaching child agricultural skill.",
+  "ambient": "porch_rice_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "農業",
+    "田んぼ",
+    "皮",
+    "濃い",
+    "実",
+    "丁寧",
+    "実際",
+    "深く"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_112)",
+    "generated_at": "2026-05-27T17:35:22.838Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "翔、お米、皮、見てみ。",
+      "en": "Sho — look at the rice grain here. See that skin?",
+      "style": "Patient, unhurried Tohoku cadence. Lifting the grain between weathered fingers for the boy to examine closely. Warm teaching breath. The pace of someone who knows time isn't scarce.",
+      "mood": "patient_teaching"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、濃い色、いいの?",
+      "en": "Grandpa, that dark color — is that good?",
+      "style": "Soft, genuinely wondering. Not performing knowledge but asking from real curiosity. Leaning in slightly, eyes on the grain. Small voice but steady.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "実、丁寧に育って、できとるな。",
+      "en": "The grain — it grew with real care, you can see it's done right.",
+      "style": "Quiet certainty. A slight nod. The words come slow, each one carrying the weight of years of watching rice grow. Proud but understated, like he's sharing a secret.",
+      "mood": "proud_reverent"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "田んぼ、深く、皆さんが育ててる?",
+      "en": "Does everyone in the paddy work together to grow it deep like that?",
+      "style": "Thoughtful hesitation before asking. Small voice, genuine wonder. Processing something larger than the question itself. Soft wonder at the scale of it.",
+      "mood": "thoughtful_awed"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "実際、長年、皆で、頑張ってきた。",
+      "en": "Yeah — all these years, everyone's been working at it together.",
+      "style": "Slow, grounded delivery. Gazing across the paddy or into memory. Breath full of the weight of seasons. Not boastful — witnessing something that endures.",
+      "mood": "reverent_humble"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "農業、すごい仕事やな!",
+      "en": "Farming — it's real work, isn't it?",
+      "style": "Bright realization breaking through the small voice. A note of genuine awe and respect. The words tumble out with warmth, not performance.",
+      "mood": "admiring_awed"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "お前も、いつか、覚えてな。",
+      "en": "You remember this too, someday. You'll understand.",
+      "style": "Tender, almost quiet. A hand on the boy's shoulder or head. Not pushing — planting. The words linger, like a gift he's placing into the future.",
+      "mood": "tender_hopeful"
+    }
+  ]
+}

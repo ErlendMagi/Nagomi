@@ -1,0 +1,76 @@
+{
+  "id": "conv_01041",
+  "context": "Hiroshi congratulates Ren on becoming a teacher.",
+  "purpose": "boss-alum teacher-congratulations exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "感謝",
+    "頑張る",
+    "指導",
+    "大切"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_052)",
+    "generated_at": "2026-05-27T03:28:17.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "レン君、教員、合格、おめでとう。",
+      "en": "Ren — congratulations on passing the teacher certification exam.",
+      "style": "Measured, direct opening. A beat of genuine pleasure before the words. Steady composure throughout, the voice of someone accustomed to authority but speaking without ceremony here. Warm regard audible underneath the formality.",
+      "mood": "proud_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます、感謝、本当に。",
+      "en": "Thank you, sir. Truly grateful.",
+      "style": "Soft, respectful intake. The words come carefully, genuine emotion held in check by propriety. A quiet sincerity underneath—not performing gratitude, feeling it. Slight tremor of relief in the voice.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会社、お前の指導、見てきた、誇り。",
+      "en": "I've watched how you've guided people here at the company. I'm proud of you.",
+      "style": "Firm but not cold. The words land with weight. A pause before 'proud'—the kind that shows he means it. Steady eye-contact in the voice. Not effusive, but unmistakable.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "健次さんの指導、本当に、心強かった。",
+      "en": "Kenji-san's guidance was truly what gave me strength.",
+      "style": "Quiet, almost reflective. He's not deflecting—he's being honest about what shaped him. Gentle, acknowledging something beyond himself. A small softness at the end, like he's turning the credit where it belongs.",
+      "mood": "humble_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "大切な、出会い、だったな。",
+      "en": "That was a precious meeting for me.",
+      "style": "A pause before this—slower, more deliberate. The word 'precious' carries actual weight, not sentimentality. Composed but genuinely moved. The kind of thing said once and meant for life.",
+      "mood": "thoughtful_tender"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "これからも、頑張ります。",
+      "en": "I'll keep doing my best going forward.",
+      "style": "Slight straightening in posture, even in the voice. A commitment, not a promise to perform. Steady, resolved. Respect and determination threaded together—he's saying it to someone he trusts.",
+      "mood": "determined_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、応援、ずっと。",
+      "en": "I'll be cheering for you all the way.",
+      "style": "The closing statement. Unhurried, genuine. Not a dismissal—a promise delivered quietly. The firmness of someone who means what he says. Warmth audible but not sentimental.",
+      "mood": "supportive_committed"
+    }
+  ]
+}

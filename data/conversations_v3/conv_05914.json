@@ -1,0 +1,79 @@
+{
+  "id": "conv_05914",
+  "context": "A doctor explains chronic pain to a teen patient",
+  "purpose": "Teach: 麻酔/化石/慢性/申し立て/賞賛/予期/偏っ/迄",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻酔",
+    "化石",
+    "慢性",
+    "申し立て",
+    "賞賛",
+    "予期",
+    "偏っ",
+    "迄"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、長引く痛み、慢性として扱います。",
+      "en": "Sakura, we're going to treat your pain as chronic.",
+      "style": "Measured, clear-eyed opening. Steady pace. Not softening the information, but not rushing it either. A doctor who knows this isn't easy to hear but says it anyway with care.",
+      "mood": "honest_careful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "麻酔系のお薬、必要になるんですか。",
+      "en": "Do I need to start on anesthesia-class medications?",
+      "style": "Tight voice on the question. Real worry underneath — not performing anxiety, but the genuine calculation of a sixteen-year-old thinking through what this means. Slightly faster than conversational.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "状況次第です。化石みたいに古い記録を持ち出して、最新の研究と比較します。",
+      "en": "That depends. I'm going to pull up your older records and compare them against the latest research to give you the best picture.",
+      "style": "Thoughtful, almost professorial. A slight lean-forward quality — this is the part where she's thinking out loud about her process. Reassuring not because it's soft, but because she's thorough.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "保険の申し立てしないと、自費ですか。",
+      "en": "If we don't file an insurance claim, I'd be paying for everything myself, right?",
+      "style": "Practical, direct question. Not defensive—Sakura's brain is already three steps ahead, working through logistics. Quiet and clear, like she's asking someone she trusts.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "家族と相談を。賞賛されるべきは、家族のサポートです。",
+      "en": "Talk it over with your family about that. But what really matters here is that you have their support.",
+      "style": "Gentle but firm redirect. A slight warmth on the family reference—she's not dismissing the money question, but pivoting to what she actually sees as important. Steady eye-contact level delivery.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "予期していなかったので、少し不安です。",
+      "en": "I wasn't expecting that, so I'm a little scared.",
+      "style": "Sakura's guard down now. Quiet admission without trying to hide it. A slight tremor on 'scared' — not breaking, but not hiding either. The exhaustion of real honesty.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "治療方針、偏った情報に流されず、検査結果迄、丁寧に追います。",
+      "en": "We're not going to chase every story you hear. I'll follow your test results carefully, step by step, and we'll build the treatment plan from there.",
+      "style": "Quiet conviction. Each phrase lands—not rushed, not overstated. The doctor speaking directly now: reassurance built on methodology, not empty comfort. Slightly lower register, like she's leaning across the desk.",
+      "mood": "reassured_steady"
+    }
+  ]
+}

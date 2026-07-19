@@ -1,0 +1,84 @@
+{
+  "id": "conv_04305",
+  "context": "A retired bureaucrat talks history with a uni student",
+  "purpose": "Teach: 控訴/死刑/大蔵省/認可/勧告/侵略/貧困/殺さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "控訴",
+    "死刑",
+    "大蔵省",
+    "認可",
+    "勧告",
+    "侵略",
+    "貧困",
+    "殺さ"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、戦後の日本史を勉強していて、旧大蔵省の役割についてお聞きしたいんです。",
+      "en": "Professor, I'm studying postwar Japanese history and wanted to ask about the role of the former Finance Ministry.",
+      "style": "Polite, curious, slightly formal academic tone of a respectful student"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ほう、大蔵省か。私が若い頃は、銀行の認可一つ取るのも一苦労でね。",
+      "en": "Oh, the Finance Ministry. When I was young, even getting a single bank approval was quite the ordeal.",
+      "style": "Reflective, slow-paced elder reminiscing with warm authority and nostalgia"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時、省内から銀行業界への行政勧告というのは頻繁に出されていたんでしょうか。",
+      "en": "Back then, were administrative recommendations from within the ministry to the banking industry issued frequently?",
+      "style": "Inquisitive, careful student probing institutional history with academic precision"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "頻繁だったよ。戦後すぐは貧困にあえぐ世帯も多くてね、預金の保護が何より優先された。",
+      "en": "Quite frequently. Right after the war, many households suffered in poverty, and protecting deposits was the top priority.",
+      "style": "Somber, weighty elder voice carrying the gravity of lived historical memory"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦時中の侵略戦争に協力した財界人については、戦後どのように扱われたんですか。",
+      "en": "How were business figures who cooperated with the wartime wars of aggression treated after the war?",
+      "style": "Earnest follow-up question carefully bridging from finance into wartime accountability"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "公職追放を受けた者もいたし、東京裁判で死刑判決を受けた政治家もいた。重い時代だったね。",
+      "en": "Some faced public office purges, and some politicians received death sentences at the Tokyo Trials. It was a heavy era.",
+      "style": "Measured, wise elder explaining complex postwar accountability with gentle gravitas"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "判決に対して控訴を断念した被告も多かったと文献で読みましたが、本当ですか。",
+      "en": "I've read in the literature that many defendants gave up on appealing their sentences. Is that true?",
+      "style": "Probing student citing prior reading to verify a difficult historical detail"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "本当だよ。自らを殺さずに名誉を守ろうとした者もいれば、潔く運命を受け入れた者もいた。",
+      "en": "It's true. Some tried to preserve their honor without taking their own lives, while others accepted their fate with grace.",
+      "style": "Reflective elder speaking softly about painful human dimensions of postwar justice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、貴重なお話をありがとうございます。論文に活かしたいと思います。",
+      "en": "I see, thank you for such valuable insights. I'd like to put them to use in my thesis.",
+      "style": "Grateful, sincere closing tone from a deeply appreciative student"
+    }
+  ]
+}

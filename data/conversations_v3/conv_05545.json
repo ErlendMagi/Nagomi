@@ -1,0 +1,72 @@
+{
+  "id": "conv_05545",
+  "context": "A uni student listens to a teen friend about a strange note",
+  "purpose": "Teach: 好意/迫る/作り上げ/挟ん/覗き/曲がっ/便り/悪意",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "好意",
+    "迫る",
+    "作り上げ",
+    "挟ん",
+    "覗き",
+    "曲がっ",
+    "便り",
+    "悪意"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、知らない人から好意で便り届いたんですけど…悪意がないかちょっと不安で。",
+      "en": "Senpai, I got a letter from someone I don't know, and… I'm a little worried it might have bad intentions behind it.",
+      "style": "Hesitant, testing whether it's safe to ask. Quiet at the start. Small breath before the worry admission. Looking for reassurance but not quite confident enough to ask for it directly.",
+      "mood": "uncertain_cautious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ノートに挟んで持ち歩いてたら、誰かに覗かれた?",
+      "en": "Did someone see it while you were carrying it in your notebook?",
+      "style": "Leans forward with genuine curiosity. Not interrogating — investigating with her. Practical, observant tone. Steady eye contact, trying to understand the facts first.",
+      "mood": "focused_concerned"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。教室で、急に背後から覗き見された感じで。",
+      "en": "Yeah. Someone looked over my shoulder suddenly in the classroom.",
+      "style": "Quietly embarrassed at being caught off-guard. A small flinch in the voice on 'suddenly'. Speaking faster, like she's still processing it. Trailing off slightly at the end.",
+      "mood": "startled_flustered"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "曲がった噂が広がる前に、相手のことちゃんと確認しよう。",
+      "en": "Before rumors twist this into something it's not, we should check out who actually sent it.",
+      "style": "Clear, measured. A touch of firmness on 'check out' — reassuring without being bossy. Voice settles into a problem-solving rhythm. Practical, not alarmed.",
+      "mood": "protective_levelheaded"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "迫る不安に負けず、心を作り上げて対処します。",
+      "en": "I won't let the anxiety get to me. I'll figure out what to do.",
+      "style": "Determination builds through the line. Quiet steel underneath. Not aggressive — just the small resolve of someone deciding not to panic. Slight lift at the end, like she's convincing herself as much as him.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いつでも相談に来な。",
+      "en": "Come talk to me if you need to. Anytime.",
+      "style": "Warm, steady. The door stays open — no pressure, just presence. Soft landing on 'anytime'. A small smile in the voice. Genuine offer, not obligation.",
+      "mood": "supportive_calm"
+    }
+  ]
+}

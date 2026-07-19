@@ -1,0 +1,72 @@
+{
+  "id": "conv_05371",
+  "context": "A teacher walks a uni student through an economic-policy paper",
+  "purpose": "Teach: 反する/成り立っ/起こら/停滞/弊害/苦しむ/逃れ/迫ら",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "反する",
+    "成り立っ",
+    "起こら",
+    "停滞",
+    "弊害",
+    "苦しむ",
+    "逃れ",
+    "迫ら"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "論文、停滞期の経済政策が論点ですね。",
+      "en": "So your paper's focused on economic policy during periods of stagnation.",
+      "style": "Steady, observant tone. Confirms without condescending. Leans forward slightly with genuine interest in the work. Clear enunciation, patient pacing.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。物価高に苦しむ世帯の状況も含めます。",
+      "en": "Yes. I'm also including the situation of households struggling with high prices.",
+      "style": "Quiet concentration. Direct eye contact. Each phrase lands with careful weight—not stumbling, but thoughtful. Slight pause before 'including' to show he's thought this through.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "政策の効果と反する結果が、なぜ起こらないと言えないか、丁寧に。",
+      "en": "And address this carefully: why we can't rule out results that contradict the policy's intended effects.",
+      "style": "Warm but precise. Not a lecture—a co-investigator. Taps the table once, gently, on 'carefully.' Slow, measured delivery. Looks for understanding, not compliance.",
+      "mood": "generative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "増税で逃れの抜け道が生まれる弊害も、章を割きます。",
+      "en": "I'm planning to dedicate a whole chapter to how tax increases create loopholes that households end up exploiting.",
+      "style": "Gathering momentum. More confident now. Speaks with internal clarity—he's already mapped this. Slight lift at 'loopholes,' showing he's thought about the paradox.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "家計が迫られる状況、データで成り立っているか確認を。",
+      "en": "Good. But verify—make sure the data actually backs up what you're saying about those households.",
+      "style": "Practical kindness. Leans back slightly. Not skeptical, but exacting. The tone of someone who wants him to succeed. Slight pause after 'Good' to let it land.",
+      "mood": "supportive_exacting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "参考にします。",
+      "en": "I will. Thank you.",
+      "style": "Quiet, genuine. Not just polite—absorbing what she's said. Small nod. The gratitude is real because the guidance was real.",
+      "mood": "grateful"
+    }
+  ]
+}

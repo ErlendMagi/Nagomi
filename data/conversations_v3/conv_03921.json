@@ -1,0 +1,78 @@
+{
+  "id": "conv_03921",
+  "context": "A student journalist interviews a doctor about engineering applied to medical devices",
+  "purpose": "Teach: 原子力/面積/工学/金属/抑制/含ん/規格/代替",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "原子力",
+    "面積",
+    "工学",
+    "金属",
+    "抑制",
+    "含ん",
+    "規格",
+    "代替"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_198 workflow wmokhormi)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、今日はお時間ありがとうございます。大学の工学部の友人が、医療機器の開発に関わっていて、それで興味を持ったんです。",
+      "en": "Doctor, thank you for your time today. A friend from my university's engineering department is involved in medical device development, which sparked my interest.",
+      "style": "Polite student journalist opening the interview respectfully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえいえ。最近の医療現場では、工学の知識が本当に欠かせないんですよ。特にチタンなどの金属を使った人工関節は、患者さんの生活を大きく変えました。",
+      "en": "Not at all. In modern medical practice, engineering knowledge is truly indispensable. Artificial joints made from metals like titanium have greatly changed patients' lives.",
+      "style": "Warm professional doctor explaining with measured enthusiasm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "金属加工の精度がそんなに重要なんですね。あと、放射線治療の機械なんかは原子力技術と関係があるって聞きましたが、本当ですか?",
+      "en": "So the precision of metal processing matters that much. Also, I heard radiation therapy machines are connected to nuclear technology — is that true?",
+      "style": "Curious follow-up, journalist probing for clarification."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、放射線治療装置の一部は原子力分野の研究から派生したものです。ただし、安全基準は国際規格で厳しく定められていて、被ばく量も抑制されるよう設計されています。",
+      "en": "Yes, some radiation therapy equipment originated from research in the nuclear field. However, safety standards are strictly defined by international standards, and exposure levels are designed to be suppressed.",
+      "style": "Doctor giving careful technical explanation with caveats."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。病室の面積が限られている中で、大きな機械を置くのは大変そうですね。設置の工夫も必要なんでしょうか?",
+      "en": "I see. With hospital rooms having limited floor area, installing large machines must be difficult. Are there design considerations needed too?",
+      "style": "Thoughtful student making practical observation about space."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おっしゃる通りです。最近は小型化が進んでいて、従来機の代替となるコンパクトな装置も増えてきました。樹脂や軽量素材を含んだ部品が多く使われています。",
+      "en": "Exactly. Miniaturization has advanced lately, and compact devices that serve as alternatives to conventional machines have increased. Many parts now incorporate resins and lightweight materials.",
+      "style": "Doctor sharing a positive trend with concrete examples."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、これから工学を志す学生にメッセージをいただけますか?",
+      "en": "Finally, could you give a message to students aspiring to study engineering?",
+      "style": "Closing question, polite journalistic wrap-up remark."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医学と工学の境界はどんどん薄れています。失敗を恐れず、人の命に貢献する技術を作ってほしいですね。",
+      "en": "The boundary between medicine and engineering is fading rapidly. I hope they create technologies that contribute to saving lives, without fearing failure.",
+      "style": "Inspirational closing remark, warm but earnest tone."
+    }
+  ]
+}

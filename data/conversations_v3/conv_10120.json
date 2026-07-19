@@ -1,0 +1,86 @@
+{
+  "id": "conv_10120",
+  "context": "Mom and son chat",
+  "purpose": "Teach: カフカ/スマトラ/フィレンツェ/朝鮮日報/ヤコブ/パシフィック/トリビア/バッジ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "カフカ",
+    "スマトラ",
+    "フィレンツェ",
+    "朝鮮日報",
+    "ヤコブ",
+    "パシフィック",
+    "トリビア",
+    "バッジ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_507 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがカフカの本を貸して下さったわ",
+      "en": "Sho, your father lent you that Kafka book, didn't he.",
+      "style": "Warm, conversational observation. Gentle rise at the end like a soft confirmation rather than a question. The tone of a mother noticing what her son experienced. Unhurried.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとスマトラの絵本見たよ",
+      "en": "Mom, I looked at a picture book about Sumatra with Dad!",
+      "style": "Bright, immediate excitement. Quick attack on the opening word. Bouncing rhythm. The eagerness of a six-year-old who wants his mother to know exactly what he did. Genuine delight, not performed.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがフィレンツェ旅行のお話して下さったわ",
+      "en": "Sho, your father was telling you about his trip to Florence, wasn't he.",
+      "style": "Gentle, slightly distant. A mother reflecting on the moment rather than interrogating it. Soft, almost wondering tone. Slight pause before the trailing clause—like she's picturing it.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと朝鮮日報の翻訳記事見たよ",
+      "en": "Mom, I looked at a translation article with Dad—from the Chosun Ilbo!",
+      "style": "Quick, eager delivery. Proud of remembering the name. The energy of a child who wants to show he was paying attention. Breathless between clauses. Slight emphasis on the newspaper name.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがヤコブの梯子の伝記を貸して下さったわ",
+      "en": "Sho, your father lent you that biography of Jacob's Ladder, didn't he.",
+      "style": "Quiet, reflective. Almost to herself at first. The tone of a mother noticing a pattern—that her husband is sharing the strange, specific things he loves. Warm underneath. Slow pacing.",
+      "mood": "gentle_wondering"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとパシフィックリーグ観たよ",
+      "en": "Mom, I watched the Pacific League game with Dad!",
+      "style": "Bright and direct. Open, enthusiastic attack on the first word. Steady rhythm. The simple joy of a child reporting what he did. No need to embellish.",
+      "mood": "happy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがトリビアな雑学を披露されたわ",
+      "en": "Sho, your father was showing off some of his trivia again, wasn't he.",
+      "style": "Affectionate amusement. A slight knowing smile in the voice. The rhythm of a mother who recognizes her husband's particular habit. Warm, not mocking. Relaxed pacing.",
+      "mood": "amused_fond"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと記念バッジ買ったよ",
+      "en": "Mom, Dad and I bought a commemorative badge together!",
+      "style": "Warm, satisfied completion. The final note lands gently—he's achieved something with his father and wants to mark it. The contentment of a small victory. Soft close, no trailing off.",
+      "mood": "content_proud"
+    }
+  ]
+}

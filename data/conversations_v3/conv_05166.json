@@ -1,0 +1,78 @@
+{
+  "id": "conv_05166",
+  "context": "A boss reviews a prototype power test with his manager",
+  "purpose": "Teach: 受容/無用/図式/電圧/パラメータ/時価/インデックス/忍耐",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "受容",
+    "無用",
+    "図式",
+    "電圧",
+    "パラメータ",
+    "時価",
+    "インデックス",
+    "忍耐"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "高電圧テストの結果、もう見たか？",
+      "en": "Did you see the high-voltage test results yet?",
+      "style": "Brusque opener that drops the topic without any preamble"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、パラメータ設定を三回見直して、ようやく安定しました。",
+      "en": "Yes, I revised the parameter settings three times and finally stabilized it.",
+      "style": "Polite report delivered at a measured pace, slightly tired"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "三回？単純な図式じゃないってことか。",
+      "en": "Three times? So it isn't a simple schema, then.",
+      "style": "Sharp follow-up question with a mildly skeptical tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、想定外の挙動を受容するしかなくて、理論通りにはいきませんでした。",
+      "en": "Yes, we had to accept unexpected behavior — it didn't go as theory predicted.",
+      "style": "Reflective hedge that softens the bad news for the boss"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "言い訳は無用だ。時価ベースでいくらの損失になるか分かってるのか。",
+      "en": "Excuses are unnecessary. Do you know how big a loss this is on a market-value basis?",
+      "style": "Stern reprimand delivered in a clipped business register"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "申し訳ありません。性能インデックスを再計算して、来週には提出します。",
+      "en": "I apologize. I'll recalculate the performance index and submit it next week.",
+      "style": "Formal apology while recovering composure quickly and professionally"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "こっちも忍耐が続かん。明日の朝一で中間報告を持って来い。",
+      "en": "My patience won't hold either. Bring me an interim report first thing tomorrow.",
+      "style": "Authoritative ultimatum that leaves no room for negotiation"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。今晩中に仕上げます。",
+      "en": "Understood. I'll finish it by tonight.",
+      "style": "Crisp acknowledgment, resigned but still professional in tone"
+    }
+  ]
+}

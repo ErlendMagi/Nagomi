@@ -1,0 +1,105 @@
+{
+  "id": "conv_00086",
+  "context": "Train-station koban. A child has gotten separated from his mom at rush hour. Takeda has been giving him juice while they wait. Then his mom arrives, half-running.",
+  "purpose": "three-speaker — kid, calming officer, panicking parent",
+  "ambient": "train_station_day",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "今",
+    "すみません",
+    "ありがとう",
+    "家"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sho_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "もうすぐ、お母さん来るからね。",
+      "en": "Mom's coming any moment now.",
+      "style": "Calm crouched voice. Slides a juice across the desk.",
+      "mood": "crouched_calm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "A small one-syllable. Hands holding the juice carefully.",
+      "mood": "careful_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "しょう！しょう！…ああ、本当にすみません！",
+      "en": "Sho! Sho! …Oh — truly, I'm so sorry!",
+      "style": "Half-running breathless. Apology and relief flooding together.",
+      "mood": "breathless_relief"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん！",
+      "en": "Mom!",
+      "style": "A small bright voice. Stands up too fast in the voice.",
+      "mood": "bright_relief"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "迷子になっちゃって、本当に、ご迷惑を…",
+      "en": "He got lost — truly, what an inconvenience for you…",
+      "style": "A real apology directed at Takeda. Half-bow.",
+      "mood": "real_apology"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫ですよ。お子さん、落ち着いて待ってました。",
+      "en": "It's fine. He waited calmly.",
+      "style": "Praises the kid before reassuring the mom. Practiced.",
+      "mood": "praising_first"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おじさん、ジュースくれた。",
+      "en": "The mister gave me juice.",
+      "style": "A small honest report — no rush in the delivery.",
+      "mood": "small_report"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、ありがとうございます。今、お礼…",
+      "en": "Truly — thank you so much. Now, a token…",
+      "style": "Reaching into her bag in the voice. A real fluster.",
+      "mood": "real_fluster"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いえいえ、お気持ちだけで。お気をつけて。",
+      "en": "No, no — your sentiment is enough. Please take care.",
+      "style": "A small polite refusal. Already turning to the next form.",
+      "mood": "polite_refusal"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい…本当にありがとうございました。",
+      "en": "Yes… thank you, truly.",
+      "style": "A real bow. Voice steadier now.",
+      "mood": "real_bow"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "バイバイ、おじさん。",
+      "en": "Bye, mister.",
+      "style": "A small bright wave. The whole encounter resolved.",
+      "mood": "bright_resolved"
+    }
+  ]
+}

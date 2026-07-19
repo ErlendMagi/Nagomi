@@ -1,0 +1,78 @@
+{
+  "id": "conv_04113",
+  "context": "A police officer briefs a teen reporter about an ongoing investigation",
+  "purpose": "Teach: ジャーナリスト/演説/当選/共産党/論議/推測/解明/提起",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ジャーナリスト",
+    "演説",
+    "当選",
+    "共産党",
+    "論議",
+    "推測",
+    "解明",
+    "提起"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ジャーナリスト志望の君に話せるのは、ここまでだ。",
+      "en": "This is as much as I can tell an aspiring journalist like you.",
+      "style": "Calm, measured, professional tone with restrained authority."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "でも署長、被害者は元共産党の議員だったんですよね?",
+      "en": "But Chief, the victim was a former Communist Party legislator, right?",
+      "style": "Eager, slightly pushy teenage reporter voice."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "初当選の直後だった彼の街頭演説、覚えているかい?",
+      "en": "Do you remember his street speech right after his first election win?",
+      "style": "Reflective, leading question delivered with weight."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、税制改革を強く提起した内容で、かなり論議を呼びました。",
+      "en": "Yes, he strongly raised tax reform issues, and it sparked heated debate.",
+      "style": "Quick, knowledgeable response with youthful enthusiasm."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "あの演説の後、彼は脅迫を受けていたという推測もある。",
+      "en": "There's also speculation that he received threats after that speech.",
+      "style": "Lowered voice, serious and confidential tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ、真相解明にはあと何が必要なんですか?",
+      "en": "Then what else is needed to uncover the full truth?",
+      "style": "Pressing, curious, leaning forward with notebook ready."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠保全と関係者の証言だ。だが、これは記事にしないでくれ。",
+      "en": "Evidence preservation and witness testimony. But please don't write about this.",
+      "style": "Firm, fatherly warning with quiet gravity."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。約束は守ります、署長。",
+      "en": "Understood. I'll keep my promise, Chief.",
+      "style": "Sincere, slightly humbled but determined teenage voice."
+    }
+  ]
+}

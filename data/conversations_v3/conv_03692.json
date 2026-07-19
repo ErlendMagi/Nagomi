@@ -1,0 +1,70 @@
+{
+  "id": "conv_03692",
+  "context": "A teen comes down with a cold; mother checks on her",
+  "purpose": "Teach: 確認する/検診/寒い/笑顔/寝室/朝食/翌朝/起き上がる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "検診",
+    "寒い",
+    "笑顔",
+    "寝室",
+    "朝食",
+    "翌朝"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "さくら、もう朝なのに寝室から出てこないけど、大丈夫？",
+      "en": "Sakura, it's already morning and you haven't come out of your bedroom—are you okay?",
+      "style": "Worried maternal tone, soft and gentle voice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ママ…体が重くて、ベッドから起き上がることができないの。",
+      "en": "Mom... my body feels heavy, I can't get up from bed.",
+      "style": "Weak raspy voice, slightly congested sickly teen tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "熱を確認するから、ちょっと触らせて。うわ、けっこうあるね。",
+      "en": "Let me check your temperature, let me touch you a sec. Wow, it's pretty high.",
+      "style": "Concerned but calm, practical maternal hands-on voice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "昨日の夜、寒いのに薄着で帰ってきちゃったから…ごめんなさい。",
+      "en": "Last night I came home in thin clothes even though it was cold... sorry.",
+      "style": "Apologetic and sniffling, weak guilty teenage voice"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "謝らなくていいのよ。朝食はおかゆを作るから、寝室で待ってて。",
+      "en": "You don't need to apologize. I'll make rice porridge for breakfast, so wait in your bedroom.",
+      "style": "Reassuring warm tone, take-charge maternal voice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう、ママ…ごめん、今日は笑顔も出ないかも。",
+      "en": "Thanks, Mom... sorry, I might not even be able to smile today.",
+      "style": "Faint grateful voice, exhausted but affectionate tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翌朝に熱が下がっても、念のため検診を受けに行こうね。",
+      "en": "Even if your fever goes down by the next morning, let's go get a check-up just in case.",
+      "style": "Firm caring tone, motherly decision-making voice"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04033",
+  "context": "A boss debriefs his secretary on tomorrow's site visit",
+  "purpose": "Teach: デスク/ルーム/扉/電波/交代/パック/タウン/大抵",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デスク",
+    "ルーム",
+    "扉",
+    "電波",
+    "交代",
+    "パック",
+    "タウン",
+    "大抵"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ちょっと君のデスクまで来てくれ。明日のタウン視察、最終確認しておきたい。",
+      "en": "Come over to your desk for a moment. I want to finalize tomorrow's town inspection.",
+      "style": "Authoritative, calls her over with brisk efficiency"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、すぐ参ります。会議ルームのほうがよろしいですか?",
+      "en": "Yes, I'll come right away. Would the meeting room be better?",
+      "style": "Polite and accommodating, offering a quiet option"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いや、ここでいい。先方の現場は山の中で、電波が悪いらしい。連絡手段を二重に用意してくれ。",
+      "en": "No, here is fine. Their site is in the mountains and reception is bad. Prepare backup communication.",
+      "style": "Practical and decisive, anticipating logistical issues clearly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。日帰りパックの新幹線も、朝一番の便で押さえてあります。",
+      "en": "Understood. I've also reserved the day-trip package on the earliest bullet train.",
+      "style": "Crisp and reassuringly thorough in her detailed report"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かる。それと、午後は私と田中が交代で説明に立つ。資料の差し替えを忘れないでくれ。",
+      "en": "That helps. Also, Tanaka and I will alternate presenting in the afternoon. Don't forget the document swap.",
+      "style": "Direct, delegating with clear and firm expectations"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。現場の入口の扉は施錠されているそうなので、警備員の方に事前連絡しておきます。",
+      "en": "Certainly. I heard the site's entrance door is locked, so I'll notify security in advance.",
+      "style": "Proactive, thinking several steps ahead of her boss"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "気が利くな。こういう視察は大抵、些細な手違いで時間を食う。今回は綺麗に終わらせたい。",
+      "en": "Very attentive. These inspections usually waste time on small mistakes. I want this one to go smoothly.",
+      "style": "Mildly approving, sharing seasoned managerial experience plainly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "全力でお支えします。では、車両の手配書をデスクにお持ちしますね。",
+      "en": "I'll support you fully. I'll bring the vehicle arrangement documents to your desk then.",
+      "style": "Loyal and composed, closing the briefing neatly"
+    }
+  ]
+}

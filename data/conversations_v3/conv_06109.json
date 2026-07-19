@@ -1,0 +1,79 @@
+{
+  "id": "conv_06109",
+  "context": "A police officer briefs on transit security",
+  "purpose": "Teach: 独創/船舶/専務/チェックイン/資する/格別/見返り/退任",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "独創",
+    "船舶",
+    "専務",
+    "チェックイン",
+    "資する",
+    "格別",
+    "見返り",
+    "退任"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_307 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "独創的な防犯策、警察も注目しています。",
+      "en": "Your original crime-prevention approach has caught the department's attention.",
+      "style": "Professional and measured. Light approval underneath the official tone. Steady eye contact, unhurried pacing. The measured nod of someone who doesn't give praise lightly.",
+      "mood": "impressed_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。船舶警備、警察と連動を強化します。",
+      "en": "Yes. We'll strengthen coordination between our shipping security and your department.",
+      "style": "Respectful agreement. Clear and direct, no hedging. Slight forward lean showing engagement. Calm assurance—this is already in motion.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "専務クラスの来訪、警備手配を共有します。",
+      "en": "When senior executives visit, we'll want to coordinate security arrangements in advance.",
+      "style": "Factual and clear. The tone of someone delegating responsibility without doubt. Slightly authoritative but not cold. Brief pause after 'advance'—giving space for acknowledgment.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。チェックインカウンターでの記録、追跡対応も。",
+      "en": "Understood. We'll maintain records at check-in and track any follow-up needed.",
+      "style": "Brisk confirmation. Clipped delivery on 'Understood'—showing he's ahead of the thought. Efficient tone, no wasted words. The voice of someone already taking notes.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "安全に資する取り組み、引き続き。",
+      "en": "These safety measures should continue ongoing.",
+      "style": "Quiet finality. The tone of closing a chapter, not ending conversation. Slightly lower register, as if settling something into place. Unhurried but definite.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "格別な対応、見返りなく、現場でも徹底。",
+      "en": "We'll maintain these standards consistently, without expecting anything in return—across every team member.",
+      "style": "Sincere commitment, almost understated. Slight warmth breaking through the professional tone when he says 'without expecting.' Steady voice, no apology, just principle. Solid.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "当方の課長、退任予定、後任にも周知を。",
+      "en": "My department chief is retiring soon; make sure the incoming person is briefed on all this.",
+      "style": "Business-like handoff. Brisk but not rushed. The careful pause before 'incoming'—showing this transition matters. Quiet responsibility in the voice. No ceremony, just thoroughness.",
+      "mood": "procedural"
+    }
+  ]
+}

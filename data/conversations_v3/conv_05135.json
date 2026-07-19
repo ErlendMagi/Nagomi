@@ -1,0 +1,84 @@
+{
+  "id": "conv_05135",
+  "context": "A doctor explains an injury-cause study to a curious teen",
+  "purpose": "Teach: 法学部/起因/切断/暗示/帰属/神殿/初頭/敗退",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "法学部",
+    "起因",
+    "切断",
+    "暗示",
+    "帰属",
+    "神殿",
+    "初頭",
+    "敗退"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、二十世紀初頭のスポーツ怪我の研究って、何が分かったんですか?",
+      "en": "Doctor, what did that study on sports injuries from the early twentieth century find?",
+      "style": "Curious teen asking with respectful but eager tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "当時の調査では、怪我の多くが無理な反復練習に起因することが分かったんだよ。",
+      "en": "The research at that time showed that many injuries were caused by excessive repetitive training.",
+      "style": "Doctor speaking gently and informatively to a younger person."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど、うちの兄も大会で予選敗退した後に、肩を痛めて病院通いだったんです。",
+      "en": "I see, my brother also went to the hospital for his shoulder after being eliminated in the qualifying round.",
+      "style": "Teen sharing personal anecdote with mild concern in voice."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "肩はよくあるね。ひどくなると神経の損傷や、最悪の場合は腱の切断にまで至ることもあるんだ。",
+      "en": "Shoulders are common. When it gets bad, it can lead to nerve damage, or in the worst case, even tendon severance.",
+      "style": "Doctor explaining with serious but engaging academic tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "切断って怖いですね…研究では、怪我の原因はやっぱり練習量に帰属するんですか?",
+      "en": "Severance sounds terrifying... So in the research, are injuries attributed to training volume after all?",
+      "style": "Teen reacting with worry then asking a thoughtful follow-up."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鋭いね。実は同僚に法学部の研究者がいて、責任の帰属について一緒に議論してるんだよ。",
+      "en": "Sharp question. Actually I have a colleague from the law faculty, and we discuss attribution of responsibility together.",
+      "style": "Doctor sharing professional insight with warm enthusiasm now."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お医者さんと法学部の人が組むんですか!? なんだか新しい時代を暗示してるみたいですね。",
+      "en": "A doctor and someone from law faculty teaming up? It feels like it hints at a new era.",
+      "style": "Teen reacting with genuine surprise and wide-eyed wonder."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ははは、大げさだな。でも昔は医者が神殿の神官みたいに崇められてた時代もあったんだよ。",
+      "en": "Haha, you're exaggerating. But long ago there was an era when doctors were revered like priests in a temple.",
+      "style": "Doctor chuckling warmly while sharing a light historical aside."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "神殿の神官!? 今度お兄ちゃんに教えてあげなきゃ、絶対面白がりますよ!",
+      "en": "Temple priests?! I have to tell my brother about that, he'll definitely find it fascinating!",
+      "style": "Teen laughing with delight and excited energy in response."
+    }
+  ]
+}

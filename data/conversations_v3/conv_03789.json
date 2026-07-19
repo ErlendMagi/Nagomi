@@ -1,0 +1,78 @@
+{
+  "id": "conv_03789",
+  "context": "A manager presents quarterly numbers to a junior",
+  "purpose": "Teach: 総額/前年/出資/議事/モニター/ユニット/基づき/バックアップ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "総額",
+    "前年",
+    "出資",
+    "議事",
+    "モニター",
+    "ユニット",
+    "基づき",
+    "バックアップ"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_190 w39oywsro)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "それでは第三四半期の報告を始めます。売上の総額は十二億円でした。",
+      "en": "Alright, let's begin the third quarter report. Total sales came to 1.2 billion yen.",
+      "style": "Formal manager opening a quarterly briefing meeting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "前年同期と比べると、どのくらい伸びているんでしょうか。",
+      "en": "Compared to the same period last year, how much has it grown?",
+      "style": "Junior employee asking a respectful clarifying question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前年比で約八パーセント増です。新規の出資先が二社加わったのも大きい。",
+      "en": "About eight percent up year-on-year. Two new investors joining was significant too.",
+      "style": "Manager explaining figures with calm confident tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。先週の議事録にあった海外ユニットの話も関係していますか。",
+      "en": "I see. Is the overseas unit mentioned in last week's minutes also related?",
+      "style": "Engaged junior cross-referencing previous meeting documentation"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "鋭いね。このモニターの右側のグラフを見て。データに基づき、海外ユニットが牽引しているのが分かる。",
+      "en": "Sharp question. Look at the graph on the right of this monitor — based on the data, the overseas unit is driving it.",
+      "style": "Manager praising junior and pointing at a display"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当ですね。資料のバックアップを取っておきたいので、後でファイルを送っていただけますか。",
+      "en": "You're right. I'd like to back up these materials, so could you send me the file later?",
+      "style": "Junior politely requesting file access for safekeeping"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。来期の予算編成にも使うから、しっかり保存しておいて。",
+      "en": "Of course. We'll use it for next term's budgeting too, so keep it safe.",
+      "style": "Manager wrapping up with practical forward-looking instruction"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。今日のうちにまとめてクラウドにも上げておきます。",
+      "en": "Understood. I'll organize it today and upload it to the cloud as well.",
+      "style": "Junior closing the meeting with a clear commitment"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07994",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 覆い/明かさ/少数/気がつい/人民/調和/振れ/成人",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "覆い",
+    "明かさ",
+    "少数",
+    "気がつい",
+    "人民",
+    "調和",
+    "振れ",
+    "成人"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、症状を覆い隠した患者さん、医療チーム慎重対応しました",
+      "en": "Ren — we handled that case carefully as a team. The patient's symptoms were obscured.",
+      "style": "Direct and composed. Speaking from professional experience, not hypothesis. Warm but steady. Slight pause before the explanation, as if choosing the right frame.",
+      "mood": "professional_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病名を明かさないご家族、貴院、配慮されますね、先生",
+      "en": "The family didn't want the diagnosis shared. Your hospital must have been considerate about that, Doctor.",
+      "style": "Genuinely curious, respectful. Ren leans into the question like he's trying to understand the decision-making. Not interrogating — learning. Soft rise on the honorific.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、少数の症例を医療チーム研究しております",
+      "en": "Yes. We study a limited number of cases as a team to understand them better.",
+      "style": "Patient and clear. She's not oversimplifying — she's being precise. Slight weight on 'study,' like this is ongoing work that matters.",
+      "mood": "thoughtful_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医師が気がついた異変、貴院、即対応されたんですね、先生",
+      "en": "So when the doctors noticed something was off, your hospital responded right away.",
+      "style": "Observant, almost thinking aloud. Ren isn't asking for confirmation — he's noticing the pattern. Quiet respect underneath. Slight trailing tone, like he's still piecing it together.",
+      "mood": "perceptive_quiet"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療は人民の暮らしを支える、貴院も同じ志ですね、先生",
+      "en": "Healthcare supports people's lives. Your hospital has that same commitment, doesn't it, Doctor?",
+      "style": "This comes from something genuine in Ren. Not flattery — conviction. He's speaking slowly, like the idea matters to him. Steady eye-contact level in the voice.",
+      "mood": "sincere_affirming"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、心と体の調和を医療チーム重視します",
+      "en": "Yes. We prioritize the balance between mind and body in everything we do as a team.",
+      "style": "Warm but not effusive. She's confirming something Ren already understands. Slight softness on 'balance,' like she's had to learn this the hard way.",
+      "mood": "aligned_thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "検査値の振れに貴院、注意されているそうですね、先生",
+      "en": "I hear your hospital pays close attention to those fluctuations in test results.",
+      "style": "Ren's curiosity again, but quieter this time. He's noticed something specific and is checking his understanding. Respectful distance. Tone like he's asking about something that takes real skill.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、成人病の予防を医療チーム強化中です",
+      "en": "Yes. We're strengthening our prevention work for adult-onset diseases across the team.",
+      "style": "Steady and clear, with a note of quiet determination. She's not defending — she's affirming direction. Close and confidential, like she's sharing something important with someone she trusts.",
+      "mood": "committed_resolute"
+    }
+  ]
+}

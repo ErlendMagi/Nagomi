@@ -1,0 +1,67 @@
+{
+  "id": "conv_00083",
+  "context": "Aoi's café, 8am. Kenji walks in for coffee — same morning, different season from the last time. They both notice.",
+  "purpose": "tiny continuity moment — service warmth across time",
+  "ambient": "cafe_morning",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "ありがとう",
+    "元気"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "おはようございます。あ、お久しぶり。",
+      "en": "Good morning. Oh, it's been a while.",
+      "style": "Warm recognition in the initial greeting. Genuine pleasure breaking through on the second phrase. Soft, unhurried pace. The warmth of seeing someone familiar.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おはよう。本当に。元気だった？",
+      "en": "Morning. It really has. How've you been?",
+      "style": "Gentle warmth in return. A beat of ease in his voice. Natural, conversational pace. The comfort of someone he's happy to see again.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おかげさまで。今日も、ホット？",
+      "en": "I've been well, thanks for asking. The usual hot coffee today?",
+      "style": "Familiar and attentive. Already reading his order before he speaks. Slight lift of care in the rhythm. Small smile audible in the words.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、ぜひ。…前と変わらず、いいお店ですね。",
+      "en": "Yes, please. …You know, this place really hasn't changed. It's still lovely.",
+      "style": "Quiet sincerity underneath. A genuine compliment, not performance. Soft attack, lingering slightly on the observation. Voice carries a small note of appreciation.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当にありがとう。…また、来てくださいね。",
+      "en": "That means so much, thank you. …Please do come back.",
+      "style": "Genuine warmth in the opening. A small smile audible. The sincerity of someone who means it. Hands over the cup with care in her movement—audible in the pace.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。…ありがとう。今日もいい一日に。",
+      "en": "I will, definitely. …Thank you. Have a good day.",
+      "style": "Warm closer with quiet ease. A beat of genuine connection in the goodbye. Voice carries a lightness on the way out, different from the arrival—softer, more at ease.",
+      "mood": "warm_connected"
+    }
+  ]
+}

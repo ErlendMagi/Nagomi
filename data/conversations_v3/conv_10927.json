@@ -1,0 +1,86 @@
+{
+  "id": "conv_10927",
+  "context": "Two managers chat",
+  "purpose": "Teach: 長田/井口/小西/宮澤/田辺/塩川/児玉/本間",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長田",
+    "井口",
+    "小西",
+    "宮澤",
+    "田辺",
+    "塩川",
+    "児玉",
+    "本間"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_548 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "長田部長の歓迎会を準備しましょう",
+      "en": "Let's get the welcome reception for Director Nagata organized.",
+      "style": "Efficient, matter-of-fact. Clear directive without urgency. Brisk opening, steady pace. The tone of someone running through a list she's already mentally mapped.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。井口課長の引き継ぎ書を確認します",
+      "en": "Yes. I'll check Manager Iguchi's handover notes.",
+      "style": "Quick confirmation, ready to move. Light and cooperative without overselling the agreement. The ease of someone who knows their role and steps into it naturally.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "小西技術主任のプロジェクト進捗を共有しましょう",
+      "en": "Let's share the project status from Technical Lead Konishi.",
+      "style": "Directive but collaborative. A slight lift on 「共有」 — inviting input, not just downloading information. Clear and purposeful without hierarchy-flex.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。宮澤広報の月次企画書を確認します",
+      "en": "Yes. I'll confirm the monthly plan from PR—Miyazawa.",
+      "style": "Steady acknowledgment. Slightly slower pace than the previous confirmation—detail-oriented, checking as he speaks. Warm but focused.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "田辺顧問との面談を予定しましょう",
+      "en": "Let's schedule a meeting with Advisor Tanabe.",
+      "style": "Measured directive. A touch more weight on this one—slightly longer pause before saying it, like it matters. Professional but not cold.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。塩川経理の決算予定を整えます",
+      "en": "Yes. I'll prepare the fiscal closing timeline from Accounting—Shiokawa.",
+      "style": "Brisk confirmation. Efficient, no wasted words. Moving through the list with practiced ease. Slight check-off quality on the ending.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "児玉人事に新人研修プランを依頼しましょう",
+      "en": "Let's request a new-hire training plan from HR—Kodama.",
+      "style": "Clear direction. A touch of care on this one—new-hire training is about people. Not demanding, asking. Steady and purposeful.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本間法務に新契約レビューを依頼します",
+      "en": "Yes. I'll ask Legal—Homma to review the new contracts.",
+      "style": "Final confirmation. Slight sense of completion in the pacing. Clean, committed finish. The last checkbox ticked with quiet satisfaction.",
+      "mood": "resolved"
+    }
+  ]
+}

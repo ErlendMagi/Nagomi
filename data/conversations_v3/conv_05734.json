@@ -1,0 +1,65 @@
+{
+  "id": "conv_05734",
+  "context": "A boss discusses a corporate ethics case",
+  "purpose": "Teach: 原文/カウンセラー/麻薬/和解/不倫/復讐/無罪/麻生",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原文",
+    "カウンセラー",
+    "麻薬",
+    "和解",
+    "不倫",
+    "復讐",
+    "無罪",
+    "麻生"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員の不倫問題、内々の和解で済ませようとしてる。",
+      "en": "There's an executive infidelity situation. The family's being pushed toward a quiet settlement.",
+      "style": "Measured, contained tone. Opens with controlled concern — not alarm, but aware of weight. Speaks as someone accustomed to managing crises. Brief, deliberate pacing. The tone of someone laying out facts before others can speculate.",
+      "mood": "grave_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。家族側に、カウンセラーを紹介しています。",
+      "en": "Yes. We've already connected them with a counselor.",
+      "style": "Professional acknowledgment. Quiet confidence — demonstrating preparedness without self-congratulation. Steady, methodical pace. Eyes level. This is what competence sounds like: no hurry, no hesitation.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "復讐じみた告発も、報道に出る可能性がある。",
+      "en": "The risk is if someone vindictive goes to the press with this.",
+      "style": "Shift to harder edge. Slight forward lean in posture. The word 'vindictive' lands with quiet weight — not judgment, tactical assessment. Tempo picks up fractionally. The tone of someone who has seen damage happen before.",
+      "mood": "alert_strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "刑事は無罪の見通し、麻薬関与もありません。",
+      "en": "Criminal exposure looks minimal, and there's no substance involvement.",
+      "style": "Rapid-fire reassurance. Clipped, almost efficient delivery of good news. Clean attack on each point. No dramatic trailing-off — just facts stacked neatly. The briefing voice: gets in, gets out.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "広報原文、麻生顧問弁護士に確認させろ。",
+      "en": "Get all PR drafts in front of Aso before they go anywhere.",
+      "style": "Final directive. Crisp, no negotiation in the tone. Sharp attack on 'Aso' — makes it clear. Single, authoritative close. The conversation is over; the decision is made. Low volume but absolute clarity.",
+      "mood": "authoritative"
+    }
+  ]
+}

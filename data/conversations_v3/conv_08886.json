@@ -1,0 +1,86 @@
+{
+  "id": "conv_08886",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 国名/軽自動車/預ける/最大手/料率/概論/役務/全日空",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国名",
+    "軽自動車",
+    "預ける",
+    "最大手",
+    "料率",
+    "概論",
+    "役務",
+    "全日空"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_446 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、国名表記の規則を統一しろ",
+      "en": "Standardize our country-name notation rules across the company.",
+      "style": "Clipped, decisive tone. Sharp attack on the opening word. No preamble. Matter-of-fact delivery from someone accustomed to being obeyed. Brief eye contact that lands.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業用に軽自動車を増車する案を準備しました",
+      "en": "Understood. I've prepared a proposal to add light commercial vehicles to our sales fleet.",
+      "style": "Respectful, measured cadence. Flat affect — not obsequious, just professional. Slightly faster pace to show readiness. Lands firmly on the completion of the task.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お客様の貴重品を預ける制度を厳格に運用しろ",
+      "en": "Implement stricter protocols for handling client valuables entrusted to us.",
+      "style": "Authoritative but not harsh. Slight pause before the key demand. Steady tempo. The tone of someone who knows this matters and expects compliance without needing to repeat it.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界最大手との提携交渉を進めております",
+      "en": "Yes. We're currently advancing partnership negotiations with the industry's leading firm.",
+      "style": "Steady, neutral reportage. Even pacing throughout. No inflection on 'currently' — just factual progress update. Voice stays level and dependable.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、保険料率の見直しを進めろ",
+      "en": "Begin a review of our insurance rate structure.",
+      "style": "Economical command. Brief, controlled. Slight emphasis on the action word. No elaboration needed — the expectation is clear and direct.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人研修で経営概論を扱います",
+      "en": "Understood. We're incorporating business fundamentals into the new employee training program.",
+      "style": "Calm, informative tone. Consistent rhythm. Shows he's tracking both the directive and the broader organizational thinking behind it. Ends on a note of readiness.",
+      "mood": "receptive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お得意様向けの役務契約を整備しろ",
+      "en": "Prepare a service contract framework for our premium clients.",
+      "style": "Direct, controlled command. Crisp articulation. No softening. The voice of someone delegating work that matters and expects a solid deliverable.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。全日空便での海外出張を計画しております",
+      "en": "Understood. We're arranging an overseas business trip via ANA.",
+      "style": "Final confirmation. Slightly warmer than previous responses but still composed. Ends cleanly — the note of someone closing out the meeting efficiently and moving on.",
+      "mood": "closing"
+    }
+  ]
+}

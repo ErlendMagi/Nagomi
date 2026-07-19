@@ -1,0 +1,86 @@
+{
+  "id": "conv_09741",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 子連れ/いかんせん/寒気/絶句/思いこん/ほど遠い/年老い/顔立ち",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "子連れ",
+    "いかんせん",
+    "寒気",
+    "絶句",
+    "思いこん",
+    "ほど遠い",
+    "年老い",
+    "顔立ち"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_489 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが子連れのご家族をよく見守ってらっしゃるわ",
+      "en": "Sho, your father really does watch over families with children carefully, doesn't he?",
+      "style": "Warm observation, almost to herself. Soft pride in the noticing. Slight lift at the end—inviting agreement but not requiring it.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さん、いかんせんお疲れみたいだよ",
+      "en": "Mom, Dad seems pretty tired though.",
+      "style": "Gentle, matter-of-fact. Not complaining—observing. The tone of a child who notices what adults think they're hiding. Small pause before the word 'tired', like he's being careful not to worry her.",
+      "mood": "concerned_perceptive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、今日は寒気がするから温かくしてね",
+      "en": "Sho, you'll catch a chill today if you're not careful—keep yourself warm, alright?",
+      "style": "Practical care wrapped in gentleness. A shift into mother-mode—still warm but with the quiet authority of someone looking after someone else. Not fussy, just clear.",
+      "mood": "protective_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが感動して絶句されてたよ",
+      "en": "Mom, Dad actually got emotional earlier—he was speechless for a moment.",
+      "style": "Quiet wonder in the delivery. He's reporting something he observed and understood was meaningful. A little pride that he saw it. No urgency, just steady certainty.",
+      "mood": "thoughtful_moved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがぼくを子供だと思いこんでらっしゃるかな",
+      "en": "Sho, do you think your father still sees you as a little child?",
+      "style": "Wry, slightly amused at herself for the question. Knowing. There's affection underneath—not mocking Ryosuke, but gently testing the thought aloud. Tone suggests she already knows the answer.",
+      "mood": "wry_knowing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、宿題は完璧にはほど遠いけど頑張ったよ",
+      "en": "Mom, my homework isn't perfect, but I really tried my best on it.",
+      "style": "Earnest and a little defensive in that small-child way. Pride in effort, not outcome. Wants her to see the trying. Steady voice—not seeking excessive praise, just recognition.",
+      "mood": "proud_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんも年老いてこられたわね",
+      "en": "Sho, Grandfather has gotten so much older now, hasn't he?",
+      "style": "Reflective, a little tender. The words drift slightly—she's noticing time's passage. Not sad, exactly, but aware. The tone of someone making a quiet reckoning with something she's observed.",
+      "mood": "wistful_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんに似た顔立ちって言われたよ",
+      "en": "Mom, someone told me I have a face like Dad's.",
+      "style": "Pleased, slightly shy about it. There's warmth in the report—a small pride in the resemblance, said without trying too hard. Light, close to her, the way he shares small good things.",
+      "mood": "pleased_close"
+    }
+  ]
+}

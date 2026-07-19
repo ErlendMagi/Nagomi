@@ -1,0 +1,86 @@
+{
+  "id": "conv_06613",
+  "context": "A doctor discusses preventive care",
+  "purpose": "Teach: 除け/処方/知見/養う/備える/凶/調書/力強く",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "除け",
+    "処方",
+    "知見",
+    "養う",
+    "備える",
+    "凶",
+    "調書",
+    "力強く"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、虫除けスプレー、子供にも安心なもの、増えています。",
+      "en": "Ren, kid-safe insect repellent sprays are becoming much more available now.",
+      "style": "Measured and informative. Even pace, warm but clinical. A doctor sharing practical knowledge she's observed. No rush—this is reassurance in the form of fact.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "処方薬、ジェネリック、普及してきましたね。",
+      "en": "Generic prescription medications have become much more widespread, haven't they.",
+      "style": "Thoughtful, gently probing. Speaks from genuine curiosity, not uncertainty. Slow pace. Respects the doctor's expertise while thinking aloud with her.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。最新の医学的知見、患者さんと共有しています。",
+      "en": "Yes. We make it a point to share the latest medical knowledge with our patients.",
+      "style": "Clear and steady. Professional but not distant. Matter-of-fact delivery on 「はい」. Slight emphasis on 「患者さん」—pride in the relationship.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家族が高齢者を養う負担、医療として、軽減策はありますか。",
+      "en": "Is there anything the medical system offers to lighten the burden on families caring for elderly relatives?",
+      "style": "Quiet and earnest. Leans slightly forward. This is a real question, not rhetorical. Careful, almost vulnerable—he's asking for someone, maybe himself.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。感染症に備える体制、強化されています。",
+      "en": "Yes. We've strengthened our systems to better prepare for infectious disease outbreaks.",
+      "style": "Measured response to a serious question. Slightly slower pace. Direct eye contact. Doctor-to-person rather than doctor-to-patient. Honest without being heavy.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "昔は、凶作で栄養失調、多かったんでしょうね。",
+      "en": "In older times, crop failures meant malnutrition was common, didn't it.",
+      "style": "Reflective, almost to himself. Slow pace, gentle curiosity. He's drawing a line from past to present. Not quite a question—more a thought he's sharing.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。診療調書、電子化、進めております。",
+      "en": "Yes. We're working on digitizing patient medical records across the system.",
+      "style": "Professional acknowledgment. Steady rhythm. Brief pause after 「はい」—she's keeping pace with where his mind is going, not just answering the surface question.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療従事者の力強く支える姿、頼もしいですね。",
+      "en": "The way healthcare workers support people so steadily—it's really reassuring.",
+      "style": "Warm and genuine close. Slower pace. Not performing gratitude—simply noticing something true. Slight lift on the final phrase, like he's settling something in himself.",
+      "mood": "grateful"
+    }
+  ]
+}

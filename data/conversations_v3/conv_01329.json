@@ -1,0 +1,76 @@
+{
+  "id": "conv_01329",
+  "context": "Yuki and Aoi book a hotel for a getaway.",
+  "purpose": "two-women hotel-booking exchange",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "ホテル",
+    "予約",
+    "一緒",
+    "楽しい",
+    "相談"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_067)",
+    "generated_at": "2026-05-27T05:13:00.372Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あおいちゃん、ホテル、本当、予約、しよう。",
+      "en": "Aoi-chan, we should really book that hotel.",
+      "style": "Warm, soft opening with genuine enthusiasm. Slight lean-in on the suggestion—not pushing, inviting. Gentle and sincere throughout, voice steady and close.",
+      "mood": "warm_eager"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、本当、楽しみ、ね。",
+      "en": "Yeah, I'm really looking forward to it.",
+      "style": "Soft, genuine affirmation. A small smile audible in the voice. Steady, unhurried. The warmth of someone who trusts the person speaking.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "条件、本当、いい、所、見つけた。",
+      "en": "I found a really nice place that checks all our boxes.",
+      "style": "Pleased, gentle report with quiet pride. Pace slightly quickened by genuine enthusiasm. Bright but not loud—the warmth of sharing good news with someone trusted.",
+      "mood": "pleased_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "相談、本当、ありがとう。",
+      "en": "Thank you so much for helping me think it through.",
+      "style": "Sincere gratitude, unrushed. Soft tone, no performance. The vulnerability of real thanks—brief pause before 'thank you' as if the feeling arrives fresh.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一緒に、本当、楽しい、なる。",
+      "en": "Being together like this—it's going to be so fun.",
+      "style": "Tender sincerity with quiet conviction. Slight pause after the opening, as if checking she's saying what she means. Warm, almost vulnerable close. Not rushed.",
+      "mood": "tender_content"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "感謝、本当、ね。",
+      "en": "I'm really grateful for this.",
+      "style": "Soft, intimate acknowledgment. Quiet and close to the listener. No elaboration needed—the tone carries the depth. Brief, genuine, warm.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当、嬉しい、本当に。",
+      "en": "I'm really, truly happy about this.",
+      "style": "Gentle, unhurried. Slight emphasis on the second 'truly'—not doubting, affirming. Voice steady and warm, closing with quiet satisfaction. Pause-breath quality at the very end.",
+      "mood": "happy_grateful"
+    }
+  ]
+}

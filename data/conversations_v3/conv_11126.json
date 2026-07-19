@@ -1,0 +1,86 @@
+{
+  "id": "conv_11126",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 的中/村長/手抜き/投じ/成し遂げ/はかっ/事由/斡旋",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "的中",
+    "村長",
+    "手抜き",
+    "投じ",
+    "成し遂げ",
+    "はかっ",
+    "事由",
+    "斡旋"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_558 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、市場予測が的中する精度を上げろ",
+      "en": "Raise the accuracy of our market forecasts. I want more of them hitting the mark.",
+      "style": "Low level command, no wasted syllables, full weight landing on the verb.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地元の村長との会合を設定します",
+      "en": "Yes, sir. I'll set up a meeting with the local village mayor.",
+      "style": "Prompt crisp acknowledgment, businesslike pace, a faint eager-to-please edge.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、品質管理に手抜きを許すな",
+      "en": "And no corner-cutting in quality control. None.",
+      "style": "Quiet steel, slower and firmer, a beat of silence doing the threatening.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社運を投じてプロジェクトを進めます",
+      "en": "Understood. We're staking the company's future on this project — I'll keep it moving.",
+      "style": "Steady reporting tone, a touch of gravity on the stakes, controlled exhale after.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、目標を成し遂げた社員を表彰しろ",
+      "en": "See that the staff who achieved their targets are properly recognized.",
+      "style": "Measured directive, the tone easing one shade warmer on the recognition.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経費をはかった上で計画を進めます",
+      "en": "Yes, sir. I'll weigh the costs first, then move the plan forward.",
+      "style": "Methodical, ticking through the steps aloud, an even careful rhythm.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、契約の事由を明文化しろ",
+      "en": "Put the grounds of the contract down in writing. Explicitly.",
+      "style": "Clipped precision, each word placed like a stamp, no lift at the end.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新規取引先の斡旋を受けました",
+      "en": "Yes, sir. And one more thing — we've been referred a new client.",
+      "style": "Closing report brightening slightly, quiet satisfaction tucked into the good news.",
+      "mood": "quietly_pleased"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "conv_01907",
+  "context": "Sho-young loses something at school; calls Yumiko in tears.",
+  "purpose": "Child seeking comfort over small loss.",
+  "ambient": "phone_low_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "失",
+    "泣く",
+    "大切",
+    "気持ち"
+  ],
+  "cast": [
+    "sho_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、宝物、失くした!",
+      "en": "Grandma, I lost my treasure!",
+      "style": "Small, wavering voice on the opening. Urgent but not panicked — the distress of a six-year-old who's lost something that matters. Quiet catch in the throat at 'lost.' Seeking comfort, not performing sadness.",
+      "mood": "distressed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、何だった?",
+      "en": "Oh, what was it?",
+      "style": "Immediate, attentive lean-in. Warmth without fussing. The tone that says: I'm listening and this matters because you say it does. Soft, unhurried.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さんに、もらった鉛筆。",
+      "en": "A pencil Dad gave me.",
+      "style": "Quiet, careful words. The voice of a child who knows the loss isn't really about the pencil. Slight tremor on 'Dad.' Pauses between phrases — not rushing, just gathering himself.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大切なものね。",
+      "en": "Something precious to you.",
+      "style": "Recognition, not repetition. Steady and even. The voice that mirrors his feeling back to him so he knows he's been understood. No rush to fix or console.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "気持ち、つらい。",
+      "en": "It hurts.",
+      "style": "Soft acknowledgment of his own pain. Small voice, but real. Not asking permission to feel this way — stating it. Slight trailing-off, like he's surprised by his own honesty.",
+      "mood": "heartache"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、探そう。",
+      "en": "Let's look for it together.",
+      "style": "Gentle shift — from comfort to action. Warm, steady, solution-oriented. The invitation of presence, not pity. Like she's saying: you're not alone in this.",
+      "mood": "reassuring"
+    }
+  ]
+}

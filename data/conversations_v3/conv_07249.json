@@ -1,0 +1,86 @@
+{
+  "id": "conv_07249",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 実地/旅費/引数/業態/格付け/送迎/旅客/打ち込ん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "実地",
+    "旅費",
+    "引数",
+    "業態",
+    "格付け",
+    "送迎",
+    "旅客",
+    "打ち込ん"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_364 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、実地訓練、絶対、進めております、本気で、感謝",
+      "en": "We at the police department are genuinely committed to conducting thorough field training exercises. We appreciate your cooperation.",
+      "style": "Professional, measured tone. Measured cadence with slight formality. Opens with quiet authority. Firm commitment without urgency. Closes with genuine respect.",
+      "mood": "formal_committed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察出張の旅費、本気で、絶対、当社、絶対、補助、絶対、お申し付けください、本気で、感謝",
+      "en": "Yes, understood. Our company will absolutely handle the travel expenses for any police training visits. Please let us know what you need.",
+      "style": "Responsive and eager. Steady, reliable delivery. Slightly faster than the officer's pace. Warm professionalism—showing readiness without overstepping.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害届の引数、本気で、絶対、正確に、絶対、ご記入ください、本気で、感謝",
+      "en": "When you file a damage report, please make sure to fill in all the details accurately. That information is important to us.",
+      "style": "Clear, direct instruction. Even pacing. No rush, but no ambiguity either. Precise articulation on key procedural points.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新業態の防犯、本気で、絶対、警察様、絶対、ご指導、絶対、お願いいたします、本気で、感謝",
+      "en": "Yes, absolutely. We'd be grateful for the police department's guidance as we develop security measures for our new business operations.",
+      "style": "Respectful and attentive. Slightly slower, showing careful consideration of the request. Genuine openness to guidance without defensiveness.",
+      "mood": "respectful_eager"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察の格付け、本気で、絶対、市民、絶対、信頼、絶対、寄せていただいております、本気で、感謝",
+      "en": "The public's trust in the police force is something we've seen grow steadily. We're grateful for your continued dedication to that.",
+      "style": "Thoughtful and steady. Acknowledges the weight of the statement. Calm, measured delivery with quiet emphasis on 'trust.'",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察送迎の、本気で、絶対、車両、絶対、当社で、絶対、用意可能です、本気で、感謝",
+      "en": "Yes. Our company is happy to arrange transportation for any police department visits. We can provide vehicles whenever needed.",
+      "style": "Helpful and practical. Warm tone, forward-leaning slightly. Offering assistance with quiet confidence. Quick and capable.",
+      "mood": "helpful_willing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "旅客機の安全、本気で、絶対、警察、絶対、見守ってまいります、本気で、感謝",
+      "en": "The safety of passengers on commercial flights is something we all take seriously. The police department will continue to monitor and protect that.",
+      "style": "Measured, serious tone. Slight weight on the responsibility being stated. Steady, unhurried. Conviction without dramatic emphasis.",
+      "mood": "vigilant_serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、本気で、絶対、防犯活動に、絶対、打ち込んでまいります、本気で、感謝",
+      "en": "Yes. Our staff is committed to supporting crime prevention efforts in every way we can. Thank you for this partnership.",
+      "style": "Sincere commitment. Warm closer. Slightly softer attack than previous responses. Genuine gratitude in the final words, not perfunctory.",
+      "mood": "dedicated_grateful"
+    }
+  ]
+}

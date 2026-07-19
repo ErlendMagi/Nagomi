@@ -1,0 +1,86 @@
+{
+  "id": "conv_06654",
+  "context": "A boss reviews corp ethics",
+  "purpose": "Teach: 勝る/術後/検問/尊い/固有名詞/さなか/変ら/塵",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勝る",
+    "術後",
+    "検問",
+    "尊い",
+    "固有名詞",
+    "さなか",
+    "変ら",
+    "塵"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_334 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品、競合に勝るとも劣らない、品質を目指せ。",
+      "en": "Aim for quality in the new product that matches or exceeds our competitors.",
+      "style": "Clipped, authoritative delivery. Each phrase lands with weight. No padding—direct eye contact level throughout. The tone of someone used to being listened to.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、術後復帰の支援制度、充実させました。",
+      "en": "Yes. We've strengthened our support program for employees returning after medical leave.",
+      "style": "Measured, respectful. Slight lean forward—showing he's attended to this personally. Steady pace, no rushing. The careful tone of someone reporting something he's proud of but won't oversell.",
+      "mood": "responsible"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "内部監査、検問所のように、厳格に運用しろ。",
+      "en": "Internal audits need to run with the rigor of a checkpoint. Don't let anything slip through.",
+      "style": "Sharp, expectant. The final sentence cracks like a directive. Speaks with the assumption he'll be obeyed. Brief pause before the last phrase for weight.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員一人一人の命を、尊い財産として、扱っております。",
+      "en": "Yes. We treat each employee's wellbeing as something irreplaceable and valuable.",
+      "style": "Quiet conviction underneath. Slower pace than before—this matters more. Slight tremor of sincerity in the middle. Not performative, but unmistakably genuine. The voice of someone saying what he actually believes.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書の固有名詞、誤記、見逃すな。",
+      "en": "Don't overlook typos in the contract names. Catch them all.",
+      "style": "Laser-focused, almost clipped. No warmth—this is a correction wrapped as a directive. The tone of someone who has seen small oversights become large problems.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。コロナのさなか、社員、力強く支えてくれました。",
+      "en": "Yes. During the pandemic, our staff supported us with real strength when it mattered most.",
+      "style": "Softer than usual. Slight reflection in the opening. Speaks with quiet respect for what was endured together. Warm but still professional—the acknowledgment of shared difficulty.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "創業精神、変らずに、引き継げ。",
+      "en": "Pass on our founding spirit unchanged. That's the inheritance we're giving them.",
+      "style": "Solemn, almost ceremonial weight. Speaks slower. This is legacy-talk, not instruction. A moment of genuine conviction that lifts the voice slightly. No rush to move on.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内、塵一つない清掃体制、徹底しております。",
+      "en": "Yes. We maintain rigorous cleaning standards throughout the office. Not a speck out of place.",
+      "style": "Finishing statement—slightly satisfied tone. Professional but warmer than the earlier replies. Speaks with the confidence of someone wrapping up something done well. Small exhale of completion at the end.",
+      "mood": "conscientious"
+    }
+  ]
+}

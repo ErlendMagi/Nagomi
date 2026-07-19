@@ -1,0 +1,65 @@
+{
+  "id": "conv_05811",
+  "context": "A teacher and student discuss a WWII documentary",
+  "purpose": "Teach: 戦犯/爆破/暴動/ナチス/部落/慰安/暴行/売春",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "戦犯",
+    "爆破",
+    "暴動",
+    "ナチス",
+    "部落",
+    "慰安",
+    "暴行",
+    "売春"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "昨夜の番組、戦犯裁判の記録、丁寧でしたね。",
+      "en": "Last night's program — the war crimes trial documentation was really thorough.",
+      "style": "Measured, thoughtful opening. Gentle curiosity in the voice. Speaking to an engaged student, not lecturing. Warm professional tone, with slight pause before the dash.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ナチス政権下の暴動と、組織的な暴行の記録、衝撃でした。",
+      "en": "Yes. The records of riots under Nazi rule and systematic violence — that was genuinely shocking.",
+      "style": "Quiet intensity. Respectful of the weight of the subject. Steady pace, not rushed. A student processing something serious out loud, trusting the teacher to hear him.",
+      "mood": "sobered"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "被占領地の部落で行われた慰安所制度、歴史学では大きな論点です。",
+      "en": "The comfort station system in occupied territories — that's a major point of discussion in historical scholarship.",
+      "style": "Clear, academic register but not cold. Bringing knowledge into the conversation as an offering. Deliberate pacing. Treating Ren as capable of understanding the complexity.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦時下の売春問題、研究で多角的にとらえられていますね。",
+      "en": "Wartime sex-work issues — they're being approached from multiple angles in the research now.",
+      "style": "Careful, exploratory tone. Building on what Asuka said without overspeaking. Slightly tentative, thinking alongside the teacher rather than at her. Respectful hesitation.",
+      "mood": "engaged_reflective"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "施設の爆破による証拠隠滅も、当時報じられました。",
+      "en": "The destruction of those facilities to hide evidence — that was documented at the time as well.",
+      "style": "Quiet gravity. Slow, deliberate pace on each phrase. The closing of a difficult conversation treated with appropriate weight. No brightness, but steady composure.",
+      "mood": "sobered_resolute"
+    }
+  ]
+}

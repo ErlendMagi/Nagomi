@@ -1,0 +1,78 @@
+{
+  "id": "conv_04099",
+  "context": "A boss briefs his secretary on publishing an internal report",
+  "purpose": "Teach: メールアドレス/開示/閲覧/オプション/機種/無線/等々/目次",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メールアドレス",
+    "開示",
+    "閲覧",
+    "オプション",
+    "機種",
+    "無線",
+    "等々",
+    "目次"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山田さん、来週公開する社内報告書の件だが、まず目次を見直してくれないか。",
+      "en": "Yamada, about the internal report we're publishing next week — first, could you review the table of contents?",
+      "style": "Calm, authoritative boss giving a measured directive to his secretary."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。閲覧範囲については、全社員に開放する形でよろしいでしょうか。",
+      "en": "Understood. Regarding the viewing scope, shall we open it to all employees?",
+      "style": "Polite, attentive secretary using keigo professionally throughout."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、ただし役員の個人メールアドレスは開示しないように。閲覧履歴も残してくれ。",
+      "en": "Yes, but don't disclose the executives' personal email addresses. Also keep a viewing history log.",
+      "style": "Firm, decisive tone with clear and explicit instructions."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。配信方法ですが、社内ポータルとPDF添付、二つのオプションがございます。",
+      "en": "Noted. As for distribution, there are two options: the internal portal and a PDF attachment.",
+      "style": "Composed secretary presenting choices succinctly and professionally."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "両方で頼む。それと、社外からも無線LAN経由で安全にアクセスできるか確認しておいてくれ。",
+      "en": "Both, please. Also, check whether it can be safely accessed from outside via wireless LAN.",
+      "style": "Practical boss thinking through security logistics with care."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。スマートフォンの機種によって表示が崩れる場合もありますので、そちらも検証いたします。",
+      "en": "Yes. Display can break depending on the smartphone model, so I'll verify that as well.",
+      "style": "Thorough secretary anticipating technical issues calmly and methodically."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼もしいな。図表、注釈、参考資料等々、最終チェックは金曜の朝までに頼むよ。",
+      "en": "Reliable as ever. Charts, footnotes, references and so on — final check by Friday morning, please.",
+      "style": "Warm but firm closing remark with a tight deadline."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。金曜の朝までに、目次から本文まで通しで確認しておきます。",
+      "en": "Understood. By Friday morning I'll go through everything from the table of contents to the body.",
+      "style": "Confident, professional acknowledgment closing the briefing on schedule."
+    }
+  ]
+}

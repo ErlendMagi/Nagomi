@@ -1,0 +1,65 @@
+{
+  "id": "conv_05688",
+  "context": "A boss explains corporate moves to a uni intern",
+  "purpose": "Teach: 市役所/フロア/洗練/ハードディスク/大物/スマート/本題/紙面",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市役所",
+    "フロア",
+    "洗練",
+    "ハードディスク",
+    "大物",
+    "スマート",
+    "本題",
+    "紙面"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、市役所との折衝、企業移転で重要な手続きだ。",
+      "en": "Ren, the negotiations with city hall—that's a critical step in relocating the company.",
+      "style": "Measured, direct opening. Settle the weight of the task into his voice. Pause after the dash. No condescension, but the clear tone of someone who expects competence.",
+      "mood": "instructional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "各フロアの設計、洗練されてますね。",
+      "en": "The design across each floor is really sophisticated.",
+      "style": "Genuine admiration underneath the nervousness. Slight lift at the end—he's noticing something, offering it as both observation and question. Respectful distance maintained.",
+      "mood": "impressed_hesitant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本題は、ハードディスクのデータ移行だ。慎重に。",
+      "en": "The real priority is the data migration from the hard drives. Handle it carefully.",
+      "style": "Shift to crisp focus. Quiet emphasis on 'carefully'—not warning, but setting the standard. Lean forward slightly in delivery. Pragmatic, no flourish.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大物の取引先にも、スマートに対応されてますね。",
+      "en": "The way you manage those major clients—it's genuinely smooth.",
+      "style": "Soft admiration. He's hesitant to name what he's noticing, building it up as an observation rather than flattery. Warm but uncertain. Eyes on Hiroshi, checking if it lands.",
+      "mood": "earnest_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "紙面で広く伝わる時もあれば、内輪で済む時もある。",
+      "en": "Sometimes these things spread across the news. Sometimes they stay contained in-house.",
+      "style": "Thoughtful, almost reflective close. Let each half breathe—the weight of public visibility against the relief of privacy. Quiet wisdom. Eyes level.",
+      "mood": "measured"
+    }
+  ]
+}

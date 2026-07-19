@@ -1,0 +1,90 @@
+{
+  "id": "conv_04395",
+  "context": "A police officer and a doctor coordinate after a serious case",
+  "purpose": "Teach: 死体/生存/先端/誤っ/牛肉/サイエンス/欲求/上下",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "死体",
+    "生存",
+    "先端",
+    "誤っ",
+    "牛肉",
+    "サイエンス",
+    "欲求",
+    "上下"
+  ],
+  "cast": [
+    "takeda_officer",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "先生、現場の死体を確認してきました。鑑識のチームも作業を進めています。",
+      "en": "Doctor, I checked the body at the scene. The forensics team is proceeding with their work too.",
+      "style": "Officer speaks formally, reporting facts with measured professionalism and respect."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご苦労様です。発見された時点で、生存の可能性は無かったということですね。",
+      "en": "Thank you for your hard work. So at the time of discovery, there was no possibility of survival.",
+      "style": "Doctor responds calmly, professional tone carrying the weight of medical responsibility."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。指の先端に微かな防御創があって、抵抗した痕跡が残っていました。",
+      "en": "Yes. There were faint defensive wounds on the fingertips, leaving traces of resistance.",
+      "style": "Officer continues factual reporting, sharing forensic details matter-of-factly with the doctor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。最初に到着した医師が死亡推定時刻を誤って記録していなければ良いのですが。",
+      "en": "I see. I just hope the first doctor on the scene didn't record the estimated time of death incorrectly.",
+      "style": "Doctor speaks thoughtfully, acknowledging procedural concerns with analytical reflection."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "胃の中にまだ消化されていない牛肉が残っていて、夕食の直後だと分かりました。",
+      "en": "There was undigested beef remaining in the stomach, so we could tell it was right after dinner.",
+      "style": "Officer shares concrete forensic finding with calm professional precision and clarity."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは大きな手掛かりですね。今月のサイエンス誌にも、胃内容物の分析法が載っていましたよ。",
+      "en": "That's a major clue. This month's Science magazine also had an article on stomach content analysis.",
+      "style": "Doctor speaks with intellectual warmth, sharing professional reading in a collegial manner."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "犯人の支配欲求が強い手口で、過去の事件と似ているところがあるんです。",
+      "en": "The suspect's method shows a strong urge for control, and there are similarities to past cases.",
+      "style": "Officer lowers voice slightly, sharing sensitive investigative pattern with trusted colleague."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "刺し傷の上下の角度から見ても、犯人はかなり背の高い人物かもしれません。",
+      "en": "Judging from the upward and downward angle of the stab wounds, the suspect may be quite tall.",
+      "style": "Doctor offers expert observation, blending clinical detail with investigative usefulness."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "貴重なご意見ありがとうございます。捜査本部にすぐ伝えます。",
+      "en": "Thank you for the valuable input. I'll relay it to the investigation headquarters immediately.",
+      "style": "Officer responds with grateful professionalism, eager to act on expert guidance."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "解剖の詳細な所見は、明日の朝までにまとめてお渡ししますね。",
+      "en": "I'll have the detailed autopsy findings compiled and delivered to you by tomorrow morning.",
+      "style": "Doctor closes with firm professional commitment, reassuring and reliable in tone."
+    }
+  ]
+}

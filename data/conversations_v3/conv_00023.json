@@ -1,0 +1,84 @@
+{
+  "id": "conv_00023",
+  "context": "Sunday afternoon. Riku, fifteen, has been hiding in his room. Yumiko knocks and lets herself in.",
+  "purpose": "mother-teen check-in — careful access to a closed room",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今日",
+    "どう",
+    "大丈夫",
+    "本当に",
+    "少し",
+    "時間",
+    "ない"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "riku_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ちょっと、いい？",
+      "en": "You got a sec?",
+      "style": "Knocks twice in the voice. Comes in two-thirds of a step. Doesn't step in fully — waits for permission post hoc.",
+      "mood": "careful_entry"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ん。",
+      "en": "Mn.",
+      "style": "Single syllable. Doesn't look up. Voice still cracking. Not unfriendly — defended.",
+      "mood": "guarded"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日、ずっと部屋いるね。大丈夫？",
+      "en": "You've been in here all day. You okay?",
+      "style": "Not accusing — observing. The 「大丈夫？」 is offered like a chair, not a key.",
+      "mood": "observing"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "別に、なんもない。",
+      "en": "It's nothing.",
+      "style": "Reflexive teen deflection. But the volume is conversational — he could be drawn out.",
+      "mood": "deflecting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。…言いたくなかったら、言わなくていいよ。",
+      "en": "Mm. …If you don't want to talk, you don't have to.",
+      "style": "Sits on the edge of his bed in the voice. The permission is the door.",
+      "mood": "permission"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…ちょっと、面倒なことあって。",
+      "en": "…There's just something annoying going on.",
+      "style": "A small concession. The 「ちょっと」 is a half-open door. JP and EN: same small concession.",
+      "mood": "tiny_open"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そっか。時間あるから、いつでも。本当に。",
+      "en": "Got it. I've got time — whenever. Really.",
+      "style": "No pressure. The 「本当に」 lands like a small genuine offer, not a sales close.",
+      "mood": "closing_open"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん。…ありがと。",
+      "en": "Yeah. …Thanks.",
+      "style": "Eyes still on his lap, but the word landed. Slightly quieter than the other lines.",
+      "mood": "small_thanks"
+    }
+  ]
+}

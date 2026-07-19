@@ -1,0 +1,86 @@
+{
+  "id": "conv_10494",
+  "context": "Doctor discusses cases",
+  "purpose": "Teach: 迷宮/生業/生身/ディテール/恐怖症/遺書/言い渡し/私事",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "迷宮",
+    "生業",
+    "生身",
+    "ディテール",
+    "恐怖症",
+    "遺書",
+    "言い渡し",
+    "私事"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_526 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、原因の迷宮入りした症例を医療チームで再検討します",
+      "en": "Ren, we'll be reviewing cases with unclear diagnoses as a medical team.",
+      "style": "Measured and clear. Even breath. Setting expectations like someone who has done this many times before. Steady gaze. Not warm, not cold—professional presence.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、看護を生業とする方々の心身ケアを医療チームでおこないます",
+      "en": "Ren, we provide physical and mental health support for nursing staff as a medical team.",
+      "style": "Same composure. A slight lengthening on 'support'—acknowledging this matters. Still even, but with quiet care underneath the clinical delivery.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、生身の患者様の治験記録を医療チームで管理します",
+      "en": "Ren, our medical team maintains records for patient clinical trials carefully and securely.",
+      "style": "Steady, careful emphasis. The word 'securely' lands with weight—this is non-negotiable. No rush. Voice carries the responsibility behind the words.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、症例ディテールの記述を医療チームで丁寧におこないます",
+      "en": "Ren, we document case details thoroughly as a medical team.",
+      "style": "Slight pause before 'thoroughly'—this is deliberate work, not routine. Calm but precise. The kind of care you hear in someone's voice when they refuse to cut corners.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者様の恐怖症の治療を医療チームで丁寧におこないます",
+      "en": "Ren, we treat patient phobias carefully and with full attention as a medical team.",
+      "style": "Gentle shift here. Still composed, but 'carefully' softens slightly—this is about human fear. Slower pace on that word. Steadiness, but with room for the person beneath the diagnosis.",
+      "mood": "composed_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "終末期の遺書のサポートを、貴院、おこなわれてますね、先生",
+      "en": "Your hospital does offer support for end-of-life letters, doesn't it, Doctor?",
+      "style": "Tentative opening. A small breath before the question—Ren is thinking out loud, not challenging. Respectful but genuinely curious. The question lands gently, as if he's been turning this over in his mind.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、診断結果の言い渡しを医療チームで配慮深くおこないます",
+      "en": "Ren, we communicate diagnoses to patients with deep consideration and compassion.",
+      "style": "Here, a subtle warmth enters. The word 'compassion' doesn't sound clinical—it's felt. Slower than the previous lines. The voice of someone who understands what it costs a patient to hear bad news.",
+      "mood": "composed_humane"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者様の私事に関する情報を医療チームで守秘します",
+      "en": "Ren, we keep all patient personal information confidential as a medical team.",
+      "style": "Closing with conviction. Slight firmness on 'confidential'—this is sacred ground. Even breath, composed as always, but the words carry the weight of a promise. Professional closure.",
+      "mood": "composed"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "conv_00213",
+  "context": "Kenji and Ryosuke discover they live in the same building when they cross paths in the lobby.",
+  "purpose": "small civic recognition — two adult men realizing they share a building",
+  "ambient": "apartment_lobby",
+  "sound_effects": [],
+  "target_vocab": [
+    "偶然",
+    "マンション",
+    "階",
+    "挨拶",
+    "よろしく"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "あ、こんばんは。よくお会いしますね。",
+      "en": "Oh, good evening. We meet often.",
+      "style": "Earnest salaryman warm recognition, the polite professional kindness, soft real warmth threading throughout delivery throughout.",
+      "mood": "warmly-recognizing"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こんばんは。同じマンションでしたか。",
+      "en": "Good evening. We're in the same building?",
+      "style": "Father warm surprised gentle recognition, the easy adult-discovery audible, soft real warmth threading throughout delivery.",
+      "mood": "warmly-discovering"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、三階です。偶然ですね。",
+      "en": "Yes, third floor. What a coincidence.",
+      "style": "Salaryman warm easy disclosure, the casual neighborly extension audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "easily-warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うちは五階。改めて、よろしくお願いします。",
+      "en": "We're on the fifth. Again, please look out for us.",
+      "style": "Father warm formal-friendly extension, the neighborly courtesy audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "formally-friendly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。挨拶できて良かったです。",
+      "en": "Same. Glad to have greeted you properly.",
+      "style": "Salaryman warm sincere reciprocal closing, the gentle real recognition audible, soft real warmth threading throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "お休みなさい。お気をつけて。",
+      "en": "Good night. Take care.",
+      "style": "Father warm gentle closing wisdom, the standard neighborly send-off, soft real warmth threading throughout delivery throughout.",
+      "mood": "gently-closing"
+    }
+  ]
+}

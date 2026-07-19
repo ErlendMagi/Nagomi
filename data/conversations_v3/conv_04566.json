@@ -1,0 +1,84 @@
+{
+  "id": "conv_04566",
+  "context": "A doctor consults with a teen patient about a health concern",
+  "purpose": "Teach: 菌/酸素/ホルモン/歯科/薬物/修復/看護婦/適合",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "菌",
+    "酸素",
+    "ホルモン",
+    "歯科",
+    "薬物",
+    "修復",
+    "看護婦",
+    "適合"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、検査結果ですが、ホルモンバランスが少し乱れているようですね。",
+      "en": "Sakura, looking at your test results, your hormone balance seems a bit off.",
+      "style": "Calm, professional doctor tone with measured, gentle pacing."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、それって薬を飲まなきゃいけないってことですか?薬物って副作用が怖くて…。",
+      "en": "Huh, does that mean I have to take medicine? I'm scared of side effects from drugs...",
+      "style": "Anxious teenage voice, slightly higher pitch trailing into worry."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今すぐ薬物療法を始める必要はありませんよ。生活習慣を整えれば、体は自然に修復されていきます。",
+      "en": "There's no need to start drug therapy right away. If you fix your lifestyle, your body will heal itself naturally.",
+      "style": "Reassuring, firm but warm medical advice with steady cadence."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よかった…。あ、それと最近、口の中がよく腫れるんです。菌とかが原因でしょうか?",
+      "en": "Thank goodness... Oh, and lately my mouth keeps getting swollen. Could it be from bacteria or something?",
+      "style": "Relieved then curious teenager, voice rising with renewed concern."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね、口腔内の菌が増えている可能性があります。一度、歯科医院で診てもらってください。",
+      "en": "Yes, the bacteria in your mouth may be increasing. Please get it checked at a dental clinic.",
+      "style": "Professional doctor referring patient elsewhere, clear and direct."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "歯科って苦手なんですよね…。あと、酸素が足りない感じがして、息切れもするんです。",
+      "en": "I'm not great with dental visits... Also, I feel short on oxygen and get out of breath.",
+      "style": "Reluctant teenager voicing multiple concerns, trailing off softly."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "では、看護婦さんに血中酸素を測ってもらいましょう。深呼吸して、リラックスしてくださいね。",
+      "en": "Then let's have the nurse measure your blood oxygen. Take a deep breath and try to relax.",
+      "style": "Practical, decisive, switching smoothly into action mode."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい…。あの、私の体、ちゃんと治りますか?",
+      "en": "Okay... Um, will my body really get better?",
+      "style": "Vulnerable, quiet teenage voice seeking gentle reassurance."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫ですよ。治療法が体質に適合すれば、すぐに元気になりますからね。",
+      "en": "You'll be fine. Once the treatment matches your constitution, you'll feel better in no time.",
+      "style": "Warm, paternal reassurance with a confident smile in the voice."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08029",
+  "context": "Officer briefs",
+  "purpose": "Teach: にもかかわらず/おっしゃら/あげれ/仰っ/当てはめ/まとまら/違わ/無き",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にもかかわらず",
+    "おっしゃら",
+    "あげれ",
+    "仰っ",
+    "当てはめ",
+    "まとまら",
+    "違わ",
+    "無き"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、悪天候にもかかわらず捜索を続けます",
+      "en": "We'll continue the search despite the bad weather.",
+      "style": "Official announcement cadence. Level, measured delivery — not cold, but structured. Slight weight on the commitment. Eye contact steady. The tone of someone speaking on record.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者がおっしゃらない事実、警察追及中ですね",
+      "en": "Yes. The facts the suspect won't disclose — the police are pursuing those right now.",
+      "style": "Attentive acknowledgment. Slightly formal register — matching Takeda's tone. A beat of careful listening before responding. Measured, respectful. No performance, just presence.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域支援にもっと予算をあげればと考えます",
+      "en": "We're thinking we need to allocate more budget to community support.",
+      "style": "Reflective, professional. Not presenting a demand, but a conclusion. Pause before the final clause — weight on the reasoning. Calm, thoughtful delivery. Voice settles slightly lower.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。長官が仰ったご方針、警察、徹底ですね",
+      "en": "Yes. The policy the chief outlined — the police are applying it thoroughly.",
+      "style": "Confirming with respect. Slight nod in the voice on the opening. Even pacing, attentive. Not obsequious, but genuinely tracking. The tone of someone aligned with the direction.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、過去事例を当てはめて分析しております",
+      "en": "We're analyzing this case by applying patterns from previous similar cases.",
+      "style": "Methodical, composed. Suggests careful deliberation without being slow. Clinical precision but not distant. The voice of someone walking through a practiced process with integrity.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。証言がまとまらない事件、警察、慎重ですね",
+      "en": "Yes. In cases where witness testimony doesn't align — the police proceed with caution.",
+      "style": "Tracking carefully. Slight emphasis on the constraint — not a complaint, an acknowledgment of protocol. Steady, responsible. The voice of someone who understands the weight of inconsistency.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民の証言は調書と違わないようまとめます",
+      "en": "We'll compile the citizens' statements to ensure they align with the official record.",
+      "style": "Procedural but not rigid. Slight emphasis on the alignment — the intent is precision, not suppression. Clear delivery. Professional distance, measured commitment.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者無きの事件は警察、未解決のままですね",
+      "en": "Yes. Cases without a suspect — those tend to remain unresolved.",
+      "style": "Quiet acknowledgment of a hard truth. Slight weight on the finality. Not resigned, but realistic. Soft close — the voice of someone familiar with the limits of what police work can answer.",
+      "mood": "resigned"
+    }
+  ]
+}

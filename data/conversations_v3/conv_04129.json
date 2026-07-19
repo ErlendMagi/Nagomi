@@ -1,0 +1,78 @@
+{
+  "id": "conv_04129",
+  "context": "A doctor and a teacher discuss school health screening logistics",
+  "purpose": "Teach: 肉体/体質/視覚/恐ろしい/強烈/蓄積/高等/必然",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肉体",
+    "体質",
+    "視覚",
+    "恐ろしい",
+    "強烈",
+    "蓄積",
+    "高等",
+    "必然"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "斎藤先生、来週の高等部の健康診断ですが、視覚検査の手順を確認させてください。",
+      "en": "Dr. Saito, regarding next week's health screening for the high school division, I'd like to confirm the visual examination procedure.",
+      "style": "Polite, professional teacher addressing a doctor formally."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。視覚だけでなく、肉体の発達状況も合わせて見ますので、生徒には体操服での待機をお願いします。",
+      "en": "Yes. We'll be examining not only vision but also their physical development, so please have the students wait in their gym clothes.",
+      "style": "Calm, methodical doctor explaining clinical procedure clearly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "わかりました。最近アレルギー体質の子が増えている気がするのですが、何か対策は必要でしょうか?",
+      "en": "Understood. I get the sense that more children have allergic constitutions lately—are any countermeasures necessary?",
+      "style": "Concerned teacher raising a practical health question politely."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、現代の食生活ではアレルゲンの蓄積が問題でして、強烈な反応を起こす子もいます。事前申告の書類を配ってください。",
+      "en": "Yes, with modern diets the accumulation of allergens is an issue, and some children have intense reactions. Please distribute the pre-declaration forms.",
+      "style": "Doctor giving evidence-based medical guidance with measured tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本当に恐ろしい話ですね。保護者にもしっかり周知します。",
+      "en": "That's truly a frightening matter. I'll make sure the guardians are properly informed as well.",
+      "style": "Teacher reacting with genuine concern, then reassuring tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ありがとうございます。スクリーニング項目を増やせば、異常を早期発見できるのは必然の結果ですから。",
+      "en": "Thank you. If we expand the screening items, early detection of abnormalities is a necessary outcome.",
+      "style": "Doctor reinforcing rationale with confident, logical phrasing."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では当日は受付を二か所に分けて、混雑を避ける形でよろしいですか?",
+      "en": "Then on the day itself, shall we split the reception into two locations to avoid congestion?",
+      "style": "Teacher proposing a logistical solution in collaborative manner."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それで結構です。看護師も二名連れてきますので、スムーズに進められるはずです。",
+      "en": "That will be fine. I'll bring two nurses along, so it should proceed smoothly.",
+      "style": "Doctor confirming the plan with reassuring, cooperative voice."
+    }
+  ]
+}

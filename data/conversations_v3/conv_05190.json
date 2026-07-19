@@ -1,0 +1,78 @@
+{
+  "id": "conv_05190",
+  "context": "A barista finalizes a wholesale contract with a B2B manager",
+  "purpose": "Teach: 入金/返品/善意/純正/上旬/室長/命題/広範",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "入金",
+    "返品",
+    "善意",
+    "純正",
+    "上旬",
+    "室長",
+    "命題",
+    "広範"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お忙しいところすみません、卸契約について広範な品目をまとめてきました。",
+      "en": "Sorry to bother you, I've put together a broad range of items for the wholesale contract.",
+      "style": "Polite business opening with a slightly formal apologetic tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。豆はシングルオリジンだけ、エスプレッソマシンも純正部品で揃えたいんです。",
+      "en": "Thank you. I'd like only single-origin beans, and genuine parts for the espresso machine too.",
+      "style": "Warm but firm artisan voice, principled about product quality."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。納品は毎月上旬、入金は月末締めの翌月払いでいかがでしょう。",
+      "en": "Understood. Delivery early each month, payment closed month-end and paid the next month, okay?",
+      "style": "Crisp professional cadence laying out concrete contract terms."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それで大丈夫です。万が一豆に問題があった場合、返品はどう扱いますか。",
+      "en": "That works. If there's ever an issue with the beans, how do we handle returns?",
+      "style": "Practical follow-up question in a calm businesslike manner."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "未開封なら全量交換、開封後も善意の対応として一定割合まで補填します。",
+      "en": "Full exchange if unopened, and as a good-faith gesture we'll cover a set portion even after opening.",
+      "style": "Reassuring corporate explanation emphasizing goodwill and flexibility."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。安定供給と品質の両立は、うちみたいな小さな店の永遠の命題なので。",
+      "en": "That's a relief. Balancing steady supply and quality is an eternal challenge for a small shop like ours.",
+      "style": "Reflective candid tone from a small-business owner reflecting."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では契約書を仕上げて、来週うちの調達室長と一緒にお伺いします。",
+      "en": "Then I'll finalize the contract and visit next week with our procurement director.",
+      "style": "Closing business statement scheduling the next concrete step."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お待ちしています。初回の入金確認が取れ次第、すぐ焙煎に入りますね。",
+      "en": "I'll be expecting you. As soon as the first payment is confirmed, I'll start roasting right away.",
+      "style": "Friendly action-oriented sign-off with a clear next move."
+    }
+  ]
+}

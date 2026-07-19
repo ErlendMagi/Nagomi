@@ -1,0 +1,61 @@
+{
+  "id": "conv_01703",
+  "context": "Hina-young goes alone for the first time on a train trip to visit Mei.",
+  "purpose": "Teen taking independence step; phone call with parent.",
+  "ambient": "train_window_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "一人",
+    "電車",
+    "到着",
+    "安心"
+  ],
+  "cast": [
+    "hina_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_085)",
+    "generated_at": "2026-05-27T07:18:47.434Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、電車、乗れた!",
+      "en": "Mei, I caught the train all by myself!",
+      "style": "Bright, proud triumph. Quick attack on the opening. Warm and eager — seeking her approval. Slight breathlessness of accomplishment. End on a lift.",
+      "mood": "proud_excited"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "すごい、一人で立派ね。",
+      "en": "That's wonderful — you did it all on your own.",
+      "style": "Warm, genuinely delighted. Slow, deliberate delivery. Soft emphasis on 'all on your own' — seeing her courage, not just the action. Tender affirmation in the voice.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ドキドキしたけど、大丈夫。",
+      "en": "I was nervous, but I'm okay.",
+      "style": "Honest vulnerability under the surface. Slight hesitation before 'I'm okay' — checking in with herself. Soft, genuine tone. Pride mixed with relief.",
+      "mood": "brave_relieved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "到着したら、連絡してね。",
+      "en": "Message me when you get there, okay?",
+      "style": "Gentle, caring instruction without urgency. Quiet concern wrapped in softness — she wants to know she's safe. Trailing slightly upward at the end, inviting reassurance.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、待っててね!",
+      "en": "Yeah, I will! Wait for me!",
+      "style": "Bright, eager energy. Quick-paced opening. Warm reassurance in her promise. Light, genuine excitement — checking in, seeking connection.",
+      "mood": "eager_warm"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_01131",
+  "context": "Sho lends Hina a favorite toy.",
+  "purpose": "children lending exchange",
+  "ambient": "living_room_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "貸す",
+    "友達"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_057)",
+    "generated_at": "2026-05-27T04:03:15.311Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、それ、貸してくれる？",
+      "en": "Sho, will you lend me that?",
+      "style": "Bright, direct ask with underlying gentleness. Eager without being demanding. Opening with his name—immediate, natural. Hopeful lilt at the end. Audibly a child's voice: warm, unselfconscious.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、いいよ。",
+      "en": "Yeah, sure.",
+      "style": "Soft, immediate agreement. No hesitation. Small, genuine warmth underneath. The generosity of a child who doesn't need to think about it. Quiet but clear.",
+      "mood": "gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、優しい。",
+      "en": "Thanks—you're so kind.",
+      "style": "Bright gratitude with real tenderness. Genuine appreciation in the word 「優しい」. Light, unselfconscious warmth. A child recognizing kindness and naming it without shyness.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "友達、皆で、貸し合おう。",
+      "en": "Friends should share with each other.",
+      "style": "Soft, thoughtful proposal. Not lecturing—offering an idea like it just occurred to him. Gentle conviction. Small voice carrying something mature for six years old. Warm without performance.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、楽しい、ね。",
+      "en": "Being together like this is fun, isn't it?",
+      "style": "Bright, warm closing. Light, affirming tone—checking that he feels it too. Childish lilt on the question. Pure pleasure in the moment. No edge, no performance.",
+      "mood": "joyful"
+    }
+  ]
+}

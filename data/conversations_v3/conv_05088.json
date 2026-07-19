@@ -1,0 +1,84 @@
+{
+  "id": "conv_05088",
+  "context": "A uni intern interviews a manager about quality assurance",
+  "purpose": "Teach: 出展/移譲/監修/補欠/採点/燃焼/立証/責務",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出展",
+    "移譲",
+    "監修",
+    "補欠",
+    "採点",
+    "燃焼",
+    "立証",
+    "責務"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_256 workflow ww9ubceop)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "お忙しいところすみません、品質保証の責務について少しお話を伺えますか。",
+      "en": "Sorry to bother you—could I ask a bit about the duties of quality assurance?",
+      "style": "Polite intern opening with formal sentence-final request form"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。一番大事なのは、製品の安全性を立証することかな。",
+      "en": "Of course. The most important thing is proving the product's safety, I'd say.",
+      "style": "Warm professional tone with reflective sentence-final kana"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、事実を立証するためにはどんなテストをされるんですか。",
+      "en": "I see—what kinds of tests do you run to substantiate the facts?",
+      "style": "Curious follow-up with respectful keigo verb form"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "例えば燃焼試験ね。素材が完全燃焼するか、煙の成分まで細かく調べるの。",
+      "en": "Combustion tests, for example. We check if materials burn completely, even smoke contents.",
+      "style": "Explanatory feminine speech with soft sentence ender no"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先日、展示会にブースを出展されていましたよね。あれも品質アピールですか。",
+      "en": "You exhibited a booth at the trade show recently, right? Was that also quality promotion?",
+      "style": "Polite past-reference question linking observation to topic"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そう。外部の専門家の監修を受けたデータを、来場者に見てもらったのよ。",
+      "en": "Exactly. We showed visitors data that was supervised by outside experts.",
+      "style": "Confirmatory feminine sentence-final particle yo for emphasis"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場の採点基準は厳しいと聞きました。補欠の検査員も多いんですか。",
+      "en": "I heard the on-site grading standards are strict. Are there many backup inspectors too?",
+      "style": "Two-part question showing prior research and curiosity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、いざという時のためにね。来年から一部の権限を若手へ移譲する予定なの。",
+      "en": "Yes, just in case. From next year we plan to delegate some authority to younger staff.",
+      "style": "Informative reply with forward-looking plan and feminine particle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。今日のお話、レポートに大切に書かせていただきます。",
+      "en": "This has been really educational. I'll write it up carefully in my report.",
+      "style": "Humble closing with double-humble causative-receiving keigo"
+    }
+  ]
+}

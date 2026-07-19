@@ -1,0 +1,78 @@
+{
+  "id": "conv_03276",
+  "context": "Planning a community seminar",
+  "purpose": "Plan an event; teach セミナー/日時/時点/地区/メイン/できるだけ/もともと/多少",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セミナー",
+    "日時",
+    "時点",
+    "地区",
+    "メイン",
+    "できるだけ",
+    "もともと",
+    "多少"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "来月のセミナー、準備を始めましょう。",
+      "en": "Let’s start preparing next month’s seminar.",
+      "style": "proactive organizer kicking things off, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "開催の日時はもう決まった？",
+      "en": "Is the date and time set yet?",
+      "style": "practical manager checking essentials, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "現時点では、第三週の土曜が候補です。",
+      "en": "As of now, the third Saturday is the candidate.",
+      "style": "organizer giving the current status, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会場はどの地区にする？",
+      "en": "Which district for the venue?",
+      "style": "manager weighing the location, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "駅前地区の市民ホールが便利です。",
+      "en": "The civic hall in the station district is convenient.",
+      "style": "organizer recommending a spot, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "メインの講師はもう押さえた？",
+      "en": "Have you secured the main speaker?",
+      "style": "manager confirming the headliner, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。できるだけ早く告知を出しましょう。",
+      "en": "Yes. Let’s announce it as soon as possible.",
+      "style": "organizer pushing for momentum, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もともとの予算より、多少増えそうだね。",
+      "en": "It’ll run somewhat over the original budget.",
+      "style": "manager noting a cost creep, delivery emotionally grounded and unforced"
+    }
+  ]
+}

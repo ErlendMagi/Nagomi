@@ -1,0 +1,86 @@
+{
+  "id": "conv_06614",
+  "context": "A boss reviews corp safety policy",
+  "purpose": "Teach: 除け/処方/知見/養う/備える/凶/調書/力強く",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "除け",
+    "処方",
+    "知見",
+    "養う",
+    "備える",
+    "凶",
+    "調書",
+    "力強く"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "リスク除けの体制、各部署で、整えろ。",
+      "en": "Make sure each department has a risk-management system in place.",
+      "style": "Steady, measured delivery. Each clause lands with quiet authority. No inflection needed — the weight is in the competence. Short pauses between instructions, like checking them off.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員のメンタル、処方として、休暇制度、強化しました。",
+      "en": "Yes. We've strengthened the leave system as part of supporting our staff's mental health.",
+      "style": "Clear, methodical. Speaking from preparation — the words are already thought through. Respectful register without obsequiousness. Slight emphasis on 'strengthened' to show the work is done.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界知見、社員教育に、活用しろ。",
+      "en": "Use what you know from the industry to train the staff better.",
+      "style": "Direct but not harsh. A light emphasis on 'use' — there's implicit expectation here. Calm authority. No rush in the delivery.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会社が社員を養う責任、創業以来、変わりません。",
+      "en": "Yes. We've held to that responsibility since we started — the company's obligation to support its people hasn't changed.",
+      "style": "Sincere undertone. Kenji is anchoring something here, almost like a principle. Slower than before. Conviction that doesn't need to prove itself. Slight softening on the final clause.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "災害に備える備蓄、各事業所で、確保しろ。",
+      "en": "Secure emergency supplies at each of our locations.",
+      "style": "Same level of direct authority as before. Clear, executable. No qualification. The tone sits somewhere between instruction and trust that it will be done.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。凶悪事件への警戒、社内、徹底しています。",
+      "en": "Yes. We're maintaining strict internal protocols for any serious incidents.",
+      "style": "Reassuring without sounding uncertain. Steady pacing. The 'strict' is not defensive — it's factual. Professional confidence that this is already in hand.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "コンプラ違反の調書、対応、慎重にしろ。",
+      "en": "Handle any compliance violations carefully. Don't rush the investigation.",
+      "style": "Measured caution here. Not alarming, but firm. The emphasis lands on 'carefully' — there's weight to that word. A slight slowdown at the end, like a warning delivered quietly.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、力強く、社業を支えてくれています。",
+      "en": "Yes. Our people are the real strength behind everything we do.",
+      "style": "Quieter, more personal than before — this is the real statement he's been building toward. Sincere, not performative. A small exhale after 'strength,' like something genuine just came through.",
+      "mood": "grounded_grateful"
+    }
+  ]
+}

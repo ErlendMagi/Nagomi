@@ -1,0 +1,62 @@
+{
+  "id": "conv_00617",
+  "context": "Sachiko's regular checkup with Saito. Casual familiarity.",
+  "purpose": "ongoing doctor-elder visit",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "元気",
+    "感謝",
+    "一緒",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_031)",
+    "generated_at": "2026-05-27T00:55:40.388Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、本当に、お元気で、何より。",
+      "en": "Tanaka-san, I'm truly glad you're doing so well.",
+      "style": "Warm, measured delivery. A light lift on the opening — genuine pleasure without over-performance. Steady eye contact. The satisfaction of a doctor who sees a patient genuinely thriving. Slight softening at the close.",
+      "mood": "genuine_warmth"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おかげさまで。先生、いつも、ありがとう。",
+      "en": "Thank you so much, Doctor. Always, thank you.",
+      "style": "Soft, grateful voice. A small pause after the first phrase — collecting appreciation, not rushing through it. Warm throughout, with a tender rise on the final gratitude. The voice of someone who has been truly cared for.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご家族、ひかりちゃんも、本当に、お元気ですか。",
+      "en": "And how is your family doing? Hikari-chan as well?",
+      "style": "Natural, conversational shift. The question carries genuine interest — not clinical routine. A slight lean in on Hikari's name, showing she's remembered the granddaughter. Warm professional tone, but the care is personal.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "はい、皆、お元気で、本当に、嬉しい。",
+      "en": "Yes, everyone's doing well. I'm truly happy about that.",
+      "style": "Quiet contentment settling into the voice. A gentle emphasis on 'everyone' — the wholeness of family health matters here. Reflective pause before the final phrase, then a soft close with genuine joy audible.",
+      "mood": "contented_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "これからも、ご家族、皆さんの、健康、見守らせて、ください。",
+      "en": "Going forward, please let me continue to look after your family's health.",
+      "style": "Professional warmth with quiet sincerity. 'Going forward' lands with gentle commitment. The phrase 'let me look after' carries both respect and genuine intent — not obligation, but privilege. Calm, steady close.",
+      "mood": "committed_humble"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04194",
+  "context": "A police officer briefs a mom on local environmental health concerns",
+  "purpose": "Teach: 公害/移植/鑑定/回路/観念/無意識/異議/欲望",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "公害",
+    "移植",
+    "鑑定",
+    "回路",
+    "観念",
+    "無意識",
+    "異議",
+    "欲望"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "奥さん、ちょっとお時間よろしいですか。今日は地域の公害対策について少しお話があります。",
+      "en": "Ma'am, do you have a moment? Today I have a bit of news about local pollution measures.",
+      "style": "Polite official tone, calm and measured doorstep delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、お巡りさん。実は川の匂いの件で、町内会でも異議の声が出ていたんですよ。",
+      "en": "Oh, officer. Actually, about the river smell, voices of objection had been coming up at the neighborhood meetings.",
+      "style": "Warm motherly voice, mildly worried but friendly and open"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "やはりそうでしたか。先日の水質鑑定で、上流の工場排水が原因だと判明したんです。",
+      "en": "I thought so. A recent water-quality analysis confirmed factory wastewater upstream is the cause.",
+      "style": "Serious informative tone, professional and reassuring delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "やっぱり…。うちは野菜を畑で育てているので、土への影響も本当に心配で。",
+      "en": "I knew it… We grow vegetables in our garden, so I'm truly worried about effects on the soil too.",
+      "style": "Voice softening with concern, motherly anxiety showing through gently"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もし汚染された土なら、土の入れ替え、つまり土壌の移植のような作業も必要になります。",
+      "en": "If the soil is contaminated, we may need a soil swap — essentially a kind of soil transplant.",
+      "style": "Gentle advisory tone, professionally informative and patient"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そこまでとは…。安全だという固定観念のまま、無意識に野菜を食べさせていました。",
+      "en": "I had no idea it was that serious… I'd been feeding them vegetables, unconsciously assuming they were safe.",
+      "style": "Reflective and slightly self-critical, softer regretful tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "便利さを求める欲望が、こうした問題を生む回路になっているのかもしれませんね。",
+      "en": "Perhaps the desire for convenience itself forms the circuit that breeds these problems.",
+      "style": "Reflective philosophical tone, calmly thoughtful and measured"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当ですね。家族でちゃんと話し合って、できることから始めますね。ありがとうございます。",
+      "en": "You're absolutely right. I'll talk it over properly with my family and start with what we can do. Thank you.",
+      "style": "Grateful and resolved, warm closing motherly tone"
+    }
+  ]
+}

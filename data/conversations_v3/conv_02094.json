@@ -1,0 +1,79 @@
+{
+  "id": "conv_02094",
+  "context": "Riku-teen helps Sho-young with English homework using formal language.",
+  "purpose": "Teen mentor patient teaching.",
+  "ambient": "study_room_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "言語",
+    "正解",
+    "間違い",
+    "サポート",
+    "始まっ",
+    "進歩",
+    "頑張る",
+    "英語"
+  ],
+  "cast": [
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_105)",
+    "generated_at": "2026-05-27T13:24:30.752Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "陸くん、英語、難しい!",
+      "en": "Riku, English is so hard!",
+      "style": "Frustrated whine on the first word, but not whiny—genuine overwhelm. Soft, seeking reassurance. Pace quickens slightly. Trailing off with a small exhale, like he's admitting defeat.",
+      "mood": "frustrated_seeking"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "言語、慣れたら、楽しくなる。",
+      "en": "Languages get easier once you get used to them. Then it becomes fun.",
+      "style": "Calm, steady reassurance. A small smile in the voice. Not lecturing—just sharing what he knows. Unhurried pace, like he's thought about this before. Light landing on 'fun'.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "間違いだらけ、サポート、お願い!",
+      "en": "I keep making mistakes. Will you help me?",
+      "style": "Quietly vulnerable. Slight tremor of worry underneath. Pace slows. The question at the end is small and direct—not demanding, just hoping. Soft gaze up.",
+      "mood": "vulnerable_hopeful"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "勉強、始まったばかり、進歩はこれから。",
+      "en": "You just started. It's still early. The progress comes after this.",
+      "style": "Patient, grounded. Spoken like someone who understands the particular weight of early failure. Warm but not coddling. Slight emphasis on 'just started'—permission, not excuse. Steady rhythm.",
+      "mood": "patient_grounded"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "正解、出たら嬉しい!",
+      "en": "When I get one right, it's going to feel so good!",
+      "style": "Brightness breaking through. Quick, eager. The opening word has lift—sudden optimism. Slight rush forward on 'so good.' Genuine excitement, not performed. Small and sincere.",
+      "mood": "hopeful_eager"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "頑張る姿勢、ええで!",
+      "en": "I like that you keep trying. That takes guts.",
+      "style": "Warm, genuine respect. A little surprised at his own sincerity. Slow, deliberate pace—each word means something. Light firmness on 'keep trying.' The kind of thing he means and hopes Sho hears it.",
+      "mood": "proud_sincere"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、続ける!",
+      "en": "Thank you. I'm going to keep going.",
+      "style": "Small, steady determination. Grateful softness on the first words. Then a shift—quieter resolve on 'keep going.' Like he's making a promise to himself as much as to Riku. Slow, intentional close.",
+      "mood": "grateful_determined"
+    }
+  ]
+}

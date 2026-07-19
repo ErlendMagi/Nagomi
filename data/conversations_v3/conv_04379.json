@@ -1,0 +1,72 @@
+{
+  "id": "conv_04379",
+  "context": "A boss and his deputy review a consultant proposal",
+  "purpose": "Teach: コンサルタント/コンセプト/アーカイブ/前述/特例/相違/宜しく/フロント",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンサルタント",
+    "コンセプト",
+    "アーカイブ",
+    "前述",
+    "特例",
+    "相違",
+    "宜しく",
+    "フロント"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ君、例のコンサルタントから提案書が届いたよ。まず全体のコンセプトを確認しよう。",
+      "en": "Kenji, the proposal from that consultant arrived. Let's first review the overall concept.",
+      "style": "Authoritative boss opening a formal review meeting calmly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、過去案件のアーカイブも引っ張り出して比較しました。前述の通り、方向性自体は悪くないかと。",
+      "en": "Yes, I pulled out the archive of past cases for comparison. As mentioned, the direction itself isn't bad.",
+      "style": "Diligent deputy reporting findings with measured professional confidence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ただ、見積もりが社内基準とかなり相違しているね。これは特例として通すべきか悩むところだ。",
+      "en": "However, the estimate differs considerably from our internal standards. I'm torn whether to approve it as an exception.",
+      "style": "Skeptical executive weighing budget concerns with visible hesitation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "実は先方、ホテルのフロント業務改革にも実績があるそうで、その分野では定評があります。",
+      "en": "Actually, they have a track record in hotel front desk reform, and they're well regarded in that field.",
+      "style": "Supportive subordinate offering reassurance with concrete evidence and tact."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。では条件面を詰めた上で、来週役員会に上げよう。資料の最終確認、宜しく頼むよ。",
+      "en": "I see. Then after nailing down the terms, let's bring it to the board next week. I'm counting on you for the final document check.",
+      "style": "Decisive leader delegating responsibility with warm trust and authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。修正点をまとめ次第、本日中にお持ちします。",
+      "en": "Understood. As soon as I compile the revision points, I'll bring them to you by end of day.",
+      "style": "Loyal deputy accepting the task with crisp professional commitment."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かるよ。君がいてくれて本当に心強い。",
+      "en": "That helps a lot. Having you here is truly reassuring.",
+      "style": "Senior boss expressing genuine appreciation in understated Japanese style."
+    }
+  ]
+}

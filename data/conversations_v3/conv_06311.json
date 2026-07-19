@@ -1,0 +1,86 @@
+{
+  "id": "conv_06311",
+  "context": "A police officer briefs about cases",
+  "purpose": "Teach: 破り/亡くし/狙わ/荒らし/号泣/繋がら/縫っ/映り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "破り",
+    "亡くし",
+    "狙わ",
+    "荒らし",
+    "号泣",
+    "繋がら",
+    "縫っ",
+    "映り"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_317 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、ルールを破り、駅を出ようとしたようです。",
+      "en": "It appears the suspect broke protocol and tried to leave the station.",
+      "style": "Measured professional tone. Even delivery. No rush. The weight of procedure in each phrase, not judgment.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の家族、亡くした方、ケア、必要ですね。",
+      "en": "The victim's families — the bereaved ones — they're going to need proper care.",
+      "style": "Thoughtful, hesitant. Ren reaching for the right words. Careful not to minimize. Slight pause after 'families,' like he's thinking it through.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者が狙われた経緯、検証中です。",
+      "en": "Yes. We're still verifying the circumstances of why this victim was targeted.",
+      "style": "Calm, professional. Direct answer without elaboration. The tone of someone following protocol carefully.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家を荒らしたうえで盗難、ショックですよね。",
+      "en": "Being burglarized on top of everything else — that's a real shock to process.",
+      "style": "Ren speaking with quiet understanding. Not probing aggressively, but genuinely trying to understand the scope of harm. Gentle.",
+      "mood": "empathetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。号泣する被害者、専門カウンセラーに繋ぎました。",
+      "en": "Yes. The victims who are in acute distress — we've connected them with specialist counselors.",
+      "style": "Even, informative. Takeda stating what was done, not dwelling on the suffering. Professional care in the details.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、市民と繋がらない時、対応、難しいですね。",
+      "en": "When citizens don't feel connected to the police, the response becomes harder, doesn't it.",
+      "style": "Quiet observation from Ren. Not accusatory — genuinely puzzling through a problem aloud. Slight upturn on 'doesn't it,' inviting agreement.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。証拠を縫って集める作業、地道です。",
+      "en": "Yes. The work of gathering and verifying evidence — it's meticulous, unglamorous work.",
+      "style": "Takeda speaking with quiet patience about process. Not complaining, just acknowledging the grind. Steady, almost meditative.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "防犯カメラに映り込んだ証拠、決め手ですね。",
+      "en": "The security footage — what's captured on camera — that's what will decide this.",
+      "style": "Ren recognizing a crucial turning point. Not eager, but clear-eyed about where this pivots. Slight emphasis on 'decide.'",
+      "mood": "clear_eyed"
+    }
+  ]
+}

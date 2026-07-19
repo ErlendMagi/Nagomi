@@ -1,0 +1,78 @@
+{
+  "id": "conv_04450",
+  "context": "A police officer briefs a teen reporter on a case roster",
+  "purpose": "Teach: 中田/渡辺/山口/井上/池田/堀江/橋本/岡田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "中田",
+    "渡辺",
+    "山口",
+    "井上",
+    "池田",
+    "堀江",
+    "橋本",
+    "岡田"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_224 workflow ww078rn24)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日の事件簿を確認します。被害届を出したのは中田さんと渡辺さんです。",
+      "en": "Let's review today's case file. The complaints were filed by Mr. Nakada and Mr. Watanabe.",
+      "style": "Formal, measured police briefing tone with clear enunciation."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "メモしますね。中田さんと渡辺さん、それから他にも関係者はいますか？",
+      "en": "I'll take notes. Mr. Nakada and Mr. Watanabe, and are there other involved parties?",
+      "style": "Eager, polite young reporter voice with rising curiosity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "目撃者として山口さんと井上先生から証言をいただいています。",
+      "en": "We have testimony from Mr. Yamaguchi and Dr. Inoue as witnesses.",
+      "style": "Calm professional delivery, factual and procedural."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "井上先生って、あの近所の医院の方ですか？池田さんも何か見たんでしょうか。",
+      "en": "Dr. Inoue, the one from the neighborhood clinic? Did Mr. Ikeda see something too?",
+      "style": "Slightly excited, conversational teen with quick follow-up questions."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、池田さんと堀江社長も現場近くにいたそうです。事情を伺いました。",
+      "en": "Yes, Mr. Ikeda and President Horie were near the scene. We asked for their accounts.",
+      "style": "Steady, authoritative officer voice with deliberate pacing."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "堀江社長まで！橋本さんの名前も聞いたんですが、関係あるんですか？",
+      "en": "Even President Horie! I heard the name Mr. Hashimoto too—is he involved?",
+      "style": "Surprised inflection, leaning forward with reporter's instinct."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "橋本さんは通報者です。最初に岡田監督が異変に気づいて、彼に連絡したそうですよ。",
+      "en": "Mr. Hashimoto is the caller. Apparently Coach Okada first noticed something and contacted him.",
+      "style": "Patient explanatory tone, tying the timeline together."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "岡田監督が第一発見者なんですね。記事にまとめます、ありがとうございます！",
+      "en": "So Coach Okada was the first to spot it. I'll write it up—thank you very much!",
+      "style": "Bright, grateful closing with notebook-snapping energy."
+    }
+  ]
+}

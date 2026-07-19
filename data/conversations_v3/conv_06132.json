@@ -1,0 +1,86 @@
+{
+  "id": "conv_06132",
+  "context": "A police officer briefs a uni reporter about a regional case",
+  "purpose": "Teach: 北陸/音波/雑草/食用/耐性/重心/史実/過熱",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "北陸",
+    "音波",
+    "雑草",
+    "食用",
+    "耐性",
+    "重心",
+    "史実",
+    "過熱"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "北陸地方の事件、捜査、段階的に進めています。",
+      "en": "We're proceeding with the Hokuriku investigation in careful phases.",
+      "style": "Measured, professional. Steady voice with no rush. Slight weight on each key word. The tone of someone briefing a civilian—informative but guarded.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "音波探知の活用、事件発覚の決め手でしたね。",
+      "en": "The sonar work was really what cracked it open for you.",
+      "style": "Lean forward slightly with genuine interest. Warm, thoughtful pace. Not rushing to the next question—letting the observation sit. The tone of someone who actually understands the technical complexity.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。河川敷の雑草、現場保全のため、整備が必要でした。",
+      "en": "Yes. The vegetation along the riverbed needed to be cleared to properly preserve the site.",
+      "style": "Factual, steady. No defensiveness—just laying out what had to be done. Slight pause after 'yes' to mark the shift to explanation. Clinical but not cold.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "食用品の流通、警察も追跡していますか。",
+      "en": "Are you tracking the distribution channels for the food products as well?",
+      "style": "Genuine curiosity, but careful—not accusatory. Quiet, thoughtful. The pace of someone thinking while speaking. Slight hesitation before 'as well,' like he's checking if it's a fair question.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。違法薬物に耐性を持つ品種、注意しています。",
+      "en": "Yes. We're keeping close watch on any strains that show resistance to the illegal substances involved.",
+      "style": "Controlled, deliberate. Each phrase marked with quiet precision. This is sensitive territory—the voice neither downplays nor dramatizes. Professional calm under a layer of real concern.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者の重心の不安定さ、目撃者証言にもありましたね。",
+      "en": "The suspect's unsteady gait came up in the witness statements too, didn't it.",
+      "style": "Thoughtful, connecting pieces together aloud. Slow, measured cadence. Not a question despite the rising ending—more a confirmation of something he's been turning over. Genuine interest in the technical detail.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。史実に基づく地理情報、活用しました。",
+      "en": "Yes. We used historical geographical data to help narrow down the timeline and location.",
+      "style": "Calm authority. Slight emphasis on 'yes' to mark the shift. Clear, unadorned explanation—the tone of someone confident in the method. No need to oversell the approach.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メディアの過熱報道、避けてもらえますか。",
+      "en": "Could we keep the media coverage under control on this one?",
+      "style": "Quieter now, almost careful. A polite request that carries real weight underneath. Slight lean in, like he's sharing a small worry. Respectful of Takeda's position but genuine about the concern.",
+      "mood": "concerned"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "conv_00006",
+  "context": "Saturday morning. Daichi calls Kenji from Osaka to figure out plans for the evening.",
+  "purpose": "friend logistics with banter — casual Kansai-Tokyo phone call between close mates",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "今日",
+    "明日",
+    "今",
+    "一緒",
+    "本当に",
+    "どう",
+    "時間",
+    "ない"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おーい、今どこ？",
+      "en": "Oi — where are you right now?",
+      "style": "Loud, energetic opener. Stretch the 「おーい」 playfully with Kansai enthusiasm. No preamble—straight into the ask. Full volume, full presence.",
+      "mood": "boisterous"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今うちだよ。なに、もう外おる？",
+      "en": "I'm at home. What—you out already?",
+      "style": "Half-laugh threaded through. Pick up a single Kansai inflection ironically, showing you're used to this. Warm, loose, in-the-middle-of-something-but-glad-he-called.",
+      "mood": "amused"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "まだまだ。今日さ、本当に時間ある？",
+      "en": "Not yet. Listen—do you actually have time today?",
+      "style": "Drop half a register into mock-serious. The 「本当に」 is a real question underneath the performance—fishing to check commitment before making the plan.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あるよ。何時から？",
+      "en": "Yeah, I do. From when?",
+      "style": "Calm, ready, purposefully low-energy. Not matching Daichi's volume—letting him drive. Clear and direct, no performance.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "七時に駅でどう？飲み行こ。",
+      "en": "Seven at the station—how's that? Let's go drink.",
+      "style": "Lift and lean on 「どう？」 expectantly, then flatten and solidify on 「飲み行こ」. Plan-making mode shifting to decided. Kansai throughout.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "七時了解。一緒に行く店、もう決めた？",
+      "en": "Seven, got it. You picked the place yet?",
+      "style": "Brisk acknowledgment, then a small teasing prod underneath. Knows he hasn't. The question lands light, affectionate—not an accusation.",
+      "mood": "playful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "(笑) おまえなぁ、それは今から決めるねん！",
+      "en": "(laughs) Oi, that's what we're deciding now!",
+      "style": "Big, real laugh leading. Volume rises back up. Full Kansai on the 「ねん」 ending. Mock-outrage—he's been called out and he knows it. Performed loud and proud.",
+      "mood": "delighted_indignant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はいはい、じゃあ明日には決まってるってことで。",
+      "en": "Yeah, yeah—so let's say it'll be decided by tomorrow then.",
+      "style": "Dry, tired-friend callback. The 「はいはい」 lands as gentle exhaustion—affectionate underneath. Small smile underneath it all. Not unkind, just honest.",
+      "mood": "wry_affectionate"
+    }
+  ]
+}

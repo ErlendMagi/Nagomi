@@ -1,0 +1,61 @@
+{
+  "id": "conv_01909",
+  "context": "Aoi takes the baby to the doctor on a stroller; meets Saito briefly.",
+  "purpose": "New mother running into doctor casually outdoors.",
+  "ambient": "street_morning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤ちゃん",
+    "散歩",
+    "元気",
+    "成長"
+  ],
+  "cast": [
+    "aoi_barista",
+    "saito_doctor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蒼さん、お散歩?",
+      "en": "Aoi — are you taking a walk?",
+      "style": "Warm, unhurried. Genuine interest in the question itself, not just making conversation. Soft landing on the name — the recognition of a familiar patient. An opening that invites rather than demands.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、毎日、ベビーカーで。",
+      "en": "Yes, every day with the stroller.",
+      "style": "Bright but grounded. Pride without boasting. The ease of someone describing a small daily ritual. Gentle lilt on the routine, like she's sharing something she enjoys.",
+      "mood": "content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "赤ちゃん、元気そうですね。",
+      "en": "Your baby looks like they're doing wonderfully.",
+      "style": "Observant, measured. The clinical eye softened by genuine warmth. Lands on 'wonderfully' with quiet certainty — not a guess, but a professional who sees. Steady eye contact.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おかげさまで、成長してます。",
+      "en": "Thanks to you — they're growing so well.",
+      "style": "Gratitude that's both humble and genuine. Soft pause before the thanks, letting it land. Warmth toward the doctor, not performing it. Voice carries the quiet confidence of a mother watching her child thrive.",
+      "mood": "grateful_proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お互い、ご自愛を。",
+      "en": "Take care of yourselves, both of you.",
+      "style": "Parting warmth. No rush. The gentle formality of a doctor saying goodbye to a patient she respects. A benediction, not a dismissal. Slow, unhurried close.",
+      "mood": "warm_caring"
+    }
+  ]
+}

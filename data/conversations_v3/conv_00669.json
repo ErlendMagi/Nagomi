@@ -1,0 +1,62 @@
+{
+  "id": "conv_00669",
+  "context": "Sho excitedly tells Asuka about an upcoming school presentation.",
+  "purpose": "small student-teacher event-anticipation",
+  "ambient": "classroom_after",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "頑張る",
+    "応援",
+    "一緒",
+    "楽しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_034)",
+    "generated_at": "2026-05-27T01:15:57.819Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "先生、今度の学習発表、ぼく、発表する役、もらった！",
+      "en": "Sensei, I got the role to present at the learning presentation.",
+      "style": "Quiet pride barely contained. Small voice, steady delivery. Genuine warmth without seeking applause. The kind of announcement a reserved six-year-old makes when something real has happened.",
+      "mood": "proud_shy"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "え、すごい！しょうくん、本当に、頑張ってる。",
+      "en": "That's wonderful! Sho-kun, you've really been working so hard.",
+      "style": "Genuine delight, not performed. Warm recognition that lands softly. Slight lift on 頑張ってる — not gushing, but letting him feel that she truly sees his effort.",
+      "mood": "genuinely_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "緊張する、けど、頑張る。",
+      "en": "I'm nervous, but I'll do my best.",
+      "style": "Honest acknowledgment of the fear, then immediate quiet resolve. No false brightness. The small determined voice of someone taking something seriously.",
+      "mood": "nervous_determined"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "先生も、絶対、見に行く。応援してる。",
+      "en": "Sensei will definitely come. I'm cheering for you.",
+      "style": "Steady, unhurried assurance. The teacher leaning in slightly with her attention fully on him. A promise made simply, with the weight that matters to a six-year-old.",
+      "mood": "warm_committed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、先生。本当に、嬉しい。",
+      "en": "Thank you, sensei. I'm really happy.",
+      "style": "Soft gratitude, genuine relief. Small voice softening at the end. Not exuberant — the quiet happiness of a child who just had something he worried about become real and safe.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06588",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 寄稿/半角/尺/収まる/見逃せ/絞る/手すり/低め",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "寄稿",
+    "半角",
+    "尺",
+    "収まる",
+    "見逃せ",
+    "絞る",
+    "手すり",
+    "低め"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、学会誌、寄稿、君も挑戦してみろ。",
+      "en": "Ren, you should try submitting something to the academic journal too.",
+      "style": "Direct but not cold. Clear enunciation on the task itself. Measured pace. The tone of someone who sees potential and is nudging it forward.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。半角と全角、論文書式、気をつけます。",
+      "en": "Yes. I'll be careful with the character encoding and the paper format.",
+      "style": "Earnest, slightly rushed. Small breath between the two concerns — showing he's mentally organizing. Quiet determination underneath. No defensiveness, just focus.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "発表、尺、十分間に収めろ。",
+      "en": "Keep the presentation under ten minutes.",
+      "style": "Clipped, economical. No wasted syllables. The voice of someone used to being listened to. Firm but not unkind — a boundary stated as fact.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。発表時間、十分以内に収まるよう、練習します。",
+      "en": "Yes. I'll practice to make sure the presentation fits within ten minutes.",
+      "style": "Nodding in the voice. Quick acceptance followed by immediate clarification — he's already mentally moving to the next step. Respectful but not obsequious.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "参考文献の重複、見逃せないぞ、丁寧に確認しろ。",
+      "en": "Don't let duplicate references slip through. Check them carefully.",
+      "style": "Sharp attention on the word 'don't.' Slower on the instruction itself — each word gets weight. This is the part where careless mistakes cost. Steady eye contact in the voice.",
+      "mood": "cautioning"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。テーマを絞る作業、来週までに行います。",
+      "en": "Yes. I'll narrow down the focus by next week.",
+      "style": "Quiet agreement, then a slight pause before committing to the deadline. Shows he's accepting the challenge. Voice steady but humble — not trying to prove himself, just doing the work.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実験室の手すり、安全のため、点検しろ。",
+      "en": "Check the handrails in the lab for safety.",
+      "style": "Shifts register slightly — practical, matter-of-fact. This is duty of care, not academic ambition. Flat, almost conversational, but the weight is there. Non-negotiable.",
+      "mood": "responsible"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。仮説、最初は低めに置きました、慎重に。",
+      "en": "Yes. I set the hypothesis conservatively from the start, so I'll be thorough.",
+      "style": "Quiet pride underneath the compliance. He's already been thinking carefully — this isn't a new instruction, it's recognition. Exhales slightly as he finishes, like he can relax just a little.",
+      "mood": "thoughtful"
+    }
+  ]
+}

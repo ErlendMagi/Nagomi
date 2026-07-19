@@ -1,0 +1,78 @@
+{
+  "id": "conv_05191",
+  "context": "A teacher walks a uni student through an energy-policy paper",
+  "purpose": "Teach: 上院/出動/着陸/水素/銅/救出/昆虫/足跡",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "上院",
+    "出動",
+    "着陸",
+    "水素",
+    "銅",
+    "救出",
+    "昆虫",
+    "足跡"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "この論文は水素エネルギーへの転換を中心に据えていますね。",
+      "en": "This paper centers on the transition to hydrogen energy.",
+      "style": "Calm professorial tone introducing the paper's thesis"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、先週ようやく上院でも関連法案が議論されたと書いてありました。",
+      "en": "Yes, it says related bills were finally debated in the Senate last week.",
+      "style": "Eager student summarizing what he read carefully"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうです。著者は銅の需要急増にも触れていて、配電インフラの脆弱さを指摘しています。",
+      "en": "Right. The author also touches on the copper demand surge, pointing out the fragility of power distribution.",
+      "style": "Measured academic explanation linking two policy points"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "災害時に自衛隊が出動して、変電所から作業員を救出した事例も引用されていましたね。",
+      "en": "The case where the SDF was deployed and rescued workers from a substation during a disaster was cited too.",
+      "style": "Student connecting concrete example to the broader argument"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。著者はそれを、政策の足跡を辿るための象徴的な事例として扱っているんです。",
+      "en": "Yes. The author treats that as a symbolic case for tracing the footprint of the policy.",
+      "style": "Teacher unpacking the rhetorical function of an example"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "後半の章で、月面着陸計画と同じくらい大胆な国家目標が必要だと比喩していました。",
+      "en": "In a later chapter she compared it to a moon landing — saying we need a national goal that bold.",
+      "style": "Student paraphrasing a striking analogy from the text"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭い読みですね。ただ巻末の付録で、昆虫の生息域への影響データが弱いのが気になりました。",
+      "en": "Sharp reading. Though in the appendix, the data on impacts to insect habitats felt weak to me.",
+      "style": "Praising the student then offering a critical caveat"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに、そこは来週のゼミで掘り下げてみたいです。",
+      "en": "True — I'd like to dig into that point in next week's seminar.",
+      "style": "Student accepting feedback and proposing next step"
+    }
+  ]
+}

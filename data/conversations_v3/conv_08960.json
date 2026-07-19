@@ -1,0 +1,86 @@
+{
+  "id": "conv_08960",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 歯ブラシ/酪農/石器/ニワトリ/和紙/魚介類/アヒル/下駄",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "歯ブラシ",
+    "酪農",
+    "石器",
+    "ニワトリ",
+    "和紙",
+    "魚介類",
+    "アヒル",
+    "下駄"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_449 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、歯ブラシをちゃんと使いましょうね",
+      "en": "Sho, let's make sure you're brushing your teeth properly, all right?",
+      "style": "Warm, matter-of-fact reminder. Gentle but direct. The tone of someone who has said this a hundred times and will say it a hundred more — no frustration, just steady parental presence.",
+      "mood": "patient_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、酪農のお話を授業で聞いたよ",
+      "en": "Mom, I heard about dairy farms in class today!",
+      "style": "Bright, eager opening. Quick pace, animated. The rush of a six-year-old who can't wait to share something he learned. Seeking her attention and approval in the same breath.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんが石器のレプリカ見せて下さったわ",
+      "en": "Your grandfather showed you a replica of a stone tool, didn't he.",
+      "style": "Warm, reflective — not quite a question. Soft landing on the statement. The tone of someone gently marking a moment, acknowledging something her son has experienced without needing to make a production of it.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、田舎の家でニワトリ追いかけたよ",
+      "en": "Mom, I chased chickens at the country house!",
+      "style": "Bright, present-tense energy. Quick words tumbling out. The delight of recounting something that happened — not asking permission, just sharing the joy of the memory with immediate enthusiasm.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが和紙のうちわを買ってこられたわ",
+      "en": "Your father brought home a washi fan for you.",
+      "style": "Gentle, matter-of-fact observation. Quiet satisfaction in her voice — noting small kindnesses without fanfare. Slight pause before the word 'fan,' as though picturing it.",
+      "mood": "quiet_satisfied"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんの魚介類のお料理大好き",
+      "en": "Mom, I love Grandma's cooking — especially the seafood dishes.",
+      "style": "Warm, genuine delight. Open and unguarded. The naturalness of a child who knows he is safe saying what he loves without performance or hesitation.",
+      "mood": "content_affectionate"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんと池でアヒルを見ましょうね",
+      "en": "Sho, let's go see the ducks with your grandfather at the pond.",
+      "style": "Tender, inviting. Soft vowels on 'ducks.' Gentle cadence — the suggestion of something shared and gentle. A moment being offered, not imposed. Quiet warmth.",
+      "mood": "tender_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんの下駄借りたいよ",
+      "en": "Mom, I want to borrow Grandpa's geta sandals.",
+      "style": "Direct request with underlying affection. Present and eager but softer than earlier lines — not demanding, asking. The specific detail of 'geta' carries real longing, a concrete anchor for wanting to be like his grandfather.",
+      "mood": "wanting_tender"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_00015",
+  "context": "Tutoring room. Sakura has come for a Tuesday after-school lesson with her favourite teacher and is in a mood.",
+  "purpose": "mid-teen frustration, teacher steady — the kind of lesson where the lesson isn't really the lesson",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "ない",
+    "時間",
+    "言う"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "今日、ほんま無理。何もしたくないねん。",
+      "en": "Today I'm just — I literally can't. I don't want to do anything.",
+      "style": "Slumps into the chair in the voice. Kansai ending. Honest in a way she'd never admit to friends.",
+      "mood": "flat_complaint"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "はい。じゃあ、今日は本当に少しだけで終わりましょう。",
+      "en": "Alright. Then let's really do just a little today and stop.",
+      "style": "No fight. The agreement is the move. The 「少しだけで終わりましょう」 is a small contract being offered.",
+      "mood": "negotiating_kind"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…マジで？",
+      "en": "…For real?",
+      "style": "A tiny break in the slump. Suspicious that the adult capitulated this fast.",
+      "mood": "suspicious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "マジで。何があったか、言いたかったら言って。言いたくなかったら、それも大丈夫。",
+      "en": "For real. If you want to tell me what's up, do. If not, that's fine too.",
+      "style": "Even, warm, no pressure. The door is wide open, the room is calm.",
+      "mood": "door_open"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…別に、たいしたことちゃう。",
+      "en": "…It's nothing big.",
+      "style": "Smaller than the opening line. Already cracking. JP and EN: both reduced volume.",
+      "mood": "admitting_a_little"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。じゃあ、ここに座っとくだけでも、いいよ。",
+      "en": "Mm. Then just sitting here is fine, too.",
+      "style": "Quiet permission. Doesn't push. The 「だけでも」 is the gift.",
+      "mood": "permission"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…ありがと。少しだけ、時間ちょうだい。",
+      "en": "…Thanks. Just give me a minute.",
+      "style": "The 「ありがと」 unguarded for a second. The asking is the lesson today.",
+      "mood": "unguarded"
+    }
+  ]
+}

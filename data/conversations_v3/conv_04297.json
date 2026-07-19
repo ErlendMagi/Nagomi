@@ -1,0 +1,84 @@
+{
+  "id": "conv_04297",
+  "context": "A uni student interviews a doctor about oncology research",
+  "purpose": "Teach: 癌/消化/合成/究極/及ぼす/取り出し/適宜/示唆",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "癌",
+    "消化",
+    "合成",
+    "究極",
+    "及ぼす",
+    "取り出し",
+    "適宜",
+    "示唆"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "斎藤先生、本日はお時間をいただきありがとうございます。早速ですが、先生の研究室では癌の発生メカニズムを中心に扱っていると伺いました。",
+      "en": "Dr. Saito, thank you for your time today. To get right to it, I heard your lab focuses mainly on the mechanisms of cancer development.",
+      "style": "Polite student opening an academic interview respectfully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、特に消化器系の腫瘍ですね。胃や大腸の細胞が、なぜ正常な働きを失って暴走してしまうのか、そこを長年追いかけています。",
+      "en": "Yes, particularly tumors of the digestive system. We've spent years chasing why cells in the stomach and colon lose their normal function and run out of control.",
+      "style": "Calm doctor explaining his specialty with measured warmth."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最近の論文では、ある酵素を人工的に合成して投与する手法が紹介されていましたよね。あれはどういった発想から生まれたのでしょうか。",
+      "en": "I see. In your recent paper, you introduced a method of artificially synthesizing a certain enzyme and administering it. What was the original idea behind that?",
+      "style": "Curious student citing specific research with informed follow-up."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "良い質問です。腫瘍の塊から特定のタンパク質を取り出し、その構造を解析したところ、似た形を実験室で作れると分かったんです。究極的には、患者さんの体内で同じ反応を起こすのが目標です。",
+      "en": "Good question. We extracted a specific protein from the tumor mass, analyzed its structure, and found we could create a similar form in the lab. Ultimately, our goal is to trigger the same reaction inside the patient's body.",
+      "style": "Methodical doctor walking through experimental steps clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その治療法が、患者さんの生活の質に及ぼす影響はどの程度なのでしょうか。副作用なども気になるところです。",
+      "en": "What sort of impact does that treatment have on the patient's quality of life? I'm also curious about the side effects.",
+      "style": "Thoughtful student probing real-world clinical implications carefully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "正直なところ、軽い倦怠感や食欲低下は出ます。ただ、適宜投与量を調整すれば、従来の抗がん剤よりは負担が軽いというデータが出ています。",
+      "en": "Honestly, mild fatigue and reduced appetite do appear. However, by adjusting the dosage as appropriate, the data shows it's less burdensome than conventional anti-cancer drugs.",
+      "style": "Honest practitioner balancing optimism with clinical realism."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは大きな前進ですね。今後の臨床応用について、何か示唆されているスケジュールはありますか。",
+      "en": "That's a significant advance. Is there any suggested timeline for future clinical application?",
+      "style": "Engaged interviewer pushing toward concrete future outlook."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "来年から第二相試験に入る予定です。結果次第ですが、五年以内には標準治療の選択肢の一つになり得るかもしれません。",
+      "en": "We plan to enter phase two trials starting next year. Depending on the results, within five years it could potentially become one of the standard treatment options.",
+      "style": "Senior researcher offering cautiously hopeful long-term projection."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、本当にありがとうございました。記事にまとめて、また確認をお願いに伺います。",
+      "en": "Thank you so much for sharing such valuable insights. I'll put it together into an article and come back to you for confirmation.",
+      "style": "Grateful student wrapping interview with proper closing courtesy."
+    }
+  ]
+}

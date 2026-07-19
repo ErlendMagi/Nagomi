@@ -1,0 +1,79 @@
+{
+  "id": "conv_03869",
+  "context": "A film student interviews an older filmmaker about analog equipment",
+  "purpose": "Teach: 演劇/女優/主演/演じ/フィルム/台詞/パーティー/エピソード",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "演劇",
+    "女優",
+    "主演",
+    "演じ",
+    "フィルム",
+    "台詞",
+    "パーティー",
+    "エピソード"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_195 workflow wmuzq4abe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "ヒロシさん、若い頃にフィルムカメラで撮影されてた話、もう少し聞かせてください。",
+      "en": "Hiroshi-san, could you tell me more about shooting with a film camera in your younger days?",
+      "style": "Polite student interviewer tone, curious and slightly nervous"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、あの頃はフィルムを巻く音まで現場の空気の一部だったよ。デジタルとは全然違う緊張感があってね。",
+      "en": "Ah, back then even the sound of winding the film was part of the set's atmosphere. There was a tension you don't get with digital.",
+      "style": "Nostalgic elder reminiscing slowly with warm voice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。当時、主演を務めた女優さんとはどんなふうにお仕事されていたんですか？",
+      "en": "I see. How did you work with the lead actress who starred in your films back then?",
+      "style": "Eager follow-up question with respectful curiosity"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ベテラン女優の佐々木さんはね、長い台詞でも一発で決めるんだ。リハーサルなしで、現場の空気を全部持っていく人だったよ。",
+      "en": "Veteran actress Sasaki-san could nail even long lines in one take. No rehearsal needed — she'd own the entire mood of the set.",
+      "style": "Affectionate elder recalling a respected colleague"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごい方ですね。何か裏エピソードのようなものがあれば、ぜひお聞きしたいです。",
+      "en": "What an incredible person. If you have any behind-the-scenes stories, I'd love to hear them.",
+      "style": "Slightly excited student leaning forward with genuine interest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "面白いエピソードならあるよ。撮影後の打ち上げパーティーで、彼女が酔って自分の役を最初から最後まで演じてみせたんだ。みんな涙が出るほど笑ったよ。",
+      "en": "I've got a good one. At the wrap party, she got tipsy and performed her entire role from start to finish. We laughed until we cried.",
+      "style": "Warm chuckle with voice lifting in fond amusement",
+      "_fix_note": "expanded style to 9 words to satisfy >=6 word requirement"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "想像しただけで楽しそうです。学生のうちに演劇も少しかじっておいたほうがいいでしょうか？",
+      "en": "Just imagining it sounds fun. Do you think I should try a bit of theater while I'm still a student?",
+      "style": "Thoughtful student seeking mentor's advice with sincerity"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、演劇の舞台を経験しておくと、カメラの前でも全然違うよ。役を演じる感覚は、本でも映像でも教われないからね。",
+      "en": "Yes, having stage theater experience changes how you carry yourself on camera. The feeling of playing a role can't be taught from books or videos.",
+      "style": "Mentor delivering hard-won advice gently but firmly"
+    }
+  ]
+}

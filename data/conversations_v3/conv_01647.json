@@ -1,0 +1,61 @@
+{
+  "id": "conv_01647",
+  "context": "Daichi helps Hiroshi-elder pick out a winter coat at a shop.",
+  "purpose": "Son-in-law helping elder make a practical purchase.",
+  "ambient": "shop_winter_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "コート",
+    "冬",
+    "暖かい",
+    "値段"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おとうさん、このコートどう?",
+      "en": "Dad — what do you think of this coat?",
+      "style": "Warm, seeking-approval tone. Soft Kansai lilt. Slight upturn at the end like he genuinely wants the answer. Generous, unhurried pace.",
+      "mood": "hopeful_warmth"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "暖かそうやな。",
+      "en": "Looks warm.",
+      "style": "Slow, approving nod in the voice. Kansai softness. Contented exhale. Weight of years — not effortful, just settled.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "冬、これで大丈夫やろ。",
+      "en": "Should do fine for winter.",
+      "style": "Matter-of-fact reassurance. Kansai cadence, gentle. The tone of someone who's provided for winters before and isn't worried.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "値段、気になるんやけど。",
+      "en": "Price does worry me though.",
+      "style": "Careful, measured admission. Kansai warmth but with a thread of genuine concern. Pause before the word 'price' — he's thinking about it.",
+      "mood": "concerned_tender"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "俺が出すで、心配せんで。",
+      "en": "I'll take care of it — don't you worry.",
+      "style": "Firm, loving finality. Kansai warmth layered with quiet conviction. The tone of a son who's made his decision and wants his father to rest easy.",
+      "mood": "generous_resolved"
+    }
+  ]
+}

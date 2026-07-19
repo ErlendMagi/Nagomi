@@ -1,0 +1,61 @@
+{
+  "id": "conv_01734",
+  "context": "Mei takes Hikari (use sho_child as small toddler stand-in) to her first swim lesson.",
+  "purpose": "Mother encouraging child during a new milestone.",
+  "ambient": "pool_low_echo",
+  "sound_effects": [],
+  "target_vocab": [
+    "水泳",
+    "プール",
+    "泳ぐ",
+    "安全"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、プール、怖い!",
+      "en": "Mom — the pool scares me!",
+      "style": "Small, uncertain voice with a wobble on the open word. Seeking reassurance but trying to be brave. Soft at the end, like he's checking whether it's safe to admit it.",
+      "mood": "nervous"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "安全だから、大丈夫よ。",
+      "en": "It's safe, sweetheart. You'll be fine.",
+      "style": "Warm, grounded tone. Slow and patient. Settles him with her presence more than the words. A small smile underneath — she's heard this worry before.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "泳げるかな?",
+      "en": "Will I be able to swim?",
+      "style": "Quiet curiosity mixed with doubt. He's testing the possibility out loud. His voice lifts slightly at the end — wanting to believe it.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生に、教わって。",
+      "en": "The teacher will show you how.",
+      "style": "Gentle, matter-of-fact. Not dismissing his worry but offering the next solid step. Warmth in the rhythm — she knows he just needs direction.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、やってみる!",
+      "en": "Yeah, I'll give it a try!",
+      "style": "Sudden brightness breaks through. Small voice but steadier now. The shift from fear to determination happens fast — he's decided. Quiet conviction at the end.",
+      "mood": "determined"
+    }
+  ]
+}

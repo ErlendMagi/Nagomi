@@ -1,0 +1,62 @@
+{
+  "id": "conv_00433",
+  "context": "Officer Takeda checks in with Mrs. Mori at her doorstep on a regular weekly patrol.",
+  "purpose": "small civic familiar rhythm — neighborhood routine",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "近所",
+    "安心",
+    "ありがとう",
+    "見守る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_022)",
+    "generated_at": "2026-05-26T23:44:15.993Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "森さん、こんにちは。お変わりありませんか。",
+      "en": "Mori-san, hello. How have things been?",
+      "style": "Warm, measured greeting. Genuine care underneath the professional composure. Slight lean-in on the name. Pace unhurried—this is routine but the courtesy is real.",
+      "mood": "gentle_professional"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "いつもありがとう。お元気ですか、武田さん。",
+      "en": "We're always so grateful. And how are you doing, Takeda-san?",
+      "style": "Bright and sincere, but not performing brightness. A real person returning warmth to someone she trusts. Slight lift on his name—genuine pleasure at seeing him.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お陰様で。ご近所も、皆さんお元気そうで。",
+      "en": "I'm doing well, thank you. The neighborhood seems peaceful. Everyone's doing fine.",
+      "style": "Steady, reassuring. Speaking from observation, not obligation. Quiet confidence in his report. Warmth that comes from actually paying attention to the people here.",
+      "mood": "composed_attentive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "武田さんが見守ってくれてるから、本当に安心。",
+      "en": "It's because you're watching over us. It really does make us feel safe.",
+      "style": "Tender gratitude. Not gushing—this is sincere recognition of something that matters. Slight wavering on 'safe,' like the weight of that word is real to her.",
+      "mood": "grateful_secure"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。何かあれば、いつでも。",
+      "en": "It's my privilege. If anything comes up, you know where to find me.",
+      "style": "Genuine offer, not performative duty. Slight pause before 'anytime'—settling it in, making it real. The kind of promise said quietly that means everything.",
+      "mood": "steadfast_kind"
+    }
+  ]
+}

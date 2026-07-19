@@ -1,0 +1,70 @@
+{
+  "id": "conv_00679",
+  "context": "Three civic figures meet at the community center.",
+  "purpose": "three-civic-figure routine",
+  "ambient": "community_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "近所",
+    "見守る",
+    "感謝",
+    "協力",
+    "一緒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "takeda_officer",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_034)",
+    "generated_at": "2026-05-27T01:15:57.819Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "皆さん、お忙しい中、ありがとう。",
+      "en": "Thank you all for making time for this, really.",
+      "style": "Warm, genuine gratitude. Opening with soft sincerity. Gentle throughout—not performing, but genuinely moved. Slight pause before the closing word, like she's settling into the moment.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。地域、安心。",
+      "en": "The feeling is mutual. It's reassuring, having everyone here.",
+      "style": "Professional warmth that's earned, not automatic. Measured pace. Clear, steady eye contact level. Genuine relief underneath the composure.",
+      "mood": "assured_professional"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "皆さんと、こうやって、協力できる関係、本当に、ありがたい。",
+      "en": "Being able to work together like this—it really means a lot.",
+      "style": "Quiet conviction. Slow, deliberate pacing on the opening phrase. Soft weight on 'means'—this is not small talk. Steady, grounded tone throughout.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お年寄りの方々、特に、心配。",
+      "en": "I'm especially worried about the older folks in the neighbourhood.",
+      "style": "Tone shifts slightly—still warm, but with real concern underneath. Leans forward subtly on 'especially'. Not alarmed, but attentive. The care is practical, not performative.",
+      "mood": "caring_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "皆さんで、見守りましょう。お声、かけ合って。",
+      "en": "Let's keep watching out for each other. Speak up if something feels off.",
+      "style": "Gentle invitation more than directive. Warm but clear. Steady breathing. Closes with openness—not finality—like this is an ongoing commitment she's asking everyone to hold.",
+      "mood": "warm_collective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当に、感謝してます。これからも、ずっと、ね。",
+      "en": "I'm genuinely grateful. And I hope we can keep doing this—always.",
+      "style": "Sincere, slightly vulnerable. Soft attack on the opening. Pace slows on 'keep doing this', lingering warmth. The final word trails with real tenderness, like a promise.",
+      "mood": "grateful_hopeful"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05589",
+  "context": "A retired exec mentors a younger boss on operations",
+  "purpose": "Teach: 指針/区分/補正/集約/選考/単価/助手/裁量",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "指針",
+    "区分",
+    "補正",
+    "集約",
+    "選考",
+    "単価",
+    "助手",
+    "裁量"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "方針は指針として書き、裁量権を明確に区分しろ。",
+      "en": "Write policy as guidance, not prescription. Draw the line between direction and discretion clearly.",
+      "style": "Measured, unhurried. Opens with quiet authority—no need to assert. Slight pause between clauses. The weight of experience settling into each phrase. Calm eye-level gaze.",
+      "mood": "measured_authoritative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "承知しております。単価補正、現場主導で進めています。",
+      "en": "Understood. We're driving the unit-cost adjustments from the field level.",
+      "style": "Respectful but direct. Clipped confidence—showing he's already in motion on this. Not seeking approval so much as reporting. Steady shoulder posture.",
+      "mood": "focused_compliant"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "選考過程の集約、若手育成にもなる。",
+      "en": "Consolidating the selection process does double duty—develops the next generation at the same time.",
+      "style": "Thoughtful pause before the observation. Quiet approval in the tone. Slow unfold of the logic, like showing a path. Not lecturing—pointing.",
+      "mood": "observant_approving"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助手にも、適切に経験を積ませます。",
+      "en": "The assistants will get proper hands-on experience along the way.",
+      "style": "Steady, assured. A small nod in the voice. Not defensive—stating what will happen as fact. Grounded in his own commitment to it.",
+      "mood": "assured_deliberate"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よし、続けろ。",
+      "en": "Good. Keep going.",
+      "style": "Brief, warm approval. Slight lift at 'Good'—the benediction of someone who knows the work matters. Releasing him back to it with quiet confidence.",
+      "mood": "satisfied_affirming"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02703",
+  "context": "Kenji and Ren weigh a cautious release step.",
+  "purpose": "WIDENED SCENARIO: work chat; adverbs (少なくとも/おそらく/一応/それでも/といった) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "少なくとも",
+    "おそらく",
+    "一応",
+    "それでも",
+    "あまりに"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_136)",
+    "generated_at": "2026-05-29T13:52:49.207Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この機能、今日入れて大丈夫ですか?",
+      "en": "Is it okay to add this feature today?",
+      "style": "cautious young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一応、テストしてからにしましょう。",
+      "en": "Let's test it first, just in case.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも、急いだ方がいいですか?",
+      "en": "Even so, should we hurry?",
+      "style": "concerned young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おそらく、明日でも間に合いますよ。",
+      "en": "We'll probably still make it tomorrow.",
+      "style": "calm office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "少なくとも、半日は要りますね。",
+      "en": "It needs at least half a day.",
+      "style": "thoughtful young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "急ぎすぎると、あまりに危ないです。",
+      "en": "Rushing too much is far too risky.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも、計画通りに進めたいです。",
+      "en": "Even so, I want to proceed as planned.",
+      "style": "resolved young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一応、上司にも一報を入れましょう。",
+      "en": "Just in case, let's notify the boss.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

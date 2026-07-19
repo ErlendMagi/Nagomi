@@ -1,0 +1,70 @@
+{
+  "id": "conv_02374",
+  "context": "Saito explains anesthesia to a nervous patient before a procedure.",
+  "purpose": "WIDENED SCENARIO: doctor explaining procedure — medical word in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻酔",
+    "手術",
+    "心配",
+    "について",
+    "安心",
+    "丁寧"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_119)",
+    "generated_at": "2026-05-29T12:23:43.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、手術、すごく心配です。",
+      "en": "Doctor, I'm very anxious about the surgery.",
+      "style": "soft worried young mother voice, warm honest delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "麻酔について、丁寧に説明しますね。",
+      "en": "Let me explain the anesthesia carefully.",
+      "style": "measured doctor voice, soft warm reassuring delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "痛みは、ないんですか?",
+      "en": "There won't be any pain?",
+      "style": "gentle young woman voice, soft warm hopeful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、麻酔が効けば、痛みは感じません。",
+      "en": "Yes — once the anesthesia takes, you won't feel pain.",
+      "style": "gentle doctor voice, soft warm clear delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "少し、安心しました。",
+      "en": "I feel a little relieved.",
+      "style": "soft young woman voice, warm warm grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "チーム全員で、しっかり支えますよ。",
+      "en": "The whole team will support you firmly.",
+      "style": "warm doctor voice, soft warm steadfast delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "tender young woman voice, soft warm grateful delivery carefully"
+    }
+  ]
+}

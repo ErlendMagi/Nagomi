@@ -1,0 +1,86 @@
+{
+  "id": "conv_08586",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 月収/出来高/同上/組合せ/既定/特約/あっせん/引き渡し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月収",
+    "出来高",
+    "同上",
+    "組合せ",
+    "既定",
+    "特約",
+    "あっせん",
+    "引き渡し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員の月収アップを目指せ",
+      "en": "I want to see this company raise staff salaries month over month.",
+      "style": "Measured, authoritative opening. Clean articulation. Steady eye contact. The tone of a man stating fact, not invitation. No inflection that suggests discussion.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の出来高制度を改定します",
+      "en": "Understood. I'll revise the commission structure for the sales team.",
+      "style": "Crisp, respectful acknowledgment. Slight forward lean. Quick, efficient. The response of someone used to taking notes — ready to move to the next item.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料の各項目は、同上で対応しろ",
+      "en": "Handle each section of the report using the same approach.",
+      "style": "Clipped, economical. No softening. Direct look. The kind of instruction that expects no follow-up questions. Confidence that he's been clear enough.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新メニューの組合せ案を準備しました",
+      "en": "Understood. I've prepared several package combinations we can propose.",
+      "style": "Quiet efficiency. Matter-of-fact delivery. No overselling. The tone of someone reporting readiness without seeking approval — just checking the box.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "既定の方針通り進めろ",
+      "en": "Proceed according to the policy we've already set.",
+      "style": "Firm but not harsh. A reminder more than an order. Steady breath. The slight patience of someone who expects this to be obvious.",
+      "mood": "certain"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様への特約条項を更新しました",
+      "en": "Understood. I've updated the contract terms for our key accounts.",
+      "style": "Steady delivery. Slight finality in the rhythm. No embellishment. The report of a task completed, understood, filed away.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業者間のあっせん料を見直せ",
+      "en": "Review the brokerage fees we're paying to vendors.",
+      "style": "Precise, businesslike. No pause. A single clear instruction. The weight of someone accustomed to being obeyed without repetition.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先との引き渡し日を確定しました",
+      "en": "Understood. I've confirmed the delivery dates with all our trading partners.",
+      "style": "Calm closure. Slight finality in pacing. Professional satisfaction without pride. The closing statement of someone tying up a loose end, ready to move forward.",
+      "mood": "settled"
+    }
+  ]
+}

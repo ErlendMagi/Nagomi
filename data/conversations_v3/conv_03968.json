@@ -1,0 +1,84 @@
+{
+  "id": "conv_03968",
+  "context": "A barista chats with a customer about relocating her shop",
+  "purpose": "Teach: 引越し/倉庫/拠点/敷地/保管/申告/在宅/移住",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "引越し",
+    "倉庫",
+    "拠点",
+    "敷地",
+    "保管",
+    "申告",
+    "在宅",
+    "移住"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_200 workflow wgxyoqgbc)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "実はですね、来月お店を引越しすることになったんです。",
+      "en": "Actually, I've decided to relocate the shop next month.",
+      "style": "Warm announcement with a hint of nervous excitement."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "えっ、本当に？今の場所、いい拠点だと思ってたけど、どうして？",
+      "en": "Really? I thought this was a great base location—why move?",
+      "style": "Surprised but caring, like a regular customer who notices."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "駅前に広い敷地が空いて、家賃もそんなに変わらないんですよ。",
+      "en": "A wide plot opened up by the station, and the rent's similar.",
+      "style": "Practical and bright, explaining her reasoning calmly."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほどなあ。引越し作業も大変だろう？豆や機材の保管はどうするの？",
+      "en": "I see. The move will be tough—where will you store beans and gear?",
+      "style": "Fatherly concern, thinking through the logistics for her."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "近くに貸し倉庫を借りたので、しばらくそこに置いておきます。",
+      "en": "I rented a storage unit nearby, so I'll keep things there for now.",
+      "style": "Reassuring tone, showing she's planned ahead carefully."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "しっかりしてるなあ。税務申告とかも自分でやってるの？",
+      "en": "You're really on top of things—do you handle the tax filings yourself?",
+      "style": "Impressed, drifting into practical small-business curiosity."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ええ、確定申告は在宅でコツコツやってます。慣れれば意外と平気で。",
+      "en": "Yes, I do the tax return from home—once you're used to it, it's fine.",
+      "style": "Modest pride, sharing a slice of her working life."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "立派だよ。うちの娘も将来、田舎へ移住してカフェやりたいって言っててね。",
+      "en": "Admirable. My daughter says she wants to move to the countryside and open a cafe.",
+      "style": "Warm digression, connecting her story to his own family."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "嬉しいお話ですね。新しいお店にも、ぜひ娘さんと来てください。",
+      "en": "What a lovely story. Please bring your daughter to the new shop too.",
+      "style": "Gentle closing invitation, full of genuine hospitality."
+    }
+  ]
+}

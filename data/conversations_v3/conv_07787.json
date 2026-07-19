@@ -1,0 +1,86 @@
+{
+  "id": "conv_07787",
+  "context": "Two managers chat",
+  "purpose": "Teach: 書面/代理人/不調/派閥/期末/行き先/続行/後押し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "書面",
+    "代理人",
+    "不調",
+    "派閥",
+    "期末",
+    "行き先",
+    "続行",
+    "後押し"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_391 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お得意様、本気で、絶対、書面、絶対、にて、絶対、ご案内、絶対、しましょう",
+      "en": "Let's make sure we inform our VIP clients in writing with absolute clarity.",
+      "style": "Crisp, professional opening. Even pace, purposeful. Matter-of-fact authority without coldness. The tone of someone used to giving direction that will be followed.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法律事務所、本気で、絶対、代理人、絶対、を、絶対、依頼いたしました、本気で、感謝",
+      "en": "Yes. We've retained a law firm to represent us. Thank you for that.",
+      "style": "Earnest, affirming. Steady tempo. Slight warmth beneath the formal register—acknowledging the initiative taken. Not enthusiastic, but genuinely appreciative.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "システム、本気で、絶対、不調、絶対、調べましょう",
+      "en": "Let's look into the system issues.",
+      "style": "Quick, clipped. Action-focused tone. No flourish. The voice of someone delegating with confidence. Direct eye contact implied.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内、本気で、絶対、派閥、絶対、対立、絶対、解消、絶対、努めております、本気で、感謝",
+      "en": "Yes. We're working to resolve the internal faction conflicts. Thank you for trusting us with that.",
+      "style": "Calm, steady. Demonstrates competence without boasting. Slightly formal register honoring the seriousness of the issue. Closes with quiet sincerity.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "期末、本気で、絶対、報告書、絶対、まとめましょう",
+      "en": "Let's put together the end-of-period reports.",
+      "style": "Brisk, organized. Slightly faster tempo. The voice of someone managing a checklist with efficiency. Professional but not distant.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。出張、本気で、絶対、行き先、絶対、決定しました、本気で、感謝",
+      "en": "Yes. We've finalized the destination for the business trip. Thank you for handling that.",
+      "style": "Straightforward confirmation. Light, composed delivery. The tone of checking a box off a list while still acknowledging the work done. Neutral warmth.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "販売、本気で、絶対、続行、絶対、いたしましょう",
+      "en": "Let's continue with sales.",
+      "style": "Decisive, forward-looking. Even cadence. No hesitation. The voice of someone committed to momentum. Clear and simple.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の起業、本気で、絶対、後押し、絶対、社内、絶対、進めております、本気で、感謝",
+      "en": "Yes. We're actively supporting our staff's entrepreneurial ventures internally. Thank you for that initiative.",
+      "style": "Warm approval beneath professional composure. Measured, deliberate pacing. This carries genuine weight—recognition that supporting staff growth matters. Closes with quiet satisfaction.",
+      "mood": "supportive_satisfied"
+    }
+  ]
+}

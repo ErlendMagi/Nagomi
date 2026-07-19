@@ -1,0 +1,65 @@
+{
+  "id": "conv_05566",
+  "context": "A boss reviews a research mission plan",
+  "purpose": "Teach: 上級/入試/リサーチ/ミッション/やり取り/持参/拡充/リストラ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上級",
+    "入試",
+    "リサーチ",
+    "ミッション",
+    "やり取り",
+    "持参",
+    "拡充",
+    "リストラ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期のミッション、上級ターゲット層へのリサーチが要だな。",
+      "en": "This quarter's priority is research on the upper-tier market segment.",
+      "style": "Clipped, matter-of-fact opening. Eyes forward. Clinical pace. The tone of someone who has already thought through the path and is now laying it out. No warmth, no flourish.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。入試シーズン後の親世代も、対象拡充の候補です。",
+      "en": "Yes. Post-entrance-exam parents are a strong candidate for expansion.",
+      "style": "Attentive, methodical. Slight uptick on the key data point. Kenji speaking like he's already tested this path. Steady eye-contact. Competent, not eager.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "関係部署とのやり取り、円滑にしてくれ。",
+      "en": "Keep the interdepartmental communications smooth.",
+      "style": "Quiet weight to the instruction. Not a question, not a suggestion. Delivered at a lower volume than before — the kind of directive that doesn't need volume to land. Brief pause after.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。前回提案書の持参版、明日お見せします。",
+      "en": "Understood. I'll bring the revised proposal tomorrow.",
+      "style": "Crisp acknowledgment. Short, efficient phrasing that mirrors Hiroshi's directness back to him. No padding. A small lift of professionalism on 「承知」.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "リストラの噂、社内で増えてる。早めに方針示そう。",
+      "en": "Layoff rumors are circulating inside the office. We need to clarify our stance soon.",
+      "style": "Measured but underlying urgency. No alarm in the voice, but a slight lean forward. The tone of someone who sees a small problem before it grows. Deliberate, unhurried — but present.",
+      "mood": "measured_urgent"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_03366",
+  "context": "Preparing for the shareholders’ meeting",
+  "purpose": "Prep the meeting; teach 株主/各種/廃止/合理/要請/流通/中間/命令",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "株主",
+    "各種",
+    "廃止",
+    "合理",
+    "要請",
+    "流通",
+    "中間",
+    "命令"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_169)",
+    "generated_at": "2026-05-29T18:05:03.984Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "株主総会が近い。準備を進めよう。",
+      "en": "The shareholders’ meeting is near. Let’s prep.",
+      "style": "commanding boss setting the agenda, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "各種の資料をまとめています。",
+      "en": "I’m compiling all kinds of materials.",
+      "style": "diligent assistant reporting progress, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "古い制度の廃止も提案しますか？",
+      "en": "Shall we propose abolishing the old system too?",
+      "style": "strategic manager raising an idea, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、合理的に判断したい。",
+      "en": "Yes, I want to judge it rationally.",
+      "style": "decisive boss demanding logic, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "取引先からの要請も増えています。",
+      "en": "Requests from clients are increasing too.",
+      "style": "assistant flagging external pressure, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "商品の流通網も見直すべきですね。",
+      "en": "We should review the distribution network too.",
+      "style": "manager proposing a fix, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "中間管理職の負担も考慮しよう。",
+      "en": "Let’s consider middle managers’ burden too.",
+      "style": "thoughtful boss weighing people, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "上からの命令を、現場にどう伝えるかも課題です。",
+      "en": "How to convey top-down orders to the field is a challenge too.",
+      "style": "assistant raising a real concern, tone holding steady through the whole line"
+    }
+  ]
+}

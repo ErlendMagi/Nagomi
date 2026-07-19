@@ -1,0 +1,78 @@
+{
+  "id": "conv_05188",
+  "context": "A uni intern interviews a manager about supply-chain ethics",
+  "purpose": "Teach: 入金/返品/善意/純正/上旬/室長/命題/広範",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "入金",
+    "返品",
+    "善意",
+    "純正",
+    "上旬",
+    "室長",
+    "命題",
+    "広範"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間ありがとうございます。来月上旬に提出するレポートで、御社の調達倫理について伺いたくて。",
+      "en": "Thanks for your time today. I'd like to ask about your procurement ethics for the report I'm submitting in early next month.",
+      "style": "Polite, slightly nervous intern opening an interview formally."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、どうぞ。調達室長から聞いてますよ。学生さんの視点は、私たちにとっても勉強になりますから。",
+      "en": "Yes, go ahead. I heard from the procurement department head. A student's perspective is educational for us too.",
+      "style": "Warm, professional welcoming tone with genuine openness."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。まず、サプライヤーへの入金条件についてなんですが、下請けの方々に不利になっていないか、という命題が議論されていますよね。",
+      "en": "Thank you. First, regarding payment terms to suppliers — there's an ongoing debate about whether subcontractors are being disadvantaged, right?",
+      "style": "Earnest, careful framing of a sensitive question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "鋭い質問ですね。うちは入金サイトを30日に短縮しました。それと、純正部品を扱う取引先には、品質基準と引き換えに価格保証もしています。",
+      "en": "Sharp question. We shortened our payment cycle to 30 days. And for partners handling genuine parts, we offer price guarantees in exchange for quality standards.",
+      "style": "Professional and factual answer with measured pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。返品が発生した場合の責任分担はどうされていますか？善意の取引でも、結局立場の弱い方が損をする構造があると聞いて。",
+      "en": "I see. How do you handle responsibility allocation when returns occur? I've heard that even in good-faith deals, the weaker party often ends up losing.",
+      "style": "Probing follow-up question, respectful but persistent."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そこは私たちも長年悩んできた点です。返品リスクを一方的に押し付けない契約書に去年から切り替えました。広範な見直しでしたが、必要な改革でした。",
+      "en": "That's something we've struggled with for years. Last year we switched to contracts that don't unilaterally push return risk onto suppliers. It was a broad overhaul, but a necessary reform.",
+      "style": "Reflective, candid acknowledgment of past flaws."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "広範な改革を実行できたのはすごいですね。社内の抵抗はなかったんですか？",
+      "en": "It's impressive you could carry out such a sweeping reform. Wasn't there internal resistance?",
+      "style": "Genuinely curious, slightly admiring student tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんありましたよ。でも、倫理と利益は対立しないって証明したかったんです。レポート、楽しみにしていますね。",
+      "en": "Of course there was. But we wanted to prove that ethics and profit aren't opposed. I'm looking forward to your report.",
+      "style": "Closing warmly with encouragement and conviction."
+    }
+  ]
+}

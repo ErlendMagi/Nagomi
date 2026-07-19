@@ -1,0 +1,86 @@
+{
+  "id": "conv_09674",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 緑化/痙攣/嘔吐/度数/積分/水蒸気/骨髄/流暢",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "緑化",
+    "痙攣",
+    "嘔吐",
+    "度数",
+    "積分",
+    "水蒸気",
+    "骨髄",
+    "流暢"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_485 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、病院敷地の緑化計画を医療チームで進めます",
+      "en": "Ren, the hospital's going to move forward with a greening project as a medical team initiative.",
+      "style": "Clear, direct statement of fact. Warm but professional. Even pace, steady eye contact. The tone of someone sharing information without fanfare.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、てんかん患者の痙攣対応を医療チームで研修します",
+      "en": "Yes, we'll be conducting training on seizure response for epilepsy patients across the medical team.",
+      "style": "Measured and reassuring. Slight emphasis on the commitment to training. Unhurried, as if laying out something important but not alarming.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、術後の嘔吐対策を医療チームで丁寧に行います",
+      "en": "Ren, we handle post-operative nausea management with careful attention across the entire medical team.",
+      "style": "Steady, precise. The word 'careful' carries quiet confidence. No rushing. The tone of someone who takes thoroughness seriously.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "視力度数の測定を、貴院、子供にもおこなわれますね、先生",
+      "en": "So your hospital does conduct vision and refraction testing for children as well, correct, Doctor?",
+      "style": "Genuine question, not challenge. Slight pause before speaking as if turning thought into words. Respectful but engaged, not deferential.",
+      "mood": "curious_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、薬剤投与量を積分計算で医療チームが算出します",
+      "en": "Yes, our medical team calculates medication dosages using integral calculus to ensure precision.",
+      "style": "Matter-of-fact precision. Light stress on 'integral calculus' — not showing off, just being specific about the method. Steady breath.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、加湿器の水蒸気量を医療チームで管理します",
+      "en": "Yes, we manage humidity levels in the hospital environment carefully as a team.",
+      "style": "Simple, direct. No elaboration needed. The tone of someone describing standard professional practice without overselling it.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "骨髄バンク登録を、貴院、推進されてますね、先生",
+      "en": "Your hospital's quite active in promoting bone marrow donor registration, aren't you, Doctor?",
+      "style": "Warm observation, genuine interest. Slight lift at the end — a real question, not rhetorical. The curiosity of someone who notices and respects what an institution does.",
+      "mood": "curious_impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者への流暢な説明を医療チームで心がけます",
+      "en": "Yes, we make it a priority for the medical team to explain things clearly and fluently to our patients.",
+      "style": "Quiet conviction underneath. Slight warmth on 'clearly and fluently.' Even pace, as if this is something the doctor genuinely values and wants to emphasize.",
+      "mood": "composed_earnest"
+    }
+  ]
+}

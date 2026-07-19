@@ -1,0 +1,86 @@
+{
+  "id": "conv_06408",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 市議会/軽量/しくみ/持ち込み/冊子/薬剤師/値下げ/有識者",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市議会",
+    "軽量",
+    "しくみ",
+    "持ち込み",
+    "冊子",
+    "薬剤師",
+    "値下げ",
+    "有識者"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、市議会、地元政治、興味、持て。",
+      "en": "Ren, I want you to pay attention to city council and local politics.",
+      "style": "Direct but not unkind. Measured pace. A statement more than a command—the weight of expectation, not force. Slight lean forward on the opening name.",
+      "mood": "measured_directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。製品の軽量化、技術、勉強したいです。",
+      "en": "Yes. I'd like to study product lightweight technology and materials.",
+      "style": "Careful, respectful cadence. Slight hesitation before the specific technical detail—showing he's thought about this but remains uncertain. Earnest without overshooting.",
+      "mood": "earnest_humble"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "流通のしくみ、覚えろ。",
+      "en": "Learn how the supply chain works. That's essential.",
+      "style": "Clipped, purposeful. No flourish. Each phrase lands like a piece on a board. The tone of someone who doesn't repeat himself.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "機密の持ち込み禁止、徹底されてますね。",
+      "en": "The confidentiality policies are really strictly enforced here, aren't they.",
+      "style": "Observant, almost conversational. A slight lilt of recognition—noticing the protocol as he moves through it. Respectful but not obsequious.",
+      "mood": "observant_formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "就活冊子、企業情報、丁寧に読め。",
+      "en": "Read through the recruitment materials and company information carefully.",
+      "style": "Practical instruction, no ornament. Slightly slower on 'carefully'—emphasis on due diligence. The tone of someone who knows what details matter.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "薬剤師の従兄、医療業界、興味深い、と言ってました。",
+      "en": "My pharmacist cousin mentioned that the medical industry is really interesting.",
+      "style": "Thoughtful mid-sentence pause. Speaking more to himself than to Hiroshi—genuine curiosity poking through. Soft landing on the observation.",
+      "mood": "curious_reflective"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "流通の値下げ競争、激しいぞ。",
+      "en": "The competition in distribution is getting cut-throat.",
+      "style": "Low-voiced warning. Not alarmist, but weighted. A fact delivered as a pattern Hiroshi has already seen play out. Slight exhale on 'fierce'.",
+      "mood": "matter_of_fact_cautious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "有識者会議の傍聴、可能ですか。",
+      "en": "Would it be possible for me to observe one of the expert council meetings?",
+      "style": "Respectful but direct question. Careful phrasing—he's asking permission but with quiet intent. Slight uptick at the end, genuine inquiry not deference.",
+      "mood": "respectful_eager"
+    }
+  ]
+}

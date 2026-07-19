@@ -1,0 +1,78 @@
+{
+  "id": "conv_04526",
+  "context": "A police officer briefs a teen reporter on a public-safety incident",
+  "purpose": "Teach: エイズ/原発/悲惨/脆弱/不能/早急/除去/友好",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "エイズ",
+    "原発",
+    "悲惨",
+    "脆弱",
+    "不能",
+    "早急",
+    "除去",
+    "友好"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_228 workflow wopwgzt3g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "昨夜、市内の原発関連施設の近くで悲惨な事故が起きました。",
+      "en": "Last night, a tragic accident occurred near a nuclear-related facility in the city.",
+      "style": "Calm, measured tone with formal police diction throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、けが人は出たんですか?学校新聞に載せたいので詳しく教えてください。",
+      "en": "What? Were there injuries? I want to write about it for the school paper.",
+      "style": "Eager, slightly nervous teen reporter pressing for details politely"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "幸い死者はいません。古くなった配管の脆弱な部分から薬品が漏れたんです。",
+      "en": "Fortunately no fatalities. Chemicals leaked from a weakened section of aging piping.",
+      "style": "Professional, fact-first delivery broken into shorter natural beats"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "薬品って、危険なものですか?触れた人が意識不能になったりとか…",
+      "en": "Chemicals — are they dangerous? Like, could someone who touched them lose consciousness?",
+      "style": "Anxious, naive teen worry phrased as a halting follow-up question"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "工業用の溶剤で、感染するエイズのような病原体ではありません。早急に除去作業を進めています。",
+      "en": "It's an industrial solvent, not an infectious pathogen like HIV. We're urgently carrying out removal work.",
+      "style": "Patient correction with gentle but authoritative reassurance and calm pacing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。住民との友好的な関係のためにも、ちゃんと情報を出すことが大事ですよね。",
+      "en": "I see. For friendly relations with residents too, putting information out properly really matters, right?",
+      "style": "Thoughtful, mature insight from a young journalist in casual register"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。本日夕方に正式な記者会見を開きますので、君も同席して構いませんよ。",
+      "en": "Exactly. We're holding an official press conference this evening — you're welcome to attend.",
+      "style": "Warm professional encouragement, treating teen as legitimate press member"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます!責任を持って、正確な記事を書きます。",
+      "en": "Thank you so much! I'll write an accurate article and take it seriously.",
+      "style": "Bright, determined gratitude with renewed sense of purpose"
+    }
+  ]
+}

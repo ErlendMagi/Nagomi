@@ -1,0 +1,76 @@
+{
+  "id": "conv_01442",
+  "context": "Saito gives Ryosuke a careful follow-up exam.",
+  "purpose": "doctor-patient careful follow-up",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "感謝",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_072)",
+    "generated_at": "2026-05-27T05:49:20.749Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、本当、健康、良好、ね。",
+      "en": "Ryosuke-san, your health is genuinely excellent.",
+      "style": "Warm, clear delivery with genuine relief. Professional composure grounding the words. A small lift on 'excellent'—real pleasure in delivering good news. Steady eye contact, the kind that says: this matters and I mean it.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当、感謝、本当に。",
+      "en": "I'm truly grateful. Really, I am.",
+      "style": "Soft, sincere gratitude. A slight catch before the second sentence—genuine feeling breaking through politeness. Warm and unguarded. The rhythm slows on 'really, I am,' like he's letting himself feel it fully.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、本当、いつでも。",
+      "en": "Please come back anytime you need to talk.",
+      "style": "Gentle promise. Not clinical—genuinely open. Slight emphasis on 'anytime' to make clear the door is always there. Warm professional tone that carries real human care underneath. A small nod in the voice.",
+      "mood": "warm_professional"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "頑張ります、本当、ね。",
+      "en": "I will. Thank you. I'll really do my best.",
+      "style": "Quiet determination mixed with gratitude. The phrase 'I'll really do my best' carries weight—not performed, but felt. Tender underneath. A breath before the last part, like making a small promise to himself as much as to her.",
+      "mood": "grateful_committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、ね。",
+      "en": "We'll do this together, truly.",
+      "style": "Warm, assured, collaborative. 'Together' lands gently but with quiet strength. Professional composure softens into genuine human connection. The 'truly' at the end isn't emphatic—it's a steady confirmation, almost to herself.",
+      "mood": "warm_assured"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "感謝、本当、ずっと。",
+      "en": "I'm grateful. I will be, always.",
+      "style": "Deep, genuine gratitude. Voice settles into the words like they mean everything. 'Always' trails slightly—not trailing-off, but expanding, like gratitude extending forward in time. Tender and sincere.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、本当に。",
+      "en": "Take good care of yourself.",
+      "style": "Warm, genuine closing. Not dismissive—a real farewell with care behind it. Slight emphasis on 'good care,' making clear this matters. Professional but human. The kind of thing you feel after the door closes.",
+      "mood": "warm_caring"
+    }
+  ]
+}

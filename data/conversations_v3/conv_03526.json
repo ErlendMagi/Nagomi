@@ -1,0 +1,78 @@
+{
+  "id": "conv_03526",
+  "context": "Manager and assistant discuss a corporate acquisition news story",
+  "purpose": "Teach: 買収/債権/手数料/中止/ドメイン/マネジメント/廃棄/本件",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "買収",
+    "債権",
+    "手数料",
+    "中止",
+    "ドメイン",
+    "マネジメント",
+    "廃棄",
+    "本件"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_177 workflow w3gqipgb2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "ニュース見ましたか？大手ITが競合企業を買収するって発表したんですよ。",
+      "en": "Did you see the news? A major IT firm announced they'll acquire a competitor.",
+      "style": "Manager opening with measured news-sharing tone, polite ですます form, slightly excited delivery"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、本件について朝のミーティングでも話題になっていました。",
+      "en": "Yes, this matter came up in the morning meeting too.",
+      "style": "Assistant responding politely with formal business Japanese, calm and informed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "向こうの会社、債権の処理が追いつかなくて、経営が傾いていたみたいですね。",
+      "en": "Apparently their company couldn't keep up with debt processing and was struggling financially.",
+      "style": "Manager explaining background with analytical tone, polite but conversational"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ドメインとブランド資産だけ残して、古い設備は廃棄する方針らしいですよ。",
+      "en": "I hear they'll keep only the domain and brand assets, scrapping old equipment.",
+      "style": "Assistant providing additional details, polite informative delivery"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。マネジメント層もほとんど入れ替えるって噂ですよね。",
+      "en": "I see. Rumor says the management layer will be almost completely replaced.",
+      "style": "Manager processing information aloud, polite contemplative tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それで、来週予定していた合同セミナーは中止になったそうです。",
+      "en": "Because of that, next week's planned joint seminar has been cancelled.",
+      "style": "Assistant reporting a concrete schedule change, polite business tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっ、もう？仲介の手数料の支払いはどうなるんでしょうね。",
+      "en": "What, already? I wonder what'll happen with the brokerage fee payment.",
+      "style": "Manager mildly surprised, raising practical financial concern politely"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "経理に確認しておきますね。続報が入ったらすぐ共有します。",
+      "en": "I'll confirm with accounting. I'll share immediately if any updates come in.",
+      "style": "Assistant wrapping up proactively with reliable polite closing tone"
+    }
+  ]
+}

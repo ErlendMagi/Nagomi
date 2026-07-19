@@ -1,0 +1,84 @@
+{
+  "id": "conv_05228",
+  "context": "A uni intern interviews a manager about supplier qualification",
+  "purpose": "Teach: 資材/教諭/優良/作動/強要/超越/預言/ウォール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資材",
+    "教諭",
+    "優良",
+    "作動",
+    "強要",
+    "超越",
+    "預言",
+    "ウォール"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。資材調達のサプライヤー評価について伺いたいんですが、最初の基準は何ですか？",
+      "en": "Thank you for your time today. I'd like to ask about supplier evaluation for materials procurement—what's the first criterion?",
+      "style": "Polite intern opening, slightly nervous but well-prepared and respectful in tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうですね、まずは経済産業省が認定している優良企業リストから候補を絞ります。最低限の信頼性の担保ですね。",
+      "en": "Well, first we narrow down candidates from the list of preferred companies certified by the Ministry of Economy. It's the minimum guarantee of reliability.",
+      "style": "Calm professional explanation delivered at a measured, patient pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。あの、現場の検査では実際にラインを動かして、機械がきちんと作動するか確認するんですか？",
+      "en": "I see. Um, during on-site inspections, do you actually run the line and check whether the machines operate properly?",
+      "style": "Curious follow-up question with a leaning-forward, engaged tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。安全装置が正しく作動しない工場とは絶対に契約しません。そこは妥協できない一線です。",
+      "en": "Of course. We absolutely won't contract with a factory where the safety devices don't function correctly. That's a line we can't compromise on.",
+      "style": "Firm tone, emphasizing non-negotiable standards with quiet conviction."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "厳しいですね。値引きを強要してくる取引先もあると聞きましたが、そういう相手はどう見極めるんでしょうか？",
+      "en": "That's strict. I've heard some partners coerce you into price cuts—how do you identify that kind of counterpart?",
+      "style": "Probing but respectful, with a sharper analytical edge emerging."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "過去の取引履歴を見れば一目瞭然ですよ。下請けに無理な値下げを強要する企業は、品質も結局は犠牲になりますから。",
+      "en": "It's obvious if you look at past transaction records. Companies that force unreasonable discounts on subcontractors end up sacrificing quality too.",
+      "style": "Knowing tone with a hint of cynicism earned through experience."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "高校時代の恩師、田中教諭が「数字は時に常識を超越する」とよく言っていて、まさにそれですね。",
+      "en": "My high school mentor, Mr. Tanaka, always used to say 'numbers sometimes transcend common sense'—that's exactly it.",
+      "style": "Excited connection to a fondly remembered teacher, eager student energy."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いい言葉ですね。ただ、数字偏重も危険ですよ。ウォール街の連中みたいに崇めすぎると、足元の現実を見失います。",
+      "en": "Nice phrase. But over-reliance on numbers is dangerous too. If you worship them like Wall Street types do, you'll lose sight of ground reality.",
+      "style": "Reflective senior mentor tone, gently cautioning the younger listener."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ウォール街ですか…まるで預言みたいに数字を信じるな、ってことですね。記事に使わせていただきます！",
+      "en": "Wall Street, huh... so don't believe in numbers like they're prophecy. I'll borrow that for my article!",
+      "style": "Light laugh and energetic intern gratitude as the interview wraps up."
+    }
+  ]
+}

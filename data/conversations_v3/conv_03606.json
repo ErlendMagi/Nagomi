@@ -1,0 +1,78 @@
+{
+  "id": "conv_03606",
+  "context": "Boss and manager review a personnel recommendation",
+  "purpose": "Teach: 推薦/動機/狙い/論点/修行/健全/活発/平等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "推薦",
+    "動機",
+    "狙い",
+    "論点",
+    "修行",
+    "健全",
+    "活発",
+    "平等"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_181 workflow w4qvryhxq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "田中君の推薦状を読んだよ。君の評価はどうだい？",
+      "en": "I read Tanaka's recommendation letter. What's your evaluation of him?",
+      "style": "Authoritative boss tone, calm but probing, measured pace."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、彼の動機は非常にはっきりしています。新しい部署で挑戦したいそうです。",
+      "en": "Yes, his motivation is very clear. He says he wants to take on challenges in the new department.",
+      "style": "Polite manager register, respectful and reporting clearly to superior."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。しかし今回の人事の狙いは、若手の育成だ。彼で本当に合うかな。",
+      "en": "I see. However, the aim of this personnel decision is to develop young staff. Is he really the right fit?",
+      "style": "Thoughtful boss tone, weighing options, slightly skeptical inflection."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。論点を整理しますと、経験と将来性のバランスが課題です。",
+      "en": "You're quite right. To organize the main points, the balance between experience and potential is the issue.",
+      "style": "Formal business Japanese, methodical and structured manager voice."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "彼にはまだ修行が必要だと思うが、現場の雰囲気は活発で良いと聞いている。",
+      "en": "I think he still needs more training, but I hear the atmosphere on the floor is lively and good.",
+      "style": "Reflective boss tone, balancing concern with positive observation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、チームの議論も健全で、評価も比較的平等に行われています。",
+      "en": "Yes, the team's discussions are healthy, and evaluations are conducted relatively fairly.",
+      "style": "Reassuring manager tone, professional and confident in delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。では推薦を前向きに検討しよう。来週、もう一度詳しく話そう。",
+      "en": "Understood. Then let's consider the recommendation positively. Let's discuss it in detail again next week.",
+      "style": "Decisive boss tone, concluding firmly with forward-looking direction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。資料を準備しておきます。",
+      "en": "Thank you very much. I'll have the materials prepared.",
+      "style": "Grateful subordinate tone, formal and ready to follow through."
+    }
+  ]
+}

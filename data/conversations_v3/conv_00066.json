@@ -1,0 +1,104 @@
+{
+  "id": "conv_00066",
+  "context": "Dr. Saito's daughter (Sakura, here playing the role of Saito's teen) has come into her mother's clinic after school because she didn't know where else to go.",
+  "purpose": "mother-daughter doctor-patient hybrid — Saito switches registers mid-scene",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "今",
+    "時間",
+    "心配",
+    "ない"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "お母さん、ちょっといい？",
+      "en": "Mom — got a second?",
+      "style": "Quiet, hesitant knock in the voice. Half-whisper, careful not to intrude on her workplace. A breath before speaking, like gathering courage.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくら？…どうしたの、こんな時間に。",
+      "en": "Sakura? …What's wrong — at this hour?",
+      "style": "The shift from doctor-mode to mother-mode audible in a single line. Professional concern hardens into personal worry. Stands without thinking.",
+      "mood": "alert_concerned"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なんもない。本当に。ただ、ちょっと…",
+      "en": "It's nothing. Really. Just…",
+      "style": "Classic teen deflection — saying the words but meaning the opposite. Eyes down. Each phrase a small delay tactic, buying time to decide what to say.",
+      "mood": "defensive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "座って。ちゃんと診るから、座って。",
+      "en": "Sit. Let me check you properly — sit.",
+      "style": "Doctor's voice in command mode, but the repetition betrays the mother underneath. Urgent without rushing. Practical on the surface, worried underneath.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お母さん、診察ちゃう。話。",
+      "en": "Mom — it's not an exam. I need to talk.",
+      "style": "A small, honest correction. Voice drops quieter. The deflection lifts just enough to let the real thing show through. Direct eye contact is possible now.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "…そっか。じゃ、コーヒー、淹れる。",
+      "en": "…I see. Then I'll make coffee.",
+      "style": "A full pivot in three words. The white coat comes off the voice. Slower, warmer, entirely a mother now. A gesture of time and presence.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう。…本当に、心配かけたくなかってん。",
+      "en": "Thanks. …Honestly, I didn't want to worry you.",
+      "style": "Voice small but steady. The Kansai lilt carries the apology and the affection together. This is the real thing now, and she knows it.",
+      "mood": "grateful_conflicted"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配は、私の仕事。母の方の仕事。",
+      "en": "Worrying — that's my job. The mom-job.",
+      "style": "A simple line that lands softly. Warm, not dismissive. A small permission being given. Voice shows a smile without performing one.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…うん。",
+      "en": "…Yeah.",
+      "style": "A relieved exhale before the word. Not a big release — a small, controlled breath that says she's letting down her guard. Settles into the chair properly.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "時間ある。今日は、もう仕事ない。",
+      "en": "I have time. Work's done for the day.",
+      "style": "A small, generous lie. Voice closes the laptop without saying it. Completely here now. The promise is in the tone.",
+      "mood": "present"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう、お母さん。本当に。",
+      "en": "Thank you, Mom. Really.",
+      "style": "The whole conversation compressed into three words. Voice steady, sincere, carrying the full weight of what this moment means. No performance — just gratitude.",
+      "mood": "grateful"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00655",
+  "context": "Kenji visits Saito for annual checkup.",
+  "purpose": "small adult ongoing checkup",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "仕事",
+    "家族",
+    "感謝",
+    "一緒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、本当に、お健康。",
+      "en": "Tanaka-san, your health is truly excellent.",
+      "style": "Clear, steady delivery with genuine warmth underneath. A professional's relief and satisfaction — she has good news. Slight pause after the name, then the affirmation lands gently but with real conviction.",
+      "mood": "pleased_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おかげさまで。家族も、皆、元気で、本当に、ありがたい。",
+      "en": "Thanks to everyone's care. My whole family is healthy too — I'm really grateful for that.",
+      "style": "Sincere and grounded. He's not performing gratitude — it's genuine. Soft breath between the thoughts. A man acknowledging something that matters. Steady, measured, no rush.",
+      "mood": "grateful_calm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一番、大事なこと、家族の健康。",
+      "en": "Family health is the most important thing, really.",
+      "style": "Reflective, almost conversational wisdom. Not lecturing — just stating something she knows to be true. Slight softness at the end, like she's sharing something that moves her, even in a clinical moment.",
+      "mood": "wise_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当に。これからも、ちゃんと、見守らせてください。",
+      "en": "Please let me continue to watch over your health going forward.",
+      "style": "Formal but genuinely respectful — not stiff. A small commitment. He's asking permission to care, which is his way of showing it. Quiet dignity in the phrasing.",
+      "mood": "earnest_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。お大事に。",
+      "en": "Of course. Please take care of yourself.",
+      "style": "Warm closing, professional but not distant. A small nod of acknowledgment. The words are simple but delivered with the weight of real care — this is what she says to people she hopes will stay well.",
+      "mood": "caring_composed"
+    }
+  ]
+}

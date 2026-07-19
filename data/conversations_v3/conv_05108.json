@@ -1,0 +1,78 @@
+{
+  "id": "conv_05108",
+  "context": "A uni intern interviews a manager about a workshop program",
+  "purpose": "Teach: 除き/主宰/遵守/合致/猶予/なおし/パーソナル/シニア",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "除き",
+    "主宰",
+    "遵守",
+    "合致",
+    "猶予",
+    "なおし",
+    "パーソナル",
+    "シニア"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_257 workflow w2qhb13ru)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。御社が主宰されているワークショップ事業についてお伺いしたくて。",
+      "en": "Thank you for your time today. I'd like to ask about the workshop program your company organizes.",
+      "style": "Polite student interviewer opening with formal gratitude and clear topic introduction"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こちらこそ。基本は社会人向けですが、最近はシニア層の参加も増えてきました。",
+      "en": "Likewise. It's primarily aimed at working adults, but lately participation from seniors has been growing.",
+      "style": "Warm professional response with informative tone and gentle smile"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。プログラムの内容は参加者ごとにパーソナルに調整されるんでしょうか?",
+      "en": "I see. Is the program's content adjusted personally for each participant?",
+      "style": "Curious follow-up question showing genuine research interest from young interviewer"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、初回のヒアリングで本人の目標に合致する形にカスタマイズします。日曜を除き毎日開講していますよ。",
+      "en": "Yes, after the first interview we customize it to match each person's goals. We hold sessions daily except Sundays.",
+      "style": "Detailed explanatory answer with concrete operational scheduling information"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素晴らしいですね。安全面のルールなどはどう管理されているんですか?",
+      "en": "That's wonderful. How do you manage rules around safety and so on?",
+      "style": "Respectful transition into more serious compliance-focused follow-up question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "業界ガイドラインの遵守は当然として、内部マニュアルも年に一度書きなおしています。",
+      "en": "Compliance with industry guidelines is a given, and we also rewrite our internal manual once a year.",
+      "style": "Confident managerial reply emphasizing diligence and continuous improvement"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "徹底されていますね。問題が起きた場合、猶予期間のようなものは設けていますか?",
+      "en": "Very thorough. If a problem arises, do you have something like a grace period in place?",
+      "style": "Probing analytical question reflecting careful preparation for the interview"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一週間の猶予を設けて改善を促す仕組みです。それでも難しければ、担当を変えて対応します。",
+      "en": "We give a one-week grace period to encourage improvement. If that's still difficult, we change the assigned staff.",
+      "style": "Measured authoritative explanation with practical fallback procedure detail"
+    }
+  ]
+}

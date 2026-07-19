@@ -1,0 +1,78 @@
+{
+  "id": "conv_04971",
+  "context": "A teacher walks a uni student through a history-of-science paper",
+  "purpose": "Teach: 暦/酸化/復元/錯覚/混合/死後/政令/悪影響",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "暦",
+    "酸化",
+    "復元",
+    "錯覚",
+    "混合",
+    "死後",
+    "政令",
+    "悪影響"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "じゃあ、この論文は古代の暦と天文観測の関係を扱っているの。導入部分、もう読んだ？",
+      "en": "So, this paper deals with the relationship between ancient calendars and astronomical observation. Have you read the introduction?",
+      "style": "Warm academic tone, slightly probing, inviting engagement from student"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、読みました。でも、当時の人が金属の酸化現象をどう理解していたかの部分が、正直よく分からなくて。",
+      "en": "Yes, I read it. But honestly, I didn't quite understand the part about how people back then understood metal oxidation.",
+      "style": "Polite student register, admitting confusion with humility and curiosity"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい質問ね。著者は失われた知識を文献から復元しようと試みているの。当時は科学と錯覚の境界が曖昧だったのよ。",
+      "en": "Good question. The author is trying to reconstruct lost knowledge from documents. Back then, the boundary between science and illusion was vague.",
+      "style": "Explanatory teacher voice, measured pacing, clarifying conceptual nuance carefully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。じゃあ第三章で出てくる、東洋と西洋の思想の混合っていうのも、その流れですか？",
+      "en": "I see. So the mixture of Eastern and Western thought that appears in chapter three is part of that flow?",
+      "style": "Connecting dots aloud, slightly tentative but engaged with material"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう。しかも著者の死後に発見された草稿には、もっと大胆な仮説が書かれていたらしいわ。",
+      "en": "Exactly. And apparently in drafts discovered after the author's death, even bolder hypotheses were written.",
+      "style": "Confirming affirmation, then adding intriguing scholarly anecdote with subtle enthusiasm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、それは面白いですね。当時の政令で出版が制限されていたから、隠していたんでしょうか？",
+      "en": "Wow, that's fascinating. Was he hiding it because publication was restricted by the government decrees of the time?",
+      "style": "Genuine intellectual excitement, speculating thoughtfully about historical context"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "その可能性は高いわ。検閲が研究に悪影響を及ぼした例は、この時代に本当に多いの。",
+      "en": "That's quite likely. There are really many examples from this era where censorship had a negative impact on research.",
+      "style": "Affirming hypothesis, then broadening to historical pattern with quiet gravity"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。レポートの方向性、見えてきました。もう一度文献を読み直してみます。",
+      "en": "Thank you so much. The direction for my report is becoming clearer. I'll re-read the sources once more.",
+      "style": "Grateful closing, expressing renewed motivation and clarity about next steps"
+    }
+  ]
+}

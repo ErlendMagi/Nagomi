@@ -1,0 +1,72 @@
+{
+  "id": "conv_03768",
+  "context": "A boss explains corporate-speak terms to a new hire",
+  "purpose": "Teach: 自社/弊社/実務/早期/起動/表記/務め/パート",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "自社",
+    "弊社",
+    "実務",
+    "早期",
+    "起動",
+    "表記",
+    "務め",
+    "パート"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_189 wc87o7is0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山田くん、初日だね。まず社内用語に慣れることが大事だよ。",
+      "en": "Yamada-kun, first day, huh. Getting used to in-house terms is important.",
+      "style": "Warm but formal welcome from a senior manager."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。実は表記の違いでもう少し混乱していまして…",
+      "en": "Yes, pleased to be here. Honestly, the wording differences already confuse me a bit.",
+      "style": "Polite, slightly nervous new hire speech tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、自社のことを社外では弊社と呼ぶ、あれだね。基本中の基本だ。",
+      "en": "Ah, calling our own company 'heisha' externally, that one. Absolute basics.",
+      "style": "Explanatory, fatherly boss tone with calm confidence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。研修では実務に出る前に覚えておくよう言われました。",
+      "en": "I see. In training, they told us to memorize it before actual work.",
+      "style": "Earnest, attentive junior employee reply with curiosity."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん、早期に身につけたほうがいい。あと、朝はPCを起動したらメールを確認すること。",
+      "en": "Right, better to pick it up early. Also, after booting your PC, check email first.",
+      "style": "Practical workplace instruction, calm authoritative manager voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。前のバイト先ではパートの方が全部教えてくれていたので、自分でやるのは新鮮です。",
+      "en": "Understood. At my old job, part-timers handled everything, so doing it myself feels new.",
+      "style": "Reflective, slightly self-deprecating young adult tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ははは、ここでは君が務める立場だ。一年後には後輩に同じ説明をしているはずだよ。",
+      "en": "Haha, here you'll be the one in charge. In a year, you'll explain this to juniors.",
+      "style": "Encouraging, light laughter, mentor-like closing remark."
+    }
+  ]
+}

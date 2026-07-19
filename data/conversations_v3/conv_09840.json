@@ -1,0 +1,86 @@
+{
+  "id": "conv_09840",
+  "context": "Mom and son chat",
+  "purpose": "Teach: カントリー/水戸/阪急/ダイエー/那覇/ホワイトハウス/ジョンソン/ブレア",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "カントリー",
+    "水戸",
+    "阪急",
+    "ダイエー",
+    "那覇",
+    "ホワイトハウス",
+    "ジョンソン",
+    "ブレア"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_493 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがカントリー音楽の歴史を教えて下さるそうよ",
+      "en": "Sho, your father is going to teach you about the history of country music.",
+      "style": "Warm, matter-of-fact announcement. Gentle lilt on Sho's name — drawing him in. Mid-pace. She's delivering information like a gift he might enjoy, not pushing.",
+      "mood": "tender_informing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと水戸の偕楽園に行ったよ",
+      "en": "Mom, Dad and I went to Kairaku Garden in Mito!",
+      "style": "Bright, immediate energy. Quick attack on the opening. Eager to share what he did. Small voice but genuinely happy — not performing excitement, just genuine.",
+      "mood": "happy_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが阪急電車でお出張なさるわ",
+      "en": "Sho, your father will be taking a business trip on the Hankyu line.",
+      "style": "Gentle, matter-of-fact. A small pause before delivering the news — she's watching for his reaction. Composed but warm underneath, like she's sharing something she's already processed.",
+      "mood": "composed_informing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとダイエー跡地のショッピングモール行ったよ",
+      "en": "Mom, Dad took me to the shopping mall at the old Daiei site!",
+      "style": "Quick, bright opening. Similar energy to his first line but slightly more confident — he's sharing another memory he wants her to know about. Genuine warmth, no performance.",
+      "mood": "happy_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが那覇の親戚にお会いになるそうよ",
+      "en": "Sho, your father is going to meet relatives in Naha.",
+      "style": "Steady, informative tone. Slight warmth underneath the practical delivery. She's observing his face as she speaks, gauging how he's taking this news.",
+      "mood": "composed_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとホワイトハウスの映像見たよ",
+      "en": "Mom, Dad and I watched a video about the White House!",
+      "style": "Enthusiastic but measured — not loud. He's noticed something and wants to share it. Genuine curiosity in the delivery, not seeking validation, just including her.",
+      "mood": "happy_engaged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがジョンソン元大統領の伝記を読んでらしたわ",
+      "en": "Sho, your father has been reading a biography of former President Johnson.",
+      "style": "Gentle, informative. A subtle warmth in how she's sharing this detail about Ryosuke. Not surprised by him, just noting what he's been doing. Composed delivery.",
+      "mood": "composed_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとブレア元首相のお話聞いたよ",
+      "en": "Mom, Dad told me a story about former Prime Minister Blair!",
+      "style": "Warm closing brightness. He's reached the end of what he wants to share and is pleased with himself for listening. Open, uncomplicated happiness. Let the final word breathe slightly.",
+      "mood": "happy_content"
+    }
+  ]
+}

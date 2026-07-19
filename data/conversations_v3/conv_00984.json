@@ -1,0 +1,76 @@
+{
+  "id": "conv_00984",
+  "context": "Saito gives Ryosuke a year-end checkup.",
+  "purpose": "doctor-patient year-end checkup",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "年末",
+    "健康",
+    "一緒",
+    "相談",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_049)",
+    "generated_at": "2026-05-27T03:07:32.163Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、年末の検査、終わりました。",
+      "en": "Ryosuke, your year-end checkup is complete.",
+      "style": "Direct, clear opening with genuine warmth underneath. Professional but not distant. A slight softening on his name — she knows him. Steady pace, measured confidence in the news.",
+      "mood": "composed_warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、結果、いかがですか？",
+      "en": "Yes — and how are the results?",
+      "style": "Respectful, careful inquiry. A held breath underneath — he's genuinely asking, not performing politeness. Slight rise at the end, genuinely wanting to hear.",
+      "mood": "cautious_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、良好。安心してください。",
+      "en": "Everything looks excellent. You can be at ease.",
+      "style": "Clear reassurance delivered with quiet confidence. A beat before 'excellent' — she's seen the numbers, she's sure. Gentle but factual, letting the good news land.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、ありがとうございます。",
+      "en": "Ah, thank you so much.",
+      "style": "Relief visibly exhaled on the opening. Sincere gratitude, not perfunctory. A small emotional release after worry he was holding. Warm and genuine.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "新年、元気で、過ごせます。",
+      "en": "You'll be able to enjoy the new year in good health.",
+      "style": "A gentle forward-looking warmth. Not clinical — she's extending a real wish. Slow, deliberate delivery on 'enjoy' — this matters beyond the medical.",
+      "mood": "tender_encouraging"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "相談、いつも、感謝してます。",
+      "en": "I'm always grateful for your care.",
+      "style": "Sincere, unguarded gratitude. Not apologetic — genuine acknowledgment of her attentiveness over time. Warm but not effusive. Steady eye contact in the voice.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、また、来年。",
+      "en": "Take care of yourself. See you next year.",
+      "style": "Closing warmth with a trace of the professional-personal boundary. A small smile in the voice. Neither rushed nor lingering — the natural end of a good interaction.",
+      "mood": "warm_dismissal"
+    }
+  ]
+}

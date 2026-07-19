@@ -1,0 +1,78 @@
+{
+  "id": "conv_04687",
+  "context": "A uni student interviews a manager about pricing methodology",
+  "purpose": "Teach: 算定/暫定/安価/付与/除外/評議/総括/助教授",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "算定",
+    "暫定",
+    "安価",
+    "付与",
+    "除外",
+    "評議",
+    "総括",
+    "助教授"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_236 workflow wj5mdwm6v)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "お忙しいところすみません。料金の算定方法について少しお伺いしてもよろしいでしょうか。",
+      "en": "Sorry to bother you. May I ask a bit about your pricing calculation method?",
+      "style": "polite student opener with humble request"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、構いませんよ。今期はまだ暫定の数字ですが、それでよければお答えします。",
+      "en": "Sure, no problem. This quarter's figures are still provisional, but I can answer based on that.",
+      "style": "calm professional businessman explaining context plainly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。御社が安価な価格を維持できているのは、どういう仕組みなんでしょうか。",
+      "en": "Thank you. How are you able to maintain such low prices?",
+      "style": "curious researcher probing for the mechanism"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "仕入れの段階で、輸送費は原価から除外して計算しているんですよ。そのぶん販売価格を抑えられます。",
+      "en": "At the procurement stage, we exclude shipping costs from the unit cost calculation, which lets us keep prices down.",
+      "style": "matter-of-fact explanation of internal accounting practice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最終的な価格決定の権限は、どなたに付与されているのでしょうか。",
+      "en": "I see. Who is granted the authority to make the final pricing decision?",
+      "style": "thoughtful follow-up using academic interview phrasing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "月一回の評議会で原案を出して、役員が最終承認します。私の一存では決められません。",
+      "en": "We submit a draft at the monthly council meeting, and the executives give final approval. I can't decide it on my own.",
+      "style": "structured answer outlining the corporate governance flow clearly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。実はこのテーマで、ゼミの助教授に総括レポートを提出することになっておりまして。",
+      "en": "That's very informative. Actually, I have to submit a summary report on this topic to the associate professor in my seminar.",
+      "style": "grateful student revealing academic purpose, distinct timbre that anchors the scene"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうでしたか。それなら資料を一部お渡ししますので、レポート、頑張ってください。",
+      "en": "Oh, I see. In that case, I'll give you some materials. Good luck with your report.",
+      "style": "warm supportive closing from a helpful manager"
+    }
+  ]
+}

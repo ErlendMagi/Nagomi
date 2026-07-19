@@ -1,0 +1,78 @@
+{
+  "id": "conv_04587",
+  "context": "A senior trains a new hire on internal procedures",
+  "purpose": "Teach: 入会/申し出/任命/協同/商法/商工/労使/単行本",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "入会",
+    "申し出",
+    "任命",
+    "協同",
+    "商法",
+    "商工",
+    "労使",
+    "単行本"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_231 workflow wr0604mks)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今日は社内の手続きを教えるね。まず組合への入会手続きから説明するよ。",
+      "en": "Today I'll teach you the internal procedures. Let's start with joining the union.",
+      "style": "Calm senior mentor tone, slightly formal but warm with newcomer"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。入会は全員が必須なんですか?",
+      "en": "Yes, please guide me. Is joining mandatory for everyone?",
+      "style": "Polite earnest new-hire tone with curious upward inflection"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "基本そうだけど、辞退の申し出も書面で出せば可能。うちは協同組合方式を採用しているんだ。",
+      "en": "Basically yes, but you can decline in writing. Ours uses a cooperative structure.",
+      "style": "Explanatory measured pace, like reading from a handbook lightly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "協同組合ですか。商法の規定とは別物なんですね。",
+      "en": "A cooperative? So it's separate from commercial code rules then.",
+      "style": "Thoughtful confirming tone showing he's connecting the dots"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そう。商工会議所の登録もあるし、労使協定にもしっかり目を通しておいて。",
+      "en": "Right. We're registered with the chamber, and review the labor agreement carefully.",
+      "style": "Firm professional advice, listing items methodically for the trainee"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。研修担当の任命って、もう決まっているんですか?",
+      "en": "Understood. Has the training supervisor already been assigned to me?",
+      "style": "Slightly hesitant but engaged, checking practical next steps"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "私が任命されたから安心して。参考資料はこの単行本にまとまっているよ。",
+      "en": "I was appointed, so don't worry. Reference materials are in this book.",
+      "style": "Reassuring senior voice, handing over physical material warmly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。今夜きちんと読み込んでおきます。",
+      "en": "Thank you very much. I'll read through it thoroughly tonight.",
+      "style": "Grateful committed closing tone, sincere and slightly bowing in voice"
+    }
+  ]
+}

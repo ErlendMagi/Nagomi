@@ -1,0 +1,69 @@
+{
+  "id": "conv_00508",
+  "context": "Riku, now adult, sees Saito for an annual checkup.",
+  "purpose": "small medical adult-patient follow-up",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "健康",
+    "仕事",
+    "頑張る",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_026)",
+    "generated_at": "2026-05-27T00:13:43.500Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "リクさん、健康、特に問題ないですよ。",
+      "en": "Your health looks good, Riku-san. No concerns at all.",
+      "style": "Even, professional warmth. Eyes-down to notes, then up to meet him. Clear and kind. The kind of doctor who delivers good news like a gift, not a transaction.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ありがとうございます。仕事、忙しいけど、ちゃんと、生活整えてます。",
+      "en": "Thank you, Doctor. Work keeps me busy, but I'm taking care of things. Life's in order.",
+      "style": "Quiet pride underneath careful politeness. Sits straighter. The words come slower—he's choosing them, wanting her to know he's serious. Brief pause before speaking, like he's thought about this.",
+      "mood": "earnest_proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "リクさん、本当に、立派になりましたね。",
+      "en": "You've really become someone to be proud of, Riku-san.",
+      "style": "Soft approval, genuine recognition. Leans forward slightly. Not flattery—she means it. The kind of warmth that comes from actually seeing someone grow. Voice settles on his name like she's known him all along.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "先生のお陰でもあります。子供の頃から、ずっと。",
+      "en": "That's partly thanks to you, Doctor. Since I was a kid, you've always been there.",
+      "style": "Vulnerable moment disguised as gratitude. Voice drops slightly. A real crack in the cool exterior. He's not quite looking at her, but the words are honest. The disclosure costs something.",
+      "mood": "grateful_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "これからも、無理しないで、頑張ってください。",
+      "en": "Keep taking care of yourself going forward, Riku-san. Don't push too hard.",
+      "style": "Gentle closing instruction, like a final check before he leaves. Not commanding—caring. Steady, professional tone that somehow holds personal regard. The kind of thing you remember later.",
+      "mood": "warm_careful"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、ありがとうございます。",
+      "en": "Yes. Thank you, Doctor.",
+      "style": "Brief, formal, but weighted. He means it. Small nod. The kind of gratitude that closes a chapter but leaves the door open.",
+      "mood": "grateful"
+    }
+  ]
+}

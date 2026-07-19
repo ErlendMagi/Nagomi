@@ -1,0 +1,86 @@
+{
+  "id": "conv_08549",
+  "context": "Officer briefs",
+  "purpose": "Teach: 頒布/加味/横行/内職/創始/既得/代用/一掃",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "頒布",
+    "加味",
+    "横行",
+    "内職",
+    "創始",
+    "既得",
+    "代用",
+    "一掃"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_429 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯チラシを地域に頒布します",
+      "en": "The police will be distributing crime prevention flyers throughout the community.",
+      "style": "Measured, official opening. Even pace. Professional clarity—no flourish. Direct eye contact as if presenting a report.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、地元の意見も対策に加味なさってますね",
+      "en": "I see. It's good that the police are incorporating local perspectives into your safety efforts.",
+      "style": "Attentive, slightly formal acknowledgment. Warm undertone—genuine respect for the approach. Slight pause after 'I see' to show he's listening fully.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、振り込め詐欺が横行しております",
+      "en": "Wire fraud scams have been spreading rapidly in the area.",
+      "style": "Steady, informative tone. Slight weight on the problem. Not alarming, but clearly serious. Measured pace—letting the gravity land.",
+      "mood": "concerned_factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、不正内職斡旋の事件を捜査されてますね",
+      "en": "Yes, and I understand the police are also investigating fraudulent side-job schemes.",
+      "style": "Engaged follow-up. Shows he's been paying close attention. Warm but still formal register. Slight nod in his voice—appreciating the thoroughness.",
+      "mood": "attentive_approval"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、近代警察の創始時の理念を継承します",
+      "en": "The police remain committed to the principles that founded modern policing.",
+      "style": "Formal, grounded statement. Deliberate pacing—not rushed. Slight weight on 'committed'—conveying depth rather than routine.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、既得の権限を市民のために使われますね",
+      "en": "That's clear—the police genuinely use that authority in service of the community.",
+      "style": "Warm sincerity now. Slight familiarity entering the tone. A real acknowledgment, not a scripted response. Relaxed but still respectful.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不法薬物の代用品にも警戒します",
+      "en": "We're also vigilant about illegal synthetic drugs and their substitutes.",
+      "style": "Matter-of-fact, thorough. No hesitation. Clean delivery—each phrase carries equal weight. Professional but not stiff.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、犯罪組織を一掃する努力、ありがたいです",
+      "en": "Thank you. Your efforts to dismantle organized crime really make a difference.",
+      "style": "Genuine gratitude surfaces. Slower, warmer than earlier lines. A real person speaking now, not just exchanging pleasantries. Quiet conviction underneath.",
+      "mood": "grateful_sincere"
+    }
+  ]
+}

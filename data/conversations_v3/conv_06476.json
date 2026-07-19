@@ -1,0 +1,86 @@
+{
+  "id": "conv_06476",
+  "context": "Two friends chat about a wedding",
+  "purpose": "Teach: はがき/盛大/綱/分厚い/先人/新郎/新婦/狐",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "はがき",
+    "盛大",
+    "綱",
+    "分厚い",
+    "先人",
+    "新郎",
+    "新婦",
+    "狐"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "結婚式の招待、はがきで届いたよ。",
+      "en": "A wedding invitation came in the mail today.",
+      "style": "Warm, unhurried opener. Slight lift on the news — pleased to share it. Natural conversational pace, genuine but not oversold.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。盛大な式、楽しみだね。",
+      "en": "Yeah. It's going to be such a beautiful ceremony.",
+      "style": "Gentle agreement. Soft exhale underneath, like settling into the thought. Warm tone, leaning slightly forward in the conversation.",
+      "mood": "warm_anticipation"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "綱引き、披露宴の余興で、定番だよね。",
+      "en": "Tug-of-war at the reception — that's always how it goes, right?",
+      "style": "Brighter, more animated. Light curiosity in the observation. A small smile in the voice. Engaged and conversational, not lecturing.",
+      "mood": "playful_knowing"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "引き出物のアルバム、分厚いタイプもあるね。",
+      "en": "The return gifts they're planning — some of them have these really thick albums.",
+      "style": "Thoughtful, almost musing. Noticing a small detail with quiet interest. Soft delivery, like thinking out loud with a friend.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "先人の知恵、結婚式の慣例で、活かされている。",
+      "en": "These traditions — they carry so much of what came before us. That wisdom shows up in every part of a wedding.",
+      "style": "Reflective, slower pace. Tender weight to the words. Not pontificating — more like she's just realizing it out loud. Slight breath pause before the second sentence.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "新郎、緊張してたよね、入場の時。",
+      "en": "The groom looked so nervous when he walked in, though.",
+      "style": "Warm, gentle observation. Light, affectionate tone — not mocking, just noticing the human moment. Small laugh underneath.",
+      "mood": "fond_amused"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "新婦のドレス、本当に綺麗だった。",
+      "en": "The bride looked absolutely stunning in her dress.",
+      "style": "Softer, more tender. Slow, lingering delivery. A trace of wistfulness — genuine beauty witnessed. Slight trailing-off, like the image stays with her.",
+      "mood": "enchanted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "裏庭、夜に狐が来るって、噂よ。",
+      "en": "I heard there's a fox that comes through the backyard at night sometimes.",
+      "style": "Warm, gentle shift to something quieter. Like sharing a small secret. Unhurried pace, almost twilight-soft. Closing the conversation with care.",
+      "mood": "wonder"
+    }
+  ]
+}

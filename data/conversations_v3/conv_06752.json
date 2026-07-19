@@ -1,0 +1,86 @@
+{
+  "id": "conv_06752",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 精力/病棟/宿命/神父/駐留/標識/国政/故意",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "精力",
+    "病棟",
+    "宿命",
+    "神父",
+    "駐留",
+    "標識",
+    "国政",
+    "故意"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_339 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、精力的に逃走を続けておりました。",
+      "en": "The suspect continued to flee persistently.",
+      "style": "Measured official statement. Even tempo, no inflection on the facts themselves. Weight rests at period's edge, not on any one word.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、病棟で、回復に努めておられるんですね。",
+      "en": "The victim is working toward recovery in the ward.",
+      "style": "Gentle inquiry. Slightly softer attack. Thoughtful pause before 'recovery' — respect for the seriousness. Warm but not intrusive.",
+      "mood": "concerned_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。警察官の宿命として、危険、覚悟しております。",
+      "en": "Yes. As a police officer, I've accepted the risks that come with this work.",
+      "style": "Quiet acceptance. Flat delivery on the duty itself — no dramatics, no apology. Slight firmness beneath, the kind that comes from lived conviction.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "神父さん、被害者家族の心の支えに、なっておられますね。",
+      "en": "The priest has become a real support for the victim's family, hasn't he.",
+      "style": "Observational, almost to himself. Slight tilt of admiration. Not a question despite the shape — noting something he's witnessed and respects.",
+      "mood": "thoughtful_moved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。米軍駐留地周辺、捜査、慎重に進めています。",
+      "en": "Yes. We're proceeding carefully with the investigation around the US military facility area.",
+      "style": "Back to procedure. Slight tightening on the scope of the work — 'carefully' carries the weight of complication. Professional distance restored.",
+      "mood": "cautious_official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "交通標識、改ざん、増えているそうですね、世間で。",
+      "en": "Traffic sign tampering seems to be on the rise lately.",
+      "style": "Gentle observation. Softer attack. Slightly curious tilt — he's noticing patterns, not accusing. Room for the officer to respond or not.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。国政の影響、警察活動にも、及びますね。",
+      "en": "Yes. National political currents reach into police operations as well.",
+      "style": "A single steady note. Weariness held just beneath the surface but not performed. The tone of someone who sees the larger machinery at work and doesn't hide from it.",
+      "mood": "weary_realistic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "故意の事件と過失、線引き、難しいですよね、本件も。",
+      "en": "The line between intentional crime and negligence — it's difficult to draw, isn't it. Especially in a case like this.",
+      "style": "Slower pace. Genuine wrestling with complexity. Slight exhale at the end — not looking for an answer so much as thinking aloud with someone he trusts.",
+      "mood": "thoughtful_troubled"
+    }
+  ]
+}

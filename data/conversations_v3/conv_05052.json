@@ -1,0 +1,78 @@
+{
+  "id": "conv_05052",
+  "context": "A doctor explains a public-health study to a curious teen",
+  "purpose": "Teach: うつ病/生息/虚偽/発する/挫折/成り立つ/一角/掲げる",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "うつ病",
+    "生息",
+    "虚偽",
+    "発する",
+    "挫折",
+    "成り立つ",
+    "一角",
+    "掲げる"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、保健の授業でうつ病の患者が増えてるって聞いたんですけど、本当ですか？",
+      "en": "Doctor, I heard in health class that depression patients are increasing — is that true?",
+      "style": "Curious teenage girl asking a respectful question with mild concern"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、最新の調査では、若者の挫折経験とうつ病の発症率に明確な関連が見られています。",
+      "en": "Yes, recent research shows a clear link between youth setback experiences and depression onset rates.",
+      "style": "Calm authoritative doctor explaining findings with measured pace"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、その研究ってどうやって行われるんですか？データはどこから集めるんでしょう？",
+      "en": "Wow, how is that kind of study actually conducted? Where do you collect the data from?",
+      "style": "Eager teen leaning forward with genuine intellectual curiosity"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "全国の学校の一角に協力をお願いし、匿名アンケートを通じて生活環境や生息地域の特徴を調べるんです。",
+      "en": "We ask a section of schools nationwide to cooperate, surveying their living environments and regional traits anonymously.",
+      "style": "Patient doctor breaking down methodology in accessible everyday terms"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "でも、答える子が虚偽の回答を書いちゃったら、結果ってちゃんと成り立つんですか？",
+      "en": "But if the kids answering write false responses, do the results actually hold up?",
+      "style": "Sharp skeptical teen raising a methodological concern thoughtfully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鋭いね。だから我々は信頼性の確保を第一の方針として掲げる必要があって、いくつもの検証手法を組み合わせているんですよ。",
+      "en": "Sharp point. That's why we need to hold up reliability as our top principle and combine several verification methods.",
+      "style": "Impressed doctor praising student before deeper technical explanation"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。じゃあ危険信号を発するような結果が出たら、社会はどう動くんですか？",
+      "en": "I see. So if results come out that send out danger signals, how does society respond?",
+      "style": "Thoughtful teen following the logical thread with growing engagement"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "政府や自治体に提言して、予防プログラムを広げてもらうんだ。君みたいな若い人の関心こそ、社会を変える力になるんですよ。",
+      "en": "We recommend policies to governments so prevention programs spread — young people's interest like yours drives change.",
+      "style": "Warm encouraging doctor ending with an empowering message to student"
+    }
+  ]
+}

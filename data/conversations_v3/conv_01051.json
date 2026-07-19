@@ -1,0 +1,76 @@
+{
+  "id": "conv_01051",
+  "context": "Hiroshi tells Kenji he's considering retirement.",
+  "purpose": "boss-subordinate retirement-news exchange",
+  "ambient": "office_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "感謝",
+    "人生",
+    "相談",
+    "大切"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、大事な話、する。",
+      "en": "Kenji — there's something important I need to talk with you about.",
+      "style": "Composed opening. Measured pace, clear enunciation. Steady eye contact through the statement. The weight of what's coming audible but not ominous — this is a leader preparing the ground.",
+      "mood": "serious_composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、伺います。",
+      "en": "Yes, sir. I'm listening.",
+      "style": "Respectful but genuine. Soft, alert attention. Slight lean forward. Not stiff — this is the warmth of someone who trusts the person across from him and is ready for what comes.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来年、退職、考えてる。",
+      "en": "I'm thinking about retiring next year.",
+      "style": "Deliberate delivery. Each phrase sits. The word 'retiring' lands with quiet weight — not rushed, not dramatized. The man has made this decision and is speaking it aloud for the first time to someone who matters.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "え、本当ですか。",
+      "en": "Really? You're certain?",
+      "style": "Genuine shock pulled back immediately into professionalism. Quick breath in. A moment where the careful composure cracks just enough to show the man underneath before he steadies himself again.",
+      "mood": "shocked_controlled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お前に、後を、任せたい。",
+      "en": "I want to ask you to take over. After me.",
+      "style": "Quiet conviction underneath. The words come simply — no embellishment. A statement of trust that carries more weight than any elaboration. Eyes steady. This is a transaction of something real.",
+      "mood": "trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "光栄です、本当に、感謝。",
+      "en": "I'm deeply honored, sir. Truly. Thank you.",
+      "style": "Emotion breaking through the formality just slightly — his voice catches almost imperceptibly on 'honored'. Recovers. Formal, but the sincerity underneath is unmistakable. This matters to him.",
+      "mood": "grateful_humbled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、準備、進めよう。",
+      "en": "Then let's move forward with the preparation — together.",
+      "style": "Shift to forward momentum. Lighter, collaborative tone. The weight settles now into something shared. A leader closing the opening and inviting partnership. Slight warmth in the word 'together'.",
+      "mood": "purposeful_warm"
+    }
+  ]
+}

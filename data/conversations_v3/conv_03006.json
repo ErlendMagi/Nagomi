@@ -1,0 +1,75 @@
+{
+  "id": "conv_03006",
+  "context": "Sakura interviews a factory manager.",
+  "purpose": "WIDENED SCENARIO: business interview; vocabulary (製造/削減/賃金/取得/マーケティング) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "製造",
+    "削減",
+    "賃金",
+    "取得",
+    "マーケティング"
+  ],
+  "cast": [
+    "sakura_teen",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_151)",
+    "generated_at": "2026-05-29T15:13:22.768Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "製造の現場は、今どうですか?",
+      "en": "How is the manufacturing floor now?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "無駄を削減し、効率を上げています。",
+      "en": "We cut waste and raise efficiency.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "賃金は、守られていますか?",
+      "en": "Are wages protected?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "削減しても、賃金は下げません。",
+      "en": "Even cutting costs, we don't lower wages.",
+      "style": "firm manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "新しい資格の取得も、支援しますか?",
+      "en": "Do you support acquiring new qualifications too?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取得を、会社が支援しています。",
+      "en": "The company supports acquisition.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "マーケティングは、どうしていますか?",
+      "en": "How do you handle marketing?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "マーケティングで、製品の良さを広げます。",
+      "en": "Through marketing, we spread our product's quality.",
+      "style": "warm manager voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

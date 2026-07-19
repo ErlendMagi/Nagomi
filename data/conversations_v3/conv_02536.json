@@ -1,0 +1,75 @@
+{
+  "id": "conv_02536",
+  "context": "Ren reports survey results to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: research report; analysis vocabulary (レポート/示し/正しい/全員/得る) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "レポート",
+    "示し",
+    "正しい",
+    "全員",
+    "得る"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_127)",
+    "generated_at": "2026-05-29T13:04:43.282Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "調査のレポートが、完成しました。",
+      "en": "The survey report is complete.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "結果は、何を示しているかね?",
+      "en": "What do the results indicate?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "データは、改善の必要を示しています。",
+      "en": "The data indicates a need for improvement.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "その読み取りは、正しいのかね?",
+      "en": "Is that reading correct?",
+      "style": "probing boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "正しいか、全員で確認しました。",
+      "en": "We checked with everyone whether it's correct.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "このレポートから、何を得られるかね?",
+      "en": "What can we gain from this report?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "次の戦略への、ヒントが得られます。",
+      "en": "We gain hints for the next strategy.",
+      "style": "reliable young presenter voice, soft warm resolved throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "全員で、正しい方向を目指そう。",
+      "en": "Let's all aim in the correct direction.",
+      "style": "warm boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

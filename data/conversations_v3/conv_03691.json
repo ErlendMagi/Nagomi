@@ -1,0 +1,82 @@
+{
+  "id": "conv_03691",
+  "context": "Mother and child have a cold-day morning routine",
+  "purpose": "Teach: 確認する/検診/寒い/笑顔/寝室/朝食/翌朝/起き上がる",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "検診",
+    "寒い",
+    "笑顔",
+    "寝室",
+    "朝食",
+    "翌朝"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔ちゃん、もう起きる時間よ。カーテン開けるね。",
+      "en": "Sho, it's time to get up. I'll open the curtains.",
+      "style": "Gentle wake-up call, warm maternal morning voice, soft caring tone"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うぅ…今日寒いよ。布団から起き上がりたくない…。",
+      "en": "Ugh... it's cold today. I don't want to get out of the futon...",
+      "style": "Sleepy reluctant child whining, drowsy and stuffy nasal tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、ほっぺ赤いね。ちょっと熱があるか確認するよ。",
+      "en": "Oh my, your cheeks are red. Let me check if you have a fever.",
+      "style": "Concerned mother shifting to gentle worry, soft caring delivery overall"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、昨日の夜から喉が痛かったの…。寝室まだちょっと寒い。",
+      "en": "Mom, my throat has been hurting since last night... The bedroom is still a bit cold.",
+      "style": "Small weak voice from sick child, slightly tearful undertone throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "37度8分か。今日は学校お休みにして、午後に病院で診てもらおう。来月の定期検診も近いしね。",
+      "en": "37.8 degrees. Let's skip school today and have you seen at the clinic this afternoon. Your regular checkup is coming up next month too.",
+      "style": "Decisive but gentle mom tone, calm reassuring problem-solver voice"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "朝食、食べたくない…。",
+      "en": "I don't want any breakfast...",
+      "style": "Quiet refusal from unwell child, mumbling and listless delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "じゃあ温かいおかゆだけ作るね。よく寝れば、翌朝には元気になるよ。",
+      "en": "Then I'll just make some warm rice porridge. If you sleep well, you'll feel better the next morning.",
+      "style": "Soothing maternal coaxing voice, soft optimistic encouragement throughout the line"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ…ありがとう。",
+      "en": "Mom... thank you.",
+      "style": "Small grateful murmur from tired child, faint affectionate whisper tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、笑顔出たね。今日はゆっくり休もうね。",
+      "en": "Hehe, there's that smile. Let's take it easy today.",
+      "style": "Warm motherly laugh, tender affectionate closing tone overall delivery"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05469",
+  "context": "A retired exec mentors a younger boss on initiatives",
+  "purpose": "Teach: 月額/採決/取組/拠出/強行/承り/隊長/棟",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "月額",
+    "採決",
+    "取組",
+    "拠出",
+    "強行",
+    "承り",
+    "隊長",
+    "棟"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "取組を強行採決で進めると、必ず後で軋む。",
+      "en": "If you force a vote through on an initiative, friction will almost always show up later.",
+      "style": "Unhurried, measured delivery. Patient pause after the premise. Weight on 「必ず」—not as warning, as observation earned from decades. Slight downward cadence at the end, like wisdom settling.",
+      "mood": "measured_experienced"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "承知しております。月額予算も、無理なく続けられる水準で。",
+      "en": "Understood. We'll keep the monthly budgets at a level we can sustain without overreaching.",
+      "style": "Clear, formal register. Slight nod in the voice on 「承知」. Steady pace—showing he's taking this seriously. Not defensive, but precise: demonstrating he's already thought this through.",
+      "mood": "attentive_assured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "拠出する各社の事情も、隊長が直接聞きに行け。",
+      "en": "And have the team-lead go hear the circumstances of each company that's contributing. In person.",
+      "style": "Firm but not sharp. The imperative sits lightly—this is advice, not command. Slight emphasis on 「直接」—directness matters here. Clean ending, like a door closing on a good decision.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、棟ごとに状況が違いますので、丁寧に。",
+      "en": "Yes. Each building faces different conditions, so we'll approach it with care.",
+      "style": "Respectful acknowledgment. Soft, almost self-aware tone—he's hearing the weight of what's being asked and accepting it fully. Pace slightly slower on the second clause, showing thoughtfulness, not hesitation.",
+      "mood": "respectful_resolved"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "承りますの一言で、信頼が築ける場面もある。",
+      "en": "There are moments when simply saying 'I'll see to it' is what builds trust.",
+      "style": "Quiet finality. The voice almost drops into the intimacy of the lesson. Slight pause before 「信頼」—letting the idea land. Exhale softly on the trailing syllables, like he's giving him the keys to something.",
+      "mood": "wise_gentle"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "胸に刻みます。",
+      "en": "I'll carry that with me.",
+      "style": "Solemn, genuine. Voice tightens slightly on the opening—this lands. Not overstated, but the fullness of understanding comes through. Quiet resolve at the end, like a vow being made.",
+      "mood": "moved_committed"
+    }
+  ]
+}

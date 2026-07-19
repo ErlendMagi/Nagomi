@@ -1,0 +1,76 @@
+{
+  "id": "conv_00739",
+  "context": "Mrs. Mori invites Naoko to a local community activity.",
+  "purpose": "neighbor-aunt community activity invitation",
+  "ambient": "gate_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "活動",
+    "地域",
+    "一緒",
+    "元気",
+    "大切"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "直子さん、地域の活動、参加しませんか？",
+      "en": "Naoko-san, would you be interested in joining us for some community activities?",
+      "style": "Warm, genuine opening. Soft lilt of invitation in the voice — not pushy, but genuinely pleased at the possibility. Natural pacing, like she's speaking to someone she knows and trusts.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "何の活動、ですか？興味、あります。",
+      "en": "What kind of activity? I'd be interested.",
+      "style": "Immediate, genuine interest. Leans forward slightly in tone. Warm curiosity — not hesitant, but genuinely engaged. A beat of openness before committing.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "公園、お掃除。皆で、楽しく、する。",
+      "en": "We're cleaning up the park. Everyone does it together, and it's really fun.",
+      "style": "Encouraging, matter-of-fact warmth. Emphasis on 'together' — the lightness of shared work. Bright but not overselling it. Natural, conversational pacing throughout.",
+      "mood": "enthusiastic"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "いいですね。一緒に、参加します。",
+      "en": "That sounds wonderful. I'll join you.",
+      "style": "Quiet resolve under the warmth. Not tentative — a genuine commitment arriving calmly. Slight nod in the voice. Direct and sincere.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "元気な方が、増えて、嬉しい。",
+      "en": "I'm so glad to have someone with your energy involved.",
+      "style": "Genuine gratitude, tender at the edges. Softer pace than before. A moment of real warmth landing — not effusive, but deeply felt. Small trailing warmth at the end.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "地域、繋がり、大切ですね。",
+      "en": "Community ties really are important, aren't they.",
+      "style": "Reflective agreement, not preachy. Warm conviction, grounded. The quiet nod of someone who understands this in her bones. Gentle certainty in the delivery.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "土曜日、九時、お待ちしてます。",
+      "en": "Saturday morning at nine o'clock, then. I'll be looking forward to it.",
+      "style": "Warm closing with practical clarity. The brightness of something confirmed and settled. A small lift of anticipation in the final phrase — not forced, genuine.",
+      "mood": "pleased"
+    }
+  ]
+}

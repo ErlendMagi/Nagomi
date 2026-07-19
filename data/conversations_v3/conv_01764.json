@@ -1,0 +1,75 @@
+{
+  "id": "conv_01764",
+  "context": "Sakura sits with Naoko after Naoko's tough day; quiet support.",
+  "purpose": "Author offering quiet emotional support to friend.",
+  "ambient": "ramen_shop_after_close",
+  "sound_effects": [],
+  "target_vocab": [
+    "辛い",
+    "頑張る",
+    "休む",
+    "聴く"
+  ],
+  "cast": [
+    "sakura_teen",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_088)",
+    "generated_at": "2026-05-27T07:40:09.186Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "今日、めっちゃ辛かったわ。",
+      "en": "Today was really rough, you know?",
+      "style": "Kansai warmth with tiredness underneath. Opens with a sigh. Drops the end gently, inviting someone to listen. Vulnerable but not performing vulnerability.",
+      "mood": "weary_trusting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "おばさん、お疲れさま。",
+      "en": "You must be exhausted, Auntie.",
+      "style": "Soft, respectful tone. Not trying to fix anything — just meeting her where she is. Warm but steady, like a hand on someone's shoulder.",
+      "mood": "attentive_care"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お客さんと、ちょっと揉めて。",
+      "en": "I had a run-in with a customer.",
+      "style": "Matter-of-fact Kansai pace. A little resignation in the delivery. Not dwelling on it, just laying it out. Tired but unselfconscious.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お話、聴いていますよ。",
+      "en": "I'm here. I'm listening.",
+      "style": "Quiet and steady. No rush in the pacing. Simple words, but the weight of actual presence behind them. Patient and unhurried.",
+      "mood": "present_patient"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おまえおって、助かるわ。",
+      "en": "Having you here — it really helps.",
+      "style": "Warmth breaking through the exhaustion. Kansai directness without harshness. Genuine gratitude, uncomplicated. A small exhale of relief.",
+      "mood": "grateful_softened"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "休んで、ゆっくりね。",
+      "en": "Rest now. Take your time.",
+      "style": "Gentle permission. Soft pace, unhurried. The tone of someone who knows when to say less and mean more. Tender without fussing.",
+      "mood": "gentle_protective"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うん、ありがとう、ほんま。",
+      "en": "Yeah, thank you. Really, truly.",
+      "style": "Kansai warmth settling into quiet contentment. Short breaths, genuine. The gratitude lands simply, not oversold. Trailing warmth at the end.",
+      "mood": "grateful_peaceful"
+    }
+  ]
+}

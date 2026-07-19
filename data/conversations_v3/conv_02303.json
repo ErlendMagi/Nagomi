@@ -1,0 +1,79 @@
+{
+  "id": "conv_02303",
+  "context": "Saito treats Mrs. Mori for general wellness; quiet medical visit.",
+  "purpose": "Doctor caring for elderly community member.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "受診",
+    "熱心",
+    "丁寧",
+    "回復",
+    "症状",
+    "優しい",
+    "直ぐに",
+    "ふだん"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_116)",
+    "generated_at": "2026-05-27T19:03:11.195Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "先生、受診、お願いします。",
+      "en": "Doctor, I'd like to schedule an appointment, please.",
+      "style": "Warm, respectful. Careful enunciation on the formal request. Gentle opening — the tone of someone who has lived long enough to know good manners matter. Slight lift at the end, hopeful.",
+      "mood": "courteous"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おはようございます、症状、教えてください。",
+      "en": "Good morning. Can you tell me what symptoms brought you in today?",
+      "style": "Professional but genuine. Clear and unhurried — the steady confidence of someone who has had this conversation a hundred times. Warm attention underneath the protocol.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふだん、丁寧に過ごしてるんだけど。",
+      "en": "Well, I usually try to take care of myself, but…",
+      "style": "Hesitant, self-aware. Acknowledging her own effort before admitting she needed help. Slight trailing-off — not quite apologetic, but checking whether she's being unreasonable.",
+      "mood": "modest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "回復、順調そうですね。",
+      "en": "Your recovery is looking very smooth, I'm pleased to say.",
+      "style": "Warm reassurance. Definite, settled tone on the good news. Speaking as someone who genuinely sees the improvement and is genuinely relieved.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "熱心に治療してくれて、感謝。",
+      "en": "Thank you for treating me so carefully and thoughtfully.",
+      "style": "Genuine gratitude, not performed. Eyes soft. The particular warmth of someone recognizing that her care was personal, not perfunctory. Quiet sincerity.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "優しい言葉、こちらこそ。",
+      "en": "Your kindness means a lot to me too.",
+      "style": "Modest deflection wrapped in real warmth. A small, honest moment between two people who respect each other. Not effusive, but genuine.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "直ぐに、また、来ますね。",
+      "en": "I'll be back to see you again soon.",
+      "style": "Warm, assured. A gentle promise — the comfortable tone of someone establishing a continuation. Not anxious, simply planning to return.",
+      "mood": "warm_assured"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06712",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 名付け/生体/養護/反乱/母国/生き残っ/操縦/発酵",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "名付け",
+    "生体",
+    "養護",
+    "反乱",
+    "母国",
+    "生き残っ",
+    "操縦",
+    "発酵"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_337 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、被害者が、複数の名で名付けられていた人物でした。",
+      "en": "In this case, the victim was a person living under multiple identities.",
+      "style": "Professional, measured delivery. Steady pace. No inflection on the difficult detail. The tone of someone presenting facts that speak for themselves, without editorializing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "科学捜査、生体反応、重要な手がかりですね。",
+      "en": "Forensic analysis and bio-response data—those are key pieces of evidence, aren't they?",
+      "style": "Leaning forward slightly, genuine curiosity. Thoughtful pace, not rapid. A student asking because he genuinely wants to understand the connection, not to perform knowledge.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、養護施設、出身者でした。",
+      "en": "Yes. The suspect came from a care facility.",
+      "style": "Straightforward, matter-of-fact. A brief statement of fact. No emotional coloring. The cadence of someone moving through documented information.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察組織内の反乱、過去に、ありましたか。",
+      "en": "Has there ever been internal corruption within the police organization in connection to this?",
+      "style": "Careful question, not accusatory. Slight pause before speaking, weighing the directness of the ask. Quiet intensity—this matters, and he's chosen his words deliberately.",
+      "mood": "probing_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、母国に逃亡しようとしておりました。",
+      "en": "Yes. The suspect was attempting to flee to his home country.",
+      "style": "Calm continuation of the procedural summary. Even tone, no weight given to the attempted escape—just another fact in sequence. Professional distance maintained.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "目撃証人、危険を生き残った貴重な存在ですね。",
+      "en": "The witness who survived that danger—they're a crucial person to this investigation.",
+      "style": "Soft recognition. Slight warmth underneath the analytical tone—acknowledging what survival means without dwelling on it. Respectful pause on 'crucial'.",
+      "mood": "respectful_reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。船の操縦履歴、容疑者と一致いたしました。",
+      "en": "Yes. The boat's operational records matched the suspect's history.",
+      "style": "Steady confirmation. Direct, no elaboration. The tone of checking off a critical detail that closes a gap. Professional closure on the point.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "発酵食品関連の不正、警察が、捜査に入ったんですね。",
+      "en": "So the police have opened an investigation into fraud related to fermented-food distribution?",
+      "style": "Pulling back, connecting a new thread. Thoughtful, almost wondering aloud. Seeking confirmation that this secondary angle is part of the broader picture. Curious close.",
+      "mood": "curious_connecting"
+    }
+  ]
+}

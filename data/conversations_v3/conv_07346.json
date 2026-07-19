@@ -1,0 +1,86 @@
+{
+  "id": "conv_07346",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 至急/台帳/雇い/シンクタンク/区民/区内/チームワーク/不明確",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "至急",
+    "台帳",
+    "雇い",
+    "シンクタンク",
+    "区民",
+    "区内",
+    "チームワーク",
+    "不明確"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_369 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "至急、本気で、絶対、対応、絶対、必要、絶対、案件、絶対、報告しろ、本気で、頼んだぞ",
+      "en": "We need to handle this urgent case right away. Report on it immediately.",
+      "style": "Clipped, commanding tone. Sharp attack on first word. Businesslike and final. No room for question or hesitation. Shoulder-forward posture.",
+      "mood": "authoritative_urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。在庫の、本気で、絶対、台帳、絶対、最新化、絶対、進めております、本気で、感謝",
+      "en": "Understood. We're updating the inventory ledger right now. Thank you for the instruction.",
+      "style": "Steady, measured delivery. Respectful but not obsequious. Slight pause before the thanks—acknowledgment, not flattery. Clear and competent.",
+      "mood": "focused_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "パート、本気で、絶対、雇い入れ、絶対、慎重に、絶対、進めろ、本気で、頼んだぞ",
+      "en": "For the part-time hiring, proceed carefully. I want it done right.",
+      "style": "Direct and firm. Weight on 'carefully'—this is non-negotiable. Slower pace on the critical word. Business tone, but a hint of expectation beneath it.",
+      "mood": "serious_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界の、本気で、絶対、シンクタンク、絶対、ご意見、絶対、伺っております、本気で、感謝",
+      "en": "Understood. We're consulting with industry think tanks on this. Thank you for the guidance.",
+      "style": "Steady confidence. Slightly higher inflection on 'think tanks'—showing initiative, not just compliance. Genuine, not performative gratitude.",
+      "mood": "diligent_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、本気で、絶対、区民、絶対、向けの、絶対、サービス、絶対、強化しろ、本気で、頼んだぞ",
+      "en": "Strengthen our services for ward residents. Make it a priority.",
+      "style": "Sharp, commanding opening. Slight pause between the two sentences for emphasis. Lower register, definitive. No softness—this is an order.",
+      "mood": "directive_serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。区内、本気で、絶対、配送網、絶対、整備、絶対、進めております、本気で、感謝",
+      "en": "Understood. We're building out the delivery network in the ward. Thank you for the direction.",
+      "style": "Calm, professional. Concrete details delivered without elaboration. Gratitude feels earned—responsive, not reflexive.",
+      "mood": "efficient_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "各部署の、本気で、絶対、チームワーク、絶対、強化しろ、本気で、頼んだぞ",
+      "en": "Strengthen teamwork across all departments.",
+      "style": "Brief, clipped. Emphasis on 'all departments'—this isn't optional or negotiable. Final tone. No trailing off.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。指示が、本気で、絶対、不明確、絶対、な場合、絶対、確認、絶対、取らせております、本気で、感謝",
+      "en": "Understood. When instructions are unclear, we're checking for clarification before proceeding. Thank you.",
+      "style": "Careful, methodical delivery. Slight emphasis on 'clarification'—showing foresight and competence. Quiet professional assurance throughout.",
+      "mood": "careful_compliant"
+    }
+  ]
+}

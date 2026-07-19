@@ -1,0 +1,75 @@
+{
+  "id": "conv_02567",
+  "context": "Kenji and Ren design an app data model.",
+  "purpose": "WIDENED SCENARIO: tech design; software vocabulary (設計/モデル/画像/ファイル/ユーザー) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "設計",
+    "モデル",
+    "画像",
+    "ファイル",
+    "ユーザー"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_129)",
+    "generated_at": "2026-05-29T13:12:58.567Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "ユーザー向けの設計を、考えたいです。",
+      "en": "I want to plan the user-facing design.",
+      "style": "earnest young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、データのモデルを決めましょう。",
+      "en": "First, let's decide the data model.",
+      "style": "analytical office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ユーザーの画像も、扱いますか?",
+      "en": "Do we handle user images too?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "画像は、ファイルとして保存します。",
+      "en": "Images are saved as files.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ファイルは、ユーザーごとに分けますか?",
+      "en": "Do we separate files per user?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、モデルに合わせて分けます。",
+      "en": "Yes, we separate them per the model.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ユーザーに、優しい設計ですね。",
+      "en": "It's a user-friendly design.",
+      "style": "satisfied young colleague voice, soft warm appreciative throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良いモデルは、画像の管理も楽にします。",
+      "en": "A good model eases image management too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

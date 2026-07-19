@@ -1,0 +1,79 @@
+{
+  "id": "conv_05879",
+  "context": "A boss briefs an intern on an international meeting",
+  "purpose": "Teach: 岡崎/星野/ウィリアム/デイヴィッド/ゲイツ/蘭/是非とも/アタック",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "岡崎",
+    "星野",
+    "ウィリアム",
+    "デイヴィッド",
+    "ゲイツ",
+    "蘭",
+    "是非とも",
+    "アタック"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_295 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、海外プロジェクト、岡崎工場の視察から始める。",
+      "en": "Ren, start the international project with a tour of the Okazaki plant.",
+      "style": "Clear, steady directive. Measured pace. No performance — the tone of someone assigning work they trust will be done. Light emphasis on the opening name.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。星野部長、現場で待っているそうですね。",
+      "en": "Yes. Director Hoshino is waiting for us at the site.",
+      "style": "Respectful but grounded. Slight lift at the start — meeting the instruction with readiness, not servility. Steady breath. Alert presence.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "夜は、ウィリアム氏、デイヴィッド氏と会食。",
+      "en": "This evening we have dinner with William and David.",
+      "style": "Factual, unhurried. Slight pause before the names — they carry weight. Composed delivery. Not reading a list; informing with precision.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ゲイツ氏の財団からも、視察団が来ますか。",
+      "en": "Will the Gates Foundation be sending observers as well?",
+      "style": "Careful question. Slight hesitation before 'Gates Foundation' — checking the appropriateness of the assumption. Respectful but not deferential. Seeking clarity.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。受付フラワーアレンジ、蘭が映える季節だ。",
+      "en": "Yes. The reception flowers are arranged well — it's peak season for orchids.",
+      "style": "Quiet observation, almost to himself. Slight warmth in noticing the detail. Slow, meandering tone — a moment of reflection breaking through the business. Soft at the end.",
+      "mood": "observant_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "是非とも、議事録取らせていただきます。",
+      "en": "I'd be happy to take the minutes for the meeting.",
+      "style": "Eager but measured. No over-offering. Straightforward, efficient tone. Brief pause after 'happy' — sincerity without fuss. Respectful closure.",
+      "mood": "capable_willing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。最終アタックのプレゼン、君も準備しろ。",
+      "en": "Good. Prepare for the final presentation pitch too.",
+      "style": "Shift to directness. Warmer than the opening — more collaborative than commanding. Light weight on 'too.' Not an afterthought, but an inclusion. Expects competence.",
+      "mood": "confident_inclusive"
+    }
+  ]
+}

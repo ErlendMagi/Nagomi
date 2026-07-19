@@ -1,0 +1,78 @@
+{
+  "id": "conv_04586",
+  "context": "A boss reviews HR policy with his deputy",
+  "purpose": "Teach: 入会/申し出/任命/協同/商法/商工/労使/単行本",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "入会",
+    "申し出",
+    "任命",
+    "協同",
+    "商法",
+    "商工",
+    "労使",
+    "単行本"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_231 workflow wr0604mks)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今年の労使協定の見直し案、目を通してくれたか？",
+      "en": "Have you looked over this year's labor-management agreement revision proposal?",
+      "style": "Authoritative boss opening a serious policy review meeting."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、一通り拝読しました。商工会議所の指針にも沿った内容かと思います。",
+      "en": "Yes, I read through it. I think it aligns with the Chamber of Commerce and Industry guidelines.",
+      "style": "Polite deputy giving a measured, professional response."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。それから組合への入会手続きについても、新人にきちんと説明するように。",
+      "en": "Good. Also, make sure to properly explain the union enrollment procedures to the new hires.",
+      "style": "Firm directive tone, slightly clipped and businesslike."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。実は山田君から、副リーダー職の辞退の申し出がありまして…",
+      "en": "Understood. Actually, Yamada-kun has submitted a request to decline the deputy leader position...",
+      "style": "Hesitant deputy raising a delicate personnel matter."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なに？せっかく任命したのに困るな。協同で進めるべき案件が山積みだぞ。",
+      "en": "What? It's a problem since we just appointed him. We have piles of matters to handle cooperatively.",
+      "style": "Frustrated boss reacting with mild irritation and authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ごもっともです。商法改正の研修資料も、彼が担当する予定でしたので。",
+      "en": "Quite right. He was also scheduled to handle the training materials on the Commercial Code revisions.",
+      "style": "Apologetic agreement, presenting practical consequences calmly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ならば私が書いたあの単行本を参考資料にして、君が引き継いでくれ。",
+      "en": "Then use that hardcover book I wrote as reference material, and you take over for him.",
+      "style": "Decisive boss delegating with a hint of self-satisfied pride."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。早速、来週の会議までに準備を整えておきます。",
+      "en": "Certainly. I'll have everything prepared by next week's meeting right away.",
+      "style": "Crisp, deferential closing from a reliable subordinate."
+    }
+  ]
+}

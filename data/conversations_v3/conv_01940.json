@@ -1,0 +1,61 @@
+{
+  "id": "conv_01940",
+  "context": "Aoi takes baby for a walk in stroller; runs into Asuka at the park.",
+  "purpose": "Two adult women bumping into each other on walks.",
+  "ambient": "park_morning_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "散歩",
+    "赤ちゃん",
+    "会う",
+    "元気"
+  ],
+  "cast": [
+    "aoi_barista",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "蒼さん、お散歩!",
+      "en": "Aoi — would you like to go for a walk?",
+      "style": "Warm, inviting opening. Gentle lilt that assumes agreement. The tone of someone who knows they're welcome. Soft eye contact, unhurried.",
+      "mood": "warm_friendly"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、あすかさん、お久しぶり!",
+      "en": "Oh — Asuka! It's been so long!",
+      "style": "Surprised but delighted. The initial 「あ」 lands with genuine recognition. Voice brightens on her name. Quick warmth, no hesitation — meeting an old friend you're genuinely happy to see.",
+      "mood": "delighted_warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "赤ちゃん、元気そうね。",
+      "en": "The baby looks so healthy and happy.",
+      "style": "Soft, genuinely fond gaze downward. Voice softens on 「赤ちゃん」. The cadence of an adult speaking tenderly about something precious. Slow, almost wistful. Not performing — noticing.",
+      "mood": "tender_fond"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おかげさまで、ぐんぐん成長。",
+      "en": "Thanks to you — she's growing so much.",
+      "style": "Proud, gentle warmth. Voice carries the weight of gratitude and quiet joy. Paces the words like she's savoring them. Unrushed, sincere. The pride of a parent who wants to share this with someone who cares.",
+      "mood": "proud_grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "また、ご飯しましょう。",
+      "en": "We should have another meal together sometime.",
+      "style": "Warm invitation, not a courtesy. Slight upward lilt at the end — genuinely looking forward to it. Open and unhurried. The kind of 「また」 that means 'I really do want to see you again.'",
+      "mood": "warm_nostalgic"
+    }
+  ]
+}

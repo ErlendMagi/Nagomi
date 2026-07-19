@@ -1,0 +1,76 @@
+{
+  "id": "conv_03186",
+  "context": "Working through the income section of the form together",
+  "purpose": "Clarify form items; teach 番号/ご覧/承知/事項/お答え/審査",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "事項",
+    "番号",
+    "ご覧",
+    "承知",
+    "お答え",
+    "審査"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "この欄の番号は何を書けばいいですか？",
+      "en": "What number do I write in this field?",
+      "style": "puzzled applicant pointing at the form"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "整理番号をご覧の通り転記してください。",
+      "en": "Copy the reference number just as you see it.",
+      "style": "precise official giving clear instruction, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "承知しました。次の事項は？",
+      "en": "Understood. What is the next item?",
+      "style": "attentive citizen moving methodically, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "収入に関する事項です。",
+      "en": "It is the item regarding income.",
+      "style": "neutral official naming the section, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そこは正直にお答えすべきですね。",
+      "en": "I should answer that honestly, right?",
+      "style": "earnest applicant seeking confirmation, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、正確にお答えください。審査に響きます。",
+      "en": "Yes, answer accurately. It affects the screening.",
+      "style": "firm official stressing the stakes, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "審査は厳しいですか？",
+      "en": "Is the screening strict?",
+      "style": "nervous citizen probing the difficulty, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご覧の書類が揃えば問題ありません。承知の上で進めます。",
+      "en": "If the documents you see are complete, no problem. We proceed knowingly.",
+      "style": "calming official offering measured reassurance, tone holding steady through the whole line"
+    }
+  ]
+}

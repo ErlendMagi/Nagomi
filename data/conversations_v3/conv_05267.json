@@ -1,0 +1,79 @@
+{
+  "id": "conv_05267",
+  "context": "Two managers prep a press handout on a corporate scandal",
+  "purpose": "Teach: 放出/談合/次長/書房/三菱/東芝/ブロガー/ベイ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "放出",
+    "談合",
+    "次長",
+    "書房",
+    "三菱",
+    "東芝",
+    "ブロガー",
+    "ベイ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_265 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "記者向けの資料、明日リリースで間に合う?",
+      "en": "The press materials — can we get them out tomorrow?",
+      "style": "Efficient, slightly pressured. Direct eye contact. No preamble. One beat pause before the question—she's already thinking ahead.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。談合疑惑に関する社内見解、次長承認待ちの段階です。",
+      "en": "Yes. The internal position statement on the collusion allegations is waiting on the deputy director's approval.",
+      "style": "Clear, methodical. Meets her pace. Specific and grounded—facts first, no hedging. Voice stays level and reliable.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "三菱と東芝の対応比較、ブロガーが先に出さないうちに、こちらから発信したい。",
+      "en": "I want to get ahead of the bloggers on the Mitsubishi-Toshiba comparison. Push our version out first.",
+      "style": "Lean forward slightly. Strategic tone—she's thinking three moves ahead. Quiet intensity, not rushed. One sharp consonant on 'ahead.'",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同感です。広報資料は新潮社の論調を意識して、堅めに仕上げました。",
+      "en": "Agreed. I've kept the PR draft tight and formal with Shinchosha's editorial line in mind.",
+      "style": "Assured nod in the voice. Detail-oriented but not defensive. Shows he's been thinking the same way. Warm alliance underneath the professionalism.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "在庫の放出計画は、別添で出そう。本資料に紛れさせない。",
+      "en": "Put the inventory release plan in a separate attachment. Don't let it get lost in the main document.",
+      "style": "Sharp decision-making tone. Almost clipped. Not harsh—just clear about what needs to happen and why. Brief, commanding without being cold.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解。ベイ地区の関連会社にも事前に共有しますか?",
+      "en": "Understood. Should I brief the Bay Area affiliates beforehand?",
+      "style": "Checking the next box. Quiet operational competence. He's already moving to implementation. No performance—just 'what's next?'",
+      "mood": "ready"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "頼む。書房系の刊行物に転載されても問題ないよう、表現は中立で。",
+      "en": "Please do. Keep the language neutral enough that if bookhouse publishers pick it up and reprint it, there's no problem.",
+      "style": "Softer close. Forward-thinking caution. Deliberate pacing—she's thought through the downstream risks. Slight exhale of relief at the end, like 'that covers it.'",
+      "mood": "careful"
+    }
+  ]
+}

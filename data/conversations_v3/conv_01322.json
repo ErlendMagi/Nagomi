@@ -1,0 +1,62 @@
+{
+  "id": "conv_01322",
+  "context": "Asuka helps Sho with a kanji.",
+  "purpose": "teacher-child kanji exchange",
+  "ambient": "classroom_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "頑張る",
+    "勉強",
+    "楽しい",
+    "優しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_066)",
+    "generated_at": "2026-05-27T05:06:03.490Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、漢字、本当、覚えてる。",
+      "en": "Sho-kun, you really are remembering your kanji.",
+      "style": "Warm, genuinely pleased opening. Soft tone with real affection underneath. Steady, unhurried pace. Eyes warm on the child's face, not performing praise but meaning it completely.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張ってる、本当、毎日。",
+      "en": "I'm trying hard — every single day, really.",
+      "style": "Small, earnest voice. Quiet pride without boasting. Slight breathiness on the effort word. Genuine and unguarded, the way children are when they feel safe.",
+      "mood": "sincere_proud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "優しい子、本当、立派。",
+      "en": "You're such a kind child — truly splendid.",
+      "style": "Gentle, real warmth. Not effusive, but deeply meant. Slight pause before the praise lands. Voice steady and clear, the tenderness of recognising something true in someone young.",
+      "mood": "tender_admiring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "勉強、本当、楽しい。",
+      "en": "Learning is really fun.",
+      "style": "Bright small voice, genuine delight not performed. Unhurried, like savoring the feeling. Soft at the edges, the natural rhythm of a six-year-old who means what he says.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、これからも、ね。",
+      "en": "Together, from now on — okay?",
+      "style": "Soft closing warmth. A gentle promise underneath the words, not sentimental but deeply felt. Slight upward lift at the end, inviting agreement. The teacher's quiet commitment made audible.",
+      "mood": "tender_promise"
+    }
+  ]
+}

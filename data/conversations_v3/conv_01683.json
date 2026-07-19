@@ -1,0 +1,75 @@
+{
+  "id": "conv_01683",
+  "context": "Yumiko gently helps Hiroshi-elder draft a letter to a far-away relative.",
+  "purpose": "Wife helping elder husband with personal correspondence.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "手紙",
+    "宛先",
+    "言葉",
+    "届く"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_084)",
+    "generated_at": "2026-05-27T07:11:49.799Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "従兄弟に、手紙書きたい。",
+      "en": "I'd like to write a letter to my cousin.",
+      "style": "Slow, measured opening. Voice settles into warmth. Slight pause after the thought, like the intention is still forming. Kansai inflection throughout—natural, unhurried. Tender beneath the plainness.",
+      "mood": "tender_determined"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、私、手伝うわよ。",
+      "en": "Yes—I'll help you.",
+      "style": "Immediate, gentle assurance. No hesitation. Warm practical tone—the readiness of someone used to being a quiet support. Soft lift at the end, inviting him forward.",
+      "mood": "warm_steady"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "宛先、思い出せん。",
+      "en": "I can't remember the address.",
+      "style": "Softer still. A small admission—not a complaint, just a fact gently placed. Kansai cadence gentle. Pause before speaking, like he's testing the words first. Warmth mixed with quiet vulnerability.",
+      "mood": "gently_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "住所帳、見ましょう。",
+      "en": "Let's look at the address book.",
+      "style": "Practical and immediate, but not brisk. Matter-of-fact kindness—suggesting the next small step like she's already thought it through. Warm tone, no edge. Moves forward without fuss.",
+      "mood": "capable_gentle"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "言葉、何書いたらええかな。",
+      "en": "What words should I write, I wonder?",
+      "style": "Soft, almost conversational uncertainty. Not seeking reassurance, more thinking aloud. Kansai warmth in the phrasing. Slight hesitation on the question itself—genuine wondering, not anxiety. Voice stays quiet and open.",
+      "mood": "seeking_honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "心、そのまま書けば届くわ。",
+      "en": "The heart—if you write it as it is, it will reach him.",
+      "style": "Quiet certainty. Not lecturing—offering a simple truth like it's obvious once you think about it. Tender without being soft. Voice stays steady and knowing. Slight emphasis on 「心」 in the weight, not loudness.",
+      "mood": "wise_assured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、おまえの言う通りや。",
+      "en": "Yeah—you're right.",
+      "style": "Warm recognition. Not deflating—the quiet contentment of hearing something you already half-knew from someone you trust. Kansai inflection lands soft. Slight nod in the voice, grateful and settled.",
+      "mood": "relieved_grateful"
+    }
+  ]
+}

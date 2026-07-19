@@ -1,0 +1,78 @@
+{
+  "id": "conv_05054",
+  "context": "A uni student interviews a retired social worker at home",
+  "purpose": "Teach: うつ病/生息/虚偽/発する/挫折/成り立つ/一角/掲げる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "うつ病",
+    "生息",
+    "虚偽",
+    "発する",
+    "挫折",
+    "成り立つ",
+    "一角",
+    "掲げる"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。卒論で「地域福祉が成り立つ条件」というテーマを掲げているんです。",
+      "en": "Thank you for your time today. For my thesis, I've raised the theme of 'conditions under which community welfare is established.'",
+      "style": "Polite, slightly nervous student opening the interview respectfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、こんな年寄りでよければ。現役の頃はね、街の一角にある小さな相談所で四十年働いてきたんですよ。",
+      "en": "No, no, if an old man like me is good enough. In my working days, I spent forty years at a small counseling office on a corner of the town.",
+      "style": "Warm elderly tone, humble and reflective about his career."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "四十年ですか。その間、利用者の方でうつ病を抱えた方も多かったのでしょうか。",
+      "en": "Forty years? During that time, were there many users who struggled with depression?",
+      "style": "Curious student probing carefully into sensitive territory."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、年々増えましてね。仕事の挫折をきっかけに来られる方が本当に多かった。SOSを発する勇気すら出ない人もいてね。",
+      "en": "Yes, the numbers grew year by year. Many came after a setback at work. Some couldn't even muster the courage to send out an SOS.",
+      "style": "Somber, weighty reflection on years of casework."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "難しい現場ですね。中には虚偽の申告をして支援を受けようとする人もいたのではないですか。",
+      "en": "That sounds like difficult fieldwork. Weren't there also people who filed false claims trying to receive support?",
+      "style": "Earnest, slightly probing follow-up question from researcher."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろんありました。でもね、虚偽だと決めつける前に、なぜそうせざるを得なかったか考えるのが私らの仕事でした。人は生息する環境次第で、いくらでも変わるものだから。",
+      "en": "Of course there were. But before branding something as a lie, considering why they were driven to it was our job. People can change depending on the environment they live in.",
+      "style": "Thoughtful, philosophical, gently correcting the student's framing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど…生息する環境、ですか。胸に刻みます。最後に、これから福祉をめざす学生に一言いただけますか。",
+      "en": "I see... the environment they live in. I'll engrave that in my heart. Lastly, could you give a word to students aiming for welfare work?",
+      "style": "Moved, sincere, wrapping up the interview with respect."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "立派な理想を掲げるのもいいが、まずは目の前の一人と向き合うこと。それが福祉が成り立つ唯一の出発点だと、私は思いますよ。",
+      "en": "Holding up grand ideals is fine, but first face the one person in front of you. That, I believe, is the only starting point on which welfare stands.",
+      "style": "Gentle, fatherly advice delivered with quiet conviction."
+    }
+  ]
+}

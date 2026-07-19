@@ -1,0 +1,97 @@
+{
+  "id": "conv_00087",
+  "context": "A small rural train station. Riku is sitting on a bench at 11am — clearly should be in school. An older country man (Tatsuya) sits down beside him.",
+  "purpose": "unexpected mentor — country stillness brushes up against urban teen turmoil",
+  "ambient": "train_station_day",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "学校",
+    "大丈夫",
+    "ない"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "…(sits, silence)いい天気やな。",
+      "en": "(sits, silence) Fine weather, eh.",
+      "style": "A whole comfortable silence before this. Tohoku cadence.",
+      "mood": "tohoku_open"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…そうですね。",
+      "en": "…Yes.",
+      "style": "Polite mumbled deflection. Eyes on his phone.",
+      "mood": "mumbled_polite"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "学校、休みか。",
+      "en": "School off, then?",
+      "style": "Plain question. No accusation in the voice.",
+      "mood": "plain_open"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(silence)",
+      "en": "(silence)",
+      "style": "A real beat. The lie too hard to tell.",
+      "mood": "lie_too_hard"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん。…時々、そういう日もあるな。",
+      "en": "Mm. …Sometimes there are days like that.",
+      "style": "A small philosophy with no judgment.",
+      "mood": "no_judgment"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…本当に？",
+      "en": "…Really?",
+      "style": "Looks up briefly. Voice cracks half a step.",
+      "mood": "looking_up"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "本当に。…大丈夫やで、たまになら。",
+      "en": "Truly. …Now and then is fine.",
+      "style": "A small gift of permission. Real Tohoku warmth.",
+      "mood": "gift_permission"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(small breath)",
+      "en": "(small breath)",
+      "style": "A real beat. The teen-armor lifting a half-step.",
+      "mood": "armor_lifting"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "でもな。明日は、行きや。今日だけ。",
+      "en": "But — tomorrow, go. Just today.",
+      "style": "A small firm closing line — voice carries the moment fully.",
+      "mood": "firm_closing"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…うん。ありがとう。",
+      "en": "…Mm. Thanks.",
+      "style": "A small honest line. Voice quieter than the opener.",
+      "mood": "honest_quiet"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02574",
+  "context": "Saito advises a patient on rest and the body.",
+  "purpose": "WIDENED SCENARIO: medical advice; clinical vocabulary (身体/脳/感覚/いれ/求める) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "身体",
+    "脳",
+    "感覚",
+    "いれ",
+    "求める"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_129)",
+    "generated_at": "2026-05-29T13:12:58.567Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "身体は元気なのに、頭が重いんです。",
+      "en": "My body's fine, but my head feels heavy.",
+      "style": "tired office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "脳が、休みを求めている感覚ですね。",
+      "en": "It's the sense that your brain seeks rest.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "身体と脳は、別なんですか?",
+      "en": "Are body and brain separate?",
+      "style": "curious office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、別の感覚として現れます。",
+      "en": "Yes, they appear as different sensations.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "力を入れすぎていたかもしれません。",
+      "en": "I may have been pushing too hard.",
+      "style": "reflective office woman voice, soft warm honest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "時には、力を抜く感覚も大切です。",
+      "en": "Sometimes the feeling of relaxing matters too.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "脳に、休みを入れてあげます。",
+      "en": "I'll give my brain some rest.",
+      "style": "understanding office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "身体が求める声を、聞いて下さいね。",
+      "en": "Please listen to what your body asks for.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

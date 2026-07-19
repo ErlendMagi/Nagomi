@@ -1,0 +1,86 @@
+{
+  "id": "conv_08874",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 晒さ/信奉/軒並み/制圧/編纂/標榜/帰化/枯渇",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "晒さ",
+    "信奉",
+    "軒並み",
+    "制圧",
+    "編纂",
+    "標榜",
+    "帰化",
+    "枯渇"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_445 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者情報が外部に晒される事のないよう、医療チームで徹底します",
+      "en": "Ren, we ensure patient information never leaves this hospital. The medical team takes that responsibility seriously.",
+      "style": "Steady, composed opening. Clear commitment without overstatement. Direct eye contact level. Shoulders settled. A doctor delivering a promise, not a threat.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、特定の療法を信奉する患者さんへの対応を医療チームで研修します",
+      "en": "We'll also train the team on how to work with patients who hold strong beliefs about specific treatments.",
+      "style": "Measured, professional. Slight warmth underneath — not dismissing patient beliefs, but acknowledging the complexity. Even pacing. Grounded.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域の診療所が軒並み閉鎖された事を、貴院、心配されてますね、先生",
+      "en": "I've noticed your hospital seems concerned about all the local clinics shutting down, Doctor.",
+      "style": "Thoughtful, carefully observant. Not accusatory — genuinely curious. Slight pause before 'shutting down,' like he's registering the weight of it. Respectful distance in the phrasing.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、感染症を制圧する取り組みを医療チームで続けます",
+      "en": "We'll continue working to bring infectious disease under control. That's part of our commitment to the community.",
+      "style": "Steady repeat of the foundational tone. Neither defensive nor defensive-sounding. Professional continuity. Slight emphasis on 'commitment' — not selling it, just stating it.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医学史を編纂する作業を、貴院、なさってるそうですね、先生",
+      "en": "So your hospital is working on compiling medical history? That's an interesting project, Doctor.",
+      "style": "Genuine curiosity, respectful. Voice lifts slightly on 'interesting' — not flattery, just recognition. Leans in slightly with the question. Third-hour-conversation energy.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、地域医療を標榜する病院として責任を持ちます",
+      "en": "As a hospital dedicated to community medicine, we have a responsibility to document this. That's part of what we do.",
+      "style": "Calm, grounded conviction. 'Responsibility' lands with quiet weight. No apology, no overreach — just stating what matters. Slow enough to be heard.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "帰化された外国人医師との連携を、貴院、強化されてますね、先生",
+      "en": "I've also heard you're strengthening your partnerships with naturalized foreign physicians. That's smart.",
+      "style": "Observant, impressed. Light recognition in 'smart.' Ren is noticing something good here, respectfully. Slightly warmer than previous observations. Still thoughtful pacing.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療資源の枯渇に備えた計画を医療チームで進めます",
+      "en": "We're planning ahead for resource constraints. The medical team is working on that now, and it matters.",
+      "style": "Quiet firmness closing a conversation. No trailing energy — land on 'matters' with gentle finality. Tired shoulders, steady voice. The doctor who knows what's coming and is preparing anyway.",
+      "mood": "weary_determined"
+    }
+  ]
+}

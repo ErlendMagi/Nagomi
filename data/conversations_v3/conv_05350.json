@@ -1,0 +1,72 @@
+{
+  "id": "conv_05350",
+  "context": "A police officer briefs a uni reporter about budget compliance",
+  "purpose": "Teach: 出願/支払っ/割り当て/閣議/即座/創立/書記/税理士",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出願",
+    "支払っ",
+    "割り当て",
+    "閣議",
+    "即座",
+    "創立",
+    "書記",
+    "税理士"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_269 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、書記課で文書管理しています。",
+      "en": "This case is handled by the secretariat. Document management is their responsibility.",
+      "style": "Even, professional delivery. No rush. Sits comfortably with the statement—matter-of-fact but not dismissive. Steady eye contact, the confidence of someone who knows the system.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "閣議決定後の予算は、即座に各部署に割り当てされるんですか。",
+      "en": "After cabinet decisions, are budgets allocated to each section right away?",
+      "style": "Careful, thoughtful inquiry. Slight lean forward—genuinely interested, not just performing politeness. Measured pace. The tone of someone asking because they want to understand, not to challenge.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。税理士との連携で、支払っ手続きまで一気通貫です。",
+      "en": "Yes. Through coordination with our tax accountant, the entire payment process runs seamlessly from start to finish.",
+      "style": "Assured, unhurried. Light emphasis on the continuity—「一気通貫」—as if showing something well-oiled. Warm but official. The tone of someone who trusts the system and is confident explaining it.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "創立以来の慣例も残っているんですよね。",
+      "en": "Traditions from the founding era are still in place too, aren't they?",
+      "style": "Soft, perceptive probe. Not challenging—inviting confirmation. Slight upward inflection at the end like he's piecing things together out loud. Respectful of the continuity he's sensing.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。特許出願関連は、特に伝統的な様式を踏襲しています。",
+      "en": "That's right. Patent-related filings in particular—we maintain the traditional procedures quite strictly.",
+      "style": "Precise, measured. Slight warmth on acknowledging the question showed insight. No condescension. The tone of someone who respects that he's following the logic. Clear but not lecturing.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になりました。ありがとうございます。",
+      "en": "That was really helpful. Thank you so much.",
+      "style": "Genuine gratitude without overdoing it. Slight nod in the voice. Warm but not effusive—the respect of a younger person for someone who gave real time and clear answers. Quiet sincerity.",
+      "mood": "grateful"
+    }
+  ]
+}

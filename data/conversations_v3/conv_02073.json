@@ -1,0 +1,79 @@
+{
+  "id": "conv_02073",
+  "context": "Naoko cleans the shop in early morning; teaches Aoi technique.",
+  "purpose": "Veteran teaching cleaning technique to younger.",
+  "ambient": "ramen_shop_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "掃除",
+    "洗濯",
+    "油",
+    "汗",
+    "丁寧",
+    "毎回",
+    "習慣",
+    "改善"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_104)",
+    "generated_at": "2026-05-27T13:06:31.755Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "蒼ちゃん、掃除、丁寧にやで。",
+      "en": "Aoi-chan, do the cleaning carefully, yeah?",
+      "style": "Bright, direct Kansai accent. Teaching tone without condescension. Warm firmness on the instruction. A little lean-in, like she's passing down something that matters.",
+      "mood": "affectionate_instructive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、油、ようけ落ちました。",
+      "en": "Yes — the oil came off pretty well.",
+      "style": "Soft, attentive voice. Gentle pride in reporting the work done right. A slight lift at the end, seeking quiet approval. Dutiful but not strained.",
+      "mood": "earnest_pleased"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "汗かいて、頑張ってるね。",
+      "en": "You're sweating — you're really going at it.",
+      "style": "Warm Kansai affection underneath. Noticing, appreciating the effort without making a big show of it. Soft laugh in the voice. Pride that sits easy.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "洗濯、毎回、決まったやり方で?",
+      "en": "So... do you always wash the same way each time?",
+      "style": "Curious, genuine question. Soft voice, leaning in to understand. Not interrogating — wanting to learn what Naoko knows. A little tentative, respectful.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おう、習慣にしたら、楽や。",
+      "en": "Yeah, if you make it a habit, it gets easier.",
+      "style": "Calm, matter-of-fact Kansai wisdom. Not lecturing — just sharing something true from experience. Slow, settled pace. Like she's tending something.",
+      "mood": "grounded_wise"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "改善、続けて、頑張ります。",
+      "en": "I'll keep working on getting better at this.",
+      "style": "Quiet commitment. Warm, earnest tone. Steady resolve without strain. A small nod in the voice — taking the lesson in, making it her own.",
+      "mood": "determined_grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ふふ、ええ職人になるで!",
+      "en": "Ha — you're gonna make a fine craftsperson!",
+      "style": "Bright, genuine pride. Kansai warmth blooming. A tender laugh underneath. Not flattering — observing something real she sees in Aoi. Encouraging, tender.",
+      "mood": "proud_tender"
+    }
+  ]
+}

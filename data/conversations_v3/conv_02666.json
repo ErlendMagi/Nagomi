@@ -1,0 +1,75 @@
+{
+  "id": "conv_02666",
+  "context": "Kenji advises Ren on a cautious work decision.",
+  "purpose": "WIDENED SCENARIO: work chat; adverbs (むしろ/それでも/一応/おそらく/少なくとも) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "むしろ",
+    "それでも",
+    "一応",
+    "おそらく",
+    "少なくとも"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_134)",
+    "generated_at": "2026-05-29T13:41:46.166Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この案、進めて大丈夫でしょうか?",
+      "en": "Is it okay to go ahead with this plan?",
+      "style": "cautious young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "むしろ、慎重に進めた方がいいですよ。",
+      "en": "Rather, it's better to proceed carefully.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも、締め切りは迫っています。",
+      "en": "Even so, the deadline is near.",
+      "style": "concerned young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一応、上司に確認しておきましょう。",
+      "en": "Let's check with the boss just in case.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "おそらく、許可は下りますよね?",
+      "en": "Permission will probably come, right?",
+      "style": "hopeful young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "少なくとも、相談する価値はあります。",
+      "en": "At least it's worth consulting.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも、不安は残りますね。",
+      "en": "Even so, some worry remains.",
+      "style": "honest young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "むしろ、その慎重さが大事ですよ。",
+      "en": "Rather, that caution matters.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

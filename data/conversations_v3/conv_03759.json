@@ -1,0 +1,84 @@
+{
+  "id": "conv_03759",
+  "context": "A doctor reassures a worried parent about a child's normal test results",
+  "purpose": "Teach: 悪かっ/むずかしい/親戚/正常/パーティ/イヤ/引退/衛生",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "悪かっ",
+    "むずかしい",
+    "親戚",
+    "正常",
+    "パーティ",
+    "イヤ",
+    "引退",
+    "衛生"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_188 wdyqj1q3f)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、結果を見るまで本当に怖くて…悪かったらどうしようって、ずっと考えていました。",
+      "en": "Doctor, I was so scared until we saw the results... I kept thinking, what if something was wrong.",
+      "style": "Anxious mother, voice slightly trembling, formal polite register, leaning forward"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お気持ちはわかります。でも安心してください、検査の数値はすべて正常でした。",
+      "en": "I understand how you feel. But please relax, all of the test values came back normal.",
+      "style": "Calm reassuring doctor, gentle even tone, measured pace, warm professional warmth"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当ですか…実は親戚に同じくらいの子が入院したばかりで、悪い想像ばかりしてしまって。",
+      "en": "Really...? Actually, a relative's child of the same age was just hospitalized, so I kept imagining the worst.",
+      "style": "Relieved but still shaky, soft exhale midway, confiding tone, slightly faster"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど、そういう事情があったんですね。説明がむずかしい部分もありますが、心配いりません。",
+      "en": "I see, that's the background then. Some parts are hard to explain simply, but there's nothing to worry about.",
+      "style": "Empathetic and patient, nodding tone, slower for the explanation, reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あの子、病院がイヤで朝から泣いていたんです。来るのを嫌がって大変で。",
+      "en": "She hated coming to the hospital and was crying since morning. Getting her here was a real struggle.",
+      "style": "Maternal fond exasperation, small relieved laugh, conversational warmth, lighter now"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子どもさんには本当によく頑張ったと伝えてあげてください。手洗いなど衛生に気をつけていれば、もう特別なことは必要ありません。",
+      "en": "Please tell her she did really well. As long as you mind hygiene like handwashing, nothing special is needed anymore.",
+      "style": "Encouraging closing tone, practical advice cadence, kind smile audible, steady"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます。週末に小さな誕生日パーティを予定していて、行かせていいか迷っていました。",
+      "en": "Thank you so much. We have a small birthday party planned this weekend, and I was wondering whether to let her go.",
+      "style": "Lighter now, hopeful rising intonation, gratitude clear, slightly faster"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、楽しんできて大丈夫ですよ。私もそろそろ引退が近い年ですが、元気なお子さんを見ると嬉しくなります。",
+      "en": "Yes, she can absolutely go and enjoy it. I'm getting close to retirement myself, but seeing healthy children always lifts my mood.",
+      "style": "Warm chuckle, paternal kindness, conversational closing, unhurried sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生にそう言っていただけて、本当に救われました。私が悪かったかもって責めていたので…",
+      "en": "Hearing that from you, doctor, really saves me. I had been blaming myself, wondering if I'd done something wrong.",
+      "style": "Voice breaking softly with relief, quiet gratitude, slower heartfelt delivery"
+    }
+  ]
+}

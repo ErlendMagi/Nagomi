@@ -1,0 +1,86 @@
+{
+  "id": "conv_06673",
+  "context": "A doctor discusses chronic patients",
+  "purpose": "Teach: 悩まさ/東側/闘病/口論/丹/いとう/づらく/粗",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "悩まさ",
+    "東側",
+    "闘病",
+    "口論",
+    "丹",
+    "いとう",
+    "づらく",
+    "粗"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_335 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんが慢性疾患に悩まされる現状、深刻です。",
+      "en": "Ren, the reality is serious — patients struggling with chronic illness day after day.",
+      "style": "Clear, measured opening. Clinical precision but not cold. Slight pause before the weight lands. Steady eye contact. The voice of someone who has delivered difficult truths many times and does it with care.",
+      "mood": "grave_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病院の東側病棟、最近、改装されたんですね。",
+      "en": "The east wing of the hospital — it was renovated recently, wasn't it?",
+      "style": "Genuine curiosity, not deflection. Quiet observation. A small reaching-forward in the tone. He's noticing something real about the space and testing whether it matters.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。闘病中の方々、心の支え、必要です。",
+      "en": "Yes. People fighting illness need emotional support. Real support.",
+      "style": "Unhurried, direct. The word 'real' lands with quiet weight — she's not theorizing. Warm but uncompromising. The voice of someone speaking from twenty years of seeing what people actually need.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医師同士で、治療方針について、口論になることも、ありますか。",
+      "en": "Do doctors ever argue about treatment plans with each other?",
+      "style": "Careful probe forward. Not accusatory — genuinely asking. A small hesitation before the question, like he's checking whether it's okay to ask. Respectful, not deferential.",
+      "mood": "searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。丹念な問診、最初の鍵、開けてくれます。",
+      "en": "Yes. A thorough, patient intake — that's what opens the first door.",
+      "style": "Settled, experienced tone. The certainty of someone who has seen this work. Slight emphasis on 'thorough' — not rushed, not clever, just deep listening. Quiet conviction.",
+      "mood": "knowing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "看護師の方々、労をいとうことなく、患者を支えていらっしゃいますね。",
+      "en": "The nurses here — they don't shy away from the hard work. They show up for their patients.",
+      "style": "Soft appreciation underneath. Not praising for effect — noticing something true. Slight warm rise in the middle, then settling. The tone of someone watching something difficult done well.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。診察、最初は、患者さん、話しづらく感じていらっしゃいます。",
+      "en": "Yes. Most patients feel hesitant to speak freely at first. They need time.",
+      "style": "Patient, grounded. Recognition in the voice — she's heard the silence of a first exam. Slight downward slope at the end, like settling into acceptance. Not fixing, understanding.",
+      "mood": "tender_knowing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療制度の粗削りな部分、改善が、必要ですね。",
+      "en": "The healthcare system has rough edges. Those edges need smoothing.",
+      "style": "Thoughtful close. Slow, deliberate pace. Not bitter — realistic. The tone of someone who sees the problem clearly and holds it without despair. Final phrase trails with quiet resolve.",
+      "mood": "clear_weary"
+    }
+  ]
+}

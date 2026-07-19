@@ -1,0 +1,127 @@
+{
+  "id": "conv_00125",
+  "context": "Hiroshi (the boss) has unexpectedly come to visit Hiroshi (his father, the retired professor) on a weeknight. The father pours tea slowly.",
+  "purpose": "father-son evening visit — composed son slowly admitting tiredness",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "大丈夫",
+    "仕事",
+    "少し",
+    "大切",
+    "一緒"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "父さん、夜分にすまない。",
+      "en": "Dad — sorry for calling so late.",
+      "style": "Quiet, composed apology at the threshold. Voice steady but carrying the weight of the visit. A man asking permission to unburden.",
+      "mood": "weary_respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いえ、いつでも。お茶でも飲んでいきなさい。",
+      "en": "No — anytime. Come in. Have some tea.",
+      "style": "Slow, unhurried welcome. The voice of someone who has been waiting for this. Sets cup down without ceremony.",
+      "mood": "steady_welcoming"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "…(sits, exhales)",
+      "en": "(sits, exhales deeply)",
+      "style": "A full release held in one breath. The body lets go before words can. Tie loosens in the silence.",
+      "mood": "surrender"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "仕事、今日も長かったか。",
+      "en": "Work — long again today?",
+      "style": "Small, careful question. Voice pitched low, almost conspiratorial. The kind of asking that says: I'm listening, take your time.",
+      "mood": "gentle_attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まあな。…本当に、最近、何も考えられない。",
+      "en": "Yeah. …Honestly, I can't seem to think about anything anymore.",
+      "style": "Unguarded admission under controlled breath. Voice tires on the confession. A rare crack in the composed exterior.",
+      "mood": "exhausted_lost"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。…そういう時期、誰にもある。",
+      "en": "Mm. …Everyone has a phase like that.",
+      "style": "Grounded normalization delivered with full presence. No rush. The voice anchors the moment without minimizing it.",
+      "mood": "knowing_calm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "父さんは、どう乗り越えた？",
+      "en": "Dad — how did you get through it?",
+      "style": "Rare directness from him. The question comes from genuine need, not performance. Voice slightly lower, asking as a person, not as a manager.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "…(pause) 少し、立ち止まる。本当に、少しだけ。",
+      "en": "…(pause) You stop a little. Really — just a little.",
+      "style": "Considered answer after real silence. Slow, measured delivery. Each word weighted. The voice of someone who has lived this answer.",
+      "mood": "wise_deliberate"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "止まる、か。",
+      "en": "Stop, huh.",
+      "style": "Small repetition — he's tasting the word, testing its shape. Voice turns inward. Not skeptical, but wondering if it's possible.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "今、一週間でも、お茶飲んで、本読んで。",
+      "en": "Even a week right now. Drink tea, read books. Nothing else.",
+      "style": "Practical wisdom delivered simply. Voice carries gentle firmness — not a suggestion, but a gift offered with steady conviction.",
+      "mood": "grounded_caring"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一週間、本当に取れるかな…",
+      "en": "A whole week — I don't know if I can actually take that.",
+      "style": "Doubtful half-laugh, genuine and unforced. The practicality wars with the longing. Voice catches slightly on the doubt.",
+      "mood": "uncertain_hopeful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "取りなさい。時間は、本当に、大切。",
+      "en": "Take it. Time really does matter.",
+      "style": "Firm-soft directive with the weight of lived experience behind it. Voice steady, patient, unshakeable. Not negotiable, but said with love.",
+      "mood": "firm_wise"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "…(small breath) ありがとう、父さん。",
+      "en": "…(small breath) Thank you, Dad.",
+      "style": "Gratitude catches in the throat. Small breath before speaking. Voice softens completely — the vulnerability of real thanks.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もう一杯、飲んでいきなさい。",
+      "en": "Have another cup before you go.",
+      "style": "Closing gesture without closure. Voice warm, practical. Pours again — the conversation continues in the silence of tea.",
+      "mood": "tender"
+    }
+  ]
+}

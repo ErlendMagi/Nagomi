@@ -1,0 +1,62 @@
+{
+  "id": "conv_01276",
+  "context": "Asuka praises Hina's painting in art class.",
+  "purpose": "teacher-child art-praise exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "絵",
+    "一緒",
+    "頑張る",
+    "楽しい",
+    "優しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_064)",
+    "generated_at": "2026-05-27T04:52:28.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ひなちゃん、絵、本当、立派。",
+      "en": "Hina-chan, this picture is really wonderful.",
+      "style": "Warm, genuine appreciation in the opening. Soft, present tone. Eyes on the drawing, not the child yet. Pause before the final word—letting it land with real meaning, not just praise.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "頑張った、本当に。",
+      "en": "I really did try hard.",
+      "style": "Bright, genuine pride in her own effort. Quick, eager energy. The kind of certainty that comes from a child who knows she put something into it. No hesitation.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "色、本当、優しい、ね。",
+      "en": "The colors are so gentle, aren't they.",
+      "style": "Soft observation, not instruction. Leaning in slightly to look closer. Genuine curiosity in the voice, as though noticing it fresh. Warm, unhurried pace.",
+      "mood": "tender_noticing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、楽しい、本当。",
+      "en": "It was really fun doing it together.",
+      "style": "Small, warm voice. The kind of quiet contentment a child makes when she's being truly heard. Slight lift at the end—not a question, but an offering of shared memory.",
+      "mood": "warmly_satisfied"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "感謝、本当、いつも。",
+      "en": "I'm truly grateful for you—always.",
+      "style": "Steady, measured warmth. Eyes on the child now. The tone of someone who means what she's saying all the way through. Quiet at the end, like she's offering something she rarely says aloud.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

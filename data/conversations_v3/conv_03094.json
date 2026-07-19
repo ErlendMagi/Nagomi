@@ -1,0 +1,75 @@
+{
+  "id": "conv_03094",
+  "context": "Kenji helps Ren digitize application records.",
+  "purpose": "WIDENED SCENARIO: office task; vocabulary (申請/実績/決算/免許/区別) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申請",
+    "実績",
+    "決算",
+    "免許",
+    "区別"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_155)",
+    "generated_at": "2026-05-29T15:49:33.455Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "申請の書類を、電子化したいんです。",
+      "en": "I want to digitize the application documents.",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "決算の記録と、分けて保存しましょう。",
+      "en": "Let's store them separate from the accounts.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "実績の資料も、含めますか?",
+      "en": "Do we include the performance data too?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "実績は、別のフォルダに区別します。",
+      "en": "Performance goes in a separate, distinguished folder.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "免許の情報も、保存しますか?",
+      "en": "Do we save license info too?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "免許は、安全に区別して管理します。",
+      "en": "Licenses are managed separately and securely.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "申請が、楽になりそうです。",
+      "en": "Applications should get easier.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "区別して保存すれば、決算も速いですよ。",
+      "en": "If stored distinguished, the accounts go faster too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

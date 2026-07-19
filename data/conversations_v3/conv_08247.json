@@ -1,0 +1,86 @@
+{
+  "id": "conv_08247",
+  "context": "Two managers chat",
+  "purpose": "Teach: 参事官/占有/便宜/納付/受託/公然/始動/散会",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参事官",
+    "占有",
+    "便宜",
+    "納付",
+    "受託",
+    "公然",
+    "始動",
+    "散会"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_414 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、業界団体の参事官と意見交換しましょう",
+      "en": "Let's set up a consultation with the industry association representatives.",
+      "style": "Clear, purposeful opening. Brisk pace, forward momentum. No hesitation—this is a settled agenda item. Professional and direct.",
+      "mood": "business_focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事務所の占有率を改善します",
+      "en": "Yes. We'll improve our office space utilization.",
+      "style": "Responsive and aligned. Steady delivery matching her pace. Brief but engaged—acknowledging and committing without overexplaining.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お得意様への便宜供与は記録に残しましょう",
+      "en": "Let's make sure we document any client accommodations in the record.",
+      "style": "Measured, procedural tone. Slight emphasis on 'document'—this is about accountability, not punishment. Professional concern underneath.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労働保険の納付を完了しました",
+      "en": "Yes. We've completed the labor insurance payments.",
+      "style": "Factual completion. Light satisfaction—a task handled. Calm, efficient delivery. No elaboration needed.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新規受託案件を社員に共有しましょう",
+      "en": "Let's share the new client project details with the team.",
+      "style": "Clear directive. Steady, inclusive tone—this involves everyone. Professional but not cold. A moment of alignment.",
+      "mood": "inclusive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新店舗の公然たる開店イベントを企画しました",
+      "en": "Yes. I've arranged the grand opening event for the new location.",
+      "style": "Slightly warmer here—there's concrete work to report. Delivered with quiet confidence. Professional pride in execution.",
+      "mood": "accomplished"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、新プロジェクトを始動しましょう",
+      "en": "All right. Let's get the new initiative moving.",
+      "style": "Moment of commitment. Slightly slower than her opening—this signals a shift, an activation. Resolved and forward-looking.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。先ほどの会議、無事散会できました",
+      "en": "Yes. The meeting wrapped up without any issues.",
+      "style": "Closing note. Calm, settled tone. Light relief—the day's logistics are complete. Final statement of alignment before closing out.",
+      "mood": "settled"
+    }
+  ]
+}

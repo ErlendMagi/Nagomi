@@ -1,0 +1,78 @@
+{
+  "id": "conv_03886",
+  "context": "A student journalist profiles a senior software engineer about daily tools",
+  "purpose": "Teach: パスワード/電源/キーボード/ディスク/端末/ウェブ/ケーブル/自動的",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "パスワード",
+    "電源",
+    "キーボード",
+    "ディスク",
+    "端末",
+    "ウェブ",
+    "ケーブル",
+    "自動的"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "お忙しいところすみません。学生新聞の取材で、普段使っている業務端末について少し伺ってもいいですか。",
+      "en": "Sorry to bother you. For the student paper, may I ask about the work terminal you use daily?",
+      "style": "Polite student journalist opening an interview respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいよ。朝はまず端末の電源を入れて、パスワードを打ち込むところから一日が始まるんだ。",
+      "en": "Sure. My morning begins by turning on the terminal and entering my password.",
+      "style": "Calm experienced engineer describing a familiar routine."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "キーボードはこだわりがありそうですね。すごく静かなものを使っていらっしゃる。",
+      "en": "You seem particular about your keyboard, that one looks remarkably quiet.",
+      "style": "Curious observational follow-up from a younger reporter."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、夜の作業が多いので静音タイプを選んでいます。机の裏のLANケーブルも自分で整えました。",
+      "en": "Yes, I work late so I chose silent keys, and I tidied the LAN cable behind the desk myself.",
+      "style": "Reflective senior engineer sharing small workplace habits."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ディスク容量とか、データの保存はどうされているんでしょうか。",
+      "en": "I see. How do you handle disk capacity and saving your data?",
+      "style": "Technically curious question pressing for deeper detail."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社内のウェブツールが自動的にバックアップしてくれるので、もうローカルには頼っていません。",
+      "en": "An internal web tool backs everything up automatically, so I no longer rely on local storage.",
+      "style": "Matter-of-fact explanation from a seasoned professional."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "便利ですね。最後に、若いエンジニアへ一言いただけますか。",
+      "en": "How convenient. Finally, could you offer a word to younger engineers?",
+      "style": "Warm closing question wrapping up the interview gently."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "道具はただの道具です。電源を切った後に何を考えているか、そこが結局一番大事ですよ。",
+      "en": "Tools are just tools. What you think about after the power is off matters most.",
+      "style": "Thoughtful philosophical advice closing a mentor-like exchange."
+    }
+  ]
+}

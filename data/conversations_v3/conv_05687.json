@@ -1,0 +1,65 @@
+{
+  "id": "conv_05687",
+  "context": "Two managers discuss a relocation project",
+  "purpose": "Teach: 市役所/フロア/洗練/ハードディスク/大物/スマート/本題/紙面",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市役所",
+    "フロア",
+    "洗練",
+    "ハードディスク",
+    "大物",
+    "スマート",
+    "本題",
+    "紙面"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "本題のフロア配置、市役所と最終確認したい。",
+      "en": "We need to finalize the floor layout with city hall.",
+      "style": "All business. Crisp opening, moving through checklist items. Not brusque—competent. The pace of someone tracking three things at once and hitting each one cleanly.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。洗練されたエントランス案、決裁待ちです。",
+      "en": "Right. The refined entrance proposal is waiting for approval.",
+      "style": "Steady, supportive. Confirming the action item without ceremony. Slight lift at the end—ready for the next one. Professional warmth, not performance.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ハードディスクは廃棄方針も決めて。",
+      "en": "And decide on the hard-disk disposal policy too.",
+      "style": "Efficient. Short, direct, no wasted breath. Not unkind—just adding the next line item to the list. Quick downbeat on the instruction.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大物のIT顧問にもスマートな助言を頂きました。",
+      "en": "We've already gotten smart guidance from a senior IT consultant on that.",
+      "style": "Reporting back. Calm competence. Light emphasis on 'already'—showing the groundwork is done. Small note of accomplishment, kept professional.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "地元紙面、好意的に取り上げてくれるとありがたい。",
+      "en": "If the local press gives it favorable coverage, that would be helpful.",
+      "style": "Closing thought. Slight softening from the checklist pace—more reflective. Not a demand, more a quiet hope. Trailing slightly, as if considering what comes next.",
+      "mood": "hopeful"
+    }
+  ]
+}

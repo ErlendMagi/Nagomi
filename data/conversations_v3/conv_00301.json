@@ -1,0 +1,69 @@
+{
+  "id": "conv_00301",
+  "context": "Yumiko brings Hina to Aoi's cafe for the first time. Aoi greets the child gently.",
+  "purpose": "small barista-child kindness — third-place adult welcoming new young customer",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "いらっしゃい",
+    "お子様",
+    "ジュース",
+    "可愛い",
+    "初めて"
+  ],
+  "cast": [
+    "aoi_barista",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_015)",
+    "generated_at": "2026-05-26T20:40:58.862Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。可愛いお客様ですね。",
+      "en": "Welcome. Such cute customers.",
+      "style": "Soft dreamy barista warm gentle child-attentive welcoming, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-welcoming"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "こんにちは！初めて来た！",
+      "en": "Hello! First time here!",
+      "style": "High child bright eager community-warm sharing, the soft real real-childish-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "brightly-eager"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お子様用のジュース、ありますよ。",
+      "en": "We have juice for kids.",
+      "style": "Soft dreamy barista warm gentle helpful offering, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-offering"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "やったー！オレンジある？",
+      "en": "Yay! Is there orange?",
+      "style": "High child bright eager pleased asking, the soft real real-childish-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "eagerly-bright"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もちろん。お母さんは、いつものでいいですか？",
+      "en": "Of course. For mother, the usual?",
+      "style": "Soft dreamy barista warm gentle warm-confirming knowing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、お姉さん！",
+      "en": "Thank you, big sister!",
+      "style": "High child bright warm sincere child-thanks, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-bright"
+    }
+  ]
+}

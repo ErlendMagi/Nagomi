@@ -1,0 +1,72 @@
+{
+  "id": "conv_05415",
+  "context": "A doctor explains chronic disease management to a teen",
+  "purpose": "Teach: 干渉/内面/摩擦/葛藤/量的/見地/末期/糖尿",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "干渉",
+    "内面",
+    "摩擦",
+    "葛藤",
+    "量的",
+    "見地",
+    "末期",
+    "糖尿"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_272 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、糖尿病の予防、若いうちから大事ですよ。",
+      "en": "Sakura, preventing diabetes is something you need to think about now, while you're young.",
+      "style": "Warm, measured opening. Clear but unhurried—the tone of someone who's given this talk before and means it. Slight emphasis on 'now'. Direct eye contact, no performance.",
+      "mood": "caring_professional"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "末期になるまで気づきにくいって本当ですか?",
+      "en": "Is it really true that it's hard to catch before it gets serious?",
+      "style": "Genuine curiosity, slightly worried undertone. Leans in slightly—testing whether she can trust the answer. Not theatrical, just real concern underneath.",
+      "mood": "uncertain_serious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。本人の内面の葛藤と、生活摩擦も影響します。",
+      "en": "Yes. A lot depends on what the patient is going through emotionally, and how their daily life is pulling them in different directions.",
+      "style": "Steady, reflective pause before the second sentence. Acknowledging complexity—not just medical facts, but the whole person. Gentle weight to 'emotionally' and 'pulling'. No condescension.",
+      "mood": "thoughtful_honest"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "量的に運動を増やす見地、何分くらいですか。",
+      "en": "So in terms of how much exercise—are we talking about something like thirty minutes a day?",
+      "style": "Tentative, checking her understanding. Doesn't assume she knows. Slight lift on 'thirty minutes'—half-asking for confirmation. Engaged but not pushy.",
+      "mood": "clarifying"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "毎日三十分を目安に。外部の干渉に流されず、自分のペースで。",
+      "en": "Thirty minutes a day is a good target. The key is not letting other people's expectations push you around—find your own rhythm and stick with it.",
+      "style": "Firmer conviction here. Light emphasis on 'your own rhythm.' This is advice, gently delivered but meant to land. Slight pause before the second sentence, like she's choosing her words carefully for Sakura specifically.",
+      "mood": "encouraging_firm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強になりました!",
+      "en": "That really helped. Thank you.",
+      "style": "Genuine warmth and relief. Quiet, not performative brightness. Real gratitude—she's heard something that matters.",
+      "mood": "grateful_grounded"
+    }
+  ]
+}

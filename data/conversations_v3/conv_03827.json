@@ -1,0 +1,78 @@
+{
+  "id": "conv_03827",
+  "context": "A doctor and a parent discuss treating a minor injury at home",
+  "purpose": "Teach: 保育/処置/負荷/か月/チェーン/外れ/嬢/回避",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "保育",
+    "処置",
+    "負荷",
+    "か月",
+    "チェーン",
+    "外れ",
+    "嬢",
+    "回避"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_192 w51cjnmo1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、うちの娘が保育園の鉄棒から落ちて、肘を強く打ったんです。",
+      "en": "Doctor, my daughter fell from the bars at daycare and hit her elbow hard.",
+      "style": "Worried mother, soft urgent tone, slight tremble at sentence end."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど、お嬢さんはおいくつですか?まず腫れの確認から処置を始めましょう。",
+      "en": "I see. How old is your daughter? Let's start treatment by checking the swelling.",
+      "style": "Calm clinical voice, measured pacing, professionally reassuring but not cold."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "三歳と六か月です。落ちた拍子に自転車のチェーンにも指が触れたみたいで。",
+      "en": "Three years and six months. When she fell, her fingers seem to have brushed a bike chain too.",
+      "style": "Apologetic worried mother, listing details quickly, slightly breathless delivery."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "指先は浅い擦り傷ですね。肘も関節は外れていないので、ひとまず安心してください。",
+      "en": "The fingertips are just shallow scrapes. The elbow joint isn't dislocated either, so please be reassured for now.",
+      "style": "Reassuring doctor tone, slow articulation, gentle authoritative warmth."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "湿布を貼りっぱなしにしてもいいですか?それともこまめに替えるべきでしょうか。",
+      "en": "Is it okay to leave the compress on continuously, or should I change it frequently?",
+      "style": "Inquisitive concerned mother, rising intonation, leaning-forward questioning energy."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "四時間ごとに替えてください。家では肘に負荷をかけず、じっと安静にさせてあげて。",
+      "en": "Change it every four hours. At home, don't put load on the elbow and keep her resting quietly.",
+      "style": "Crisp doctorly instruction, clear cadence, kind but firm closing tone."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "悪化を回避するために、今夜のお風呂も控えたほうがいいですか?",
+      "en": "To avoid making it worse, should we skip the bath tonight as well?",
+      "style": "Mother seeking confirmation, careful checking tone, gentle rising inflection."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、今夜だけは控えましょう。何かあれば夜間でも、この番号経由でご連絡くださいね。",
+      "en": "Yes, just skip it for tonight. If anything comes up, even at night, please contact us through this number.",
+      "style": "Warm parting doctor voice, slower softer ending, genuine caring tone."
+    }
+  ]
+}

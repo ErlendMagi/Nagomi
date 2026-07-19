@@ -1,0 +1,78 @@
+{
+  "id": "conv_05007",
+  "context": "Two managers prep a contract sign-off checklist",
+  "purpose": "Teach: 承諾/着用/期日/着目/配列/精密/随時/皆無",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "承諾",
+    "着用",
+    "期日",
+    "着目",
+    "配列",
+    "精密",
+    "随時",
+    "皆無"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "契約書のサインオフ、提出期日が今週末なので、チェックリストを最終確認しましょう。",
+      "en": "The contract sign-off is due this weekend, so let's finalize the checklist.",
+      "style": "Yuki sounds composed and quietly urgent, leading the prep meeting."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。まず先方からのご承諾は正式にいただけていますか。",
+      "en": "Understood. First, have we formally received their approval?",
+      "style": "Kenji answers in a measured, businesslike tone with a clarifying question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "昨日メールで届きました。条項の順序も先方の希望どおり並べ替え済みで、別紙の項目配列も整えました。",
+      "en": "It arrived by email yesterday. The clause ordering was rearranged per their request, and the appendix item array is tidied up too.",
+      "style": "Yuki gives a crisp factual update with a slight note of relief."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。署名当日はスーツの着用が必須ですよね、念のため。",
+      "en": "Thanks. On the signing day, suits are required, right, just to be sure.",
+      "style": "Kenji checks a small detail with polite, almost cautious diligence."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。それと、第七条の損害賠償部分は特に注意して着目してほしいと法務から言われています。",
+      "en": "Yes. Also, legal asked us to pay particular attention and focus on Article 7 on damages.",
+      "style": "Yuki shifts into a slightly serious register, flagging a sensitive point."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あの条文、数字が細かくて文言も精密すぎるので、こちらにミスの余地は皆無に近いんですよね。",
+      "en": "That clause has such fine numbers and precise wording that there's almost zero room for us to slip up.",
+      "style": "Kenji exhales a wry, slightly tense laugh while acknowledging the pressure."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ。何か変更が出たら随時共有しますので、当日まで連絡を密にお願いします。",
+      "en": "Right. I'll share any changes as they come, so let's stay in close contact until the day.",
+      "style": "Yuki closes with a steady, reassuring tone of professional partnership."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。では明日の朝、最終版を一緒に読み合わせましょう。",
+      "en": "Got it. Let's read through the final version together tomorrow morning.",
+      "style": "Kenji wraps up the meeting with a calm, decisive confirmation."
+    }
+  ]
+}

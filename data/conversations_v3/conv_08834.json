@@ -1,0 +1,86 @@
+{
+  "id": "conv_08834",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 排斥/テロリズム/美化/道義/加担/横領/危害/儒教",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "排斥",
+    "テロリズム",
+    "美化",
+    "道義",
+    "加担",
+    "横領",
+    "危害",
+    "儒教"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_443 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、医療現場での外国人排斥的言動は医療チームで厳禁としております",
+      "en": "Ren—we have a strict rule in our medical team that discriminatory behavior toward foreign patients is absolutely prohibited.",
+      "style": "Direct and steady, establishing a serious boundary. Measured delivery with emphasis on the hospital standard, not a personal rebuke. Clear-eyed, professional tone.",
+      "mood": "firm_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、テロリズム被害者の心のケアを医療チームで担当します",
+      "en": "Yes, our medical team takes on the mental health care of trauma survivors as part of our responsibility.",
+      "style": "Calm affirmation. Slight pause before speaking—choosing words carefully. Warm undertone despite the gravity. Reassuring without being defensive.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療結果の美化なく、貴院、報告されてますね、先生",
+      "en": "Your hospital reports outcomes honestly, without embellishment, doesn't it, Doctor?",
+      "style": "Genuine inquiry, not accusatory. Thoughtful tempo. A slight lift at the end—seeking confirmation of something he's observed or values.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、道義的判断を医療チームで重視します",
+      "en": "Yes, ethical judgment is something our medical team emphasizes in everything we do.",
+      "style": "Steady reaffirmation. Matter-of-fact but not cold. Slight weight on the word 'emphasizes'—showing this isn't lip service.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療事故に加担した職員への処分を、貴院、なさいましたね、先生",
+      "en": "Your hospital did take disciplinary action against staff who were involved in medical incidents, didn't it, Doctor?",
+      "style": "Gentle probe, not challenging. Respectful cadence. Seeking acknowledgment of something important. Softly curious—genuinely wanting to understand her approach.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療費横領の不正は医療チームで監視します",
+      "en": "Yes, we monitor for financial irregularities like embezzlement in our medical team—we take that very seriously.",
+      "style": "Firm on the substance, calm in delivery. Slight emphasis on 'monitor'—showing active oversight, not passive compliance.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者に危害を与える医療行為を、貴院、絶対に避けますね、先生",
+      "en": "Your hospital takes care to never cause harm to patients through medical practice, doesn't it, Doctor?",
+      "style": "Quiet conviction underneath. Respectful phrasing but fundamentally asking about core values. Slow, deliberate. Looking for her confirmation of the principle.",
+      "mood": "earnest_searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、儒教文化を背景とした患者対応も医療チームで研修します",
+      "en": "Yes, our team also conducts training on patient care informed by Confucian values—it shapes how we approach relationships in medicine.",
+      "style": "Warm closing affirmation. Slightly more personal than previous responses—connecting ethics to cultural context. Gentle but assured.",
+      "mood": "thoughtful_warm"
+    }
+  ]
+}

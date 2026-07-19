@@ -1,0 +1,86 @@
+{
+  "id": "conv_05252",
+  "context": "A boss and his manager dissect a long-form energy article",
+  "purpose": "Teach: 海水/ウラン/洞窟/引き上げる/余儀なく/転じ/ストライキ/初級",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "海水",
+    "ウラン",
+    "洞窟",
+    "引き上げる",
+    "余儀なく",
+    "転じ",
+    "ストライキ",
+    "初級"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、ウラン資源の海水抽出技術を取り上げているな。",
+      "en": "This article covers uranium extraction from seawater.",
+      "style": "Casual observation while reading. Low energy, almost thinking aloud. Mentions the topic without emphasis, as if noting something interesting but not urgent.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。コスト構造の見直しが転じて、産業的に成立する可能性が出てきました。",
+      "en": "Yes. The cost structure was reassessed, and now industrial viability is actually becoming feasible.",
+      "style": "Clear, measured reporting. Professional tone without stiffness. Slight emphasis on the shift from cost concern to possibility. Maintains eye contact, speaking with quiet confidence.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "引き上げるべきはコストではなく、現場の安全基準だろう。",
+      "en": "What needs to be raised isn't costs—it's the safety standards on-site.",
+      "style": "Sharp pivot. Brief, pointed delivery with a slight edge. Leans back slightly. The dash cuts through the previous optimism with quiet authority.",
+      "mood": "critical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "関連する港湾組合のストライキ後、人員配置も初級職から再構築されています。",
+      "en": "Since the port union strike, staffing has been rebuilt from entry-level positions up.",
+      "style": "Factual update, checking notes if needed. Steady rhythm, no defensiveness. Reports what happened without reading between the lines for him.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海底洞窟調査の権利、政府はどう動いている。",
+      "en": "How's the government progressing on the undersea survey rights?",
+      "style": "Direct question, leaning forward slightly. Probing but not accusatory. Wants specifics. The tone expects competent answer.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一部地域で許可申請が却下され、計画変更を余儀なくされた事業者もいます。",
+      "en": "In some regions, permit applications were rejected, forcing some operators to revise their plans.",
+      "style": "Neutral delivery of constraint. No apology in the voice. States limitation as fact, not failure. Calm and complete.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。次の経営会議でも、エネルギー戦略の議題に入れておこう。",
+      "en": "I see. Let's add energy strategy to the next executive meeting agenda.",
+      "style": "Decision made and settled. Brief, definitive. Not asking—instructing with ease. Tone closes the discussion cleanly without finality that blocks questions.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。資料、明日朝までに整えます。",
+      "en": "Understood. I'll have everything prepared by tomorrow morning.",
+      "style": "Quick, efficient confirmation. No elaboration. Professional closure. The subtext is 'I'm on it'—spoken with quiet competence, not eagerness.",
+      "mood": "committed"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03516",
+  "context": "Teacher and student discuss a news item on a new law and product recall",
+  "purpose": "Teach: 都道府県/施行/非難/当該/公的/回収/側面/ジャパン",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "都道府県",
+    "施行",
+    "非難",
+    "当該",
+    "公的",
+    "回収",
+    "側面",
+    "ジャパン"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_176 workflow whb15wn06)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "蓮くん、今朝のニュース見ましたか。新しい消費者保護法が来月から施行されますよ。",
+      "en": "Ren, did you see this morning's news? The new consumer protection law goes into effect next month.",
+      "style": "Polite teacher opening a discussion with a calm, inquisitive ですます tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、見ました。おれもちょうど気になってて、メイドインジャパンの製品でも欠陥が見つかったって話ですよね。",
+      "en": "Ah, I did. I was just curious about it too — there's that story about defects being found even in Made in Japan products, right?",
+      "style": "University student responding casually with おれ first person, mildly engaged register"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうです。当該企業はすでに全国の都道府県で製品の回収を始めているようです。",
+      "en": "That's right. The company in question has apparently already begun recalling the product across all prefectures.",
+      "style": "Teacher delivering factual update with formal vocabulary and measured pacing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、結構な規模ですね。SNSでもかなり非難されてるみたいで、株価も下がってました。",
+      "en": "Wow, that's a pretty big scale. They seem to be getting heavily criticized on social media too, and the stock price dropped.",
+      "style": "Casual youthful commentary mixing observation with mild surprise"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。ただ、この問題には別の側面もあって、公的機関の検査体制そのものが問われているんです。",
+      "en": "Yes. But this issue has another side — the inspection system of public institutions itself is being questioned.",
+      "style": "Teacher pivoting to deeper analytical point with thoughtful, structured delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、企業だけの責任じゃないってことですか。確かに、おれもそこは見落としてました。",
+      "en": "I see, so it's not just the company's responsibility? You're right, I overlooked that part.",
+      "style": "Student showing genuine realization, humble acknowledgment in casual student speech"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今度のレポートで、この事件を題材に書いてみてはどうですか。法律の施行と消費者の信頼について。",
+      "en": "How about writing your next report on this case? About the enforcement of the law and consumer trust.",
+      "style": "Teacher gently making an academic suggestion with encouraging, polite phrasing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いいですね、やってみます。当該の判例とかも調べて、しっかりまとめてみます。",
+      "en": "That sounds good, I'll give it a try. I'll look into the relevant case law too and put together a solid report.",
+      "style": "Student accepting enthusiastically with mix of casual energy and respectful intent"
+    }
+  ]
+}

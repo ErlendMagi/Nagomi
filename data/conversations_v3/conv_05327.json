@@ -1,0 +1,72 @@
+{
+  "id": "conv_05327",
+  "context": "Two managers prep a vendor proposal",
+  "purpose": "Teach: 役人/図っ/担う/立案/当方/所管/登記/全額",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役人",
+    "図っ",
+    "担う",
+    "立案",
+    "当方",
+    "所管",
+    "登記",
+    "全額"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "提案の立案、当方の名前で出してOK?",
+      "en": "For the proposal — is it okay to submit under our name?",
+      "style": "Crisp, efficient opening. Light forward momentum. Professional but seeking confirmation. No doubt in the voice, just protocol.",
+      "mood": "professional_pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。所管役員の決裁は今朝降りました。",
+      "en": "Yes. The exec with jurisdiction signed off this morning.",
+      "style": "Clean, factual delivery. Slight upward inflection at the close — confirmation complete. Steady eye contact. No elaboration needed.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "相手側の役人、登記の件にも詳しい人を引っ張れる?",
+      "en": "Can we get someone from their side who knows the registration side well?",
+      "style": "Measured, thinking-aloud quality. Slight pause before 'registration' — weighing options. Strategic but not rushed. Leaning forward slightly in posture.",
+      "mood": "calculating"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "試みます。連絡を図っているところです。",
+      "en": "I'll make it happen. Already reaching out.",
+      "style": "Steady commitment. No hesitation. Quiet confidence without bravado. The assurance of someone already in motion.",
+      "mood": "dependable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "費用の見積もり、全額を一度で出すか、分割か、決めとこ。",
+      "en": "We need to decide: do we quote the full cost upfront or in stages?",
+      "style": "Direct, matter-of-fact. Slight emphasis on 'decide' — this needs settling now. Practical tempo. Waiting for input but owning the question.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "分割で行きます。先方が担うリスク減らせるので。",
+      "en": "Split it. Reduces their risk exposure that way.",
+      "style": "Firm close. Quick reasoning offered without over-explaining. Slight nod of finality. The tone of someone who's thought this through already.",
+      "mood": "analytical_resolute"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10240",
+  "context": "Mom and son chat",
+  "purpose": "Teach: オリックス/テレビ朝日/スズキ/男優/ソビエト/ケニア/司馬/ブルジョアジー",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "オリックス",
+    "テレビ朝日",
+    "スズキ",
+    "男優",
+    "ソビエト",
+    "ケニア",
+    "司馬",
+    "ブルジョアジー"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_513 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがオリックスのジャージを下さったわ",
+      "en": "Sho, your father gave you an Orix baseball jersey.",
+      "style": "Warm, matter-of-fact. Gentle pride in sharing what Ryosuke did. Soft landing on the final word — noticing Sho's attention.",
+      "mood": "tender_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとテレビ朝日のニュース観たよ",
+      "en": "Mom, Dad and I watched the TV Asahi news together.",
+      "style": "Bright, earnest rush of words. The specific need to share every detail with her. Open, unguarded — eager for her to understand how Dad spent time with him.",
+      "mood": "eager_delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがスズキ自動車工場を見学された",
+      "en": "Sho, your father visited the Suzuki automobile factory.",
+      "style": "Quiet observational tone. Slightly meditative — as if she's noticing a pattern in what Ryosuke is sharing with their son. Gentle cadence, unhurried.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと男優のドキュメンタリー観たよ",
+      "en": "Mom, Dad and I watched a documentary about an actor.",
+      "style": "Quick, genuine excitement. Each detail matters — he's relaying it exactly as he experienced it. Slight breathlessness from the urge to tell her everything he learned.",
+      "mood": "eager_amazed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが旧ソビエトの歴史を教えて下さったわ",
+      "en": "Sho, your father taught you about the history of the Soviet Union.",
+      "style": "Quieter still. Speaking almost to herself — recognising something deliberate in Ryosuke's choices. Tender but observant. Weight in the pause before the verb.",
+      "mood": "reflective_noticing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとケニアの絵本見たよ",
+      "en": "Mom, Dad and I looked at a picture book about Kenya.",
+      "style": "Unbroken enthusiasm. The catalogue of learning moments continues — his voice completely present in each one. Eager to demonstrate that he's absorbing what Dad shares.",
+      "mood": "eager_bright"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが司馬遼太郎の本を貸して下さったわ",
+      "en": "Sho, your father lent you a book by Shiba Ryotaro.",
+      "style": "Warmth with quiet understanding underneath. The observations have deepened — she's seeing Ryosuke's quiet intentionality. Slow, grounded delivery.",
+      "mood": "reflective_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとブルジョアジーのお話聞いたよ",
+      "en": "Mom, Dad told me a story about the bourgeoisie.",
+      "style": "Final rush of joy. Sho's voice clings to the memory — 'told me a story' carries the weight of connection. Warm and full, then a slight fadeout as if tucking it away safely.",
+      "mood": "eager_cherished"
+    }
+  ]
+}

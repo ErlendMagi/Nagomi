@@ -1,0 +1,78 @@
+{
+  "id": "conv_04010",
+  "context": "A manager negotiates a formal service agreement with a doctor",
+  "purpose": "Teach: 申し上げる/頂く/了承/何とも/該当/どなた/告知/加わっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げる",
+    "頂く",
+    "了承",
+    "何とも",
+    "該当",
+    "どなた",
+    "告知",
+    "加わっ"
+  ],
+  "cast": [
+    "kenji_office",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "先生、本日はお時間を頂きまして、誠にありがとうございます。",
+      "en": "Doctor, thank you sincerely for making time for us today.",
+      "style": "Formal business opening, polite humble register with deep gratitude"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえ、こちらこそ。御社の提案について申し上げる前に、一点確認させてください。",
+      "en": "Not at all. Before I speak about your company's proposal, please let me confirm one point.",
+      "style": "Measured professional tone, careful and methodical doctor speech"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、どなた宛てに契約書をお送りすればよろしいでしょうか。担当者の名義が必要でして。",
+      "en": "Yes, to whom should we send the contract? We need the responsible party's name.",
+      "style": "Crisp businesslike inquiry with polite keigo phrasing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "院長宛てで結構です。ただし、該当する診療科の責任者の了承も別途必要になります。",
+      "en": "Addressed to the director is fine, but the relevant department head's approval is also separately required.",
+      "style": "Authoritative clinical clarification, precise institutional protocol"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。料金体系の変更については、事前に告知させて頂く形でよろしいでしょうか。",
+      "en": "Understood. Regarding fee structure changes, would advance notification on our part be acceptable?",
+      "style": "Deferential negotiation tone, seeking explicit procedural agreement"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね、現時点では何とも申し上げられませんが、書面で頂ければ理事会にも諮れます。",
+      "en": "Well, at present I cannot say definitively, but if submitted in writing we can present it to the board.",
+      "style": "Cautious hedging language, professional non-commitment with path forward"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがたいお言葉です。それから体制の件で一点ご報告がございまして、来月から新しい技術顧問が一名、こちらのプロジェクトに加わっております。",
+      "en": "Those are encouraging words. Also, regarding our team, I have one report: starting next month a new technical advisor will be joining this project.",
+      "style": "Gracious acknowledgment with proper transition framing to staffing update"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは心強いですね。では、正式な書面を頂きまして、改めてご返答申し上げます。",
+      "en": "That is reassuring. Then once we receive the formal document, we will respond again.",
+      "style": "Polished closing remark, formal commitment to follow-up correspondence"
+    }
+  ]
+}

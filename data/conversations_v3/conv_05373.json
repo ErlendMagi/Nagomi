@@ -1,0 +1,65 @@
+{
+  "id": "conv_05373",
+  "context": "A police officer briefs a uni reporter on regional issues",
+  "purpose": "Teach: 反する/成り立っ/起こら/停滞/弊害/苦しむ/逃れ/迫ら",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "反する",
+    "成り立っ",
+    "起こら",
+    "停滞",
+    "弊害",
+    "苦しむ",
+    "逃れ",
+    "迫ら"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の停滞期、住民が苦しむ場面が増えました。",
+      "en": "In times of regional stagnation, we're seeing more residents in distress.",
+      "style": "Measured, professional tone. Light emphasis on 「増えました」to acknowledge the weight of what's being said. Steady eye contact. Speaking from field experience, not theory.",
+      "mood": "concerned_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "生活の不安から逃れたい人たち、相談窓口に迫られているんですよね。",
+      "en": "So people trying to escape their anxieties about daily life are turning to the help desk in greater numbers.",
+      "style": "Thoughtful, exploratory. Leans forward slightly — checking understanding. Genuine curiosity without pressure. The third-hour conversationalist registering a pattern.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。期待と反する制度の弊害も、現場で起こらないとは言い切れません。",
+      "en": "Yes. And I can't rule out that the downsides of policies working against expectations are happening on the ground too.",
+      "style": "Honest, unflinching. No softening. A small pause before 「弊害」— he's choosing his words carefully. The weight of responsibility settles in his shoulders.",
+      "mood": "truthful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "対策の理屈が、地域でも成り立っているのか、見極めたいです。",
+      "en": "I want to understand whether the logic behind these measures actually works in the real community context.",
+      "style": "Quiet determination. He's not asking permission — he's stating intention. Respectful but not deferring. The kind of focus he brings to difficult problems.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "資料、後ほど共有します。",
+      "en": "I'll send you the materials later.",
+      "style": "Professional closure. Warm but official. A small nod of respect for Ren's seriousness. Brief because the commitment is clear.",
+      "mood": "supportive"
+    }
+  ]
+}

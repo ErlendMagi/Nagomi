@@ -1,0 +1,61 @@
+{
+  "id": "conv_01728",
+  "context": "Saito treats a patient for a bad cold; gentle advice to rest.",
+  "purpose": "Doctor caring professionally for mild illness.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "風邪",
+    "熱",
+    "咳",
+    "薬"
+  ],
+  "cast": [
+    "saito_doctor",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "先生、咳が止まらなくて。",
+      "en": "Doctor, I can't get this cough to stop.",
+      "style": "Soft opening, slightly worn voice. Warm but honest — not performing wellness. Careful enunciation on the complaint itself, almost checking herself for being a bother.",
+      "mood": "tired_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "熱、ありますね。風邪です。",
+      "en": "You do have a fever — it's a cold.",
+      "style": "Steady, clinical but not cold. Words spaced with quiet certainty. A moment of eye contact on the diagnosis, the kind that lands without being unkind.",
+      "mood": "clinical_assured"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "薬、出していただけますか?",
+      "en": "Would you be able to prescribe something for me?",
+      "style": "Deferential but direct. Soft baseline, slight uplift at the question mark. Respectful — not performing helplessness, genuinely asking.",
+      "mood": "hopeful_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、しっかり休んでくださいね。",
+      "en": "Yes — make sure to get plenty of rest, all right?",
+      "style": "Warm, gentle instruction delivered like a small kindness. Slight lean-in energy. The 'all right' lands with quiet care, not dismissal.",
+      "mood": "caring_directive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Quiet, genuine gratitude. No over-performance. Slight exhale at the end, like relief mixed with politeness. Eyes down slightly.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

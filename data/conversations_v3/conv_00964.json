@@ -1,0 +1,76 @@
+{
+  "id": "conv_00964",
+  "context": "Naoko visits Saito for a pre-move health check.",
+  "purpose": "doctor-patient pre-move exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "相談",
+    "一緒",
+    "大切",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_048)",
+    "generated_at": "2026-05-27T03:00:15.220Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "直子さん、田舎、移るんですね。",
+      "en": "So you're moving out to the countryside, Naoko-san.",
+      "style": "Warm, gentle opening. Voice carries quiet approval and genuine interest. Soft composure throughout—the kind of doctor who listens more than she directs.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "はい、新しい生活、始めます。",
+      "en": "Yes. I'm starting a new chapter out there.",
+      "style": "Firm but gentle declaration. Voice carries hope beneath the practicality—someone ready for change but grateful for what came before. Slight warmth in the cadence.",
+      "mood": "hopeful_resolved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、保つ、大切ですよ。",
+      "en": "Taking care of your health will be important, you know.",
+      "style": "Measured, caring advice. Not lecturing—more like a quiet reminder from someone who knows her well. Voice settles on the word 'important' with steady weight.",
+      "mood": "caring_steady"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "田舎、自然、たくさんあって、安心。",
+      "en": "Out there there's so much nature around. It puts me at ease.",
+      "style": "Reflective, almost philosophical. Voice opens up slightly—she's imagining it, feeling it. Quiet confidence underneath. Not rushed.",
+      "mood": "peaceful_grounded"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、来てください。",
+      "en": "Come see me anytime you need to talk things through.",
+      "style": "Warm promise, quietly delivered. The word 'anytime' carries real weight—she means it. Voice opens slightly on the invitation, then settles into gentle sincerity.",
+      "mood": "warm_welcoming"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "本当に、お世話になりました。",
+      "en": "I've truly been in your care all this time. Thank you so much.",
+      "style": "Soft, genuine gratitude. Voice carries both humility and deep respect. Slight tremor of real emotion—not performed, but felt. Slows slightly on the thanks.",
+      "mood": "grateful_humble"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、また会いましょう。",
+      "en": "Take care of yourself. Let's meet again someday.",
+      "style": "Closing warmth. Voice carries both a gentle wish and quiet certainty. The promise is real, not ceremonial. Slight softening at the very end—she'll miss her.",
+      "mood": "tender_warm"
+    }
+  ]
+}

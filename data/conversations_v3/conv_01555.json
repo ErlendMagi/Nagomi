@@ -1,0 +1,61 @@
+{
+  "id": "conv_01555",
+  "context": "Riku-teen helps Sho fix a broken bicycle in the garage.",
+  "purpose": "Teen-to-teen practical help; shared repair time.",
+  "ambient": "garage_low_tools",
+  "sound_effects": [],
+  "target_vocab": [
+    "自転車",
+    "修理",
+    "工具",
+    "部品"
+  ],
+  "cast": [
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_078)",
+    "generated_at": "2026-05-27T06:31:10.776Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "自転車、チェーン外れた!",
+      "en": "The chain came off my bike!",
+      "style": "Quick, surprised catch in the throat on the opening. Urgent but not panicked — the worry of someone young who doesn't want to seem helpless. Slightly breathless, eyes wider than usual.",
+      "mood": "flustered"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "マジ?工具持ってくる。",
+      "en": "For real? I'll get some tools.",
+      "style": "Straightforward, no hesitation. Soft tone — not making a big deal of it, just solving. The quiet competence of someone who likes being useful. Slight nod in the voice.",
+      "mood": "steady_helpful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがと、助かる。",
+      "en": "Thanks — you're a lifesaver.",
+      "style": "Genuine relief in the exhale. Soft and sincere. No performance, no extra emotion — just the lightness of someone who was worried and now isn't. Brief.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "部品、ちゃんとあるな。",
+      "en": "Everything's here.",
+      "style": "Quiet assessment, like thinking aloud. Even tone, slightly lower register. Small note of reassurance underneath — he's already mentally fixing it. Not looking at Sho as he speaks.",
+      "mood": "calm_assured"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "これで直る?",
+      "en": "Will this actually fix it?",
+      "style": "Soft, careful question. A hint of lingering worry underneath the hope — checking in, not demanding certainty. Slight uplift on the question mark. Searching his face.",
+      "mood": "hopeful_cautious"
+    }
+  ]
+}

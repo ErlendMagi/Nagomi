@@ -1,0 +1,84 @@
+{
+  "id": "conv_04399",
+  "context": "Two coworkers review shipping logistics issues",
+  "purpose": "Teach: 工作/発送/送料/到達/定価/稼ぎ/先物/付属",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工作",
+    "発送",
+    "送料",
+    "到達",
+    "定価",
+    "稼ぎ",
+    "先物",
+    "付属"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今週の発送業務、ちょっと問題が多くて頭が痛いんですよね。",
+      "en": "This week's shipping operations have so many problems, it's giving me a headache.",
+      "style": "Tired professional venting with polite resignation tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、聞きましたよ。送料無料キャンペーンの影響で注文が殺到してるって。",
+      "en": "Ah, I heard. Orders are flooding in because of the free shipping campaign.",
+      "style": "Sympathetic colleague acknowledging the workload pressure casually."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうなんです。しかも倉庫の梱包作業が追いつかなくて、出荷が遅れてます。",
+      "en": "Exactly. And the warehouse packing work can't keep up, so shipments are delayed.",
+      "style": "Frustrated explanation with concrete operational details listed clearly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "九州方面の荷物、予定日に届いてないって苦情も入ってましたよね。",
+      "en": "There were also complaints that Kyushu-bound packages aren't arriving on schedule.",
+      "style": "Concerned colleague raising specific customer feedback formally."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。配送ルートの最終到達地点まで確認したら、中継所で止まってました。",
+      "en": "Yes. When I checked the final delivery destination on the route, packages were stuck at the transit hub.",
+      "style": "Investigative tone reporting concrete findings from logistics tracking."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それに定価より高く転売されてる商品もあるみたいで、本当に厄介ですよね。",
+      "en": "Plus some items are apparently being resold above list price, which is really troublesome.",
+      "style": "Concerned colleague acknowledging additional compounding market problems."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "転売ヤーは差額で稼ぎたいだけなんですけど、先物みたいに在庫を抱え込まれると本当に困ります。",
+      "en": "Resellers just want to earn the price difference, but when they hoard stock like futures contracts it's really a problem.",
+      "style": "Frustrated explanation comparing reseller stockpiling to commodity hoarding."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あと、付属品が一部欠けてるって報告も来てて、検品の工作精度も見直さないとですね。",
+      "en": "Also, there are reports of missing accessories, so we need to revise the precision of our inspection work too.",
+      "style": "Methodical colleague outlining quality control priorities thoroughly."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解です。明日の朝一で物流チームと対策会議を設定しておきますね。",
+      "en": "Understood. I'll schedule a countermeasure meeting with the logistics team first thing tomorrow.",
+      "style": "Decisive professional taking initiative with reassuring practical commitment."
+    }
+  ]
+}

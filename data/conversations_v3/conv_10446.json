@@ -1,0 +1,86 @@
+{
+  "id": "conv_10446",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: キロメートル/秒間/車掌/電柱/ノース/サウス/サッシ/リール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "キロメートル",
+    "秒間",
+    "車掌",
+    "電柱",
+    "ノース",
+    "サウス",
+    "サッシ",
+    "リール"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_524 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、配送センターから半径五キロメートルを商圏とせよ",
+      "en": "Define our service area as a five-kilometre radius from the distribution centre.",
+      "style": "Clipped, authoritative opening. Measured cadence. Each phrase lands with certainty. No softening, no repeat. The tone of someone used to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。受発注の処理時間を秒間単位で計測します",
+      "en": "Understood. We'll start measuring order processing times in second-by-second intervals.",
+      "style": "Quiet affirmation, almost note-to-self. Slight pause after 'Understood' as he mentally notes the instruction. Steady, no question mark in his voice. Professional compliance without obsequiousness.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員旅行の電車に車掌経験者を同乗させろ",
+      "en": "Assign a conductor with railway experience to accompany the company trip.",
+      "style": "Same clipped authority as the first line. Slight emphasis on 'conductor' — this detail matters to him. Cold precision. He's solving problems before they happen.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業所近くの電柱の広告を更新します",
+      "en": "Understood. I'll arrange for the advertisements near our branch office to be refreshed.",
+      "style": "Brief, professional acknowledgment. No hesitation. Treating each directive as a separate, actionable item. Quiet competence. The tone of someone who writes things down and ticks them off.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、北米支社、つまりノース支社の展開を進めろ",
+      "en": "Push forward with our North American expansion — the North branch development.",
+      "style": "Steady authority. A slight reformulation on 'North' — clarifying even as he commands. Not condescending, but precise. The pace is unhurried because the instruction itself is clear.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。南米支社、つまりサウス拠点の調査を始めます",
+      "en": "Understood. I'll begin surveying the South American operations — our Southern base.",
+      "style": "Mirroring his clarification with a quiet parallel structure. Accepting the instruction as logical. No strain in his voice. The professionalism of someone who understands the symmetry of what's being asked.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、本社ビルのサッシ交換を計画しろ",
+      "en": "Plan the window and frame replacement project for the head office building.",
+      "style": "Authoritative, concrete. Slight emphasis on 'plan' — this is the directive. Unhurried. The tone of someone who knows exactly what needs doing and trusts his subordinate to execute.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告撮影のリール素材を制作します",
+      "en": "Understood. I'll begin producing reel footage for the advertising shoot.",
+      "style": "Final acknowledgment, slightly lighter in weight than the others. A soft close to the sequence. Professional but not labored. The tone of someone finishing his notes and preparing to move forward.",
+      "mood": "attentive"
+    }
+  ]
+}

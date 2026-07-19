@@ -1,0 +1,84 @@
+{
+  "id": "conv_04733",
+  "context": "A police officer briefs a teen reporter on a memorial event",
+  "purpose": "Teach: 公明党/火星/追悼/後退/帰還/露出/断言/賭け",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公明党",
+    "火星",
+    "追悼",
+    "後退",
+    "帰還",
+    "露出",
+    "断言",
+    "賭け"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_238 workflow wxr5wooap)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は来てくれてありがとう。九月下旬の追悼式について、君に取材を任せたい。",
+      "en": "Thanks for coming today. I'd like to entrust you with covering the memorial ceremony in late September.",
+      "style": "Calm, measured, professional officer addressing a younger civilian respectfully."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わたしでいいんですか?学校新聞の経験しかなくて、正直、自信があるとは断言できないんですけど。",
+      "en": "Are you sure I'm the right one? I only have school newspaper experience, and honestly I can't confidently say I'm up to it.",
+      "style": "Nervous teen, polite but hesitant, slightly self-deprecating tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "だからこそ頼みたいんだ。若い視点で書いてくれる記者を、地元の人たちはずっと待っていた。",
+      "en": "That's exactly why I want to ask you. The locals have long been waiting for a reporter who writes from a young perspective.",
+      "style": "Reassuring but firm, redirecting her self-doubt into a genuine reason."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "去年と比べれば、メディアの露出もずいぶん大きくなったんですよね。緊張します。",
+      "en": "Compared to last year, the media exposure has grown quite a bit too, hasn't it. I'm getting nervous.",
+      "style": "Processing the scale honestly, voicing pressure with teen vulnerability."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今年は公明党の議員も来賓として挨拶する予定だ。だが、主役はあくまで遺族の方々だよ。",
+      "en": "This year a Komeito lawmaker is scheduled to give greetings as a guest. But the main figures are still the bereaved families.",
+      "style": "Conveying logistics with measured authority, redirecting focus appropriately."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、遺族の方に何を尋ねるのが失礼にならないでしょうか。踏み込みすぎたくないんです。",
+      "en": "Um, what would be appropriate to ask the bereaved families without being rude? I don't want to push in too far.",
+      "style": "Careful, sincere humility, asking for concrete guidance respectfully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "無理に踏み込まなくていい。一歩後退して、相手のペースに合わせる。これは取材の基本だ。",
+      "en": "You don't need to push in forcefully. Step back, match the other person's pace. That's the basics of an interview.",
+      "style": "Mentor-like, sharing professional wisdom in concise practical terms."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。あと、火星の無人探査機が無事に地球へ帰還した話題に触れても大丈夫ですか?",
+      "en": "Understood. Also, is it okay to touch on the news about the unmanned Mars probe safely returning to Earth?",
+      "style": "Curious teen checking editorial scope, threading topical news naturally."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "構わない。ただ、追悼の場の空気を壊さない範囲でな。君の感性に賭けてるよ。",
+      "en": "That's fine. Just keep it within bounds that don't disturb the memorial atmosphere. I'm betting on your sensibility.",
+      "style": "Warm trust expressed, gentle guardrails, mentor closing with confidence."
+    }
+  ]
+}

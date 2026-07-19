@@ -1,0 +1,86 @@
+{
+  "id": "conv_06101",
+  "context": "A mom and son chat at dinner",
+  "purpose": "Teach: 興味深く/物足りない/好物/お返し/ぶつかり/でっかい/屋内/仕込み",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "興味深く",
+    "物足りない",
+    "好物",
+    "お返し",
+    "ぶつかり",
+    "でっかい",
+    "屋内",
+    "仕込み"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_307 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日の宿題、興味深く読んだよ。",
+      "en": "Mom, I found today's homework really interesting to read.",
+      "style": "Quiet enthusiasm, looking up from his work. Small, genuine smile in his voice. Not performing for approval—just sharing something that caught him.",
+      "mood": "thoughtful_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "よかった。夕飯、ちょっと物足りないかな?",
+      "en": "That's good to hear. Is dinner feeling a bit short tonight?",
+      "style": "Attentive, checking in gently. Listening for the real answer under the surface. Warm but practical—the tone of someone who notices when something is off.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ううん。好物のカレー、ありがとう!",
+      "en": "No, not at all. Thank you for making my favorite curry!",
+      "style": "Immediate and genuine. Brightness surfaces naturally. Small rush of warmth on 「好物」—recognizing she remembered.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達からの誕生日プレゼント、お返ししなきゃね。",
+      "en": "We should send a thank-you gift back to your friend for the birthday present.",
+      "style": "Matter-of-fact, thinking aloud. Gentle reminder framed as something they'll do together. The steady tone of a parent keeping track of small courtesies.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "昼休み、ボールがぶつかりそうになった。",
+      "en": "At lunch today, a ball almost hit me.",
+      "style": "Flat, observational delivery. Not seeking reassurance—just reporting something that registered. Slight pause before speaking, like he's deciding whether to mention it.",
+      "mood": "quiet_concerned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "園庭のでっかい木の下で、遊んでね。",
+      "en": "Maybe play under that big tree in the yard then—it's safer.",
+      "style": "Soft redirection, not alarm. Quiet suggestion offered as a natural alternative. Listening-level attention—she heard the worry beneath the words.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "雨だから、屋内遊技場行こうよ。",
+      "en": "But it's raining today. Can we go to the indoor play center instead?",
+      "style": "Small spark of hope lifting his voice. Not demanding—asking, with the brightness of a small shift in possibility. Momentum forward.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんが、晩ご飯の仕込みしてくれてる。",
+      "en": "Your dad's already started prepping dinner at home, so let's see.",
+      "style": "Warm, practical answer that leaves room for maybe. She's thinking through the evening logistics while keeping the warmth in. The tone of partnership—his dad is part of the plan.",
+      "mood": "warm_present"
+    }
+  ]
+}

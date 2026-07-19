@@ -1,0 +1,86 @@
+{
+  "id": "conv_06509",
+  "context": "A police officer briefs on coordination",
+  "purpose": "Teach: オピニオン/図解/読み込み/終電/賃料/昇給/良品/単品",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "オピニオン",
+    "図解",
+    "読み込み",
+    "終電",
+    "賃料",
+    "昇給",
+    "良品",
+    "単品"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_327 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "専門家のオピニオン、警察庁、参考にしています。",
+      "en": "We're consulting expert opinion from the National Police Agency.",
+      "style": "Even, measured delivery. Light informational tone. Steady eye contact. No urgency — this is protocol being stated clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。防犯マニュアル、図解化、進めます。",
+      "en": "Yes. We're moving forward on illustrated crime-prevention manuals.",
+      "style": "Straightforward, earnest commitment. Slight lean-in showing attentiveness. Warm but businesslike — confirming he's heard and will act.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の社員規程、読み込み、不審点ありません。",
+      "en": "I've reviewed your employee policies thoroughly. Nothing concerning.",
+      "style": "Methodical, reassuring. Flat affect on the summary. The small pause before 'nothing' signals genuine review, not just procedure.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。終電後の防犯、警察と連携します。",
+      "en": "Yes. We'll coordinate post-hours security measures directly with the police.",
+      "style": "Assured, forward-looking. Crisp pacing. Gentle emphasis on 'directly' — showing alignment and responsibility.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の賃料相場、犯罪傾向と連動する場面もあります。",
+      "en": "Rental costs in this area sometimes correlate with crime patterns.",
+      "style": "Observational, matter-of-fact. Paced slowly enough to land the connection. Slight upward lift at the end — informative but not alarming.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。昇給制度の透明性、警察庁、評価されています。",
+      "en": "Yes. The National Police Agency actually commends our salary transparency system.",
+      "style": "Slight pride beneath professional surface. Warm on 'commends' — he's genuinely pleased. Maintains composure but the effort shows.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良品の流通、安全面、警察も注視しています。",
+      "en": "Product distribution and safety are priorities the police are monitoring closely.",
+      "style": "Authoritative but not heavy-handed. Steady pace. The weight of 'monitoring' lands naturally — this matters.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。単品ごとの追跡、警察システムでも、可能です。",
+      "en": "Yes. Item-level tracking is actually possible through police databases.",
+      "style": "Assured, almost slightly relieved. Quick nod in voice. The 'actually' carries subtle confidence — this capability exists and can be used.",
+      "mood": "capable"
+    }
+  ]
+}

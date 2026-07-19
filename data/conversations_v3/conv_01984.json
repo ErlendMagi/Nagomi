@@ -1,0 +1,61 @@
+{
+  "id": "conv_01984",
+  "context": "Saito reads a science article with Asuka in bed; quiet morning.",
+  "purpose": "Married couple sharing curious news together.",
+  "ambient": "bedroom_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "記事",
+    "科学",
+    "発見",
+    "驚く"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_099)",
+    "generated_at": "2026-05-27T08:56:37.686Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "あすか、面白い記事、見つけた。",
+      "en": "Asuka, I found something interesting.",
+      "style": "Warm opening, eyes up from the page. Soft-spoken but genuinely engaged. A pause before the thought, like sharing something she's been turning over. No hurry.",
+      "mood": "warmly_engaged"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "どんな話?",
+      "en": "What was it?",
+      "style": "Leaning in slightly. Genuine curiosity without pushiness. Light, open tone. The kind of listening that makes people want to keep talking.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "新しい発見、本当に驚く。",
+      "en": "A new discovery — it's really remarkable.",
+      "style": "Slight lift in energy on 「驚く」. Still measured, but the wonder is there underneath. Speaking as someone who has read it twice. Breath of genuine amazement.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "科学、すごいわね。",
+      "en": "Science is incredible, isn't it.",
+      "style": "Soft, almost to herself. Not a question despite the rising tone. Genuine warmth toward the subject. The kind of person who finds beauty in understanding.",
+      "mood": "fond_wonder"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、まだまだ、わからん世界。",
+      "en": "Yeah — there's still so much we don't know.",
+      "style": "Philosophical, quieting down. A gentle exhale on the opening. Not wistful, but aware. The voice of someone comfortable sitting in mystery. Slow, deliberate pace.",
+      "mood": "humbly_reflective"
+    }
+  ]
+}

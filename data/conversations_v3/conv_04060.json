@@ -1,0 +1,78 @@
+{
+  "id": "conv_04060",
+  "context": "A police officer and an office manager discuss new compliance rules",
+  "purpose": "Teach: 判明/改定/答申/定年/発足/定める/出力/分割",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "判明",
+    "改定",
+    "答申",
+    "定年",
+    "発足",
+    "定める",
+    "出力",
+    "分割"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "先月、新しいコンプライアンス委員会が発足しまして、各企業を訪問しております。",
+      "en": "Last month, a new compliance committee was launched, and I'm visiting each company.",
+      "style": "Formal, measured tone with polite official keigo register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご丁寧にありがとうございます。社内規定の改定について、何かご指導がありますか?",
+      "en": "Thank you for your courtesy. Do you have any guidance regarding our internal rule revisions?",
+      "style": "Polite professional tone, slightly nervous but composed business register"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。先日の審議会の答申で、報告書を必ずPDFで出力して保管するよう定めることになりました。",
+      "en": "Yes. The recent council's report decided that reports must be output as PDFs and preserved.",
+      "style": "Authoritative explanatory tone with clear procedural language"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。実は先週の監査で、古い書類が紛失していたことが判明したんです。",
+      "en": "I see. Actually, last week's audit revealed that some old documents had gone missing.",
+      "style": "Confessional and slightly apologetic, lowering voice with concern"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは深刻ですね。今後は文書を部署ごとに分割して、二重で管理することをお勧めします。",
+      "en": "That's serious. From now on, I recommend splitting documents by department and managing them in duplicate.",
+      "style": "Serious advisory tone, leaning forward with professional gravity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかりました。実は今年定年を迎える社員もいて、引き継ぎが心配だったところです。",
+      "en": "Understood. Actually, some employees are reaching retirement age this year, and handovers worried me.",
+      "style": "Relieved and confiding, opening up about workplace concerns"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうした移行期こそ、明確なルールを定めることが大切です。何かあればすぐご連絡ください。",
+      "en": "It's during such transition periods that setting clear rules matters most. Please contact me anytime.",
+      "style": "Reassuring closing tone, shifting from authoritative to supportive register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "心強いお言葉です。来月、社員向けの説明会を開きますので、ぜひお越しいただけますか?",
+      "en": "Those are reassuring words. We're holding an employee briefing next month — could you please attend?",
+      "style": "Warm, grateful invitation extending professional collaboration sincerely"
+    }
+  ]
+}

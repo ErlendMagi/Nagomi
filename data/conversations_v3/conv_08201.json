@@ -1,0 +1,86 @@
+{
+  "id": "conv_08201",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 言いよう/腐っ/しつこく/概ね/受けとめ/取り消し/ふたたび/大嫌い",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "言いよう",
+    "腐っ",
+    "しつこく",
+    "概ね",
+    "受けとめ",
+    "取り消し",
+    "ふたたび",
+    "大嫌い"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_412 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、言いようがないって、こういう時に使う言葉ね",
+      "en": "Sho, \"indescribable\" is the kind of word you use in a moment like this.",
+      "style": "Gentle teaching moment. Warm, slightly wondering tone as if rediscovering the word herself. Patient pause before the example, inviting him to listen closely.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、冷蔵庫のお野菜、腐ってるよ",
+      "en": "Mom, the vegetables in the fridge are rotting.",
+      "style": "Small, careful observation delivered without accusation. Quiet certainty—he's noticed something and felt he should mention it. Slight hesitation, like he knows it might be unwelcome news.",
+      "mood": "quietly_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達にしつこくお話するのはやめてね",
+      "en": "Sho, I need you to stop bringing that up with your friends over and over.",
+      "style": "Calm but direct. Not sharp—she's being clear about a boundary. Steady eye contact level, the tone of someone who's said this gently before and means it.",
+      "mood": "firm_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくの予定、概ね固まってきたよ",
+      "en": "Mom, my schedule is pretty much settled now.",
+      "style": "Small proud moment in his voice. Hesitant confidence—he's worked something out and wants her to know. Slight lift on the last word, seeking her acknowledgment.",
+      "mood": "cautiously_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達の意見を素直に受けとめてね",
+      "en": "Sho, try to take what your friends say with an open heart, okay?",
+      "style": "Gentle redirection, not a scolding. Warm and encouraging. She's asking him to stretch a little, spoken as a quiet wish more than a rule.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お約束の取り消しをしたいんだ",
+      "en": "Mom, I want to cancel a promise I made.",
+      "style": "Quiet weight behind this. He's thought about it, and now he's saying it carefully. Small but serious—he knows this matters. No evasion, just straightforward honesty.",
+      "mood": "resolute_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ふたたびお祖母ちゃんちに行こうね",
+      "en": "Sho, let's go to Grandma's house again soon, okay?",
+      "style": "Warm invitation with gentle insistence. A small brightness in her voice—she's offering him something good. The suggestion carries affection underneath, not just logistics.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ピーマンが大嫌いだよ",
+      "en": "Mom, I really hate green peppers.",
+      "style": "Small, genuine complaint delivered with the ease of someone safe to complain to. Matter-of-fact but with a hint of humor—he's not asking for rescue, just stating a truth he knows she understands.",
+      "mood": "frank_comfortable"
+    }
+  ]
+}

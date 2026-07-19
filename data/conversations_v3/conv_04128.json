@@ -1,0 +1,78 @@
+{
+  "id": "conv_04128",
+  "context": "A doctor walks an elderly patient through diagnostic findings",
+  "purpose": "Teach: 肉体/体質/視覚/恐ろしい/強烈/蓄積/高等/必然",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肉体",
+    "体質",
+    "視覚",
+    "恐ろしい",
+    "強烈",
+    "蓄積",
+    "高等",
+    "必然"
+  ],
+  "cast": [
+    "saito_doctor",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "後藤さん、検査結果を見ますと、長年の肉体労働の影響が出ているようですね。",
+      "en": "Mr. Goto, looking at the test results, the effects of years of physical labor seem to be showing.",
+      "style": "Calm professional tone with measured pacing throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "やっぱりか…若い頃から無理ばっかりしてきたからのう。",
+      "en": "I knew it... I've been pushing myself too hard since I was young.",
+      "style": "Gravelly elderly male voice with resigned sigh"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もともとアレルギー体質ということもあり、関節への蓄積疲労がかなり進んでおります。",
+      "en": "Combined with your allergic constitution, the accumulated fatigue in your joints has progressed considerably.",
+      "style": "Gentle but clinical delivery with careful enunciation"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "蓄積っちゅうのは、もう治らんもんなんかね、先生?",
+      "en": "This accumulated damage, can it not be healed anymore, doctor?",
+      "style": "Worried elderly tone with slight tremor in voice"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それから、視覚の検査でも気になる点がありまして、強烈な光に対する反応が鈍くなっています。",
+      "en": "Also, in the vision tests there are concerning points, your response to intense light has become dull.",
+      "style": "Serious tone shifting to deliver important news"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "そりゃ恐ろしい話じゃのう…運転も控えた方がええんかな。",
+      "en": "That's a frightening thing to hear... should I refrain from driving too?",
+      "style": "Anxious elderly voice with rural inflection"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、年齢を考えますと必然的に判断力も落ちますから、ご家族と相談なさってください。",
+      "en": "Yes, considering your age your judgment will inevitably decline, so please consult with your family.",
+      "style": "Soft empathetic delivery with reassuring closure"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "わかった。高等な医学のことはようわからんが、先生の言う通りにするわ。",
+      "en": "Understood. I don't really get advanced medicine, but I'll do as you say, doctor.",
+      "style": "Slow accepting tone with humble grandfatherly warmth"
+    }
+  ]
+}

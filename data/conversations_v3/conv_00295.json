@@ -1,0 +1,90 @@
+{
+  "id": "conv_00295",
+  "context": "Riku has sprained his ankle in soccer. He sees Dr. Saito for the small injury.",
+  "purpose": "small medical visit — teen receiving sports-injury care",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "怪我",
+    "足",
+    "部活",
+    "治る",
+    "注意"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_015)",
+    "generated_at": "2026-05-26T20:40:58.862Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "リクさん、足、ちょっと見せてください。",
+      "en": "Riku, let me see your foot a bit.",
+      "style": "Doctor warm professional gentle teen-careful opener, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-professional"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、お願いします。痛くて。",
+      "en": "Yes, please. It hurts.",
+      "style": "Teen warm soft honest brief careful sharing, the soft real real-fatigue audible, gentle real warmth throughout delivery.",
+      "mood": "honestly-brief"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "部活でですか？サッカー？",
+      "en": "In club? Soccer?",
+      "style": "Doctor warm professional gentle teen-curious, the soft real real-engaged audible, gentle real warmth throughout delivery.",
+      "mood": "gently-curious"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい。試合中、転んで。",
+      "en": "Yes. During the match, fell.",
+      "style": "Teen warm casual brief honest reporting, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "casually-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "骨は大丈夫そうだけど、捻挫ですね。",
+      "en": "The bone looks fine, but it's a sprain.",
+      "style": "Doctor warm professional gentle clear diagnosing, the soft real real-expert-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-clear"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "いつ治りますか？大会近いんで…。",
+      "en": "When will it heal? Tournament is close…",
+      "style": "Teen warm soft worried real careful inquiry, the soft real real-worry audible, gentle real warmth throughout delivery.",
+      "mood": "softly-worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "二週間は、運動控えて。無理すると悪化します。",
+      "en": "Two weeks, refrain from sports. Pushing makes it worse.",
+      "style": "Doctor warm firm gentle clear adult-respecting, the soft real real-expert audible, gentle real warmth throughout delivery.",
+      "mood": "gently-firm"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うう、わかりました。",
+      "en": "Ugh, understood.",
+      "style": "Teen warm soft reluctant accepting committed, the soft real real-disappointment-but-acceptance audible, gentle real warmth throughout delivery.",
+      "mood": "reluctantly-accepting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今、ちゃんと治した方が、長く動けるよ。",
+      "en": "Healing properly now means moving longer later.",
+      "style": "Doctor warm gentle wise mentor-encouragement closing, the soft real real-mentor warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-wise"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05967",
+  "context": "Two managers discuss store ops",
+  "purpose": "Teach: 工務/自給/話し合う/書き換え/増設/換気/量販/退社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工務",
+    "自給",
+    "話し合う",
+    "書き換え",
+    "増設",
+    "換気",
+    "量販",
+    "退社"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "地元工務店、引き続き発注しよう。",
+      "en": "We'll keep sourcing from the local contractor.",
+      "style": "Decisive, clipped. Lean forward slightly on the opening. No hesitation—this is settled. Businesslike but not cold. The tone of someone moving through an agenda with focus.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。自給率の高い食材、話し合う場を持ちました。",
+      "en": "Right. We had a discussion about sourcing local, high-yield ingredients.",
+      "style": "Attentive, confirming. Slight nod in the voice. Professional but warm—showing he's been listening and taking it seriously. Even pace, no rush. Steady presence.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "看板の書き換え、年内に。展示棚も増設しよう。",
+      "en": "We'll redo the signage by year-end. And let's add more display shelving.",
+      "style": "Purposeful, two-part direction. Slight pause between the two items—giving each its weight. Confident in these decisions. Voice sits level, not elevated. The tone of someone who's thought this through.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "換気の点検、量販店仕様で、月一回。",
+      "en": "Ventilation checks monthly—using the large-scale retail standard.",
+      "style": "Procedural, clear. Slightly formal on the specification. Not reading from a list, but precise. The voice of someone making sure the practical details don't slip. Quiet conviction underneath.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "退社時刻の管理、徹底させていこう。",
+      "en": "And we need to tighten up on exit times—actually enforce it.",
+      "style": "Direct, slightly weighted. Not sharp, but firm. A pause before 'actually enforce'—the voice catching on something that matters. Careful not to sound punitive, but clear this is non-negotiable.",
+      "mood": "firm"
+    }
+  ]
+}

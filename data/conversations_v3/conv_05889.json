@@ -1,0 +1,65 @@
+{
+  "id": "conv_05889",
+  "context": "A police officer briefs on financial-fraud risks",
+  "purpose": "Teach: （株）/小生/亭/竹中/ニッポン放送/世田谷/キャピタル/人組",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "（株）",
+    "小生",
+    "亭",
+    "竹中",
+    "ニッポン放送",
+    "世田谷",
+    "キャピタル",
+    "人組"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_296 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社（株）の金融取引、警察庁ガイドラインに準拠してください。",
+      "en": "Your company's financial transactions need to comply with National Police Agency guidelines.",
+      "style": "Measured, official tone. Speaking from procedure, not judgment. Clear enunciation on compliance terms. Slight pause between clauses—giving weight without pressure.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。小生が、対応窓口です。",
+      "en": "Yes. I'm the point person.",
+      "style": "Direct and ready. Quick acknowledgment—no elaboration. Solid, steady delivery. Eye contact steady. Taking responsibility without making a show of it.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "過去事例、九段亭での会食を悪用した詐欺、参考にしてください。",
+      "en": "Look at the past cases—fraud schemes using Kudan-tei dinners as cover. They're instructive.",
+      "style": "Formal but not cold. Specific weight on 「過去事例」. Speaking as someone who has seen patterns repeat. Slight deliberate pace, giving each reference time to land.",
+      "mood": "cautionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "竹中先生にも、ニッポン放送経由で警鐘を頂きました。",
+      "en": "MP Takenaka passed along a similar warning to us through Nippon-Hoso.",
+      "style": "Factual update, no urgency. Calm acknowledgment that the alert came from above. Light conversational tone—just adding context he was meant to know.",
+      "mood": "informed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "世田谷オフィスの監視カメラ、キャピタル取引にも対応する2人組体制で。",
+      "en": "The Setagaya office surveillance system—set up a two-person rotation specifically for capital transactions.",
+      "style": "Directive closing. Crisp, clear instructions. Speaking with authority but not harshness. Pause before the practical detail. The tone of someone closing a briefing.",
+      "mood": "commanding"
+    }
+  ]
+}

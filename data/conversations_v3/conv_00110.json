@@ -1,0 +1,125 @@
+{
+  "id": "conv_00110",
+  "context": "Café closing time. Kenji has been a regular for months. Today he's stayed past close — the last customer. He has been working up to something.",
+  "purpose": "first-step romance — nervous customer, gentle barista",
+  "ambient": "cafe_afternoon",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今日",
+    "ありがとう",
+    "大丈夫",
+    "一緒"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "佐藤さん、もう閉店なんですけど…",
+      "en": "Sato-san — we're closing up, actually…",
+      "style": "Gentle, apologetic note threaded through. Half-amused, familiar with his presence. Warm but firm.",
+      "mood": "affectionate_apologetic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ですよね、すみません。…ちょっと、聞いてもいいですか。",
+      "en": "I know, I'm sorry. …Can I ask you something?",
+      "style": "Noticeably less smooth than usual. Quieter. Pause before the question — like he's steadying himself. Hands fidget.",
+      "mood": "nervous"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、もちろん。",
+      "en": "Yes — of course.",
+      "style": "Curious and careful. A shift in attention from the till to him. Patient openness.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっと…今度の週末、もし時間があれば…",
+      "en": "Um… this weekend, if you have time…",
+      "style": "Real beat between thoughts. Eyes down or elsewhere — anywhere but her face. Breath slightly held.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(small smile)はい？",
+      "en": "(small smile) Yes?",
+      "style": "Smile audible in the voice — warm and present. Gentle encouragement without pushing. Gives him space to finish.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ご飯でも…一緒に、本当に、よかったら。",
+      "en": "Maybe dinner… together, if you'd want to.",
+      "style": "Small, honest invitation. No hiding the nerves beneath the politeness. Straightforward despite the fear.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "…えっ。",
+      "en": "…Oh.",
+      "style": "Small startled intake of breath. Genuine surprise — a moment of recalibration. Not rejection, just — caught off guard.",
+      "mood": "surprised"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当に、無理だったら、ぜんぜん、大丈夫ですから。",
+      "en": "Really, if it's no — that's completely okay.",
+      "style": "Practiced reassurance delivered in one careful breath. Trying to protect them both from his own hoping. Steady but tense.",
+      "mood": "considerate_afraid"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "違う、違う、嬉しい、本当に。",
+      "en": "No, no — I'm glad, really.",
+      "style": "Quick, genuine correction. Voice lifts slightly. A real smile breaking through. Reassurance now flowing the other way.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…本当に？",
+      "en": "…Really?",
+      "style": "Small, careful confirmation. Disbelief softening into trust. Genuine throughout — no performance.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。…じゃあ、土曜日、どう？",
+      "en": "Yes. …How about Saturday?",
+      "style": "A small steady step forward. Practical and present. Already in the yes, moving past the fear together.",
+      "mood": "warm_certain"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。本当に、ありがとう。",
+      "en": "Thank you. Truly — thank you.",
+      "style": "Doubled gratitude, real weight in both thanks. The exhale of a whole conversation. Closing the moment with genuine relief.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ。…時間、後で、連絡しますね。",
+      "en": "Likewise. …I'll text you the time later.",
+      "style": "Warm, small closure. Already moving to closing tasks — efficiency mixed with ease. Not rushing him out, just — settling into the next thing.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、ぜひ。…今日、本当に、来てよかった。",
+      "en": "Yes, please. …I'm really glad I came in today.",
+      "style": "Said as he's heading toward the door. Quiet, sincere, not performative. A small genuine goodbye.",
+      "mood": "content_grateful"
+    }
+  ]
+}

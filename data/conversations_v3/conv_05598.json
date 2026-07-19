@@ -1,0 +1,72 @@
+{
+  "id": "conv_05598",
+  "context": "A uni student helps a teen friend customize a device",
+  "purpose": "Teach: フォント/バッテリー/スタンド/アマゾン/ライオン/タンク/カスタマイズ/タマ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "フォント",
+    "バッテリー",
+    "スタンド",
+    "アマゾン",
+    "ライオン",
+    "タンク",
+    "カスタマイズ",
+    "タマ"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、スマホのフォント変えたいんですけど、おすすめあります?",
+      "en": "Senpai, I want to change my phone fonts — do you have any recommendations?",
+      "style": "Direct, eager lean-in. Quick energy. Testing whether he'll actually engage with the question. Slight uptick at the end seeking validation.",
+      "mood": "curious_eager"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "アマゾンに有料フォントあるぞ。カスタマイズ自由度高い。",
+      "en": "Amazon has paid fonts. Really high customization options.",
+      "style": "Straightforward, matter-of-fact delivery. Settling into helper mode. A beat of eye contact — this is solid info and he knows it. No performance.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "バッテリー消費、増えないですか?",
+      "en": "Does it drain the battery though?",
+      "style": "Practical follow-up, slight worry underneath. Spoken quickly, like she's testing his thoroughness. Expects a real answer.",
+      "mood": "pragmatic_checking"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "少しは。スタンドで充電すれば問題ない。",
+      "en": "Yeah, a little. But if you charge it at your desk, it's not a problem.",
+      "style": "Easy, reassuring half-shrug in the voice. Problem-solving tone, not lecturing. Leaning back slightly — he's thought this through before.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "壁紙、ライオンか、うちの猫タマの写真にしようか迷ってます。",
+      "en": "Wallpaper — I'm torn between putting a lion or a photo of my cat Tama.",
+      "style": "Animated, conversational warmth. Genuine indecision in the rhythm. Slight brightness saying 'Tama' — she likes talking about her cat. Leaning forward again.",
+      "mood": "playful_torn"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "タンクトップで似合うやつ撮って、それを壁紙にしたら?",
+      "en": "Why not take a photo of yourself in a tank top that really works, and use that as your wallpaper?",
+      "style": "Soft, genuinely suggesting it — not teasing. Warm close. A beat of vulnerability underneath the idea. Eye contact steady. Speaks like he's thought about what suits her.",
+      "mood": "warm_tender"
+    }
+  ]
+}

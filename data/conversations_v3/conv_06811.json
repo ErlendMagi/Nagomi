@@ -1,0 +1,86 @@
+{
+  "id": "conv_06811",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 主治医/遺言/台頭/文科/担い手/陳情/微生物/消去",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "主治医",
+    "遺言",
+    "台頭",
+    "文科",
+    "担い手",
+    "陳情",
+    "微生物",
+    "消去"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_342 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんの主治医、私が、長く担当しております。",
+      "en": "Ren, I've been this patient's primary physician for quite some time now.",
+      "style": "Composed and measured. Direct gaze. Slight pause before the main clause—establishing authority without arrogance. Steady breath throughout.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最近、患者さんの遺言、医療倫理として、扱われる場面、増えていますね。",
+      "en": "Lately, cases where we're treating patient autonomy as a medical ethics issue have been coming up more often.",
+      "style": "Genuine curiosity, not performative. Slight lean forward. Soft on the question—seeking her perspective rather than testing knowledge. A little awkward pause mid-thought.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。AI診断、医療界での台頭、目覚ましいです。",
+      "en": "Yes. The rise of AI diagnostics in medicine has been quite remarkable.",
+      "style": "Matter-of-fact, but not dismissive. Speaking from experience. Light emphasis on 「目覚ましい」—she's noticing the shift herself. Measured pace, no urgency.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "文科省の予算、医療研究への投入、増えていますか、最近?",
+      "en": "Has the ministry been increasing its budget allocation to medical research lately?",
+      "style": "Direct but deferential. Testing whether she'll confirm what he suspects. Slight hesitation before the question—he's stepping carefully. Looking for her read on the politics.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。次世代医療の担い手、若手医師に、期待しています。",
+      "en": "Yes. There's a lot of expectation placed on young physicians to lead the next generation of medicine.",
+      "style": "Warm but clear-eyed. A small note of something personal here—maybe she sees herself in that investment, or the weight of it. Slower on the names, giving them weight. Not quite mentoring yet, but close.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医師会の陳情、政府に対して、行われましたよね、先月。",
+      "en": "The medical association did petition the government last month, didn't they?",
+      "style": "Checking facts, not questioning her. Small note of interest—he's following the policy landscape. Slight uptick at the end, genuine question. A little hesitant, as if testing whether it's appropriate to raise.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。微生物研究、感染症対策に、欠かせません。",
+      "en": "Yes. Microbial research is indispensable for infectious disease prevention.",
+      "style": "Firm, instructive but not condescending. She's sharing something she cares about. Slight emphasis on 「欠かせません」—conviction. She means this. Clear breath between thoughts.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病歴データ、消去する基準、医療法で、明確化、必要ですよね。",
+      "en": "Medical law needs to clarify the standards for when and how patient records should be deleted, don't you think?",
+      "style": "Thoughtful close to the conversation. He's processing out loud now, not just asking. Gentle but serious. A slight exhale, like he's settling into something important. Slower pace—wanting her to hear him.",
+      "mood": "reflective"
+    }
+  ]
+}

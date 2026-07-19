@@ -1,0 +1,86 @@
+{
+  "id": "conv_08106",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 公庫/汎用/中級/勘案/解禁/焼却/税法/公述",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公庫",
+    "汎用",
+    "中級",
+    "勘案",
+    "解禁",
+    "焼却",
+    "税法",
+    "公述"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_407 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、政策金融公庫の融資を活用しろ",
+      "en": "We need to leverage the Policy Finance Corporation's loan programs.",
+      "style": "Clipped, authoritative opening. Each phrase lands with weight. No room for hesitation. The tone of someone accustomed to being obeyed without repetition.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社の汎用部品の需要が伸びております",
+      "en": "Yes, sir. Demand for our general-purpose components has been growing steadily.",
+      "style": "Respectful and precise. Speaks clearly without rush. Eyes up — meeting his gaze. The confidence of someone who has done his homework and can back up what he's saying.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員研修は中級コースから始めよ",
+      "en": "Start the staff training program with the intermediate level course.",
+      "style": "Measured directive. No inflection that invites negotiation. Brief pause before 'intermediate' — the word itself carries weight. Expects compliance.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、市場動向を勘案して戦略を立てます",
+      "en": "Yes, sir. We'll factor in current market conditions and build our strategy accordingly.",
+      "style": "Steady, methodical delivery. Slight formal lift on 'factor in' — showing he's thought this through. Calm assurance, not reassurance-seeking. Grounded in data.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品の解禁、来月に予定しろ",
+      "en": "Schedule the new product launch for next month.",
+      "style": "Crisp, final. The words land like checkmarks on a list. No elaboration needed. The tone of someone closing one item to move to the next.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。古い書類は焼却処分いたします",
+      "en": "Yes, sir. We'll ensure the old documentation is properly destroyed.",
+      "style": "Formal politeness. Slight emphasis on 'properly' — showing attention to procedure. Respectful but not obsequious. The tone of someone executing orders with care.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "税法改正に対応した経理体制を整えろ",
+      "en": "Update our accounting department to comply with the new tax regulations.",
+      "style": "Direct instruction. Measured pace. Weight on 'comply' — making clear this is non-negotiable. The tone of someone who knows regulatory landscapes demand precision.",
+      "mood": "imperative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。公述人として国会で証言される件、対応いたします",
+      "en": "Yes, sir. I'll handle the arrangements for your testimony before the Diet.",
+      "style": "Formal closing tone. Slight deepening of voice on 'arrangements' — showing he understands the gravity. Respectful, competent. The last response of a meeting that has concluded.",
+      "mood": "resolute"
+    }
+  ]
+}

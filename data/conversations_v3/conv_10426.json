@@ -1,0 +1,86 @@
+{
+  "id": "conv_10426",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 車輪/離陸/発車/発せ/呼び出さ/乗り込み/買い求め/現況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "車輪",
+    "離陸",
+    "発車",
+    "発せ",
+    "呼び出さ",
+    "乗り込み",
+    "買い求め",
+    "現況"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_523 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、台車の車輪交換を毎月点検しろ",
+      "en": "We need to inspect the cart wheel replacements every month without fail.",
+      "style": "Measured, authoritative opening. Clear enunciation on the directive. Steady pace, no softening. The tone of someone used to being listened to.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。物流倉庫の航空便、つまり離陸時刻を確認します",
+      "en": "Understood. I'll confirm the departure times for all air shipments from the logistics warehouse.",
+      "style": "Attentive, taking mental note. Slight forward lean in the posture. Respectful but not servile — the cadence of someone making a commitment.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、配送車の発車時刻を厳守しろ",
+      "en": "And make sure delivery vehicle departure times are strictly adhered to — no exceptions.",
+      "style": "Firm, almost clipped on 'strictly.' Lean forward slightly for emphasis. This is non-negotiable. The weight of an executive who expects compliance.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。全社員にメッセージを発せられる体制を整えます",
+      "en": "Understood. I'll set up a system where we can reach all staff instantly whenever we need to.",
+      "style": "Assured, already moving mentally to execution. Slight quickening in pace as he outlines the plan. Confident but respectful in tone.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員が呼び出される際の手順を文書化しろ",
+      "en": "Then document the exact procedure for when staff are called in. Make it formal.",
+      "style": "Direct, almost matter-of-fact. Slight pause before 'formal' — letting the word land. This is administrative rigor, not suggestion.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人が現場へ乗り込みやすい体制にします",
+      "en": "Understood. I'll restructure the process so new hires can get to the site quickly and without confusion.",
+      "style": "Brisk, solution-oriented. Speaking slightly faster now — energy building with the plan. Tone lifts slightly at the end, showing readiness.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員が必要な備品を買い求められる経費枠を増やせ",
+      "en": "Increase the equipment budget available to staff. They need proper resources to do the work.",
+      "style": "Quiet conviction underneath. Not loud, but it carries weight. Slight emphasis on 'resources' — this is about enabling people, not just directives.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。現況報告を毎週金曜にまとめます",
+      "en": "Understood. I'll compile a status report every Friday and keep you updated.",
+      "style": "Calm close. Breathing settles. Tone indicates completion of task list — professional, steady. A slight nod in the voice.",
+      "mood": "resolute"
+    }
+  ]
+}

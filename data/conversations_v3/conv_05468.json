@@ -1,0 +1,72 @@
+{
+  "id": "conv_05468",
+  "context": "A uni intern interviews a manager about corporate initiatives",
+  "purpose": "Teach: 月額/採決/取組/拠出/強行/承り/隊長/棟",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月額",
+    "採決",
+    "取組",
+    "拠出",
+    "強行",
+    "承り",
+    "隊長",
+    "棟"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "御社の社会貢献の取組、教えていただけますか。",
+      "en": "Could you tell me about your company's social responsibility initiatives?",
+      "style": "Respectful, slightly formal. Leaning forward slightly with genuine curiosity. Careful articulation—this is an important question. Steady eye contact, no rush.",
+      "mood": "earnest_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。毎年の拠出額は、月額換算で公表しています。",
+      "en": "Yes. We publish our annual contributions converted to monthly figures.",
+      "style": "Professional warmth. Clear and measured. A slight nod of confirmation on 'Yes.' Speaking from prepared knowledge but delivered as conversation, not recitation.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "採決を強行することなく、社員総意で決まっているんですか。",
+      "en": "So those contributions are decided by team consensus rather than forced votes?",
+      "style": "Thoughtful pause before speaking. Gentle probe—not accusatory. Respectful tone checking understanding. Slight lean-in showing this detail matters to him.",
+      "mood": "curious_probing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。現場の隊長からも承りますの確認を取ります。",
+      "en": "Yes. We get confirmations of understanding from the people working on the ground with these initiatives.",
+      "style": "Clear and direct, with quiet pride. Speaking as someone who knows the system works. Precise pacing—not rushing, not dragging. Genuine.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本社棟の見学も、参加できるんですか。",
+      "en": "And interns can participate in the headquarters tours too?",
+      "style": "Bright, hopeful edge. Genuine interest—he's imagining himself there. Quick, a little lighter than before. Natural follow-up energy.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "毎月一回、解放しています。",
+      "en": "We open them once a month.",
+      "style": "Warm and brief. A small smile in the voice—simple answer to a simple question. Conversational closing, not abrupt. Implicitly welcoming.",
+      "mood": "warm"
+    }
+  ]
+}

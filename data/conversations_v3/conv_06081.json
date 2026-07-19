@@ -1,0 +1,86 @@
+{
+  "id": "conv_06081",
+  "context": "Two friends after a difficult day",
+  "purpose": "Teach: 酔い/湿気/寒かっ/叱ら/落ち込み/思い浮かべ/縁起/引っ張る",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "酔い",
+    "湿気",
+    "寒かっ",
+    "叱ら",
+    "落ち込み",
+    "思い浮かべ",
+    "縁起",
+    "引っ張る"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨夜、お酒で酔いが回って、よく覚えてないの。",
+      "en": "Last night I got drunk and honestly, it's all kind of fuzzy now.",
+      "style": "Soft admission. A little embarrassed laugh under the surface. Vulnerable but not ashamed — just being honest with someone safe.",
+      "mood": "vulnerable_sheepish"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。湿気もすごかったし、体力使ったね。",
+      "en": "Yeah, and it was so humid too. You really gave it your all.",
+      "style": "Warm understanding. Not dismissing it — acknowledging how much the heat took out of her. Sympathetic nod in the voice.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "寒かった朝、布団から出るのがつらい。",
+      "en": "Cold mornings just make it so hard to get out of bed.",
+      "style": "Quiet, almost wistful. The weight of low mood settling in her voice. Not energetic — tired and a little stuck.",
+      "mood": "heavy"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "昨日、上司に叱られた件、まだ引きずってる?",
+      "en": "Is yesterday's thing with your boss still getting to you?",
+      "style": "Gentle probe. Caring attention — not probing too hard, but checking in. Noticing what's beneath the surface.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。落ち込みやすくて、自分が嫌になる。",
+      "en": "Yeah… I fall into this so easily. I hate that I'm like this.",
+      "style": "Tender but hurt. Self-criticism underneath. Slow, careful. The kind of confession you make to someone you trust not to fix you.",
+      "mood": "self_critical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "明日の予定、頭に思い浮かべて、リフレッシュしてね。",
+      "en": "Think about what's coming tomorrow. Let that give you a little lift.",
+      "style": "Gentle redirection. Warm but not pushy. A soft suggestion from someone who knows her heart is in the right place.",
+      "mood": "hopeful_encouraging"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "縁起担ぎに、神社、寄ろうかな。",
+      "en": "Maybe I'll stop by a shrine. For a little luck.",
+      "style": "Tentative opening. A small spark of possibility. Quiet but there — not fully resolved, but reaching.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。元気よく、ロープを引っ張る感じで、前へ。",
+      "en": "Yes. Pull that rope with everything you've got — move forward.",
+      "style": "Warmer now, slightly more energy but still grounded. The image of a festival bell — a small, tangible gesture. Encouraging without being loud.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

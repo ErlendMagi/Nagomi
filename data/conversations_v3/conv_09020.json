@@ -1,0 +1,86 @@
+{
+  "id": "conv_09020",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 惣菜/祇園/ビリヤード/ツバメ/炭水化物/クールビズ/高島屋/芸者",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "惣菜",
+    "祇園",
+    "ビリヤード",
+    "ツバメ",
+    "炭水化物",
+    "クールビズ",
+    "高島屋",
+    "芸者"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_452 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、夕飯はお祖母ちゃんの惣菜でゆっくり頂きましょう",
+      "en": "Sho, let's take our time with dinner tonight — Grandma made such lovely side dishes.",
+      "style": "Warm, unhurried opening. Gentle settle into the moment. A small smile in the voice. Inviting him to slow down with her, not instructing.",
+      "mood": "warm_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが昔、祇園で食事された写真見たよ",
+      "en": "Mom, I saw a photo of Dad from a long time ago when he ate in Gion.",
+      "style": "Soft, observant curiosity. Slight wonder — he's noticed something and wants to share it. Not demanding attention, just offering it. Pause before 'Gion' like he's picturing it.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがビリヤード台のあるホテルを予約して下さったわ",
+      "en": "Sho, your father reserved us a hotel with a billiards table.",
+      "style": "Quiet pleasure underneath. A mother noticing her son will be happy about this. Almost to herself, then shared. Measured pace, a small warmth on 'reserved.'",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お庭のツバメに名前付けたよ",
+      "en": "Mom, I named the swallows in our garden.",
+      "style": "Bright, open-faced. Pride in a small discovery. Quick pace, eager to tell her. The 'I' lands firmly — he did this. No hesitation, just wanting her to know.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ご飯と炭水化物のバランスを考えましょう",
+      "en": "Sho, let's think about balancing your rice and other carbohydrates, okay?",
+      "style": "Gentle redirection, not correction. A mother who notices and guides without making it feel like a rebuke. Practical warmth. The 'okay?' is soft, inviting agreement, not demanding it.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんがクールビズで会社に行かれたわ",
+      "en": "Mom, Dad went to the office in cool-biz today.",
+      "style": "Observant, small-voiced delight in noticing something. He's spotted a detail and is reporting it like it matters. Quick, unadorned. The tone of a child who watches people he loves.",
+      "mood": "observant_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんと高島屋へ行きましょうね",
+      "en": "Sho, shall we go to Takashimaya with Grandma?",
+      "style": "Invitation wrapped in tenderness. A moment of planning something together. Warm, inclusive tone. The 'shall we' draws him in, makes it theirs, not hers alone.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、京都で芸者さんに会いたいよ",
+      "en": "Mom, I want to meet a geisha in Kyoto.",
+      "style": "Wistful, bright longing. He's imagined this. Open vowels on 'geisha.' Not demanding, but the wish is earnest and clear. The kind of dream a small boy voices to his mother.",
+      "mood": "wistful_dreaming"
+    }
+  ]
+}

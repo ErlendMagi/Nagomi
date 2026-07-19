@@ -1,0 +1,82 @@
+{
+  "id": "conv_03182",
+  "context": "A customer browsing handmade items at the market stall",
+  "purpose": "Buy a handmade item; teach つくる/売り/最低/わずか/売る/トラブル",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "つくる",
+    "売り",
+    "最低",
+    "わずか",
+    "売る",
+    "トラブル"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "この小物、素敵ね。ぜんぶ手でつくるの？",
+      "en": "These trinkets are lovely. You make them all by hand?",
+      "style": "warm browsing mother charmed by the craft"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "そうや、ひとつずつ丁寧につくるんや。",
+      "en": "Yes, I make each one carefully, one by one.",
+      "style": "gently proud explaining his careful method"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お値段は？ 売り物はどれかしら。",
+      "en": "How much? Which ones are for sale?",
+      "style": "polite shopper scanning for the price"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "この棚が売り物やで。最低でも三百円からや。",
+      "en": "This shelf is for sale. Three hundred yen at the lowest.",
+      "style": "helpful owner pointing out the priced shelf"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "わずかな差だけど、こっちのほうが好き。",
+      "en": "It is a tiny difference, but I prefer this one.",
+      "style": "thoughtful customer weighing a small distinction"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "それ、すぐ売るで、人気やから。",
+      "en": "That one sells fast, it is popular.",
+      "style": "nudging Kansai salesman creating gentle urgency"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "包装でトラブルとかない？ 割れ物だけど。",
+      "en": "Any trouble with the wrapping? It is fragile.",
+      "style": "cautious mother worried about a breakable item"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "心配ない、丁寧に包むから。",
+      "en": "No worries, I will wrap it carefully.",
+      "style": "reassuring craftsman putting the customer at ease"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "じゃあ二つ買うわ。",
+      "en": "Then I will take two.",
+      "style": "pleased shopper deciding to purchase, voice clear and distinctly their own"
+    }
+  ]
+}

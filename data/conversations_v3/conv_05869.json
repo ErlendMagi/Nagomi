@@ -1,0 +1,65 @@
+{
+  "id": "conv_05869",
+  "context": "A police officer briefs an exec about local cooperation",
+  "purpose": "Teach: 地盤/町長/奨学/実名/前編/メーター/パッチ/ならびに",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "地盤",
+    "町長",
+    "奨学",
+    "実名",
+    "前編",
+    "メーター",
+    "パッチ",
+    "ならびに"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_295 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の地盤強化、町長からも、感謝の声が届いています。",
+      "en": "Your company's foundation-strengthening efforts have earned the mayor's appreciation. We've heard good things.",
+      "style": "Professional, measured opening. Even tone, steady eye contact. Formal but not cold — the warmth of official recognition. A slight pause before the second sentence, letting weight settle.",
+      "mood": "official_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地元の奨学金、実名で報じられて、評判です。",
+      "en": "Yes. The local scholarship received named media coverage. It's been well-received.",
+      "style": "Respectful, attentive. Responds directly without overstepping. Calm certainty — he knows this is good work. Slight lean-in to show genuine agreement, not just protocol.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今後の防犯講習、前編と後編、二回に分けます。",
+      "en": "Going forward, we'll split the safety workshops into two sessions — a first part and a follow-up.",
+      "style": "Clear, informative delivery. Deliberate pacing on each phrase. No rush — he's laying out a plan that matters. Professional tone with an underlying care for thorough implementation.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。メーター監視、ならびにパッチ更新、警察と歩調を合わせます。",
+      "en": "Understood. We'll keep meter monitoring and patch updates synchronized with your department.",
+      "style": "Committed, assured. Direct acknowledgment followed by concrete commitment. Steady voice showing readiness to move in lockstep. No hesitation, just reliable agreement.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お願いします。",
+      "en": "Thank you. We'll be counting on you.",
+      "style": "Quiet closing. A slight nod in the voice. Formal but genuine — the finality of mutual respect between people who understand accountability. Gentle exhale at the end.",
+      "mood": "grateful"
+    }
+  ]
+}

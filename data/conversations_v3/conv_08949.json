@@ -1,0 +1,86 @@
+{
+  "id": "conv_08949",
+  "context": "Officer briefs",
+  "purpose": "Teach: 安売り/値動き/外装/試用/贈呈/発案/損得/取り立て",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "安売り",
+    "値動き",
+    "外装",
+    "試用",
+    "贈呈",
+    "発案",
+    "損得",
+    "取り立て"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_449 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、安売り商品の中の偽造品を捜査されますね",
+      "en": "The police investigate counterfeit goods mixed in with discount items.",
+      "style": "Clear, factual tone. Straightforward delivery with slight appreciation underneath. Measured pace, steady eye contact. Speaking as an equal, not deferential.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、株式の値動きで詐欺が増える事案にも対応されますね",
+      "en": "The police handle cases where fraud increases with stock market volatility.",
+      "style": "Same measured, appreciative clarity. Acknowledging complexity without slowing down. Warmth in recognizing their work, not in performance.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、街灯の外装を防犯仕様にして下さってますね",
+      "en": "You've fitted the streetlights with crime-prevention exteriors.",
+      "style": "Noticing something concrete. Slight lift of approval. Direct, not overstated. The tone of someone who actually sees what's been done.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、新防犯機材の試用、ありがたいです",
+      "en": "We're really grateful for the trial of your new crime-prevention equipment.",
+      "style": "Genuine gratitude breaking through slightly. Warm but measured. 'Really' lands with quiet sincerity, not performance. Slight lean forward.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、感謝状の贈呈もされますね",
+      "en": "I notice you present commendation certificates too.",
+      "style": "Observant, appreciative. Listing facts but with warm recognition. Not reciting — conversing. Slight pause before the observation lands.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、市民発案の防犯活動を支援されますね",
+      "en": "You support crime-prevention efforts that come from the community itself.",
+      "style": "Quiet approval. Emphasizing 'community' with slight warmth. Measured, steady. The tone of someone noting something that matters.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、損得勘定で動かれないご姿勢、頼もしいです",
+      "en": "Your willingness to act on principle, not profit — that's what makes you reliable.",
+      "style": "Firmer than before. Sincere admiration breaking through. Not flattering — stating something observed. Direct eye contact. Weight in the delivery.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、悪質な取り立てを捜査されますね",
+      "en": "You investigate aggressive collection practices.",
+      "style": "Tone shifts. Quieter, closer. More personal investment. Less observation, more gravity. The shift from 'they' to 'you' — more intimate recognition of what matters.",
+      "mood": "serious_gratitude"
+    }
+  ]
+}

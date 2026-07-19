@@ -1,0 +1,78 @@
+{
+  "id": "conv_04346",
+  "context": "A uni student interviews a senior systems engineer",
+  "purpose": "Teach: 複製/コマンド/ソリューション/リソース/属性/伝達/遂行/実証",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "複製",
+    "コマンド",
+    "ソリューション",
+    "リソース",
+    "属性",
+    "伝達",
+    "遂行",
+    "実証"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間いただきありがとうございます。まず、システムエンジニアとして一番大切にしている業務は何ですか?",
+      "en": "Thank you for your time today. First, what work do you value most as a systems engineer?",
+      "style": "Polite student opening with respectful interview tone and slight nervousness."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね、お客様の課題に合ったソリューションを設計し、確実に遂行することですね。",
+      "en": "Well, designing solutions that fit the client's challenges and carrying them out reliably.",
+      "style": "Calm seasoned engineer, measured pace, professional and reflective tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。プロジェクトを進める上で、リソース配分はどう判断されるんでしょうか?",
+      "en": "I see. When advancing a project, how do you judge resource allocation?",
+      "style": "Curious student leaning forward, follow-up question with genuine interest."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "メンバーの属性やスキルを見て、適材適所で割り振ります。情報の伝達がスムーズかどうかも重要です。",
+      "en": "I look at members' attributes and skills and assign them appropriately. Smooth information transfer also matters.",
+      "style": "Mentor-like explanation, patient and clear, slight pause between sentences."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場では、コマンドひとつでデータの複製ができたりするんですか?",
+      "en": "On site, can you replicate data with just a single command?",
+      "style": "Slightly excited tech-curious student, naive but eager phrasing."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、可能ですが、本番環境では事前に実証実験を重ねてから実行します。慎重さが命です。",
+      "en": "Yes, possible, but in production we run proof-of-concept tests beforehand. Caution is everything.",
+      "style": "Cautionary senior voice, emphasizing professional discipline with gravitas."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "学生のうちに身につけておくべきことって、ありますか?",
+      "en": "Is there anything I should master while still a student?",
+      "style": "Earnest, slightly humble student seeking career advice."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基礎をしっかりとね。あとは、自分の考えをきちんと伝える力。それが将来必ず効いてきます。",
+      "en": "Build a solid foundation. And the ability to convey your ideas clearly — that pays off later.",
+      "style": "Warm encouraging closing tone, slower delivery, mentor giving heartfelt advice."
+    }
+  ]
+}

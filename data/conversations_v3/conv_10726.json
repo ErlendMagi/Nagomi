@@ -1,0 +1,86 @@
+{
+  "id": "conv_10726",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: ボーダフォン/サラ金/マーチ/ワーム/ヒューザー/プッシュ/エクスプレス/光ファイバー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボーダフォン",
+    "サラ金",
+    "マーチ",
+    "ワーム",
+    "ヒューザー",
+    "プッシュ",
+    "エクスプレス",
+    "光ファイバー"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_538 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、旧ボーダフォン時代の契約資料を整理しろ",
+      "en": "I want you to organize the old Vodafone-era contract documents for the company.",
+      "style": "Steady directive. Clipped, efficient phrasing. No room for pushback. Expects immediate acknowledgment and action. Eyes on the line, not the person.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員にサラ金、つまり消費者金融を借りない様注意喚起します",
+      "en": "Understood. I'll make sure the staff know not to take out consumer loans.",
+      "style": "Formal, attentive response. Speaks clearly and methodically. Confirms understanding without elaboration. Shows he's tracking the instruction precisely.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、日産マーチ等の小型車を社用車にしろ",
+      "en": "Have the company switch its fleet vehicles to small cars like the Nissan March.",
+      "style": "Measured command. Matter-of-fact tone. Specifies the example with the same authority as the order. Pauses slightly after 'March' to let it land.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバのワーム感染対策を強化します",
+      "en": "Understood. I'll also strengthen our server security against worm infections.",
+      "style": "Composed acknowledgment. Takes the instruction as a given and adds a related action. Speaks with quiet confidence about the technical step. No hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、旧ヒューザーの教訓を社員研修で扱え",
+      "en": "Make sure the company addresses the Huizer lessons in employee training.",
+      "style": "Direct order with an undertone of seriousness. Slower pace on 'Huizer lessons'—it carries weight. Expects this to be treated as important institutional memory.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。販促のプッシュ通知を最適化します",
+      "en": "Understood. I'll also optimize our promotional push notifications.",
+      "style": "Quick, assured response. Clips the ends of words slightly. Shows he's already thinking ahead, layering in another improvement. Professional confidence.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、エクスプレス配送サービスを拡充しろ",
+      "en": "Expand the company's express delivery service.",
+      "style": "Final directive. Slightly quicker tempo. Commands with finality. Sets the closure of the instruction sequence. Expects completion as standard.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内ネットワークを光ファイバーに切り替えます",
+      "en": "Understood. I'll have the internal network switched over to fiber optic.",
+      "style": "Closing confirmation. Measured, professional. States the action as a completed intention, not a question. Respectful finality. Slight nod in the tone.",
+      "mood": "resolute"
+    }
+  ]
+}

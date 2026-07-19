@@ -1,0 +1,69 @@
+{
+  "id": "conv_00560",
+  "context": "Officer Takeda checks in with Asuka about school safety patrol concerns.",
+  "purpose": "civic professionals coordinating community safety",
+  "ambient": "school_meeting_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "安全",
+    "通学",
+    "注意",
+    "協力"
+  ],
+  "cast": [
+    "takeda_officer",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "あすか先生、今日も、ありがとうございます。",
+      "en": "Asuka-sensei, thank you for today as well.",
+      "style": "Warm, respectful opening. Slight bow in the voice. Genuine gratitude without formality. Even pace, steady eye-contact level. The care audible beneath the courtesy.",
+      "mood": "grateful_respectful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "こちらこそ。通学路、最近、何か気になることが？",
+      "en": "Same to you. Lately, is there anything about the school route that's been on your mind?",
+      "style": "Warm inquiry. Lean forward slightly with attention. Professional but genuinely invested. Soft, patient pace. Inviting him to speak without pushing.",
+      "mood": "attentive_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "少し、車のスピード、上がってる気がして、子供たちの安全、心配で。",
+      "en": "I've noticed car speeds picking up a bit lately. I'm worried about the children's safety.",
+      "style": "Careful disclosure. Measured, not alarmed. Weight on the concern, not the complaint. Pause before 'safety'—letting the real worry show. Steady, responsible tone throughout.",
+      "mood": "protective_careful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "了解しました。生徒たちにも、ちゃんと、注意、伝えます。",
+      "en": "I understand. I'll make sure to go over safety with the students properly.",
+      "style": "Decisive and warm. Light emphasis on 'properly'—the commitment lands. Professional action, but personal sincerity underneath. Clear, assured delivery.",
+      "mood": "committed_assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お互い、協力して、子供たち、見守りましょう。",
+      "en": "Let's work together to look out for them.",
+      "style": "Gentle offering. Extended, almost inviting. The 'together' carries weight—building partnership. Warm close, no rush. Quiet conviction in his voice.",
+      "mood": "collaborative_earnest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "はい、本当に、感謝してます。",
+      "en": "Yes, I'm truly grateful for this.",
+      "style": "Closing warmth. Soft, sincere. Slight breath at the end—relief and appreciation mixing. The gratitude is quiet but real. Gentle fadeout, like a door closing gently.",
+      "mood": "thankful_relieved"
+    }
+  ]
+}

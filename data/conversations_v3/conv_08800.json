@@ -1,0 +1,86 @@
+{
+  "id": "conv_08800",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 栄養素/詰将棋/偶像/太陽系/オアシス/ボーイング/火薬/油田",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "栄養素",
+    "詰将棋",
+    "偶像",
+    "太陽系",
+    "オアシス",
+    "ボーイング",
+    "火薬",
+    "油田"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_441 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが栄養素のバランスを大事にしてらっしゃるわ",
+      "en": "Sho — your father really does care about having balanced nutrition in everything.",
+      "style": "Warm, observant tone. A small smile in the voice — noticing something true about her husband. Gentle pacing, no urgency. She's thinking out loud to her son.",
+      "mood": "fond_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんと詰将棋やってみたい",
+      "en": "Mom, I want to try playing tsume-shogi with Grandpa.",
+      "style": "Direct, bright request. No hesitation. The enthusiasm of a child who's thought about this and decided. Quick, genuine — not performing, just asking.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんがお寺の偶像をご覧になったのよ",
+      "en": "Sho — your grandmother saw some statues at the temple, did you know?",
+      "style": "Conversational, gently redirecting. A small lift of interest in her voice — sharing something she noticed. Unhurried, warm. Not quite answering his question, but inviting him to follow her thought.",
+      "mood": "warmly_tangential"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと太陽系の本読みたい",
+      "en": "Mom, I want to read a book about the solar system with Dad.",
+      "style": "Quieter than before, but still clear intention. A small pause before 'solar system' — he's thinking of it, picturing it. Soft and sincere. Not loud, just real.",
+      "mood": "thoughtful_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママのお庭はぼくらのオアシスね",
+      "en": "Sho — the garden that Mama tends to, it's really our little oasis, isn't it?",
+      "style": "Soft, almost confiding tone. A slight breath before speaking, like she's sharing something tender. Slow, warm pace. The voice of someone looking at something she loves and wanting him to see it too.",
+      "mood": "tender_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとボーイング社の旅客機を見に行きたい",
+      "en": "Mom, I want to go see the airplanes — the Boeing ones — with Dad.",
+      "style": "Smaller, quieter voice than the earlier requests. A little more vulnerable. Still eager, but there's wonder underneath it. He's picturing the moment, not just stating the want.",
+      "mood": "tender_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんから「火薬には絶対触らないように」って",
+      "en": "Sho — your father told you to never, ever touch gunpowder, didn't he?",
+      "style": "Serious, protective undertone. A firmer edge to the voice than before — this isn't reflection, it's emphasis. Still warm, but unmistakably a mother's instruction wrapped in a question. Clear pace, no trailing.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが油田で働く海外駐在員のお話してくれたよ",
+      "en": "Mom, Dad told me about the people who work overseas at the oil fields.",
+      "style": "Soft, reminiscent. He's sharing something he heard and is still thinking about. A small wonder in his voice — the world is big and far away. Gentle, unhurried, like he's holding onto the story.",
+      "mood": "wondrous_thoughtful"
+    }
+  ]
+}

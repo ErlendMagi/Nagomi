@@ -1,0 +1,82 @@
+{
+  "id": "conv_00053",
+  "context": "Closing time at the café where Aoi works. 9:55pm. One last customer — a tired-looking salaryman she's never seen before.",
+  "purpose": "tiny late-night service encounter — small dignity from both sides",
+  "ambient": "cafe_afternoon",
+  "target_vocab": [
+    "今",
+    "本当に",
+    "大丈夫",
+    "時間",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。あ、もうすぐ閉店なんですが…",
+      "en": "Welcome. Oh — we're closing soon, by the way.",
+      "style": "Warm apology threaded through the words. Glancing at the clock mid-sentence. Hoping he won't be bothered. No coldness underneath.",
+      "mood": "apologetic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あ、大丈夫です。テイクアウトでも。",
+      "en": "Oh, that's okay. I can do takeaway.",
+      "style": "Quick relief in the opening. Voice tired but genuine — not rushing. Gratitude held lightly, without fuss.",
+      "mood": "relieved_tired"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、もちろん。本当に、お時間ぎりぎりで…",
+      "en": "Of course, yes. I'm sorry the timing is so tight…",
+      "style": "Sincere apology now, not just routine. The 「本当に」 carries real care. Slightly breathless, like she means it.",
+      "mood": "genuinely_sorry"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、こっちこそ。最後の客で、すみません。",
+      "en": "No, please — that's on me. Sorry for showing up last.",
+      "style": "Mutual apology with a small laugh underneath. Self-deprecating. Recognizing the absurdity of the exchange with warmth.",
+      "mood": "self_deprecating"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お疲れさまですね。今日も、大変でしたか？",
+      "en": "You look worn out. Was today tough on you too?",
+      "style": "A pause before speaking — she's reading him. Genuine concern, not small talk. Leaning in slightly. The question that goes past the till.",
+      "mood": "perceptive_kind"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…ええ、まあ。よくわかりますね。",
+      "en": "Yeah… a bit. You're pretty observant.",
+      "style": "Surprised small laugh. Caught off-guard by being seen. Voice softens. A moment of real connection settling in.",
+      "mood": "caught_surprised"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お顔に出ます、ちょっとだけ。",
+      "en": "It shows — just a little, right here.",
+      "style": "A small knowing smile in the voice. Gentle, not pointing harshly. Sliding the cup across as she speaks. Matter-of-fact kindness.",
+      "mood": "warm_knowing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当にありがとう。気持ち、少し軽くなった。",
+      "en": "Really — thank you. That helped more than you know.",
+      "style": "Sincere, unguarded. The voice shifted from tired to something lighter. Gratitude that means it. Not rushing the words.",
+      "mood": "touched_grateful"
+    }
+  ]
+}

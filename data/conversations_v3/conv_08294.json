@@ -1,0 +1,86 @@
+{
+  "id": "conv_08294",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 君主/真空/放射能/被爆/高官/元来/堕落/精霊",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "君主",
+    "真空",
+    "放射能",
+    "被爆",
+    "高官",
+    "元来",
+    "堕落",
+    "精霊"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_416 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、君主制下の医療事情を医療チームで研究しております",
+      "en": "Ren, I'd like to tell you about the healthcare research we're conducting with our medical team.",
+      "style": "Steady opening, measured pace. Clear enunciation. Warm but professional—inviting him into serious conversation without pressure.",
+      "mood": "composed_welcoming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "真空パックの医療器具を貴院、活用されているとのこと、先生",
+      "en": "I understand your hospital uses vacuum-sealed sterilization for your medical equipment, sensei.",
+      "style": "Quiet curiosity. Leans slightly forward on the question. Careful enunciation—he's testing whether he understands correctly. Genuine interest, not performance.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、放射能事故時の対応訓練を医療チームで行います",
+      "en": "Yes. We conduct emergency response drills with our medical team, particularly for radiation incidents.",
+      "style": "Matter-of-fact. No apology in the tone. Steady breath. She's matter-of-fact because this is what her job requires, but there's steadiness underneath—competence speaking.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被爆地から来られた患者さんを、貴院、丁寧に診ておられますね、先生",
+      "en": "Your hospital takes such careful care of patients from affected areas. That's remarkable, sensei.",
+      "style": "Soft admiration. Deliberate pace. He's thinking as he speaks—this isn't rehearsed. Small pause before 'remarkable,' like he's choosing the word carefully.",
+      "mood": "thoughtful_respect"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、行政高官への医療相談を医療チームで対応しております",
+      "en": "Yes. We handle medical consultations with government officials as well. Our team manages those carefully.",
+      "style": "Measured, professional. A slight weight on 'carefully'—this is delicate work. No elaboration. She trusts him to understand the gravity.",
+      "mood": "steady_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、元来の小規模クリニックから大規模病院に成長されたんですね、先生",
+      "en": "So your hospital grew from a small clinic into something much larger. That must have taken real commitment, sensei.",
+      "style": "Genuine wonder. Slow pace. He's connecting dots—understanding the scale of what she's built. Not flattery, just recognition.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、心の堕落感を訴える患者さんを医療チームでケアします",
+      "en": "Yes. We also work with patients experiencing spiritual distress or loss of meaning. Our team approaches that with care.",
+      "style": "Slight softening in the vocal tone. 'Spiritual distress' is said with weight—she's not minimizing this. Calm authority. She means this.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、伝統的な精霊信仰にも理解を示されますね、先生",
+      "en": "Your hospital shows such understanding toward traditional spiritual beliefs. That's not something you see everywhere, sensei.",
+      "style": "Appreciative exhale. Slower final phrase. He's seeing something larger about her—her humanity, not just her credentials. Genuine, without over-performing.",
+      "mood": "respectful_moved"
+    }
+  ]
+}

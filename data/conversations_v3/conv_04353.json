@@ -1,0 +1,78 @@
+{
+  "id": "conv_04353",
+  "context": "A police officer briefs a teen reporter on entry procedures",
+  "purpose": "Teach: 分権/入札/海軍/排出/大気/中略/省略/ビザ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "分権",
+    "入札",
+    "海軍",
+    "排出",
+    "大気",
+    "中略",
+    "省略",
+    "ビザ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は取材だな。まず入札で決まった新しい検問システムの話から始めよう。",
+      "en": "So you're here for the interview. Let's start with the new checkpoint system decided by public bidding.",
+      "style": "Calm, professional officer establishing the briefing tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、お願いします!権限が地方分権で警察署に移ったって聞きました。",
+      "en": "Yes, please! I heard the authority shifted to local police stations under decentralization.",
+      "style": "Eager teen reporter showing she did her homework."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よく調べてきたな。基地の入口では、まずビザと身分証の有無を確認する。",
+      "en": "You've done your research. At the base entrance, we first check for visas and ID.",
+      "style": "Officer giving measured praise then explaining procedure."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "海軍の関係者も同じ手順ですか?それとも省略される部分があるんでしょうか。",
+      "en": "Do navy personnel follow the same steps, or are some parts skipped?",
+      "style": "Curious teen pressing for specific procedural details."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "海軍であっても手順は同じだ。中略せず、全工程を踏むのが原則だよ。",
+      "en": "Even for the navy, the steps are identical. No abbreviating—every step must be followed.",
+      "style": "Firm explanation emphasizing protocol consistency, signature delivery that holds the line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "車の排出ガスの検査もここでするんですか?大気汚染の対策として。",
+      "en": "Do you also inspect vehicle emissions here, as a measure against air pollution?",
+      "style": "Bright teen connecting topics with environmental awareness."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "鋭いところに気づいたな。排出基準を満たさない車両は構内に入れない。",
+      "en": "Sharp observation. Vehicles failing emissions standards aren't allowed onto the premises.",
+      "style": "Officer acknowledging insight, delivering factual detail."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強になります!記事では細かい数字は省略して書きますね。",
+      "en": "I'm learning so much! I'll leave out the fine numbers in my article.",
+      "style": "Grateful teen wrapping up with practical editorial decision."
+    }
+  ]
+}

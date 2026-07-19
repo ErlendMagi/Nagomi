@@ -1,0 +1,90 @@
+{
+  "id": "conv_03346",
+  "context": "A patient with a lingering fever",
+  "purpose": "Diagnose an infection; teach 感染/拒否/対処/防衛/認定/形態/青年/実質",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "感染",
+    "拒否",
+    "対処",
+    "防衛",
+    "認定",
+    "形態",
+    "青年",
+    "実質"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_168)",
+    "generated_at": "2026-05-29T17:43:33.003Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、熱が下がらなくて。",
+      "en": "Doctor, my fever won’t go down.",
+      "style": "worried patient seeking help, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ウイルスに感染している可能性があります。",
+      "en": "You may have a viral infection.",
+      "style": "calm doctor explaining gently, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "薬は飲みたくないんですけど…。",
+      "en": "I don’t really want to take medicine…",
+      "style": "reluctant patient hesitating, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "治療を拒否されると、悪化することもあります。",
+      "en": "If you refuse treatment, it can worsen.",
+      "style": "doctor warning kindly but firmly, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "どう対処すればいいですか？",
+      "en": "How should I deal with it?",
+      "style": "patient asking for direction, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体の防衛機能を高めるため、休養が必要です。",
+      "en": "To boost your body’s defenses, you need rest.",
+      "style": "doctor prescribing simply, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "これって、何かの病気に認定されるんですか？",
+      "en": "Will this be certified as some disease?",
+      "style": "anxious patient worrying, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえ、症状の形態からして、軽いものです。",
+      "en": "No, by the form of symptoms, it’s mild.",
+      "style": "reassuring doctor easing her fear, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "青年でも、油断は禁物ですね。",
+      "en": "Even for a young person, no carelessness, right?",
+      "style": "patient acknowledging the advice, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、実質、安静が一番の薬です。",
+      "en": "Yes — essentially, rest is the best medicine.",
+      "style": "doctor closing with a clear takeaway"
+    }
+  ]
+}

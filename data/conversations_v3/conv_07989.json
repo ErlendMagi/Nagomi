@@ -1,0 +1,86 @@
+{
+  "id": "conv_07989",
+  "context": "Officer briefs",
+  "purpose": "Teach: 埋まっ/労組/貸出/定休/代え/所存/営ん/取調べ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "埋まっ",
+    "労組",
+    "貸出",
+    "定休",
+    "代え",
+    "所存",
+    "営ん",
+    "取調べ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収品で保管庫が埋まっております",
+      "en": "Our storage facility is running over with seized evidence.",
+      "style": "Matter-of-fact, administrative tone. Steady pace. No defensiveness—just stating fact. Slight formality befitting official report.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、労組とも円滑な対話を続けているそうですね",
+      "en": "Yes. I understand both the police and the union have been maintaining smooth dialogue.",
+      "style": "Respectful affirmation. Warm acknowledgment without fawning. Pace even and deliberate. The tone of someone working *with* rather than *for*.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、装備の貸出を整えております",
+      "en": "We're working to arrange an equipment lending system.",
+      "style": "Procedural but not robotic. Clear, direct. Slight emphasis on the practical solution. Professional courtesy—laying out what's in motion.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、年末年始の定休状況をご周知ありがたいです",
+      "en": "Yes. Thank you for notifying us about the year-end closure schedule.",
+      "style": "Genuine gratitude, not performative. Warm but measured. The politeness of someone who notices when cooperation happens.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、担当を代えての対応も検討中です",
+      "en": "We're also considering reassigning the liaison officer for better continuity.",
+      "style": "Measured, thoughtful. Acknowledges the idea without overselling it. Pace steady. The tone of someone open to adjustments.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、犯罪減少に努める所存ですね",
+      "en": "Yes. We remain committed to reducing crime in this area.",
+      "style": "Sincere commitment without theatrics. Steady, purposeful. The kind of simple conviction that doesn't need decoration.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域でパトロールを営んでおります",
+      "en": "We're maintaining regular patrols throughout the district.",
+      "style": "Clear update. Factual, confident. Even pace. The tone of someone reporting work already underway, not promising future action.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者の取調べが続いておりますね",
+      "en": "Yes. I understand the suspect interviews are ongoing.",
+      "style": "Attentive, engaged. Slight lean-in quality—showing he's tracking the details. Warm but not intrusive. The tone of someone who knows this matters.",
+      "mood": "attentive"
+    }
+  ]
+}

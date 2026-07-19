@@ -1,0 +1,78 @@
+{
+  "id": "conv_04626",
+  "context": "A uni student interviews a senior software engineer",
+  "purpose": "Teach: ハードウェア/テクニカル/プラットフォーム/メソッド/フォロー/プレゼンテーション/アンド/同等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ハードウェア",
+    "テクニカル",
+    "プラットフォーム",
+    "メソッド",
+    "フォロー",
+    "プレゼンテーション",
+    "アンド",
+    "同等"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。早速ですが、現在はどんな開発プラットフォームを使っていらっしゃいますか？",
+      "en": "Thank you for your time today. To get right to it, what kind of development platform are you currently using?",
+      "style": "Polite formal interview opening, slightly nervous but composed student tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちはクラウドが中心ですが、組み込み系のハードウェアも触りますよ。社内ではアンドロイドとiOSの両方に対応しています。",
+      "en": "We're mainly cloud-based, but I also work on embedded hardware. Internally we support both Android and iOS.",
+      "style": "Calm experienced engineer, matter-of-fact, slightly warm explanatory register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。テクニカルな問題が発生したとき、どんなメソッドで原因を切り分けていますか？",
+      "en": "I see. When technical issues come up, what method do you use to isolate the cause?",
+      "style": "Inquisitive student following up, careful word choice, respectful curiosity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まずログを徹底的に追います。再現できなければ、同僚にフォローしてもらって複数の視点で見ることも多いですね。",
+      "en": "First I dig through the logs thoroughly. If I can't reproduce it, I often have a colleague follow up and look at it from multiple angles.",
+      "style": "Reflective senior engineer sharing practical workflow, gentle mentoring tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "チーム内でのプレゼンテーションも多いんでしょうか？",
+      "en": "Are there a lot of presentations within the team as well?",
+      "style": "Short follow-up question, curious and engaged interviewer voice."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、設計レビューでは毎週ありますよ。資料の質は他社のエンジニアと同等以上を目指しています。",
+      "en": "Yes, we have them every week at design reviews. We aim for documentation quality equal to or better than engineers at other companies.",
+      "style": "Confident professional, slight pride in team standards, conversational pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、これから業界を目指す学生にアドバイスをいただけますか？",
+      "en": "Lastly, could you give some advice to students aiming to enter the industry?",
+      "style": "Polite wrap-up question, sincere and slightly hopeful student tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基礎を大事にしてください。流行は変わりますが、考え方は一生使えますから。",
+      "en": "Value the fundamentals. Trends change, but ways of thinking will serve you for a lifetime.",
+      "style": "Warm closing advice, thoughtful and unhurried mentor delivery."
+    }
+  ]
+}

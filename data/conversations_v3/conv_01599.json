@@ -1,0 +1,75 @@
+{
+  "id": "conv_01599",
+  "context": "Asuka helps Hina-young rehearse for a speech contest.",
+  "purpose": "Teacher patiently coaching student on public speaking.",
+  "ambient": "classroom_after_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "発表",
+    "練習",
+    "声",
+    "自信"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_080)",
+    "generated_at": "2026-05-27T06:43:51.775Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "先生、発表、緊張する。",
+      "en": "Teacher, I'm nervous about the presentation.",
+      "style": "Hesitant opening, voice lifting slightly at the name 'Teacher' for reassurance. Quiet, trembling undertone. Seeking permission to admit fear. Soft trailing-off that expects comfort.",
+      "mood": "anxious_seeking"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "練習、ちゃんとしてきたわよ。",
+      "en": "You've prepared properly.",
+      "style": "Steady, matter-of-fact delivery with quiet conviction underneath. No performance — just simple truth. Eyes meeting hers. Warm but grounded, not buoying up false hope.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "声、震えそう。",
+      "en": "My voice might shake.",
+      "style": "Small, almost whispered. Self-aware worry — she's already imagining the failure. Breath catches slightly before 'shake'. Downward pitch at the end, like she's deflating.",
+      "mood": "self_doubting"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "深呼吸して、ゆっくり話してね。",
+      "en": "Take a deep breath — speak slowly, okay?",
+      "style": "Gentle instruction, not command. Slight pause between clauses, as if demonstrating the slowness she's asking for. Warm hand-on-shoulder tone in the voice. Specific and actionable, not vague comfort.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "自信、まだないんです。",
+      "en": "I still don't have confidence.",
+      "style": "Small, vulnerable admission. Breath caught before 'confidence' — the word costs her. Almost apologetic inflection, like she's disappointed in herself. Fingers likely twisted together.",
+      "mood": "self_aware_doubt"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "自分を信じて、いいの。",
+      "en": "Believe in yourself — that's all.",
+      "style": "Firm but tender. Light emphasis on 'believe' — not lecturing, witnessing. Voice drops slightly on the final phrase, making it intimate rather than grand. She means it, and means Hina to know she's being seen.",
+      "mood": "steady_believing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい、頑張ります。",
+      "en": "Yes — I'll do my best.",
+      "style": "Small spine straightening. Quiet but resolute. The 'yes' carries new determination, not bravado. Slower, steadier breath. Still nervous, but moving from paralysis into small action.",
+      "mood": "determined_courage"
+    }
+  ]
+}

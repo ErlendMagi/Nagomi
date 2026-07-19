@@ -1,0 +1,76 @@
+{
+  "id": "conv_00644",
+  "context": "Kenji and Ryosuke discuss recent political news over lunch.",
+  "purpose": "two-adult-men civic news discussion",
+  "ambient": "restaurant_lunch",
+  "sound_effects": [],
+  "target_vocab": [
+    "政治",
+    "選挙",
+    "記事",
+    "意見",
+    "相談"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さん、今朝の、選挙のニュース、見ましたか。",
+      "en": "Ryosuke-san, did you catch the election news this morning?",
+      "style": "Easy, genuine warmth. Leaning in slightly with real interest, not just politeness. Steady pace, conversational — inviting rather than interrogating.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん、見ました。今回の議員、若い人が、多いですね。",
+      "en": "Yeah, I did. There seem to be quite a few younger candidates this time around.",
+      "style": "Thoughtful pause before answering. Warm and present. Gentle observation — noticing something interesting without pushing too hard. Soft smile in the voice.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "新しい風、感じますね。政治、変わっていくのかも。",
+      "en": "You can feel a shift in the air, can't you. Politics might actually be changing.",
+      "style": "Slight wondering tone on the opening. Warm but measured — thinking out loud with someone you trust. Trails off gently, inviting agreement without demanding it.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "与党と野党のバランス、これから、どうなるか。",
+      "en": "The balance between the ruling and opposition parties — hard to say where it goes from here.",
+      "style": "Genuine uncertainty without worry. Slow, careful pace. The tone of someone turning something over in their mind. Open-ended, not prescriptive.",
+      "mood": "uncertain_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちの業界にも、影響、あるかもしれない。",
+      "en": "Our industry could feel the effects too, maybe.",
+      "style": "Practical shift in tone. Still warm, but more grounded. A half-step toward concern without alarm. Steady, responsible.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "冷静に、見ていきましょう。皆さんと、相談しながら。",
+      "en": "Let's keep watching how it unfolds. We can talk it through with everyone.",
+      "style": "Calm, steady reassurance. A leader's composure without distance. Quiet confidence. Collaborative — 'we' not 'I'. Settling, not settling for.",
+      "mood": "composed_collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さんの、意見、本当に、参考になります。",
+      "en": "Your perspective really does help. I genuinely value it.",
+      "style": "Sincere, vulnerable close. Genuine appreciation — not flattery, actual respect. Soft warmth. Slight breath before speaking, like he's being honest about something that matters.",
+      "mood": "grateful"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10768",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: デュアル/ダイアログ/コンパイル/アンカー/グリッド/シールド/レビューア/コストパフォーマンス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デュアル",
+    "ダイアログ",
+    "コンパイル",
+    "アンカー",
+    "グリッド",
+    "シールド",
+    "レビューア",
+    "コストパフォーマンス"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_540 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、実験室でデュアル測定を採用しろ",
+      "en": "Ren — implement dual measurement in the lab.",
+      "style": "Direct but not harsh. Measured pace. Assumes competence. Brief authority that expects compliance without doubt. Eye contact steady.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文中のダイアログ部分を整理します",
+      "en": "Yes. I'll organize the dialogue section in the paper.",
+      "style": "Respectful, focused nod in the voice. Quick acceptance without hesitation. Slight lean-in — eager to show he's understood. Clean, efficient delivery.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、解析プログラムのコンパイルを最適化しろ",
+      "en": "Ren — optimize the compilation of the analysis program.",
+      "style": "Same measured authority as before. Slightly slower on the technical term, ensuring clarity. Not a request — an assignment. Confident he'll execute.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会発表でアンカー、つまり司会の役を担います",
+      "en": "Yes. I'll take on the moderator role for the conference presentation.",
+      "style": "Acceptance with underlying nervousness hidden just below. Careful enunciation on the bigger responsibility. Swallow slightly before the commitment. Steady underneath.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、地理データのグリッド分割を整えろ",
+      "en": "Ren — organize the grid divisions for the geographic data.",
+      "style": "Same tempo as the other directives. Crisp, clear. Not questioning — stating what needs to happen. The weight of expectation delivered flatly, which makes it heavier.",
+      "mood": "demanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験装置のシールド処理を確認します",
+      "en": "Yes. I'll verify the shielding on the experimental equipment.",
+      "style": "Affirming but quieter now, slightly fatigued beneath the politeness. Conscientious — he's tracking multiple tasks. Small breath before the final phrase. Still reliable.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文の査読を国際レビューア、つまり評価者に依頼しろ",
+      "en": "Ren — request the paper review from international reviewers.",
+      "style": "Tone flattens slightly — this is the bigger ask. Still composed, but a beat longer on 'international' — he knows this is important. Authority without theatrics.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費のコストパフォーマンスを向上します",
+      "en": "Yes. I'll improve the cost-performance ratio of the research budget.",
+      "style": "Quiet determination now. The final affirmation. Slower, more thoughtful — he's internalizing the full weight of what's being asked. Small exhale at the end, but resolved.",
+      "mood": "determined"
+    }
+  ]
+}

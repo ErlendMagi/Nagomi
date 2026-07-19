@@ -1,0 +1,79 @@
+{
+  "id": "conv_02169",
+  "context": "Yumiko cooks an old-fashioned dish; Mei asks about the recipe.",
+  "purpose": "Two women across generations on traditional food.",
+  "ambient": "kitchen_warm_simmer",
+  "sound_effects": [],
+  "target_vocab": [
+    "濃い",
+    "味わい",
+    "匂い",
+    "隠さ",
+    "作り方",
+    "皮",
+    "油",
+    "回し"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "お母さん、濃い味わいですね、これ。",
+      "en": "Mom, this has such a rich flavor to it.",
+      "style": "Warm, attentive tone. Leaning in slightly. Genuine curiosity mixed with gratitude. Soft peak on 「濃い味わい」, then a gentle trailing pause, waiting for the answer.",
+      "mood": "curious_appreciative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、隠さない作り方、教えるわよ。",
+      "en": "Heh — I'll teach you how to make it without holding anything back.",
+      "style": "Light, affectionate laugh at the start. Matter-of-fact but tender. The tone of someone comfortable passing down knowledge. Slight warmth on 「教えるわよ」.",
+      "mood": "warm_generous"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "油の量、回しながら、見るの?",
+      "en": "So you watch the oil amount as you keep turning it?",
+      "style": "Soft, genuinely asking — not restating. The pace slows slightly as she's thinking through the technique. Focused but not tense. Slight uptick at the end, open to correction.",
+      "mood": "engaged_learning"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、皮を、丁寧に剥いてから。",
+      "en": "Yeah, but only after you've peeled the skin away carefully first.",
+      "style": "Patient, unhurried delivery. The voice of someone who's done this a hundred times and wants it done right. Quiet conviction on each step. Slight nod in the pacing.",
+      "mood": "steady_teaching"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "匂い、本格的でいいですね。",
+      "en": "The smell — it's so authentic and wonderful.",
+      "style": "Breath of pleasure and recognition. Appreciative inhale before speaking. Warm, almost moved by the aroma. The admiration is genuine, not performed.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "次回、お前が、作ってみて。",
+      "en": "Next time, you're going to try making it yourself.",
+      "style": "Confident, encouraging tone — not a question, not a command, but an expectation of readiness. Warm but solid. A small smile underneath the words.",
+      "mood": "confident_encouraging"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、頑張ります!",
+      "en": "Yes, I'll do my best!",
+      "style": "Bright, eager response. Light energy, genuine commitment without being performative. The eagerness of someone ready to try. Slight breathiness on the affirmation.",
+      "mood": "determined_eager"
+    }
+  ]
+}

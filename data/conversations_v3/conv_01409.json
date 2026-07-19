@@ -1,0 +1,76 @@
+{
+  "id": "conv_01409",
+  "context": "Saito returns Ryosuke's visit.",
+  "purpose": "doctor-patient return-visit exchange",
+  "ambient": "porch_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "返事",
+    "一緒",
+    "健康",
+    "相談",
+    "感謝"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_071)",
+    "generated_at": "2026-05-27T05:41:20.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、本当、返事、ありがとう。",
+      "en": "Ryosuke, thank you for getting back to me. Truly.",
+      "style": "Warm, measured opening. Genuine gratitude grounding the tone. A doctor's composure softened by real care — not performing kindness, but offering it. Slight pause before the final word, letting it land.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こちらこそ、本当、嬉しい。",
+      "en": "The thanks are mine. I'm really glad to hear from you.",
+      "style": "Soft, sincere response. A father's gentleness coming through — no defensiveness, just honest appreciation. Warm without reaching. Meeting her warmth at the same level.",
+      "mood": "genuine_pleased"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、本当、保てる、ね。",
+      "en": "Keeping your health stable — that's what matters now.",
+      "style": "Doctor's clarity without coldness. Speaking with steady assurance, as if laying out something both of you already know is true. Tender underside to the professional certainty.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "相談、本当、いつでも、ね。",
+      "en": "I'm here to talk through anything, anytime.",
+      "style": "Quiet conviction. A father's promise — not dramatic, just stated as fact. Warm and available without being performative. The ease of someone who means what he says.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、頑張りましょう。",
+      "en": "Let's keep working at this together.",
+      "style": "Gentle collaborative close. Doctor and patient as partners, not hierarchy. Weight of shared purpose without burden. Breath steady, tone inviting him in.",
+      "mood": "determined_tender"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "感謝、本当、ずっと。",
+      "en": "I'm grateful — I always will be.",
+      "style": "Father's depth emerging. Not rushed. Each phrase given its moment. Genuine emotion held in place by composure. The kind of gratitude that accumulates over time, spoken simply.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ、本当に。",
+      "en": "The same goes for me, Ryosuke. Really.",
+      "style": "Soft professional closing that becomes personal. The formality and warmth balanced at the end. A subtle nod to him — acknowledging what was exchanged. Slight warm fade.",
+      "mood": "warm_closing"
+    }
+  ]
+}

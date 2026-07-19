@@ -1,0 +1,62 @@
+{
+  "id": "conv_01255",
+  "context": "Asuka helps Hina register for an after-school class.",
+  "purpose": "teacher-child registration exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "登録",
+    "一緒",
+    "頑張る",
+    "楽しい",
+    "勉強"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_063)",
+    "generated_at": "2026-05-27T04:45:08.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ひなちゃん、登録、出来た、ね。",
+      "en": "Hina-chan, you're all registered.",
+      "style": "Warm, steady opening. Gentle confirmation in her voice—not a question, a recognition. The small satisfaction of a shared accomplishment settling softly between them.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、楽しみ、本当に。",
+      "en": "Yes—I'm really looking forward to it.",
+      "style": "Bright, guileless enthusiasm. The words tumble forward naturally, genuine excitement without performance. Voice lifts slightly on 'really,' unselfconscious joy.",
+      "mood": "excited_genuine"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、頑張ろうね。",
+      "en": "Let's work hard together, okay?",
+      "style": "Collaborative warmth. Not a command but an invitation—Asuka placing herself beside Hina, not above her. Steady eye contact in the voice. A quiet promise underneath.",
+      "mood": "tender_supportive"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "勉強、楽しい、絶対。",
+      "en": "Studying is going to be fun. I'm sure of it.",
+      "style": "Bright conviction without doubt. The emphasis lands on the certainty, not the wish. Speaking as though this is already fact, not hope—drawing Hina forward into that belief.",
+      "mood": "hopeful_determined"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "応援、ずっと、する、ね。",
+      "en": "I'll be cheering for you the whole way.",
+      "style": "Closing warmth with quiet weight. The words settle like a promise kept—not effusive, but steady and sure. A slight softness on the trailing edge, tenderness that asks nothing in return.",
+      "mood": "warm_committed"
+    }
+  ]
+}

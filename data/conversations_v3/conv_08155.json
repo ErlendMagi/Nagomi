@@ -1,0 +1,86 @@
+{
+  "id": "conv_08155",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 洗脳/疾病/空想/部族/拷問/国営/改変/公営",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗脳",
+    "疾病",
+    "空想",
+    "部族",
+    "拷問",
+    "国営",
+    "改変",
+    "公営"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_409 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お客様を洗脳するようなマーケはやめろ",
+      "en": "Stop with marketing that manipulates customers.",
+      "style": "Sharp, declarative. Measured pace with weight on the core instruction. Not angry—clinical. The tone of someone stating a non-negotiable principle to someone who should already know it.",
+      "mood": "firm_directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員向け疾病予防プログラムを実施しております",
+      "en": "Yes. We're currently implementing an employee wellness and disease prevention program.",
+      "style": "Respectful, precise. Steady cadence. Brief pause before the specific program title to show he's been listening and responding with concrete action. Slightly formal register—addressing authority.",
+      "mood": "attentive_responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、空想的な計画ではなく現実的な戦略を立てろ",
+      "en": "This company needs realistic strategy, not fantasy plans.",
+      "style": "Steady correction. Slight emphasis on the contrast between 「fantasy」 and 「realistic」. Not lecturing—more like recalibrating the direction. Controlled breathing, no frustration showing through.",
+      "mood": "grounding_clear"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外の特定部族向け商品を企画しております",
+      "en": "Yes. We're moving forward with partnership negotiations with state enterprises.",
+      "style": "Calm, professional. Measured delivery showing progress being made. No defensiveness—just factual update. Brief, respectful.",
+      "mood": "measured_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員を拷問するようなノルマは絶対与えるな",
+      "en": "Do not—under any circumstances—set quotas that crush your staff.",
+      "style": "Firm final word. Slight pause after 「not」 for emphasis. Each phrase deliberate. The tone of someone drawing a hard line based on principle, not emotion. Clear-eyed authority.",
+      "mood": "protective_stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。国営企業との提携交渉を進めております",
+      "en": "Yes. We're planning the product unveiling at the public exhibition venue.",
+      "style": "Composed closing response. Even pacing, professional register. Signals that the directive has been understood and acted upon. Slight finality in the trailing tone—end of the exchange.",
+      "mood": "compliant_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、データの改変は厳禁だ",
+      "en": "This company has a zero-tolerance policy on data falsification.",
+      "style": "Absolute, non-negotiable. Crisp opening on 「zero-tolerance」. Steady, unadorned delivery. The voice of someone stating a bedrock principle. No room for interpretation.",
+      "mood": "absolute_final"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。公営展示場でのお披露目を計画しております",
+      "en": "Yes. We have the reveal scheduled for the public exhibition space.",
+      "style": "Final acknowledgment. Calm, assured. Slightly briefer than the previous update—signals we've moved through the checklist. Professional, settled tone. A small exhale of completion.",
+      "mood": "resolved_affirmed"
+    }
+  ]
+}

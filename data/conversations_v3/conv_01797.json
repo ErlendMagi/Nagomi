@@ -1,0 +1,61 @@
+{
+  "id": "conv_01797",
+  "context": "Goro-grandpa tells Sho-young a folk tale at bedtime.",
+  "purpose": "Grandfather sharing traditional bedtime storytelling.",
+  "ambient": "bedroom_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "昔話",
+    "物語",
+    "主人公",
+    "聞く"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_090)",
+    "generated_at": "2026-05-27T07:54:50.847Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、昔話、聞かせて!",
+      "en": "Grandpa, tell me a folktale!",
+      "style": "Bright, immediate energy. Quick uptake on the opening. Warm without whining. Not demanding — asking like he knows he'll get a yes. Small bounce in the rhythm.",
+      "mood": "eager_curious"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "よっしゃ、桃太郎の話や。",
+      "en": "Sure thing — the Momotaro story.",
+      "style": "Settling into the moment. Warm, gentle opening. The voice of someone who's told this before and still finds it worth telling. Patient, easy pace. Slight smile in the delivery.",
+      "mood": "warm_content"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "主人公、強い?",
+      "en": "Is the hero strong?",
+      "style": "Genuine curiosity — not performing. Soft, tentative. Leaning forward a little in the voice. Waiting for the answer like it matters. No rush.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "うん、勇気あるで。",
+      "en": "Yeah — he's got courage.",
+      "style": "Affectionate reassurance. Light, steady. The voice of someone answering a real question from someone real. Slight warmth on 「勇気」 — pride in the character, pride in being asked.",
+      "mood": "fond_steady"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "わくわく、聞きたい!",
+      "en": "I'm so excited — tell me more!",
+      "style": "Genuine delight breaking through. Bright onset. Not loud or manic — authentic excitement. Slight breathlessness. The eagerness of someone who trusts the person he's listening to.",
+      "mood": "thrilled_eager"
+    }
+  ]
+}

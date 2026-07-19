@@ -1,0 +1,86 @@
+{
+  "id": "conv_08400",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 顎/灸/セラピー/ブタ/歌劇/抱きしめ/アクセル/卓球",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "顎",
+    "灸",
+    "セラピー",
+    "ブタ",
+    "歌劇",
+    "抱きしめ",
+    "アクセル",
+    "卓球"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_421 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんの顎ヒゲ、お洒落ね",
+      "en": "Sho, your dad's stubble looks quite stylish, doesn't it?",
+      "style": "Gentle observation, almost conversational. Warm but not pushing. A mother noticing small things about the people she loves.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、おばあちゃんに灸してもらいたい",
+      "en": "Mom, I want Grandma to give me moxibustion.",
+      "style": "Direct, earnest request. No performance. The kind of serious-faced statement a quiet child makes when something is genuinely on his mind.",
+      "mood": "curious_intent"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママはアロマセラピーに通ってるのよ",
+      "en": "Sho, your mom has been going to aroma therapy sessions lately.",
+      "style": "Calm, matter-of-fact sharing. Not defensive, just quietly explaining what she does for herself. A parent being honest about their own life.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ブタの絵本好きだよ",
+      "en": "Mom, I really like the pig picture book.",
+      "style": "Simple, genuine statement. No urgency. A child sharing something he knows is true about himself, direct and unguarded.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが宝塚歌劇のチケットを買ってきたわ",
+      "en": "Sho, your dad brought home tickets to the Takarazuka Opera.",
+      "style": "Soft, almost delighted announcement. Not over-the-top, but there's lightness in it. A small surprising thing that's worth mentioning.",
+      "mood": "pleased_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんに抱きしめてもらったよ",
+      "en": "Mom, Dad gave me a hug today.",
+      "style": "Quiet pride underneath. The statement is simple but there's tenderness in how he says it. A small moment that mattered.",
+      "mood": "tender_valued"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが、アクセル軽く踏むよう気をつけてるって",
+      "en": "Sho, your dad's been careful about easing up on the accelerator lately.",
+      "style": "Gentle share, almost thoughtful. A parent noticing effort her partner is making. Warm acknowledgment without needing comment.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、卓球の試合、勝ったよ",
+      "en": "Mom, I won my table tennis match.",
+      "style": "Quiet but genuine pride. Not boastful. The way a child who doesn't perform would say something he's earned. Small smile underneath the words.",
+      "mood": "proud"
+    }
+  ]
+}

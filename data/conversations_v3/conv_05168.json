@@ -1,0 +1,78 @@
+{
+  "id": "conv_05168",
+  "context": "A uni intern interviews a manager about hardware testing",
+  "purpose": "Teach: 受容/無用/図式/電圧/パラメータ/時価/インデックス/忍耐",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "受容",
+    "無用",
+    "図式",
+    "電圧",
+    "パラメータ",
+    "時価",
+    "インデックス",
+    "忍耐"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。御社のハードウェアテストについて伺えればと思います。",
+      "en": "Thank you for your time today. I'd like to ask about your company's hardware testing.",
+      "style": "Polite intern opening, slightly nervous formal register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こちらこそ。まず基本ですが、各製品に高電圧をかけて耐久性を確認するんです。",
+      "en": "Likewise. First, the basics — we apply high voltage to each product to check durability.",
+      "style": "Friendly professional tone, explaining clearly to a beginner"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。テスト条件のパラメータはどうやって決めていらっしゃるんですか?",
+      "en": "I see. How do you decide the parameters for the test conditions?",
+      "style": "Curious follow-up, respectful student questioning style"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "過去の故障データを基準にしつつ、社内の図式で要因の優先順位を整理しています。部品の時価が上がった時期には、コスト面のインデックスも併せて参照しますよ。",
+      "en": "We base it on past failure data and organize factor priorities with an internal chart. When component market prices rise, we also reference a cost index alongside it.",
+      "style": "Measured engineering explanation, professional vocabulary woven naturally"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "想像以上に幅広いんですね。失敗が続いたとき、心が折れたりしませんか?",
+      "en": "It's broader than I imagined. Don't you get discouraged when failures continue?",
+      "style": "Sincere curiosity, slightly informal as rapport builds"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "正直、忍耐の連続ですよ。でも失敗という結果の受容ができないと、次の改善には進めませんから。",
+      "en": "Honestly, it's continuous patience. But if you can't accept the result of failure, you can't move on to the next improvement.",
+      "style": "Reflective and warm, sharing genuine workplace wisdom"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "深いお話ですね。見当違いな質問だったら無用かもしれませんが、本当に勉強になります。",
+      "en": "That's profound. My questions might be off-target and unnecessary, but I'm really learning a lot.",
+      "style": "Humble self-deprecation, polite gratitude expressed naturally"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "とんでもない。素朴な疑問こそ現場を見直すヒントになるので、どんどん聞いてくださいね。",
+      "en": "Not at all. Simple questions are exactly what helps us re-examine the workplace, so please keep asking.",
+      "style": "Encouraging mentor tone, warm and inviting closure"
+    }
+  ]
+}

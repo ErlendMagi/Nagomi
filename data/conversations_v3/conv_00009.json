@@ -1,0 +1,76 @@
+{
+  "id": "conv_00009",
+  "context": "Bedtime. Sho is six and the light is off. Ryosuke is sitting on the edge of the bed.",
+  "purpose": "comfort + reassurance — dad-to-young-child after a small worry",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "大丈夫",
+    "怖い",
+    "一緒",
+    "明日",
+    "本当に",
+    "時間"
+  ],
+  "cast": [
+    "sho_child",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、ちょっと、まだいて。",
+      "en": "Daddy, stay just a little.",
+      "style": "Small, quiet. Almost-whisper. A child not wanting to be alone but trying not to be a bother.",
+      "mood": "small_request"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いるよ。どうした？",
+      "en": "I'm here. What's up?",
+      "style": "Sits-down voice. Calm, present, no rush. The 「どうした？」 is open, not probing.",
+      "mood": "present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "なんか、怖い感じがする。",
+      "en": "Something… feels scary.",
+      "style": "Pauses inside the line. The 「なんか」 is a child not having the word yet. Soft and honest.",
+      "mood": "naming_the_fear"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん。本当のこと言うと、お父さんも子どもの時、よくそうだったよ。",
+      "en": "Yeah. To tell you the truth, when I was a kid I felt that a lot too.",
+      "style": "Slow, warm. The confession is gentle — making the kid less alone with it. JP and EN: same easy honesty.",
+      "mood": "sharing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "本当に？",
+      "en": "Really?",
+      "style": "Tiny lift of relief. Two syllables that mean a lot.",
+      "mood": "relieved_lift"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当に。明日まで、ここにいるから。一緒にいよう。",
+      "en": "Really. I'll be here until tomorrow. Let's be together a while.",
+      "style": "Steady promise. Slows down for 「一緒にいよう」. The kind of sentence that settles a small body.",
+      "mood": "settling"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。…大丈夫。",
+      "en": "Yeah. …I'm okay.",
+      "style": "Sleepy already. The 「大丈夫」 is half-spoken, almost a sigh.",
+      "mood": "sleepy_okay"
+    }
+  ]
+}

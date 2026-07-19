@@ -1,0 +1,86 @@
+{
+  "id": "conv_06692",
+  "context": "A police officer discusses a complex case",
+  "purpose": "Teach: ダイオキシン/隔離/葬式/解読/闘う/争う/変遷/盗ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ダイオキシン",
+    "隔離",
+    "葬式",
+    "解読",
+    "闘う",
+    "争う",
+    "変遷",
+    "盗ま"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_336 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、廃棄物からダイオキシン、検出されました。",
+      "en": "We detected dioxin in the waste material from the site.",
+      "style": "Measured, official opening. Facts laid out clearly without ceremony. Level tone—this is information, not drama. Slight professional distance.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場、住民の隔離、進められたんですね。",
+      "en": "So they've begun isolating the residents from the area.",
+      "style": "Leaning forward slightly—genuinely interested in the operational details. Thoughtful pause before speaking. Asking more than stating, testing his understanding.",
+      "mood": "focused_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。亡くなった方の葬式、警察官として、出席いたしました。",
+      "en": "Yes. I attended the funeral of the deceased in my capacity as an officer.",
+      "style": "Formal, respectful shift. Slower cadence. The weight of duty settles into the words. Not cold, but professional gravity.",
+      "mood": "solemn_dutiful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者の暗号メモ、解読、進んでいますか。",
+      "en": "Is decryption of the suspect's coded notes progressing?",
+      "style": "Sharper focus now. Specific question, slightly leaning in. The intellectual puzzle interests him. Measured pace—he's thinking as he speaks.",
+      "mood": "intent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。組織犯罪と闘う、警察の使命です。",
+      "en": "Yes. Fighting organized crime is one of our core duties.",
+      "style": "Steady conviction underneath. Not defensive—stating fact. A reminder of purpose. Clear-eyed, almost quiet in its certainty.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "複数の組織が、利権を争う構図、見えてきましたね。",
+      "en": "A pattern's emerging—multiple organizations competing for control and profit.",
+      "style": "Realization dawning as he speaks. Connecting pieces aloud. Slight uptick in energy. This is the moment when the structure becomes visible.",
+      "mood": "analytical_sharp"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査手法の変遷、警察内で、共有しております。",
+      "en": "Yes. We share updates on investigative methods internally as practices evolve.",
+      "style": "Procedural, but there's human care underneath. Not robotic—he's explaining how an institution learns and adapts. Steady, almost contemplative.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者から盗まれた書類、回収、できそうですか。",
+      "en": "Do you think you'll be able to recover the documents the victim had stolen?",
+      "style": "Final push—urgent but respectful. The stakes matter to him. Slight lean on 'recover.' Quieter at the tail, holding space for the answer.",
+      "mood": "hopeful_urgent"
+    }
+  ]
+}

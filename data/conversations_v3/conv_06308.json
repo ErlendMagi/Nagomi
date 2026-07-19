@@ -1,0 +1,86 @@
+{
+  "id": "conv_06308",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 商談/延び/挑ん/ショートカット/変われ/つなげる/折り紙/乗り継ぎ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "商談",
+    "延び",
+    "挑ん",
+    "ショートカット",
+    "変われ",
+    "つなげる",
+    "折り紙",
+    "乗り継ぎ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_317 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、商談、若いうちに、見学経験、しろ。",
+      "en": "Ren — watch negotiations while you're still young. It'll shape how you think.",
+      "style": "Quiet authority. Measured pace, deliberate pauses between thoughts. Not commanding — advising. The voice of someone who's watched many young people grow. Slight lean forward, genuine investment in being heard.",
+      "mood": "mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。期限が延びた案件、勉強になります。",
+      "en": "Yes. These extended-timeline cases are teaching me a lot.",
+      "style": "Attentive, slightly formal. Quick agreement, then a shift to earnestness on the second thought. Not rehearsed — genuine appreciation surfacing as he speaks. Sitting straighter, engaged.",
+      "mood": "earnest_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "難題に挑んだ経験、自信に繋げろ。",
+      "en": "Take on the hard problems. That's what builds real confidence.",
+      "style": "Even, unadorned delivery. Weight on 「挑んだ」equivalent — not pushing, stating a fact he knows. Calm certainty. The voice of someone who's tested this truth many times.",
+      "mood": "steady_conviction"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ITのショートカット、若手から学ぶことも多いです。",
+      "en": "There's a lot I can learn from the younger developers too — their shortcuts, their approach.",
+      "style": "Thoughtful, slightly self-correcting. Acknowledges his own blindness with a small half-smile in the voice. Humble without performing humility. Honest hesitation before admitting it.",
+      "mood": "humble_aware"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "環境が変われば、自分も変わる。",
+      "en": "When your environment changes, you change with it.",
+      "style": "Almost aphoristic. Gentle but not soft — the voice of lived experience. Slight pause before and after, letting it settle. Not bombastic. Simple and true.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "業界人をつなげる橋渡し、目指したいです。",
+      "en": "I want to be the kind of person who connects people across the industry — bridges gaps.",
+      "style": "Reaches for something larger than himself. Voice opens up slightly — less guarded. Earnest aspiration but grounded, not dreamy. Eye contact level rises with the idea.",
+      "mood": "ambitious_sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お客様への折り紙、企業の温かさ、伝わるな。",
+      "en": "That thoughtfulness — the origami for clients — it shows the company's warmth. People feel it.",
+      "style": "Approving nod in the voice. Warm without sentimentality. Recognition of something true and worth naming. Steady, almost fond. Affirming without overdoing it.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海外出張時、乗り継ぎ、注意します。",
+      "en": "And when you travel internationally, pay attention to your connections — don't miss your transfers.",
+      "style": "Shifts to practical, almost grandfatherly. Light touch of humor — the advice wrapping back to the concrete. Not patronizing. Warm close, matter-of-fact. A final steadying hand on the shoulder.",
+      "mood": "practical_caring"
+    }
+  ]
+}

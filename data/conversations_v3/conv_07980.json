@@ -1,0 +1,86 @@
+{
+  "id": "conv_07980",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 泣ける/競っ/上っ/臨む/抜粋/シーツ/出迎え/ハプニング",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "泣ける",
+    "競っ",
+    "上っ",
+    "臨む",
+    "抜粋",
+    "シーツ",
+    "出迎え",
+    "ハプニング"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママ、昨日泣ける映画見たわ",
+      "en": "Sho, your mom watched such a tearful movie yesterday.",
+      "style": "Warm, conversational opening. Gentle smile in the voice. Sharing a small moment from her day naturally, like she's inviting him into her world.",
+      "mood": "reflective_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達と競ってかけっこしたよ",
+      "en": "Mom, I had a race with my friend today.",
+      "style": "Bright, immediate energy. Open-mouthed excitement on the first word. Speaking quickly, eager to share before she moves on. Small-child directness.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが、職位を上ったらしいわよ",
+      "en": "Sho, your father got a promotion.",
+      "style": "Gentle, matter-of-fact delivery. A slight lift of pride in her voice but contained — this is news worth noting. Quiet confidence in how she shares it.",
+      "mood": "proud_steady"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、テストに臨む覚悟だよ",
+      "en": "Mom, I'm ready to try my best on the test.",
+      "style": "Determined but soft-voiced. Chin up in the posture. Not boasting — actually committing to it out loud. The small seriousness of a six-year-old taking himself seriously.",
+      "mood": "resolved_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、新聞の抜粋を集めるの、お父さんの趣味よ",
+      "en": "Sho, collecting newspaper clippings is your father's hobby.",
+      "style": "Informative and gentle. Explaining something quietly, as if she's helping him understand Dad a little better. Warm undertone — no judgment.",
+      "mood": "explanatory_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくのお布団のシーツ、可愛い柄だね",
+      "en": "Mom, my futon sheets have such a cute pattern, don't they.",
+      "style": "Soft, observant. He's noticing something small and sharing it like a private discovery. Ends on a slight lift — genuinely wanting her to notice too.",
+      "mood": "content_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんの出迎え、お願いね",
+      "en": "Sho, would you greet Dad when he comes home?",
+      "style": "Gentle request wrapped in warmth. Not commanding — asking him to be part of something that matters. Expectant but not urgent.",
+      "mood": "warm_request"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、運動会でハプニングあったよ",
+      "en": "Mom, something funny happened at the sports day.",
+      "style": "Bright, animated bursts. Words coming quickly with genuine excitement. Open and unguarded — he can't wait to tell her. No filter, pure child joy.",
+      "mood": "excited_animated"
+    }
+  ]
+}

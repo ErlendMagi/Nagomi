@@ -1,0 +1,62 @@
+{
+  "id": "conv_01007",
+  "context": "Sho and Hina brush teeth before bedtime.",
+  "purpose": "children bedtime-routine exchange",
+  "ambient": "bathroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "磨く",
+    "一緒",
+    "楽しい",
+    "頑張る",
+    "優しい"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_051)",
+    "generated_at": "2026-05-27T03:21:23.101Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ひな、歯、磨こう。",
+      "en": "Hina, let's brush our teeth.",
+      "style": "Soft, unhurried opening. Small voice—not uncertain, just genuinely small. Warm invitation without pressure. A gentle suggestion from someone thinking of her.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、一緒に、する。",
+      "en": "Yeah—together, okay?",
+      "style": "Bright, immediate agreement. Eager without being loud. The particular happiness of a child who wants to do something with someone. Slight rise at the end—seeking confirmation of the togetherness.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "優しく、磨くね。",
+      "en": "We'll be gentle about it.",
+      "style": "Quiet reassurance. Deliberate, careful pace. The tone of someone making a small promise. Slight breathiness on the 'gentle'—he's thinking through how to do this right.",
+      "mood": "tender_thoughtful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "頑張って、ピカピカ、する。",
+      "en": "Let's make them super shiny.",
+      "style": "Bright, determined enthusiasm. The word 'shiny' lands with a small lift—making it an accomplishment, something to aim for. Quick pace, genuine childish excitement building through the line.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、習慣。",
+      "en": "This is a fun thing we do.",
+      "style": "Quiet contentment. Slow, observant pace. Not quite philosophical, but noticing something small and good. A six-year-old arriving at a small truth. Soft landing at the end.",
+      "mood": "warm_satisfied"
+    }
+  ]
+}

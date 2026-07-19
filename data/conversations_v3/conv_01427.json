@@ -1,0 +1,76 @@
+{
+  "id": "conv_01427",
+  "context": "Saito gives Yumiko a positive diagnosis.",
+  "purpose": "doctor-patient positive-diagnosis exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "助け",
+    "感謝"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_072)",
+    "generated_at": "2026-05-27T05:49:20.749Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "優子さん、本当、健康、保てる、ね。",
+      "en": "Yumiko-san, you really do take such good care of your health.",
+      "style": "Warm, measured delivery with genuine respect underneath. Soft opening, steady composure. A doctor's professional kindness threading through, not distant—present.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当、感謝、本当に。",
+      "en": "I'm truly grateful. Really.",
+      "style": "Quiet sincerity, voice softening slightly. Not performative gratitude—the kind that comes from deep recognition. A small exhale of relief woven in.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、本当、いつでも。",
+      "en": "Please, come talk to me anytime. That's what I'm here for.",
+      "style": "Steady and assured, no hesitation. Leaning slightly into the promise. The composure of someone who means exactly what she says, warmth in the certainty.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "助け、本当、ずっと、いつも。",
+      "en": "Your help—it means everything, truly, always.",
+      "style": "Voice catches slightly with emotion, then steadies. Sincerity without performance. The weight of genuine appreciation, held quietly but firmly.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ、本当に。",
+      "en": "The feeling is mutual, truly.",
+      "style": "Soft, genuine return—not echoing, but meeting her at the same depth. Brief, weighted. A moment of recognition between two people who see each other.",
+      "mood": "warm_mutual"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、本当、頑張ります。",
+      "en": "We'll keep doing our best together.",
+      "style": "Resolve settling into her voice. Not strained—quiet determination. A forward look, collaborative and calm. Small lift at the end, like an offering.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、本当に、ね。",
+      "en": "Please take good care of yourself.",
+      "style": "Final blessing, gently spoken. Composed but genuinely warm. The professional closing that carries personal weight—her actual care underneath the courtesy.",
+      "mood": "warm_caring"
+    }
+  ]
+}

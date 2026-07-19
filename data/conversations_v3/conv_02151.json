@@ -1,0 +1,79 @@
+{
+  "id": "conv_02151",
+  "context": "Sho-young learns about traditional sushi from Hiroshi-elder.",
+  "purpose": "Grandfather teaching child food tradition.",
+  "ambient": "sushi_counter_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "寿司",
+    "本屋",
+    "図書",
+    "本格",
+    "うまい",
+    "初心者",
+    "熱い",
+    "冒険"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_108)",
+    "generated_at": "2026-05-27T16:46:29.640Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "翔、本格の寿司、食べてみるか。",
+      "en": "Sho — want to try some authentic sushi?",
+      "style": "Unhurried, warm invitation. Gentle opening. The patient tone of someone who has all the time in the world. Slight Kansai lilt. Almost conversational—not performing, just asking.",
+      "mood": "warm_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、初心者やけど、冒険する!",
+      "en": "Yeah—I'm a beginner, but I'm ready to try!",
+      "style": "Bright, eager surge of energy. Quick pickup on the question. Small boy's genuine excitement—no pretense, just honest enthusiasm. Slight breathlessness on the commitment.",
+      "mood": "thrilled"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うまい、本格的な味やで。",
+      "en": "That's good—real, authentic flavor. You'll see.",
+      "style": "Quiet pride underneath. Soft delivery, almost to himself. The satisfaction of sharing something genuine. Kansai warmth. Steady eye contact level—not lecturing, just confirming.",
+      "mood": "proud_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "熱いお茶も、いただこう。",
+      "en": "I'll have some hot tea too, please.",
+      "style": "Polite but natural—not overly formal. A child paying attention to the whole moment, not just the sushi. Warm and present. Small, genuine respect in the tone.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "昔、本屋で寿司の図書、読んだ。",
+      "en": "Years ago I read a book about sushi at a bookstore.",
+      "style": "Drifting into memory. Slow, reflective pace. Soft voice—not wistful, but tender. Kansai ease. The kind of pause that invites listening, not rushing to fill silence.",
+      "mood": "nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今度、読みたい、その本!",
+      "en": "Next time—I want to read that book!",
+      "style": "Bright determination underneath. Eager but not demanding. The small, genuine interest of a child who wants to know the same things the adults around him know. Forward-leaning energy.",
+      "mood": "eager_determined"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、貸したるで。",
+      "en": "Sure—I'll lend it to you.",
+      "style": "Simple, warm promise. No fanfare. Kansai ease settling into resolution. The satisfaction of handing something good to someone who'll appreciate it. Slight smile in the voice.",
+      "mood": "warm_fond"
+    }
+  ]
+}

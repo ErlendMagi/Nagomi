@@ -1,0 +1,86 @@
+{
+  "id": "conv_06127",
+  "context": "A boss reviews legal risk",
+  "purpose": "Teach: 被疑/面会/先送り/白紙/水質/非公式/たたき台/商事",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "被疑",
+    "面会",
+    "先送り",
+    "白紙",
+    "水質",
+    "非公式",
+    "たたき台",
+    "商事"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "被疑が及ぶ可能性、内部監査で確認しろ。",
+      "en": "There's a risk this could extend to us. Have internal audit verify it.",
+      "style": "Clipped, authoritative. Crisp attack on the opener. No breath wasted. Eyes steady on Kenji, expecting compliance without needing reassurance.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察との面会、今週中に。",
+      "en": "Understood. We'll meet with the police this week.",
+      "style": "Measured, respectful. Slight nod on the first word. Quiet confidence — he's already thinking through logistics. Calm, efficient delivery.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "発表、先送りせず、迅速に。",
+      "en": "Don't delay the announcement. Move quickly.",
+      "style": "Sharp, direct. Weight on 'don't delay.' Composed but leaving no room for negotiation. Brief and final — that's an order.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報、白紙からの再構築です。",
+      "en": "Understood. PR is starting from scratch and rebuilding.",
+      "style": "Matter-of-fact, showing he's already parsed the work ahead. Steady eye contact. Not defensive — just laying out what needs to happen.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "河川水質、調査、自治体と組め。",
+      "en": "Water quality in the river — we survey it with the city government.",
+      "style": "Precise, tactical. Slight pause before 'with the city' — indicating the political weight of that partnership. Still commanding but not cold.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "非公式チャネルでも、情報、収集中です。",
+      "en": "We're gathering information through unofficial channels too.",
+      "style": "Quiet assurance beneath the words. Not bragging — just reporting capability. Lean slightly forward on 'unofficial' — showing he understands what Hiroshi wants to know.",
+      "mood": "resourceful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "対策のたたき台、明日朝、見せろ。",
+      "en": "Show me the countermeasure draft tomorrow morning.",
+      "style": "Clean directive. No question mark in the voice. Expects the work done. Professional distance — but the fact he's asking for tomorrow means urgency without drama.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商事会社と歩調を合わせ、進めます。",
+      "en": "We'll coordinate with the trading company and move forward together.",
+      "style": "Steady, collaborative tone while still showing deference. Slight emphasis on 'together' — showing unity is part of the strategy, not just compliance. Calm finish.",
+      "mood": "aligned"
+    }
+  ]
+}

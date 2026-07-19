@@ -1,0 +1,86 @@
+{
+  "id": "conv_09672",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 緑化/痙攣/嘔吐/度数/積分/水蒸気/骨髄/流暢",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "緑化",
+    "痙攣",
+    "嘔吐",
+    "度数",
+    "積分",
+    "水蒸気",
+    "骨髄",
+    "流暢"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_485 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、街路緑化区域での盗難を、警察、扱われてますね",
+      "en": "So the police are handling the theft in the green-space area, then?",
+      "style": "Thoughtful, slightly formal. Ren checks the fact gently, as if confirming something he suspects. Quiet precision in his phrasing. Not a question that demands much—just checking his understanding aloud.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の薬物による痙攣症状を医療連携で対応します",
+      "en": "We're coordinating with medical services to manage the suspect's drug-related seizure symptoms.",
+      "style": "Measured, official but not cold. Officer Takeda states the procedure plainly. Professional tone, steady cadence. No elaboration—just the relevant fact delivered with competence.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、毒物による嘔吐事件を、警察、捜査されますね",
+      "en": "So the police are investigating the poisoning incident, the one with the vomiting cases?",
+      "style": "Careful, almost academic. Ren is piecing something together out loud. Slight hesitation before 'so'—he's double-checking his reasoning. Soft ending, like he's inviting confirmation rather than pressing.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、酒気度数を呼気で測定します",
+      "en": "We measure blood alcohol content using a breathalyzer test.",
+      "style": "Direct, informational. Officer Takeda explains procedure without inflection. Brisk, efficient. The tone of someone stating what is done, not what might be done.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、積分計算誤りによる事故を、警察、扱われますね",
+      "en": "So the police are looking into the accident caused by the calculation error, then?",
+      "style": "Tentative, connecting dots quietly. Ren speaks as though following a chain of logic. Slightly slower pace—he's thinking while speaking. Ends with gentle upward lilt, genuinely asking for confirmation.",
+      "mood": "puzzled"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、工場の水蒸気漏れ事故を扱います",
+      "en": "We're handling the water vapor leak incident at the factory.",
+      "style": "Clear and factual. Officer Takeda shifts to a new case without ceremony. Steady, unemotional delivery. Just laying out what they're doing.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、骨髄ドナー詐欺事件を、警察、扱われますね",
+      "en": "So the police are handling the bone marrow donor fraud case, correct?",
+      "style": "Quiet and methodical. Ren is building a pattern, stating it back to confirm. Slightly slower than normal speech. No emotion—just verification. Pause before the final word, like he wants to make sure he has it right.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の流暢な供述に注意します",
+      "en": "We're being careful with the suspect's statement—he speaks very fluently.",
+      "style": "Alert, measured caution. Officer Takeda lowers his tone slightly, as if flagging something important. Not accusatory, but attentive. The quality of a seasoned officer who knows what false confidence sounds like.",
+      "mood": "cautious"
+    }
+  ]
+}

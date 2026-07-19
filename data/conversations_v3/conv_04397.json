@@ -1,0 +1,84 @@
+{
+  "id": "conv_04397",
+  "context": "A barista negotiates terms with a sales rep",
+  "purpose": "Teach: 工作/発送/送料/到達/定価/稼ぎ/先物/付属",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "工作",
+    "発送",
+    "送料",
+    "到達",
+    "定価",
+    "稼ぎ",
+    "先物",
+    "付属"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "うちの店、夏休みの工作みたいな焙煎機しか置けないんですが、本当に大丈夫ですか？",
+      "en": "Our shop only has room for a roaster that looks like a summer craft project — are you really sure?",
+      "style": "Cautious, slightly self-deprecating, testing the rep's seriousness"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、サイズ的には問題ありません。発送も来週月曜には倉庫を出る予定です。",
+      "en": "Yes, size-wise there's no issue. Shipment is scheduled to leave our warehouse next Monday.",
+      "style": "Polite professional tone, reassuring with concrete logistics details"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "送料はどちら持ちになりますか？小さなお店なので、そこ結構大事なんですよ。",
+      "en": "Who covers the shipping cost? For a small shop like ours, that part actually matters a lot.",
+      "style": "Direct negotiation, friendly but firm about her budget"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "通常は定価に含まれていないのですが、今回は特別に当社負担で手配いたします。",
+      "en": "Normally it's not included in the list price, but this time we'll cover it on our end as a special arrangement.",
+      "style": "Concession framed as exception, polished sales register"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。あと、店に到達するまでの保証ってどうなっていますか？",
+      "en": "That helps. Also, what kind of guarantee covers it until it actually arrives at the shop?",
+      "style": "Pressing further while sounding grateful, businesslike pivot"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "輸送中の破損は全て弊社で対応します。付属のミルとフィルターも一緒に保証対象です。",
+      "en": "Any damage during transit is fully our responsibility. The included grinder and filter are covered too.",
+      "style": "Confident itemized assurance, listing accessories to add value"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "正直、コーヒー豆の先物価格が上がってて、うちみたいな個人店で稼ぎ続けるの厳しいんです。",
+      "en": "Honestly, with coffee bean futures prices climbing, it's tough for a tiny shop like mine to keep earning.",
+      "style": "Vulnerable honesty deployed strategically to push for better terms"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事情はよく分かります。三年契約にしていただければ、もう五パーセントお値引きできますが。",
+      "en": "I completely understand your situation. If you sign a three-year contract, I can knock off another five percent.",
+      "style": "Empathetic but seizing the opening, sweetening with a counter-offer"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "三年は長いですね…一晩考えさせてください。明日の朝までにお返事します。",
+      "en": "Three years is a long commitment… please let me sleep on it. I'll have an answer by tomorrow morning.",
+      "style": "Polite deflection, buying time without closing the door"
+    }
+  ]
+}

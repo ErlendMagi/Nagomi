@@ -1,0 +1,62 @@
+{
+  "id": "conv_00997",
+  "context": "Hina helps Yumiko clean the kitchen.",
+  "purpose": "mother-child cleaning exchange",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "掃除",
+    "一緒",
+    "頑張る",
+    "優しい",
+    "楽しい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、掃除、一緒に、しよう。",
+      "en": "Hina-chan, let's clean together.",
+      "style": "Warm, inviting opening. Soft maternal tone with genuine affection. Natural pace, unhurried. The kind of voice that makes a child feel included and safe.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ひな、頑張る。",
+      "en": "Yes! Hina will try really hard!",
+      "style": "Bright, eager commitment. Quick attack on the affirmative, then a slight lean forward in energy. Genuine childish enthusiasm without performing it. Small-child sincerity.",
+      "mood": "enthusiastic"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お皿、優しく、洗おう。",
+      "en": "Let's wash the dishes gently.",
+      "style": "Soft teaching tone, unhurried. Light emphasis on 'gently' — guiding without correcting. Warm and present. The voice of someone genuinely enjoying this moment.",
+      "mood": "warm_teaching"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい、お手伝い。",
+      "en": "Helping is so fun!",
+      "style": "Bright, uncomplicated joy. Quick pace, open vowels. A small child discovering the simple pleasure of doing something alongside an adult. Genuine delight, no self-consciousness.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しい子、ね。",
+      "en": "Such a kind child.",
+      "style": "Quiet, tender appreciation. Spoken almost to herself, but audible to Hina. Slight warmth-catch in the voice, the real feeling underneath. A moment of seeing her daughter clearly.",
+      "mood": "tender_proud"
+    }
+  ]
+}

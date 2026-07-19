@@ -1,0 +1,151 @@
+{
+  "id": "conv_00103",
+  "context": "New Year's morning. The Saito family living room (mom Yumiko, dad Ryosuke, daughter Hina) plus grandma Sachiko visiting from out of town. The osechi is out; everyone has been awake too long.",
+  "purpose": "four-speaker family New Year — overlapping affection across generations",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "明日",
+    "元気",
+    "大丈夫",
+    "一緒",
+    "家族",
+    "時間",
+    "ありがとう"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "yumiko_mom",
+    "ryosuke_dad",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "みなさん、明けまして、おめでとう。",
+      "en": "Everyone — happy new year.",
+      "style": "Slow, ceremonial entrance. Warm acknowledgment of the moment. Clear on each word, letting the greeting breathe. A grandmother's way of beginning.",
+      "mood": "warm_ceremonial"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おめでとうございます、お母さん。",
+      "en": "Happy new year, Mom.",
+      "style": "Gentle formality, half-bow in the voice. Respectful return without stiffness. The rhythm of tradition, held lightly.",
+      "mood": "warm_formal"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "明けましておめでとうございます。本当に、来てくれて、ありがとう。",
+      "en": "Happy new year. Truly — thank you for coming.",
+      "style": "Steady, unhurried welcome. Weight on 'truly.' Not effusive, but the gratitude is unguarded. Host's attentiveness without performance.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "おばあちゃん、おめでとう！お年玉は？",
+      "en": "Grandma — happy new year! Where's my otoshidama?",
+      "style": "Bright, direct eight-year-old energy. The whole holiday compressed into one breathless question. No filter between thought and voice.",
+      "mood": "eager_unfiltered"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "(laughs) はいはい、ちゃんとあるよ、ひなちゃん。",
+      "en": "(laughs) Yes, yes — I've got it, Hina-chan.",
+      "style": "A genuine, indulgent laugh. Already moving to find the envelope. Warm conspiracy with a child. The laugh lands before the words.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひな、まずご挨拶。順番。",
+      "en": "Hina — greetings first. Order.",
+      "style": "A gentle correction with half-laughter underneath. Not stern — the voice carries both the moment and permission to move past it quickly.",
+      "mood": "warm_correcting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はーい。…おばあちゃん、今年もよろしく。",
+      "en": "Okaaay. …Grandma — let's have a good year.",
+      "style": "Obedience with a small sigh. Voice softens into formality. The adjustment is visible in the voice's posture.",
+      "mood": "compliant_sincere"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "こちらこそ、ひなちゃん。…本当に、大きくなったね。",
+      "en": "Likewise, Hina-chan. …Really, you've grown.",
+      "style": "A classic grandmother line that catches her own voice. Slight tremor on 'really.' Looking at the child, not past her. Time-awareness in the observation.",
+      "mood": "tender_time_aware"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "お母さん、お雑煮、いかがですか？",
+      "en": "Mom — how about some ozoni?",
+      "style": "Hospitable ease. The question is an offer woven into care. Unhurried, present — the dad settling into his role.",
+      "mood": "attentive_gracious"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いただきます。本当に、家族で食べるご飯は、いちばん。",
+      "en": "Itadakimasu. Truly — eating with family is the best.",
+      "style": "A beat of pause before speaking. Voice slightly quieter, more reflective. The simplicity of the observation grounds it. Genuine without sentimentality.",
+      "mood": "grateful_present"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "お餅、私、三個食べる！",
+      "en": "Mochi — I'll eat three!",
+      "style": "Pure eight-year-old declaration. Voice bounces on the number. No self-editing, no hesitation. The joy is unguarded and physical in the delivery.",
+      "mood": "exuberant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一個ずつ、お母さん。お餅は、本当に詰まるから。",
+      "en": "One at a time, Mom. Mochi really gets stuck.",
+      "style": "Practical warning wrapped in affection. Not alarming — matter-of-fact concern. A parent's observation delivered with genuine care underneath.",
+      "mood": "cautious_caring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "お母さんもね、ゆっくり。今日は、時間ある。",
+      "en": "Mom too — slowly. We've got time today.",
+      "style": "Inclusive and unhurried. A soft glance woven into the words. Not lecturing — offering permission. The generosity is in the pace.",
+      "mood": "patient_inclusive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に、ね。…一緒に過ごせて、嬉しい。",
+      "en": "Truly. …I'm glad we can spend time together.",
+      "style": "A moment of unguarded softness. Voice drops slightly. The pause before 'I'm glad' is the whole feeling. Quieter than before — vulnerability in simplicity.",
+      "mood": "tender_vulnerable"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "今年、たくさん遊ぼうね、おばあちゃん。",
+      "en": "Let's play lots this year, Grandma.",
+      "style": "A kid-promise delivered with bright sincerity. No irony, no performance — the offer is real. Voice lands heavier than her usual energy because she means it.",
+      "mood": "sincere_hopeful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "…ありがとう、ひなちゃん。本当に。",
+      "en": "…Thank you, Hina-chan. Really.",
+      "style": "A real catch in the voice. The pause before speaking is the whole weight. 'Really' is unsteady but honest. The morning condenses into this one moment.",
+      "mood": "deeply_moved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "来年も、再来年も、一緒に。家族で、いっぱい時間作ろう。",
+      "en": "Next year — the year after too. Together. As a family, lots of time.",
+      "style": "A closing-but-opening line. Steady, attentive presence underneath. Not rushing. Each phrase lands with intention. The voice carries a quiet promise.",
+      "mood": "warm_committed"
+    }
+  ]
+}

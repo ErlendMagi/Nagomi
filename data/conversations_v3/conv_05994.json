@@ -1,0 +1,79 @@
+{
+  "id": "conv_05994",
+  "context": "A boss reviews a CSR brief",
+  "purpose": "Teach: 唱える/全域/山頂/代償/盛況/訳者/塗料/無謀",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "唱える",
+    "全域",
+    "山頂",
+    "代償",
+    "盛況",
+    "訳者",
+    "塗料",
+    "無謀"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_301 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "CSR報告、平和を唱える章、丁寧に書いてくれ。",
+      "en": "CSR report — the peace-advocacy chapter. Write it carefully.",
+      "style": "Clipped, direct. Slight emphasis on the expectation of care. No warmth, no drawl. A man giving an assignment he trusts will be done right.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。活動は工場全域に及びます。",
+      "en": "Yes. Our activities span the entire plant.",
+      "style": "Steady, measured. Formal register — this is a report-back moment. Slight pause after the opening to signal he's shifted into professional mode. Respectful distance.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山頂のレストラン、社員研修先として使えるか。",
+      "en": "Can we use the mountaintop restaurant as a training venue?",
+      "style": "Pragmatic question, not rhetorical. Even tone, slight forward lean in the voice. He's thinking aloud with Kenji present. Not quite conversational, but not distant either.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "代償としてのコスト、検討中です。",
+      "en": "The cost-benefit is something we're still evaluating.",
+      "style": "Careful, precise language. No rush to answer. He's buying time to think or implying this needs more rigor. Measured tempo, slight emphasis on the ongoing nature of review.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "記念式典、盛況に。海外向けは、訳者を起用しろ。",
+      "en": "Make the anniversary event successful. For the international audience, bring in professional translators.",
+      "style": "Two separate directives, both cleanly delivered. The first rises with expectation. The second lands like a specific instruction — no room for cutting corners. Efficient, unadorned.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "塗料の原材料も、無謀な調達は避けます。",
+      "en": "Paint sourcing — let's avoid hasty procurement decisions.",
+      "style": "Calm affirmation of the approach Kenji just outlined. Not lecturing. A nod of agreement that carries quiet conviction. The 'let's' brings Kenji into the decision-making frame.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "長期視点で。",
+      "en": "Think long-term.",
+      "style": "Final word, almost parenthetical. Quiet weight to it — not a throwaway, but spoken like a principle Hiroshi lives by. Slight trailing thoughtfulness, like he's reminding himself as much as Kenji.",
+      "mood": "thoughtful"
+    }
+  ]
+}

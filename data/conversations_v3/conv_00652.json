@@ -1,0 +1,62 @@
+{
+  "id": "conv_00652",
+  "context": "Yuki and Asuka catch up over coffee. Old high school friends.",
+  "purpose": "small ongoing high-school friend warmth",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "友達",
+    "一緒",
+    "元気",
+    "楽しい",
+    "感謝"
+  ],
+  "cast": [
+    "yuki_office",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あすか、お久しぶり。元気？",
+      "en": "Asuka, it's been so long. How have you been?",
+      "style": "Warm, unhurried opening. Genuine delight layered under the question — not performative. Soft eye-contact warmth. The kind of greeting that says you've actually missed someone.",
+      "mood": "warm_genuine"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ゆき、お元気で何より。",
+      "en": "Yuki, I'm so glad you're doing well.",
+      "style": "Steady, reciprocal warmth. Her voice settles into the conversation like she's been waiting for this moment. No rush. Sincere without overstatement.",
+      "mood": "warm_genuine"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "最近、なんか、嬉しい、いいニュース、ありそう？",
+      "en": "Have you had any good news lately? Anything making you happy?",
+      "style": "Leaning slightly forward in curiosity. Soft, attentive tone — genuinely interested, not making small talk. The pace opens space for a real answer.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いつも通り、楽しい毎日。",
+      "en": "Just the usual — every day brings its small joys.",
+      "style": "Calm, grounded delivery. She's not deflecting; she's settling into contentment. Gentle half-smile in the voice. Present, not wistful.",
+      "mood": "grounded_content"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こうやって、ずっと、お友達でいられて、本当に、嬉しい。",
+      "en": "I'm really grateful we've stayed friends like this, through everything.",
+      "style": "Quieter, more tender. The words carry real weight — this friendship matters. Unhurried pace. Voice opens slightly at the end, like she's offering something vulnerable.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

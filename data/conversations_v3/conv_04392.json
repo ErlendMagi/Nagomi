@@ -1,0 +1,78 @@
+{
+  "id": "conv_04392",
+  "context": "A doctor explains a sensitive consultation to a teen patient",
+  "purpose": "Teach: 死体/生存/先端/誤っ/牛肉/サイエンス/欲求/上下",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "死体",
+    "生存",
+    "先端",
+    "誤っ",
+    "牛肉",
+    "サイエンス",
+    "欲求",
+    "上下"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、最近サイエンスのニュース番組で見た事件のことが頭から離れなくて、眠れないんです。",
+      "en": "Doctor, I can't get a news story I saw on a science program out of my head, and I can't sleep.",
+      "style": "Anxious teen voice trailing off with genuine distress in tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "話してくれてありがとう。どんな内容だったの?ゆっくりでいいよ。",
+      "en": "Thank you for telling me. What was it about? Take your time.",
+      "style": "Calm warm professional tone with patient unhurried gentle pacing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "山で死体が見つかったっていう事件で…それから自分の生存とか、命のことばかり考えちゃって。",
+      "en": "It was about a body found in the mountains... and ever since, I keep thinking about survival and mortality.",
+      "style": "Hesitant trembling teen voice with quiet embarrassed downward gaze"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。最先端の心理学では、そういう不安は誰にでも起こる自然な反応だと分かっているんだ。",
+      "en": "I see. Cutting-edge psychology shows that kind of anxiety is a natural reaction anyone can have.",
+      "style": "Reassuring authoritative explanation with steady measured comforting cadence throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "それと、食欲求がおかしくなって、急に牛肉ばかり食べたくなったり、全然食べられなかったり…",
+      "en": "Also, my appetite has been strange — suddenly I crave only beef, or then I can't eat at all...",
+      "style": "Embarrassed teen voice softening with hesitant honest confession quietly"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "気分の上下が激しいときは、食欲も乱れやすいんだよ。君の体は誤った反応をしているわけじゃない。",
+      "en": "When mood swings up and down sharply, appetite gets disrupted too. Your body isn't reacting wrongly.",
+      "style": "Gentle paternal reassurance with deliberate slow soothing professional warmth"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ、私、変じゃないんですね…ちょっと安心しました。",
+      "en": "So I'm not weird then... I feel a little relieved.",
+      "style": "Relieved teen voice softening with cautious returning lightness gently"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "全然変じゃないよ。一緒に少しずつ整えていこう。次の予約も取っておこうね。",
+      "en": "Not weird at all. Let's gradually get you back in balance. Let's schedule the next visit too.",
+      "style": "Warm closing reassurance with quiet smile audible in voice"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05754",
+  "context": "A police officer briefs a reporter about port security",
+  "purpose": "Teach: 女王/外来/航海/南米/無名/無数/メタ/語彙",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "女王",
+    "外来",
+    "航海",
+    "南米",
+    "無名",
+    "無数",
+    "メタ",
+    "語彙"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_289 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "港湾警備、外来船舶のチェック、強化中です。",
+      "en": "Port security is focused on strengthening checks of foreign vessels.",
+      "style": "Measured, official opening. Even pace, clear diction. Professional but not stiff—a man used to brief, accurate statements. Eye contact level.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "南米から、女王時代の航海図を悪用し、無名の小型船で密入国が試みられた事例もありましたね。",
+      "en": "There have even been cases from South America—smuggling attempts in unmarked small boats, exploiting old colonial-era navigation charts.",
+      "style": "Thoughtful, specific curiosity. Slight lean forward on the question. He's showing he's done his homework. Warm intellectual engagement, not challenging.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。無数の航海ルート、データ化しています。",
+      "en": "Yes. We're digitizing countless voyage routes into our database.",
+      "style": "Steady and factual. Short, confident phrases. No flourish—just the work being done. Slight nod of acknowledgment at the question.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メタ分析で、傾向を予測する手法、活用されてますか。",
+      "en": "Are meta-analytic methods being used to forecast patterns?",
+      "style": "Genuine technical inquiry, not performative. Quiet intensity. He's asking because he wants to know. Slight pause before 'meta-analytic' to show he's choosing his words carefully.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。専門語彙、警察学校でも教えられます。",
+      "en": "Yes. That specialized vocabulary is part of the curriculum at the police academy.",
+      "style": "Confirmatory and brief, closing the thought. Calm authority. Delivers the practical detail plainly. Slight settling-back in posture—he's satisfied the question warrants a real answer.",
+      "mood": "assured"
+    }
+  ]
+}

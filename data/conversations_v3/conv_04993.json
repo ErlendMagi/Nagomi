@@ -1,0 +1,72 @@
+{
+  "id": "conv_04993",
+  "context": "A police archivist guides a uni reporter through old engineering records",
+  "purpose": "Teach: 直径/潜水艦/機体/マスメディア/外科/刑法/栄光/団塊",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "直径",
+    "潜水艦",
+    "機体",
+    "マスメディア",
+    "外科",
+    "刑法",
+    "栄光",
+    "団塊"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ようこそ。ここは退役した潜水艦の関連事件を扱った警察資料の保管室です。",
+      "en": "Welcome. This is the archive room for police materials handling cases involving decommissioned submarines.",
+      "style": "Formal welcoming tone with measured archival pride"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。学生新聞の取材で、当時のマスメディアの報道と比較したくて来ました。",
+      "en": "Thank you. I came for a student newspaper assignment, hoping to compare it with the mass media coverage of the time.",
+      "style": "Eager young reporter voice, slightly nervous but curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。この写真を見てください。事故を起こした潜水艦で、耐圧殻の直径は約十メートルあります。",
+      "en": "I see. Look at this photograph. It's the submarine that had the accident, and the pressure hull's diameter is about ten meters.",
+      "style": "Patient explanatory tone, pointing things out methodically"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "こちらの機体の残骸の写真も同じ事件の証拠ですか?当時の栄光と影が一緒に写っている気がします。",
+      "en": "Is this photograph of fuselage wreckage also evidence from the same case? I feel the glory and shadow of that era are captured together.",
+      "style": "Genuinely impressed, leaning forward with notebook ready"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。設計や検査の不備が原因と判明すれば、刑法上の責任を問う捜査になります。乗員の救命処置にあたった外科医の記録も残っています。",
+      "en": "Yes. If flaws in the design or inspections turn out to be the cause, it becomes an investigation pursuing responsibility under the criminal code. Records from the surgeon who handled lifesaving care of the crew also remain.",
+      "style": "Sober warning tone, gravity entering the older officer's voice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "重い話ですね。捜査を担当した刑事の多くは団塊世代だったと、先輩記者から聞きました。",
+      "en": "That's heavy. A senior reporter told me many of the detectives in charge of the investigation were from the baby boomer generation.",
+      "style": "Follow-up question with respectful journalistic curiosity showing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうです。彼らの調書は丁寧に扱ってください。これらは捜査史そのものですから。",
+      "en": "That's right. Please handle their interrogation records carefully. They are the very history of our investigations.",
+      "style": "Closing instruction, quietly firm with deep institutional respect"
+    }
+  ]
+}

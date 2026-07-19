@@ -1,0 +1,62 @@
+{
+  "id": "conv_01073",
+  "context": "Hina joins Asuka's class as a new student.",
+  "purpose": "teacher-new-student welcome exchange",
+  "ambient": "classroom_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "一緒",
+    "楽しい",
+    "頑張る",
+    "優しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_054)",
+    "generated_at": "2026-05-27T03:42:10.622Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ひなちゃん、学校、ようこそ。",
+      "en": "Hina, welcome to school.",
+      "style": "Warm, genuine opening. Soft eye contact. Speaking to the whole of her, not down to her. Real pleasure in seeing her, audible in the opening word.",
+      "mood": "warm_welcoming"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "先生、よろしく、お願いします。",
+      "en": "Teacher, thank you for having me.",
+      "style": "Bright, respectful bow in the voice. High, clear register — a child's formality that's sincere, not performed. Small pause before the closing, showing she means it.",
+      "mood": "eager_respectful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "皆、優しい子、ばかりよ。",
+      "en": "Everyone here is kind. You'll see.",
+      "style": "Gentle reassurance. Leaning in slightly with her words. Speaking as someone who knows the classroom and wants to ease her in. Warm but not patronizing.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "頑張ります、勉強。",
+      "en": "I'm going to do my best.",
+      "style": "Determination in a child's register. Earnest, not breathy. A small nod audible in the commitment. Bright energy carrying through to the end.",
+      "mood": "determined_bright"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、楽しい時間、しよう。",
+      "en": "Let's have fun learning together.",
+      "style": "Soft promise. Slow, deliberate pace. The word 'together' lands gently — she means it as an invitation, not a directive. Warm close that opens a door.",
+      "mood": "tender_inviting"
+    }
+  ]
+}

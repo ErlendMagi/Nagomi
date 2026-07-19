@@ -1,0 +1,78 @@
+{
+  "id": "conv_05169",
+  "context": "A retired exec mentors a younger boss on long-term planning",
+  "purpose": "Teach: 受容/無用/図式/電圧/パラメータ/時価/インデックス/忍耐",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "受容",
+    "無用",
+    "図式",
+    "電圧",
+    "パラメータ",
+    "時価",
+    "インデックス",
+    "忍耐"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先輩、来期の事業計画なんですが、短期の数字ばかり追っていて、長期視点が抜けている気がします。",
+      "en": "Senpai, about next term's business plan — I feel I've been chasing only short-term numbers and missing the long view.",
+      "style": "Polite, slightly anxious mid-career executive seeking guidance."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ。まず現実の受容から始めなさい。願望で経営しても、数字は嘘をつかんよ。",
+      "en": "Mm. Start with accepting reality. You can't run a company on wishful thinking — numbers don't lie.",
+      "style": "Calm, deliberate elder mentor with grounded authority."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ただ、株主は時価総額ばかり気にしていて、KPIのパラメータも四半期ごとに変えろと言ってきます。",
+      "en": "But shareholders only care about market cap, and they want us to change KPI parameters every quarter.",
+      "style": "Frustrated younger boss venting about external pressure."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "短期の指標に振り回されるのは無用な消耗だ。インデックス投資を見たまえ、勝つのは忍耐強い者だよ。",
+      "en": "Being jerked around by short-term metrics is pointless wear-and-tear. Look at index investing — patience wins.",
+      "style": "Measured wisdom drawing from decades of market experience."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。ですが社内の対立の図式が複雑で、改革派と保守派が真っ向からぶつかっています。",
+      "en": "I see. But the internal conflict map is messy — reformists and conservatives are clashing head-on.",
+      "style": "Concerned reporting tone, slightly leaning on senior for advice."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "対立を単純な図式で見るな。両派の動機を回路の電圧のように測れば、どこに負荷がかかっているか分かる。",
+      "en": "Don't reduce conflict to a simple diagram. Measure each side's motives like circuit voltage — you'll see where the load sits.",
+      "style": "Reflective metaphor-driven coaching from an engineering-minded elder."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "電圧のように、ですか。長期の指標を、自分なりのインデックスとして社内に示せばいいんでしょうか。",
+      "en": "Like voltage, huh. So should I present long-term metrics as my own kind of index inside the company?",
+      "style": "Younger boss starting to internalize the framework, more thoughtful."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだ。十年先のパラメータを自分で定義しろ。時価に踊らされず、忍耐をもって積み上げれば、必ず実を結ぶ。",
+      "en": "Exactly. Define your own ten-year parameters. Don't dance to market cap — build patiently and it will bear fruit.",
+      "style": "Final encouraging directive from elder, warm but firm."
+    }
+  ]
+}

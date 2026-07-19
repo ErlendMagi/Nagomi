@@ -1,0 +1,86 @@
+{
+  "id": "conv_08607",
+  "context": "Two managers chat",
+  "purpose": "Teach: 加筆/手直し/終点/公示/客室/税別/免税/効能",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "加筆",
+    "手直し",
+    "終点",
+    "公示",
+    "客室",
+    "税別",
+    "免税",
+    "効能"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "提案書の各章に加筆をしましょう",
+      "en": "Let's add to each section of the proposal.",
+      "style": "Calm, matter-of-fact directive. Slight forward lean in pacing. Clear authority without sharpness. Opening moves at normal speed.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。試作品の手直しを業者に依頼します",
+      "en": "Yes. I'll ask the vendor to make revisions to the prototype.",
+      "style": "Agreeable and responsive. Measured tempo. Quiet confidence in the execution plan. No hesitation, just efficient confirmation.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "プロジェクト終点の評価指標を決めましょう",
+      "en": "Let's decide on evaluation metrics for the project endpoint.",
+      "style": "Direct, organizational. Slight emphasis on 'decide' — establishing clarity. Professional tone, lean forward slightly. Steady pace.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会社合併の公示日が決まりました",
+      "en": "Yes. The announcement date for the merger has been set.",
+      "style": "Update delivered with quiet significance. Slightly slower opening to register importance. Controlled tone. No flourish, just fact.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お得意様用客室の備品を確認しましょう",
+      "en": "Let's check the furnishings in the VIP guest room.",
+      "style": "Practical, even-paced instruction. Light touch of care in the phrasing — these are for valued clients. Clear without being curt.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。販売価格は税別で社内資料に統一します",
+      "en": "Yes. I'll standardize the sales price as tax-excluded across all internal documents.",
+      "style": "Competent, assured confirmation. Medium pace. Matter-of-fact execution of a detail that matters. No strain in the delivery.",
+      "mood": "systematic"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "海外駐在員の免税手続を支援しましょう",
+      "en": "Let's support the overseas staff with tax exemption procedures.",
+      "style": "Collaborative directive. Warm but formal. Opens at normal pace. The word 'support' carries genuine intention, not just procedure.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品の効能をパッケージに明示します",
+      "en": "Yes. I'll make sure the product benefits are clearly stated on the packaging.",
+      "style": "Final confirmation, slightly more weight than previous updates. Deliberate pacing. Closing note of completion. Professional closure.",
+      "mood": "resolute"
+    }
+  ]
+}

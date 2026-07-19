@@ -1,0 +1,84 @@
+{
+  "id": "conv_03955",
+  "context": "A police officer chats with a neighborhood dad about local safety",
+  "purpose": "Teach: 検察/最高裁/警察官/制裁/疑惑/不当/警戒/衝突",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "検察",
+    "最高裁",
+    "警察官",
+    "制裁",
+    "疑惑",
+    "不当",
+    "警戒",
+    "衝突"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんばんは。私、この地区の警察官の竹田と申します。少しお時間よろしいですか?",
+      "en": "Good evening. I'm Officer Takeda, in charge of this district. Do you have a moment?",
+      "style": "Polite professional introduction, friendly but formal neighborhood patrol tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、はい。何かありましたか?最近この辺、警戒が強まってる感じがしますね。",
+      "en": "Oh, sure. Did something happen? It feels like security's been tightened around here lately.",
+      "style": "Curious neighborly tone with mild concern, casual dad voice."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "実は先月、駅前で住民同士の衝突がありまして、念のためパトロールを増やしているんです。",
+      "en": "Actually, last month there was a clash between residents near the station, so we've increased patrols just in case.",
+      "style": "Calm informative delivery, sharing facts in a measured way."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうだったんですか。うちの子もこの道を通るので、ちょっと心配ですね。",
+      "en": "Is that so. My kid walks down this street too, so that's a bit worrying.",
+      "style": "Concerned fatherly voice, openly showing parental worry."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご心配なく。ただ、もし不当な扱いを受けたとか、怪しい人を見たら、すぐに通報してください。",
+      "en": "Don't worry. But if your child is treated unfairly or you spot anyone suspicious, please report it right away.",
+      "style": "Reassuring official tone, giving practical advice gently."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかりました。ニュースで見たんですけど、別件で検察が動いてる詐欺の疑惑もあるとか?",
+      "en": "Got it. By the way, I saw on the news prosecutors are moving on some fraud allegations too?",
+      "style": "Curious conversational pivot, bringing up news topic naturally."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、あの件ですね。最高裁まで争うことになるかもしれないと言われていますよ。",
+      "en": "Ah, that case. They're saying it might end up being fought all the way to the Supreme Court.",
+      "style": "Knowledgeable conversational tone, sharing news commentary casually."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "へえ、大ごとですね。社会的な制裁も大きそうだし、巻き込まれたくないなあ。",
+      "en": "Wow, that's a big deal. The social backlash sounds heavy too—I wouldn't want to get caught up in that.",
+      "style": "Mildly impressed dad reaction, half-amused half-serious."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当にそうですね。では、何かあれば交番までお気軽にどうぞ。お子さんによろしくお伝えください。",
+      "en": "Truly. Well, if anything comes up, please drop by the police box anytime. Give my regards to your child.",
+      "style": "Warm closing tone, friendly sign-off with personal touch."
+    }
+  ]
+}

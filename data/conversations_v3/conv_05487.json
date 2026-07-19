@@ -1,0 +1,65 @@
+{
+  "id": "conv_05487",
+  "context": "Two managers prep a recruiting drive",
+  "purpose": "Teach: 申込み/選抜/院長/アナリスト/アドバイザー/部数/直行/配備",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込み",
+    "選抜",
+    "院長",
+    "アナリスト",
+    "アドバイザー",
+    "部数",
+    "直行",
+    "配備"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今回の選抜、申込み数、過去最多だ。",
+      "en": "This selection round hit an all-time high in applications.",
+      "style": "Clipped, efficient delivery. Slight lift on 「all-time high」—announcing good news without fanfare. Professional but warm underneath. The tone of someone who's checked the numbers twice.",
+      "mood": "pleased_factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "アナリスト枠とアドバイザー枠、別管理してます。",
+      "en": "We're managing the analyst and advisor slots separately.",
+      "style": "Matter-of-fact, reassuring. Quiet confidence in process. Even pace, no hesitation. The voice of someone who has thought this through and is letting you know the system works.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "院長経験者の枠も足したい。部数の関係上、印刷物は最小限で。",
+      "en": "I'd like to add a slot for ex-directors. We'll keep print runs minimal given the constraints.",
+      "style": "Thoughtful pause before speaking. Strategic—each phrase deliberate. Slight weight on 「ex-directors」, then lighter on the practical constraint. Speaking to someone she trusts to follow the logic.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "直行便で次の地域へ移動する候補者、配備の段取り、確認します。",
+      "en": "For candidates heading nonstop to the next region, I'll confirm the deployment schedule.",
+      "style": "Steady, methodical. No rush. Concrete—he's already mentally running through the checklist. Warm acknowledgment that he's noted the priority and will handle it.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "よろしく。",
+      "en": "Thank you.",
+      "style": "Quiet, genuine. Brief exhale of relief. The gratitude of someone who knows they can trust the work to be done. No need to oversell.",
+      "mood": "grateful"
+    }
+  ]
+}

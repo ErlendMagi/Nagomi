@@ -1,0 +1,62 @@
+{
+  "id": "conv_01001",
+  "context": "Yumiko shares a quiet morning moment with Sakura.",
+  "purpose": "mother-daughter quiet exchange",
+  "ambient": "kitchen_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "大切",
+    "感謝"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "さくらちゃん、おはよう。",
+      "en": "Good morning, Sakura.",
+      "style": "Warm, unhurried greeting. Gentle eye contact. The comfort of a familiar morning routine — nothing performed, just present. Soft smile in the voice.",
+      "mood": "warm_loving"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お母さん、ありがとう、いつも。",
+      "en": "Mom, thank you. For everything.",
+      "style": "Quiet sincerity. Not effusive — just honest. A pause before 'for everything' that carries the weight of years. Grateful without performing gratitude.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大切な、子よ、さくら。",
+      "en": "You're precious to me, you know.",
+      "style": "Slow, deliberate tenderness. Each phrase lands with care. The kind of motherly affection that doesn't need to announce itself — it's simply there in the breath and pacing.",
+      "mood": "deeply_loving"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一緒に、ずっと、嬉しい。",
+      "en": "Being together like this — it makes me happy.",
+      "style": "Soft, almost wondering. A slight catch in the voice like she's surprised by her own emotion. Not seeking reassurance, just naming something true. Warm trailing-off.",
+      "mood": "contented_appreciative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "楽しい、毎朝。",
+      "en": "Every morning feels like a gift.",
+      "style": "Quiet reflection. Calm pace. The voice of someone who has learned to notice small goodness. Steady warmth — not heightened, just genuine and constant.",
+      "mood": "peaceful_grateful"
+    }
+  ]
+}

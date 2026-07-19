@@ -1,0 +1,86 @@
+{
+  "id": "conv_08809",
+  "context": "Officer briefs",
+  "purpose": "Teach: 縮減/教示/貸し付け/取り付ける/通帳/差し止め/持ち株/引き下げる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "縮減",
+    "教示",
+    "貸し付け",
+    "取り付ける",
+    "通帳",
+    "差し止め",
+    "持ち株",
+    "引き下げる"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域の犯罪を縮減する活動を継続します",
+      "en": "We will continue our efforts to reduce crime in the community.",
+      "style": "Measured official tone. Clear, steady delivery without theatricality. Slight pause after 'will' to signal commitment. Professional bearing in every syllable.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、市民にも対策をご教示頂きありがたいです",
+      "en": "Yes. We're grateful for the guidance the police are providing to residents on these measures.",
+      "style": "Respectful and earnest. Slight nod in the voice on 'grateful.' Warm but formal—the tone of someone receiving information that matters. Not obsequious, just present.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不正貸し付け業者を摘発します",
+      "en": "The police will crack down on illegal lending operations.",
+      "style": "Firm and factual. Weight on 'crack down'—this is serious work. No hesitation. Voice level stays steady. The tone of someone stating what will happen.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、防犯カメラを取り付ける助成事業ですね",
+      "en": "Yes. That's the subsidy program for installing security cameras, correct?",
+      "style": "Confirming, engaged. Slight lift at the end—genuine question seeking alignment, not challenging. Warm and collaborative in register. Shows he's listening and understanding.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪収益の通帳を捜査します",
+      "en": "The police will investigate criminal asset accounts.",
+      "style": "Steady procedural tone. Each word carries equal weight. No drama. The voice of someone laying out the facts of what the work entails. Composed and clear.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、違法薬物の差し止めを行いますね",
+      "en": "Yes. So the police are also working to stop the distribution of illegal drugs.",
+      "style": "Confirming understanding with quiet respect. Soft acknowledgment on 'yes.' Slight lean forward in tone—showing engagement without overstepping. Still warm and aligned.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、企業の持ち株偽装の捜査も進めます",
+      "en": "The police are also advancing the investigation into fraudulent share transfers at corporations.",
+      "style": "Formal and precise. Deliberate pacing. The tone shifts slightly—this is complex financial crime. Still even-keeled, but the words themselves demand attention. Professional but not cold.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、賄賂を引き下げる啓発活動、ありがたいです",
+      "en": "Yes. We're truly grateful for the police's awareness campaign to reduce bribery.",
+      "style": "Warm and sincere gratitude. Slight softening on 'truly grateful'—this is the end of a serious conversation and he's expressing genuine thanks. Still respectful but with visible relief that they're aligned.",
+      "mood": "grateful"
+    }
+  ]
+}

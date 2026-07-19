@@ -1,0 +1,86 @@
+{
+  "id": "conv_06022",
+  "context": "An elderly couple chats",
+  "purpose": "Teach: まったり/でかけ/ご機嫌/困ら/頑固/恨み/不器用/留守番",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "まったり",
+    "でかけ",
+    "ご機嫌",
+    "困ら",
+    "頑固",
+    "恨み",
+    "不器用",
+    "留守番"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_303 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "今日は、家でまったりしたい気分だ。",
+      "en": "Today I feel like staying home and taking it easy.",
+      "style": "Quiet, settling into thought. Slow warm pace. Voice lands on the word 'home' like it's a comfortable place. Slight exhale of contentment at the end.",
+      "mood": "peaceful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。スーパー、私だけでかけてくるわ。",
+      "en": "Yes. I'll go to the supermarket by myself.",
+      "style": "Practical and gentle. Quick, decisive agreement. Matter-of-fact without coldness — she's offering this kindly, not begrudgingly.",
+      "mood": "nurturing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "庭の犬、ご機嫌で尻尾振ってる。",
+      "en": "The dog in the garden is in good spirits. Tail's wagging.",
+      "style": "Warm observation, almost fond. Speaks with the lightness of someone noticing a small, genuine pleasure. Very slight smile in the voice.",
+      "mood": "gentle_amused"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "孫が来ても、困らせないよう、おやつ準備したわ。",
+      "en": "I've prepared snacks for when the grandchildren visit. Won't be any trouble.",
+      "style": "Matter-of-fact preparation in her voice — she's already thought this through. Warm and assured without needing praise. Practical generosity.",
+      "mood": "content_prepared"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "若い頃は、私、頑固でね。",
+      "en": "When I was younger, I was stubborn.",
+      "style": "Dry, almost rueful. A long look back. Not self-pitying — just naming a fact about who he was. Pause before speaking, like he's choosing the words carefully.",
+      "mood": "wry_reflective"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "恨み言、お互い、もう忘れたわよ。",
+      "en": "The grudges we held — we've both let them go now.",
+      "style": "Quiet, definitive. No weight in her voice anymore. Peaceful release. She's not explaining or justifying — just stating what's true now.",
+      "mood": "reconciled"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "感情表現は、若い頃も不器用だった。",
+      "en": "I was clumsy with feelings even back then.",
+      "style": "Self-aware and gentle. No harshness toward his younger self. Speaks as someone who has accepted this about himself. Matter-of-fact and forgiving.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お留守番、犬と一緒なら寂しくないわね。",
+      "en": "Sitting with the dog while you're out — I won't be lonely.",
+      "style": "Warm and assured. Soft smile underneath. She's reassuring him without him asking. Comfortable silence is implied in her tone.",
+      "mood": "content_assured"
+    }
+  ]
+}

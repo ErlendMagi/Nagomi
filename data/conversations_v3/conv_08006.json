@@ -1,0 +1,86 @@
+{
+  "id": "conv_08006",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 授与/保健所/延命/即答/一辺倒/疲弊/病名/早けれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "授与",
+    "保健所",
+    "延命",
+    "即答",
+    "一辺倒",
+    "疲弊",
+    "病名",
+    "早けれ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "優秀社員に表彰状の授与を行え",
+      "en": "I want you to present an award to our top performers.",
+      "style": "Measured, executive. Each word lands with weight. No rush—authority doesn't need hurry. Slight pause after the opening, like setting down a decision.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。保健所からの指導を共有しております",
+      "en": "Understood. I've compiled the guidance from the health department for the team.",
+      "style": "Respectful, efficient. Quick, clear delivery—showing competence through brevity. Warm undertone beneath the formality. Professional but not stiff.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、サービスは延命対応も含めて検討しろ",
+      "en": "I want the company to evaluate our service options—including extended-term support.",
+      "style": "Commanding but not harsh. Deliberate pace. Each clause gets equal weight. Slight lean forward on 'extended-term'—he's thinking aloud while directing.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。担当者は即答できる範囲を増やします",
+      "en": "Understood. We'll expand the scope of what our team can answer immediately.",
+      "style": "Assured, responsive. Light confidence—not defensive, just showing he's already thinking ahead. Even pace, slightly warm at the edges.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、一辺倒な戦略ではダメだ",
+      "en": "A one-sided approach won't work for this company.",
+      "style": "Firm conviction without aggression. The word 'won't' carries the weight—not a suggestion, a statement. Slight gravity in the tone, like he's seen this fail before.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、疲弊しないよう休暇制度を整えます",
+      "en": "Understood. I'll make sure we have a proper leave policy so staff don't burn out.",
+      "style": "Earnest, genuine. Slightly softer than before—showing he connects with the concern beneath the directive. Steady pacing, no hurry.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、製品の病名表示を改善しろ",
+      "en": "I want the company to improve how we label disease information on our products.",
+      "style": "Direct, no-nonsense. Brisk delivery. The kind of instruction that expects no questions—just execution. Clean, precise.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。早ければ来月に発表いたします",
+      "en": "Understood. We'll have an announcement ready as early as next month.",
+      "style": "Crisp, closing. Confident and quick—showing the task is already in motion. Final note of certainty, like closing a file.",
+      "mood": "ready"
+    }
+  ]
+}

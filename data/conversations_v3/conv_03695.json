@@ -1,0 +1,76 @@
+{
+  "id": "conv_03695",
+  "context": "A barista chats with a regular customer about morning routines",
+  "purpose": "Teach: 確認する/検診/寒い/笑顔/寝室/朝食/翌朝/起き上がる",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "検診",
+    "寒い",
+    "笑顔",
+    "寝室",
+    "朝食",
+    "翌朝"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "おはようございます！今朝もずいぶん寒いですね。いつものカフェラテでよろしいですか？",
+      "en": "Good morning! It's really cold this morning too. Your usual cafe latte, right?",
+      "style": "Warm professional greeting with gentle morning energy and familiar regular-customer recognition"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ええ、お願いします。寒いと寝室から起き上がるのが本当につらくて……今朝も布団の中でぐずぐずしてました。",
+      "en": "Yes, please. When it's cold, getting up from the bedroom is really tough... I was lingering under the covers this morning too.",
+      "style": "Soft confessional tone with a slight embarrassed laugh, sleepy and dreamy mood"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかります。翌朝早いシフトの日は、私も目覚ましを何度も確認するんですよ。",
+      "en": "I understand. On days when I have an early shift the next morning, I check my alarm over and over too.",
+      "style": "Empathetic conversational reply with light self-disclosure, building rapport with the customer"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あ、それすごくわかります。今日は朝食を食べる時間もなくて、ここに直行しちゃいました。",
+      "en": "Oh, I totally get that. I didn't even have time for breakfast today, so I came straight here.",
+      "style": "Bright relatable response with a hint of sheepish humor and light apologetic energy"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それなら、温かいスコーンもセットでいかがですか？焼きたてですよ。",
+      "en": "In that case, how about a warm scone as a set? They're freshly baked.",
+      "style": "Gentle upsell with caring tone, prioritizing customer wellbeing over pushy sales energy"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "わあ、ぜひ。あ、そうだ、来週、健康検診があるんです。少し緊張してて。",
+      "en": "Wow, definitely. Oh right, I have a health checkup next week. I'm a bit nervous about it.",
+      "style": "Excited then shifting to slightly anxious confessional, opening up to a trusted barista"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "検診、ドキドキしますよね。結果が良ければ、また元気な笑顔を見せに来てくださいね。",
+      "en": "Checkups are nerve-wracking, aren't they. If your results are good, please come show me your cheerful smile again.",
+      "style": "Reassuring warm encouragement with a soft caring tone, treating customer like a friend"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、絶対また来ますね。じゃあ、今日も一日頑張ります。",
+      "en": "Yes, I'll definitely come back. Well then, I'll do my best today too.",
+      "style": "Tender grateful close with sincere warmth and appreciation for the human connection"
+    }
+  ]
+}

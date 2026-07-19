@@ -1,0 +1,86 @@
+{
+  "id": "conv_06403",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 分かれる/目立ち/気がつか/ゆかり/枯れ/残ら/落とさ/贈る",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "分かれる",
+    "目立ち",
+    "気がつか",
+    "ゆかり",
+    "枯れ",
+    "残ら",
+    "落とさ",
+    "贈る"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、駅で、お友達と道、分かれる時、寂しい。",
+      "en": "Mom, when I say goodbye to my friend at the station, it makes me sad.",
+      "style": "Soft, hesitant voice. Small pause between thoughts like he's gathering courage to say something true. Gentle trailing-off on the last word, like he's checking if it's okay to feel this way.",
+      "mood": "melancholy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さん、髪型、目立ちすぎないように整えてた。",
+      "en": "Dad was careful to keep his hair neat and not stand out.",
+      "style": "Observant, almost thinking aloud. Tender recognition in the voice — noticing something he did without mentioning it. Warm, steady rhythm.",
+      "mood": "affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。ママの誕生日、気がつかなかったらどうしよう、不安。",
+      "en": "Yeah. What if I forget your birthday and don't realize it until too late?",
+      "style": "Quiet worry underneath. The words come faster now — anxiety overtaking his usual reserve. Soft emphasis on the 'what if.' Ends uncertain, seeking reassurance.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ご先祖ゆかりの神社、お正月、お参りに行こうね。",
+      "en": "Let's go visit the shrine that belonged to our ancestors when it's New Year's.",
+      "style": "Gentle forward-planning voice. Warm invitation rather than instruction. Slight pause before 'the shrine' like she's picturing it. Steady, grounding tone.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お花、枯れちゃった、悲しい。",
+      "en": "The flowers died. That makes me sad.",
+      "style": "Very soft, withdrawn. The grief is real but expressed simply, without drama. Long micro-pause before 'sad' like the feeling settles on him. Almost a whisper at the end.",
+      "mood": "sad"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "食事、残らないように、ちゃんと食べてね。",
+      "en": "When you eat, try not to leave any food on your plate, all right?",
+      "style": "Practical care wrapped in gentleness. Not commanding but steady — the voice of someone who knows what matters and says it without fussing. Light touch of mother-wisdom.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お小遣い、財布から、落とさないでね。",
+      "en": "Be careful not to lose your allowance from your wallet, okay?",
+      "style": "Earnest small-child concern. Gentle but specific — he's thought about this. The voice is careful, protective without being controlling. Ends with a small lift, checking she'll remember.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "クリスマス、お父さんに、心を込めて何かを贈るのもいいね。",
+      "en": "It would be nice to give Dad a gift for Christmas with your whole heart in it.",
+      "style": "Warm suggestion blooming into a soft smile. The words come gently, opening an idea rather than directing it. Tender recognition of what he might want to do. Slight warmth rising at the end.",
+      "mood": "warm_encouraging"
+    }
+  ]
+}

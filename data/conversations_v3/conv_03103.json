@@ -1,0 +1,75 @@
+{
+  "id": "conv_03103",
+  "context": "Kenji helps Ren run an automation tool.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (補助/かける/動作/させる/送ら) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "補助",
+    "かける",
+    "動作",
+    "させる",
+    "送ら"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_156)",
+    "generated_at": "2026-05-29T15:54:14.023Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この自動化、どう動かすんですか?",
+      "en": "How do I run this automation?",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "補助ツールを使えば、簡単に動作します。",
+      "en": "With the helper tool, it runs easily.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一気に、全部動作させられますか?",
+      "en": "Can I run it all at once?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、順に動作させましょう。",
+      "en": "Yes, let's run it in sequence.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "結果は、メールで送らせますか?",
+      "en": "Shall I have it send results by email?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "自動で送らせれば、手間が省けます。",
+      "en": "Having it auto-send saves effort.",
+      "style": "measured office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "チェックに、時間をかけたいです。",
+      "en": "I want to spend time on the check.",
+      "style": "reliable young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "補助があれば、安心して動作させられます。",
+      "en": "With the helper, you can run it with confidence.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

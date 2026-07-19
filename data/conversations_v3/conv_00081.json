@@ -1,0 +1,76 @@
+{
+  "id": "conv_00081",
+  "context": "Ren has been hired by Sho's parents to tutor him for thirty minutes a week. Today is week three. The kid still doesn't look up.",
+  "purpose": "tutor-pupil — small patience, smaller progress",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "見る",
+    "少し",
+    "時間",
+    "大丈夫",
+    "ありがとう"
+  ],
+  "cast": [
+    "ren_uni",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "しょうくん、これ、見て。",
+      "en": "Sho-kun — look at this.",
+      "style": "Gentle, pitched down without condescension. Slow opening. Holds out the worksheet like offering something precious. Warm patience in the voice.",
+      "mood": "gentle_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。",
+      "en": "…Yeah.",
+      "style": "Small and muffled. Eyes down on his hands. Barely a sound — more breath than voice. Uncertain but trying.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に、少しずつでいいから。",
+      "en": "It's okay — take it one little step at a time.",
+      "style": "Soft, steady reassurance. No rush in the pacing. Voice full and present, carrying the whole weight of permission. A small kind moment stretched just enough to land.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…難しい。",
+      "en": "…It's hard.",
+      "style": "Quiet confession. One word, small and true. Barely looking, but the honesty is all there.",
+      "mood": "struggling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん、わかる。私も、最初、難しかった。",
+      "en": "I know — it was hard for me too, at first.",
+      "style": "Warm, matter-of-fact. Not performing kindness, just being honest. Levels the ground between them. No pretense, just a straight small sentence.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…本当に？",
+      "en": "…Really?",
+      "style": "Small surprised lift. First real eye contact — head coming up. A crack of hope in the question. Vulnerable, genuine.",
+      "mood": "hopeful_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に。…じゃ、一緒に一個だけやろうか。",
+      "en": "Really. …How about we just do one together?",
+      "style": "Quiet conviction on the first word. Then a soft shift to invitation — stakes lowered, option given. Calm and present. Hands reaching forward gently.",
+      "mood": "warm_inviting"
+    }
+  ]
+}

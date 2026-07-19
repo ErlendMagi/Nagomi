@@ -1,0 +1,75 @@
+{
+  "id": "conv_02993",
+  "context": "Sakura interviews a researcher with a doctorate.",
+  "purpose": "WIDENED SCENARIO: academic interview; vocabulary (博士/研究所/証明/単語/翻訳) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "博士",
+    "研究所",
+    "証明",
+    "単語",
+    "翻訳"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_150)",
+    "generated_at": "2026-05-29T15:08:22.180Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "博士は、どんな研究所で働いていますか?",
+      "en": "What kind of institute do you work at, doctor?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "言語を研究する、研究所です。",
+      "en": "An institute that studies language.",
+      "style": "composed researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "言葉の意味は、どう証明するんですか?",
+      "en": "How do you prove word meanings?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "多くの例で、意味を証明します。",
+      "en": "We prove meaning with many examples.",
+      "style": "patient researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "難しい単語も、扱うんですか?",
+      "en": "Do you handle difficult words too?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "珍しい単語を、研究所で集めます。",
+      "en": "We collect rare words at the institute.",
+      "style": "composed researcher voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "翻訳の研究も、されていますか?",
+      "en": "Do you research translation too?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、翻訳の精度を証明しています。",
+      "en": "Yes, we prove the accuracy of translation.",
+      "style": "warm researcher voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

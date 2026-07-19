@@ -1,0 +1,86 @@
+{
+  "id": "conv_08614",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 後遺症/火葬/引き起こさ/漏らし/退去/服従/脱退/揶揄",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "後遺症",
+    "火葬",
+    "引き起こさ",
+    "漏らし",
+    "退去",
+    "服従",
+    "脱退",
+    "揶揄"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、長期療養者の後遺症ケアを医療チームで担当しております",
+      "en": "Ren — we handle long-term post-recovery care management as a medical team.",
+      "style": "Clear, measured delivery. Slight pause between name and statement to mark professionalism. Steady eye contact. No apology in the voice, but no coldness either.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、火葬前の遺体検案を医療チームで実施します",
+      "en": "Yes — we conduct post-mortem examination before cremation as a full medical team.",
+      "style": "Same steady cadence. Clinical precision without detachment. A pause before the main clause, like she's ensuring accuracy. Breath controlled.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症を引き起こさせた水質問題の研究を、貴院、なさったんですね、先生",
+      "en": "So your hospital has conducted research into the water contamination that caused that infection outbreak, sensei?",
+      "style": "Genuine curiosity, respectful lean forward. Not accusatory — truly asking. A small uptick at the end like he's inviting her to share more. Warm but careful.",
+      "mood": "thoughtful_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、個人情報を漏らした事案の再発防止を医療チームで強化しております",
+      "en": "Yes — we've strengthened our protocols as a team to prevent any repeat of that data breach incident.",
+      "style": "Calm, factual. A micro-pause on 'strengthened' — not defensive, just anchoring the word. Still meeting his gaze. Professional composure held steady.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "入院患者の早期退去を、貴院、なさる方針なんですね、先生",
+      "en": "So your hospital does follow a policy of early discharge for inpatients, sensei?",
+      "style": "Thoughtful, not interrogating. Quiet underlayer of concern. Pacing slightly slower, like he's choosing words with care. Sincere interest, not suspicion.",
+      "mood": "concerned_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、絶対服従を求める医療には医療チームで疑問を呈します",
+      "en": "Yes — we question whether medicine should ever demand absolute obedience. That's core to how we work as a team.",
+      "style": "Slight firmness on 'question' — conviction without aggression. Breath steady. She's stating principle, not defending. Eye contact unwavering but warm.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "学会から脱退した医師の心情を、貴院、ご理解されてるそうですね、先生",
+      "en": "I understand you show compassion for physicians who've left their professional associations, sensei?",
+      "style": "Careful respect in every syllable. Slower pace. He's asking something vulnerable — this matters to him. Hopeful but guarded tone, like he's testing safety.",
+      "mood": "vulnerable_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者を揶揄する発言は医療チームで厳禁としております",
+      "en": "Yes — we have a strict policy against any mocking or dehumanizing language toward patients. That's non-negotiable.",
+      "style": "Quiet conviction. No drama, but absolute. Slight close on the final word — she's drawing a line. Tired underneath, but the resolve is firm and clear.",
+      "mood": "weary_resolute"
+    }
+  ]
+}

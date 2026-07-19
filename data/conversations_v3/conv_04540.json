@@ -1,0 +1,78 @@
+{
+  "id": "conv_04540",
+  "context": "A uni student interviews a retired diplomat about regional ties",
+  "purpose": "Teach: 県民/中年/日本国/同志/アラブ/モンゴル/高価/形状",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "県民",
+    "中年",
+    "日本国",
+    "同志",
+    "アラブ",
+    "モンゴル",
+    "高価",
+    "形状"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_228 workflow wopwgzt3g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間を頂きありがとうございます。元外交官として、地域との結びつきをどうご覧になっていますか。",
+      "en": "Thank you for your time today. As a former diplomat, how do you view our ties with the region?",
+      "style": "Polite formal opening from a respectful university interviewer."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "こちらこそ。県民の声を直接聞く機会が減って久しいから、こうして若い方と話せるのは嬉しいよ。",
+      "en": "The pleasure is mine. It's been ages since I heard residents' voices directly, so speaking with a young person makes me glad.",
+      "style": "Warm reflective elder tone with gentle nostalgia."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "まず伺いたいのですが、アラブ諸国との交渉では、どのような点が一番難しかったのでしょうか。",
+      "en": "First, I'd like to ask: in negotiations with Arab nations, what was the most difficult aspect?",
+      "style": "Curious interview question, slightly formal academic register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "信頼の構築だね。日本国の立場を伝えつつ、相手の歴史観も尊重しなければ前に進まない。",
+      "en": "Building trust. We had to convey Japan's position while also respecting their historical perspective, or nothing moved forward.",
+      "style": "Measured statesmanlike reflection with diplomatic weight."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "モンゴルとの関係についても伺いたいです。当時、印象に残った場面はありますか。",
+      "en": "I'd also like to hear about relations with Mongolia. Was there a scene that left a lasting impression?",
+      "style": "Polite follow-up, steering interview to a new topic."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ。先方の長老から高価な銀細工を贈られてね、その独特な形状に込められた意味を後で知って、本当に胸を打たれたよ。",
+      "en": "Yes. An elder presented me with an expensive silver craft, and learning later the meaning embedded in its unique shape truly moved me.",
+      "style": "Personal anecdote, emotional and grandfatherly storytelling."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素敵なお話ですね。当時まだ中年でいらしたと思いますが、孤独を感じることはありませんでしたか。",
+      "en": "What a wonderful story. You must have been middle-aged at the time — did you ever feel lonely?",
+      "style": "Empathetic personal question, softening interview tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "あったよ。だが現地で苦楽を共にした同志がいたから乗り越えられた。彼らとは今でも文通が続いている。",
+      "en": "I did. But I had comrades on the ground who shared the hardships, so I got through it. We still exchange letters even now.",
+      "style": "Heartfelt closing reflection, intimate and grateful."
+    }
+  ]
+}

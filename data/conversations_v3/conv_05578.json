@@ -1,0 +1,72 @@
+{
+  "id": "conv_05578",
+  "context": "A uni student helps a teen friend pick an outfit for an outing",
+  "purpose": "Teach: 紅茶/パスタ/蕎麦/洋服/スカート/ハッピー/ドーム/切手",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "紅茶",
+    "パスタ",
+    "蕎麦",
+    "洋服",
+    "スカート",
+    "ハッピー",
+    "ドーム",
+    "切手"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、今度の食事会、紅茶系のレストランで、洋服迷ってます。",
+      "en": "Hey, Senpai—for that dinner coming up at that tea place, I'm totally stuck on what to wear.",
+      "style": "Bright, immediate, slightly apologetic. Opens with energy then softens into the genuine ask. Seeking reassurance without quite admitting it.",
+      "mood": "uncertain_eager"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "スカートに薄手のセーター合わせると、清楚で大人っぽくなる。",
+      "en": "A skirt with a thin sweater—that'll give you a clean, sophisticated look.",
+      "style": "Thoughtful and steady. Speaks like he's already pictured it. Not hesitant, but not pushy either—just offering what he sees.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "パスタか蕎麦か、まだ決められません。",
+      "en": "Pasta or soba though—I still can't decide between them.",
+      "style": "Playful deflection masking real indecision. A small laugh under it. Quick, restless energy—she's spiraling a little.",
+      "mood": "overthinking_playful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "好きな方で。ハッピーに食べるのが一番。",
+      "en": "Go with whatever you actually want. Happy eating beats everything else.",
+      "style": "Gentle conviction. Not lecturing—offering permission. Warm pause before the second sentence, like he means it.",
+      "mood": "grounded_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "場所は、ドーム型の屋根の店です。",
+      "en": "The place has this dome-shaped roof, which is kind of nice.",
+      "style": "Offering a small detail like she's remembered something that matters. Quieter than before. Building the picture for herself as much as him.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お礼の手紙、切手付きで送れたら丁寧だぞ。",
+      "en": "If you want to be really thoughtful, send a thank-you note with a stamp.",
+      "style": "Practical advice dressed as a gentle suggestion. A knowing tone—he knows she cares about getting it right. Ends on a light note, not instruction.",
+      "mood": "supportive_knowing"
+    }
+  ]
+}

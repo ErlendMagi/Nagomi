@@ -1,0 +1,75 @@
+{
+  "id": "conv_02502",
+  "context": "Kenji and Ren troubleshoot a slow web app.",
+  "purpose": "WIDENED SCENARIO: tech troubleshooting; web vocabulary (クリック/通信/入力/アクセス/アップ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "クリック",
+    "通信",
+    "入力",
+    "アクセス",
+    "アップ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_126)",
+    "generated_at": "2026-05-29T13:00:38.994Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "クリックしても、反応が遅いんです。",
+      "en": "Even when I click, it responds slowly.",
+      "style": "mildly frustrated young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "通信の状態を、確認してみましょう。",
+      "en": "Let's check the connection status.",
+      "style": "analytical office man voice, soft warm focused guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もう一度、アクセスし直しますか?",
+      "en": "Shall I access it again?",
+      "style": "engaged young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、IDを入力して、入り直して下さい。",
+      "en": "Yes, enter your ID and re-enter.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "入力したら、アクセスが速くなりました。",
+      "en": "After entering it, access got faster.",
+      "style": "relieved young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "アプリを、最新にアップしておきましょう。",
+      "en": "Let's update the app to the latest.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "アップしたら、クリックも軽くなった。",
+      "en": "After updating, clicking got snappier too.",
+      "style": "satisfied young colleague voice, soft warm appreciative throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "通信さえ良ければ、快適に使えますよ。",
+      "en": "As long as the connection's good, it runs smoothly.",
+      "style": "reassuring office man voice, soft warm closing throughout"
+    }
+  ]
+}

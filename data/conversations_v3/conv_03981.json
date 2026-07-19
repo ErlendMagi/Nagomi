@@ -1,0 +1,90 @@
+{
+  "id": "conv_03981",
+  "context": "A boss reads morning financial news with his manager",
+  "purpose": "Teach: 債務/日銀/インフレ/詐欺/独占/レート/マネー/倒産",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "債務",
+    "日銀",
+    "インフレ",
+    "詐欺",
+    "独占",
+    "レート",
+    "マネー",
+    "倒産"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おはよう、ケンジ君。今朝の日銀の発表、見たか？",
+      "en": "Morning, Kenji. Did you catch the BOJ announcement this morning?",
+      "style": "Casual gruff morning greeting with curious opening question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、見ました。インフレ対策で金利を上げるみたいですね。",
+      "en": "Yes, I saw it. Looks like they're raising rates to deal with inflation.",
+      "style": "Polite morning reply with light business briefing tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ、おかげで為替レートも朝から大きく動いてるな。",
+      "en": "Yeah, and the exchange rate has been swinging since the open because of it.",
+      "style": "Thoughtful grunt with seasoned executive market observation"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、マネーの流れが急に変わると、現場も大変です。",
+      "en": "Right, when the money flow shifts suddenly, the front lines really struggle.",
+      "style": "Sympathetic agreeable reply with mild concerned undertone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ところで、あの大手商社、債務がかなり膨らんでるって本当か？",
+      "en": "By the way, is it true that big trading company's debt is ballooning?",
+      "style": "Lowered curious tone shifting into discreet concerned probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、最悪の場合は倒産もあり得ると、朝刊に書いてありました。",
+      "en": "Yeah, the morning paper said bankruptcy is possible in the worst case.",
+      "style": "Hushed careful delivery befitting sensitive financial news report"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それに、確かあの会社、独占禁止法でも調査されてたよな？",
+      "en": "Plus, that company was under antitrust investigation too, wasn't it?",
+      "style": "Sharp recollecting tone with probing executive follow-up question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。役員の投資詐欺の疑いまで出ているそうで。",
+      "en": "Exactly. There are even allegations of investment fraud by executives.",
+      "style": "Formal affirmation with measured grave informational delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふん、率直に言って、嫌な朝だな。コーヒー、もう一杯頼む。",
+      "en": "Hmph, frankly, what a rough morning. Get me another coffee.",
+      "style": "Grumbling resigned exhale ending on casual office request"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。続報が入りましたら、すぐお持ちします。",
+      "en": "Of course. I'll bring updates as soon as they come in.",
+      "style": "Crisp deferential acknowledgment promising prompt follow-up action"
+    }
+  ]
+}

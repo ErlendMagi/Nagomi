@@ -1,0 +1,78 @@
+{
+  "id": "conv_04169",
+  "context": "A uni student journalist interviews a doctor about lifestyle medicine",
+  "purpose": "Teach: インフルエンザ/アルコール/脂肪/推定/進展/重点/喫煙/美しく",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インフルエンザ",
+    "アルコール",
+    "脂肪",
+    "推定",
+    "進展",
+    "重点",
+    "喫煙",
+    "美しく"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_210 workflow w7ku8aw67)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "斎藤先生、本日は大学新聞の取材にご協力いただきありがとうございます。早速ですが、生活習慣医療の重点課題は何でしょうか。",
+      "en": "Dr. Saito, thank you for cooperating with our university paper today. To start, what are the priority issues in lifestyle medicine?",
+      "style": "Polite, slightly nervous student journalist opening the interview respectfully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね、まず喫煙と過度なアルコール摂取、それに内臓脂肪の蓄積、この三つが大きな柱だと考えています。",
+      "en": "Well, first smoking, excessive alcohol intake, and the accumulation of visceral fat — I consider these the three main pillars.",
+      "style": "Calm, measured doctor explaining clearly with confident professional tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。喫煙率は最近どのように変化していますか。何か新しい進展はあるのでしょうか。",
+      "en": "I see. How has the smoking rate been changing recently? Has there been any new progress?",
+      "style": "Curious follow-up question, leaning forward with genuine interest."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "若年層では下がっていますが、女性の喫煙者は横ばいで、推定で全体の約十五パーセントと見られています。",
+      "en": "Among younger people it's dropping, but female smokers are flat — estimated at roughly fifteen percent overall.",
+      "style": "Factual delivery citing statistics with thoughtful, slightly concerned undertone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "冬場はインフルエンザの流行もありますし、患者さんへの指導は大変ではないですか。",
+      "en": "In winter there's also the flu epidemic, so isn't guiding patients quite demanding?",
+      "style": "Empathetic question acknowledging the doctor's workload, softening the tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、季節性の感染症と慢性疾患を並行して診るのは骨が折れますが、研究の進展で対策も進んでいますよ。",
+      "en": "Yes, treating seasonal infections alongside chronic conditions is tough, but research advances are helping us cope.",
+      "style": "Reflective and warm, sharing the burden honestly but with optimism."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、健康的に歳を重ねて美しく生きるための助言を一言いただけますか。",
+      "en": "Finally, could I get one piece of advice for aging healthily and beautifully?",
+      "style": "Wrapping up gently, hopeful and slightly admiring of the doctor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "規則正しい睡眠と適度な運動、そして食事に重点を置くこと。それだけで人生はずっと豊かになりますよ。",
+      "en": "Regular sleep, moderate exercise, and focusing on your diet — that alone makes life far richer.",
+      "style": "Gentle closing wisdom delivered with a warm, encouraging smile."
+    }
+  ]
+}

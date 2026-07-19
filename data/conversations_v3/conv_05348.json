@@ -1,0 +1,72 @@
+{
+  "id": "conv_05348",
+  "context": "A uni intern interviews a manager about corporate governance",
+  "purpose": "Teach: 出願/支払っ/割り当て/閣議/即座/創立/書記/税理士",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出願",
+    "支払っ",
+    "割り当て",
+    "閣議",
+    "即座",
+    "創立",
+    "書記",
+    "税理士"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_269 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "貴社の創立から、ガバナンスはどのように変わってきましたか。",
+      "en": "How has your governance structure evolved since the company was founded?",
+      "style": "Respectful, measured pace. Slight hesitation on the opening — Ren is careful not to sound presumptuous. Clear articulation on the key question words. Genuine curiosity underneath the formality.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "書記室の充実、税理士との連携など、内部の体制を整えてきました。",
+      "en": "We've strengthened our administrative office, built relationships with our tax accountant, and solidified our internal systems overall.",
+      "style": "Calm, systematic delivery. Slight emphasis on each structural improvement—not listing, but marking off milestones. Composed, competent tone. A small pause between items to let them land.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "特許出願の体制、即座に対応できる仕組みですか。",
+      "en": "For patent applications—do you have a system that can respond right away?",
+      "style": "Lean forward slightly in tone. Quicker pace than before. Ren sensing he's onto something concrete. The question lands with genuine interest, not just filling time.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。割り当て表が明確で、支払っ手続きも自動化されています。",
+      "en": "Yes. Our allocation table is clear, and the payment procedures are automated.",
+      "style": "Direct, efficient. Straightforward confidence without warmth. Each piece of information delivered as confirmation. No elaboration—she trusts the structure speaks for itself.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "閣議決定への対応も、社内で整理しているのですか。",
+      "en": "Are responses to cabinet directives also managed internally through your systems?",
+      "style": "Probing but not accusatory. Ren pressing gently, testing whether the system is truly comprehensive. Slight lift at the end—genuine question, not rhetorical.",
+      "mood": "testing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "毎週、関連法務メモを共有しています。",
+      "en": "We circulate related legal memos to the team every week.",
+      "style": "Brief, matter-of-fact. The closing answer—she's showing continuity and oversight. Quiet confidence. A finality in the tone that suggests she's answered what he needed to know.",
+      "mood": "settled"
+    }
+  ]
+}

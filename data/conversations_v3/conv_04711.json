@@ -1,0 +1,84 @@
+{
+  "id": "conv_04711",
+  "context": "A doctor walks a teen patient through a checkup",
+  "purpose": "Teach: 矯正/救急/注射/生理/医薬品/探る/本能/許容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "矯正",
+    "救急",
+    "注射",
+    "生理",
+    "医薬品",
+    "探る",
+    "本能",
+    "許容"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、こんにちは。今日は学校の健康診断の続きですね。まず、歯の矯正は順調ですか？",
+      "en": "Hello, Sakura. Today we're continuing your school checkup. First, how is your dental correction going?",
+      "style": "Warm professional doctor greeting a young patient politely"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、最近やっと慣れてきました。でも、この前部活で転んで、救急で来たことがあって、ちょっと心配なんです。",
+      "en": "Yes, I've finally gotten used to it. But I came to the ER recently after falling at club, so I'm a bit worried.",
+      "style": "Teen girl, slightly nervous but polite and chatty"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。記録は見ましたよ。今日は念のためインフルエンザの予防注射もしておきましょうか。",
+      "en": "I see. I looked at the records. Just to be safe, shall we also do a flu vaccination injection today?",
+      "style": "Calm, reassuring medical tone with gentle suggestion"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うう、注射はちょっと苦手で…。あと、最近生理が不順なんですけど、それも関係ありますか？",
+      "en": "Ugh, I'm not great with shots. Also, my period has been irregular lately. Could that be related?",
+      "style": "Embarrassed teen confiding a personal worry to doctor"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "正直に話してくれてありがとう。生理の乱れは、成長期にはよくある許容範囲のことが多いんですよ。",
+      "en": "Thank you for telling me honestly. Cycle irregularities in growth phases often fall within an acceptable range.",
+      "style": "Reassuring expert explaining gently to ease patient anxiety"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よかった…。市販の医薬品で痛み止めを飲んでるんですけど、大丈夫でしょうか？",
+      "en": "Oh good. I've been taking over-the-counter painkillers from the pharmacy. Is that okay?",
+      "style": "Relieved teen asking practical follow-up question politely"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "用量を守れば大丈夫。ただ、痛みが続くようなら原因を探る必要があるので、来月もう一度来てください。",
+      "en": "If you follow the dosage, it's fine. But if pain continues, we'll need to investigate the cause, so come back next month.",
+      "style": "Professional advice balancing caution with practical instruction"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。なんか、痛いとつい泣きたくなるのって、本能なんですかね…。",
+      "en": "Understood. I wonder if wanting to cry when it hurts is just instinct…",
+      "style": "Reflective teen musing aloud in a quiet honest moment"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ふふ、そうかもしれませんね。痛みを伝えるのは大事なことですよ。じゃあ、注射、頑張りましょう。",
+      "en": "Heh, perhaps so. Communicating your pain is important. Alright then, let's get through this shot together.",
+      "style": "Warm, encouraging closing tone from a kindly doctor"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06134",
+  "context": "A boss reviews a regional incident",
+  "purpose": "Teach: 北陸/音波/雑草/食用/耐性/重心/史実/過熱",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "北陸",
+    "音波",
+    "雑草",
+    "食用",
+    "耐性",
+    "重心",
+    "史実",
+    "過熱"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "北陸支店の水質トラブル、対応急げ。",
+      "en": "Get the Hokuriku branch water quality issue handled urgently.",
+      "style": "Clipped, authoritative opening. Direct eye contact. No softening—this is an order, not a suggestion. Minimal air, economical delivery.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。超音波検査機器、追加導入予定です。",
+      "en": "Understood. We're planning to bring in additional ultrasonic testing equipment.",
+      "style": "Steady, matter-of-fact delivery. Shows competence without over-explaining. Slight nod forward. Measured pace—nothing rushed, nothing hesitant.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "敷地の雑草、計画的に管理しろ。",
+      "en": "Manage the site vegetation systematically. Don't let it get ahead of you.",
+      "style": "Firm directive. Weight on 'systematically'—this is about prevention, not reaction. Brief pause before the second sentence. Still composed, not harsh.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "食用油の取り扱い、安全基準も再確認します。",
+      "en": "We'll also review our safety protocols for edible oil handling.",
+      "style": "Measured, professional tone. Slight lean forward—showing initiative beyond what was asked. Calm, unhurried cadence. Demonstrates foresight without sounding defensive.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "機械の耐性、テストで検証しろ。",
+      "en": "Run full testing to verify the machinery's durability under stress.",
+      "style": "Clear, unyielding instruction. Emphasis on 'full'—this can't be half-done. Slightly elevated energy from previous lines. No room for shortcuts.",
+      "mood": "demanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "業界の重心、若手企業に移りつつあります。",
+      "en": "The industry's center of gravity is shifting toward younger companies.",
+      "style": "Thoughtful, observational tone. Slight distance—he's reflecting aloud, not just reporting. Pause before 'younger.' Lower energy than directive lines. A small moment of professional concern.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去の史実、教訓に。",
+      "en": "Learn from what's happened before. History doesn't repeat, but it rhymes.",
+      "style": "Weighted, almost philosophical. Slow delivery on the first sentence. Pause between the two. Second line softer, more personal—wisdom, not mandate.",
+      "mood": "cautionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "メディア過熱、広報、慎重対応します。",
+      "en": "The media's been intense lately. We're handling press inquiries very carefully.",
+      "style": "Lower volume, closer to the listener. Controlled concern just beneath the surface. Steady tempo but deliberate. No panic—this is strategy, not crisis management.",
+      "mood": "careful"
+    }
+  ]
+}

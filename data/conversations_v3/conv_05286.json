@@ -1,0 +1,79 @@
+{
+  "id": "conv_05286",
+  "context": "A boss reviews policy outreach with his manager",
+  "purpose": "Teach: ビラ/トピックス/ナショナリズム/ビジネスマン/プラザ/農林省/リーディング/請願",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ビラ",
+    "トピックス",
+    "ナショナリズム",
+    "ビジネスマン",
+    "プラザ",
+    "農林省",
+    "リーディング",
+    "請願"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_266 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今週のトピックス、農林省の発表が大きいな。",
+      "en": "This week's big story is the agriculture ministry's announcement.",
+      "style": "Calm, scanning tone. Glances up from briefing papers. Factual without emphasis. Looking for acknowledgment more than reaction.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界リーディング企業として、こちらの見解も出した方がいいかと。",
+      "en": "Yes. I think as an industry leader, we should put out a statement of our own.",
+      "style": "Respectful and measured. Slight forward lean. Professional but not defensive. Suggesting rather than asserting, eyes up toward his boss.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "駅前のプラザで開かれる説明会、参加するか?",
+      "en": "Are you considering attending that briefing at the station plaza?",
+      "style": "Practical tone. Quick, direct question. Looking for a simple yes or no. No extra warmth — just operational.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "参加して、ビラも配布する方向で準備しています。",
+      "en": "We're planning to attend and distribute flyers there as well.",
+      "style": "Assured, competent delivery. Sits slightly taller. This is already in motion — he's reporting progress, not asking permission. Steady pace.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ビジネスマン向けの内容に絞れ。ナショナリズム的な煽りは避けろ。",
+      "en": "Keep it business-focused. Avoid any nationalist slant.",
+      "style": "Authoritative but not harsh. Two separate commands. First is measured; second drops slightly lower, with weight on the warning. Direct eye contact. No room for interpretation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。請願書の文面も、中立で押し通します。",
+      "en": "Understood. I'll make sure the petition language stays neutral all the way through.",
+      "style": "Crisp, immediate acknowledgment. Slight nod on \"understood\". Fast-paced, professional. Shows he's captured the instruction and will execute it without question.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "Good.",
+      "style": "Quiet satisfaction. Brief glance, then back to papers. Weight of finality. Closes the conversation with efficient understatement. No need for more.",
+      "mood": "satisfied"
+    }
+  ]
+}

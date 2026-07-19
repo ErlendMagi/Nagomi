@@ -1,0 +1,75 @@
+{
+  "id": "conv_02856",
+  "context": "Kenji helps Yuki with a kiosk machine.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (テーブル/ボタン/タクシー/城/シーズン) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "テーブル",
+    "ボタン",
+    "タクシー",
+    "城",
+    "シーズン"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_143)",
+    "generated_at": "2026-05-29T14:34:54.432Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この機械、使い方が分からなくて。",
+      "en": "I can't figure out this machine.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、緑のボタンを押して下さい。",
+      "en": "First, press the green button.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ボタンを押したら、画面が出ました。",
+      "en": "I pressed the button and a screen appeared.",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出張の城下町、観光シーズンですね。",
+      "en": "The castle town for the trip — it's tourist season.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "シーズンだと、タクシーは混みますか?",
+      "en": "In season, are taxis crowded?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "タクシーは、ボタン一つで呼べますよ。",
+      "en": "You can call a taxi with one button.",
+      "style": "reassuring office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "会議室のテーブルも、予約しますね。",
+      "en": "I'll reserve the meeting-room table too.",
+      "style": "reliable office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "シーズン前に、城を見られるといいですね。",
+      "en": "I hope you can see the castle before the season.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

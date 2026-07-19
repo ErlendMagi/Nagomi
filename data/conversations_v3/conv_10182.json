@@ -1,0 +1,86 @@
+{
+  "id": "conv_10182",
+  "context": "Two friends chat",
+  "purpose": "Teach: キミ/ハズ/みどり/蹴り/お許し/かんじ/はかり/相方",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "キミ",
+    "ハズ",
+    "みどり",
+    "蹴り",
+    "お許し",
+    "かんじ",
+    "はかり",
+    "相方"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_511 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、「キミは何歳?」って親しげに聞かれたよ、メイちゃん",
+      "en": "A customer asked me how old I was, and it felt so casual coming from them.",
+      "style": "Soft, wondering tone. Slight pause before recounting the moment. Not accusatory—just noticing something that felt unusual. Warm toward Aoi, inviting her perspective.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、予約のハズが見当たらないよ、メイちゃん",
+      "en": "A customer came in with a reservation that wasn't in the system. It was a mess.",
+      "style": "Dry, light amusement beneath mild exasperation. Quick-paced on the problem, slightly amused at the chaos. Not bitter—just the wry observation of someone who's handled worse.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お店のみどりを増やすと癒しよね、メイちゃん",
+      "en": "Adding more greenery to the shop really does make it feel more calming, doesn't it?",
+      "style": "Gentle observation, almost to herself but including Aoi. Warm approval. Slight uplift at the end—noticing something good without making it a big thing.",
+      "mood": "content"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、ボールを蹴り遊ぶお子様連れだったよ、メイちゃん",
+      "en": "That customer had a kid with them who was kicking a ball around the shop.",
+      "style": "Matter-of-fact but amused. Not complaining—just reporting what happened. Light tone, like she found it charming more than disruptive. Slight smile in the voice.",
+      "mood": "amused"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、「お許しを」と丁寧に仰ってたよ、メイちゃん",
+      "en": "The customer was so polite about it though. They kept apologizing.",
+      "style": "Gentle, recognizing kindness. Thoughtful pause before speaking. Voice softens on the apology—she's noting something tender in their care. Appreciative.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、香りで季節をかんじるって仰ってたよ、メイちゃん",
+      "en": "They were talking about how the aroma of coffee helps them feel the seasons change.",
+      "style": "Tender, wondering. Slow, thoughtful delivery. Like she's sharing something beautiful that was said to her. Slight breathiness—genuine appreciation for the observation.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、コーヒー粉をはかりで丁寧に量ろうね、メイちゃん",
+      "en": "Let's measure the coffee grounds carefully with the scale, okay?",
+      "style": "Gentle direction, warm and collaborative. Not instructional—more like suggesting something they do together. Quiet, attentive pace.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、私とメイちゃんは仕事の相方ね、メイちゃん",
+      "en": "You and I are partners in this, you know. We work well together.",
+      "style": "Quiet certainty, tender. Slow, deliberate. Like she's saying something she's been meaning to say. Warm eye contact in her voice. Not effusive—just steady and true.",
+      "mood": "tender_certain"
+    }
+  ]
+}

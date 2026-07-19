@@ -1,0 +1,86 @@
+{
+  "id": "conv_08662",
+  "context": "Two friends chat",
+  "purpose": "Teach: 取りあえず/なかには/ちらほら/うかがっ/食え/何れ/ほったらかし/大概",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "取りあえず",
+    "なかには",
+    "ちらほら",
+    "うかがっ",
+    "食え",
+    "何れ",
+    "ほったらかし",
+    "大概"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_435 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、取りあえず新メニューを試作してみましょう、メイちゃん",
+      "en": "Aoi, let's go ahead and test out the new menu items.",
+      "style": "Direct, purposeful delivery. Quick attack on the opening name. Warm underneath — inviting her into the project, not commanding it. Steady pace, no hesitation.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様のなかには、毎日お見えになる方もいらっしゃるね、メイちゃん",
+      "en": "You know, Aoi, some of our customers come in every single day.",
+      "style": "Gentle observation, slightly wondering. Soft, conversational rhythm. A small smile in the voice — noticing something lovely about consistency. Trails off slightly at the end, reflective.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニューの注文、ちらほら入ってきたわよ、メイちゃん",
+      "en": "Aoi, we've been getting orders for the new menu items trickling in.",
+      "style": "Pleased but measured delivery. Light, almost musical lilt on 'trickling in.' Warm tone — she's pleased but not triumphant. Steady pace, grounded.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、お友達のお話をうかがってらしたわよ、メイちゃん",
+      "en": "Aoi, one of our customers was telling her friend about us.",
+      "style": "Soft, almost touched quality. Quiet realization in the voice. Slow, careful pace — she's letting the moment breathe. Wondering, grateful.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、食えるだけ食べていらっしゃったわ、メイちゃん",
+      "en": "Aoi, that customer ate nearly everything we put in front of her.",
+      "style": "Dry affection underneath the wry surface. Gentle laugh ready in the background. Warm but knowing — she's seen this before. Light, easy pace.",
+      "mood": "amused_fond"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、何れまた、お店の改装も考えましょうね、メイちゃん",
+      "en": "Aoi, maybe down the line we should think about renovating the shop.",
+      "style": "Thoughtful, gently planning. Quiet, conversational tone. She's not pushing — it's a suggestion for someday. Slow, easy pace, trailing off with possibility.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、棚の整理をほったらかしにしてしまったわね、メイちゃん",
+      "en": "Aoi, we really did let the shelves get away from us, didn't we?",
+      "style": "Rueful but not upset. Light self-deprecating humor. Soft pace, with a tiny sigh underneath. She's noticing their own lapse together, not blaming.",
+      "mood": "wry_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、大概、午後にお見えになるよね、メイちゃん",
+      "en": "You know, Aoi, most of them do tend to come by in the afternoon.",
+      "style": "Quiet, observant close. Gentle rhythm, reflective but not melancholy. A small knowing pause before the closing. Fading softly at the end.",
+      "mood": "observant_peaceful"
+    }
+  ]
+}

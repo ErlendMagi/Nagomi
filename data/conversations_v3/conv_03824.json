@@ -1,0 +1,78 @@
+{
+  "id": "conv_03824",
+  "context": "A barista chats with a customer ordering an orange drink",
+  "purpose": "Teach: 打っ/満ち/スライド/オレンジ/会館/コール/マル/じっと",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "打っ",
+    "満ち",
+    "スライド",
+    "オレンジ",
+    "会館",
+    "コール",
+    "マル",
+    "じっと"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_192 w51cjnmo1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ、お嬢さん。今日は何になさいますか?",
+      "en": "Welcome, miss. What would you like today?",
+      "style": "Warm professional barista greeting with polite formality"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あのスライドショーのメニュー、じっと見てたんだけど…オレンジのやつが気になって。",
+      "en": "I was staring at that slideshow menu... the orange one caught my eye.",
+      "style": "Soft dreamy customer voice with thoughtful curiosity"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ああ、季節限定のオレンジハニーですね。文化会館のイベントでも好評だったんですよ。",
+      "en": "Ah, the seasonal orange honey. It was popular at the cultural hall event too.",
+      "style": "Friendly informative barista sharing product backstory"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "へえ、香りが満ちてる感じがして素敵。じゃあそれを一つお願いします。",
+      "en": "Wow, it feels like the aroma fills the air. I'll have one of those please.",
+      "style": "Gentle romantic tone expressing delicate sensory appreciation"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "かしこまりました。今レジに打っておきますね。サイズはトールでよろしいですか?",
+      "en": "Certainly. I'll punch it into the register now. Tall size okay?",
+      "style": "Crisp efficient cafe-staff confirmation with polite tone"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、トールで。あ、ポイントカードにマル印を一つ押してもらえますか?",
+      "en": "Yes, tall please. Oh, could you stamp one circle mark on my points card?",
+      "style": "Cheerful customer remembering loyalty card request"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もちろんです。お問い合わせは当店のコールセンターでも受け付けていますので、何かあればどうぞ。",
+      "en": "Of course. Inquiries are also accepted at our call center, so feel free anytime.",
+      "style": "Encouraging upbeat staff explaining customer support options"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "わあ、安心ですね。ありがとうございます、また通いますね。",
+      "en": "Wow, that's reassuring. Thank you, I'll come again.",
+      "style": "Soft warm farewell with sincere romantic gratitude"
+    }
+  ]
+}

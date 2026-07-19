@@ -1,0 +1,79 @@
+{
+  "id": "conv_02085",
+  "context": "Kenji visits Hokkaido; phones Hiroshi-elder about it.",
+  "purpose": "Friend reporting travel from afar to elder.",
+  "ambient": "phone_distant_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "北海道",
+    "神社",
+    "当日",
+    "にかけて",
+    "走っ",
+    "走る",
+    "会っ",
+    "届い"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_105)",
+    "generated_at": "2026-05-27T13:24:30.752Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おとうさん、北海道、来ました。",
+      "en": "Dad — I made it to Hokkaido.",
+      "style": "Warm, unhurried opening. Affectionate on the name. Soft Kansai lilt with genuine pleasure. Light pace, like settling into a conversation.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、ええなぁ、神社、行ったか?",
+      "en": "Well now, that's good. Did you make it to the shrine?",
+      "style": "Slow, gentle elder's pace. Knowing warmth in the question. Kansai rhythm natural and unstudied. Interested, not pressing.",
+      "mood": "fond_curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "当日、朝にかけて、駅から走っていきました。",
+      "en": "That morning I ran straight from the station.",
+      "style": "Tender energy underneath. Kansai warmth but with a hint of self-aware humor about his own eagerness. Pace quickens slightly on the rush.",
+      "mood": "earnest_animated"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "お前、よう走るな!",
+      "en": "You really do run, don't you!",
+      "style": "Surprised delight with a proud undercurrent. Warm elder's chuckle barely beneath the words. Soft Kansai rasp, amused and admiring.",
+      "mood": "proud_amused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "昔の友達にも、会えた、嬉しい。",
+      "en": "And I got to see my old friends too — I was so happy.",
+      "style": "Tender sincerity. Kansai warmth suffused throughout. Slightly lingering on the happiness, genuine pleasure without performance.",
+      "mood": "joyful_nostalgic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "メール、届いてんで、ようけ。",
+      "en": "I've been getting a lot of your emails.",
+      "style": "Contented, gentle elder's tone. Slight Kansai softness on 'emails.' Warmth of being kept in the loop. Slow, satisfied delivery.",
+      "mood": "warm_content"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます、また、報告します。",
+      "en": "Thank you for everything. I'll keep you updated.",
+      "style": "Respectful but not stiff. Genuine gratitude underneath. Kansai warmth softening the formality. Steady, reliable tone — a promise kept light.",
+      "mood": "grateful_committed"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06433",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 探っ/効か/呪い/治っ/振ら/古今/身元/速攻",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "探っ",
+    "効か",
+    "呪い",
+    "治っ",
+    "振ら",
+    "古今",
+    "身元",
+    "速攻"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_323 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、新薬の効果、地道に探っています。",
+      "en": "Ren, we're methodically working through the new drug's efficacy right now.",
+      "style": "Direct but measured. Each phrase lands with deliberate weight. Speaks from experience—no hurry in her cadence. Watching him as she speaks.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療が効かない症例、報告書に、必ず含めますね。",
+      "en": "Cases where treatment didn't work always make it into my reports.",
+      "style": "Eager to understand. Leans forward slightly with the question embedded in the statement. Quick, genuine interest—not performing engagement.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。古い民間療法の呪い、医学的検証中です。",
+      "en": "Yes. We're currently verifying the medical basis for some of the older folk remedies.",
+      "style": "Unhurried and clear. No defensiveness. She's explaining something she's thought about many times before. Slight warmth under the clinical tone.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病が治った後の、心理ケア、長期的に必要ですね。",
+      "en": "That's why long-term psychological support after recovery is so important.",
+      "style": "Tentative but genuine. Building on her point carefully. His voice rises slightly at the end—he's asking permission to think out loud with her.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。風評に振らされず、診療続けます。",
+      "en": "Yes. We keep treating patients regardless of what people are saying.",
+      "style": "Calm conviction. Not angry or defensive—just matter-of-fact resolve. Her shoulders stay level. The words land like a promise she's already made to herself.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "古今東西、医学の進歩、勉強になりますね。",
+      "en": "It's remarkable how medicine progresses whether we're looking at ancient or modern practices.",
+      "style": "Growing enthusiasm. Connecting pieces across time. His energy picks up slightly—this is what excites him about learning. Warm and genuine curiosity.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。患者の身元、しっかり確認します。",
+      "en": "Absolutely. We always verify patient identity carefully.",
+      "style": "Direct affirmation. Clinical but not cold. She's confirming protocol with the weight of someone who's seen what happens when you don't. Brief and certain.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救急、速攻での対応、医師の腕、見ます。",
+      "en": "That's where you really see a doctor's skill—in how they respond in an emergency.",
+      "style": "Admiring realization dawning. His voice is quieter, more reflective. He's watching her competence and understanding something true about it. Closing thought.",
+      "mood": "impressed"
+    }
+  ]
+}

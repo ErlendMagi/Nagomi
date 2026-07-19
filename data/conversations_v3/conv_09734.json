@@ -1,0 +1,86 @@
+{
+  "id": "conv_09734",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 風速/乗船/高熱/鼓動/洗顔/授乳/浄水/脊髄",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "風速",
+    "乗船",
+    "高熱",
+    "鼓動",
+    "洗顔",
+    "授乳",
+    "浄水",
+    "脊髄"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_488 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、災害時の風速予測を医療チームで参考にします",
+      "en": "Ren, we use wind speed forecasting during disasters as a reference point for our medical team's planning.",
+      "style": "Clear, informational opening. Steady pace, professional but not stiff. Light emphasis on 'we' — inclusive. Slight pause before the procedural detail, showing thoughtfulness.",
+      "mood": "composed_instructive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者搬送時の乗船指示を医療チームで管理します",
+      "en": "Yes — we manage patient transport and boarding procedures as a coordinated function of our medical team.",
+      "style": "Measured affirmation. Slower tempo on the procedural terms. Calm, reassuring undertone. Speaks as though explaining something important she's thought through carefully.",
+      "mood": "steady_clear"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者の高熱対応を医療チームで研修します",
+      "en": "Ren, we conduct training on high-fever response protocols for pediatric patients across our entire medical team.",
+      "style": "Deliberate, methodical. Slight weight on 'conduct' — this is established practice. Even pace. Professional warmth underneath — she takes this seriously because patients depend on it.",
+      "mood": "composed_purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "胎児の心臓鼓動を、貴院、エコーで確認されますね、先生",
+      "en": "So you do use echocardiography to confirm fetal cardiac function here at your hospital, don't you, Doctor?",
+      "style": "Quiet intellectually curious. Careful phrasing — testing knowledge without presumption. Slight lift at the end seeking confirmation. Respectful distance maintained.",
+      "mood": "curious_deferential"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、術後の洗顔指導を医療チームでおこないます",
+      "en": "Yes — we provide postoperative wound care instruction as a standard protocol managed by our medical team.",
+      "style": "Calm, procedural affirmation. Even pacing. The rhythm of someone stating established fact. Not defensive, just clear. Professional courtesy in her tone.",
+      "mood": "steady_factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "授乳外来を、貴院、設けられてますね、先生",
+      "en": "You do have a dedicated lactation consultation clinic here at your hospital, don't you, Doctor?",
+      "style": "Respectful inquiry, genuinely interested. Soft cadence on the question. Observant — asking about something he's noticed or inferred. Seeking gentle confirmation.",
+      "mood": "observant_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、浄水フィルターを医療チームで管理します",
+      "en": "Yes — our medical team maintains strict protocols for water purification and filtration management.",
+      "style": "Assured, straightforward. Measured tempo. Light emphasis on 'strict' — this is non-negotiable. Professional, almost clinical in its confidence.",
+      "mood": "steady_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、脊髄損傷患者のリハビリを医療チームで進めます",
+      "en": "Yes — we coordinate spinal cord injury rehabilitation across our medical team and follow through comprehensively.",
+      "style": "Grounded and steady. Warm undertone on 'follow through' — suggesting long-term commitment to patients. Slight deliberate close, as though this is a point she wants to land clearly.",
+      "mood": "steady_committed"
+    }
+  ]
+}

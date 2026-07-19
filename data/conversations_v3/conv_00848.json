@@ -1,0 +1,76 @@
+{
+  "id": "conv_00848",
+  "context": "Asuka helps Sakura manage exam stress.",
+  "purpose": "teacher-student stress-management exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "試験",
+    "原因",
+    "相談",
+    "一緒",
+    "頑張る"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_043)",
+    "generated_at": "2026-05-27T02:25:25.643Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、試験、近づいて、緊張、します。",
+      "en": "Teacher, I'm getting nervous as the exam gets closer.",
+      "style": "Soft opening, almost apologetic for bringing it up. Warm but hesitant. Lets the vulnerability show without performing it. Slight breath before speaking, like gathering courage.",
+      "mood": "vulnerable_nervous"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "原因、何だと思う？",
+      "en": "What do you think is making you feel that way?",
+      "style": "Gentle curiosity, leaning in slightly. Not interrogating — genuinely asking. Warm patience in the pacing. Creates space for the student to think.",
+      "mood": "engaged_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "失敗、怖いです。",
+      "en": "I'm afraid of failing.",
+      "style": "Words come quietly. The admission costs something. Exhale after 'failing' — releasing a weight she's been holding. Eye contact brief, then down.",
+      "mood": "scared_honest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "相談、しに来てくれて、嬉しい。",
+      "en": "I'm glad you came to talk about this.",
+      "style": "Genuine relief in the voice. Not celebratory — steady and present. A small nod underneath the words. Conveys 'this matters, you matter.'",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一人で、抱えすぎてました。",
+      "en": "I've been carrying this alone for too long.",
+      "style": "Realization dawning as she speaks. Softer at the start, slight steadiness building. The acknowledgment has weight. Not self-pitying — just truthful.",
+      "mood": "tender_relief"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、頑張ろう。深呼吸して。",
+      "en": "Let's do this together. Take a deep breath with me.",
+      "style": "Calm, grounded authority. Not commanding — inviting. Slow, deliberate pacing. Breathes visibly herself on 'deep breath.' Creates safety by example.",
+      "mood": "reassuring_present"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、頑張ります。",
+      "en": "Thank you. I will do my best.",
+      "style": "Softer than before, but steadier. Gratitude first, then quiet determination. The closing has finality without closure — moving forward. Small smile underneath.",
+      "mood": "grateful_determined"
+    }
+  ]
+}

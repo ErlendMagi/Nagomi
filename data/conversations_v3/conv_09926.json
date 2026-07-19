@@ -1,0 +1,86 @@
+{
+  "id": "conv_09926",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 管内/称号/単調/対称/要綱/パイオニア/訳注/経団連",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "管内",
+    "称号",
+    "単調",
+    "対称",
+    "要綱",
+    "パイオニア",
+    "訳注",
+    "経団連"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_498 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、管内の支店を巡回しろ",
+      "en": "Tour the branches across our company territory.",
+      "style": "Clipped, authoritative opening. Even delivery without warmth. Expectation of compliance. No room for negotiation — this is instruction, not invitation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。優秀社員に新称号を付与する制度を作ります",
+      "en": "Understood. I'll create a system to award new titles to our top performers.",
+      "style": "Measured, professional response. Slight lift of confidence on the solution. Processing and executing without hesitation. Respectful but assured.",
+      "mood": "compliant_capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、単調なルーチンを見直せ",
+      "en": "Review our company's monotonous routines. Fix them.",
+      "style": "Direct, cutting through excess. No softening. The tone of someone used to having his orders followed. Minimal pause between statements.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。組織図を左右対称に整えます",
+      "en": "Understood. I'll restructure the organizational chart for symmetry.",
+      "style": "Quick acknowledgement. Practical, unadorned. Already moving to the next task. No elaboration — just confirmation and the plan.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界要綱を策定しろ",
+      "en": "Establish the industry standards framework.",
+      "style": "Mandate delivered flatly. Brief, final-sounding. The weight of authority without inflection. This is not a request.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社は業界のパイオニアです",
+      "en": "Understood. Our company is an industry pioneer.",
+      "style": "Pride entering the voice here — subtle but present. Emphasis on 'pioneer' with quiet confidence. Kenji allowing himself a moment of genuine pride in the company.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、英文資料には訳注を付けろ",
+      "en": "Add translator's notes to all our English-language documents.",
+      "style": "Precise instruction. Specificity on the details. The discipline of his usual tone. Expects this will be done without question.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経団連の動向を注視します",
+      "en": "Understood. I'll monitor developments at the Keidanren closely.",
+      "style": "Final confirmation. Closing the conversation with finality. Steady, assured. The last word — shows he understands the weight of what's been asked.",
+      "mood": "resolute"
+    }
+  ]
+}

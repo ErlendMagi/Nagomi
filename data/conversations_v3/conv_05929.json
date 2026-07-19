@@ -1,0 +1,65 @@
+{
+  "id": "conv_05929",
+  "context": "A police officer briefs on financial-crime risks",
+  "purpose": "Teach: 出費/税関/駆けつけ/散々/利息/定時/月間/多忙",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出費",
+    "税関",
+    "駆けつけ",
+    "散々",
+    "利息",
+    "定時",
+    "月間",
+    "多忙"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の海外出費、税関連動の異常、警察で監視中です。",
+      "en": "We've flagged some irregularities in your company's overseas transactions — customs-related patterns we're currently monitoring.",
+      "style": "Measured official tone. Even pacing, no hurry. Professional distance maintained. Direct eye contact, no accusation in the voice — just fact-stating.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。先月、警察が駆けつけた事案、ありました。",
+      "en": "Yes. There was an incident last month that required a police dispatch.",
+      "style": "Careful, measured response. Slight hesitation before answering — not evasive, just choosing words precisely. Cooperative but guarded.",
+      "mood": "cautious_compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "散々な広報対応、改善できますか。",
+      "en": "The public relations response to that was rough. Can that be improved?",
+      "style": "Not unkind, but direct question. Slight lean forward. Practical tone — not interrogating, genuinely asking if they have a plan.",
+      "mood": "direct_pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "利息の流れ、月間で集計しています。",
+      "en": "We're tracking the interest transfers on a monthly basis. All consolidated.",
+      "style": "Steady, informational delivery. Professional but slightly tense — defensive without being defensive. Showing compliance, not volunteering extra.",
+      "mood": "compliant_tense"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "担当者、多忙な中、定時で済ませる体制を。",
+      "en": "Your team — I'd like to see a structure that lets them finish on time, even with this workload.",
+      "style": "Shift to something almost paternal. Slower pace. Not a demand, but a suggestion that carries weight. Closing with care.",
+      "mood": "measured_concerned"
+    }
+  ]
+}

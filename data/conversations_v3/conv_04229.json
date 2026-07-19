@@ -1,0 +1,78 @@
+{
+  "id": "conv_04229",
+  "context": "A teacher and teen student work on a school newsletter article",
+  "purpose": "Teach: ペーパー/ポリシー/フレーム/ドライバー/転載/改行/文字数/全角",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ペーパー",
+    "ポリシー",
+    "フレーム",
+    "ドライバー",
+    "転載",
+    "改行",
+    "文字数",
+    "全角"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、新聞部会の記事、ペーパー版に載せる前に一度確認させてね。",
+      "en": "Sakura, before we put the article in the paper edition of the newsletter, let me check it once.",
+      "style": "Warm, businesslike teacher voice with a gentle smile."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、先生。あの、引用した部分なんですけど、無断転載になっちゃいますか?",
+      "en": "Yes, sensei. Um, about the part I quoted — does that count as unauthorized reprinting?",
+      "style": "Anxious teen, voice rising slightly at the question."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "出典をちゃんと書けば大丈夫。学校のポリシーでは、必ず明記することになってるの。",
+      "en": "If you cite the source properly, it's fine. The school's policy requires you to note it clearly.",
+      "style": "Reassuring, slightly didactic, slow and clear pacing."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、よかった。それから、レイアウトのフレームからちょっとはみ出しちゃって…",
+      "en": "Oh, that's a relief. And, um, the text is sticking out a bit past the layout frame...",
+      "style": "Relieved exhale, then sheepish, trailing off at the end."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "見せて。あー、これは文字数オーバーね。一行を全角で四十文字までに抑えてみて。",
+      "en": "Let me see. Ah, this is over the character limit. Try keeping each line to forty full-width characters.",
+      "style": "Practical and matter-of-fact, pointing at the screen."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、改行の位置がずれてるんだ。プリンタードライバーの設定も関係ありますか?",
+      "en": "Oh, the line breaks are misaligned. Does the printer driver's settings have something to do with it too?",
+      "style": "Curious problem-solver mode, leaning toward the laptop screen."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭いね。たぶん大丈夫だけど、印刷前にプレビューで一回確認しよう。",
+      "en": "Sharp observation. It's probably fine, but let's check once in the print preview before printing.",
+      "style": "Impressed and encouraging, nodding approvingly at her."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい!直したら、また先生に見てもらいに来ますね。",
+      "en": "Okay! Once I fix it, I'll come show it to you again, sensei.",
+      "style": "Energized and motivated, voice brightening at the end."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08101",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 貰い/こんど/赤ん坊/終り/ゴメン/歌わ/ここら/行進",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "貰い",
+    "こんど",
+    "赤ん坊",
+    "終り",
+    "ゴメン",
+    "歌わ",
+    "ここら",
+    "行進"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_407 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんから貰いものをいただいたよ",
+      "en": "Sho, Grandma sent something home with you today.",
+      "style": "Warm, unhurried announcement. Soft opening. The tone of someone introducing something small and ordinary with quiet pleasure. Natural breath between clauses.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、こんど、お祖母ちゃんちに行こうね",
+      "en": "Mom, can we go visit Grandma's house next time?",
+      "style": "Bright, eager question rising at the end. Open vowels, no hesitation. The directness of a 6-year-old who has learned that asking works. Quick pace, genuine.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、隣のお家に赤ん坊が生まれたわよ",
+      "en": "Sho, a baby was born in the house next door.",
+      "style": "Gentle informational delivery, matter-of-fact underneath. Not dramatic. The tone of sharing neighborhood news the way a parent does—noticing what Sho might notice too.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、絵本の終りのページ、感動したよ",
+      "en": "Mom, the ending of that picture book really moved me.",
+      "style": "Quiet sincerity. Small pause before \"moved me\" as if locating the right words. Careful, thoughtful—he means this. Soft trailing breath at the end.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんに、ゴメンってちゃんと言ってね",
+      "en": "Sho, make sure you apologize to Dad properly, okay?",
+      "style": "Gentle but direct instruction. Not stern. Warm underneath—this matters and she knows he can do it. Slight emphasis on \"properly.\" Eye-level instruction, not lecturing from above.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お風呂でぼく、歌わせてもらっていい?",
+      "en": "Mom, is it okay if I sing in the bath?",
+      "style": "Hesitant, polite question—seeking permission before claiming the space. Small, genuine excitement underneath the politeness. Rises slightly at the end, uncertain but hopeful.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ここらへんで、お休みしようね",
+      "en": "Sho, let's take a little rest around here, all right?",
+      "style": "Gentle suggestion, not demand. Warm, slightly tired undertone—a mother noticing her son's pace. Soft close on the final phrase, inviting rather than commanding.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、運動会の行進、緊張するよ",
+      "en": "Mom, I'm nervous about marching in the sports day.",
+      "style": "Quiet admission, almost to himself—testing whether worry is allowed. Small and honest. No bravado. Slight vulnerability in the delivery, trusting her to understand.",
+      "mood": "anxious"
+    }
+  ]
+}

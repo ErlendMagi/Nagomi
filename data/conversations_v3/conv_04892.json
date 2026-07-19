@@ -1,0 +1,78 @@
+{
+  "id": "conv_04892",
+  "context": "A boss and his manager dissect a long-form magazine article",
+  "purpose": "Teach: アイデンティティ/苦悩/根源/嫌悪/落語/教団/風俗/戦車",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "アイデンティティ",
+    "苦悩",
+    "根源",
+    "嫌悪",
+    "落語",
+    "教団",
+    "風俗",
+    "戦車"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_246 workflow wgbt2o3e0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "あの長文の記事、読んだか？現代人のアイデンティティの危機について、なかなか鋭く書かれていたな。",
+      "en": "Did you read that long article? It was sharply written about the modern identity crisis.",
+      "style": "Authoritative boss opening with measured, contemplative tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、読みました。筆者は若者の苦悩の根源を、戦後の価値観の崩壊に求めていましたね。",
+      "en": "Yes, I read it. The author traced the root of young people's anguish to postwar value collapse.",
+      "style": "Professional subordinate engaging analytically with respectful agreement."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうそう。特に自己嫌悪に陥る世代の話、あれは議論に値する分析だった。端的に言うと、まあ的を射ているよ。",
+      "en": "Right, right. The part about the self-loathing generation deserved discussion. Frankly, it hit the mark.",
+      "style": "Boss expressing genuine intellectual approval with casual authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ただ、例として古典落語や江戸の風俗まで持ち出していたのは、少々強引な気もしましたが。",
+      "en": "Though dragging in classical rakugo and Edo customs as examples felt a bit forced to me.",
+      "style": "Polite pushback offering nuanced critique with deferential framing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いや、あれはむしろ巧みだろう。新興教団の章なんて、現代の心の空洞をうまく描き出していたじゃないか。",
+      "en": "No, that was rather clever. The chapter on new religious sects depicted modern spiritual emptiness well.",
+      "style": "Senior figure firmly defending the author with confident rebuttal."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。確かに後半で、防衛省の戦車博物館の描写から国家観へ繋げる流れは見事でした。",
+      "en": "I see. Indeed, the later section linking the tank museum scene to national identity was masterful.",
+      "style": "Reflective concession acknowledging the article's structural craft."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "だろう？ああいう骨太な記事こそ、低迷する出版業界に活力を与えるんだ。久々に唸らされたよ。",
+      "en": "See? Substantial pieces like that revitalize the slumping publishing industry. It impressed me deeply.",
+      "style": "Boss closing with sweeping industry commentary and personal endorsement."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同感です。来週の編集会議で、ぜひ部長から皆に紹介していただけませんか。",
+      "en": "I agree. Would you kindly introduce it to everyone at next week's editorial meeting?",
+      "style": "Manager respectfully redirecting enthusiasm into actionable workplace proposal."
+    }
+  ]
+}

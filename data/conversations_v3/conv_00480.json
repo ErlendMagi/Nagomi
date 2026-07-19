@@ -1,0 +1,77 @@
+{
+  "id": "conv_00480",
+  "context": "A quarterly community meeting. The three civic figures meet.",
+  "purpose": "three-civic-figures ongoing coordination",
+  "ambient": "community_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "見守る",
+    "高齢",
+    "協力",
+    "安心",
+    "感謝"
+  ],
+  "cast": [
+    "takeda_officer",
+    "saito_doctor",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_024)",
+    "generated_at": "2026-05-26T23:59:42.885Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "今日もお時間、ありがとうございます。",
+      "en": "Thank you so much for taking the time today.",
+      "style": "Warm, genuine opening. Voice carrying the weight of real gratitude, not perfunctory. Slight bow in the tone. Unhurried, letting each word land.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。最近、高齢の方々、お変わりなく？",
+      "en": "The same to you. How have the elderly in the area been doing lately?",
+      "style": "Professional but genuinely interested. Leans forward slightly in voice. Not checking a box — actually asking. Measured cadence with a thread of care underneath.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "皆さん、特に問題なくお過ごしです。協力のおかげ。",
+      "en": "Everyone's been managing well, thankfully. It's thanks to all your support.",
+      "style": "Steady, assured tone. Speaking as someone who's seen the results. Gratitude comes through without flourish. Voice settles on 'support' — that's the heart of it.",
+      "mood": "appreciative_relieved"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "私も、ご近所、毎日、声かけてます。",
+      "en": "I check in with the neighbors every day myself.",
+      "style": "Small note of quiet pride here — not boasting, just honestly sharing her routine. Conversational, warm. The rhythm suggests this is simply what she does.",
+      "mood": "content_purposeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "森さんのおかげで、地域、安心してます。",
+      "en": "Thanks to you, Mori-san, the whole neighborhood feels safer.",
+      "style": "Direct acknowledgment, warming as he speaks. Not lavish praise — measured and specific. Eye-contact steady. Recognition landing where it belongs.",
+      "mood": "admiring_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に。皆さんと協力できて、感謝しています。",
+      "en": "Really, I'm grateful we can work together like this.",
+      "style": "Soft close. Exhale of genuine relief and warmth. Not tired — satisfied. Voice opens slightly on 'grateful' then settles into quiet conviction.",
+      "mood": "grateful_settled"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "これからも、ご近所、皆で、見守っていきましょう。",
+      "en": "Let's keep watching over the neighborhood together, for as long as it takes.",
+      "style": "Gentle invitation, not command. Voice carries the long view — patient, committed. Opens slightly, offering shared responsibility. Warm fade at the end.",
+      "mood": "resolute_warm"
+    }
+  ]
+}

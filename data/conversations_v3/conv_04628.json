@@ -1,0 +1,78 @@
+{
+  "id": "conv_04628",
+  "context": "A boss reviews a launch plan with his manager",
+  "purpose": "Teach: ハードウェア/テクニカル/プラットフォーム/メソッド/フォロー/プレゼンテーション/アンド/同等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ハードウェア",
+    "テクニカル",
+    "プラットフォーム",
+    "メソッド",
+    "フォロー",
+    "プレゼンテーション",
+    "アンド",
+    "同等"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ローンチ計画のプレゼンテーション資料、ざっと目を通したよ。",
+      "en": "I skimmed through the launch plan presentation materials.",
+      "style": "Authoritative manager opening, calm and measured executive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。今回はハードウェアとソフトウェアを同時にリリースする方針です。",
+      "en": "Thank you. This time our policy is to release hardware and software simultaneously.",
+      "style": "Polite subordinate explaining strategy in respectful keigo register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。テクニカルな課題は本当にクリアできているのか?",
+      "en": "I see. Have you really cleared the technical challenges?",
+      "style": "Probing senior questioning with skeptical, evaluating undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、競合と同等のスペックは確保しました。配信プラットフォームとの連携も検証済みです。",
+      "en": "Yes, we secured specs equivalent to competitors. Integration with the distribution platform has also been verified.",
+      "style": "Confident reassurance from middle manager, fact-driven and crisp."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "販売メソッドはどうする?リサーチアンドマーケティング部とは話したのか。",
+      "en": "What about the sales method? Have you spoken with the Research and Marketing department?",
+      "style": "Sharp follow-up question pressing on cross-department coordination."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "先週打ち合わせを済ませて、今は彼らからのフォロー待ちになっております。",
+      "en": "We finished the meeting last week and are now awaiting their follow-up.",
+      "style": "Deferential update using humble business Japanese with progress framing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし。発売後のアフターフォロー体制も忘れずに固めてくれ。",
+      "en": "Good. Don't forget to firm up the post-release after-care support system as well.",
+      "style": "Approving directive, paternal but firm closing instruction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来週改めて完成版のプレゼンテーションをさせていただきます。",
+      "en": "Understood. I'll deliver the finalized presentation again next week.",
+      "style": "Formal commitment to follow up, closing the meeting respectfully."
+    }
+  ]
+}

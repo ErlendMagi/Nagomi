@@ -1,0 +1,72 @@
+{
+  "id": "conv_05568",
+  "context": "A uni intern interviews a manager about research operations",
+  "purpose": "Teach: 上級/入試/リサーチ/ミッション/やり取り/持参/拡充/リストラ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上級",
+    "入試",
+    "リサーチ",
+    "ミッション",
+    "やり取り",
+    "持参",
+    "拡充",
+    "リストラ"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "リサーチ部門のミッション、教えていただけますか。",
+      "en": "Could you tell me about your research department's mission?",
+      "style": "Respectful, careful formality. Genuine curiosity underneath. Slight hesitation before the question, as if checking he's asking the right person. Even pace, attentive posture.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "上級顧客層への深掘り、入試家庭への新サービス展開です。",
+      "en": "We focus on deep analysis of high-value customers and rolling out new services for families with entrance exam students.",
+      "style": "Clear and composed. Professional but not stiff. Takes a breath between the two points, marking them as distinct. Warm enough to make him feel heard, not just informed.",
+      "mood": "professional_engaged"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "やり取りの密度、上げていくんですか。",
+      "en": "So you're increasing how often you're in touch with them?",
+      "style": "Gentle probe, not aggressive. Leans forward slightly with the question. Testing the shape of the work, not challenging it. Open curiosity in the phrasing.",
+      "mood": "thoughtful_probing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。営業の持参資料も、年々拡充しています。",
+      "en": "Yes. The materials our sales team brings to those customers expand every year.",
+      "style": "Matter-of-fact, but not dismissive. States it as straightforward fact. A slight note of pride in the expansion, but kept understated. Steady rhythm.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "リストラの心配、現場では声、上がりますか。",
+      "en": "Do people in the field worry about layoffs, or does that conversation come up?",
+      "style": "Careful phrasing, testing ground. Not accusatory. Genuine concern for what staff actually think beneath the official line. Slight tension in his tone — he knows this is a harder question.",
+      "mood": "concerned_tactful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "近年は、配置転換中心で、丁寧に進めています。",
+      "en": "Not lately. We've been focused on reassignments, handled carefully and with support.",
+      "style": "Steady and reassuring without being defensive. Direct eye contact level. A slight softness in the delivery — she understands why he's asking and respects it. Measured, almost protective tone.",
+      "mood": "measured_reassuring"
+    }
+  ]
+}

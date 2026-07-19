@@ -1,0 +1,86 @@
+{
+  "id": "conv_06402",
+  "context": "Two friends chat",
+  "purpose": "Teach: 分かれる/目立ち/気がつか/ゆかり/枯れ/残ら/落とさ/贈る",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "分かれる",
+    "目立ち",
+    "気がつか",
+    "ゆかり",
+    "枯れ",
+    "残ら",
+    "落とさ",
+    "贈る"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "最近、考え方、二派に分かれるの。",
+      "en": "Lately my thoughts have been pulling in two different directions.",
+      "style": "Thoughtful, searching. Pause after the dash. Soft opening, like she's still working through it. Voice trails inward rather than outward.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。新作カフェのキャンドル、目立ちすぎず、ちょうどいい。",
+      "en": "Yeah. The new candle at the café—it's understated, just right.",
+      "style": "Warm agreement. Slight nod in the voice. Gentle, noticing tone. Settling into the conversation without rushing forward.",
+      "mood": "present"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "店員、気がつかないお客様、いらしたから、声かけた。",
+      "en": "There was a customer who didn't notice something, so I said hello.",
+      "style": "Bright and natural, like she's sharing something small that mattered. Light smile in the delivery. Straightforward, no burden in the telling.",
+      "mood": "warmth"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "故郷ゆかりの食材、メニューに加えた。",
+      "en": "I added some ingredients from my hometown to the menu.",
+      "style": "Animated but grounded. A hint of pride, gently held. Voice has energy without being loud. She's speaking about something that cost her care.",
+      "mood": "gentle_pride"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "店先の植木、枯れちゃった。",
+      "en": "The plants out front have started to wither.",
+      "style": "Quieter now. A small sadness in the observation, not dramatized. Noticing something that went unattended. Softened tempo, accepting.",
+      "mood": "tender_regret"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "昨日のケーキ、残らない人気だった。",
+      "en": "Yesterday's cake sold out completely.",
+      "style": "Brightened again. Genuine pleasure in the fact. Warm and direct. A small victory worth sharing, spoken without self-consciousness.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "お会計、レシート、落とさないでね。",
+      "en": "Make sure you don't drop the receipt, okay?",
+      "style": "Affectionate practicality. Light, almost teasing. Caring for small details. A little protective. Tempo is natural and close.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お祝いに、ハンドクリーム、贈るのも、いいかな。",
+      "en": "Would it be nice to give her hand cream as a gift for the occasion?",
+      "style": "Warm, gentle questioning. Thinking out loud with someone she trusts. Tone is both tender and intimate. Opens the door for her to think alongside.",
+      "mood": "warm_contemplative"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04651",
+  "context": "A police officer briefs a teen reporter on a public-safety case",
+  "purpose": "Teach: 社会党/歳出/不定期/追跡/延期/負傷/言動/無責任",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "社会党",
+    "歳出",
+    "不定期",
+    "追跡",
+    "延期",
+    "負傷",
+    "言動",
+    "無責任"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_234 workflow w26vym2lb)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お疲れ様です。今日は先週の追跡事件について簡単にご説明します。",
+      "en": "Thanks for coming. Today I'll briefly explain last week's pursuit case.",
+      "style": "Formal police briefing tone, calm and measured opening delivery"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします。まず、被害者の方に負傷はありましたか?",
+      "en": "Thank you. First, were there any injuries to the victims?",
+      "style": "Polite teen reporter voice, slightly nervous but professional"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "幸い軽い負傷で済みました。今は容疑者の身元を確認しているところです。",
+      "en": "Fortunately, just minor injuries. Right now we're verifying the suspect's identity.",
+      "style": "Measured factual delivery, careful and steady word choice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ネットでは、容疑者が旧社会党の関係者だという噂が広がっていますが…本当ですか?",
+      "en": "Online, rumors are spreading that the suspect was tied to the old Socialist Party — is that true?",
+      "style": "Curious teen voice, leaning forward with cautious concern"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本人はそう名乗っていますが、まだ裏が取れていません。そういう無責任な噂こそ困るんです。",
+      "en": "He's claiming that, but we haven't confirmed it. Those kinds of irresponsible rumors are exactly what cause us trouble.",
+      "style": "Firm but patient tone, slight frustration with misinformation"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。記者会見が延期されたのも、そうした言動への対応のためですか?",
+      "en": "I see. Was the press conference postponed to deal with that kind of behavior too?",
+      "style": "Thoughtful teen question, voice softening with understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうですね。当面は不定期に情報を出す形になります。歳出の関係で人手も限られているので、ご協力をお願いします。",
+      "en": "That's right. For now we'll be releasing information on an irregular basis. With budget constraints limiting our staffing, we'd appreciate your cooperation.",
+      "style": "Earnest appeal, voice firm but genuinely asking for help"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。事実だけをしっかり書きます。今日は有難うございました。",
+      "en": "Understood. I'll stick strictly to the facts. Thank you very much today.",
+      "style": "Resolute teen voice, bowing slightly with sincere gratitude"
+    }
+  ]
+}

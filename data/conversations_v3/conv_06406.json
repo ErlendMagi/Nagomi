@@ -1,0 +1,86 @@
+{
+  "id": "conv_06406",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 市議会/軽量/しくみ/持ち込み/冊子/薬剤師/値下げ/有識者",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市議会",
+    "軽量",
+    "しくみ",
+    "持ち込み",
+    "冊子",
+    "薬剤師",
+    "値下げ",
+    "有識者"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地元市議会、訪問、設定しろ。",
+      "en": "Schedule a visit to the local city council.",
+      "style": "Clipped, decisive. Minimal preamble. Low volume, efficient pace. The tone of someone accustomed to being obeyed without explanation. Direct eye contact.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新型は軽量化が進んでいます。",
+      "en": "Understood. The new model is progressing well on weight reduction.",
+      "style": "Respectful but steady. Neither rushed nor obsequious. Clear enunciation on the key terms. Slight nod of acknowledgment. The cadence of a reliable report.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界のしくみ、若手にも教えろ。",
+      "en": "Make sure the younger staff understand how the industry operates.",
+      "style": "Measured directive. Light emphasis on 「younger」— not condescension, practical delegation. Calm, expectant tone. The manner of someone setting expectations, not micromanaging.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社外への持ち込み厳禁、徹底中です。",
+      "en": "Understood. We're enforcing strict protocols on external disclosure.",
+      "style": "Composed update, no apology in the tone. Factual and controlled. Slight pause before the second clause — showing the seriousness is being taken. Steady eye contact throughout.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "紹介冊子、最新版に更新。",
+      "en": "Update the introductory materials to the latest version.",
+      "style": "Direct, final. Slight weight on the imperative. Brief, efficient phrasing. The tone assumes execution. Minimal elaboration — this is understood work.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。薬剤師との連携、進めています。",
+      "en": "Understood. We're moving forward with coordination with our pharmacy partners.",
+      "style": "Calm acknowledgment of ongoing work. Slight pride in the update — this is progress being made. Steady pace, clear articulation. The tone of someone managing their responsibilities well.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "競合の値下げ、注視しろ。",
+      "en": "Monitor the competitors' price movements closely.",
+      "style": "Sharp, focused attention in the voice. Slight lean forward in the urgency. Low, deliberate pace on the directive word. The tone of someone who wants this to matter.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。有識者会議、来月、開催します。",
+      "en": "Understood. We'll convene the expert panel next month.",
+      "style": "Final confirmation, steady closure. No trailing-off — this is resolved. Composed, capable tone. The cadence of someone wrapping up a checklist with competence.",
+      "mood": "assured"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04187",
+  "context": "A senior trains a new hire on regulatory paperwork",
+  "purpose": "Teach: 出現/就任/公社/策定/施工/従事/文部/室内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出現",
+    "就任",
+    "公社",
+    "策定",
+    "施工",
+    "従事",
+    "文部",
+    "室内"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今日から規制関連の書類業務に従事してもらいます。まずは全体の流れを説明しますね。",
+      "en": "Starting today you'll be handling regulatory paperwork. Let me walk you through the overall flow first.",
+      "style": "Calm senior tone, polite instructional register guiding a newcomer."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。書類業務は初めてなので、しっかり覚えたいです。",
+      "en": "Thank you for having me. This is my first time with paperwork like this, so I want to learn it properly.",
+      "style": "Earnest junior speech, respectful and slightly nervous tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "この案件は住宅公社が絡んでいて、施工前の届出が特に大事なんですよ。",
+      "en": "This case involves the housing public corporation, and the pre-construction filing is especially important.",
+      "style": "Explanatory office tone, mixing formal and approachable senior register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ちなみに部長が先月就任されたばかりだと伺ったんですが、方針は変わりましたか。",
+      "en": "I see. By the way, I heard the department head just took office last month — has the policy changed?",
+      "style": "Curious junior question, careful polite Japanese with rising intonation."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、提出ルールが何度も改定されていて、新しい条文が突然出現することもあるので注意してください。",
+      "en": "Yes, the submission rules keep getting revised, and new clauses sometimes appear out of nowhere, so be careful.",
+      "style": "Warning tone with experienced cadence, slightly weary senior delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "厳しいですね。社内の手続き策定は、どなたが担当されているんですか。",
+      "en": "That sounds tough. Who handles the formulation of the internal procedures?",
+      "style": "Slightly uncertain junior tone, simple question seeking clarification."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うちの法務チームですが、文部科学省の例にならうこともあります。確認は基本的に室内で行います。",
+      "en": "Our legal team, though we sometimes follow the Ministry of Education's example. Verification is basically done in the office.",
+      "style": "Informative senior tone, mentor explaining workflow with measured cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場には行かないんですね。ずっと机に向かう感じですか。",
+      "en": "So we don't go to the site? It's mostly desk work then?",
+      "style": "Mild curiosity, junior seeking a fuller picture of the role."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "月に一度は現場へ行きますよ。今度同行してもらいますね。",
+      "en": "We visit the site once a month. I'll have you come along next time.",
+      "style": "Reassuring senior closure, friendly mentoring tone wrapping the briefing."
+    }
+  ]
+}

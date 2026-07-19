@@ -1,0 +1,62 @@
+{
+  "id": "conv_00989",
+  "context": "Kenji and Ren ride the train to work and chat.",
+  "purpose": "senior-junior commute chat",
+  "ambient": "train_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "電車",
+    "一緒",
+    "仕事",
+    "頑張る",
+    "朝"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "レン君、電車、混んでる、今朝。",
+      "en": "Ren-kun, the train was packed this morning.",
+      "style": "Warm, gentle opening. Casual observation delivered with easy affection. Soft tone, unhurried. The comfort of sharing a small complaint with someone you're glad to see.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、皆、出勤時間、ですね。",
+      "en": "Yeah — everyone commutes at the same time, don't they.",
+      "style": "Quiet agreement. Respectful but natural, not formal. A small nod in the voice. Acknowledging the shared reality without making a big thing of it.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、行ける、嬉しい。",
+      "en": "But I'm glad we're doing this together.",
+      "style": "Tender sincerity. Slight pause before the line — letting it land. Warm but understated. The kind of thing he means more than he usually says.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "仕事、頑張りましょう。",
+      "en": "Let's both do our best at work today.",
+      "style": "Bright but genuine, not forced. Respectful in tone but steady. A small lift at the end — encouragement without needing to be loud about it.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今日、忙しい、一日になりそう。",
+      "en": "Today's going to be a busy one, I think.",
+      "style": "Thoughtful, almost to himself. Looking ahead without dread. Calm acceptance of what's coming. Warm closing — including Ren in the reality of the day.",
+      "mood": "realistic"
+    }
+  ]
+}

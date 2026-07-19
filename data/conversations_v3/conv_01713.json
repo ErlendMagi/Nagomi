@@ -1,0 +1,61 @@
+{
+  "id": "conv_01713",
+  "context": "Daichi and Mei arrive at a small inn; check in tired and happy.",
+  "purpose": "Couple arriving at travel destination together.",
+  "ambient": "inn_lobby_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "チェックイン",
+    "部屋",
+    "荷物",
+    "休む"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_086)",
+    "generated_at": "2026-05-27T07:25:45.824Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "やっと到着、嬉しい。",
+      "en": "Finally here. I'm so glad.",
+      "style": "Soft opening on relief. Warm, contented exhale. Pace slows into the second thought. The happiness of arrival settling into her shoulders.",
+      "mood": "relieved_content"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "チェックイン、すぐ済むで。",
+      "en": "Check-in won't take long, don't worry.",
+      "style": "Kansai warmth, reassuring and practical. Slight lift on the offer — he's already thinking ahead for her. Gentle, capable tone.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "荷物、重かった。",
+      "en": "The bags were really heavy.",
+      "style": "Quiet admission, no complaint — just honesty. Soft and tired underneath. A small vulnerability, offered without asking for help.",
+      "mood": "weary"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "部屋、ええとこやで。",
+      "en": "This room's a really nice spot.",
+      "style": "Kansai dialect warmth. Reassuring and present. The tone of someone showing her something he's proud of. Steady, genuine.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、ゆっくり休もう。",
+      "en": "Yeah, let's take it slow and rest.",
+      "style": "Tender agreement. Soft, deeply relieved exhale. The settling-in of safety. Pace slows toward the end — permission to finally be still.",
+      "mood": "tender_restful"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_00835",
+  "context": "Kenji gives Ren an afternoon mentor session.",
+  "purpose": "senior-junior mentor exchange",
+  "ambient": "office_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "午後",
+    "指導",
+    "一緒",
+    "頑張る",
+    "基本"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_042)",
+    "generated_at": "2026-05-27T02:11:35.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "レン君、午後、時間、ある？",
+      "en": "Ren — do you have time this afternoon?",
+      "style": "Warm, unhurried opening. Genuinely curious, not demanding. Slight upward lift on the question, inviting rather than pressuring. Easy composure threaded throughout.",
+      "mood": "friendly_inviting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、何でも、伺います。",
+      "en": "Yes, of course. What do you need?",
+      "style": "Attentive and earnest. Quick, ready response without hesitation. Slight deference in the tone — showing respect naturally, not performed. Open and receptive.",
+      "mood": "receptive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基本の流れ、確認しよう。",
+      "en": "Let's go through the basics together.",
+      "style": "Steady, practical tone. Light on the word 'basics' — establishing ground. Inviting collaboration, not lecturing. The warmth of someone who enjoys teaching what they know.",
+      "mood": "patient_teaching"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、メモ、取ります。",
+      "en": "Yes, I'll take notes.",
+      "style": "Quiet commitment. Small but genuine — not overdoing the eagerness. Practical and focused. Shows he's settling in to listen well.",
+      "mood": "focused_ready"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "質問、遠慮なく、どうぞ。",
+      "en": "Feel free to ask anything.",
+      "style": "Gentle permission. Softens the word 'free' slightly — genuine reassurance that questions are welcome. Not rushing. Low-key kindness woven in.",
+      "mood": "encouraging_open"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。指導、感謝。",
+      "en": "Thank you. I really appreciate you taking the time.",
+      "style": "Sincere gratitude without overstatement. Quiet, genuine tone. The appreciation lands — not effusive, but deeply meant. Respectful but not stiff.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、頑張ろう。",
+      "en": "Let's do this together.",
+      "style": "Warm closing. Slight soften on 'together' — reaffirming partnership, not hierarchy. Gentle, genuine encouragement. The implicit promise of presence and support.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

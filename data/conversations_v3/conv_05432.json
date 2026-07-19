@@ -1,0 +1,72 @@
+{
+  "id": "conv_05432",
+  "context": "A boss and his manager discuss a policy column",
+  "purpose": "Teach: 引き起こし/妨げ/党首/幕府/中傷/ワクチン/肺/上空",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き起こし",
+    "妨げ",
+    "党首",
+    "幕府",
+    "中傷",
+    "ワクチン",
+    "肺",
+    "上空"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、ワクチン誤情報が肺の検診を妨げた話だな。",
+      "en": "This article—it's about vaccine misinformation blocking lung cancer screenings.",
+      "style": "Measured opening, slightly angled inward as if reading. Pause at the dash. Steady throughline, no rush. The tone of someone thinking aloud while formulating the problem.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。党首発言が現場の混乱を引き起こしました。",
+      "en": "Yes. A statement from the party leadership created confusion out in the field.",
+      "style": "Respectful but direct. Clipped efficiency—no decoration. Speaks as someone reporting facts upward. Professional distance maintained but shoulders slightly forward.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "昔の幕府期に似てるな、と書き手は言ってる。",
+      "en": "The writer makes a parallel to the shogunate period—how information was controlled back then.",
+      "style": "Contemplative, slightly slower. Leans back slightly. The thoughtfulness of drawing a historical line. Faint emphasis on 'parallel' — this isn't casual, it's deliberate comparison.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "中傷の連鎖、上空から構造把握する必要があります。",
+      "en": "We need to step back and map the structure of how these rumors spread—the chain reaction.",
+      "style": "Quieter, more intent. Leaning in slightly. Searching for the right frame. 'Bird's-eye' precision but with urgency underneath. The voice of someone who sees the problem clearly and wants the boss to see it too.",
+      "mood": "concerned_clear"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来月の経営会議で議題に。",
+      "en": "We'll bring it to next month's management meeting.",
+      "style": "Decisive, no softening. Direct gaze. Settled tempo. The syntax of resolution—something is decided and will move forward. No extra breath.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Brief, clean acknowledgment. No flourish. The voice of someone filing the decision and moving to the next task. Quiet respect, zero hesitation.",
+      "mood": "professional"
+    }
+  ]
+}

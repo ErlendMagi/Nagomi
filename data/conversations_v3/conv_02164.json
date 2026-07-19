@@ -1,0 +1,79 @@
+{
+  "id": "conv_02164",
+  "context": "Sho-young finds a strange smell at home; Mei investigates.",
+  "purpose": "Mother and child solving small domestic mystery.",
+  "ambient": "kitchen_morning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "匂い",
+    "原因",
+    "回し",
+    "分かれ",
+    "気付い",
+    "部屋",
+    "回し",
+    "濃い"
+  ],
+  "cast": [
+    "sho_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、変な匂い、する!",
+      "en": "Mom, there's a weird smell!",
+      "style": "Curious, tentative — the observant child's careful announcement. Soft voice, seeking confirmation. No alarm, just noticing something and wanting to flag it.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えっ、どこから、気付いたの?",
+      "en": "What? From where did you notice that?",
+      "style": "Immediate gentle concern. Quick intake of breath. Leans in toward the child. Already scanning mentally — engaged but not panicked.",
+      "mood": "attentive_concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "台所、回しても、濃い匂い!",
+      "en": "It's coming from the kitchen — even when you move around, it's really strong!",
+      "style": "Growing certainty in the voice. Each phrase a small discovery. Not complaining, reporting with the precision of a child who notices things adults miss.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "冷蔵庫の中、分かれて、見てみよう。",
+      "en": "Let's check inside the fridge together, okay?",
+      "style": "Steady, reassuring tone. Calm problem-solving energy. Takes the child's concern seriously without making it bigger than it is. Practical and warm.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "原因、見つけたかも!",
+      "en": "I think I found it!",
+      "style": "Bright, proud discovery. The small triumph of being right. Voice lights up — this is the moment of proof. Quick, sharp attack on the opening.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "気付いてくれて、ありがとう。",
+      "en": "Thank you for noticing that.",
+      "style": "Tender, genuine gratitude. Speaks directly to the child. Slow, deliberate — making sure he feels seen for having done something right, something helpful.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "いつでも、お母さん、頼ってね!",
+      "en": "You can always count on me, Mom.",
+      "style": "Soft determination. The child's quiet promise to his mother. Steady voice, small but serious. A glimpse of who he's becoming.",
+      "mood": "proud_devoted"
+    }
+  ]
+}

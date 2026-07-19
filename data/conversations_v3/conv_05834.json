@@ -1,0 +1,65 @@
+{
+  "id": "conv_05834",
+  "context": "A boss reviews a security breach",
+  "purpose": "Teach: 河野/反戦/飲酒/尋問/ハッカー/出世/失点/致命",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "河野",
+    "反戦",
+    "飲酒",
+    "尋問",
+    "ハッカー",
+    "出世",
+    "失点",
+    "致命"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ハッカー被害、河野顧問にも相談済みか。",
+      "en": "Has Advisor Kono been brought in on the hacker breach?",
+      "style": "Direct, measured concern. Clipped phrasing — no wasted syllables. Slight upward inflection at the end, seeking confirmation. Steady eye contact, spine straight. The question of someone used to getting answers.",
+      "mood": "focused_concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内では、飲酒を伴う接待の機会、自粛しています。",
+      "en": "Yes. We've suspended all entertainment with drinking involved, internally.",
+      "style": "Steady report delivered with quiet competence. Each phrase set down like a fact. No defensiveness, just the work being done. Slight pause before the second clause, as if mentally checking the list.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警察の尋問対応、法務と連携しろ。",
+      "en": "Coordinate with legal on how we handle police questioning.",
+      "style": "Sharp, clean instruction. No rising at the end — statement, not request. Light tap of authority on the opening word. Fast-paced, leaving no room for negotiation. The voice of someone who expects things to move.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "反戦広告で偽装したフィッシング、出世コースの社員にも届きました。",
+      "en": "The phishing — disguised as anti-war ads — even reached our fast-track people.",
+      "style": "Calm factual delivery, but with a thread of real concern underneath. Slight emphasis on 'even,' which lands as acknowledgment of seriousness. Measured pace. No dramatic pausing — just the facts, clearly.",
+      "mood": "alert_troubled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "致命的な失点にならぬよう、急ぐ。",
+      "en": "Move fast. We can't let this become a critical failure.",
+      "style": "Quiet urgency, not panic. Two short sentences, both decisive. Weight on 'fast' and 'can't.' Slight lean forward in the delivery. The closing statement of someone who has thought through the stakes.",
+      "mood": "resolute"
+    }
+  ]
+}

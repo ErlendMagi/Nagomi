@@ -1,0 +1,61 @@
+{
+  "id": "conv_01717",
+  "context": "Ren takes Sakura on her first plane trip; she's nervous.",
+  "purpose": "Young friend helping older friend through travel anxiety.",
+  "ambient": "airport_terminal_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "飛行機",
+    "怖い",
+    "初めて",
+    "空"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_086)",
+    "generated_at": "2026-05-27T07:25:45.824Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "飛行機、初めてで怖い。",
+      "en": "I've never been on a plane before. I'm scared.",
+      "style": "Hesitant opening, almost confessional. Soft voice, testing whether it's safe to admit the fear. Quick glance up at Ren. Slight catch on 'scared,' then a small exhale.",
+      "mood": "nervous_vulnerable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大丈夫、僕も最初そうでした。",
+      "en": "It's okay. I was too, the first time.",
+      "style": "Gentle, steady reassurance. No rush in the pacing. A small, genuine smile in the voice. Leaning slightly closer. The tone of someone who remembers what that fear felt like.",
+      "mood": "warm_steady"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "揺れたら、どうしよう。",
+      "en": "But what if it gets turbulent?",
+      "style": "Worry creeping back in. Voice lifts slightly with the question. Nervous energy in the phrasing. Hands probably fidgeting. Still looking to him for the answer.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "深呼吸、ゆっくりと。",
+      "en": "Just take a deep breath. Nice and slow.",
+      "style": "Ren's own breathing becomes deliberate, inviting her to match it. Calm and unhurried. A quiet instruction that sounds more like an invitation. Voice drops slightly, intimate without being close.",
+      "mood": "grounded_patient"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、空、楽しもう。",
+      "en": "Yeah. Let's enjoy the sky instead.",
+      "style": "Shift in Sakura's energy—still nervous, but resolve is settling in. Voice brightens slightly. A small smile breaking through. She's choosing courage, not suppressing fear. Lighter, forward-looking tone.",
+      "mood": "hopeful_resolved"
+    }
+  ]
+}

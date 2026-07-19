@@ -1,0 +1,84 @@
+{
+  "id": "conv_04310",
+  "context": "A boss and his deputy review a new office location plan",
+  "purpose": "Teach: 寮/都内/丁目/独身/パーク/接近/銀座/県内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "寮",
+    "都内",
+    "丁目",
+    "独身",
+    "パーク",
+    "接近",
+    "銀座",
+    "県内"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新しいオフィスの候補地だが、銀座と都内の他の地域、どちらを推している？",
+      "en": "About the new office candidate sites, are you recommending Ginza or another area in Tokyo?",
+      "style": "Calm authoritative tone with measured deliberate pacing throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、銀座六丁目の物件が最有力です。駅からの接近性も非常に良好でして。",
+      "en": "Yes, the property in Ginza 6-chome is the top candidate. Access from the station is also very good.",
+      "style": "Polite formal business register with respectful careful enunciation"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。社員寮の件はどうなっている？独身寮も近くに確保できそうか？",
+      "en": "I see. What about the company dormitory? Can we also secure a singles dorm nearby?",
+      "style": "Inquisitive businesslike tone with slight concern in voice"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "県内の郊外に独身寮の候補がございますが、都内の方が通勤には便利かと存じます。",
+      "en": "There's a singles dorm candidate in the suburbs within the prefecture, but Tokyo would be more convenient for commuting.",
+      "style": "Deferential business Japanese with thoughtful balanced delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "近くにパークがあると聞いたが、社員の福利厚生としては悪くないな。",
+      "en": "I heard there's a park nearby — that's not bad as an employee benefit.",
+      "style": "Approving tone with slight warmth and considered nodding cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、徒歩五分ほどでパーク内に入れますので、昼休みの散策にも最適です。",
+      "en": "Yes, you can enter the park within a five-minute walk, so it's ideal for lunch strolls too.",
+      "style": "Helpful informative delivery with mild enthusiasm and clear articulation"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予算面はどうだ？銀座は当然高いだろうが、長期的に見て妥当か？",
+      "en": "How about the budget side? Ginza is obviously expensive, but is it reasonable long-term?",
+      "style": "Probing strategic tone with focused executive level scrutiny"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "賃料は高めですが、取引先との接近を考えれば投資価値は十分にあると判断しております。",
+      "en": "The rent is on the high side, but considering proximity to clients, I believe the investment is well worth it.",
+      "style": "Confident analytical tone with measured persuasive professional cadence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。来週の役員会議で正式に提案しよう。資料の準備を頼む。",
+      "en": "Understood. Let's propose it formally at next week's board meeting. Please prepare the materials.",
+      "style": "Decisive concluding tone with firm trusting delegation in voice"
+    }
+  ]
+}

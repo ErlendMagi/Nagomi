@@ -1,0 +1,90 @@
+{
+  "id": "conv_04808",
+  "context": "A uni intern interviews a manager about logistics processes",
+  "purpose": "Teach: 利子/就労/運輸/納め/間隔/有益/問合せ/外観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "利子",
+    "就労",
+    "運輸",
+    "納め",
+    "間隔",
+    "有益",
+    "問合せ",
+    "外観"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_242 workflow wj0528681)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただき、ありがとうございます。御社の運輸業務について、いくつかお伺いしてもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask a few questions about your transportation operations?",
+      "style": "Polite, formal interview opener with humble student tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。学生さんの研究に少しでも有益な話ができればうれしいですよ。",
+      "en": "Of course. I'd be glad if I can share something useful for your research.",
+      "style": "Warm, welcoming office worker, encouraging and friendly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "まず、配送の間隔はどのように決めていらっしゃるんですか。",
+      "en": "First, how do you decide the intervals between deliveries?",
+      "style": "Curious, businesslike question with measured politeness."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "需要に応じて柔軟に変えています。繁忙期は短く、閑散期は長めにとる感じですね。",
+      "en": "We adjust flexibly based on demand—shorter during busy seasons, longer during quiet ones.",
+      "style": "Clear, professional explanation in calm office register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。倉庫の外観を拝見しましたが、かなり大きな施設ですね。働いていらっしゃる方は何人ほどですか。",
+      "en": "I see. I saw the warehouse exterior—it's quite a large facility. How many people work there?",
+      "style": "Observational follow-up showing the intern took notes politely."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "現在は約二百名です。就労形態はさまざまで、正社員のほかにパートやアルバイトの方もいらっしゃいますよ。",
+      "en": "Currently about two hundred. Employment types vary—we have full-timers as well as part-time and casual staff.",
+      "style": "Natural HR-focused answer staying on the staffing topic."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。差し支えなければ、設備投資の資金繰りについても少しお伺いしたいのですが。",
+      "en": "That's helpful. If you don't mind, I'd also like to ask a bit about how you finance facility investments.",
+      "style": "Polite topic-shift request, careful student register with hedging."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、大型の倉庫は銀行借入で建てましたので、毎月利子をきちんと納めながら少しずつ返済しています。",
+      "en": "Sure—we built the large warehouse with a bank loan, so we steadily repay it while paying the interest each month.",
+      "style": "Candid finance explanation, naturally tying interest payments to the loan."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。もし追加で質問が出てきた場合、お問合せはメールでよろしいでしょうか。",
+      "en": "Thank you. If additional questions come up, would email be the right way to reach out?",
+      "style": "Polite closing inquiry, professional follow-up protocol."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、いつでもどうぞ。今日のインタビュー、頑張ってくださいね。",
+      "en": "Yes, anytime please. Good luck with the rest of your interview today.",
+      "style": "Friendly, supportive sign-off from the manager."
+    }
+  ]
+}

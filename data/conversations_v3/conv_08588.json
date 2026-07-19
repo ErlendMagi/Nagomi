@@ -1,0 +1,86 @@
+{
+  "id": "conv_08588",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 月収/出来高/同上/組合せ/既定/特約/あっせん/引き渡し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月収",
+    "出来高",
+    "同上",
+    "組合せ",
+    "既定",
+    "特約",
+    "あっせん",
+    "引き渡し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究員の月収相場を確認しろ",
+      "en": "Ren, check the standard monthly salary range for researchers.",
+      "style": "Crisp, direct task assignment. Measured tempo. Boss-to-junior authority without coldness. Brief pause after the name to ensure attention. Clear-eyed expectation that this will be done.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文出来高に応じた賞与制度を学習しました",
+      "en": "Yes. I've reviewed the bonus structure tied to paper publications.",
+      "style": "Respectful but not obsequious. Careful enunciation on key terms. Slight formal stiffness — showing he's understood the gravity. Brief, efficient. The tone of someone eager to prove he's listening.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文の参考文献に同上を多用するな",
+      "en": "Ren, don't overuse 'ditto' citations in your paper references.",
+      "style": "Calm correction, not scolding. Measured pace. The kind of feedback that expects understanding, not defense. Weight on the word 'overuse' — gentle but firm.",
+      "mood": "corrective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験条件の組合せ表を準備しました",
+      "en": "Yes. I've prepared a combination matrix for the experimental conditions.",
+      "style": "Quiet acknowledgment. Slightly faster than before — showing he's absorbing the feedback. Precise and formal. The voice of someone taking notes mentally.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、既定の実験手順を守れ",
+      "en": "Ren, follow the established experimental protocol exactly.",
+      "style": "Firmer than before. Not angry, but the pressure underneath is clear. Direct eye contact in the voice. Each word deliberate. This is non-negotiable.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会との特約契約を確認しました",
+      "en": "Yes. I've confirmed the special contract terms with the conference.",
+      "style": "More alert now. Registers the shift in tone. Proper, controlled. Shorter, tighter delivery. Showing he understood the seriousness of the last instruction.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、留学先のあっせんを大学に依頼しろ",
+      "en": "Ren, have the university arrange your study abroad placement.",
+      "style": "Back to assignment mode. Slightly softer than the protocol correction — this is forward-looking, not corrective. Still direct. Tempo steady. A senior's confidence in the junior's trajectory.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。試料の引き渡し手続を覚えます",
+      "en": "Yes. I'll learn the sample handover procedures.",
+      "style": "Closing note of resolve. Slightly quieter than the middle lines. Careful enunciation on 'handover procedures.' The slight trailing-off suggests he's mentally checking off the list. Professional, resolved.",
+      "mood": "resolved"
+    }
+  ]
+}

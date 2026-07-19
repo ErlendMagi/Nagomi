@@ -1,0 +1,75 @@
+{
+  "id": "conv_01695",
+  "context": "Yumiko helps Sakura sort through old wedding photos for a piece.",
+  "purpose": "Elder helping author research while sharing personal memory.",
+  "ambient": "living_room_albums",
+  "sound_effects": [],
+  "target_vocab": [
+    "写真",
+    "結婚式",
+    "昔",
+    "懐かしい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_085)",
+    "generated_at": "2026-05-27T07:18:47.434Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "昔の結婚式写真、見せてください。",
+      "en": "Could you show me the old wedding photos?",
+      "style": "Genuine curiosity, respectful lean forward. Warm but not presumptuous. Soft opening on the request, like she's truly asking permission.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "これ、私の結婚式よ。",
+      "en": "This is my wedding.",
+      "style": "Gentle pride in the memory. Warm nostalgic tone. Pause after the dash — letting the moment settle before showing the photo. Voice slightly softer.",
+      "mood": "fond"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "まあ、若くて綺麗!",
+      "en": "Wow — you were so young and beautiful!",
+      "style": "Genuine delight, no flattery. Bright but controlled — respect for the moment keeps the excitement in check. Warmth without gushing.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、四十年前ね。",
+      "en": "Ha — forty years ago now.",
+      "style": "Soft, self-aware laugh. Wry affection in the voice. Not sad, but aware of time passed. Voice carries the weight of years without heaviness.",
+      "mood": "nostalgic_amused"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "伝統的な式ね。",
+      "en": "It was a traditional ceremony, wasn't it?",
+      "style": "Thoughtful observation. Interested, not interrogating. Slight upswing of recognition, like she's seeing the care in the details. Steady, warm pace.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、家族みんなで祝った。",
+      "en": "Yes — we celebrated with the whole family.",
+      "style": "Soft voice, genuinely happy memory. Slight wistfulness underneath — family gathered, that feeling. Warm and present, but touching something tender.",
+      "mood": "warm_wistful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "懐かしいでしょうね。",
+      "en": "That must mean so much to you.",
+      "style": "Quiet understanding. Not asking, gently affirming. Lets the other person have their feeling without commenting on it. Voice trails with gentleness.",
+      "mood": "tender_understanding"
+    }
+  ]
+}

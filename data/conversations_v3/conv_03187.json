@@ -1,0 +1,82 @@
+{
+  "id": "conv_03187",
+  "context": "Two staff members handle a backlog of applications",
+  "purpose": "Coordinate office work; teach 番号/ご覧/審査/承知/事項/お答え",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "番号",
+    "ご覧",
+    "審査",
+    "承知",
+    "事項",
+    "お答え"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この申請、番号の控えはどこにありますか？",
+      "en": "Where is the copy of this application’s number?",
+      "style": "busy staffer searching for the record"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "番号は台帳をご覧ください。",
+      "en": "For the number, please check the ledger.",
+      "style": "senior officer pointing to the register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "審査待ちの件、承知しました。",
+      "en": "The pending-screening case, understood.",
+      "style": "efficient assistant confirming her task, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "確認事項を読み上げます。",
+      "en": "I will read out the items to check.",
+      "style": "methodical officer running through the list"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事項ごとにチェックしますね。",
+      "en": "I will check them item by item.",
+      "style": "diligent staffer organizing the review, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "市民の方にきちんとお答えできるように。",
+      "en": "So we can answer citizens properly.",
+      "style": "principled officer stressing service quality, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、丁寧にお答えします。",
+      "en": "Yes, I will answer politely.",
+      "style": "committed assistant promising care, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご覧の通り、今日は件数が多い。承知の上で頼むよ。",
+      "en": "As you can see, there are many cases today. I am counting on you.",
+      "style": "tired but trusting officer rallying his colleague"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "crisp dependable acknowledgment from the staffer"
+    }
+  ]
+}

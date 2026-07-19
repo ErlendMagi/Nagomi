@@ -1,0 +1,65 @@
+{
+  "id": "conv_05932",
+  "context": "A teacher and student discuss a political-history paper",
+  "purpose": "Teach: 陣営/隠蔽/介助/接点/取り扱う/内臓/賛否/取り締まり",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "陣営",
+    "隠蔽",
+    "介助",
+    "接点",
+    "取り扱う",
+    "内臓",
+    "賛否",
+    "取り締まり"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "論文、戦時期の二陣営の対比、緻密ですね。",
+      "en": "Your paper is quite intricate — the way you've contrasted the two wartime factions.",
+      "style": "Genuine warmth in the opening. Measured pace. Lands on 「緻密」 with quiet approval. Leans slightly forward, eyes engaged but not intrusive.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。情報隠蔽の手口、史料に基づき扱いました。",
+      "en": "Yes. I grounded the information-suppression methods in primary sources throughout.",
+      "style": "Lean into the earnestness without overplaying it. Steady eye contact. Slight breathiness on 「基づき」 — he's relieved she's following. Composed but present.",
+      "mood": "focused_earnest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "戦傷者の介助制度、それを取り扱う組織と当時の社会との接点もありますね。",
+      "en": "And you've also mapped the intersection between those wound-care systems, the organizations that ran them, and the broader society of the period.",
+      "style": "Thoughtful lift at the start. This isn't a yes-or-no — she's seeing the architecture of his argument. Warm precision. Slower pace. Inviting him to know she's tracking him.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時、解剖学的に内臓障害を扱う研究、限定的でした。",
+      "en": "The anatomical research into organ damage back then was quite limited — that's what made it so difficult to work with.",
+      "style": "Careful pause before he speaks. Quieter, more introspective than before. He's moved into deeper water. Slight hesitation, like he's testing whether this next thought holds.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "政治家の賛否、戦後の取り締まりにも影響しました。",
+      "en": "Politicians were split on it, and that division ended up shaping the crackdowns once the war was over.",
+      "style": "Pulling back slightly to the larger frame. Reflective, not didactic. Soft landing on the final thought — she's drawing a line, not making a pronouncement. Warm closure.",
+      "mood": "reflective"
+    }
+  ]
+}

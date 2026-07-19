@@ -1,0 +1,79 @@
+{
+  "id": "conv_02197",
+  "context": "Mei picks Sho-young up from school; everyday warm exchange.",
+  "purpose": "Mother greeting child after school.",
+  "ambient": "school_gate_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "担任",
+    "たまっ",
+    "将棋",
+    "たいした",
+    "済ん",
+    "添え",
+    "受け取り",
+    "ミルク"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_110)",
+    "generated_at": "2026-05-27T17:15:10.052Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔、担任の先生、何って?",
+      "en": "Sho, what did your homeroom teacher say?",
+      "style": "Warm, attentive opening. Sits down at his level. Soft enquiry—genuinely curious about his day, not checking a box. Patient pause for his answer.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "宿題、たまっとるって!",
+      "en": "My homework's piling up!",
+      "style": "Small, slightly worried confession. Looks down briefly. Not seeking rescue, just admitting something that's been on his mind. Honest and a little embarrassed.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "まあ、たいした事じゃない、済んだら、見ようね。",
+      "en": "Well, that's not the end of the world. Once you finish, we'll look at it together.",
+      "style": "Reassuring without minimizing. Light, practical tone. Sits closer. The unrushed certainty of someone who believes he can do it.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "将棋、上手くなりたい!",
+      "en": "I want to get better at shogi!",
+      "style": "Sudden brightening. Real enthusiasm breaks through the worry. Small voice but confident. Something he's been thinking about, finally saying it out loud.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "添えるノート、買ってあげる?",
+      "en": "Should I buy you a shogi notebook to practice in?",
+      "style": "Genuine offer, not a distraction. Warm recognition that this matters to him. Leaning in slightly, already thinking about solutions.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ミルクも、欲しい!",
+      "en": "And milk too!",
+      "style": "Child-bright return to the present moment. Small grin. He's remembered something he actually wants, relief mixing with simple appetite.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "受け取り、すぐ、するね。",
+      "en": "I'll make sure we pick those up soon.",
+      "style": "Tender commitment. Quiet certainty that she will follow through. Speaks it like a small promise kept between them. Slight warmth at the edges.",
+      "mood": "tender_content"
+    }
+  ]
+}

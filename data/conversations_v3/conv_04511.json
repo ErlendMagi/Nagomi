@@ -1,0 +1,90 @@
+{
+  "id": "conv_04511",
+  "context": "A uni student interviews a senior software engineer",
+  "purpose": "Teach: リフォーム/アップデート/グーグル/ウィンドウ/ビット/スタンダード/フォト/識別",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リフォーム",
+    "アップデート",
+    "グーグル",
+    "ウィンドウ",
+    "ビット",
+    "スタンダード",
+    "フォト",
+    "識別"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間ありがとうございます。まず、エンジニアとして一番大切にしていることは何ですか？",
+      "en": "Thank you for your time today. First, what do you value most as an engineer?",
+      "style": "Polite, slightly nervous opening question from young interviewer"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね、コードのアップデートを怠らないことかな。古いシステムでも、定期的に手を入れないと、家のリフォームと同じで傷んでいくんですよ。",
+      "en": "Well, never neglecting code updates, I'd say. Even old systems decay without maintenance, just like a house needing renovation.",
+      "style": "Thoughtful, measured veteran engineer sharing seasoned wisdom"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。普段はどんなツールを使っていらっしゃるんですか？やはりグーグルの検索も活用されますか？",
+      "en": "I see. What tools do you usually use? Do you also make use of Google search?",
+      "style": "Curious follow-up, eager note-taking student tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんグーグルは毎日使いますよ。エディタのウィンドウを並べて、ドキュメントを見ながらコードを書くのが基本ですね。",
+      "en": "Of course I use Google every day. I line up editor windows side by side and write code while reading documentation — that's the basics.",
+      "style": "Casual, listing daily workflow naturally with concrete habits"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今はどんな分野のお仕事をされているんですか？画像のフォト処理とかも関係あるんでしょうか？",
+      "en": "What field are you working in now? Does it involve things like photo image processing?",
+      "style": "Genuine curiosity, narrowing down the topic with care"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、最近は顔の識別をするシステムを担当していて、ピクセル単位のビット処理まで見ることもあります。地味ですが面白い仕事ですよ。",
+      "en": "Yes, lately I'm in charge of a face recognition system, and sometimes I look down to pixel-level bit processing. It's plain work, but interesting.",
+      "style": "Modest, technical explanation with concrete example domain"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごいですね。やはりゼロから全部書かれるんですか？",
+      "en": "That's amazing. Do you really write everything from scratch?",
+      "style": "Impressed, asking a natural clarifying question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、今は業界スタンダードのフレームワークがあるので、ゼロから書くことは減りました。でも仕組みは理解しておくべきです。",
+      "en": "No, with industry-standard frameworks available now, writing from scratch has decreased. But you should still understand the mechanics.",
+      "style": "Balanced advice, mentor-like, slightly slower delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。最後に、これから業界に入る学生にメッセージをお願いできますか？",
+      "en": "That's very educational. Lastly, could you give a message to students entering the industry?",
+      "style": "Respectful closing question, wrapping up interview politely"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "焦らず、基礎を大事にしてください。技術は変わっても、考え方は一生使えますから。頑張ってくださいね。",
+      "en": "Don't rush, and value the fundamentals. Tech changes, but mindset lasts a lifetime. Good luck with your studies.",
+      "style": "Warm, encouraging closing words from senior to junior"
+    }
+  ]
+}

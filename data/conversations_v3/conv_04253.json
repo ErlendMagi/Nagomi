@@ -1,0 +1,84 @@
+{
+  "id": "conv_04253",
+  "context": "A police officer briefs a teen reporter on a high-profile case",
+  "purpose": "Teach: 参議院/法令/地裁/担保/信託/国鉄/防衛庁/外資",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参議院",
+    "法令",
+    "地裁",
+    "担保",
+    "信託",
+    "国鉄",
+    "防衛庁",
+    "外資"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は職場体験だな。新聞部の生徒に、過去の有名な事件をいくつか紹介しよう。",
+      "en": "So today's your work experience visit. Let me introduce you, a newspaper club student, to a few famous past cases.",
+      "style": "Gruff but kind veteran officer welcoming a student on a school visit."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします！授業で参議院の仕組みを習ったばかりで、政治の事件にも興味があります。",
+      "en": "Thank you very much! We just learned about the House of Councillors in class, so I'm interested in political cases too.",
+      "style": "Polite teen reporter bowing, a little nervous but eager to learn."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なら、昔の汚職事件の話が分かりやすい。関連する法令を覚えるところから始めようか。",
+      "en": "Then old corruption cases are easy to understand. Shall we start by learning the relevant laws?",
+      "style": "Patient teacher-like tone, slowing down for a younger listener."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい！担保とか信託銀行って言葉、ニュースで見たんですけど、難しくてよく分からなくて…。",
+      "en": "Yes please! I've seen words like collateral and trust bank on the news, but they're hard and I don't really get them.",
+      "style": "Honest admission, scratching her head, age-appropriate confusion."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "簡単に言えば、土地を担保にお金を借りて、そのお金が信託の仕組みで動くんだ。",
+      "en": "Simply put, you borrow money using land as collateral, and that money moves through a trust arrangement.",
+      "style": "Using his hands to draw shapes in the air, explaining plainly."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。旧国鉄の土地が問題になった事件も、それと関係があるんですか？",
+      "en": "I see. Was the case where former JNR land became a problem related to that too?",
+      "style": "Connecting the dots, looking up from her notebook hopefully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よく知ってるな。あの頃は防衛庁の時代で、外資系企業との取引も社会問題になった。",
+      "en": "You know your stuff. Back then it was still called the Defense Agency, and deals with foreign-capital firms became a social issue too.",
+      "style": "Mildly impressed, nodding, treating it as history not active case."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "とても勉強になりました。記事にする前に、もう一度内容を確認させていただいてもいいですか？",
+      "en": "I learned so much. Before I write the article, could I please check the contents with you one more time?",
+      "style": "Earnest closing, asking for fact-check confirmation like a real reporter."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろんだ。地裁の判例集も貸してやるから、しっかり読んでから書きなさい。",
+      "en": "Of course. I'll even lend you a district court casebook, so read it properly before you write.",
+      "style": "Warm gruff sendoff, offering practical help to the student."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07251",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 尋常/行き着く/電報/航路/探知/重傷/覇権/代議士",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "尋常",
+    "行き着く",
+    "電報",
+    "航路",
+    "探知",
+    "重傷",
+    "覇権",
+    "代議士"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_364 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、本気で、絶対、尋常ではない、絶対、状況、絶対、警察、絶対、慎重に、進めております、本気で、感謝",
+      "en": "This case is serious. We're proceeding with careful investigation. Thank you for your patience.",
+      "style": "Measured, official tone. Even pacing. Opens with calm authority. Closes with respect—not gratitude-seeking, but acknowledging the weight of the matter.",
+      "mood": "composed_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "捜査が、本気で、絶対、最終的に、絶対、行き着く、絶対、結論、絶対、知りたいですね、本気で、感謝",
+      "en": "I'd like to know what the investigation will ultimately conclude.",
+      "style": "Genuine intellectual curiosity. Leaning forward slightly in the voice. Thoughtful pause before the final phrase—not impatient, just engaged.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。昔の事件、本気で、絶対、電報、絶対、証拠として、絶対、残っております、本気で、感謝",
+      "en": "Yes. We have old case evidence—telegrams—that are still on record.",
+      "style": "Procedural and direct. Even delivery. Each fact lands with quiet weight. No inflection seeking agreement, just presenting information.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、本気で、絶対、航路を、絶対、変えて、絶対、逃げた、絶対、と、聞きました、本気で、感謝",
+      "en": "I heard the suspect changed route and fled.",
+      "style": "Careful, seeking confirmation. Slight lift at the end—not quite a question, but inviting elaboration. Listening quality in the voice.",
+      "mood": "attentive_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。最新の探知機、本気で、絶対、警察、絶対、活用しております、本気で、感謝",
+      "en": "Yes. We're using the latest detection equipment in the investigation.",
+      "style": "Professional, matter-of-fact. Slight emphasis on 'latest'—reassurance without overselling. Steady, unhurried delivery.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、本気で、絶対、重傷、絶対、ですよね、本気で、感謝",
+      "en": "The victim was severely injured.",
+      "style": "Quiet heaviness. Not dwelled upon, but not rushed past either. Respect for the gravity. Brief, intentional silence after the statement.",
+      "mood": "somber"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。組織の覇権、本気で、絶対、犯罪、絶対、関係していることも、絶対、捜査、進めております、本気で、感謝",
+      "en": "Yes. We're also investigating possible links between this case and organized crime activity.",
+      "style": "Methodical unwinding of complexity. Each part clearly separated. Calm but thorough—the voice of someone who leaves no stone unturned.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "代議士、本気で、絶対、本件、絶対、関与、絶対、ないことを、絶対、願います、本気で、感謝",
+      "en": "I hope the Diet member has no involvement in this.",
+      "style": "Quiet hope mixed with wariness. Slow, careful phrasing—choosing words with precision. The trailing end softer, almost vulnerable, before closing with composed restraint.",
+      "mood": "hopeful_guarded"
+    }
+  ]
+}

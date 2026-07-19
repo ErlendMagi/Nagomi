@@ -1,0 +1,61 @@
+{
+  "id": "conv_00005",
+  "context": "Late morning at the office. Hiroshi stops by Yuki's desk after reviewing the report she submitted yesterday.",
+  "purpose": "small unexpected recognition — boss-to-subordinate, register stays formal",
+  "ambient": "quiet_office",
+  "target_vocab": [
+    "本当に",
+    "ありがとう",
+    "大変",
+    "時間",
+    "ない"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "田中さん、昨日の報告書、読みました。",
+      "en": "Ms. Tanaka. I've read yesterday's report.",
+      "style": "Composed, neutral, fully controlled. Every word intentional. No volume change.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あっ、お時間取らせてしまって、すみません。",
+      "en": "Oh — sorry to have taken your time.",
+      "style": "Reflexive apology surfaces before thought. Small breath on the opening particle. Voice contracts slightly, checking herself mid-sentence.",
+      "mood": "apologetic"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いや、よく整理されていた。あれは本当に助かりました。",
+      "en": "No — it was well organised. That was genuinely helpful.",
+      "style": "Slight softening on 「本当に」 — warmth, for him. Still controlled, still even. The praise is understated, delivered without smile or performance.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえ、そんな…ありがとうございます。",
+      "en": "Not at all… thank you.",
+      "style": "Caught off guard. The deflection is genuine, not habitual politeness. The gratitude trails quietly, still processing the unexpected praise.",
+      "mood": "surprised_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "大変だったと思います。引き続きお願いします。",
+      "en": "I imagine it was hard work. Please keep it up.",
+      "style": "Closing note, a hint warmer than the opener but within his register. Each word fully formed. He turns to leave on the final syllable.",
+      "mood": "encouraging"
+    }
+  ]
+}

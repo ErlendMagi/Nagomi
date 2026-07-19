@@ -1,0 +1,62 @@
+{
+  "id": "conv_01298",
+  "context": "Saito gives Sho a routine checkup.",
+  "purpose": "doctor-child checkup exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "優しい",
+    "頑張る",
+    "楽しい"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_065)",
+    "generated_at": "2026-05-27T04:59:05.416Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、健康、本当、いい、ね。",
+      "en": "Sho-kun, you're truly in wonderful health.",
+      "style": "Warm, steady professional gaze. Opening with genuine pleasure at the news. Soft cadence—not rushing. The composure of someone who has delivered good news many times, but means it each time.",
+      "mood": "warm_relief"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張ってる、本当に。",
+      "en": "I've been working really hard at it.",
+      "style": "Small, serious voice—six years old finding the words. Quiet pride underneath. A slight lift at the end, checking that he's done something right. Genuine effort audible in the careful delivery.",
+      "mood": "sincere_proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "優しい、子、本当に。",
+      "en": "You're such a kind child, truly.",
+      "style": "Soft surprise in the opening. The appreciation is real and reaches her eyes before it reaches her voice. Steady, unhurried delivery. A moment of seeing him—not just as a patient.",
+      "mood": "tender_admiring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、楽しい、本当。",
+      "en": "It's fun when we do it together.",
+      "style": "Small, warm voice. The brightness of a six-year-old who has found something that works. Gentle sincerity—no performance. A tiny exhale of contentment woven through.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、ね。",
+      "en": "Keep taking good care of yourself, all right?",
+      "style": "Closing with quiet conviction. A gentle instruction wrapped in care, not command. The voice settles—a promise held between doctor and patient that this partnership continues.",
+      "mood": "tender_encouraging"
+    }
+  ]
+}

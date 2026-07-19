@@ -1,0 +1,86 @@
+{
+  "id": "conv_06056",
+  "context": "Two friends plan a weekend",
+  "purpose": "Teach: メロン/別荘/入賞/賞品/ホームラン/天ぷら/珈琲/トランプ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "メロン",
+    "別荘",
+    "入賞",
+    "賞品",
+    "ホームラン",
+    "天ぷら",
+    "珈琲",
+    "トランプ"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "お中元、メロンを贈ろうかな。",
+      "en": "I'm thinking of sending a melon for the mid-year gift.",
+      "style": "Thoughtful, almost to herself. Gentle opening. Slight upward lift on the question — genuine uncertainty, not performative. Tender.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いいね。先輩の別荘、招待されてるんでしょ?",
+      "en": "That's nice. Your senpai's inviting you to the villa, right?",
+      "style": "Warm, encouraging without pushing. Leaning in with genuine interest. Natural pace, easy cadence. The brightness of someone genuinely happy for you.",
+      "mood": "warm_interested"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。昨日のコンクール、ピアノ部、入賞したの。",
+      "en": "Yeah. The piano section placed in yesterday's competition.",
+      "style": "Quiet pride underneath. Modest delivery — not boasting, but the words carry weight. Light emphasis on the achievement itself, not the telling of it.",
+      "mood": "proud_understated"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "賞品、何だった?",
+      "en": "What was the prize?",
+      "style": "Genuine curiosity, leaning forward slightly. Light, unforced. The tone of someone who already cares about the answer.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "野球で言うホームランみたいに、大物の賞だったわ。",
+      "en": "It was a big one — like hitting a home run in baseball.",
+      "style": "Slight brightness returning. The metaphor lands gently. Not boastful, but allowing herself a moment of something like joy. Soft warmth in the delivery.",
+      "mood": "pleased_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お祝いに、天ぷら食べに行こう。",
+      "en": "Let's celebrate — go get tempura together.",
+      "style": "Genuine offer, not casual. Warm and direct. The tone of someone making sure the celebration actually happens. Steady, inviting.",
+      "mood": "warm_generous"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "食後、珈琲もね。",
+      "en": "And coffee after.",
+      "style": "Quiet agreement, almost dreamy. Soft landing. The contentment of planning something small but good with someone you trust.",
+      "mood": "content"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夜は、家でトランプで遊ぼうか。",
+      "en": "At night we can play cards at home, yeah?",
+      "style": "Warm, gently suggestive of continuation. Not pushing — offering. Tender close. The tone of someone creating a whole evening, not just a moment. Soft, genuine.",
+      "mood": "warm_close"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06762",
+  "context": "A mom and son chat",
+  "purpose": "Teach: お誘い/腕時計/立ち寄っ/ふく/うわさ/閉じる/スリム/じゅう",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "お誘い",
+    "腕時計",
+    "立ち寄っ",
+    "ふく",
+    "うわさ",
+    "閉じる",
+    "スリム",
+    "じゅう"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お友達のお誘い、断っちゃダメかな、行きたくないの。",
+      "en": "Mom… can I say no to a friend's invitation? I don't really want to go.",
+      "style": "Quiet, hesitant opening. Small voice checking if it's okay to disappoint. Soft trailing-off on the confession. Eyes down, waiting for permission to not be perfect.",
+      "mood": "anxious_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お父さんの腕時計、新しいの、買ったのよ、お誕生日に。",
+      "en": "Your dad got a new watch for his birthday. I bought it for him.",
+      "style": "Warm, steady tone. Gentle pivot—she heard him but is answering a different question. Practical warmth, the kind that loves by redirecting. No judgment in the subject change.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "帰り道、お祖父ちゃんち、立ち寄ってきたよ、ぼく、お話、いっぱいした。",
+      "en": "On the way home, I stopped by Grandpa's house. We talked for a really long time.",
+      "style": "Brightening noticeably. Alive with the memory. Words come a little faster. Pride in having spent time with Grandpa. Small boy genuinely pleased with himself.",
+      "mood": "pleased_animated"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お顔の汗、ハンカチで、ふくようにね、翔くん。",
+      "en": "Wipe the sweat off your face with your handkerchief, Sho.",
+      "style": "Soft, everyday direction—not a correction. Gentle hand reaching. Voice of someone tending to small, necessary things. The rhythm of after-school care.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "学校で、ぼくの、変なうわさ、流れてるんだよ、嫌だな。",
+      "en": "There's a weird rumor going around about me at school. I don't like it.",
+      "style": "Voice tightens on 'weird rumor.' Vulnerable complaint—the part he's been holding. Quieter on 'don't like it,' almost ashamed to admit it matters. Seeking reassurance, not sure he'll get it.",
+      "mood": "hurt_worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もう寝る時間ね、本、閉じる前に、お話しようね、翔くん。",
+      "en": "It's time for bed now. Let's talk before you close your book, Sho.",
+      "style": "Tender, bedtime-voice. Knowing he needs something—not pushing, but opening the door. Unhurried. The invitation underneath the direction. Calm and present.",
+      "mood": "tender_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ぼく、運動会、スリムに走れるようになりたいな、お父さんみたいに。",
+      "en": "I want to run fast at sports day, like Dad does.",
+      "style": "Hopeful, earnest. Voice brightens at the image of his father. Eager without being manic—genuine ambition. Small-boy admiration. Opening with fresh energy.",
+      "mood": "eager_admiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日は、一日じゅう、お祭りの準備、頑張ったわね、翔くん。",
+      "en": "You worked hard all day on the festival preparations, Sho.",
+      "style": "Warm recognition. Close, genuine praise. Not overdone, but specific and real. The tone of a mother noticing effort without needing to fix anything. Steady eye contact in her voice.",
+      "mood": "proud_warm"
+    }
+  ]
+}

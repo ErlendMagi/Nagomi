@@ -1,0 +1,78 @@
+{
+  "id": "conv_04613",
+  "context": "Two coworkers debrief after an inventory review",
+  "purpose": "Teach: セールス/トピック/モジュール/ステーション/入荷/調節/短期間/新設",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セールス",
+    "トピック",
+    "モジュール",
+    "ステーション",
+    "入荷",
+    "調節",
+    "短期間",
+    "新設"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "棚卸し、お疲れ。今期のセールスは思ったより伸びてたな。",
+      "en": "Good work on the inventory. Sales this quarter grew more than I expected.",
+      "style": "Casual senior coworker, relaxed and appreciative tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。ただ、主要トピックは欠品の多さでしたよね。",
+      "en": "Thank you. But the main topic was really the frequent stockouts, right?",
+      "style": "Polite junior tone, slightly concerned and analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうそう。特に新商品の入荷が全然追いついてなかった。",
+      "en": "Exactly. The incoming shipments of new products couldn't keep up at all.",
+      "style": "Agreeing casually, leaning into shared frustration"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "倉庫の管理モジュールを入れ替えれば、もう少し在庫を調節できると思います。",
+      "en": "If we swap the warehouse management module, we could regulate stock better.",
+      "style": "Suggesting a concrete fix in measured, professional Japanese"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。駅前のサービスステーションみたいに、自動で発注できるやつか。",
+      "en": "I see. Like that service station near the station that auto-orders things?",
+      "style": "Curious, drawing a real-world comparison conversationally"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。短期間で導入できるプランもあるそうなので、検討する価値はあります。",
+      "en": "Yes. There are plans deployable quickly, so it's worth seriously considering.",
+      "style": "Professional pitch with mild enthusiasm, business register"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ来月新設するチームに、そのテストを任せてみようか。",
+      "en": "Then let's have the newly established team next month handle the trial.",
+      "style": "Decisive senior making a delegation call, friendly authority"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ぜひ。提案書、明日までにまとめておきますね。",
+      "en": "Please do. I'll have the proposal document ready by tomorrow morning.",
+      "style": "Eager and dependable closing remark from junior employee"
+    }
+  ]
+}

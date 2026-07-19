@@ -1,0 +1,86 @@
+{
+  "id": "conv_08209",
+  "context": "Officer briefs",
+  "purpose": "Teach: 端子/ボルト/区画/キャップ/ポンプ/累積/買取/格納",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "端子",
+    "ボルト",
+    "区画",
+    "キャップ",
+    "ポンプ",
+    "累積",
+    "買取",
+    "格納"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_412 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不審な端子部品を押収しました",
+      "en": "We've seized some suspicious terminal components as evidence.",
+      "style": "Professional, measured tone. Clear enunciation on the key details. Steady pacing—this is procedural information delivered with quiet authority, not urgency.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、ボルトの種類を分析されたんですね",
+      "en": "I see. So you've analyzed the type of bolts involved.",
+      "style": "Attentive, deferential. Nodding slightly in the voice—showing he's following along and respecting the officer's expertise. Warm but not familiar.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、立入禁止区画を設定いたしました",
+      "en": "We've also cordoned off the restricted area at the scene.",
+      "style": "Factual, unhurried delivery. Each phrase lands with deliberate weight. The tone of someone who has done this many times and does it well.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、押収品のキャップ部分も検査されたんですね",
+      "en": "Understood. And you inspected the cap assembly from the seized materials as well.",
+      "style": "Slightly more engaged now—he's following the chain of investigation. Respectful but growing confidence in the conversation. Still deferred to the officer's authority.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場のポンプも証拠として確認しました",
+      "en": "We've also documented the pump from the site as evidence.",
+      "style": "Even-keeled, informative. Slight pause after 'pump'—letting the significance settle. Professional cadence maintained throughout.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、累積被害件数を発表されますね",
+      "en": "Thank you. And you'll be releasing the count of affected cases to the public, I assume.",
+      "style": "More tentative here—phrasing it almost as a question, though he understands the procedure. Respectful uncertainty, not doubt.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、買取り業者への調査も進めております",
+      "en": "We're also pursuing an investigation into the recycling vendors involved.",
+      "style": "Steady, forward-looking tone. 'Pursuing' gets a light emphasis—showing active progress. The confidence of ongoing work, not defensive.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。証拠物を安全に格納してくださりありがたいです",
+      "en": "Thank you for securing the evidence so carefully. I'm grateful for the thoroughness.",
+      "style": "Warm, genuine. Softer attack than before—this is sincere appreciation, not protocol. Slight slowness on 'carefully' and 'grateful,' showing he means it.",
+      "mood": "grateful"
+    }
+  ]
+}

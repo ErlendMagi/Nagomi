@@ -1,0 +1,86 @@
+{
+  "id": "conv_06600",
+  "context": "A chef and barista plan an event",
+  "purpose": "Teach: とおし/うける/ぐち/たいそう/囲い/甘かっ/質素/ガバ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "とおし",
+    "うける",
+    "ぐち",
+    "たいそう",
+    "囲い",
+    "甘かっ",
+    "質素",
+    "ガバ"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "葵さん、店、ぶっとおしで開けるのは、無理やな、しんどいで。",
+      "en": "Aoi, keeping the place open all day straight through — that's impossible, man. You'll burn out.",
+      "style": "Warm, direct Kansai inflection. Leans in with genuine concern. Relaxed pace, but the weight lands on 「無理やな」. Affectionate exasperation.",
+      "mood": "caring_direct"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。新メニューの説明、お客さんにうけるんです。",
+      "en": "Yes. Customers are really responding well to the new menu I've been explaining.",
+      "style": "Bright, almost proud. Quick tempo. Natural enthusiasm — she's not performing it, she's reporting something that genuinely pleased her.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "スタッフがぐちを言える場、大事やな、リーダーとして。",
+      "en": "You know, as a leader it's important to give your staff a space where they can actually vent.",
+      "style": "Thoughtful, settling into something important. Slower cadence. The voice of someone speaking from real experience. Sincere without heaviness.",
+      "mood": "earnest_grounded"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。昨日のお客様、たいそう機嫌がよかったです。",
+      "en": "Yes. The customer we had yesterday — they were in such a good mood.",
+      "style": "Soft, warm reflection. Quieter volume, like she's savoring the memory. Slight smile in the voice. Gentle trailing-off.",
+      "mood": "content"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "店の囲い、もう少し、温かい色に変えへんか、葵さん。",
+      "en": "Hey, what if we changed the trim around the shop to a warmer color tone? What do you think?",
+      "style": "Animated, engaged. Leans forward with the question. Genuinely curious for her input — not directive, collaborative. Kansai cadence throughout.",
+      "mood": "thoughtful_collaborative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "新作スイーツ、甘かったので、糖度、下げますね。",
+      "en": "The new dessert came out a bit too sweet, so I'm going to bring the sugar down on the next batch.",
+      "style": "Measured, self-aware. She's thinking out loud, problem-solving. Quiet resolve. Not defensive — just matter-of-fact about making it better.",
+      "mood": "focused_improving"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "店の内装、質素な感じで、落ち着くと、ええで。",
+      "en": "I think a simple, calming interior like that would actually feel really good in here.",
+      "style": "Practical, conversational. She's building on what he said — not echoing, but affirming and expanding. Steady, grounded tone.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。朝、ガバッと起きて、仕込みを進めてます。",
+      "en": "Yeah. I'm waking up early and getting all the prep work started before we open.",
+      "style": "Bright, almost energized close. Quick attack on the opening. The voice of someone committed and present in the early morning. Genuine momentum.",
+      "mood": "energized_committed"
+    }
+  ]
+}

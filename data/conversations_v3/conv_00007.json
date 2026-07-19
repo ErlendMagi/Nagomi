@@ -1,0 +1,76 @@
+{
+  "id": "conv_00007",
+  "context": "Sunday breakfast. Yumiko and Ryosuke are running through the week ahead. The parent-teacher meeting is on Thursday.",
+  "purpose": "partner logistics + small worry surfaced — coordination edged with care",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今週",
+    "どう",
+    "大丈夫",
+    "時間",
+    "一緒",
+    "明日"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今週木曜、面談ね。覚えてる？",
+      "en": "Thursday this week is the meeting. Remember?",
+      "style": "Practical, hands-still-working tone. A check, not a reminder lecture. The 「ね」 at the end is the warm assumption that he does.",
+      "mood": "practical_check"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん、覚えてる。何時からだっけ？",
+      "en": "Yeah, I remember. What time was it again?",
+      "style": "Coffee-cup voice. Confirms before asking the actual question. Soft, present.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "四時。一緒に行ける？",
+      "en": "Four. Can you come with me?",
+      "style": "A small lift on 「一緒に行ける？」. The ask is gentle but real — she wants him there for this one.",
+      "mood": "asking_softly"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "行く。仕事は何とかなる。",
+      "en": "I'm going. Work will be fine.",
+      "style": "Quiet decisiveness. He commits before checking if he should. Both clauses spoken flat and warm.",
+      "mood": "committing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。…ちょっとだけ、心配。",
+      "en": "Thank you. …I'm a little worried.",
+      "style": "A pause before the second clause. The worry isn't performed — it slips out. JP and EN both: keep it small.",
+      "mood": "quiet_worry"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "大丈夫だよ。ひな、今うまくいってる。",
+      "en": "It's going to be okay. Hina's doing well right now.",
+      "style": "Steady reassurance. Speaks slightly slower than usual to hold the moment. Eye-contact-level voice.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。明日また話そう、時間あるとき。",
+      "en": "Yeah. Let's talk again tomorrow, when we've got time.",
+      "style": "Soft conclusion. She is parking the worry, not putting it down. Gentle.",
+      "mood": "closing_soft"
+    }
+  ]
+}

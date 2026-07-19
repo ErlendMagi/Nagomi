@@ -1,0 +1,78 @@
+{
+  "id": "conv_04749",
+  "context": "A boss and his manager review a multi-prefecture roadshow",
+  "purpose": "Teach: 乗客/運賃/航空機/住居/富山/青森/秋田/茨城",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "乗客",
+    "運賃",
+    "航空機",
+    "住居",
+    "富山",
+    "青森",
+    "秋田",
+    "茨城"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_239 workflow wutz90wj3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の地方キャラバン、どうだった?",
+      "en": "How did the regional caravan go this time?",
+      "style": "Authoritative boss opening with a short open-ended question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おかげさまで好評でした。ただ、富山に向かう航空機が遅延して、現地入りがぎりぎりでしたね。",
+      "en": "It went over well, thankfully. But the flight to Toyama was delayed, so we barely made it on time.",
+      "style": "Polite middle-manager tone with factual reporting and mild concern."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうか。天候のせいか?それで、秋田と茨城のほうはどうだ?",
+      "en": "I see. Was it the weather? And how about Akita and Ibaraki?",
+      "style": "Boss probing with a natural follow-up before pivoting to other regions."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "秋田の温泉地で開いた説明会は満員でした。茨城県の会場は狭くて、立ち見が出るほどです。乗客の安全面でも少し心配しました。",
+      "en": "The session at the Akita hot spring area was packed. The Ibaraki venue was too small and people had to stand. I was a bit worried about attendee safety too.",
+      "style": "Enthusiastic factual update with concrete turnout details and a safety note."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "立ち見か。次は会場を広く取ろう。それと、参加者の交通費、特に運賃の補助はどうしている?",
+      "en": "Standing room only, huh. Let's book bigger venues next time. And what are we doing about attendee travel costs, particularly fare subsidies?",
+      "style": "Boss pivoting to logistics and weighing budget concerns aloud."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "半額補助でやっています。富山からの方が一番遠かったので、その分だけ全額にしました。",
+      "en": "We're subsidizing half. Folks coming from Toyama had the longest trip, so we covered theirs in full.",
+      "style": "Steady operational answer showing thoughtful adjustment for distance."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "妥当だな。あと、青森の山田から長期出張中の住居の件で相談が来ている。確認しておいてくれ。",
+      "en": "Reasonable. Also, Yamada in Aomori brought up something about housing during the long assignment. Look into it.",
+      "style": "Boss closing with a delegated follow-up task in businesslike tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。今週中に見積もりも合わせて報告いたします。",
+      "en": "Understood. I'll report back this week with the estimate as well.",
+      "style": "Formal subordinate confirmation closing the meeting politely."
+    }
+  ]
+}

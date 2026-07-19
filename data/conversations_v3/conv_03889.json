@@ -1,0 +1,78 @@
+{
+  "id": "conv_03889",
+  "context": "Two coworkers troubleshoot a server cable and login issue",
+  "purpose": "Teach: パスワード/電源/キーボード/ディスク/端末/ウェブ/ケーブル/自動的",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "パスワード",
+    "電源",
+    "キーボード",
+    "ディスク",
+    "端末",
+    "ウェブ",
+    "ケーブル",
+    "自動的"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おい、業務端末が起動しないんだ。電源は入ってるはずなんだけど。",
+      "en": "Hey, the work terminal won't start. The power should be on though.",
+      "style": "Frustrated senior coworker speaking casually to junior"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "電源ケーブルがちゃんと刺さってますか？昨日掃除した時に抜けたかも。",
+      "en": "Is the power cable properly plugged in? It might have come loose during yesterday's cleaning.",
+      "style": "Polite younger coworker offering helpful suggestion gently"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あ、ケーブルは大丈夫だ。でもキーボードも反応しないんだよ。",
+      "en": "Ah, the cable is fine. But the keyboard isn't responding either.",
+      "style": "Senior coworker confirming check while showing concern"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もしかしてハードディスクの問題かもしれませんね。ちょっと見せてください。",
+      "en": "Maybe it could be a hard disk problem. Let me take a look please.",
+      "style": "Curious junior offering technical assistance respectfully"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "頼むよ。あと、社内のウェブサイトにもログインできなくなった。",
+      "en": "Please do. Also, I can't log in to the company website anymore.",
+      "style": "Senior coworker relieved while listing additional problems"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あー、それは多分パスワードの問題ですよ。三ヶ月で自動的にリセットされるので。",
+      "en": "Ah, that's probably a password issue. It automatically resets every three months.",
+      "style": "Knowledgeable junior explaining system policy clearly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっ、そうなのか。全然知らなかった。再設定はどうやるんだ？",
+      "en": "What, really? I had no idea. How do I reset it?",
+      "style": "Surprised senior asking for guidance honestly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "IT部に連絡すれば、新しいパスワードを発行してくれますよ。",
+      "en": "If you contact the IT department, they'll issue a new password for you.",
+      "style": "Helpful junior providing clear actionable instructions"
+    }
+  ]
+}

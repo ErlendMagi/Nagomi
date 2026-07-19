@@ -1,0 +1,86 @@
+{
+  "id": "conv_06552",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 実写/か国/捧げる/煽り/引っ張ら/鵜呑み/広める/築か",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "実写",
+    "か国",
+    "捧げる",
+    "煽り",
+    "引っ張ら",
+    "鵜呑み",
+    "広める",
+    "築か"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_329 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、実写映像、防犯カメラで複数取れました。",
+      "en": "We obtained multiple angles of actual footage from the security cameras in this case.",
+      "style": "Professional, measured opening. Clear factual delivery. Steady pace. No drama—just reporting what is. Slight formal distance, as if reading a statement.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、複数か国を経由して入国していたんですね。",
+      "en": "So the suspect entered through multiple countries before coming here.",
+      "style": "Thoughtful, slightly uncertain. Leans forward with genuine interest—this is new information being processed. Quiet concentration, not challenging. Trail upward slightly on the last word.",
+      "mood": "thoughtful_attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。家族への思いを捧げる手紙、現場で発見されました。",
+      "en": "Yes. We found a letter at the scene—it was addressed to his family.",
+      "style": "Measured and respectful. Soften slightly on 'letter'—acknowledgment of the human weight. Still procedural, but with the tiny pause that says he knows this detail matters. Even tempo.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "マスコミの煽り、捜査に影響しませんでしたか。",
+      "en": "Did the media coverage end up affecting the investigation at all?",
+      "style": "Gentle probe, not accusation. Lean back slightly—giving space for an honest answer. Genuine curiosity, like asking someone who lived it. Pace slows on the question.",
+      "mood": "cautious_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。世論に引っ張られない捜査、心掛けています。",
+      "en": "Yes. I make a point of keeping the investigation focused on the facts, not what the public is saying.",
+      "style": "Quiet conviction. Light emphasis on 'facts'—not defensive, just clear about the priority. Steady eye contact in the voice. Calm authority, not rigid. Breath before the explanation.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察情報を鵜呑みにする報道、問題ですよね。",
+      "en": "It's a real problem when media outlets just accept what police say without questioning it.",
+      "style": "Thoughtful agreement, not aggressive. He's thinking out loud with the officer. Moderate pace. Slight hesitation before 'without questioning'—he's choosing his words carefully to be fair.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。正確な情報を広める必要、感じています。",
+      "en": "Yes. I feel a responsibility to make sure accurate information is getting out there.",
+      "style": "Warm, quiet commitment. Emphasis on 'accurate'—this matters to him personally. Not stiff, but sincere. The rhythm of someone speaking from conviction, not duty.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "信頼が築かれるには、時間が必要ですね、市民との。",
+      "en": "Trust between police and the community—that takes time to build, doesn't it.",
+      "style": "Conclusion-reaching, reflective. Slow pace. Not quite a question, but left open—inviting agreement. Trailing thought, like he's still thinking it through. Respectful tone throughout.",
+      "mood": "contemplative"
+    }
+  ]
+}

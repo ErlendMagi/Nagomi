@@ -1,0 +1,86 @@
+{
+  "id": "conv_08786",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 同名/気配り/調査官/貸借/割当/局員/上半期/釈明",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "同名",
+    "気配り",
+    "調査官",
+    "貸借",
+    "割当",
+    "局員",
+    "上半期",
+    "釈明"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_441 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、同名の競合がいないか確認しろ",
+      "en": "Make sure we don't have any competitors with the same name as us.",
+      "style": "Clipped authority. Direct gaze. No softening — this is a task, not a question. Moves to the next item before Kenji can respond.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様には気配りを忘れるな",
+      "en": "Understood. And don't forget to take care of our key clients.",
+      "style": "Steady acknowledgment. Slight nod on 「はい」. Absorbs the instruction without hesitation. His tone mirrors Hiroshi's efficiency — professional, attentive.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、外部調査官の指摘事項に対応しろ",
+      "en": "Address the external auditor's findings.",
+      "style": "Sharp, economical phrasing. Brief pause after the opening — letting weight settle. Not angry, but non-negotiable. Eyes on Kenji.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。施設の貸借契約を更新しております",
+      "en": "Understood. We're in the process of renewing our facility lease agreement.",
+      "style": "Calm status update. Speaks with quiet confidence — he has this handled. No defensiveness, just competence. Slight forward lean shows engagement.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の業務割当を見直せ",
+      "en": "Review the staff task assignments.",
+      "style": "Decisive, abbreviated. No elaboration — Hiroshi trusts Kenji to understand the priority. Tone is firm but not harsh. Moving through the checklist with control.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。郵便局員さんに集荷をお願いしました",
+      "en": "Understood. I've already requested pickup from the postal office.",
+      "style": "Matter-of-fact confirmation. Slightly quicker pace — showing he's already ahead of the curve. Efficient, unbothered. Small relief in his posture that this one is done.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、上半期の決算を急げ",
+      "en": "Accelerate the first-half financial settlement.",
+      "style": "Urgent undertone without raising volume. Slight sharpness on 「急げ」. This carries weight — time-sensitive. Eyes hard, jaw set. Not a suggestion.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様への釈明文書を準備しました",
+      "en": "Understood. I've prepared an explanatory statement for our key clients.",
+      "style": "Closing statement with steady resolve. Slightly slower pace — acknowledging this is the final task. Calm but alert, showing he's managed the downstream implications. Meets Hiroshi's gaze.",
+      "mood": "composed"
+    }
+  ]
+}

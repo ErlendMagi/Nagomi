@@ -1,0 +1,78 @@
+{
+  "id": "conv_04816",
+  "context": "A boss and his manager debate weekend news headlines",
+  "purpose": "Teach: 相撲/警視庁/市街地/パイロット/狼/ジェット/ギャグ/プロデュース",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "相撲",
+    "警視庁",
+    "市街地",
+    "パイロット",
+    "狼",
+    "ジェット",
+    "ギャグ",
+    "プロデュース"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_242 workflow wj0528681)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "週末の新聞、見たか？大相撲の千秋楽、すごい取組だったらしいな。",
+      "en": "Did you see the weekend paper? The final day of the grand sumo tournament had quite a match, apparently.",
+      "style": "Gruff boss opening casual weekend small talk with subordinate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、見ました。でも一面は警視庁発表の市街地での事件のほうが大きく載ってましたよ。",
+      "en": "Yes, I saw it. But the front page featured the Metropolitan Police announcement about the urban incident more prominently.",
+      "style": "Polite middle-manager correcting boss respectfully, distinct timbre that anchors the scene"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、あれか。それと、自衛隊のベテランパイロットがジェット機で訓練中にトラブルって記事もあったぞ。",
+      "en": "Ah, that one. And there was also an article about a veteran Self-Defense Force pilot having trouble in a jet during training.",
+      "style": "Boss redirecting with another news topic, mildly excited"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "読みました。無事だったみたいで何よりですが、最近そういうニュースが多くて、ちょっと心配ですね。",
+      "en": "I read that one. It's a relief he was unharmed, but lately there's been a lot of news like that, which worries me a bit.",
+      "style": "Cautious manager expressing measured concern about trends"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そういえば、北海道で狼に似た動物の目撃情報があったとかいう話も載ってたな。",
+      "en": "Come to think of it, there was also a story about sightings of a wolf-like animal up in Hokkaido.",
+      "style": "Boss shifting topic with curious recall"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、あれは結局犬だったらしいですよ。テレビでは芸人が寒いギャグにしてました。",
+      "en": "Oh, it turned out to be just a dog in the end. On TV some comedian was turning it into a lame joke.",
+      "style": "Manager casually debunking with mild humor"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ハハ、芸人といえば、あのベテランが新人をプロデュースして売り出すって記事もあったろう？",
+      "en": "Haha, speaking of comedians, wasn't there also an article about that veteran producing and launching a newcomer?",
+      "style": "Boss laughing, connecting topics with hearty energy"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありましたね。日曜の朝から新聞ネタで盛り上がれるのは、平和な証拠ですよ、部長。",
+      "en": "There was indeed. Being able to get worked up over newspaper topics on a Sunday morning is proof of peace, chief.",
+      "style": "Manager closing warmly with polite humorous remark"
+    }
+  ]
+}

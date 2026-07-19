@@ -1,0 +1,78 @@
+{
+  "id": "conv_04108",
+  "context": "A boss reviews website rebuild plans with his manager",
+  "purpose": "Teach: ヘッド/タグ/オブジェクト/ポジション/フォーラム/ライセンス/認証/トップページ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘッド",
+    "タグ",
+    "オブジェクト",
+    "ポジション",
+    "フォーラム",
+    "ライセンス",
+    "認証",
+    "トップページ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山田さん、新しいサイトのトップページの案、見せてもらえますか。",
+      "en": "Yamada-san, can you show me the proposal for the new site's top page?",
+      "style": "Authoritative boss tone, polite but direct, slightly impatient morning meeting energy."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、こちらです。ヘッド部分のデザインを刷新して、HTMLタグも全部整理し直しました。",
+      "en": "Yes, here it is. We renewed the header design and reorganized all the HTML tags.",
+      "style": "Professional female office worker, calm and prepared, presenting work confidently."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。バックエンドのオブジェクト指向の設計はどうなってる?",
+      "en": "I see. What about the object-oriented design on the backend?",
+      "style": "Boss asking technical follow-up, lower pitch, focused and analytical."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そちらも見直しました。ユーザーの二段階認証も新しく実装する予定です。",
+      "en": "We reviewed that too. We also plan to newly implement two-factor authentication for users.",
+      "style": "Composed office voice, slightly faster pace, conveying competence and planning."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いいね。それで、使ってるソフトウェアライセンスの件は解決したの?",
+      "en": "Good. So, has the issue with the software license we're using been resolved?",
+      "style": "Boss probing pragmatically, slight skepticism in voice, business-minded concern."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、商用ライセンスに切り替えました。それと、社内フォーラムも併設したいと考えています。",
+      "en": "Yes, we switched to a commercial license. Also, we'd like to set up an internal forum alongside it.",
+      "style": "Reassuring tone, then introducing a new idea with measured enthusiasm and tact."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "フォーラムか。会社のポジションを考えると、慎重に運用しないとね。",
+      "en": "A forum, huh. Considering the company's position, we'll need to operate it carefully.",
+      "style": "Thoughtful boss, weighing options aloud, measured cautious senior leadership tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "おっしゃる通りです。来週、開発チームと最終的な打ち合わせをします。",
+      "en": "You're absolutely right. Next week we'll have a final meeting with the development team.",
+      "style": "Agreeable professional tone, respectful deference combined with clear forward action."
+    }
+  ]
+}

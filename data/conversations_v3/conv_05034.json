@@ -1,0 +1,78 @@
+{
+  "id": "conv_05034",
+  "context": "A doctor explains laser-based diagnostics to a curious teen",
+  "purpose": "Teach: 方程式/レーザー/電流/波動/同氏/最良/死去/国歌",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "方程式",
+    "レーザー",
+    "電流",
+    "波動",
+    "同氏",
+    "最良",
+    "死去",
+    "国歌"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、テレビでレーザー治療の特集を見たんですけど、本当に体の中まで見えるんですか？",
+      "en": "Doctor, I saw a feature on laser treatment on TV, but can it really see inside the body?",
+      "style": "Excited teen voice, slightly fast, curious upward intonation, leaning forward in interest."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい質問だね。光を波動として捉えると、体の組織で散乱や反射が起きるんだ。",
+      "en": "Good question. If you think of light as a wave, scattering and reflection occur in body tissue.",
+      "style": "Calm, warm doctor's tone, measured pace, slight teaching cadence, gentle and reassuring."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "波動って、物理の授業で出てきた方程式のやつですよね？数式が苦手で…",
+      "en": "Waves — that's the thing with equations from physics class, right? I'm bad at formulas.",
+      "style": "Sheepish teen voice, slight nervous laugh, trailing off, embarrassed but engaged."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配しなくていい。装置の中では微弱な電流でセンサーが信号を読み取っているだけだから、方程式を解く必要はないよ。",
+      "en": "No need to worry. Inside the device, a weak electric current just lets the sensor read the signals, so you don't need to solve equations.",
+      "style": "Patient, reassuring delivery, slower pace to explain, kind teacher-like warmth."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、すごい。ニュースで読んだ研究者の人も、レーザー診断は今のところ最良の方法だって言ってました。",
+      "en": "Wow, amazing. The researcher I read about in the news also said laser diagnosis is the best method for now.",
+      "style": "Impressed teen tone, brightening voice, eager to share what she's learned, slightly proud."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、あの先生か。記事では『同氏の研究が分野を変えた』と書かれていたね。残念ながら去年死去されてしまったけれど。",
+      "en": "Ah, that professor. The article wrote that 'his research changed the field.' Sadly he passed away last year, though.",
+      "style": "Softer, slightly somber tone, respectful pause, then warm closing, reflective and gentle."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そうだったんですか…なんだか、卒業式で国歌を歌った時みたいに、胸がじんとしました。",
+      "en": "Is that so… somehow my chest tightened, like when we sang the national anthem at graduation.",
+      "style": "Quieter, moved teen voice, sincere and slightly emotional, slower than her earlier lines."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい感性だね。君もいつか、医療を前に進める一人になれるかもしれないよ。",
+      "en": "You have good sensibility. Someday you too might become someone who advances medicine forward.",
+      "style": "Encouraging, warm smile in voice, paternal mentor tone, soft but confident delivery."
+    }
+  ]
+}

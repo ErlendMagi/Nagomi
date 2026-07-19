@@ -1,0 +1,78 @@
+{
+  "id": "conv_04064",
+  "context": "A married couple reviews household finances at the table",
+  "purpose": "Teach: 支給/引き上げ/就業/収支/不十分/金銭/増し/マネージャー",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "支給",
+    "引き上げ",
+    "就業",
+    "収支",
+    "不十分",
+    "金銭",
+    "増し",
+    "マネージャー"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_205 workflow w8myi0hd3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ねえ、今月の収支を一緒に見てくれる？正直、貯金が不十分で不安なのよ。",
+      "en": "Hey, can you look at this month's income and expenses with me? Honestly, our savings are insufficient and I'm worried.",
+      "style": "Concerned wife opening a serious financial discussion calmly."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、見せて。先月ボーナスの支給があったのに、もう厳しいのか？",
+      "en": "Yeah, show me. We had the bonus payout last month, and it's already tight?",
+      "style": "Surprised husband leaning in to review the numbers."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "電気代が上がって、食費もいつの間にか増してて。私の金銭感覚がおかしいのかな。",
+      "en": "The electricity bill went up, and food costs have swelled before I noticed. Maybe my money sense is off.",
+      "style": "Self-doubting wife listing expense categories one by one."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "君のせいじゃないよ。会社の方も昇給の話がずっと止まってて、果たして動くのかも怪しい。",
+      "en": "It's not your fault. Talks about raises at work have stalled, and I doubt anything actually moves.",
+      "style": "Reassuring husband shifting blame onto company stagnation."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あなた、就業後も残業ばかりで、昼間からあんなに疲れた顔して、無理してない？",
+      "en": "Even after your shift ends you're always doing overtime, and you look exhausted even in the daytime. Aren't you overdoing it?",
+      "style": "Wife expressing worry about her husband's health and hours."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "実は店舗マネージャーの話があってさ。会議の最中にチラッと聞いただけだけど、手当が付くらしいんだ。",
+      "en": "Actually there's talk of me becoming store manager. I caught wind during a meeting, and apparently there's an allowance.",
+      "style": "Husband sharing a hopeful career rumor cautiously."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "それ本当なら大きいじゃない。あっという間に夏になっちゃうし、まともに上司に確認してみたら？",
+      "en": "If that's real, it's huge. Summer will be here in no time — why not properly check with your boss?",
+      "style": "Wife pushing him to act on his career plans practically."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかった、来週ちゃんと話してみるよ。給料が引き上げられれば、君も少しは楽になるだろうし。",
+      "en": "Got it, I'll talk to him properly next week. If my pay gets bumped up, things should ease up for you a bit too.",
+      "style": "Husband closing with warm resolve to act on the rumor."
+    }
+  ]
+}

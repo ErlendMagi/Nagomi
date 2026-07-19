@@ -1,0 +1,72 @@
+{
+  "id": "conv_05323",
+  "context": "A mom calms her young son after a tumble",
+  "purpose": "Teach: 尻/舌/裸/途端/ご存じ/突っ込ん/わざと/いまいち",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "尻",
+    "舌",
+    "裸",
+    "途端",
+    "ご存じ",
+    "突っ込ん",
+    "わざと",
+    "いまいち"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、公園で転んで、尻打って、舌噛んじゃった。",
+      "en": "Mom, I fell at the park and hit my butt and bit my tongue.",
+      "style": "Urgent, breathless report delivered in a tumble. Whimpering underneath but fighting to get the facts out. Voice cracks slightly on the worst parts.",
+      "mood": "hurt_panicked"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あらまあ、見せて。痛かったね。",
+      "en": "Oh dear. Let me see. That really did hurt.",
+      "style": "Immediate shift into safety. Gentle, close inspection tone. Warm hands-on attention. Voice settles him with its steadiness.",
+      "mood": "caring_alert"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ケンくんがわざと突っ込んで来たんだよ、絶対。",
+      "en": "Ken bumped into me on purpose. I know he did.",
+      "style": "Accusatory but wavering—needs the world to make sense of the pain. Sharp on 'on purpose' then trailing into doubt. Seeking confirmation.",
+      "mood": "indignant_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ご存じの通り、ケンくんもまだ加減を覚えてるところよ。",
+      "en": "Ken's still learning how to control his strength. That's just how six-year-olds are.",
+      "style": "Patient, level-headed explanation delivered without dismissing his hurt. Matter-of-fact, like she's reasoned through this before. Voice holds him steady.",
+      "mood": "patient_understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "でもさ、急に視界が裸眼で歪んだ途端、もう泣きそうだったよ。",
+      "en": "But then everything went blurry all of a sudden and I almost cried.",
+      "style": "Vulnerability breaking through the report. Small, trembling admission. Slow on 'blurry'—the moment he realized he couldn't see right. Voice tips toward tears.",
+      "mood": "frightened_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日はお家でゆっくりしようね。気分がいまいちだから絵本にしよ。",
+      "en": "Let's stay home and rest today. You're not quite yourself, so we'll read picture books instead.",
+      "style": "Close, quiet decision-making spoken as permission. No performance of comfort—just steady presence and a gentle shift toward quiet. Held warmth.",
+      "mood": "protective_calm"
+    }
+  ]
+}

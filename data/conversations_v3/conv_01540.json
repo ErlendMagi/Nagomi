@@ -1,0 +1,61 @@
+{
+  "id": "conv_01540",
+  "context": "Sho-young learns to swim; Saito watches from the pool side.",
+  "purpose": "Adult mentoring child overcoming fear in water.",
+  "ambient": "pool_low_echo",
+  "sound_effects": [],
+  "target_vocab": [
+    "泳ぐ",
+    "プール",
+    "息",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_077)",
+    "generated_at": "2026-05-27T06:22:53.509Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "先生、泳げない!",
+      "en": "Teacher, I can't swim!",
+      "style": "Panic shoots through on the first word. Breathless, small voice cracking slightly. The desperation of a child who's genuinely frightened but trying not to cry. Opens wide, closes tight.",
+      "mood": "panicked"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "焦らず、息整えて。",
+      "en": "Don't panic — steady your breathing.",
+      "style": "Warm, unhurried assurance. A doctor's voice that's heard this fear before. Slow, measured cadence. Each word lands like a hand on a shoulder. No rush, no judgment.",
+      "mood": "calm_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る!",
+      "en": "Yeah — I'm going to try!",
+      "style": "Determined whisper from deep in the chest. The tremor of fear still there but wrapped in resolve. Soft but grounded. A child finding his own courage.",
+      "mood": "brave_determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いいね、ゆっくり進んで。",
+      "en": "That's it — go nice and slow.",
+      "style": "Warm nod in the voice. Gentle pride in the permission to take time. Steady, encouraging tone that makes slowness feel like the bravest choice. Soft and solid.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "できた、泳げた!",
+      "en": "I did it — I swam!",
+      "style": "Joy bursts open on the first word. Bright, alive, amazed at himself. The pride of a small person who just overcame something real. Breathless triumph, warm and genuine.",
+      "mood": "proud_exultant"
+    }
+  ]
+}

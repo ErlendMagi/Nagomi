@@ -1,0 +1,72 @@
+{
+  "id": "conv_05328",
+  "context": "A uni intern interviews a manager about administrative workflow",
+  "purpose": "Teach: 役人/図っ/担う/立案/当方/所管/登記/全額",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役人",
+    "図っ",
+    "担う",
+    "立案",
+    "当方",
+    "所管",
+    "登記",
+    "全額"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "業務フロー、行政の役人との連携はどう進めますか。",
+      "en": "How are you planning to coordinate with the administrative officials on the workflow?",
+      "style": "Thoughtful, slightly hesitant. Lean forward with genuine curiosity. Respectful pause before the question—he's aware he's the intern asking the professional. Warm but careful.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当方からの立案を、所管課がレビューして登記まで進めます。",
+      "en": "We draft the proposal, then the relevant department reviews it all the way through to registration.",
+      "style": "Clear and direct. Light, assured tone—she's explained this before and knows the answer cold. Slight upward lilt at the end, inviting follow-up. No rush.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "課題解決を図っている場面で、どんな技術がいま使われてますか。",
+      "en": "What kind of technology is actually being used in those problem-solving stages right now?",
+      "style": "Open, genuinely interested. Lean in slightly. The rhythm picks up a bit—this is the question he's been building toward. No performance, just real engagement.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "AIアシスタント、案件処理を担うようになってきました。",
+      "en": "AI assistants have started taking on a lot of the case management work.",
+      "style": "Factual, measured. She's meeting his curiosity halfway. Slight emphasis on 'started'—acknowledging it's newer. Calm, conversational, not lecturing.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "費用は全額デジタル化で抑えられますか。",
+      "en": "Can digitalization actually cut costs across the board?",
+      "style": "Sharper now. He's probing for the real picture. Direct eye contact level. Not challenging her, but wanting the honest answer beneath the surface.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "数年がかりですが、削減見込みがあります。",
+      "en": "It'll take a few years, but we're looking at solid savings potential.",
+      "style": "Slightly softer. She's being realistic without being discouraging. A small knowing smile in the voice—she understands why he's asking. Patient, grounded.",
+      "mood": "realistic_steady"
+    }
+  ]
+}

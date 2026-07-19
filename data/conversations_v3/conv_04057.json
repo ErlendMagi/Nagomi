@@ -1,0 +1,78 @@
+{
+  "id": "conv_04057",
+  "context": "A senior trains a new hire on standard operating procedures",
+  "purpose": "Teach: 判明/改定/答申/定年/発足/定める/出力/分割",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "判明",
+    "改定",
+    "答申",
+    "定年",
+    "発足",
+    "定める",
+    "出力",
+    "分割"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日は新しく発足した品質管理チームの標準手順を一緒に確認していこう。",
+      "en": "Today let's go over the SOPs of the newly launched quality control team together.",
+      "style": "Calm senior tone, measured pace, instructive and welcoming delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。先週マニュアルが改定されたと聞いたのですが、どこが変わったんでしょうか。",
+      "en": "Thank you for guiding me. I heard the manual was revised last week — what changed?",
+      "style": "Polite junior register, slightly nervous, eager curious rising intonation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "去年の社内調査で手順の重複が判明したから、委員会の答申を受けて新しい基準を定めることになったんだ。",
+      "en": "An internal audit last year exposed redundancies, so following the committee's recommendation we decided to set new standards.",
+      "style": "Explanatory senior voice, steady and authoritative, with patient detail."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。じゃあ作業ログは一度に提出せず、工程ごとに分割して出力する形なんですね。",
+      "en": "I see — so we output the work logs split by process rather than all at once.",
+      "style": "Thoughtful junior tone, confirming understanding, slightly raised inquisitive ending."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その通り。三分割で出力すれば、後から修正点もすぐ追えるからね。",
+      "en": "Exactly. Splitting the output into three parts makes later corrections easy to trace.",
+      "style": "Approving senior voice, warm and confident, slightly faster pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ちなみに、田中さんはもうすぐ定年だと伺いましたが、引き継ぎはどう進めるご予定ですか。",
+      "en": "By the way, I heard Tanaka-san is approaching retirement — how will the handover proceed?",
+      "style": "Respectful junior tone, careful word choice, soft and considerate."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "彼の定年退職までに、全工程をペアで回して君が独り立ちできるようにする予定だよ。",
+      "en": "Before his retirement we'll pair on every process so you can stand on your own.",
+      "style": "Reassuring mentor tone, deliberate and supportive, kind closing cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。精一杯がんばります。",
+      "en": "Thank you very much. I'll do my absolute best to learn quickly.",
+      "style": "Sincere junior delivery, gratitude clear, firm determined ending tone."
+    }
+  ]
+}

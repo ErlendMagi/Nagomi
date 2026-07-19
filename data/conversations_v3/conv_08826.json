@@ -1,0 +1,86 @@
+{
+  "id": "conv_08826",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 装丁/通信員/前倒し/相殺/概説/差し引い/値下がり/後ろ向き",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "装丁",
+    "通信員",
+    "前倒し",
+    "相殺",
+    "概説",
+    "差し引い",
+    "値下がり",
+    "後ろ向き"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_443 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社史の装丁を上質にしろ",
+      "en": "Make sure the company history is bound with quality materials.",
+      "style": "Direct, measured tone. Clipped consonants on key words. Expectant pause after the statement—this is an instruction, not a request.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外通信員からの報告を整理しました",
+      "en": "Yes. I've organized the reports from our overseas correspondents.",
+      "style": "Respectful efficiency. Clipped affirmative. Even delivery—competent, unburdening the boss of details. No apology in the voice.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、納期を前倒しできるか検討しろ",
+      "en": "Look into whether we can move up the deadline.",
+      "style": "Measured authority. Slight emphasis on 「前倒し」equivalent—accelerating. Not a suggestion. Short, commanding syntax.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様との損益を相殺で処理いたします",
+      "en": "Yes. I'll offset the profit and loss figures with our preferred clients.",
+      "style": "Professional acknowledgment. Slightly faster pace—showing competence. Precision in delivery. No hesitation.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プレゼンの冒頭で当社概説を入れろ",
+      "en": "Put a company overview at the start of the presentation.",
+      "style": "Crisp instruction. Weight on the opening—it matters. Brief. Exacting tone, as though expecting it was already obvious.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。原価を差し引いた利益を計算しました",
+      "en": "Yes. I've calculated the profit after deducting costs.",
+      "style": "Brief, assured. Professional momentum. Shows the work is done. Steady eye contact in the voice—nothing left unsaid.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、株式値下がりに備えろ",
+      "en": "Prepare the company for a potential stock decline.",
+      "style": "Measured, foresighted. No alarm—this is practical risk management. Steady tone. Weight on 「備える」—concrete preparation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。後ろ向きな見通しを社員に伝えないよう注意します",
+      "en": "Yes. I'll make sure not to convey pessimistic projections to the staff.",
+      "style": "Respectful assurance. Slight emphasis on the caution—understanding the responsibility. Professional finality. This is the last thing said.",
+      "mood": "compliant"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "conv_01651",
+  "context": "Sho-young trips and skins his knee at the park; Daichi quickly helps.",
+  "purpose": "Father consoling injured child gently.",
+  "ambient": "park_breeze_concerned",
+  "sound_effects": [],
+  "target_vocab": [
+    "転倒",
+    "膝",
+    "痛い",
+    "泣く"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、転倒した!",
+      "en": "Dad — I fell!",
+      "style": "Immediate catch of breath. Trembling voice on the announcement, like he's run to tell you before the pain really hits. Quiet, needing reassurance more than sympathy.",
+      "mood": "hurt_urgent"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "膝、見せてみ。",
+      "en": "Let me see your knee.",
+      "style": "Quick, grounded Kansai accent underneath. Gentle hands in the voice. Not panicking—checking, assessing, protecting. The steady adult-ness that makes a child feel held.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "痛い、めっちゃ痛い!",
+      "en": "It really hurts!",
+      "style": "Voice cracks slightly on \"really.\" Not full tears yet, but close—the thin edge of a child's pain threshold. Small and urgent, needing confirmation that the hurt is allowed.",
+      "mood": "scared_hurting"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "泣くな、すぐ治るで。",
+      "en": "Hey, you're okay — it'll feel better soon.",
+      "style": "Soft Kansai warmth. Casual reassurance without dismissal. The kind of father-voice that says 'I see it and it's manageable.' Steady enough that the fear becomes smaller.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る。",
+      "en": "Yeah, I'll be brave.",
+      "style": "Quiet determination. Still shaky but rallying. The small, genuine courage of a child who trusts the adult. Trailing upward slightly, like a question he's asking himself as much as answering.",
+      "mood": "brave_trying"
+    }
+  ]
+}

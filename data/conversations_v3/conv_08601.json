@@ -1,0 +1,86 @@
+{
+  "id": "conv_08601",
+  "context": "Mom and son chat",
+  "purpose": "Teach: あいかわらず/おまかせ/さがし/わかれ/しるし/さながら/すごし/段々",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "あいかわらず",
+    "おまかせ",
+    "さがし",
+    "わかれ",
+    "しるし",
+    "さながら",
+    "すごし",
+    "段々"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんはあいかわらずお元気よ",
+      "en": "Sho, Grandpa's doing as well as ever.",
+      "style": "Warm, conversational opening. Gentle reassurance in her tone. A small smile in her voice—the kind of thing you say to a child who worries about the people he loves.",
+      "mood": "affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日のおやつ、ママのおまかせでいいよ",
+      "en": "Mom, can I just have whatever you decide for today's snack?",
+      "style": "Bright and eager, trusting. No hesitation. The confidence of a child who knows his mother's choices are safe. Quick pace, open.",
+      "mood": "eager_trusting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんのお仕事道具をさがしてあげてね",
+      "en": "Sho, could you help Dad find his work things?",
+      "style": "Practical, warm redirect. Matter-of-fact but not rushed. The tone of someone asking a favor they know he's ready for. A small vote of confidence wrapped in an everyday request.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達とわかれる時、寂しかったよ",
+      "en": "Mom, I felt lonely when I had to say goodbye to my friend today.",
+      "style": "Quiet and tentative. Testing whether it's okay to say this out loud. Small voice, careful. The honesty of a young child who trusts but isn't quite sure if his sadness is allowed.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ご褒美のしるしにシール貼りましょうね",
+      "en": "Sho, let's put a sticker on your chart as a reward, shall we?",
+      "style": "Gentle and encouraging. Warm without being theatrical. The practicality of turning sadness into something small and concrete—a sticker, a mark of progress. Soft, present.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんの大きな手がさながら宝物のようだったよ",
+      "en": "Mom, Dad's big hands felt like treasure to me.",
+      "style": "Soft and reverent. Speaking slowly, as if the words are delicate. Not childish wonder—something deeper. The kind of quiet that shows he's been thinking about this.",
+      "mood": "tender_awed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんはお元気にすごしてらっしゃるわ",
+      "en": "Sho, Grandma's doing well and keeping busy.",
+      "style": "Steady, reassuring. The warm competence of a mother updating her child on the people who matter. No urgency—just presence. Like she's sitting across from him and he can trust every word.",
+      "mood": "steady_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ピアノが段々上手になってきたよ",
+      "en": "Mom, I'm getting better at piano, little by little.",
+      "style": "Quiet pride. Not boasting—more a private satisfaction he's sharing. A small lift at the end, like he's offering her something he's worked for. Genuine.",
+      "mood": "proud"
+    }
+  ]
+}

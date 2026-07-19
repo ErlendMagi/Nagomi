@@ -1,0 +1,78 @@
+{
+  "id": "conv_04589",
+  "context": "A uni student interviews a retired executive about associations",
+  "purpose": "Teach: 入会/申し出/任命/協同/商法/商工/労使/単行本",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "入会",
+    "申し出",
+    "任命",
+    "協同",
+    "商法",
+    "商工",
+    "労使",
+    "単行本"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_231 workflow wr0604mks)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。退職後に商工会議所の役員に任命されたと伺いましたが、入会のきっかけは何でしたか。",
+      "en": "Thank you for your time today. I heard you were appointed as an officer of the Chamber of Commerce after retirement—what led you to join?",
+      "style": "Polite, slightly nervous student opening a formal interview."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、こちらこそ。実はね、現役時代の同僚から「ぜひ入会してほしい」という申し出があったんだよ。断る理由もなかったしね。",
+      "en": "No, no, the pleasure is mine. Actually, a former colleague from my working days made an offer saying he really wanted me to join. I had no reason to refuse.",
+      "style": "Warm, relaxed elder reminiscing with a soft chuckle."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。商工会議所のほかにも、協同組合のような団体に関わっていらっしゃるんですか。",
+      "en": "I see. Besides the Chamber of Commerce, are you also involved with organizations like cooperative associations?",
+      "style": "Curious follow-up, leaning forward with notebook ready and pen poised."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、地元の協同組合の顧問もしているよ。中小企業を支える仕組みは、若い君たちにこそ知ってほしいねえ。",
+      "en": "Ah, yes, I also serve as an advisor for the local cooperative association. I'd really like young people like you to learn about systems that support small businesses.",
+      "style": "Gently encouraging, almost grandfatherly tone, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。大学の授業で商法を学んでいるのですが、労使関係についてはあまり触れられなくて。実務ではどうでしたか。",
+      "en": "Thank you. I've been studying commercial law in my university classes, but we don't cover labor-management relations much. How was it in actual practice?",
+      "style": "Earnest student steering toward academic curiosity."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "教科書ではきれいに書かれているけれど、労使の交渉は本当に泥臭いものだったよ。毎晩、夜遅くまで話し合ったこともあった。",
+      "en": "It's written neatly in textbooks, but labor-management negotiations were truly gritty work. There were nights we talked until very late.",
+      "style": "Reflective, voice lowering with the weight of memory."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話ですね。そのご経験を単行本にまとめるご予定はないんですか。ぜひ読んでみたいです。",
+      "en": "What a valuable story. Do you have any plans to compile your experiences into a book? I'd really love to read it.",
+      "style": "Genuine enthusiasm, eyes brightening at the idea."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "はは、出版社からも声はかかったんだがね、自分の話を単行本にするのは、なんだか照れくさくてさ。でも、君のような学生がいるなら、考え直してみようかな。",
+      "en": "Haha, a publisher did approach me, but turning my own story into a book feels a bit embarrassing. Still, if there are students like you, maybe I'll reconsider.",
+      "style": "Bashful but pleased, laughing softly at himself."
+    }
+  ]
+}

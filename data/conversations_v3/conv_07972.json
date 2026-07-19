@@ -1,0 +1,86 @@
+{
+  "id": "conv_07972",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 照らし/記さ/屈し/残留/広範囲/生じる/通念/護衛",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "照らし",
+    "記さ",
+    "屈し",
+    "残留",
+    "広範囲",
+    "生じる",
+    "通念",
+    "護衛"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、街灯が照らした通りを警察、捜査しております",
+      "en": "We're currently investigating the street that was lit by the streetlights.",
+      "style": "Measured, official opening. Slight pause after the fact statement. Even pace. Respectful tone—informing without lecturing. Voice stays level.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、記された手書きメモを警察、解読されたんですね",
+      "en": "So the police have already decoded the handwritten notes found at the scene?",
+      "style": "Genuine curiosity, not challenging. Voice lifts slightly at the question. Leans forward slightly. Thoughtful pause before speaking—he's processing what this means.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者が屈した取調べを警察、進めました",
+      "en": "We've advanced the interrogation with the suspect to that point.",
+      "style": "Factual, measured. No tone shift. Steady pace. Professional distance maintained. Voice neither accelerates nor softens—just clear reporting.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、現場に残留した毛髪を警察、鑑定されたんですね",
+      "en": "So the police have also examined the hair samples left at the scene?",
+      "style": "Quiet realization dawning. Slower pace. Gentle curiosity—not pressing, observing. Slight lift at the end of the question. He's connecting pieces aloud.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、広範囲の捜索を続けております",
+      "en": "We're continuing a wide-range search of the area.",
+      "style": "Calm, steady statement. Professional rhythm. No urgency in the delivery—just factual continuation. Voice remains composed and measured throughout.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者に生じる影響を警察、配慮されているそうですね",
+      "en": "I hear the police are being thoughtful about the impact this has on the victim as well.",
+      "style": "Soft, careful phrasing. Slower pace. Voice carries warmth—acknowledging humanity in procedure. Slight hesitation before 'impact,' checking for sensitivity.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、社会通念に反する行為を摘発いたします",
+      "en": "The police will take action against any conduct that violates public standards.",
+      "style": "Formal, resolute opening. Voice carries weight without aggression. Measured pace. This is a statement of principle—steady and clear.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "要人の護衛、警察、強化いただきありがたいです",
+      "en": "We're grateful that the police have strengthened their protection for the VIP.",
+      "style": "Warm, sincere gratitude. Voice softens. Slower pace. Genuine relief underneath. Not effusive—just honest appreciation for reassurance.",
+      "mood": "relieved_grateful"
+    }
+  ]
+}

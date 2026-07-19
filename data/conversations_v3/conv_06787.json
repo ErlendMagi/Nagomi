@@ -1,0 +1,86 @@
+{
+  "id": "conv_06787",
+  "context": "Two managers chat",
+  "purpose": "Teach: 会計士/生み出さ/染色/カスタム/補修/公約/不透明/枚数",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "会計士",
+    "生み出さ",
+    "染色",
+    "カスタム",
+    "補修",
+    "公約",
+    "不透明",
+    "枚数"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_341 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "公認会計士、外部監査、もうすぐ、始まりますね。",
+      "en": "The certified audit will be starting soon.",
+      "style": "Calm, factual opening. Matter-of-fact tone without urgency. Measured pace. A statement of procedure, not performance. Eyes on the calendar.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品、生み出された経緯、社員にも、紹介します。",
+      "en": "Right. We'll walk the team through how the new product came together.",
+      "style": "Affirming nod in the voice. Steady, collaborative tone. No rush. Each phrase lands clearly. Agreeing to the plan as stated.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "染色のサンプル、最新のもの、提示してね、お客様に。",
+      "en": "Make sure you show the clients the latest dye samples.",
+      "style": "Direct but not sharp. Specific instruction delivered with quiet authority. Brief, expectant pause before the period. Assumes competence.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。カスタムオーダー、対応スタッフ、増員予定です。",
+      "en": "Got it. We're planning to bring on more staff to handle custom orders.",
+      "style": "Confirmatory tone. Light emphasis on the expansion detail—it's the newsworthy part. Steady delivery. Professional but engaged.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本社、長年の補修箇所、来期、まとめて、対応しましょう。",
+      "en": "Let's consolidate the maintenance work at headquarters during the next fiscal year.",
+      "style": "Gentle directive phrased as collaborative. 'Let's' carries inclusion. Practical tone. No dramatics—this is a sensible plan being stated aloud.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経営陣の公約、来年度の予算で、実現に向けます。",
+      "en": "Understood. We'll make it happen with next year's budget allocation.",
+      "style": "Committed affirmation. Slight warmth—showing alignment with leadership. Professional confidence without overstatement. Eyes forward.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "業界の先行き、不透明な時代こそ、強気で、いきましょう。",
+      "en": "Now more than ever, when the industry's so uncertain, we need to move forward with confidence.",
+      "style": "Measured conviction. Opens with calm certainty, builds gentle momentum toward resolve. Steady eye contact. This is Yuki anchoring the moment—not pushing, steadying.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。報告書、枚数、過去最少、を、目指します。",
+      "en": "Absolutely. We'll aim to make this the leanest report we've ever filed.",
+      "style": "Enthusiastic agreement. Light lift on 'leanest'—a small win to underscore. Engaged but professional. The closing note of a well-aligned conversation.",
+      "mood": "determined"
+    }
+  ]
+}

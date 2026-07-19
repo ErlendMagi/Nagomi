@@ -1,0 +1,65 @@
+{
+  "id": "conv_05790",
+  "context": "A boss mentors a uni intern on sportswriting",
+  "purpose": "Teach: イチロー/ホンダ/野村/三浦/岡本/宮本/上田/松田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "イチロー",
+    "ホンダ",
+    "野村",
+    "三浦",
+    "岡本",
+    "宮本",
+    "上田",
+    "松田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、スポーツ取材、イチロー級は別格として、地道に取材力を鍛えろ。",
+      "en": "Ren, with sports reporting—Ichiro-class talent is rare. Build your craft through steady, unglamorous work.",
+      "style": "Measured, direct. Leans forward slightly on 'steadily.' The tone of someone passing on hard-won wisdom, not lecturing. Warm conviction underneath the instruction.",
+      "mood": "mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ホンダ系のレーシングチーム、来週インタビュー予定です。",
+      "en": "Yes. I have a Honda racing team interview scheduled for next week.",
+      "style": "Brisk, eager. Sits up straighter. Each phrase is clean and prepared—he's thought about this. Respectful but genuine, not performing deference.",
+      "mood": "focused_eager"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "野村元監督、御縁あるから紹介できる。",
+      "en": "Former coach Nomura—I have a connection. I can introduce you.",
+      "style": "Casual confidence, almost offhand. Light tap on the offer—not calling attention to the gift being given. The ease of someone who makes these connections quietly.",
+      "mood": "generous"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "三浦投手、岡本選手も、若手特集で取り上げたいです。",
+      "en": "Pitcher Miura, outfielder Okamoto—I want them for the youth feature.",
+      "style": "Rapid-fire, building energy. Specific, not vague. The brightness of ambition; he's already seeing the piece. Slight lean forward on the names.",
+      "mood": "ambitious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "宮本キャプテン、上田コーチ、松田ベテラン、それぞれの視点を取れ。",
+      "en": "Captain Miyamoto, Coach Ueda, veteran Matsuda—get the angle from each of them.",
+      "style": "Calm, deliberate list. Slight pause between names—giving each weight. Teaching him to think in layers, not headlines. The voice of someone who knows these people matter.",
+      "mood": "teaching"
+    }
+  ]
+}

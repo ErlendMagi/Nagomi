@@ -1,0 +1,78 @@
+{
+  "id": "conv_04098",
+  "context": "A teacher and student review the school website together",
+  "purpose": "Teach: メールアドレス/開示/閲覧/オプション/機種/無線/等々/目次",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "メールアドレス",
+    "開示",
+    "閲覧",
+    "オプション",
+    "機種",
+    "無線",
+    "等々",
+    "目次"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "じゃあ、学校のサイトを一緒に見てみましょう。まずトップの目次から確認しますね。",
+      "en": "Alright, let's look at the school website together. First, let's check the table of contents at the top.",
+      "style": "Calm teacher voice guiding a student through a webpage review session."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。あ、ここに「保護者向け閲覧ページ」ってありますけど、これって誰でも見られるんですか?",
+      "en": "Okay. Oh, there's a 'parent viewing page' here — can anyone see it?",
+      "style": "Curious teenage student asking a polite but inquisitive clarifying question."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいえ、登録したメールアドレスでログインした人だけです。個人情報の開示には注意が必要なので。",
+      "en": "No, only people who log in with a registered email address. We have to be careful about disclosing personal information.",
+      "style": "Measured explanatory tone emphasizing privacy rules and digital responsibility carefully."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。あと、スマホで開くと表示が崩れるんですけど、機種によって違うんですかね?",
+      "en": "I see. Also, when I open it on my phone, the layout breaks — does it depend on the device model?",
+      "style": "Slightly frustrated teen voice describing a real technical problem she encountered."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうなんです。古い機種だと崩れることがあって、無線LANの速度も影響しますよ。",
+      "en": "Exactly. Older models sometimes break the layout, and Wi-Fi speed also affects it.",
+      "style": "Knowledgeable but approachable teacher tone explaining technical limitations to a student."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ、設定のオプションでフォントサイズとか変えられたら便利ですね。",
+      "en": "Then it would be convenient if we could change things like font size in the settings options.",
+      "style": "Bright suggestive teen voice offering a thoughtful user-experience improvement idea."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい意見ですね。ダークモード、文字拡大、読み上げ機能等々、生徒の声を業者に伝えてみます。",
+      "en": "That's a good point. Dark mode, larger text, read-aloud features, and so on — I'll pass the students' feedback to the vendor.",
+      "style": "Encouraging warm tone praising the student's input and promising follow-up action."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます!じゃあ私、目次に戻ってもう一回ざっと見てみますね。",
+      "en": "Thank you! Then I'll go back to the table of contents and skim through it once more.",
+      "style": "Cheerful grateful teen voice wrapping up with proactive follow-through energy."
+    }
+  ]
+}

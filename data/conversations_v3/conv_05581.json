@@ -1,0 +1,72 @@
+{
+  "id": "conv_05581",
+  "context": "Two cafe friends gossip about relationships",
+  "purpose": "Teach: ギャップ/育ち/不信/浮気/大騒ぎ/おいしかっ/おいしく/怒る",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "ギャップ",
+    "育ち",
+    "不信",
+    "浮気",
+    "大騒ぎ",
+    "おいしかっ",
+    "おいしく",
+    "怒る"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨日のディナー、彼との会話のギャップに驚いた。",
+      "en": "Last night at dinner, I was struck by how much we weren't on the same page.",
+      "style": "Quiet, searching. Exhales the weight of it on 'dinner.' Hesitant, like she's still processing the hurt. Gentle downslope at the end.",
+      "mood": "unsettled"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "育ちが違うと、価値観も違うよね。",
+      "en": "Growing up in different worlds—it shapes how you see things, doesn't it.",
+      "style": "Thoughtful, understanding nod in the voice. Not lecturing—recognizing. Warm acknowledgment of something true. Slight pause before the question, like inviting her to sit with the idea.",
+      "mood": "knowing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "浮気の噂もあるみたいで、ちょっと不信に陥ってる。",
+      "en": "And there are these rumors about him seeing someone else. I don't know what to believe.",
+      "style": "Tremor of vulnerability underneath. Words come slower. Slight break on 'someone else'—testing how it sounds out loud. Trailing into uncertainty.",
+      "mood": "shaken"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "怒るより、事実確認が先よ。",
+      "en": "Get the facts straight first. Getting angry can wait.",
+      "style": "Firmer than before. Clear-eyed practicality. Leans forward slightly in the voice—not unkind, but cutting through. Matter-of-fact and grounding.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨日のパスタは、おいしかったから救われた気がする。",
+      "en": "The pasta was so good, though. That part at least didn't disappoint me.",
+      "style": "Small, almost-laugh in the voice. Finding the smallest solid thing to hold onto. Wry but not bitter—just tired recognition that even bad nights have one good bite.",
+      "mood": "weary_wry"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今度、私がおいしく淹れたコーヒーで、大騒ぎせず話し合おう。",
+      "en": "Next time, sit down over coffee I've made—good coffee—and just talk. No drama, no running away from it.",
+      "style": "Warm, gentle offer. Speaks from her own knowing—the safety of ritual, of presence. The 'good coffee' is both literal and a small metaphor for care. Steady and true.",
+      "mood": "protective"
+    }
+  ]
+}

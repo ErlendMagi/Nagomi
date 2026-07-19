@@ -1,0 +1,89 @@
+{
+  "id": "conv_03181",
+  "context": "A handmade-goods stall opening for the day at an outdoor market",
+  "purpose": "Sell handmade items; teach 売り/つくる/わずか/最低/トラブル/売る/売っ",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "売り",
+    "つくる",
+    "最低",
+    "わずか",
+    "トラブル",
+    "売る",
+    "売っ"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "今日の売り場、ええ感じに並んだわ。",
+      "en": "The stall came together nicely today.",
+      "style": "satisfied Kansai craftsman surveying his morning setup"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "この小物、全部手でつくるんですか？",
+      "en": "You make all these little things by hand?",
+      "style": "genuinely curious helper admiring the goods"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "そうや、一個ずつ自分でつくるから時間かかんねん。",
+      "en": "Yep, I make each one myself, so it takes time.",
+      "style": "proud but matter-of-fact about the slow craft"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "値段は最低でもどれくらいですか？",
+      "en": "What is the lowest the prices go?",
+      "style": "practical assistant checking the pricing range"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "最低五百円やな。それ以下やと赤字や。",
+      "en": "Five hundred yen minimum. Below that I lose money.",
+      "style": "firm shopkeeper drawing a hard pricing line"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "昨日は何かトラブルありました？",
+      "en": "Did anything go wrong yesterday?",
+      "style": "checking in carefully about the previous day"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "いや、わずかな釣り銭ミスだけや。大したことない。",
+      "en": "No, just a tiny change mistake. Nothing big.",
+      "style": "breezily dismissing a small trouble as trivial"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "じゃあ今日もたくさん売りましょう。",
+      "en": "Then let us sell a lot again today.",
+      "style": "cheerful and motivated to start the day"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おう、売れ筋から売っていこか。",
+      "en": "Sure, let us start with the best sellers.",
+      "style": "energetic Kansai owner ready to move stock"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "この棚のは全部、夕方までに売るで。",
+      "en": "Everything on this shelf, I will sell by evening.",
+      "style": "confident goal-setting for the day ahead"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02473",
+  "context": "Yuki and Kenji finalize an event schedule.",
+  "purpose": "WIDENED SCENARIO: event planning; time vocabulary (時刻/開始/終了/同時に) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "時刻",
+    "開始",
+    "終了",
+    "同時に",
+    "現在"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_124)",
+    "generated_at": "2026-05-29T12:51:41.976Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "開始の時刻は、決まりましたか?",
+      "en": "Has the start time been decided?",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現在、午前十時で調整しています。",
+      "en": "Currently, we're arranging for 10 a.m.",
+      "style": "clear office man voice, soft warm focused delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "終了の時刻は、何時頃ですか?",
+      "en": "Around what time does it end?",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "終了は、午後三時の予定です。",
+      "en": "It's scheduled to end at 3 p.m.",
+      "style": "precise office man voice, soft warm focused delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "受付は、開始と同時に始めますか?",
+      "en": "Does reception start at the same time as the opening?",
+      "style": "thoughtful office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、開始の三十分前に始めます。",
+      "en": "No, it starts thirty minutes before.",
+      "style": "clear office man voice, soft warm focused delivery throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "二つの会場で、同時に進めるんですね。",
+      "en": "So we run two venues simultaneously.",
+      "style": "understanding office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、現在、人員を確認中です。",
+      "en": "Yes, we're currently checking staffing.",
+      "style": "reliable office man voice, soft warm closing delivery throughout"
+    }
+  ]
+}

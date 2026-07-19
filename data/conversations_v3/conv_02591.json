@@ -1,0 +1,75 @@
+{
+  "id": "conv_02591",
+  "context": "Kenji helps Yuki connect to the office network.",
+  "purpose": "WIDENED SCENARIO: IT help; tech vocabulary (ネットワーク/デジタル/ソフト/コンピュータ/チェック) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ネットワーク",
+    "デジタル",
+    "ソフト",
+    "コンピュータ",
+    "チェック"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "コンピュータが、ネットワークに繋がらないの。",
+      "en": "My computer won't connect to the network.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、ネットワークの設定をチェックしましょう。",
+      "en": "First, let's check the network settings.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "チェックしたら、繋がりました!",
+      "en": "After checking, it connected!",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "このソフトも、入れておきましょう。",
+      "en": "Let's install this software too.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "デジタルの書類は、ここに保存?",
+      "en": "Do I save digital documents here?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、デジタルで保存すれば安心です。",
+      "en": "Yes, saving digitally is safe.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ソフトの使い方も、覚えなきゃ。",
+      "en": "I have to learn how to use the software.",
+      "style": "earnest office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピュータは、慣れれば簡単ですよ。",
+      "en": "Computers are easy once you get used to them.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

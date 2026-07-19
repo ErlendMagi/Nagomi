@@ -1,0 +1,86 @@
+{
+  "id": "conv_10400",
+  "context": "Mom and son chat",
+  "purpose": "Teach: キャロル/スクルージ/兵衛/モモ/ポップス/社民党/アントニオ/ピエール",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "キャロル",
+    "スクルージ",
+    "兵衛",
+    "モモ",
+    "ポップス",
+    "社民党",
+    "アントニオ",
+    "ピエール"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_521 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがクリスマス・キャロルの本を読んで下さるそうよ",
+      "en": "Sho, your dad's going to read you A Christmas Carol.",
+      "style": "Warm announcement, gentle lift on the boy's name. Pleased about the father-son moment ahead. Relaxed pace, natural cadence of a mother sharing good news with her child.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとスクルージのドキュメンタリー観たよ",
+      "en": "Mom, I watched a Scrooge documentary with Dad!",
+      "style": "Bright immediate energy, genuine excitement without performing it. Quick tempo on the first sentence. Small, real laugh underneath. Pride in sharing what he did with Dad.",
+      "mood": "proud_delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「兵衛」って古い呼び名を教えて下さったわ",
+      "en": "Sho, your father taught you that old name—Heibei, wasn't it?",
+      "style": "Soft, slightly wondering tone. A pause before the old name, like she's remembering it herself. Gentle approval of the moment. Reflective, not rushed.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとモモのケーキ食べたよ",
+      "en": "Mom, Dad and I ate peach cake together!",
+      "style": "Earnest, unguarded happiness. Bounces slightly on the shared memory. Simple, direct delivery—no flourish needed. Small satisfied smile in the voice.",
+      "mood": "joyful_simple"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが懐かしいポップスを流して下さったわ",
+      "en": "Sho, your father played some old pop songs for you.",
+      "style": "Nostalgic softness. Slight wistfulness—she's thinking of the melody, the moment. Slower, almost sighing quality. Gentle wonder at the gift of that memory.",
+      "mood": "nostalgic_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと社民党のニュース観たよ",
+      "en": "Mom, I watched the news about the Social Democratic Party with Dad.",
+      "style": "Matter-of-fact, no particular inflection. Child reporting what happened without editorializing. Straightforward, observant tone. Mild curiosity, not excitement.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがアントニオ・バンデラスの映画を観てらしたわ",
+      "en": "Sho, your father was watching an Antonio Banderas film.",
+      "style": "Casual observation, slightly amused. Small smile in her voice at the specific detail. Light, offhand delivery—she's noting what he was doing. Not particularly invested but noticing.",
+      "mood": "amused_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとピエール・ローティの小説の絵本見たよ",
+      "en": "Mom, we looked at a picture book based on a Pierre Loti novel with Dad.",
+      "style": "Pleased, proud of remembering the author's name. Warm closure to the list of shared moments. Soft, satisfied ending—the 'we' carries contentment. Slight trailing warmth.",
+      "mood": "proud_warm"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_05295",
+  "context": "A doctor explains medical history facts to a curious teen",
+  "purpose": "Teach: 東部/神戸大/人事院/十字架/日月/智/峰/陰謀",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "東部",
+    "神戸大",
+    "人事院",
+    "十字架",
+    "日月",
+    "智",
+    "峰",
+    "陰謀"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_266 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、東部の医学校で十九世紀に伝染病対策が始まったのを知ってる?",
+      "en": "Sakura, did you know that epidemic control started at a medical school in the eastern region back in the nineteenth century?",
+      "style": "Warm, conversational opening. Leans in slightly with genuine curiosity. Measured pace, inviting her to follow. The tone of someone who loves sharing history with an engaged listener.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "神戸大が前身だったって、保健の授業で聞きました。",
+      "en": "I heard in health class that Kobe University was its predecessor.",
+      "style": "Bright, attentive response. Sits forward slightly. Quick but not rushed — showing she's been listening and eager to connect the dots. A little pride in having the piece of the puzzle.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "人事院ができる前から、軍医の派遣体制が整っていたんです。",
+      "en": "Even before the personnel board was established, the military medical dispatch system was already in place.",
+      "style": "Settled, didactic but not condescending. Speaks as one who trusts her to absorb complexity. Steady rhythm. The slight pause before 'dispatch system' — letting the scope of it settle.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "十字架マークの救護所って、ヨーロッパからの輸入文化ですよね。",
+      "en": "The cross-marked aid stations came from Europe, didn't they? That was imported culture.",
+      "style": "Quick, genuine question — not performative. A small lift at the end, checking her thinking aloud. Unselfconscious, the way curious people ask things they're working through.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その通り。日月の運行に合わせて感染症の発生時期を予測する地域もありました。",
+      "en": "Exactly right. Some regions even predicted when epidemics would strike by tracking the cycles of the sun and moon.",
+      "style": "Pleased affirmation. A light nod in the voice. Speaks the fact like a gift being unwrapped. The rhythm opens up slightly — giving her room to sit with how remarkable this is.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "峰を越えた村まで救護に行く話、智の結晶ですね。",
+      "en": "The stories of aid workers crossing mountain peaks to reach remote villages — that's the crystallization of wisdom, isn't it?",
+      "style": "Soft, reverent. Eyes brightening. The words come slower here, almost tender. She's moved by something genuine, not performing depth. A small breath before 'wisdom' — the weight of it.",
+      "mood": "moved_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まさに。陰謀論で語られる時代もあったけれど、丁寧に資料を読むと見えてくる。",
+      "en": "Precisely. There were eras when it got twisted into conspiracy theories, but when you read the sources carefully, the truth emerges.",
+      "style": "Quiet conviction. Speaking from lived experience of separating noise from fact. Measured, unhurried. The final sentence carries gentle authority — not lecturing, simply the voice of someone who has done the work of understanding.",
+      "mood": "wise_settled"
+    }
+  ]
+}

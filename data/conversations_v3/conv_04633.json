@@ -1,0 +1,84 @@
+{
+  "id": "conv_04633",
+  "context": "A police officer briefs a teen reporter on a community case",
+  "purpose": "Teach: 国王/戦士/法曹/国庫/連帯/募金/カトリック/中毒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国王",
+    "戦士",
+    "法曹",
+    "国庫",
+    "連帯",
+    "募金",
+    "カトリック",
+    "中毒"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は先月の事件についてご説明します。被害者支援のための募金活動も始まっています。",
+      "en": "Today I'll explain last month's case. A fundraising drive to support the victims has also begun.",
+      "style": "Calm, official briefing tone with measured pacing."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "学校新聞で取り上げたいんです。容疑者についてもう少し教えていただけますか?",
+      "en": "I'd like to cover it in the school paper. Could you tell me a bit more about the suspect?",
+      "style": "Polite teenage reporter, notebook ready, respectful curiosity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者は薬物中毒の状態で発見され、保護されました。治療が長く必要な状況です。",
+      "en": "The suspect was found in a state of drug addiction and taken into protective custody. He needs lengthy treatment.",
+      "style": "Grave, factual delivery, slowing on sensitive nouns."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "治療費は誰が払うんですか? ご家族の負担になるんでしょうか。",
+      "en": "Who pays for the treatment? Does the burden fall on his family?",
+      "style": "Soft, concerned, slightly hushed teenage voice."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "一部は国庫から支出され、残りは地域の連帯による寄付で賄われています。近所のカトリック教会も支援に加わっています。",
+      "en": "Part is paid from the national treasury, and the rest is covered by donations born of community solidarity. The nearby Catholic church has also joined in supporting it.",
+      "style": "Steady, informative, with quiet civic pride."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "教会まで動いているんですね。弁護はどなたが担当しているんですか?",
+      "en": "Even the church is involved. Who is handling the legal defense?",
+      "style": "Genuinely surprised, leaning forward with attentive interest."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "法曹界の有志が無償で弁護に当たっています。被害者と加害者、双方の人権を守るためです。",
+      "en": "Volunteers from the legal community are providing pro bono defense. It's to protect the human rights of both the victims and the accused.",
+      "style": "Sober respect underlying a steady official tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そういえば、社会科で習った戦士みたいですね。昔の国王の時代に弱い人を守った人たちです。",
+      "en": "Come to think of it, they're like the warriors we studied in social studies, the ones who protected the weak in the age of the old kings.",
+      "style": "Thoughtful teenage observation, drawing on classroom knowledge."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "面白い見方ですね。記事にする時は、ぜひ募金の輪が広がるよう書いてください。",
+      "en": "That's an interesting angle. When you write the article, please word it so the circle of donations can spread.",
+      "style": "Gentle, encouraging close from the seasoned officer."
+    }
+  ]
+}

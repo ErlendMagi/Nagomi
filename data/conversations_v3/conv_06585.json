@@ -1,0 +1,86 @@
+{
+  "id": "conv_06585",
+  "context": "A uni student and friend chat",
+  "purpose": "Teach: この方/にくかっ/歩か/外さ/謝る/ムカ/トシ/探り",
+  "ambient": "park_distant_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "この方",
+    "にくかっ",
+    "歩か",
+    "外さ",
+    "謝る",
+    "ムカ",
+    "トシ",
+    "探り"
+  ],
+  "cast": [
+    "ren_uni",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "蓮さん、この方、ゼミの先生?",
+      "en": "Ren — is this person your seminar professor?",
+      "style": "Gentle curiosity, warm and observant. A question asked without pressure. Noticing a detail about him. Soft, interested.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん。難しい論文、初めは、読みにくかったよ。",
+      "en": "Yeah. The papers are difficult — took me a while to get through them at first.",
+      "style": "Thoughtful, slightly rueful. Not complaining, just being honest about the learning curve. A small nod to his own effort. Quiet reflection.",
+      "mood": "honest_tired"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "徹夜明け、無理に歩かない方がいいですよ。",
+      "en": "You shouldn't push yourself to walk around after pulling an all-nighter. You need rest.",
+      "style": "Steady and gentle, genuinely concerned but not fussy. Speaking from care, not alarm. A soft directive that expects listening.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん。眼鏡、外さないで、論文書き続けたんだ。",
+      "en": "Yeah. I didn't even take my glasses off — just kept writing the whole time.",
+      "style": "Self-deprecating, a bit wry. Admitting something slightly ridiculous about himself without making it a big deal. Almost amused at his own stubbornness.",
+      "mood": "wry_sheepish"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "指導教官に、遅刻、ちゃんと謝るんですよね。",
+      "en": "You are going to apologize properly to your adviser about being late, right?",
+      "style": "Gentle probe, checking in. Not skeptical, but making sure he's thought it through. A soft insistence wrapped in care. Slightly knowing.",
+      "mood": "gentle_checking"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "査読のコメント、たまにムカつくのもあるんだよ。",
+      "en": "Some of the peer review comments are genuinely frustrating, you know?",
+      "style": "Admission of annoyance, but kept under the surface. A small laugh underneath. Wry and resigned — this is part of the process, but it stings anyway.",
+      "mood": "frustrated_wry"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "同期のトシさん、海外留学、決まったって。",
+      "en": "Your cohort-mate Toshi got his overseas study-abroad placement approved.",
+      "style": "Bright and generous, sharing good news about someone else. Effortless warmth. No edge underneath — genuine pleasure at someone's good fortune.",
+      "mood": "pleased_bright"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "資料の探りを入れる作業、地味だけど大事だよ。",
+      "en": "The research work — finding and vetting sources — it's unglamorous, but it matters.",
+      "style": "Thoughtful and grounding, speaking with quiet conviction. A reflective close that settles on something true. Steady, almost philosophical. Trailing off gently.",
+      "mood": "reflective_honest"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00673",
+  "context": "Sakura visits Saito for a pre-pregnancy checkup.",
+  "purpose": "small ongoing doctor-patient ahead of family-planning",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "家族",
+    "相談",
+    "感謝",
+    "将来"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_034)",
+    "generated_at": "2026-05-27T01:15:57.819Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "斎藤先生、こんにちは。",
+      "en": "Dr. Saito, hello.",
+      "style": "Warm, respectful greeting with genuine pleasure underneath. Soft attack. Steady pace, no rush. The tone of someone who trusts this person and wants her to know it.",
+      "mood": "warm_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、お元気そうで何より。何か、ご相談？",
+      "en": "Sakura-san, I'm glad you're doing well. Something on your mind?",
+      "style": "Professional warmth that isn't performed. Measured pace. Slight lean-in on the question — inviting without pushing. The ease of someone who has earned the right to ask.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "結婚してから、これから、家族のこと、考え始めてて。",
+      "en": "Since getting married, I've been starting to think about family — what comes next.",
+      "style": "Careful disclosure with genuine trust underneath. Slight hesitation at the opening, then steadier as she commits to saying it. Soft, honest. Not seeking reassurance yet, just naming it.",
+      "mood": "thoughtful_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、特に、問題ないですよ。ご相談、いつでも。",
+      "en": "Your health is fine — no concerns there. You can talk to me anytime about this.",
+      "style": "Clear and direct, but delivered with quiet care. Reassurance that doesn't minimize her question. The door stays open. Steady, authoritative but gentle.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "本当に、感謝しています。",
+      "en": "I'm really grateful.",
+      "style": "Quiet sincerity. Brief, but it lands. Soft close. The kind of thank-you that means something specific has just been understood.",
+      "mood": "grateful"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "conv_01908",
+  "context": "Hina-young helps Hiroshi-elder write a postcard to a relative.",
+  "purpose": "Teen patiently helping grandfather correspond.",
+  "ambient": "living_room_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "葉書",
+    "宛",
+    "切手",
+    "書く"
+  ],
+  "cast": [
+    "hina_child",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ひな、葉書、宛名、書いてくれる?",
+      "en": "Hina — would you write the address on this postcard for me?",
+      "style": "Slow, warm Kansai cadence. Gentle request phrased as question. Pauses between phrases. The kind grandfather who trusts her with the task.",
+      "mood": "gentle_trusting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "もちろん、おじいちゃん。",
+      "en": "Of course, Grandpa.",
+      "style": "Bright and immediate, eager to help. No hesitation. The warmth of a child who adores being asked to do something real.",
+      "mood": "delighted_helpful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "切手、ちゃんと貼って。",
+      "en": "Make sure you stick the stamp on properly.",
+      "style": "Soft instruction, not directive. Light warmth underneath — he's teaching, not testing. Kansai lilt on the trailing phrase.",
+      "mood": "instructive_warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい、こうですか?",
+      "en": "Yes — like this?",
+      "style": "Attentive and checking. Slightly uncertain but not anxious — wanting to do it right. Small eager energy in the question.",
+      "mood": "careful_engaged"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、お前、上手やな。",
+      "en": "Yeah — you're really good at this.",
+      "style": "Warm recognition, delivered with quiet pride. Slight Kansai warmth on the affirmation. Not over-praised, but genuinely seen.",
+      "mood": "proud_fond"
+    }
+  ]
+}

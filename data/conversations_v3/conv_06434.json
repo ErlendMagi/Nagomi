@@ -1,0 +1,86 @@
+{
+  "id": "conv_06434",
+  "context": "A boss reviews a case",
+  "purpose": "Teach: 探っ/効か/呪い/治っ/振ら/古今/身元/速攻",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "探っ",
+    "効か",
+    "呪い",
+    "治っ",
+    "振ら",
+    "古今",
+    "身元",
+    "速攻"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_323 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "競合の動向、地道に探っているか。",
+      "en": "Are you methodically tracking what the competitors are doing?",
+      "style": "Measured, direct question. Calm authority — not accusatory. Expects a straightforward answer. The tone of someone checking in, not interrogating.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告、効かないチャネルもあります。",
+      "en": "Yes. We've found that ads don't work in every channel.",
+      "style": "Steady, factual. Delivering information without hedging. Even pace, professional but not stiff. Slight emphasis on the practical reality beneath.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の呪いみたいな伝統、変えていこう。",
+      "en": "We need to break these old industry habits — they're holding us back.",
+      "style": "Firm conviction. Not angry, but decisive. Leans into 'break.' The tone of someone who has thought about this and decided. No apology in the delivery.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。クレーム、対応で治った事例、社内共有します。",
+      "en": "Yes. I'll compile the complaint cases we actually resolved and share them internally.",
+      "style": "Agreeing quickly, then pivoting to action. Brisk tempo. Shows he's already thinking ahead — not just receiving instruction but adding detail. Capable energy.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "市場、振らされない戦略を持て。",
+      "en": "Build a strategy that doesn't chase every market shift.",
+      "style": "Quiet but weighted. The pause before 'strategy' — letting the idea settle. Speaks from experience. Not harsh, but unmistakable: this matters.",
+      "mood": "steadfast"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。古今の競争事例、参考にします。",
+      "en": "Understood. I'll look at how competitors have handled this — past and present.",
+      "style": "Quick affirmation, then forward momentum. Lighter tempo than before — showing he understands the principle and is ready to move. Slight warmth breaking through the formality.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新人の身元、しっかり確認しろ。",
+      "en": "Verify new hires thoroughly. Don't skip it.",
+      "style": "Brief, direct imperative. Clipped at the edges. The tone shifts slightly — more personal weight here. This is non-negotiable, and he's making sure it lands.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。問題、速攻で対応する体制、整えます。",
+      "en": "Yes. I'll establish a system to respond to any issues immediately.",
+      "style": "Brisk acceptance. Cuts straight to the solution without filler. Pace quickens slightly — showing urgency is understood. Ends with quiet confidence, like he's already building it in his head.",
+      "mood": "committed"
+    }
+  ]
+}

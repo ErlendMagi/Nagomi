@@ -1,0 +1,77 @@
+{
+  "id": "conv_03211",
+  "context": "Two colleagues debrief after a campaign",
+  "purpose": "Debrief a campaign; teach 市内/赤字/外部/再度/づくり/お尋ね/自覚",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市内",
+    "赤字",
+    "外部",
+    "再度",
+    "づくり",
+    "お尋ね",
+    "自覚"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "市内キャンペーン、効果はどうでした？",
+      "en": "How did the in-city campaign perform?",
+      "style": "curious assistant seeking the results, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "集客は伸びたけど、赤字は埋まりきらない。",
+      "en": "Foot traffic rose, but it didn’t fill the deficit.",
+      "style": "realistic manager tempering the good news"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "外部の広告会社、費用が高くて。",
+      "en": "The outside ad agency was expensive.",
+      "style": "frank assistant flagging the cost, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "再度、予算を組み直す必要があるね。",
+      "en": "We need to rebuild the budget again.",
+      "style": "practical manager planning the next step"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "仕組みづくりが甘かったと反省しています。",
+      "en": "I regret that the system-building was weak.",
+      "style": "self-critical assistant taking responsibility, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "顧客との関係づくりも長期で考えよう。",
+      "en": "Let us think of customer relationship-building long-term.",
+      "style": "thoughtful manager widening the horizon, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "部長にお尋ねしてから進めます。",
+      "en": "I will ask the director before proceeding.",
+      "style": "careful assistant respecting the chain, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お互い、責任の自覚を持って取り組もう。",
+      "en": "Let us both work with a sense of responsibility.",
+      "style": "collegial manager fostering shared resolve, delivery emotionally grounded and unforced"
+    }
+  ]
+}

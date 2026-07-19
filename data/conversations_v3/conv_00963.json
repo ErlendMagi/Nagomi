@@ -1,0 +1,62 @@
+{
+  "id": "conv_00963",
+  "context": "Yumiko bakes cookies with Hina.",
+  "purpose": "mother-child baking exchange",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "焼く",
+    "楽しい",
+    "美味しい",
+    "優しい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_048)",
+    "generated_at": "2026-05-27T03:00:15.220Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、クッキー、一緒に、焼こう。",
+      "en": "Hina-chan, let's bake cookies together.",
+      "style": "Warm invitation on the name. Soft, unhurried pace. Gentle lift toward the verb — making it feel like an offer, not a task. Genuine pleasure threaded through, the kind that comes from doing something small with someone you love.",
+      "mood": "tender_warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "やった、楽しみ！",
+      "en": "Yes! I'm so excited!",
+      "style": "Bright, unselfconscious enthusiasm. Quick on the opening word. Genuine delight — no performance, just pure eight-year-old joy. Slight breathless quality on the second half.",
+      "mood": "excited_joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しく、混ぜようね。",
+      "en": "Gently now — let's mix it together.",
+      "style": "Soft, patient instruction. The word 'gently' lands with quiet emphasis, not sternness — guiding, not correcting. Warm undertone throughout. The pace is easy, inviting her to slow down and notice the care.",
+      "mood": "tender_instructive"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "美味しそうな、匂い。",
+      "en": "It smells amazing.",
+      "style": "Soft, wondering tone. The word 'smells' carries her full attention — she's noticing, savoring. Small, genuine smile audible. Slight trailing-off, like she's lost in the moment. No performance.",
+      "mood": "delighted_present"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "完成、楽しみね。",
+      "en": "I can't wait to see how it turns out.",
+      "style": "Warm anticipation. Slight rise toward the end — genuine looking-forward, not dismissive. Quiet, intimate register. The words land with the gentleness of someone already savoring the moment — and the look on Hina's face when it's done.",
+      "mood": "warm_anticipating"
+    }
+  ]
+}

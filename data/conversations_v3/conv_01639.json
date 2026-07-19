@@ -1,0 +1,61 @@
+{
+  "id": "conv_01639",
+  "context": "Hina-young and Mei plan a small surprise tea party for Yumiko's birthday.",
+  "purpose": "Two younger women planning a kind surprise.",
+  "ambient": "kitchen_planning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "誕生",
+    "茶",
+    "お菓子",
+    "驚き"
+  ],
+  "cast": [
+    "hina_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_082)",
+    "generated_at": "2026-05-27T06:57:45.559Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、おばあちゃんの誕生!",
+      "en": "Mei! Grandma's birthday is coming!",
+      "style": "Bright, unbouncing energy on the opening. Quick warm enthusiasm — she's already halfway to the kitchen in her mind. Natural childhood excitement, not performed.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "お茶会、開きましょうか?",
+      "en": "Should we have a tea party together?",
+      "style": "Soft, inclusive tone. A gentle proposal, not a direction. Warm and conspiratorial — drawing Hina into something special they'll do together. Slight rise at the end, inviting agreement.",
+      "mood": "warm_planning"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "お菓子、私が作るね。",
+      "en": "I'll make the sweets.",
+      "style": "Matter-of-fact and proud. Small lift on 「作る」— she owns this task. No hesitation, no seeking permission. Genuine eagerness without needing validation.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "驚き、最高にしようね。",
+      "en": "Let's make the surprise really special.",
+      "style": "Quiet, steady conviction. A gentle partnership, not a demand. The tone of someone who knows this matters and is inviting Hina to care the same way. Soft landing at the end.",
+      "mood": "warm_determined"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、楽しみ!",
+      "en": "Yeah, I can't wait!",
+      "style": "Pure, unguarded excitement. Genuine childlike joy — the kind that doesn't need elaboration. Slight breathiness on the 「楽しみ」, like she's already imagining it.",
+      "mood": "joyful"
+    }
+  ]
+}

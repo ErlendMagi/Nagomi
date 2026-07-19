@@ -1,0 +1,72 @@
+{
+  "id": "conv_05375",
+  "context": "A doctor explains lifestyle medicine to a teen",
+  "purpose": "Teach: 反する/成り立っ/起こら/停滞/弊害/苦しむ/逃れ/迫ら",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "反する",
+    "成り立っ",
+    "起こら",
+    "停滞",
+    "弊害",
+    "苦しむ",
+    "逃れ",
+    "迫ら"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、健康的な生活、停滞しがちなときこそ大事ですよ。",
+      "en": "Sakura, healthy habits matter most when things feel like they're standing still.",
+      "style": "Steady, clear gaze. Warm without being performative. Matter-of-fact opening, then a small turn inward—this matters. Measured pace. Not lecturing, just honest.",
+      "mood": "honest_caring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "最近、勉強の負荷から逃れたくて、つい夜更かしして苦しむんです。",
+      "en": "Lately I just want to escape the study pressure, so I end up staying up late and making myself worse.",
+      "style": "Quiet admission. Hesitant—checking if she's allowed to say this. Shame just beneath the surface. Trails off on 'worse' like she's still deciding whether to own it.",
+      "mood": "self_aware_ashamed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体に反する習慣、続けると小さな弊害が積み重なります。",
+      "en": "When you keep going against what your body needs, those small harms add up.",
+      "style": "Gentle but firm. Patient tone—she's heard this before, so this is reinforcement, not revelation. Even pacing. Slight warmth on 'add up,' like she's seen this pattern many times.",
+      "mood": "patient_understanding"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "試験の前は、決断を迫られる感じで動けなくなって…。",
+      "en": "Before exams, I just freeze. I feel like I have to decide but I can't move.",
+      "style": "Soft, almost tentative. Opens quietly. Stalls slightly on 'freeze'—the word catches. Vulnerable without theatricality. Fades slightly at the end, uncertain whether this will make sense.",
+      "mood": "paralyzed_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "計画は、無理が起こらないように立てましょう。一日が成り立っていく感覚、戻せるはず。",
+      "en": "Make a plan that doesn't demand too much of you. That sense of your day holding together—you can get that back.",
+      "style": "Warm but grounded. Slight emphasis on 'your day' and 'back'—this is both specific and hopeful. Slow, careful delivery, like she's placing words deliberately. Slight lean forward in the voice.",
+      "mood": "encouraging_grounded"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "試してみます。",
+      "en": "I'll try it.",
+      "style": "Quiet, genuine resolve. Not cheerful, but present. Small exhale before speaking, like she's actually committing. Brief and clear.",
+      "mood": "cautious_determined"
+    }
+  ]
+}

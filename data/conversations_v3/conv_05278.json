@@ -1,0 +1,79 @@
+{
+  "id": "conv_05278",
+  "context": "A uni student helps a teen friend troubleshoot a tech project",
+  "purpose": "Teach: コンポーネント/スパム/クリップ/新潮/女神/アリス/隼/プラグ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンポーネント",
+    "スパム",
+    "クリップ",
+    "新潮",
+    "女神",
+    "アリス",
+    "隼",
+    "プラグ"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_265 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、自作PCのコンポーネント選びで悩んでます。",
+      "en": "Senpai, I'm completely stuck on picking components for my custom PC build.",
+      "style": "Tentative, testing whether he'll actually help. Slight uplift at the end—inviting. Not performing vulnerability, just asking.",
+      "mood": "uncertain_hopeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "予算と用途を教えて。動画クリップ編集中心？",
+      "en": "Tell me your budget and what you're building for. Mostly video editing?",
+      "style": "Businesslike but not cold. Cuts through to the practical. Patient—he's already decided to help. Slight lean forward in the voice.",
+      "mood": "focused_helpful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。アリスの実写ファンビデオを作りたくて。",
+      "en": "Yeah. I want to make a fan video for the live-action Alice film.",
+      "style": "Energy lifts noticeably. Quick tempo. There's passion underneath—she's admitting something she cares about. Small smile in the voice.",
+      "mood": "excited_earnest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。プラグの種類によっては電源足りないから注意な。",
+      "en": "Right. Depending on which plugs you go with, your power supply might bottleneck—keep an eye on that.",
+      "style": "Technical but accessible. No talking-down. Matter-of-fact rhythm, then slight emphasis on the caution. He's been here before.",
+      "mood": "practical_protective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "スパムメールに「特売」って件名で安いパーツの広告くるんですが、怖くて開けません。",
+      "en": "I keep getting spam emails with 'sale' in the subject line advertising cheap parts, and honestly I'm too scared to open them.",
+      "style": "Lighter tone, almost self-deprecating. Builds to the admission. Quiet at the end—seeking validation that she's being smart, not paranoid.",
+      "mood": "wary_seeking_reassurance"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "正解。新潮社のレビュー記事と、公式ショップだけ参照しよう。",
+      "en": "Good instinct. Stick to Shinchosha's review articles and the official retailers—that's your safe bet.",
+      "style": "Warm nod in the voice. Brief, decisive. The kind of permission that lands because he actually means it. No hedging.",
+      "mood": "affirming_solid"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "隼みたいに賢く判断します。勝利の女神、応援お願いします！",
+      "en": "I'll be sharp and careful like a falcon, then. Goddess of victory—please come through for me!",
+      "style": "Playful, slightly theatrical close. Quick-paced. A wink underneath. She's building her own luck out loud—confident now that he's in her corner.",
+      "mood": "playful_emboldened"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03518",
+  "context": "A ward officer explains a new prefectural regulation to a citizen",
+  "purpose": "Teach: 都道府県/施行/非難/当該/公的/回収/側面/ジャパン",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "都道府県",
+    "施行",
+    "非難",
+    "当該",
+    "公的",
+    "回収",
+    "側面",
+    "ジャパン"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_176 workflow whb15wn06)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんにちは、本日は都道府県の新しい条例についてご説明に伺いました。",
+      "en": "Hello, today I've come to explain the new prefectural regulation.",
+      "style": "Polite formal greeting from a ward officer, calm and businesslike tone"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、わざわざありがとうございます。来月から施行されるやつですよね？",
+      "en": "Ah, thank you for coming all this way. It's the one being enforced from next month, right?",
+      "style": "Casual but respectful middle-aged dad voice, confirming with a slight question"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、当該の条例は家庭ゴミの分別と回収方法に関するものです。",
+      "en": "Yes, the regulation in question concerns the sorting and collection methods for household garbage.",
+      "style": "Formal explanatory tone using official vocabulary, clearly stating the topic"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほど。最近SNSであの条例が非難されてるのを見ましたが、本当ですか？",
+      "en": "I see. I saw on social media that the regulation is being criticized — is that true?",
+      "style": "Skeptical curious dad voice, raising a real-world concern politely"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "確かに一部で批判はありますが、公的な健康被害を防ぐという側面では重要な制度なんです。",
+      "en": "Certainly there is some criticism, but from the standpoint of preventing public health damage, it's an important system.",
+      "style": "Defensive but measured official tone, acknowledging then justifying with policy logic"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほどねえ。うちの妻も「クールジャパンとか言う前にゴミ問題どうにかしろ」って怒ってましたよ。",
+      "en": "I see. My wife was angry too, saying 'Before talking about Cool Japan, do something about the garbage problem.'",
+      "style": "Relatable family man humor, quoting wife with mild exasperation"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ごもっともです。こちらが説明資料ですので、ご家族でもご確認ください。",
+      "en": "That's a very fair point. Here are the explanatory materials, please review them with your family.",
+      "style": "Diplomatic acknowledgment followed by polite formal request, handing over papers"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、ちゃんと読んでおきます。わざわざ来ていただいて助かりました。",
+      "en": "Yes, I'll be sure to read them. Thank you for taking the trouble to come.",
+      "style": "Warm closing remark, sincere gratitude in casual polite register"
+    }
+  ]
+}

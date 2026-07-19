@@ -1,0 +1,68 @@
+{
+  "id": "conv_01807",
+  "context": "Sho-young tries to describe his feelings to Mei about a complex day.",
+  "purpose": "Mother helping child name their emotions.",
+  "ambient": "kitchen_evening_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "気持ち",
+    "嬉しい",
+    "寂しい",
+    "混ぜる"
+  ],
+  "cast": [
+    "sho_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_091)",
+    "generated_at": "2026-05-27T08:01:22.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、気持ち、変だった。",
+      "en": "Mom, I feel... kind of weird inside.",
+      "style": "Soft, careful opening. Quiet, uncertain tone — searching for the right words. Pause before 'weird,' like he's checking if it's the right word. Tender, trusting delivery.",
+      "mood": "uncertain_vulnerable"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "どんな感じ?",
+      "en": "What kind of feeling?",
+      "style": "Gentle, unhurried. Warm curiosity without pressure. Leans in slightly. The tone of someone who has time and will wait for the real answer.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "嬉しいけど、寂しい。",
+      "en": "Happy, but... also lonely.",
+      "style": "Small voice. The 'but' carries weight — he's noticing something confusing about himself. Thoughtful pause between the two feelings. Honest and vulnerable without drama.",
+      "mood": "confused_tender"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "混ざってるのね。",
+      "en": "So they're mixed together.",
+      "style": "Quiet recognition. Soft, affirming tone. Not asking — gently naming what he's told her. The peace of being understood without being fixed.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "変?",
+      "en": "Is that... weird?",
+      "style": "Small, worried question mark at the end. Seeking reassurance. Breath is slight and hesitant, like he's afraid of the answer.",
+      "mood": "worried_seeking"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ううん、人間らしいの。",
+      "en": "No — that's just being human.",
+      "style": "Firm but tender. The 'no' is solid and sure. Slow pace. Like she's handing him something true and true-blue. Warmth without sentimentality.",
+      "mood": "reassuring_tender"
+    }
+  ]
+}

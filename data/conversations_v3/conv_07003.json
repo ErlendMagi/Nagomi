@@ -1,0 +1,86 @@
+{
+  "id": "conv_07003",
+  "context": "Two teens chat",
+  "purpose": "Teach: コック/小鳥/泳ぎ/電球/病室/好き嫌い/真っ直ぐ/昼飯",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "コック",
+    "小鳥",
+    "泳ぎ",
+    "電球",
+    "病室",
+    "好き嫌い",
+    "真っ直ぐ",
+    "昼飯"
+  ],
+  "cast": [
+    "sakura_teen",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_352 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、お父さん、コックさんやってるよね、おしゃれな、フレンチレストランで、本当に、すごいよね、リク、お前、誇りに、思いなよ。",
+      "en": "Riku — your dad's a chef at that fancy French restaurant. That's really incredible. You should be proud of him.",
+      "style": "Warm admiration, gentle teasing lilt on Riku's name. Sincere underneath the casual delivery. Leans in like she's sharing a real compliment, not performing one.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん。学校の裏庭、小鳥、本当に、たくさん、いるよな、桜、お前も、気付いてた?可愛いよな、本当に、絶対、ほっこりするよな、毎朝、見ると。",
+      "en": "Yeah. There are so many little birds in the courtyard behind school. You noticed them too, right? They're cute. It's honestly kind of soothing to see them every morning.",
+      "style": "Shifts tone noticeably — softer, more observant. Speaks more slowly, like he's noticing something in the moment. Genuine wonder in his voice, not performing excitement.",
+      "mood": "gentle_wistful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "夏休み、泳ぎ、上手くなりたいよね、リク、お前、運動部だから、もう、得意でしょ?教えてくれる?お願い、本当に、絶対、教えてね。",
+      "en": "Over summer break, I want to get better at swimming. You're in the sports club, so you're already good at it, right? Will you teach me? Please? I'd really appreciate it.",
+      "style": "Eager but slightly self-conscious. Asks the question genuinely, not as a dare. Softens at the 'please' — a real request, not performed desperation. Hopeful exhale at the end.",
+      "mood": "hopeful_humble"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "教室の電球、また、切れたんだぜ、桜、お前、気づいてた?ちょっと、暗くなってさ、勉強、しにくくなってきたぜ、本当に、修理、急務だ。",
+      "en": "The light bulb in our classroom burned out again. You noticed it got darker, didn't you? It's getting hard to study. We really should get that fixed soon.",
+      "style": "Dry observation at the start. Light, matter-of-fact tone — not complaining, just pointing out a small problem. A hint of wry humor underneath, like he's deflecting from something.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お祖母ちゃんの病室、私、お見舞いに、行ってきたんだ、リク、お前にも、お話、したいよ、心配かけて、ごめんね、本当に、ありがとう、いつも、優しくて。",
+      "en": "I went to visit my grandmother in the hospital today. I wanted to tell you about it. I'm sorry for worrying you. And thank you — you're always so kind to me.",
+      "style": "Vulnerable opening, voice slightly smaller. Pauses before 'I wanted to tell you,' like she's gathering courage. Gentler pace. The gratitude at the end is quiet and genuine, not performative.",
+      "mood": "vulnerable_grateful"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前、本当に、好き嫌い、ないよな、桜、何でも、食べてさ、本当に、感心するよ、俺、結構、苦手なもの、あるんだ、お互いに、頑張ろう、本当に。",
+      "en": "You really don't have any picky eating habits. You eat anything, and I really admire that. I have quite a few things I can't eat, so let's both keep trying our best.",
+      "style": "Sincere praise, no irony. Speaks steadily, like he's thought about this before. Warm and almost protective in his tone — he's noticing and appreciating something real about her.",
+      "mood": "warm_sincere"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、真っ直ぐな性格、本当に、私、好きだよ、嘘、つかないし、いつも、誠実で、本当に、信頼できる、お前、最高だよ、本当に、感謝してる、いつも。",
+      "en": "Your character is so straightforward, and I really like that about you. You don't lie, and you're always honest. I can trust you completely. You're the best, and I'm always grateful for you.",
+      "style": "Soft, almost trembling at the edges but controlled. Speaks directly, not hiding behind casual tone. Each word measured. The sincerity breaks through any teen coolness. Slight trailing-off at the end, like she's said something true and it cost her.",
+      "mood": "sincere_tender"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お昼飯、購買で、買おうかな、桜、お前は、お母さんのお弁当?本当に、いいよな、毎日、家庭の味、楽しめるって、羨ましいよな、本当に、絶対。",
+      "en": "Should I buy lunch at the school shop today? Do you bring your mom's homemade lunch? I really envy that — getting to eat homemade food every day. That's something special.",
+      "style": "Wistful, almost envious. Asks casually but the longing is just beneath the surface. Speaks more quietly on the second half, like he's noticing something he wishes he had. Slight catch of emotion, quickly smoothed over.",
+      "mood": "wistful_envious"
+    }
+  ]
+}

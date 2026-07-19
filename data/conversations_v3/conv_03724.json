@@ -1,0 +1,78 @@
+{
+  "id": "conv_03724",
+  "context": "Manager debriefs a subordinate after a system outage",
+  "purpose": "Teach: ボード/部下/発注/切り替え/エラー/同期/私立/志向",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボード",
+    "部下",
+    "発注",
+    "切り替え",
+    "エラー",
+    "同期",
+    "私立",
+    "志向"
+  ],
+  "cast": [
+    "kenji_office",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_187 wdqeqmj99)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "リク、昨日の発注システムの件、ホワイトボードの前で一度整理しよう。",
+      "en": "Riku, about yesterday's ordering system issue, let's organize it in front of the whiteboard.",
+      "style": "Calm manager opening, professional yet supportive workplace tone."
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、申し訳ありませんでした。発注処理の途中でエラー表示が出て、画面が固まってしまったんです。",
+      "en": "Yes, I'm sorry. An error appeared during the ordering process and the screen froze.",
+      "style": "Apologetic young subordinate, nervous but trying to explain clearly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "君は部下の中でも責任感が強いから自分を責めがちだけど、原因はサーバーの同期が止まったことだ。",
+      "en": "You tend to blame yourself because you're a responsible subordinate, but the cause was the server sync stopping.",
+      "style": "Reassuring boss reframing blame, steady measured cadence."
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "バックアップへの切り替えがもう少し早ければ、被害は減らせたと思います。",
+      "en": "If the switch to the backup had been a bit faster, I think we could have reduced the damage.",
+      "style": "Self-reflective junior offering honest technical assessment."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "君は私立大出身で理論には強いけど、現場では結果志向だけでなく手順の冷静さも大事だぞ。",
+      "en": "You're a private-university grad and strong on theory, but on-site, not just a results-oriented mindset but calm procedure matters too.",
+      "style": "Mentor framing growth point, balancing acknowledgment with constructive coaching."
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "おっしゃる通りです。次回は手順書をボードに貼り出して、落ち着いて対応します。",
+      "en": "You're absolutely right. Next time I'll post the procedure on the board and respond calmly.",
+      "style": "Receptive subordinate committing to a concrete behavioral change."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、それでいい。同期の佐藤にも今回の発注エラーの教訓を共有しておいてくれ。",
+      "en": "Good, that's the way. Please also share the lessons from this ordering error with your peer Sato.",
+      "style": "Manager assigning follow-up, collaborative team-building directive."
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、必ず伝えます。気持ちの切り替えをして、明日からまた頑張ります。",
+      "en": "Yes, I'll be sure to tell him. I'll switch my mindset and work hard again from tomorrow.",
+      "style": "Closing affirmation, resolute and forward-looking junior employee."
+    }
+  ]
+}

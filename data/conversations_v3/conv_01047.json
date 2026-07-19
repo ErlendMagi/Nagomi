@@ -1,0 +1,62 @@
+{
+  "id": "conv_01047",
+  "context": "Hina and Sho eat at a restaurant with their family.",
+  "purpose": "children restaurant exchange",
+  "ambient": "restaurant_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "美味しい",
+    "楽しい",
+    "レストラン",
+    "料理"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、このレストラン、初めて。",
+      "en": "Sho, this is our first time at this restaurant!",
+      "style": "Bright, eager opening. High vocal pitch natural to an eight-year-old. Genuine wonder about the newness, not performing it. Soft childish quality throughout. Warmth threading underneath the excitement.",
+      "mood": "bright_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、美味しそう、料理。",
+      "en": "Yeah, the food looks really good.",
+      "style": "Quiet, genuine appreciation. Small six-year-old voice, soft and unhurried. No performance—just real observation. Warmth in the tone, steady and small.",
+      "mood": "content"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "何、頼む？",
+      "en": "What are you going to order?",
+      "style": "Open, genuinely interested question. Bright, high pitch natural to her age. The energy of wanting to know what he wants. Warm and engaged without pushing.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ハンバーグ、いいかな。",
+      "en": "Hamburger sounds good?",
+      "style": "Small, tentative question. Six-year-old softness. Thinking aloud rather than asking for permission. Warmth and genuine brightness in the choice.",
+      "mood": "gentle_pleased"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、楽しい、夕食、ね。",
+      "en": "Being here together like this—dinner is really fun, isn't it?",
+      "style": "Warm, contented settling-in. Eight-year-old brightness still present but now layered with genuine affection for the moment. Soft trailing quality on the ending, like she's savoring it.",
+      "mood": "warm_content"
+    }
+  ]
+}

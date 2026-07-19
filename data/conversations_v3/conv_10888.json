@@ -1,0 +1,86 @@
+{
+  "id": "conv_10888",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 小田/富田/天野/遠山/篠原/藤村/須藤/牧野",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "小田",
+    "富田",
+    "天野",
+    "遠山",
+    "篠原",
+    "藤村",
+    "須藤",
+    "牧野"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_546 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、指導教授の小田先生のご研究を継承しろ",
+      "en": "Ren — take on Professor Oda's research through your advisor.",
+      "style": "Clear, measured direction. Decisive on Ren's name. Weight on the key instruction. Professional distance, but grounded in genuine regard for the work.",
+      "mood": "directive_grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。富田教授の論文を読み込みます",
+      "en": "Yes. I'll read through Professor Tomita's papers thoroughly.",
+      "style": "Respectful acknowledgment with quiet determination. Slight pause after the yes—absorbing the task. Steady, focused tone. No performance, just commitment.",
+      "mood": "earnest_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、共同研究の天野先生に研究照会しろ",
+      "en": "Ren — reach out to Professor Amano about the collaborative research.",
+      "style": "Direct assignment, same measured pace. Slight emphasis on the collaboration aspect. Professional but expecting compliance without resistance.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会で遠山助教のご発表を聴きます",
+      "en": "Yes. I'll attend Assistant Professor Toyama's presentation at the conference.",
+      "style": "Quick, respectful affirmation. Slight uptick—showing he's already thinking ahead to logistics. Alert, engaged without being eager. Matter-of-fact.",
+      "mood": "compliant_engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、文献の篠原先生のご論文も参考にしろ",
+      "en": "Ren — make sure to reference Professor Shinohara's papers in your literature review.",
+      "style": "Steady instruction, almost conversational compared to the others. Light tap on the importance. Professional but less formal—assumes Ren understands the why.",
+      "mood": "directive_practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室の藤村先輩からご指導を仰ぎます",
+      "en": "Yes. I'll ask Senior Fujimura in the lab for guidance.",
+      "style": "Respectful, clear agreement. Slight formality on the senior's name—showing deference to hierarchy. Measured pace. Grounded in humility about what he doesn't yet know.",
+      "mood": "respectful_humble"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、海外連携の須藤教授と打ち合わせしろ",
+      "en": "Ren — set up a meeting with Professor Sudo about the international partnership.",
+      "style": "Firm, final-sounding direction. Crisp attack on the name. The weight of external relations behind it. Expects this will be handled.",
+      "mood": "directive_authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の窓口、牧野事務官に申請します",
+      "en": "Yes. I'll submit the application through Makino in the administrative office.",
+      "style": "Brisk affirmation, already moving to next step. Slight efficiency to the tone—showing he knows the process. Closing with quiet resolve. Brief exhale at the end.",
+      "mood": "compliant_determined"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01477",
+  "context": "Sakura asks Aoi for help choosing wine for a small dinner.",
+  "purpose": "Female friends shopping; food and beverage choices.",
+  "ambient": "shop_aisle_soft_music",
+  "sound_effects": [],
+  "target_vocab": [
+    "ワイン",
+    "夕食",
+    "値段",
+    "種類"
+  ],
+  "cast": [
+    "sakura_teen",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "ワイン、種類が多くて迷う。",
+      "en": "There are so many kinds — I don't know which one to pick.",
+      "style": "Light uncertainty, almost thinking out loud. Warm but genuinely torn. Glances between bottles. Soft trailing-off like she's inviting input.",
+      "mood": "pleasantly_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夕食の料理は何?",
+      "en": "What are you making for dinner?",
+      "style": "Conversational and direct, but gentle. Leans slightly forward with genuine interest. Practical question asked like she already has an idea forming.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お魚のシンプルな料理。",
+      "en": "Just a simple fish dish.",
+      "style": "Matter-of-fact but with a hint of self-consciousness, like she's aware it sounds plain. Steady pace. Not apologetic, just honest.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なら白ワインがいいね。",
+      "en": "White wine would go nicely with that.",
+      "style": "Confident and assured without being pushy. Slight warmth in the delivery — the comfort of someone who knows what they're talking about. Eye contact level.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "値段、これくらいで大丈夫?",
+      "en": "Is this price point okay?",
+      "style": "Polite and careful, checking in rather than assuming. Respectful uncertainty. Looks at the bottle then back at Aoi, genuinely wanting confirmation.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "十分。これ美味しいよ。",
+      "en": "Absolutely. This one's really good.",
+      "style": "Warm reassurance with quiet conviction. Slight emphasis on 「good」 — not overdone, just genuine. The tone of someone who has tasted it and means it.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう、これにする。",
+      "en": "Perfect — thanks. I'll go with this.",
+      "style": "Relieved and grateful, decision made. Lighter tone now that uncertainty has lifted. Small warmth toward Aoi. Decisive but not abrupt.",
+      "mood": "decided_grateful"
+    }
+  ]
+}

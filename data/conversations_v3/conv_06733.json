@@ -1,0 +1,86 @@
+{
+  "id": "conv_06733",
+  "context": "A doctor discusses social health issues",
+  "purpose": "Teach: 執着/標的/浅草/鋼/富ん/気圧/献金/炭鉱",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "執着",
+    "標的",
+    "浅草",
+    "鋼",
+    "富ん",
+    "気圧",
+    "献金",
+    "炭鉱"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんの執着的な症状、医療として、対応中です。",
+      "en": "Ren, we're managing the patient's obsessive symptoms medically at the moment.",
+      "style": "Even, professional tone. No rush. Clear-eyed clarity delivered at a normal conversational pace. The kind of steady reassurance that comes from someone who has seen this before.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "高血圧患者、心血管疾患、標的になりやすいですね。",
+      "en": "Hypertension patients are especially vulnerable to cardiovascular complications, aren't they?",
+      "style": "Genuine intellectual curiosity. Slight lean forward. Not defensive — he's thinking out loud with someone he trusts. Warm but serious.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。浅草に、地域医療センター、新設されました。",
+      "en": "Yes. A new community health center just opened in Asakusa.",
+      "style": "Factual, quiet confidence. Not hurried. A small nod in the voice — she's answering directly because he asked directly. Steady regard.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療器具、鋼合金の進化、目覚ましいですね。",
+      "en": "The advances in medical materials and alloys have been really striking.",
+      "style": "Genuine wonder underneath the technical language. Eyes bright. He's connecting something he finds genuinely interesting. Pace picks up slightly with enthusiasm.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。栄養に富んだ食事、病後の回復、大切です。",
+      "en": "Yes. Proper nutrition is really crucial for recovery after illness.",
+      "style": "Matter-of-fact but warm. The voice of someone who has seen poor nutrition slow healing. Not lecturing — stating what she knows to be true. Even delivery, slight emphasis on 「大切」.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "気圧の変化、頭痛持ちの患者、影響、大きいですよね。",
+      "en": "Patients with migraines are hit especially hard by pressure changes, aren't they?",
+      "style": "Thoughtful, slightly hesitant — he's working through the idea as he speaks. Softer than before. The quality of someone who noticed something and wanted to check if it was real.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。医療研究への企業献金、倫理問題、議論されています。",
+      "en": "Yes. We're still discussing the ethical implications of corporate donations to medical research.",
+      "style": "Slower, more deliberate. Weight in the voice. She's moved into something that troubles her slightly — not cynical, but aware of the complexity. Pause before starting.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "昔の炭鉱労働者、塵肺の問題、根深いですね。",
+      "en": "The respiratory damage in old coal miners from pneumoconiosis is pretty deep-rooted.",
+      "style": "Quiet, reflective finish. He's stepped back — thinking about time and consequences. Soft fadeout at the end. The tone of someone recognizing something that won't be undone.",
+      "mood": "somber_reflective"
+    }
+  ]
+}

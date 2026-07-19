@@ -1,0 +1,62 @@
+{
+  "id": "conv_01386",
+  "context": "Hina reads a picture book with Sho.",
+  "purpose": "children picture-book exchange",
+  "ambient": "living_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "絵本",
+    "一緒",
+    "楽しい",
+    "優しい",
+    "読む"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、絵本、本当、面白い、ね。",
+      "en": "Sho, this picture book is really so much fun.",
+      "style": "Bright, open excitement on the first word. Genuine childish warmth—not performed. Slightly breathless as she shares her discovery. Inviting him to agree, not demanding it.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、本当、楽しい、絵。",
+      "en": "Yeah—it really is fun to look at.",
+      "style": "Soft, small agreement. Brief pause after the opening particle. Quiet sincerity—a six-year-old confirming what matters to him. No rush to fill space.",
+      "mood": "content"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、読むの、本当、嬉しい。",
+      "en": "I'm so happy we're reading it together.",
+      "style": "Warm, genuine relief underneath the brightness. Slight emphasis on 'together'—it's the part that matters most. Soft landing on the final word, like settling into the moment.",
+      "mood": "warm_happy"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "優しい、お話、本当、好き。",
+      "en": "I really like stories that are kind like this one.",
+      "style": "Thoughtful, small voice. A six-year-old noticing something true about himself. No self-consciousness. Gentle, unhurried pace. Trailing softly at the end.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "本当、いい、本、ね。",
+      "en": "This really is such a good book.",
+      "style": "Satisfied warmth settling in. Slight emphasis on the certainty—she knows what she likes. Soft, contented landing. A small child at peace with a moment that's working.",
+      "mood": "content_warm"
+    }
+  ]
+}

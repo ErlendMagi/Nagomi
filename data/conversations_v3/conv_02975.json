@@ -1,0 +1,75 @@
+{
+  "id": "conv_02975",
+  "context": "Sakura interviews a manager about staffing.",
+  "purpose": "WIDENED SCENARIO: business interview; vocabulary (勤務/バイト/出席/継続/文書) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勤務",
+    "バイト",
+    "出席",
+    "継続",
+    "文書"
+  ],
+  "cast": [
+    "sakura_teen",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_149)",
+    "generated_at": "2026-05-29T15:03:18.593Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "人手不足は、解決しましたか?",
+      "en": "Has the staff shortage been solved?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "バイトを増やして、勤務を回しています。",
+      "en": "We added part-timers to cover shifts.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勤務の記録は、どう管理しますか?",
+      "en": "How do you manage work records?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "文書にして、継続的に残します。",
+      "en": "We put them in documents and keep them continuously.",
+      "style": "professional manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "会議の出席率は、どうですか?",
+      "en": "How is meeting attendance?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "全員の出席を、目指しています。",
+      "en": "We aim for everyone's attendance.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "良い勤務環境を、継続するコツは?",
+      "en": "How do you keep a good work environment going?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "文書で、約束を継続することです。",
+      "en": "It's keeping promises continuously in writing.",
+      "style": "warm manager voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

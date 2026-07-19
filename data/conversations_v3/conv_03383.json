@@ -1,0 +1,84 @@
+{
+  "id": "conv_03383",
+  "context": "Reviewing a new device",
+  "purpose": "Review a gadget; teach インストール/バージョン/プラス/マイナス/カラー/回転/穴/録音",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インストール",
+    "バージョン",
+    "プラス",
+    "マイナス",
+    "カラー",
+    "回転",
+    "穴",
+    "録音"
+  ],
+  "cast": [
+    "ren_uni",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_170)",
+    "generated_at": "2026-05-29T18:10:39.617Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この新しいデバイス、どう？",
+      "en": "How’s this new device?",
+      "style": "curious reviewer opening, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "アプリのインストールが簡単だった。",
+      "en": "Installing apps was easy.",
+      "style": "pleased reviewer noting ease, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "バージョンアップも自動なんだ。",
+      "en": "Version upgrades are automatic too.",
+      "style": "reviewer adding a plus, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "軽さはプラス評価だね。",
+      "en": "The lightness is a plus point.",
+      "style": "reviewer scoring it positively, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "値段が高いのはマイナスだけど。",
+      "en": "The high price is a minus, though.",
+      "style": "fair reviewer noting the con, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "画面のカラーが鮮やかでいい。",
+      "en": "The screen color is vivid and nice.",
+      "style": "appreciative reviewer praising it, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "縦横の回転もスムーズ。",
+      "en": "Vertical-horizontal rotation is smooth too.",
+      "style": "reviewer noting responsiveness, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "唯一、スピーカーに穴が少なくて音が小さい。",
+      "en": "The one issue: few speaker holes, so it’s quiet.",
+      "style": "reviewer flagging a flaw, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "動画の録音性能は高いみたいだよ。",
+      "en": "Its video-recording performance seems high.",
+      "style": "reviewer ending on a positive, each word carrying genuine natural feeling"
+    }
+  ]
+}

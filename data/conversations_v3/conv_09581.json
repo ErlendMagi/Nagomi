@@ -1,0 +1,86 @@
+{
+  "id": "conv_09581",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 亭主/眼差し/就く/むかっ/無くなり/申さ/ゆけ/沈み",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "亭主",
+    "眼差し",
+    "就く",
+    "むかっ",
+    "無くなり",
+    "申さ",
+    "ゆけ",
+    "沈み"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_481 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは家の亭主ね",
+      "en": "Sho, your father is the heart of our home, you know.",
+      "style": "Warm, matter-of-fact observation. Gentle pride in the statement. Speaking as much to herself as to him. Settled and sure.",
+      "mood": "tender_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんの優しい眼差しに守られてるよ",
+      "en": "Mom, I feel safe when Dad looks at me that way.",
+      "style": "Soft, wondering tone. The voice of a child discovering something true about himself. Quiet certainty. Slightly trailing, like he's sharing a secret he just understood.",
+      "mood": "safe_wonder"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが部長職に就く事になられたわ",
+      "en": "Sho, your father's been promoted to manager.",
+      "style": "Bright announcement with underlying warmth. Light emphasis on the news itself. Pleased but grounded — this is good, and she's sharing it plainly with him.",
+      "mood": "pleased_pride"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんにむかって走ったよ",
+      "en": "Mom, I ran toward Dad as fast as I could.",
+      "style": "Excited, breathless. The remembered energy of movement. Immediate and unguarded. Slight rise at the end — wanting her to feel his joy too.",
+      "mood": "excited_unguarded"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、おやつが無くなりそうだから、お父さんに頼みましょうね",
+      "en": "Sho, we're running low on snacks — shall we ask Dad to pick some up?",
+      "style": "Practical, gentle. A soft suggestion rather than a directive. Warmth underneath the logistics. The tone of a mother including her son in small decisions.",
+      "mood": "practical_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんに「お願いします」って度々申されてるよ",
+      "en": "Mom, I keep asking Dad very politely if he can help.",
+      "style": "Earnest, slightly proud of himself. The careful formality of a child trying his best to be respectful. Seeking her approval gently. Small and genuine.",
+      "mood": "earnest_seeking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと公園にゆけば楽しいわよ",
+      "en": "Sho, you and Dad always have fun at the park together.",
+      "style": "Encouraging, lightly nostalgic. Soft certainty — she's observed this. Warmth without pushing. Inviting him to remember something good.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが落ち込んで気持ちが沈みそうな日もあるよ",
+      "en": "Mom, sometimes Dad gets really sad and I can feel it, even when he tries to hide it.",
+      "style": "Quiet and perceptive, with the weight of noticing something an adult might miss. Gentle concern underneath. Slow pace. Trailing off softly at the end — he's shared something that worries him.",
+      "mood": "perceptive_concerned"
+    }
+  ]
+}

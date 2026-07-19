@@ -1,0 +1,86 @@
+{
+  "id": "conv_08466",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: モットー/貸与/累計/問屋/立ち寄り/小売り/衣料/言明",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "モットー",
+    "貸与",
+    "累計",
+    "問屋",
+    "立ち寄り",
+    "小売り",
+    "衣料",
+    "言明"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_425 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社のモットーを新人に伝えろ",
+      "en": "Tell the new hires about the company motto.",
+      "style": "Clipped, efficient. Quick breath between clauses. Authority without warmth — the instruction of someone who doesn't repeat himself. Hands off; expects competence.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社用パソコンの貸与手続を済ませました",
+      "en": "Yes. I've completed the computer issuance paperwork.",
+      "style": "Respectful nod in the voice. Steady pace, matter-of-fact delivery. Small emphasis on 'completed' — shows the task is done. No decoration, no apology.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "累計売上の推移をまとめろ",
+      "en": "Compile the sales trend report for me.",
+      "style": "Curt, expectant. Slight downward inflection — not a question. The tone of someone accustomed to being listened to. Clean attack on the opening word.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。問屋との取引条件を更新中です",
+      "en": "Yes. I'm currently updating the wholesale terms.",
+      "style": "Steady, informative. Light emphasis on 'updating' to show active progress. Respectful but not obsequious. The report of someone managing tasks in real time.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お得意様のお店に立ち寄りで挨拶しろ",
+      "en": "Visit our key clients' stores and offer your greetings in person.",
+      "style": "Brief, purposeful. Slight pause after 'stores' — the instruction sits, expecting acknowledgement. Cool, businesslike tone. No negotiation in the delivery.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。小売り部門の売上が伸びております",
+      "en": "Yes. Retail division sales are increasing.",
+      "style": "Calm assertion. Light lift on 'increasing' — brings positive news without fanfare. Respectful cadence, but confident. The tone of someone delivering good work to his boss.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、衣料品の新ラインを開発しろ",
+      "en": "We're developing a new clothing line.",
+      "style": "Declarative, forward-facing. Slight emphasis on 'new' — it matters. Cool authority. The voice of someone making a strategic call, not requesting approval.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新方針を社内に言明いたします",
+      "en": "Yes. I'll communicate the new direction to the staff.",
+      "style": "Affirming close. Steady, professional finality. Small emphasis on 'communicate' — shows he understands the scope. Respectful but not deferential. The last word lands with clarity.",
+      "mood": "resolved"
+    }
+  ]
+}

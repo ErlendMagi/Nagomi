@@ -1,0 +1,78 @@
+{
+  "id": "conv_04712",
+  "context": "A doctor explains screening results to a dad",
+  "purpose": "Teach: 矯正/救急/注射/生理/医薬品/探る/本能/許容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "矯正",
+    "救急",
+    "注射",
+    "生理",
+    "医薬品",
+    "探る",
+    "本能",
+    "許容"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "リョウスケさん、本日の健診結果ですが、数値は全体的に許容範囲に収まっていましたよ。",
+      "en": "Ryosuke-san, regarding today's screening results, the values are overall within the acceptable range.",
+      "style": "Calm professional doctor delivering reassuring medical news in a measured tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうですか、ほっとしました。最近なんとなく体がだるくて、本能的に心配してたんですよ。",
+      "en": "I see, what a relief. I've been feeling sluggish lately, worrying about it on instinct.",
+      "style": "Relieved middle-aged father speaking honestly and a little nervously."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その感覚は大事にしてください。一点、視力が落ちていますので、矯正用の眼鏡をご検討くださいね。",
+      "en": "Please trust that feeling. One thing — your eyesight has dropped, so please consider corrective glasses.",
+      "style": "Doctor giving polite, specific advice with measured authority and warmth."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほど。実は最近、たまに胸が痛むんです。生理的な反応かなと思って我慢してました。",
+      "en": "I see. Actually, my chest aches sometimes. I thought it was just a physiological reaction and endured it.",
+      "style": "Father admitting a worry sheepishly, slightly self-deprecating in tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは見過ごせませんね。原因を探るために、来週改めて詳しい検査をしましょう。",
+      "en": "That can't be overlooked. To investigate the cause, let's do detailed tests again next week.",
+      "style": "Firm but kind doctor giving a clear and reassuring treatment plan."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかりました。市販の医薬品で済ませようと思ってたんですが、ちゃんと診てもらいます。",
+      "en": "Understood. I thought I'd just use over-the-counter medicines, but I'll get properly examined.",
+      "style": "Father conceding humbly, sounding a bit embarrassed about self-medicating."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、自己判断は危険です。心配なら救急の窓口にすぐ電話してくださいね。",
+      "en": "Yes, self-diagnosis is dangerous. If you're worried, please call the emergency desk right away.",
+      "style": "Warm, encouraging doctor giving practical safety advice in a caring tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかりました。あ、それと毎年のインフルエンザの注射も今日お願いしてもいいですか。",
+      "en": "Got it. Oh, and could I also get my yearly flu shot today, please?",
+      "style": "Father shifting topic casually with a polite, slightly upbeat request."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06494",
+  "context": "A boss reviews a business strategy",
+  "purpose": "Teach: 名声/攻める/前身/模試/近世/廃案/本州/鎖国",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "名声",
+    "攻める",
+    "前身",
+    "模試",
+    "近世",
+    "廃案",
+    "本州",
+    "鎖国"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_326 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の名声、長年で築いてきた。",
+      "en": "The company's reputation in this industry—it was built carefully over decades.",
+      "style": "Measured and deliberate. Slight pause after the dash. Low register, steady cadence. The weight of accumulated time in each phrase.",
+      "mood": "measured_stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外市場、攻める方針で進めます。",
+      "en": "Understood. We're moving forward with an aggressive strategy in the overseas market.",
+      "style": "Attentive, nodding in the voice. Efficient delivery without rushing. Demonstrating he's taken the point and is ready to act on it.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社の前身、商社時代の精神、忘れるな。",
+      "en": "Don't forget the spirit of our predecessor company—the trading house mentality that built us.",
+      "style": "Quiet firmness. Not a lecture, but a correction. Eyes steady. The kind of statement that lands because it's said simply, without inflection.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内模試、人事評価に組み込んでいます。",
+      "en": "Understood. We've already woven it into the internal assessments and HR evaluations.",
+      "style": "Clear, methodical report-back. Slight lift at the end—showing he's ahead of the expectation, not behind it. Professional competence.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "近世商人の信用、現代でも通用する。",
+      "en": "The trust that merchants built in the early modern period—it still holds weight today.",
+      "style": "Reflective, almost philosophical. Slower pace. Gaze seems inward first, then outward. The conviction of someone who has seen this tested and proven true.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。承認、廃案にならないよう、慎重に進めます。",
+      "en": "Understood. We'll move carefully to ensure the proposal gets approval and doesn't get shelved.",
+      "style": "Reassuring in its precision. Calm acknowledgment of the stakes. Not rushing to close—leaving space for Hiroshi to add anything more.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本州内のチェーン、強化しろ。",
+      "en": "Strengthen the chain operations here on Honshu.",
+      "style": "Direct command, but not harsh. Brief. The confidence of someone who expects it to be understood and executed without fanfare.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。グローバル化と鎖国的閉鎖性、バランスが鍵です。",
+      "en": "Right. The real challenge is balancing globalization with the need to maintain strong domestic foundations.",
+      "style": "Thoughtful closing. Acknowledging the complexity Hiroshi has implied without saying it outright. Settling into the work ahead.",
+      "mood": "contemplative"
+    }
+  ]
+}

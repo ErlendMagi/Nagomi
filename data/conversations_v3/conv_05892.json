@@ -1,0 +1,79 @@
+{
+  "id": "conv_05892",
+  "context": "A police officer briefs a reporter about national-security topics",
+  "purpose": "Teach: 竹島/南京/テポドン/フセイン/正日/日の丸/猪瀬/姉歯",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "竹島",
+    "南京",
+    "テポドン",
+    "フセイン",
+    "正日",
+    "日の丸",
+    "猪瀬",
+    "姉歯"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_296 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "竹島周辺の警備、海保と連携で対応しています。",
+      "en": "We're coordinating with the Coast Guard on security around Takeshima.",
+      "style": "Matter-of-fact, measured tone. Professional without being stiff. Even cadence suggesting routine briefing. Slight pause after the opening phrase — the kind a trained officer uses to organize information.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歴史的に、南京事件のような事案、国際関係に響きますね。",
+      "en": "Historically, incidents like Nanjing have major ripple effects on international relations.",
+      "style": "Thoughtful and genuine curiosity — not performative. Lean forward slightly into the question. Pace slows on the historical reference to show respect for the weight. Steady eye contact seeking real understanding.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "近年は、テポドンなどミサイル絡みの警戒も強化。",
+      "en": "In recent years, we've also had to strengthen vigilance around missile threats — Taepodong-class and others.",
+      "style": "Shift to slightly firmer tone, more precise. Speaking from operational knowledge, not rote. Slight emphasis on 'recent years' — the turning point. Clinical delivery but not cold.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "金正日時代から、続く課題なんですね。",
+      "en": "So these are ongoing issues going back to the Kim Jong-il era.",
+      "style": "Quiet recognition dawning. Not a question despite the question mark — more a soft realization voiced aloud. Small, genuine pause at the beginning as he connects the timeline.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "国際的には、フセイン政権崩壊後の中東情勢も、警察学校で学びます。",
+      "en": "Internationally, post-Hussein Middle East dynamics are part of what we study at the academy.",
+      "style": "Instructive but not condescending. Speaking from institutional knowledge. Even pacing, deliberate. The tone of someone explaining curriculum — informative without lecturing.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国内行事での日の丸、警備対象でしたよね。",
+      "en": "The Japanese flag at domestic events — that's something we protect too, isn't it?",
+      "style": "Hesitant probe, seeking confirmation. Softer attack than before. Building a hypothesis aloud rather than stating fact. Genuine wondering about the scope of security work.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。過去、猪瀬氏の都政期、姉歯事件への対応も、警察庁が関与しました。",
+      "en": "Yes. During Governor Inose's tenure, the NPA was also involved in the Anehae scandal response.",
+      "style": "Factual recital with subtle weight. Slight slowdown on the historical names — acknowledging their significance. Professional closure but with the sense this connects to larger patterns he's explaining.",
+      "mood": "factual"
+    }
+  ]
+}

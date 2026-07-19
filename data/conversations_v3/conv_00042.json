@@ -1,0 +1,83 @@
+{
+  "id": "conv_00042",
+  "context": "Hiroshi (elder) is babysitting six-year-old Sho. Out of a drawer he pulls a postcard he hasn't looked at in decades — one his own mother wrote to him as a child.",
+  "purpose": "oral history micro-moment — an old letter becomes a doorway",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "見る",
+    "時間",
+    "今",
+    "ない",
+    "読む"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "しょうくん、これ、見たことあるかい。",
+      "en": "Sho-kun — have you seen this before?",
+      "style": "Holds up the postcard carefully. Voice lower, intimate.",
+      "mood": "careful_intimate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…紙？",
+      "en": "…Paper?",
+      "style": "Genuine kid question. Leans in, head tilted.",
+      "mood": "leaning_in"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "はがき。お母さんからの。私の、お母さん。",
+      "en": "A postcard. From my mother. My mother.",
+      "style": "Slowly. Three short sentences. Lets the word 「母さん」 mean what it means.",
+      "mood": "naming_quietly"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ええ…おじいちゃんの、お母さん…？",
+      "en": "Wait… Grandpa's — mother…?",
+      "style": "Genuine kid astonishment. The math doesn't fit at first.",
+      "mood": "kid_astonishment"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "私も、子供だった頃。",
+      "en": "When I was a child too.",
+      "style": "Quiet, slow. A whole life given as five syllables.",
+      "mood": "gentle_truth"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "読んでもいい？",
+      "en": "Can I read it?",
+      "style": "A small precious request. Hands not yet touching the postcard.",
+      "mood": "careful_request"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろん。ゆっくり読みなさい。時間はある。",
+      "en": "Of course. Read it slowly. There's time.",
+      "style": "Slides closer in the voice. The 「時間はある」 is the whole afternoon.",
+      "mood": "gentle_offer"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん…。",
+      "en": "Mm…",
+      "style": "Settles into the side of the older man in the voice. Reads in silence after.",
+      "mood": "settling_in"
+    }
+  ]
+}

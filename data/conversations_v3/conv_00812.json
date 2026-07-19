@@ -1,0 +1,76 @@
+{
+  "id": "conv_00812",
+  "context": "Officer Takeda speaks with Ren about safe driving on campus.",
+  "purpose": "officer-student campus traffic advisory",
+  "ambient": "street_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "道",
+    "安全",
+    "注意",
+    "一緒",
+    "大切"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_041)",
+    "generated_at": "2026-05-27T02:04:36.447Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "レン君、自転車、注意、必要だ。",
+      "en": "Ren, you need to be more careful with your bicycle.",
+      "style": "Measured, professional opening. A gentle weight of authority — not stern, but clear. Speaking as someone who's seen accidents. Steady eye contact, grounded posture.",
+      "mood": "concerned_authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、気を付けます。",
+      "en": "Yes, I will be careful.",
+      "style": "Quiet, genuine. A small nod lives in the voice. Respectful without being performative — the real reassurance of someone taking it seriously.",
+      "mood": "receptive_sincere"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "車道、走る時、ライト、つけて。",
+      "en": "When you're riding on the main road, make sure your lights are on.",
+      "style": "Practical, direct. The tone of someone explaining something that matters because it's simple and it saves lives. No lecturing — just clear.",
+      "mood": "pragmatic_firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "夜、特に、気を付けます。",
+      "en": "I'll especially make sure at night.",
+      "style": "Thoughtful pause before the response. Absorbing the advice, not just hearing it. Soft commitment in the trailing edge — he's already thinking about how he'll do it.",
+      "mood": "attentive_committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "皆の安全、一緒に、守ろう。",
+      "en": "Let's all look out for each other on the road.",
+      "style": "A shift — still official, but warmer now. The words land like an invitation, not an order. A hint of philosophy underneath the practicality — safety is shared.",
+      "mood": "collaborative_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "安全、本当に、大切です。",
+      "en": "Safety really does matter.",
+      "style": "Quiet affirmation. He's not repeating what he was told — he's owning it. Soft conviction in the middle of the sentence, tapering to something almost contemplative.",
+      "mood": "thoughtful_earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良し、気を付けて。",
+      "en": "Good. Be careful out there.",
+      "style": "Closing warmth. The formality softens just slightly — not a rule anymore, but a human looking out. Brief, final, and carries a real goodbye.",
+      "mood": "protective_warm"
+    }
+  ]
+}

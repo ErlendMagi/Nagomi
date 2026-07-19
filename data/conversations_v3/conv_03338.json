@@ -1,0 +1,78 @@
+{
+  "id": "conv_03338",
+  "context": "Finalizing the venue layout",
+  "purpose": "Set the layout; teach サイド/スペース/主催/若干/製作/ホント/アドバイス/適当",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "サイド",
+    "スペース",
+    "主催",
+    "若干",
+    "製作",
+    "ホント",
+    "アドバイス",
+    "適当"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_167)",
+    "generated_at": "2026-05-29T17:36:45.500Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "会場のレイアウト、決まった？",
+      "en": "Is the venue layout decided?",
+      "style": "manager checking progress, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "受付を入口サイドに、展示を奥のスペースに。",
+      "en": "Reception by the entrance side, exhibits in the back space.",
+      "style": "assistant laying it out crisply, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "主催あいさつの時間も入れておいて。",
+      "en": "Include time for the host’s greeting too.",
+      "style": "manager adding a requirement, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "進行表は、若干の余裕を持たせます。",
+      "en": "I’ll leave a slight buffer in the schedule.",
+      "style": "careful assistant planning slack, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "パンフレットの製作は間に合いそう？",
+      "en": "Will the pamphlet production make it in time?",
+      "style": "manager checking a deadline, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ホントにギリギリですが、大丈夫です。",
+      "en": "It’s truly tight, but we’ll make it.",
+      "style": "assistant reassuring under pressure, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "何か困ったら、いつでもアドバイスするよ。",
+      "en": "If you’re stuck, I’ll advise anytime.",
+      "style": "supportive manager offering help, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "適当な休憩も挟んで、無理なく進めます。",
+      "en": "I’ll work in suitable breaks and pace it.",
+      "style": "sensible assistant managing energy, tone holding steady through the whole line"
+    }
+  ]
+}

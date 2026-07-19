@@ -1,0 +1,79 @@
+{
+  "id": "conv_05450",
+  "context": "A police officer briefs a uni reporter about department rotations",
+  "purpose": "Teach: 学歴/管轄/債券/互換/受験生/行え/工法/断定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "学歴",
+    "管轄",
+    "債券",
+    "互換",
+    "受験生",
+    "行え",
+    "工法",
+    "断定"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_274 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "人事配置、学歴のみで決めることはありません。",
+      "en": "Personnel placements aren't decided by credentials alone.",
+      "style": "Measured, professional opening. Steady eye-level. No defensiveness—just clarity. Breath is even. Speaking from experience, not lecturing.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "管轄の引き継ぎ、互換性のある人選を意識されますか。",
+      "en": "When you hand off jurisdiction, do you consciously pick people who can adapt to it?",
+      "style": "Thoughtful, slightly uncertain lean forward. Testing whether this question will land. Quiet but engaged. Genuine curiosity underneath the formality.",
+      "mood": "thoughtful_probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。受験生のように、若手も体系的に学んでいます。",
+      "en": "Yes. Young officers study systematically, just like exam candidates do.",
+      "style": "Affirmative nod in the voice. Clear, almost methodical pacing. The weight of institutional knowledge behind it. Not rushed.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "断定的な現場判断、その後の自信につながりますね。",
+      "en": "So making decisive calls in the field builds that confidence later on.",
+      "style": "Gentle realization in the tone, not a question despite the upward turn. Ren is piecing something together aloud. Warm, reflective. Seeking confirmation more than asking.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。最先端の捜査工法も、行えるよう研修を続けます。",
+      "en": "Yes. We maintain continuous training so officers can handle the latest investigative methods.",
+      "style": "Direct continuation of thought. Warm but formal—the language of institutional commitment. Breath controlled. Building on what came before, not restarting.",
+      "mood": "dedicated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "債券詐欺などの専門部署も、その流れですか。",
+      "en": "Specialist units like financial crimes—they follow that same framework?",
+      "style": "Following the thread carefully. Slight rise at the end—genuine question, not rhetorical. Ren is connecting dots aloud. Respectful of the answer coming.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おっしゃる通りです。",
+      "en": "Exactly.",
+      "style": "Quiet confirmation. A small smile in the voice. The conversation has moved from explanation to mutual understanding. One word, fully present.",
+      "mood": "validated"
+    }
+  ]
+}

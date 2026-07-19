@@ -1,0 +1,72 @@
+{
+  "id": "conv_03892",
+  "context": "A boss visits the cafe and discusses sales numbers with the owner",
+  "purpose": "Teach: 鍋/容量/汚れ/売り上げ/取り組む/定着/装備/求人",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鍋",
+    "容量",
+    "汚れ",
+    "売り上げ",
+    "取り組む",
+    "定着",
+    "装備",
+    "求人"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "葵さん、お疲れさま。今月の売り上げの数字、ちょっと見せてもらえるかな。",
+      "en": "Aoi, good work. Could I take a quick look at this month's sales figures?",
+      "style": "Boss tone, polite but direct authority, warm professional greeting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、こちらです。先月より売り上げが伸びていて、特にランチの鍋メニューが人気でした。",
+      "en": "Yes, here you go. Sales are up from last month, and the lunch hot pot menu was especially popular.",
+      "style": "Calm barista, professional reporting voice with clear delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。ただ、厨房の容量を考えると、これ以上注文が増えると回らなくなるんじゃないか。",
+      "en": "I see. But considering the kitchen's capacity, won't it get overwhelmed if orders keep increasing?",
+      "style": "Concerned boss, analytical and thoughtful, raising operational worry"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "実は古い鍋やコンロの油汚れもひどくて、容量の面でも限界に近いんです。",
+      "en": "Actually, the old pots and stoves have terrible grease stains too, and we're near our capacity limit.",
+      "style": "Earnest staff, raising practical concerns with concrete examples"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。厨房の装備を一新する件、本社としても前向きに取り組むよ。",
+      "en": "Understood. As for fully renewing the kitchen equipment, head office will work on it proactively.",
+      "style": "Supportive boss, decisive committal tone with clear ownership"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。あと、人手も足りないので、求人を出させてもらえると助かります。",
+      "en": "Thank you. Also, we're short-handed, so it would help if we could put out a job ad.",
+      "style": "Polite request, slightly apologetic barista tone with gratitude"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "もちろんだ。新しいスタッフがしっかり定着してくれるよう、研修もちゃんと整えよう。",
+      "en": "Of course. Let's also set up proper training so the new staff really stick around.",
+      "style": "Reassuring boss, planning forward warmly with supportive commitment"
+    }
+  ]
+}

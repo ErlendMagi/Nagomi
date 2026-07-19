@@ -1,0 +1,72 @@
+{
+  "id": "conv_03960",
+  "context": "A police officer briefs a reporter about a recent data-leak case",
+  "purpose": "Teach: ウェブサイト/暗号/転送/無効/流出/用途/任務/通用",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウェブサイト",
+    "暗号",
+    "転送",
+    "無効",
+    "流出",
+    "用途",
+    "任務",
+    "通用"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件では、企業の公式ウェブサイトから大量の顧客データが流出しました。",
+      "en": "In this case, a large amount of customer data leaked from the company's official website.",
+      "style": "Formal, measured tone of an experienced police officer briefing the press."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。犯人はどうやってシステムに侵入したんですか？",
+      "en": "I see. How did the perpetrator break into the system?",
+      "style": "Curious young reporter asking a direct follow-up question politely."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "暗号化された通信を悪用し、データを外部サーバーへ転送していたようです。",
+      "en": "They exploited encrypted communications and were apparently transferring data to an external server.",
+      "style": "Technical explanation delivered with calm authority and precision."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "流出した情報の用途については、何か分かっていますか？",
+      "en": "Do you know anything about what the leaked information was being used for?",
+      "style": "Probing question with a serious, professional journalistic tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "闇市場での売買が目的だったと見ています。我々の任務は被害の拡大を防ぐことです。",
+      "en": "We believe the goal was sale on the black market. Our mission is to prevent further damage.",
+      "style": "Resolute and duty-bound, emphasizing the gravity of police responsibility."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "盗まれたアカウントはもう無効化されたんでしょうか？",
+      "en": "Have the stolen accounts already been invalidated?",
+      "style": "Concerned question reflecting awareness of public safety concerns."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、該当アカウントはすべて無効にしました。古い手口は今の時代には通用しません。",
+      "en": "Yes, all the relevant accounts have been disabled. Old tactics don't work in today's era.",
+      "style": "Confident, slightly stern tone showing professional pride and reassurance."
+    }
+  ]
+}

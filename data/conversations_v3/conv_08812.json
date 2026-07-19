@@ -1,0 +1,86 @@
+{
+  "id": "conv_08812",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 吸着/触発/技量/施術/力説/肝炎/訪米/致死",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "吸着",
+    "触発",
+    "技量",
+    "施術",
+    "力説",
+    "肝炎",
+    "訪米",
+    "致死"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、現場の物質吸着サンプルを警察、採取されてますね",
+      "en": "So the police have already collected the material absorption samples from the scene, then?",
+      "style": "Thoughtful, slightly deferential. Seeking confirmation with genuine curiosity. Slow, careful pacing—the tone of someone working through technical details. Keeps eye contact but doesn't push.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者を触発する報道を警戒します",
+      "en": "We're careful to monitor any press coverage that might agitate the suspects.",
+      "style": "Measured, professional. Even cadence—matter-of-fact but not cold. The practiced clarity of someone who has explained procedure many times. Steady eye contact, no apology in the voice.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察の技量に頼っております",
+      "en": "We're relying on the police's expertise with this case.",
+      "style": "Genuine respect beneath the surface formality. Quiet sincerity on 「頼って」. No flattery—acknowledgment of competence. Slight lean forward, as if sharing responsibility.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不法施術医療業者を摘発します",
+      "en": "We're going to crack down on illegal medical practitioners.",
+      "style": "Firmer resolve here. Slight emphasis on 「摘発」—conviction without aggression. The tone shifts to stated purpose. Shoulders set, voice carries authority but not harshness.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、市民安全の重要性を力説されてますね",
+      "en": "It's clear the police are emphasizing how critical public safety is in this case.",
+      "style": "Acknowledging, almost nodding through the words. Recognizes a principle being stated. Warm agreement—not challenging, but understanding. Soft landing at the end.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、肝炎キャリア被害者の支援にも対応します",
+      "en": "We're also taking steps to support victims who are hepatitis carriers.",
+      "style": "Steady, compassionate beneath the procedure. Widening the scope—showing the full picture of care. Voice opens slightly on 「支援」. Not rehearsed; genuine commitment to the detail.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、訪米中の要人の警備を警察、ご担当ですね",
+      "en": "So the police are also handling security for the dignitaries visiting from the US?",
+      "style": "Recognition of scope expanding. Slightly impressed—seeking confirmation of the breadth of responsibility. Measured tone, genuine respect. Pause before 「ご担当」, deferential but not obsequious.",
+      "mood": "impressed_deferential"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、致死性毒物の流通を厳格に取り締まります",
+      "en": "We're strictly controlling the distribution of lethal toxins.",
+      "style": "Final statement—clear, decisive. Firm emphasis on 「厳格に」. This is the bottom line. Voice carries weight without raising volume. Closes the conversation with finality.",
+      "mood": "stern_final"
+    }
+  ]
+}

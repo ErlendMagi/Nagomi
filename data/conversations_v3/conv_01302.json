@@ -1,0 +1,62 @@
+{
+  "id": "conv_01302",
+  "context": "Hina and Sho collect autumn leaves at the park.",
+  "purpose": "children leaves-collection exchange",
+  "ambient": "park_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "秋",
+    "葉",
+    "一緒",
+    "楽しい",
+    "綺麗"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_065)",
+    "generated_at": "2026-05-27T04:59:05.416Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、秋の葉、いっぱい、綺麗。",
+      "en": "Sho, look—autumn leaves everywhere. They're so pretty!",
+      "style": "Bright, genuine excitement. Quick, eager opening. Soft childish voice, unperformed warmth. Slight pause before the observation, like she's drawing his attention to something she's already enchanted by.",
+      "mood": "delighted_generous"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、本当、綺麗、ね。",
+      "en": "Yeah—they really are beautiful.",
+      "style": "Quiet agreement, smaller voice than hers. Soft and sincere, no rush. Gentle confirmation, like he's been noticing the same thing. Small, warm smile underneath the words.",
+      "mood": "serene_appreciative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、集めよう、本当に。",
+      "en": "Let's collect them together—really collect a bunch!",
+      "style": "Quick pivot to possibility, full-body enthusiasm in her voice. Rising energy on the request. Childish directness—she's offering him something, not asking permission. Genuine warmth, no performance.",
+      "mood": "excited_inclusive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、本当、絶対。",
+      "en": "That'd be fun—really fun, for sure.",
+      "style": "Quiet conviction. Small, steady voice committing to the idea. Sincere warmth without exaggeration. Like he's already imagining it and finding it safe.",
+      "mood": "content_committed"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "思い出、作る、本当、ね。",
+      "en": "We'll make a real memory together, won't we?",
+      "style": "Softer, more tender than before. Opening slightly slower, like the moment has deepened for her. Childish but aware—a small philosophy. Warm trailing-off at the end, inviting his agreement.",
+      "mood": "wistful_connected"
+    }
+  ]
+}

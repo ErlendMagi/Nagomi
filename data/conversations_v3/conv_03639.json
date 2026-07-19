@@ -1,0 +1,78 @@
+{
+  "id": "conv_03639",
+  "context": "A reporter explains a breaking news bulletin to a teacher colleague",
+  "purpose": "Teach: 主導/両国/受け入れる/速報/死に/努め/跡/予報",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主導",
+    "両国",
+    "受け入れる",
+    "速報",
+    "死に",
+    "努め",
+    "跡",
+    "予報"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_182 workflow w1xr4xf66)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、すみません、たった今ニュース速報が入って、ちょっと混乱しています。",
+      "en": "Teacher, sorry, a news flash just came in and I'm a bit confused.",
+      "style": "Apologetic, slightly breathless, formal tone toward a senior teacher colleague."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "速報？何があったの、落ち着いて話してくれる？",
+      "en": "Breaking news? What happened, can you tell me calmly?",
+      "style": "Calm, gently coaxing, teacherly composure encouraging him to slow down."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "両国の首脳会談が決裂したらしくて、見出しが死に物狂いで書き直されています。",
+      "en": "Apparently the summit between the two countries broke down, and headlines are being frantically rewritten.",
+      "style": "Rapid, journalistic, conveying newsroom urgency with vivid idiomatic phrasing."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええっ、両国とも合意を受け入れる方向だったはずでしょう？",
+      "en": "What? Both countries were supposed to be moving toward accepting the agreement, weren't they?",
+      "style": "Shocked, questioning, voice rising with genuine surprise and concern."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それが、どちらが主導するかで揉めて、署名直前で破談になったそうです。",
+      "en": "Well, they clashed over which side would take the lead, and it fell apart right before signing.",
+      "style": "Explanatory, slightly hushed, sharing insider details with a knowing reporter's tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "交渉の跡が全部水の泡ね…関係者は再開に努めているのかしら。",
+      "en": "All traces of the negotiation are wasted then... are the people involved trying to resume talks?",
+      "style": "Wistful, sighing, reflective sadness softened by curiosity about next steps."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、外務省は対話継続に努めると発表しましたが、雲行きが怪しいです。",
+      "en": "Yes, the foreign ministry announced they'll strive to continue dialogue, but the outlook looks shaky.",
+      "style": "Measured, professional, citing official statements with a hint of skepticism."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "天気予報より当てにならないわね、最近の国際ニュースって。",
+      "en": "Lately international news is less reliable than the weather forecast, isn't it?",
+      "style": "Dry humor, wry smile in voice, light sarcasm to ease the heavy mood."
+    }
+  ]
+}

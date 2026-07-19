@@ -1,0 +1,76 @@
+{
+  "id": "conv_01146",
+  "context": "Asuka helps Sho with his homework.",
+  "purpose": "teacher-child homework-help exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "宿題",
+    "一緒",
+    "頑張る",
+    "勉強",
+    "優しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_058)",
+    "generated_at": "2026-05-27T04:10:09.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、宿題、見せて。",
+      "en": "Sho-kun, let me see your homework.",
+      "style": "Warm, unhurried opening. Gentle curiosity in the voice — genuinely interested in what he's done. No pressure, just inviting him to share. The tone of a teacher who notices when a child is ready to ask for help.",
+      "mood": "patient_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい、ここ、難しい。",
+      "en": "Yes — this part is hard for me.",
+      "style": "Small, honest voice. A quiet vulnerability — admitting difficulty without shame. The careful enunciation of a six-year-old trying to put his thoughts into words. Trusting that it's safe to say he doesn't know.",
+      "mood": "honest_vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、考えよう、ゆっくり。",
+      "en": "Let's think through it together. Nice and slow.",
+      "style": "Calm, collaborative. Slightly leaning in. The reassurance of 'together' is both the sentence and the delivery. No rush. Clear, encouraging pace that matches a child's thinking speed.",
+      "mood": "reassuring_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る。",
+      "en": "Mm-hmm. I'll do my best.",
+      "style": "Quiet determination beneath the small voice. A nod in the tone. Not straining to sound confident — just willing. The gentle commitment of a child who wants to get it right.",
+      "mood": "determined_small"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "分かったね、優しく、書こう。",
+      "en": "You've got it now. Let's write it down gently, okay?",
+      "style": "Affirming and calm. A light brightness — celebrating the small moment of understanding without overdoing it. Practical warmth moving him forward. Like she's giving him permission to succeed.",
+      "mood": "encouraging_clear"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "勉強、楽しい、本当。",
+      "en": "This really is fun, isn't it.",
+      "style": "Surprised discovery in the tone — small, genuine. Not performing enthusiasm. The realization that learning with someone who listens is actually enjoyable. A moment of authentic brightness.",
+      "mood": "delighted_genuine"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "よく出来た、しょうくん。",
+      "en": "You did really well, Sho-kun.",
+      "style": "Warm, settling closure. Specific praise that isn't inflated — reflecting back what he actually accomplished. The kind of affirmation that lands because it's real. Spoken like she means it and will remember he did this.",
+      "mood": "proud_affirming"
+    }
+  ]
+}

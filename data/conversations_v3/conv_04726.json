@@ -1,0 +1,72 @@
+{
+  "id": "conv_04726",
+  "context": "A boss reviews quarterly pricing strategy with his deputy",
+  "purpose": "Teach: 引き下げ/免除/落札/需給/補完/著名/完結/出入り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き下げ",
+    "免除",
+    "落札",
+    "需給",
+    "補完",
+    "著名",
+    "完結",
+    "出入り"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_238 workflow wxr5wooap)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の価格戦略だが、主力商品の引き下げをどこまで踏み込むか、君の意見を聞きたい。",
+      "en": "Regarding this quarter's pricing strategy, I want your view on how far to push the price reduction on our flagship products.",
+      "style": "Authoritative boss, measured tone, opens with directive framing."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "需給バランスを見ますと、競合が著名な大手二社に絞られてきていますので、価格よりブランド面で勝負すべきかと。",
+      "en": "Looking at supply and demand, competition has narrowed to two well-known major players, so I think we should compete on brand rather than price.",
+      "style": "Deputy speaking carefully, analytical, deferential but confident."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。ただ先月の入札で例の案件を他社に落札されただろう。あれは価格負けだ。",
+      "en": "I see. But last month we lost that bid to a competitor, didn't we. That was a defeat on price.",
+      "style": "Pushes back gently, references concrete setback to test deputy."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。ですので低価格帯は補完ラインとして残し、関税免除の対象品目に絞って原価を下げる案を検討しております。",
+      "en": "You're absolutely right. So I'm considering keeping the low-price range as a complementary line and cutting costs by focusing on items eligible for tariff exemption.",
+      "style": "Concedes point, pivots to detailed counter-proposal with specifics."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "悪くない。倉庫の出入りも最近激しいから、在庫回転と合わせて数字を出してくれ。",
+      "en": "Not bad. Warehouse traffic has been heavy lately too, so give me the numbers together with inventory turnover.",
+      "style": "Approving but demanding, layers additional operational requirement."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。本件は今四半期で完結させ、来期は新規市場の議論に移れるよう資料をまとめます。",
+      "en": "Understood. I'll wrap this matter up within this quarter and prepare materials so we can move to discussions of new markets next term.",
+      "style": "Crisp acknowledgment, signals follow-through and forward planning."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだ。金曜の役員会までに頼む。資料は簡潔にな。",
+      "en": "I'm counting on you. Have it ready by Friday's board meeting. Keep the materials concise.",
+      "style": "Closes briskly, delegates with clear deadline and constraint."
+    }
+  ]
+}

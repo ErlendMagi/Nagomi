@@ -1,0 +1,65 @@
+{
+  "id": "conv_05908",
+  "context": "A boss mentors a uni intern on manufacturing",
+  "purpose": "Teach: 晋/炉/包装/試みる/封筒/簡素/直結/軽視",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "晋",
+    "炉",
+    "包装",
+    "試みる",
+    "封筒",
+    "簡素",
+    "直結",
+    "軽視"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、晋一郎工場長と、現場を歩こう。",
+      "en": "Ren, let's walk the floor with Plant Manager Shin-ichiro.",
+      "style": "Steady, inviting tone. A light touch on the request—this is an offer and a teaching moment. Direct eye contact, slight lean forward. Confident in his student.",
+      "mood": "mentor_calm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。電気炉の温度管理、勉強したいです。",
+      "en": "Yes. I want to study the electric furnace temperature control.",
+      "style": "Quick, alert opening. Soft and respectful but genuine—not performing eagerness. Words land clean. Slight intake of breath before speaking shows he's been waiting for this.",
+      "mood": "focused_eager"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "包装の試みる新案、君にも意見を求める。",
+      "en": "The packaging innovations we're testing—I want your perspective on them.",
+      "style": "Deliberate, measured pace. Weight on 「innovations」. Treating this as a real request, not a quiz. Expects Ren to think, not just listen. Still warm underneath the directness.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "封筒型の試作、簡素ですが、機能的ですね。",
+      "en": "The envelope-form prototype is simple but remarkably functional.",
+      "style": "Thoughtful pause before speaking. Voice gains confidence mid-sentence as he commits to the observation. Genuine respect in how he lands on 「functional」—he means it, not flattering.",
+      "mood": "observant_sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "IT連携、製造データを直結させる時代だ。軽視するな。",
+      "en": "IT integration—direct manufacturing data connectivity is where we are now. Don't overlook it.",
+      "style": "Firmer tone, almost sharp on the opening. Not harsh, but intent on landing the point. Leans back slightly, watching Ren's face. The warning is firm but rooted in care, not reproach.",
+      "mood": "firm_instructive"
+    }
+  ]
+}

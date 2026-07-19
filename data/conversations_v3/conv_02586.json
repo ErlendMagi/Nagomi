@@ -1,0 +1,75 @@
+{
+  "id": "conv_02586",
+  "context": "Hiroshi-boss introduces the company to a new hire.",
+  "purpose": "WIDENED SCENARIO: company orientation; corporate vocabulary (株式会社/会長/職員/法人/事務所) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "株式会社",
+    "会長",
+    "職員",
+    "法人",
+    "事務所"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ようこそ、我が株式会社へ。",
+      "en": "Welcome to our company.",
+      "style": "warm boss voice, soft warm composed welcoming clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "株式会社の歴史は、長いんですか?",
+      "en": "Does the company have a long history?",
+      "style": "curious young hire voice, soft warm earnest engaged throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会長が、五十年前に立ち上げたんだ。",
+      "en": "The chairman founded it fifty years ago.",
+      "style": "measured boss voice, soft warm composed clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "職員は、何名いるんですか?",
+      "en": "How many staff are there?",
+      "style": "attentive young hire voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今、職員は二百名ほどだ。",
+      "en": "Now there are about two hundred staff.",
+      "style": "clear boss voice, soft warm composed clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "法人としての強みは、何ですか?",
+      "en": "What's the strength as a corporation?",
+      "style": "thoughtful young hire voice, soft warm curious throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "法人としての信用が、我々の財産だ。",
+      "en": "Our credibility as a corporation is our asset.",
+      "style": "firm boss voice, soft warm composed clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "この事務所で、頑張ります!",
+      "en": "I'll do my best at this office!",
+      "style": "eager young hire voice, soft warm determined closing throughout"
+    }
+  ]
+}

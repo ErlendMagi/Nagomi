@@ -1,0 +1,72 @@
+{
+  "id": "conv_04013",
+  "context": "A retired diplomat and a teacher discuss a government scandal",
+  "purpose": "Teach: 官房/省庁/起訴/告発/追及/朝刊/闘い/難民",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "官房",
+    "省庁",
+    "起訴",
+    "告発",
+    "追及",
+    "朝刊",
+    "闘い",
+    "難民"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "今朝の朝刊、ご覧になりましたか。官房長官の名前がまた一面に出ておりましたな。",
+      "en": "Did you see this morning's paper? The Chief Cabinet Secretary's name was on the front page again.",
+      "style": "Slow, gravelly elder register with formal politeness markers"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、読みました。関係省庁ぐるみの隠蔽だと書かれていて、本当に何とも言えない気分です。",
+      "en": "Yes, I read it. They wrote it was a cover-up involving multiple ministries — honestly, I don't know what to feel.",
+      "style": "Composed teacher tone, measured pace with thoughtful pauses"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "野党の追及もずいぶん鋭くなってきましたが、結局のところ、起訴まで持っていけるかどうかですよ。",
+      "en": "The opposition's questioning has gotten sharp, but in the end it comes down to whether they can bring an indictment.",
+      "style": "Sighing diplomat cadence, world-weary and analytical"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "内部告発をした方の勇気には頭が下がります。あれは一人の闘いだったと思います。",
+      "en": "I have nothing but respect for the whistleblower's courage. That must have been a lonely battle.",
+      "style": "Quiet admiration, gentle and reflective teacher voice"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "たしかに、組織を相手にするのは並大抵ではありません。私が現役の頃も似たようなことが繰り返されておりました。",
+      "en": "Indeed, taking on an institution is no small thing. Similar things happened back when I was still active.",
+      "style": "Reflective old-statesman voice with nostalgic weight"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "気になるのは、難民支援の予算まで削られそうだという話です。そちらの議論にこの問題が影を落とさなければいいのですが。",
+      "en": "What worries me is the talk of cutting the refugee support budget too. I hope this scandal doesn't cast a shadow over that debate.",
+      "style": "Concerned, civic-minded teacher with soft urgency"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おっしゃる通りです。せめて、きちんと真相が明らかになるまで、私どもも声を上げ続けねばなりませんな。",
+      "en": "You're quite right. At the very least, we must keep raising our voices until the truth is properly brought to light.",
+      "style": "Resolute closing tone, dignified and firm elder cadence"
+    }
+  ]
+}

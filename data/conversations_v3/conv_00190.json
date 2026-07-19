@@ -1,0 +1,69 @@
+{
+  "id": "conv_00190",
+  "context": "Sho is at the café with his mother. While she's ordering, Aoi quietly offers him a sticker.",
+  "purpose": "small barista-child kindness — adult attentiveness to a shy child",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "静か",
+    "ジュース",
+    "シール",
+    "どれ",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "こんにちは。何か飲みたい？",
+      "en": "Hello. Want something to drink?",
+      "style": "Soft dreamy barista kneeling-down register, the child-tuned warmth carrying through gently, soft attentive care throughout.",
+      "mood": "soft-attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…ジュース、ください。",
+      "en": "…Juice, please.",
+      "style": "Tiny six-year-old polite shy request, the careful pause before the order, soft small voice throughout delivery.",
+      "mood": "shyly-polite"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "えらいね、ちゃんと言えて。シール、どれ好き？",
+      "en": "Good job saying it properly. Which sticker do you like?",
+      "style": "Soft dreamy barista warm praise, the gentle bonus-offer opening up generously, soft attentive care throughout delivery.",
+      "mood": "gently-praising"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "これ…車のやつ。",
+      "en": "This… the car one.",
+      "style": "Tiny six-year-old quiet pointing voice, the gentle decision made softly, soft small careful delivery throughout.",
+      "mood": "quietly-deciding"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、どうぞ。お利口さんだね。",
+      "en": "Here you go. What a good boy.",
+      "style": "Soft dreamy barista warm bestowing, the gentle praise wrapping the small gift, soft real care threading throughout.",
+      "mood": "warmly-bestowing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう…ございます。",
+      "en": "Thank you… very much.",
+      "style": "Tiny six-year-old careful polite warmth, the gradual completion of the full phrase, soft small earnestness throughout delivery.",
+      "mood": "carefully-polite"
+    }
+  ]
+}

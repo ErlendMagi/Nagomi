@@ -1,0 +1,65 @@
+{
+  "id": "conv_05829",
+  "context": "A police officer briefs an exec team about plant security",
+  "purpose": "Teach: 長谷川/戸田/松下/原田/小島/大野/吉川/柴田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長谷川",
+    "戸田",
+    "松下",
+    "原田",
+    "小島",
+    "大野",
+    "吉川",
+    "柴田"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の長谷川部長、戸田課長、ご紹介ありがとうございました。",
+      "en": "Director Hasegawa, Chief Toda — thank you for arranging this. I appreciate it.",
+      "style": "Professional but warm handshake in the voice. Clear, measured opening. Respectful pause on names. Light breath between clause and gratitude — formality without coldness.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。松下さん、原田さんも現場を案内します。",
+      "en": "Of course. Matsushita and Harada will take you through the facility.",
+      "style": "Straightforward and helpful, matching his visitor's professionalism. Slight lift on the offer — readiness to facilitate. Even pacing, no friction.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "小島さん、大野さんが、夜勤管理者ですか。",
+      "en": "So Kojima and Ono — they're the night shift managers?",
+      "style": "Clarifying question, respectful but direct. Slight emphasis on the names as checkpoints. Leaning into the details. No doubt in the tone, just confirmation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。吉川さんが警備計画、柴田さんが入退場管理です。",
+      "en": "Yes. Yoshikawa oversees the security protocols, and Shibata handles access control.",
+      "style": "Clear, structured response. Light breath between the two roles — itemizing without rushing. Calm authority. Each name lands as a concrete responsibility.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "引き続き連携を。",
+      "en": "Then let's keep working together on this.",
+      "style": "Steady, closing the loop. Quiet confidence — not perfunctory but final. Breath beneath the words like a handshake. Looking forward, not back.",
+      "mood": "resolved"
+    }
+  ]
+}

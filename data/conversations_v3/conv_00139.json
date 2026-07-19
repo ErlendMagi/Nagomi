@@ -1,0 +1,67 @@
+{
+  "id": "conv_00139",
+  "context": "A small post office. Sachiko has come to mail a parcel to her son. Officer Takeda has stopped in on a routine visit and ends up holding the door.",
+  "purpose": "tiny micro-courtesy — old woman, kind officer, no fuss",
+  "ambient": "post_office",
+  "target_vocab": [
+    "本当に",
+    "すみません",
+    "ありがとう",
+    "大丈夫"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "takeda_officer"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "あら、ありがとうございます。",
+      "en": "Oh, thank you so much.",
+      "style": "Warm, proper gratitude. Slight formal bow in the voice—chin lowering just perceptibly. Soft attack, lingering on the thanks. Not rushed, completely present.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お気をつけて。",
+      "en": "Please take care of yourself.",
+      "style": "Steady, measured professional kindness. Even tone, attentive gaze held in the voice. No hurry. Simple weight behind each word—the care underneath the courtesy.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お時間、本当に、すみません。",
+      "en": "Thank you—truly sorry to have taken your time.",
+      "style": "Soft, reflexive apology wrapped in genuine politeness. Slight hesitation before the second clause, as if checking herself. Trailing upward gently, not demanding reassurance.",
+      "mood": "apologetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫ですよ。お荷物、お持ちしましょうか。",
+      "en": "Really? Oh, thank you—that's so kind of you.",
+      "style": "Small surprised lift on the opening. Warmth blooms across the sentence. Grateful, genuinely touched—not performing gratitude but feeling it. Voice opens up slightly.",
+      "mood": "touched_grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に？ありがとう、嬉しい。",
+      "en": "Truly? Thank you—I'm so glad.",
+      "style": "Warm pleasure mixed with surprise. Soft brightness in the tone. The delight is real but contained—elder's dignity held gently underneath the warmth.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。お元気で。",
+      "en": "It was my pleasure. Please stay well.",
+      "style": "Genuine, unforced warmth. No performance in the sincerity. Steady closure—kind but not effusive. The voice carries quiet human connection, nothing more.",
+      "mood": "warm_sincere"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05583",
+  "context": "A mom helps her young son interpret a school event",
+  "purpose": "Teach: ギャップ/育ち/不信/浮気/大騒ぎ/おいしかっ/おいしく/怒る",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ギャップ",
+    "育ち",
+    "不信",
+    "浮気",
+    "大騒ぎ",
+    "おいしかっ",
+    "おいしく",
+    "怒る"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日クラスで、大騒ぎあったよ。",
+      "en": "Mom, something big happened in class today.",
+      "style": "Hesitant opening, like he's gathering his thoughts. Quiet, careful tone — testing to see if she'll want to hear it. Slight uncertainty underneath, as if the news still sits uncomfortably with him.",
+      "mood": "uncertain_thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あらら、誰かが怒る場面でも?",
+      "en": "Oh? Did someone get upset?",
+      "style": "Warm, attentive. She leans in just slightly — not alarmed, but genuinely curious. A mother's practiced ease, inviting him to say more without pushing. Light and open-ended.",
+      "mood": "gently_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ううん、ナナちゃんの好きな子、浮気疑惑がかかってて、不信なんだって。",
+      "en": "No, but Nana's crush got accused of cheating on someone. She's really upset about it.",
+      "style": "Matter-of-fact delivery, like he's relaying the facts as a observer. Steady pace — he's noticed this drama, turned it over, but hasn't made it his own worry. A small, clear voice laying out what he saw.",
+      "mood": "observant_neutral"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "子供同士の浮気騒ぎ、可愛いギャップね。",
+      "en": "Cheating drama among kids — there's something almost sweet about it.",
+      "style": "Soft, almost to herself. A knowing smile in the voice. She's catching something both tender and ridiculous about the moment. Warm without being dismissive of what mattered to them.",
+      "mood": "warm_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "給食、ハンバーグ、めちゃおいしかった!",
+      "en": "Oh, and lunch today — the hamburger was really good!",
+      "style": "Sudden brightness. The switch is genuine and quick, like something just made him happy. Open, clear vowels. The simple delight of a kid who found something worth savoring.",
+      "mood": "bright_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "夜ご飯もおいしく作るから、楽しみにしててね。育ち盛りだもんね。",
+      "en": "I'll make dinner just as tasty — you've got a lot of growing to do, after all.",
+      "style": "Warm and steady, almost sing-song ease. There's tenderness in the words but no performance — just a mother stating what she knows. She reaches him at his level: food, care, the simple comfort of being fed well.",
+      "mood": "tender_present"
+    }
+  ]
+}

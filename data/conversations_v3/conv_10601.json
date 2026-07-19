@@ -1,0 +1,86 @@
+{
+  "id": "conv_10601",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 陽子/高山/高松/佐賀/島根/日本橋/水田/淵",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "陽子",
+    "高山",
+    "高松",
+    "佐賀",
+    "島根",
+    "日本橋",
+    "水田",
+    "淵"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_532 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと陽子おばさんが学生時代の同級生だったって、聞いたわよ",
+      "en": "Sho, I heard that your dad and Aunt Yōko were classmates back in school.",
+      "style": "Gentle, curious opener. Warm tone conveying a shared discovery. Slight lift at the end — inviting him into the story, not lecturing.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと飛騨高山の温泉旅行行ってきたよ",
+      "en": "Mom, Dad and I went to an onsen in Hida Takayama!",
+      "style": "Bright, urgent energy from the start. Kid's pride in the outing bubbling up. Natural child-tempo — quick, animated, eager to share the whole thing at once.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「高松のうどんは絶品」って語って下さるわ",
+      "en": "Sho, your dad was telling me the udon in Takamatsu is absolutely exquisite.",
+      "style": "Gentle, slightly amused reflection. Soft admiration for his father's passion creeping in. Measured pace, slightly dreamy — picturing the moment he spoke.",
+      "mood": "warm_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと佐賀のお祭りに行ったよ",
+      "en": "Mom, I went to a festival in Saga with Dad!",
+      "style": "Bright, eager rush. Child's excitement bursting through. Quick rhythm, punchy delivery — each word tumbling over itself to get the news out.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「島根の出雲大社にお参りしよう」って仰ってたわ",
+      "en": "Sho, your dad was saying he'd like to go pay respects at Izumo Shrine in Shimane.",
+      "style": "Quieter, more reflective. Gentle reverence for the intention. Slower pace, thoughtful — she's considering what it means, not just reporting it.",
+      "mood": "tender_thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと日本橋でお買い物したよ",
+      "en": "Mom, Dad and I went shopping at Nihonbashi!",
+      "style": "Bright, immediate excitement. Child's simple joy in the memory. Quick, direct pacing — no hesitation, just pure enthusiasm tumbling out.",
+      "mood": "happy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「水田の風景は心が落ち着く」って仰ってたわ",
+      "en": "Sho, your dad was saying that rice paddies really calm his heart.",
+      "style": "Soft, intimate reflection. A moment of quiet warmth — she's touching something tender he shared. Slow, almost meditative pace. Trailing gently at the end.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと川の淵で魚を釣ったよ",
+      "en": "Mom, I fished for fish with Dad in the river!",
+      "style": "Bright, proud closing rush. Peak child energy — the specificity and joy of a small adventure. Eager, quick-paced, with a note of accomplishment at the end.",
+      "mood": "proud_happy"
+    }
+  ]
+}

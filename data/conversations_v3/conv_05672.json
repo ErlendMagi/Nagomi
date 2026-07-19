@@ -1,0 +1,65 @@
+{
+  "id": "conv_05672",
+  "context": "A police officer briefs a reporter about a fraud case",
+  "purpose": "Teach: 文化財/水面/悪質/脅迫/製薬/地価/告げる/変容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "文化財",
+    "水面",
+    "悪質",
+    "脅迫",
+    "製薬",
+    "地価",
+    "告げる",
+    "変容"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "地価高騰に乗じた悪質な詐欺、増えています。",
+      "en": "We're seeing a rise in fraud schemes that exploit real estate price surges.",
+      "style": "Measured, professional opening. Clear diction on the problem statement. Slightly elevated register — official but not cold. The cadence of someone briefing stakeholders.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者に脅迫が及んだ事案もあると聞きました。",
+      "en": "I've heard there have been cases where victims faced intimidation as well.",
+      "style": "Thoughtful pause before speaking. Lean into curiosity rather than challenge. Soft upswing on the question — genuine inquiry, not performative. Engaged but not pushing.",
+      "mood": "curious_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。文化財の周辺が水面下で取引される構造も問題です。",
+      "en": "Yes. And there's a structural problem with how cultural heritage sites get traded quietly behind the scenes.",
+      "style": "Nod of acknowledgment. Shift to procedural gravity. Slower tempo on the explanation. Deliberate emphasis on 「構造」— this is the deeper issue. Professional but not distant.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域社会が変容する中、企業のジャーナリズム的責任も。",
+      "en": "As local communities shift and change, companies have a responsibility to report on it honestly, don't they.",
+      "style": "Lean forward slightly. Raise the stakes without aggression. Thoughtful, almost philosophical turn — this is a real question beneath the statement. Slight upswing at the end.",
+      "mood": "thoughtful_pressing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "製薬や小売、業種を超えた連携を告げる時期です。",
+      "en": "It's time we announced cross-industry coordination—pharmacies, retailers, all sectors working together.",
+      "style": "Firm close. Authoritative but not authoritarian. Decisive clarity. The voice of someone moving from problem to solution. Slight emphasis on 「連携」 — unity, not mandate.",
+      "mood": "determined"
+    }
+  ]
+}

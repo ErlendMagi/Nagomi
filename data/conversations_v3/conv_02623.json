@@ -1,0 +1,69 @@
+{
+  "id": "conv_02623",
+  "context": "Daichi and Mei look at a house under construction.",
+  "purpose": "WIDENED SCENARIO: construction chat; vocabulary (建築/建設/ドア/メーカー/危険) in natural home.",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "建築",
+    "建設",
+    "ドア",
+    "メーカー",
+    "危険"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_132)",
+    "generated_at": "2026-05-29T13:26:03.452Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "あの住宅、まだ建設中やな。",
+      "en": "That house is still under construction.",
+      "style": "lively Kansai man voice, warm hearty delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "珍しい建築ですね。どこのメーカーですか?",
+      "en": "Unusual architecture. Which maker is it?",
+      "style": "soft warm woman voice, gentle engaged delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "有名なメーカーの建築やで。",
+      "en": "It's a famous maker's construction.",
+      "style": "cheerful Kansai man voice, warm informative delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あのドア、もう付いていますね。",
+      "en": "That door is already installed.",
+      "style": "observant woman voice, gentle warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ドアは最後やのに、早いなあ。",
+      "en": "Doors come last, so that's fast.",
+      "style": "lively Kansai man voice, warm delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "建設現場は、危険そうですね。",
+      "en": "Construction sites look dangerous.",
+      "style": "cautious woman voice, gentle warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "そや、危険やから近づかんとこ。",
+      "en": "Yeah, it's dangerous, so let's not get close.",
+      "style": "cheerful Kansai man voice, warm caring closing delivery throughout"
+    }
+  ]
+}

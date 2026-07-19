@@ -1,0 +1,90 @@
+{
+  "id": "conv_00204",
+  "context": "Dr. Saito does a house-call check on Mrs. Mori's minor knee trouble. She has tea ready, naturally.",
+  "purpose": "gentle home medical visit — long-known patient receiving careful in-home attention",
+  "ambient": "tatami_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "訪問",
+    "膝",
+    "痛み",
+    "無理",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お邪魔します。今日は訪問診療で。",
+      "en": "Excuse the intrusion. Today's a home visit.",
+      "style": "Doctor warm professional opener, the home-call register softer than clinic, soft real respect threading throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "先生、わざわざ。お茶どうぞ。",
+      "en": "Doctor, all the way out here. Have some tea.",
+      "style": "Neighbor warm hosting greeting, the routine community-hospitality, soft real appreciation threading throughout delivery throughout.",
+      "mood": "warmly-hosting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ありがとうございます。膝の調子はどうですか。",
+      "en": "Thank you. How's your knee feeling?",
+      "style": "Doctor warm professional pivot to work, the gentle careful inquiry, soft real attention threading throughout delivery.",
+      "mood": "gently-inquiring"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "うーん、階段はきついわ。",
+      "en": "Mm, stairs are rough.",
+      "style": "Neighbor honest specific complaint, the daily-life detail offered plainly, soft real candor threading throughout delivery.",
+      "mood": "honestly-plain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "階段ですか。痛みは、いつ強くなりますか。",
+      "en": "Stairs, I see. When does the pain get worse?",
+      "style": "Doctor professional careful follow-up, the clinical precision delivered with warmth, soft real attention threading throughout.",
+      "mood": "carefully-following"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "朝が一番つらいの。動かし始める時。",
+      "en": "Mornings are worst. When I start moving.",
+      "style": "Neighbor warm specific recall, the practical patient-reporting honest, soft real engagement threading throughout delivery.",
+      "mood": "warmly-recalling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。無理しないことが、まず大事です。",
+      "en": "I see. First, not pushing yourself is what matters.",
+      "style": "Doctor warm gentle wisdom-instruction, the professional kindness audible, soft real care threading throughout delivery.",
+      "mood": "warmly-instructing"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "はい、気をつけます。来てもらえて安心したわ。",
+      "en": "Yes, I'll be careful. I'm relieved you came.",
+      "style": "Neighbor warm closing gratitude, the home-visit relief audible, soft real appreciation threading throughout delivery throughout.",
+      "mood": "gratefully-relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "また来週、様子見に伺いますね。",
+      "en": "I'll come by next week to check on you again.",
+      "style": "Doctor warm professional follow-up promise, the home-care commitment audible, soft real care threading throughout delivery.",
+      "mood": "warmly-promising"
+    }
+  ]
+}

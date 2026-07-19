@@ -1,0 +1,65 @@
+{
+  "id": "conv_05651",
+  "context": "A doctor explains transplant ethics to a uni reporter",
+  "purpose": "Teach: 犯行/孤立/敗北/臓器/発症/投与/危惧/及ぼし",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "犯行",
+    "孤立",
+    "敗北",
+    "臓器",
+    "発症",
+    "投与",
+    "危惧",
+    "及ぼし"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "臓器移植、提供者が孤立しない仕組みが大事です。",
+      "en": "In organ transplantation, the systems that prevent donor isolation are crucial.",
+      "style": "Measured, clear delivery. Patient authority without condescension. Slight pause before the key word 'isolation'—weighing the human reality behind the clinical term. Steady eye contact.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症の発症リスク、投与する免疫抑制剤との関係も気になります。",
+      "en": "I'm concerned about the infection-onset risk and how it relates to the immunosuppressants we'd be administering.",
+      "style": "Genuine curiosity, the second hour of conversation emerging. Slight hesitation—not from uncertainty but from thinking through the layers. Lean forward slightly. Searching, not lecturing.",
+      "mood": "engaged_cautious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。倫理面の影響を及ぼし、研究現場でも危惧されています。",
+      "en": "Yes. Those ethical implications ripple through the whole field—researchers are worried about it too.",
+      "style": "Calm acknowledgment, validating his concern without dismissing it. Measured pace. A small nod of recognition. Not lecturing—meeting him where he is.",
+      "mood": "validating"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去には、医療データを巡る犯行も報じられました。",
+      "en": "There have been cases reported—crimes involving the theft and misuse of medical data.",
+      "style": "Quieter turn inward. Not probing him but offering something harder. Slight gravity underneath. A pause before 'medical data' to let it land. Not dramatized, just truthful.",
+      "mood": "somber"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "敗北を語る声もある一方、改善も進んでいます。",
+      "en": "Some voices speak of setback, but the field is making real improvements too.",
+      "style": "Thoughtful close, neither optimistic nor defeated. Steady, honest. A gentle rhythm that holds both the struggle and the progress. Trailing slightly into reflection rather than conclusion.",
+      "mood": "honest_measured"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_02034",
+  "context": "Kenji attends a film screening; meets Aoi and shares thoughts.",
+  "purpose": "Couple discussing film experience at the venue.",
+  "ambient": "cinema_lobby_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "映像",
+    "映画",
+    "監督",
+    "反応",
+    "感動",
+    "描写",
+    "撮影",
+    "本格"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_102)",
+    "generated_at": "2026-05-27T12:52:20.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "けんちゃん、映像、すごかったね。",
+      "en": "Ken-chan, that film was really something. The visuals especially.",
+      "style": "Warm, unhurried opening. Soft genuineness in the praise — she's thinking of what she saw. Eyes bright with the afterglow of a good film. Slight upward lilt at the end, inviting him to share.",
+      "mood": "moved_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "監督の描写、本格的やった。",
+      "en": "Yeah. The cinematography was really professional. You could tell.",
+      "style": "Soft, genuine agreement. Not showy. The warmth sits underneath, comfortable. Light pause before speaking — he's still sitting with what he saw. Steady, reflective pace.",
+      "mood": "thoughtful_impressed"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "撮影、どこでしたんだろう?",
+      "en": "I wonder where they filmed it?",
+      "style": "Curious, leaning forward slightly in the thought. Soft, genuine question — she wants to know. No performance. Like she's turning the film over in her mind and wondering about its making.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "地方の自然、映画に活かしてた。",
+      "en": "Out in the countryside somewhere. They used the landscape really well — it became part of the story.",
+      "style": "Observant, patient explanation. Speaking as someone noticing detail. Warm but grounded. Not lecturing — sharing an observation that pleased him. Slight nod embedded in the delivery.",
+      "mood": "observant_appreciative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "客席の反応、温かかった。",
+      "en": "And the way the audience reacted. It was so genuine.",
+      "style": "Soft wonder in her voice. She's noticing the collective moment, not just the film. Warm, tender — moved by how the room felt. Gentle trailing into the thought.",
+      "mood": "tender_moved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感動、心に残るな。",
+      "en": "Yeah. The kind of thing that stays with you.",
+      "style": "Quiet contentment. He's allowing himself to sit in the feeling. Warm but reserved — not overstating. The words carry weight because they're spare. Slight exhale of satisfaction.",
+      "mood": "content_reflective"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "また、こういう作品観たい。",
+      "en": "I'd love to see more films like that.",
+      "style": "Gentle hope in the forward reach. Not demanding, just — softly expressing a wish. Warm, open tone. Like she's thinking about future moments like this one.",
+      "mood": "hopeful_peaceful"
+    }
+  ]
+}

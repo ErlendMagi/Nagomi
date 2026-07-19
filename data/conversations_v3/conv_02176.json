@@ -1,0 +1,79 @@
+{
+  "id": "conv_02176",
+  "context": "Sakura attends a small library book lending event.",
+  "purpose": "Writer participating in community literacy event.",
+  "ambient": "library_event_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本屋",
+    "図書",
+    "渡し",
+    "答える",
+    "熱心",
+    "見つける",
+    "訪ね",
+    "長年"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "さくらさん、本、皆に渡してくれて。",
+      "en": "Sakura, thank you for handing out the books to everyone.",
+      "style": "Warm, genuinely grateful. Soft opening. Affirming tone—noticing the effort without making Sakura self-conscious. Steady, unhurried pace.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "熱心な読者、ようけ訪ねてくれましたね。",
+      "en": "So many passionate readers came by. It was wonderful.",
+      "style": "Modest, understated pride. Speaking with quiet sincerity—not performing humility but genuine. Slight lift at the end, like she's still processing the turnout.",
+      "mood": "pleased_humble"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本屋にない、図書、見つけられた人も。",
+      "en": "Even people who couldn't find it at the bookstore came to the library to see it.",
+      "style": "Soft amazement woven through. Gentle observation—not making a big claim, just stating what happened. Warm, conversational pace. Slight trailing-off, like reflecting aloud.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "質問にも、丁寧に答えるよう、努めました。",
+      "en": "I tried to answer everyone's questions carefully—gave it my full attention.",
+      "style": "Earnest understatement. Quiet pride held in check. Steady, grounded delivery. The sound of someone who actually showed up for people. No apology in the voice.",
+      "mood": "earnest_grounded"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "長年の活動、実を結ぶね。",
+      "en": "All those years of doing this work—it's really bearing fruit now.",
+      "style": "Tender, observational. Soft wonder at seeing a pattern pay off. Slow, deliberate pace. The voice of someone who watches carefully and speaks when it matters.",
+      "mood": "moved_satisfied"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "こうやって、続けたい。",
+      "en": "I want to keep going like this.",
+      "style": "Quiet conviction. Not pleading or seeking permission—a statement of intent. Warm but steady. The kind of thing said after thinking it through.",
+      "mood": "determined_genuine"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "応援してます、ずっと。",
+      "en": "I'll be cheering for you. Always.",
+      "style": "Steady, unwavering warmth. Words spoken slowly enough to land. The voice of a teacher who means exactly what she says and will remember it. Slight breath before 'always'—like a quiet promise.",
+      "mood": "supportive_steadfast"
+    }
+  ]
+}

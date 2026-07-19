@@ -1,0 +1,70 @@
+{
+  "id": "conv_02408",
+  "context": "Hiroshi-boss addresses staff formally about a new fiscal year.",
+  "purpose": "Boss formal address register; polite/formal vocabulary in natural home.",
+  "ambient": "office_hall_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げ",
+    "年度",
+    "につきまして",
+    "皆様",
+    "御",
+    "完全"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_121)",
+    "generated_at": "2026-05-29T12:37:21.496Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "皆様、新年度につきまして、お話し申し上げます。",
+      "en": "Everyone, I'd like to speak about the new fiscal year.",
+      "style": "measured boss voice, soft warm formal courteous delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社長、今年度の目標は何でしょうか?",
+      "en": "Boss, what is this year's goal?",
+      "style": "composed office woman voice, soft warm respectful delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "御協力のもと、完全に達成したいです。",
+      "en": "With your cooperation, I want to achieve it fully.",
+      "style": "professional boss voice, soft warm earnest delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "皆、意欲を持っております。",
+      "en": "Everyone is motivated.",
+      "style": "gentle office woman voice, soft warm engaged delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それを聞いて、安心いたしました。",
+      "en": "Hearing that, I'm reassured.",
+      "style": "warm boss voice, soft warm content delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一緒に、頑張りましょう。",
+      "en": "Let's work hard together.",
+      "style": "soft office woman voice, warm warm committed delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よろしくお願い申し上げます。",
+      "en": "I'm counting on all of you.",
+      "style": "warm boss voice, soft warm respectful delivery carefully"
+    }
+  ]
+}

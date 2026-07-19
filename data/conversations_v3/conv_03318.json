@@ -1,0 +1,78 @@
+{
+  "id": "conv_03318",
+  "context": "A teacher gives study guidance",
+  "purpose": "Advise on studying; teach 教科書/テキスト/用語/沢山/水準/番目/郵便/マガジン",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "教科書",
+    "テキスト",
+    "用語",
+    "沢山",
+    "水準",
+    "番目",
+    "郵便",
+    "マガジン"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_166)",
+    "generated_at": "2026-05-29T17:30:48.320Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "教科書だけでなく、テキストも併用しましょう。",
+      "en": "Use not just the textbook but the text too.",
+      "style": "guiding teacher offering method, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "専門用語が覚えられなくて。",
+      "en": "I can’t memorize the technical terms.",
+      "style": "struggling teen seeking help, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "沢山書いて、手で覚えるのが効果的です。",
+      "en": "Writing a lot and learning by hand works well.",
+      "style": "teacher prescribing a technique, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "私の水準だと、どの問題から始めれば？",
+      "en": "At my level, which problems should I start with?",
+      "style": "teen asking for a starting point"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "教科書の二番目の例題からどうぞ。",
+      "en": "Start from the textbook’s second example.",
+      "style": "teacher giving a concrete step, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "補助教材はどうやって入手しますか？",
+      "en": "How do I get the supplementary materials?",
+      "style": "teen inquiring practically, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "申し込めば、郵便で送られてきます。",
+      "en": "If you apply, they’re sent by mail.",
+      "style": "teacher explaining the process, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生おすすめの学習マガジンも探してみます。",
+      "en": "I’ll look for the study magazine you recommend too.",
+      "style": "motivated teen taking initiative, voice clear and distinctly their own"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04635",
+  "context": "A uni student interviews a retired diplomat about cultures",
+  "purpose": "Teach: 国王/戦士/法曹/国庫/連帯/募金/カトリック/中毒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国王",
+    "戦士",
+    "法曹",
+    "国庫",
+    "連帯",
+    "募金",
+    "カトリック",
+    "中毒"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただき、ありがとうございます。在任中に各国の国王と面会された経験について伺えますか。",
+      "en": "Thank you for your time today. May I ask about your experiences meeting the kings of various countries during your tenure?",
+      "style": "Polite university student opening a formal interview respectfully"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろんですよ。中東の砂漠で会った若い国王は、まるで古代の戦士のような威厳がありましてね。",
+      "en": "Of course. The young king I met in a Middle Eastern desert had the dignity of an ancient warrior.",
+      "style": "Elderly diplomat reminiscing warmly with vivid imagery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦士のような威厳ですか。文化的な背景の違いには、どう向き合われたんでしょう。",
+      "en": "Warrior-like dignity, you say. How did you approach those cultural differences?",
+      "style": "Curious student asking follow-up question with genuine interest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "南米ではカトリックの儀式に何度も招かれましてね。信仰が地域社会の連帯感を支えているのを肌で感じました。",
+      "en": "In South America I was often invited to Catholic ceremonies. I truly felt how faith supports the community's sense of solidarity.",
+      "style": "Reflective diplomat sharing personal cultural observation with depth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。文化の違いといえば、各国の法曹制度や政治の仕組みも相当違うものでしょうか。",
+      "en": "I see. Speaking of cultural differences, are legal systems and political structures also quite different across countries?",
+      "style": "Inquisitive student pivoting smoothly to institutional questions"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、ある国では国庫の運用すら王室が握っていて、驚いたものです。透明性の感覚がまったく違うんですよ。",
+      "en": "Yes, in one country even the national treasury was controlled by the royal family, which startled me. The sense of transparency is completely different.",
+      "style": "Seasoned diplomat offering candid institutional comparison thoughtfully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "興味深いです。最後に、現地の人々と個人的に関わる中で印象に残った場面はありますか。",
+      "en": "Fascinating. Finally, was there a moment that stayed with you from your personal interactions with the locals?",
+      "style": "Student gently guiding interview toward emotional, human closing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "アフリカで干ばつの募金活動を手伝ったことです。仕事に中毒のように没頭していた私が、人の温かさを学び直した瞬間でしたね。",
+      "en": "Helping with a drought fundraising drive in Africa. As someone who was practically addicted to work, that was when I relearned human warmth.",
+      "style": "Elderly diplomat closing with heartfelt, slightly self-deprecating reflection"
+    }
+  ]
+}

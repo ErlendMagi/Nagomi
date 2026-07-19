@@ -1,0 +1,78 @@
+{
+  "id": "conv_03349",
+  "context": "A follow-up visit after recovery",
+  "purpose": "Confirm recovery; teach 感染/拒否/対処/防衛/認定/形態/青年/実質",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "感染",
+    "拒否",
+    "対処",
+    "防衛",
+    "認定",
+    "形態",
+    "青年",
+    "実質"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_168)",
+    "generated_at": "2026-05-29T17:43:33.003Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "その後、感染の症状はどうですか？",
+      "en": "How are the infection symptoms since then?",
+      "style": "attentive doctor checking in, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "だいぶ良くなりました。薬を拒否しなくてよかった。",
+      "en": "Much better. Good thing I didn’t refuse the meds.",
+      "style": "relieved patient admitting it, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "適切に対処できましたね。",
+      "en": "You handled it appropriately.",
+      "style": "approving doctor praising her, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "体の防衛力が戻ってきた感じです。",
+      "en": "My body’s defenses feel like they’re back.",
+      "style": "patient reporting improvement, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "完治と認定するには、もう一度検査を。",
+      "en": "To certify a full recovery, one more test.",
+      "style": "careful doctor outlining the step, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "形態が変わってないか、確認ですね。",
+      "en": "Checking the form hasn’t changed, right?",
+      "style": "patient confirming understanding, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。青年は回復も早いですよ。",
+      "en": "Yes. Young people recover quickly too.",
+      "style": "doctor offering encouragement, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実質、もう普通に生活できますか？",
+      "en": "Essentially, can I live normally now?",
+      "style": "hopeful patient asking, spoken with a recognizable personal cadence"
+    }
+  ]
+}

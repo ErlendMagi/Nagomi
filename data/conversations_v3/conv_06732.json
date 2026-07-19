@@ -1,0 +1,86 @@
+{
+  "id": "conv_06732",
+  "context": "A police officer discusses a complex case",
+  "purpose": "Teach: 執着/標的/浅草/鋼/富ん/気圧/献金/炭鉱",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "執着",
+    "標的",
+    "浅草",
+    "鋼",
+    "富ん",
+    "気圧",
+    "献金",
+    "炭鉱"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、被害者への執着、容疑者から、感じられました。",
+      "en": "In this case, we detected a clear obsession with the victim coming from the suspect.",
+      "style": "Measured, official tone. Each detail stated with professional precision. Slight pause between phrases, allowing weight. No rush — the facts speak for themselves.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、標的にされていた可能性、高いですね。",
+      "en": "So the victim was likely being targeted intentionally, then.",
+      "style": "Thoughtful, connecting the pieces aloud. Lean forward slightly with interest. Warm curiosity — seeking confirmation, not challenging. Clean articulation.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者は、浅草付近で、目撃されました。",
+      "en": "Yes. The suspect was spotted in the Asakusa area.",
+      "style": "Straightforward confirmation. Steady delivery without inflection. Professional documentation mode. No elaboration needed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "鋼製の凶器、現場、発見されたんですか。",
+      "en": "Was the steel weapon recovered at the scene?",
+      "style": "Direct, investigative question. Slight lift at the end — seeking a specific detail. Engaged but not urgent. Ren's genuine interest in how the pieces fit.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者は、財に富んだ家庭、出身者でした。",
+      "en": "Yes. The suspect came from a family with considerable financial resources.",
+      "style": "Continues steady procedural tone. Delivers background fact evenly. No judgment in the voice — relevance is implied, not emphasized.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "天候、気圧の急変、捜査に、影響しましたか。",
+      "en": "Did the sudden weather and pressure changes affect the investigation at all?",
+      "style": "Exploratory, a step sideways in thinking. Quiet precision. Wondering aloud about variables others might miss. Respectful of Takeda's expertise.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、過去に、政治献金関係の疑惑が、ありました。",
+      "en": "Yes. The suspect had past suspicions involving political donations.",
+      "style": "Steady procedural revelation. Each element separate, factual. No sensation — just documentation of another relevant detail in a larger pattern.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地元の炭鉱跡地、不法投棄場所として、使われたんですね。",
+      "en": "The old coal mine ruins — they were being used as an illegal dumping site, weren't they.",
+      "style": "Quiet realization dawning. Statement that curves up slightly like a question. Ren putting pieces together. Thoughtful, almost to himself, but checking his understanding with Takeda.",
+      "mood": "dawning_understanding"
+    }
+  ]
+}

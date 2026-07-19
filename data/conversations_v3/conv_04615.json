@@ -1,0 +1,78 @@
+{
+  "id": "conv_04615",
+  "context": "A vendor and the cafe owner discuss a new product line",
+  "purpose": "Teach: セールス/トピック/モジュール/ステーション/入荷/調節/短期間/新設",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "セールス",
+    "トピック",
+    "モジュール",
+    "ステーション",
+    "入荷",
+    "調節",
+    "短期間",
+    "新設"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "本日はお時間いただきありがとうございます。新しい商品ラインのセールスでお伺いしました。",
+      "en": "Thank you for your time today. I'm here for the sales pitch on our new product line.",
+      "style": "Formal vendor greeting using polite business Japanese."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ。最近うちのカフェでもサステナブル商品がトピックになっていて、ちょうど気になっていたんです。",
+      "en": "Thank you as well. Sustainable products have been a topic at our cafe lately, so I've been curious.",
+      "style": "Warm cafe-owner tone, friendly but business-aware register."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "今回ご提案するのはモジュール式のドリップステーションで、店舗のスペースに合わせて自由に組み替えられます。",
+      "en": "What I'm proposing today is a modular drip station that you can freely reconfigure to fit your shop's space.",
+      "style": "Confident product explanation with technical katakana terms."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "面白いですね。豆の入荷タイミングによって抽出量を調節できると助かるんですが、その辺りは対応できますか?",
+      "en": "Interesting. It would help if I could adjust the extraction volume based on bean arrival timing — can it handle that?",
+      "style": "Curious owner asking practical operational questions about daily workflow needs."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。流量も温度も細かく調節できますし、短期間の試験導入も承っております。",
+      "en": "Of course. You can finely adjust both flow rate and temperature, and we also offer short-term trial installations.",
+      "style": "Reassuring sales response highlighting flexibility and trial options."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "短期間で試せるなら安心ですね。実はもうすぐ二号店を新設する予定なので、そこで使えたら理想的です。",
+      "en": "If I can try it for a short period that's reassuring. Actually, I'm planning to open a second branch soon, so using it there would be ideal.",
+      "style": "Owner opening up about expansion plans with conversational warmth."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新設のお店でしたらまさにぴったりです。設置から運用まで、私どもが責任を持ってサポートいたします。",
+      "en": "For a newly established shop it's a perfect fit. From installation to operation, we'll support you with full responsibility.",
+      "style": "Closing pitch with formal commitment language and reassurance."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "では一度、見積もりをお願いできますか?前向きに検討させていただきます。",
+      "en": "Then could I ask for a quote? I'll consider it positively.",
+      "style": "Polite closing showing genuine interest without firm commitment."
+    }
+  ]
+}

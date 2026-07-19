@@ -1,0 +1,86 @@
+{
+  "id": "conv_06751",
+  "context": "A doctor discusses patient care",
+  "purpose": "Teach: 精力/病棟/宿命/神父/駐留/標識/国政/故意",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "精力",
+    "病棟",
+    "宿命",
+    "神父",
+    "駐留",
+    "標識",
+    "国政",
+    "故意"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_339 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんの精力的な回復、嬉しい限りです。",
+      "en": "Ren, I'm genuinely glad to see your patient recovering so well.",
+      "style": "Warm, steady delivery. Honest respect in the opening. Not effusive — professional warmth that carries weight because it's earned. Clear-eyed and direct.",
+      "mood": "warm_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病棟内の雰囲気、最近、明るくなりましたね。",
+      "en": "The atmosphere in the ward has really brightened lately, hasn't it?",
+      "style": "Gentle curiosity. Observant tone — noticing something real. Slightly hesitant, like he's offering an observation rather than stating fact. Lean into the question mark.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。医師という宿命を、私、選んだことを、誇りに思っています。",
+      "en": "Yes. I chose this profession, and I'm proud of that choice.",
+      "style": "Measured, deliberate. Each phrase lands with quiet conviction. Not grand — humble pride. Pause before the final clause, like she's affirming something to herself as much as to him.",
+      "mood": "grounded_proud"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病院、神父さんが、定期的に、訪問されているんですね。",
+      "en": "So the priest visits regularly. That's good to know.",
+      "style": "Gentle, observant. Small note of recognition — he's piecing something together. Not interrogative, more thoughtful. Like he's understanding the infrastructure of care around him.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。災害地に、医療チームが駐留した経験、活きています。",
+      "en": "Yes. That experience — working with medical teams in disaster zones — it informs how we think about care here.",
+      "style": "Reflective, grounded in experience. Quiet authority. Breath under the pauses. She's drawing a line from past to present without fanfare. Tired wisdom.",
+      "mood": "experienced_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "院内、新しい標識、わかりやすくて、いいですね。",
+      "en": "The new signage in the hospital is really clear and helpful.",
+      "style": "Soft observation. Almost to himself — noticing something small and good. Gentle appreciation without overstating. The tone of someone who pays attention to details others miss.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。国政の医療政策、現場の声、もっと反映されてほしいですね。",
+      "en": "Yes. I wish national health policy would listen more to what we see on the ground.",
+      "style": "Slight frustration held steady. Not bitter, but real. Speaking from evidence, not emotion. A sigh underneath. Professional resignation that's still awake.",
+      "mood": "thoughtful_frustrated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "故意の医療事故、報道で、目にすると、悲しくなりますね。",
+      "en": "When I read about preventable medical errors in the news, it really saddens me.",
+      "style": "Quiet, reflective close. Vulnerable — he's saying something that matters. Slow pace. Slight trailing-off, like the weight of it is settling on him. Genuine sadness, not performed.",
+      "mood": "saddened"
+    }
+  ]
+}

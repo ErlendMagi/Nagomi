@@ -1,0 +1,86 @@
+{
+  "id": "conv_06111",
+  "context": "A police officer briefs about a crime case",
+  "purpose": "Teach: 未遂/遭難/警鐘/脱税/伝染/装っ/書記官/触媒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "未遂",
+    "遭難",
+    "警鐘",
+    "脱税",
+    "伝染",
+    "装っ",
+    "書記官",
+    "触媒"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_307 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、未遂で済んだ事案です。",
+      "en": "This case ended at the attempt stage. No harm completed.",
+      "style": "Even, measured opening. Professional certainty in the delivery. Brief pause before 'attempt' to let the legal distinction land. Steady eye-contact tone, no inflection that suggests relief or concern—just fact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "遭難事故の現場、捜索、続いていますか。",
+      "en": "The search at the distress site—it's still ongoing?",
+      "style": "Careful, genuine curiosity without pressure. Slight lift on the question mark. Respectful hesitation, like checking if asking is appropriate. Lean forward slightly in the voice.",
+      "mood": "curious_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。社会全体に警鐘を鳴らす事案でした。",
+      "en": "Yes. It was a case that needed to sound an alarm across the whole of society.",
+      "style": "Measured, official register. Weight on 'alarm'—not alarmed, but authoritative about the gravity. Steady pace, no rush. The tone of someone explaining context to someone who matters.",
+      "mood": "grave_official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "脱税疑惑の関係者、別捜査と聞きましたが。",
+      "en": "I heard the person suspected in the tax evasion was being investigated separately?",
+      "style": "Careful probe, testing what's shareable. Respectful distance. Not accusatory—genuine question seeking confirmation. Slight pause before the question to show deference to the officer's position.",
+      "mood": "probing_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。感染症の伝染リスクも、医療班と確認しました。",
+      "en": "Yes. We confirmed the infection-transmission risk with the medical team.",
+      "style": "Procedural efficiency. Clear, quick delivery—moving through protocol points. No emphasis on alarm, just documentation. Professional brevity that suggests this was routine cross-checking.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被疑者、職員を装っていたんですね。",
+      "en": "So the suspect was posing as staff the whole time.",
+      "style": "Realization dawning mid-sentence. Quiet surprise underneath. Not accusatory—more the moment of understanding a crucial detail. Slight exhale, like fitting another piece into place.",
+      "mood": "understanding_surprise"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。書記官の証言、決定的でした。",
+      "en": "Yes. The clerk's testimony was what clinched it.",
+      "style": "Firm, definitive. Light emphasis on 'clinched'—the moment the case resolved. Professional satisfaction without pride. Closure in the tone, not reopening.",
+      "mood": "resolved_firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "触媒のように事件展開を加速させた要因、別途分析しますね。",
+      "en": "I'll analyze separately what factor accelerated the incident like a catalyst.",
+      "style": "Thoughtful close. Slower pace, more introspective. The speaker is turning inward to their own analytical work. Trailing slightly upward, like moving into future inquiry. Quiet, focused intensity.",
+      "mood": "reflective_analytical"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04432",
+  "context": "A senior trains a new hire on summarizing reports",
+  "purpose": "Teach: 展望/要約/謝罪/かかわる/生み出し/係る/もたらし/行なっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "展望",
+    "要約",
+    "謝罪",
+    "かかわる",
+    "生み出し",
+    "係る",
+    "もたらし",
+    "行なっ"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "じゃあ今日は報告書の要約のやり方を教えるね。これ、仕事の質にかかわる大事なスキルだから。",
+      "en": "Okay, today I'll teach you how to summarize reports. This is a skill that affects the quality of your work.",
+      "style": "Warm mentoring tone with gentle authority and patience"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。大学のレポートとは違う感じですよね?",
+      "en": "Yes, please teach me. It's different from university reports, right?",
+      "style": "Eager polite junior voice slightly nervous and attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "全然違うよ。まず冒頭に結論、それから事業に係る数字、最後に今後の展望を入れる。この三点セットね。",
+      "en": "Totally different. First the conclusion at the top, then the numbers related to the business, and finally the future outlook. That's the three-point set.",
+      "style": "Crisp instructive delivery with structured business clarity"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。先週うちの部署が大きな成果を生み出していましたが、ああいう実績はどう書けば?",
+      "en": "I see. Our department produced big results last week — how should I write up that kind of achievement?",
+      "style": "Curious applied learner referencing concrete recent example"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "数字で示すのが一番。「新規契約を二十件獲得し、売上に大きな変化をもたらしました」みたいに具体的に書く。",
+      "en": "Numbers are the most convincing. Write concretely, like 'we secured twenty new contracts, bringing significant change to sales.'",
+      "style": "Practical example-driven coaching with concrete phrasing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あの、もし数字にミスがあったらどうするんですか?やっぱり謝罪のメールとか…",
+      "en": "Um, what if there's a mistake in the numbers? Should I send an apology email or something?",
+      "style": "Hesitant worried junior raising a real concern"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ミスは誰でもする。先月も私、訂正を行なって部長に頭を下げたよ。隠さず早めに報告するのが鉄則。",
+      "en": "Everyone makes mistakes. Last month I issued a correction and bowed to the manager myself. The iron rule is to report early, never hide it.",
+      "style": "Reassuring honest senior sharing personal vulnerability"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先輩でもそういうことが…ちょっと安心しました。じゃあ早速一本書いてみます。",
+      "en": "Even you've had that happen... I feel a bit relieved. Then I'll try writing one right away.",
+      "style": "Relieved motivated tone with renewed confidence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、書けたら見せて。最初は完璧じゃなくていい。場数を踏むことが成長にもたらす効果は大きいから。",
+      "en": "Yes, show me when it's done. It doesn't have to be perfect at first. Gaining experience has a huge effect on growth.",
+      "style": "Encouraging closing with patient long-view perspective"
+    }
+  ]
+}

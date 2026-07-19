@@ -1,0 +1,79 @@
+{
+  "id": "conv_05833",
+  "context": "A doctor explains alcohol-related illness to a reporter",
+  "purpose": "Teach: 河野/反戦/飲酒/尋問/ハッカー/出世/失点/致命",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "河野",
+    "反戦",
+    "飲酒",
+    "尋問",
+    "ハッカー",
+    "出世",
+    "失点",
+    "致命"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、飲酒由来の疾患、増加傾向です。",
+      "en": "Ren, alcohol-related illness is on the rise.",
+      "style": "Clear, professional opening. Steady measured pace. No softening — the fact lands directly. Composed shoulders, direct eye contact. Clinical but not cold.",
+      "mood": "clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "河野医師、長年研究されてきたんですよね。",
+      "en": "Dr. Kono has been researching this for years, hasn't he?",
+      "style": "Tentative probe forward. Slight upward lift on the question — genuine curiosity, not challenge. Quiet voice, leaning in slightly. Seeking connection with the expert.",
+      "mood": "curious_tentative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。最新研究は、致命的な肝障害の予兆を扱っています。",
+      "en": "Yes. The latest research is examining precursors to fatal liver damage.",
+      "style": "Patient clarification. Slight pause before the technical detail — giving him time to follow. Unhurried. The tone of someone used to translating complex science into bearable language.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "反戦集会で配布された冊子に、医療情報も載っていたとか。",
+      "en": "I heard medical information was included in pamphlets distributed at anti-war rallies.",
+      "style": "Careful observation masked as casual mention. Slight hesitation — testing his reaction. Thoughtful, not accusatory. The question beneath the statement: what do you make of this?",
+      "mood": "probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "尋問対応の患者にも、医師が同席する制度があります。",
+      "en": "There's a system where physicians attend during interrogations to protect patient welfare.",
+      "style": "Informative but weighted. Deliberate pace on the institutional detail. She's not just conveying information — she's letting him know this matters. Steady, professional, but with quiet gravity underneath.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ハッカー被害に遭った患者データ、医師の出世にも影響します、保護体制は厳重ですか。",
+      "en": "Compromised patient data — does strict protection exist?",
+      "style": "Direct, slightly tense. Shorter breath. The question itself is sharp but her delivery is controlled, not accusatory. Waiting for his answer. Small pause before speaking, like she's choosing her words carefully.",
+      "mood": "guarded"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。失点を許さない運用です。",
+      "en": "Yes. Zero tolerance for breach.",
+      "style": "Final, closed statement. Firm but not harsh. Brief. The words land like a full stop. No room for misunderstanding. Composed, institutional, but underneath — the weight of what no tolerance actually costs.",
+      "mood": "resolute"
+    }
+  ]
+}

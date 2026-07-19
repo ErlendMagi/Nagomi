@@ -1,0 +1,86 @@
+{
+  "id": "conv_08922",
+  "context": "Two friends chat",
+  "purpose": "Teach: ウキウキ/なんにも/おこる/ひと時/概して/めんどう/こまかい/やむを得ず",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウキウキ",
+    "なんにも",
+    "おこる",
+    "ひと時",
+    "概して",
+    "めんどう",
+    "こまかい",
+    "やむを得ず"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_448 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、明日のイベント、ウキウキしてるね、メイちゃん",
+      "en": "Aoi, you're really excited about tomorrow's event, aren't you?",
+      "style": "Warm observation, gentle smile in the voice. Light, noticing tone. Soft attack. The comfort of knowing someone well enough to name what they're feeling without making them self-conscious.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、お席で、なんにも頼まずに本を読んでらしたよ、メイちゃん",
+      "en": "There was a customer earlier who sat at a table the whole time without ordering anything — just reading a book.",
+      "style": "Thoughtful, almost to herself. Quiet wonder at the detail. Gentle pace. No judgment — just noticing. The voice of someone watching something small and strange unfold.",
+      "mood": "curious_gentle"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様にトラブルがおこると困るね、メイちゃん",
+      "en": "I worry sometimes about what might happen to customers like that, you know?",
+      "style": "Soft concern underneath. Hesitant phrasing — not trying to alarm. The voice checking itself: am I being too careful? Trailing slightly, inviting reassurance or pushback.",
+      "mood": "protective_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お店の閉店前のひと時、好きだな、メイちゃん",
+      "en": "But I do love these quiet moments right before we close up.",
+      "style": "Tender, almost tender-tired. A small exhale of contentment. Slower pace. The voice of someone savoring something she doesn't often name aloud. No rush in the words.",
+      "mood": "peaceful_tender"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニュー、概して好評ね、メイちゃん",
+      "en": "The new menu items are doing really well overall.",
+      "style": "Pleased affirmation, light brightness. Even, confident pace. Shares the good news like she's glad Aoi will hear it. Warm on the delivery — no performance, just genuine.",
+      "mood": "pleased_encouraging"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、レシートの整理がめんどうだよね、メイちゃん",
+      "en": "Receipt organization is such a pain though, isn't it?",
+      "style": "Wry, conspiratorial. A small laugh just underneath. Rueful tone — shared complaint that's more bonding than griping. Light, almost teasing. The solidarity of people who do the same annoying task.",
+      "mood": "wry_commiseration"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニュー、こまかい味付けが大事ね、メイちゃん",
+      "en": "The little details in the seasoning really matter for the new menu, don't they?",
+      "style": "Directional, sure-footed. Thoughtful but clear. Speaking from conviction, not hesitation. Measured pace. The voice of someone who notices craftsmanship and wants to name it — guiding without lecturing.",
+      "mood": "appreciative_observant"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、商品入れ替えはやむを得ずやらないとね、メイちゃん",
+      "en": "We have to update the inventory eventually, even if it's a hassle.",
+      "style": "Reflective acceptance, closing-time philosophy. Quiet resolve. Slow, measured cadence. The voice of someone thinking aloud about necessity — tired but not defeated. A gentle, practical close.",
+      "mood": "resigned_practical"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04027",
+  "context": "A student interviews a doctor about biotech in medical devices",
+  "purpose": "Teach: メモリ/スピーカー/計測/走行/適応/バイオ/有機/コア",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリ",
+    "スピーカー",
+    "計測",
+    "走行",
+    "適応",
+    "バイオ",
+    "有機",
+    "コア"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "斎藤先生、今日は医療機器におけるバイオ技術についてお話を伺いたいのですが、よろしいでしょうか。",
+      "en": "Dr. Saito, today I'd like to ask you about biotechnology in medical devices, if that's alright.",
+      "style": "Polite university student opening a formal interview respectfully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろん。最近のバイオ技術は、機器が患者さんの体に自然と適応するように設計されていて、本当に面白い分野ですよ。",
+      "en": "Of course. Recent biotechnology is designed so that devices naturally adapt to the patient's body — it's a truly fascinating field.",
+      "style": "Doctor warmly framing the field's appeal in measured tones."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。例えば心拍を計測する装置などは、どのように進化しているのでしょうか。",
+      "en": "I see. For example, how have devices that measure heart rate evolved?",
+      "style": "Curious follow-up question with academic interest and respect."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今は有機素材を使ったセンサーを肌に貼って、計測したデータを小さなメモリに連続的に記録できるんです。",
+      "en": "Now we attach sensors made of organic materials to the skin and can continuously record the measured data on tiny memory chips.",
+      "style": "Doctor describing cutting-edge sensor technology with quiet enthusiasm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごいですね。そうした装置のコアになる部分は、やはり半導体なんでしょうか。",
+      "en": "That's amazing. Is the core part of such devices still a semiconductor?",
+      "style": "Student probing deeper into the underlying engineering principles."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、コア技術は半導体ですが、最近は人工内耳の内蔵スピーカーにも生体に優しいバイオ素材が使われ始めています。",
+      "en": "Yes, the core technology is semiconductors, but recently bio-friendly materials are being used in the built-in speakers of cochlear implants too.",
+      "style": "Doctor giving a concrete example to illustrate broader trends."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "リハビリ用の機器でも、患者さんの動きや走行データを記録するものがあると伺いました。",
+      "en": "I heard that even in rehabilitation equipment, there are devices that record patient movement and travel data.",
+      "style": "Student smoothly steering toward rehabilitation applications next."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、歩行器や電動車椅子の走行距離や姿勢を細かく記録して、リハビリの計画に役立てていますよ。",
+      "en": "Yes, we record the travel distance and posture from walkers and powered wheelchairs in detail, and use it for rehabilitation planning.",
+      "style": "Doctor confirming with a practical clinical application example."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、ありがとうございました。論文にしっかり活かしたいと思います。",
+      "en": "Thank you for this valuable conversation. I'd like to make good use of it in my paper.",
+      "style": "Grateful student closing the interview with formal sincerity."
+    }
+  ]
+}

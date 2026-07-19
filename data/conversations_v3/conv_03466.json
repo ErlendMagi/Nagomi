@@ -1,0 +1,78 @@
+{
+  "id": "conv_03466",
+  "context": "Founder (ren) pitches a new tech-startup idea (AI-equipped app) to a senior manager (kenji)",
+  "purpose": "Teach: ノウハウ/スクール/マニュアル/マーケット/ファンド/アート/コミュニティ/搭載",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ノウハウ",
+    "スクール",
+    "マニュアル",
+    "マーケット",
+    "ファンド",
+    "アート",
+    "コミュニティ",
+    "搭載"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "高橋さん、お時間ありがとうございます。今日は新しいアプリのアイデアを聞いていただきたくて。AIを搭載した学習アプリなんです。",
+      "en": "Takahashi-san, thank you for your time. Today I'd like you to hear my new app idea. It's a learning app equipped with AI.",
+      "style": "young founder opening politely with nervous but rehearsed enthusiasm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ほう、AI搭載か。最近そういうのは多いね。具体的にはどんなマーケットを狙ってるの?",
+      "en": "Oh, AI-equipped, huh. There are a lot of those lately. What kind of market are you targeting specifically?",
+      "style": "seasoned manager raising one eyebrow with measured skepticism"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "オンラインスクール業界です。既存の教材やマニュアルをAIが分析して、一人一人に合わせて出題する仕組みなんです。",
+      "en": "The online school industry. The AI analyzes existing teaching materials and manuals, and creates personalized questions for each user.",
+      "style": "leaning forward eagerly while explaining the core mechanism"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほどね。でも、そのノウハウは君のチームに本当にあるのかい?技術って一朝一夕じゃ身につかんよ。",
+      "en": "I see. But does your team really have that know-how? Technical skill isn't something you acquire overnight.",
+      "style": "older manager challenging gently but pointedly with raised brow"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、共同創業者が大手で五年開発してまして。それと、利用者同士で学び合えるコミュニティ機能も入れる予定です。",
+      "en": "Yes, my co-founder developed at a major firm for five years. And we plan to add a community feature so users can learn from each other.",
+      "style": "answering confidently to defend the team's credibility"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コミュニティね。デザイン面はどうするの?最近のユーザーはアート性のあるUIじゃないと触ってもくれんよ。",
+      "en": "A community, huh. What about the design side? Today's users won't even touch it unless the UI has artistic quality.",
+      "style": "manager pivoting into a sharper, more practical critique"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そこは元美大のデザイナーが担当します。資金面は、教育系のファンドからすでに前向きな返事をいただいていまして。",
+      "en": "An ex-art-school designer is handling that. As for funding, we've already gotten a positive response from an education-focused fund.",
+      "style": "founder calmly stacking reassuring answers one after another"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ふむ、よく準備してるじゃないか。よし、来週もう一度、数字を持ってきなさい。少し力になれるかもしれん。",
+      "en": "Hmm, you've prepared well. Alright, come back next week with the numbers. I might be able to help out a little.",
+      "style": "veteran softening with cautious approval and a slight smile"
+    }
+  ]
+}

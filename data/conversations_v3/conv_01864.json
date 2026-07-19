@@ -1,0 +1,61 @@
+{
+  "id": "conv_01864",
+  "context": "Hina-young helps Sho-young with science homework about plants.",
+  "purpose": "Older sister gently teaching younger brother.",
+  "ambient": "kitchen_table_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "理科",
+    "植物",
+    "観察",
+    "記録"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_093)",
+    "generated_at": "2026-05-27T08:15:56.289Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ねえちゃん、理科、わからん!",
+      "en": "Hey, sis—I don't get science!",
+      "style": "Small, slightly whiny complaint—not a whine but genuine stuck-ness. Soft upward lift on the question. Seeks help without shame. Warm and direct, the way a six-year-old leans on someone he trusts.",
+      "mood": "frustrated_helpless"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "植物、観察してみて。",
+      "en": "Look at the plant. Try observing it.",
+      "style": "Patient, gentle redirect. Not condescending—older sister showing him a door. Quiet encouragement. Speaks at his level, not down to him. Small pause before the instruction, like she's handing him a tool.",
+      "mood": "patient_instructive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "葉っぱ、何枚?",
+      "en": "How many leaves does it have?",
+      "style": "Genuine curiosity now, not frustration. The question opens up possibility. Eager small voice, the sound of him noticing something. Quick, engaged delivery—he's already looking.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "数えて、記録するの。",
+      "en": "Count them. Write it down.",
+      "style": "Simple, warm instruction. No fuss. She's showing him the concrete steps. Slight lilt on the first word—inviting him to start. Calm, steady voice that says 'you can do this.'",
+      "mood": "supportive_clear"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、わかった!",
+      "en": "Yeah, I got it!",
+      "style": "Quick, bright relief—the moment where confusion lifts. Small proud edge to his voice. Relief that it makes sense now. Genuine warmth, the sound of someone who just understood. Slight exhale of accomplishment.",
+      "mood": "relieved_pleased"
+    }
+  ]
+}

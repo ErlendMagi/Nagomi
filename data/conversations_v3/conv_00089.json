@@ -1,0 +1,91 @@
+{
+  "id": "conv_00089",
+  "context": "Naoko has come to Kyushu for a wholesale ingredient buy. Goro is sitting on a bench by the fish market — the only other customer at the early-morning auction.",
+  "purpose": "two old strangers, Kansai meets Kyushu — incidental bench-talk",
+  "ambient": "park_morning",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "元気",
+    "人",
+    "ない",
+    "見る"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おはようさん。早いな。",
+      "en": "Mornin'. You're up early.",
+      "style": "Loud Kansai opener. Plops down two metres from him on the bench.",
+      "mood": "loud_open"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ああ。漁師の癖や。",
+      "en": "Mm. Fisherman's habit.",
+      "style": "A slow Kyushu line. Doesn't look over.",
+      "mood": "kyushu_slow"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "なるほどなあ。私、大阪。ラーメン屋。",
+      "en": "Ah, makes sense. I'm from Osaka. Ramen shop.",
+      "style": "Instant intel-sharing. Kansai economy — as the scene allows it.",
+      "mood": "instant_share"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ふん。ラーメン、最近食うた覚えがない。",
+      "en": "Hm. Haven't eaten ramen in a while, come to think of it.",
+      "style": "A small philosophical observation. Eyes on the water.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "なんと！本当に？うちの店、来た方がええで。",
+      "en": "What?! Really? You ought to come to my shop.",
+      "style": "Mock-outraged Kansai. A real invitation behind the bit.",
+      "mood": "mock_outraged"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "大阪は、遠いな。",
+      "en": "Osaka — that's far.",
+      "style": "A small dry observation. Slight Kyushu humor audible.",
+      "mood": "dry_humor"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ほな、私が、ここでラーメン作ったろか。",
+      "en": "Then I'll make ramen for you right here.",
+      "style": "A wild Kansai joke offer — genuine and unforced throughout.",
+      "mood": "wild_kansai"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "(small laugh)…本当に来そうで、怖いな。",
+      "en": "(small laugh) …Sounds like you might actually do it. Scary.",
+      "style": "A real Kyushu laugh, rare. Voice slightly amused.",
+      "mood": "rare_laugh"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "やるで。本当に。お互い、まだ時間あるしな。",
+      "en": "I would. Really. We've still got time, both of us.",
+      "style": "A small unguarded honest line — with steady attentive presence.",
+      "mood": "small_unguarded"
+    }
+  ]
+}

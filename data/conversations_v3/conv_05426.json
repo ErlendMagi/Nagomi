@@ -1,0 +1,65 @@
+{
+  "id": "conv_05426",
+  "context": "A boss reviews a public-event budget",
+  "purpose": "Teach: 引か/運ば/塗り/桁/タスク/パブリック/フィードバック/会費",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引か",
+    "運ば",
+    "塗り",
+    "桁",
+    "タスク",
+    "パブリック",
+    "フィードバック",
+    "会費"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "パブリックイベントの予算、桁の見直しが必要だな。",
+      "en": "The public event budget figures need a closer look. We should review the numbers.",
+      "style": "Measured, direct. Slight pause before 'figures.' No performance—just the weight of expectation. Eyes level, shoulders steady.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会費収入、想定通りに引かない可能性があります。",
+      "en": "Yes. The membership fee income might not come in as projected.",
+      "style": "Steady, thinking-aloud tone. Not defensive—just laying out the problem clearly. Slight forward lean. Quiet ownership in the delivery.",
+      "mood": "candid"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "タスク分担、塗り重ねて整理してくれ。",
+      "en": "Break the task into layers. Get it organized and clean it up.",
+      "style": "Firmer now, more directive. Light emphasis on 'layers.' Not unkind—the tone of someone who knows what needs to happen next. Slight exhale after 'clean it up.'",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。各部からフィードバックを集めて、運ばせます。",
+      "en": "Understood. I'll pull feedback from each department and move it forward.",
+      "style": "Assured, no hesitation. Respectful cadence. The tone of someone taking ownership. Slight nod in the voice at the end.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on it.",
+      "style": "Quiet, final. Just enough warmth to show this is trust, not pressure. A closing exhale. End of conversation.",
+      "mood": "trusting"
+    }
+  ]
+}

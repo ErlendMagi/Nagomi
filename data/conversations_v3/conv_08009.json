@@ -1,0 +1,86 @@
+{
+  "id": "conv_08009",
+  "context": "Officer briefs",
+  "purpose": "Teach: 授与/保健所/延命/即答/一辺倒/疲弊/病名/早けれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "授与",
+    "保健所",
+    "延命",
+    "即答",
+    "一辺倒",
+    "疲弊",
+    "病名",
+    "早けれ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、感謝状の授与をいたしました",
+      "en": "We've presented a commendation from the police.",
+      "style": "Formal, measured cadence. Clear enunciation on the verb phrase. Professional pride held steady — not cold, but official. Even breath throughout.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と保健所、連携ありがたいです",
+      "en": "Yes. We're grateful for the cooperation between the police and health department.",
+      "style": "Respectful, slightly formal. Acknowledging tone — not obsequious, but sincere gratitude. Straightforward rhythm. The gratitude genuine and specific.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者の延命措置にも協力しました",
+      "en": "The police also cooperated in extending the victim's life.",
+      "style": "Steady, factual delivery. No drama on the serious content. Professional composure. Matter-of-fact pace, as if reporting one fact among many of equal weight.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の即答力、頼もしいです",
+      "en": "Yes. The police's quick response has been reassuring.",
+      "style": "Warm appreciation beneath the formal surface. Slight lean forward on 'quick response' — genuine respect. Quieter than before, more personal.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、捜査一辺倒ではなく予防にも力を入れます",
+      "en": "The police don't focus solely on investigation — we're also investing in prevention.",
+      "style": "Measured, deliberate pacing. Slight emphasis on the shift from 'investigation' to 'prevention' — presenting a philosophy shift. Calm authority. Breath steady and clear.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察官、疲弊しない勤務体制ありがたいです",
+      "en": "Yes. We're grateful for the working conditions that don't exhaust our officers.",
+      "style": "Sincere, thoughtful — this reflects personal care. Quiet warmth. The gratitude for welfare, not just efficiency. Slight slowness on 'don't exhaust' — it matters.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、感染症の病名公表に協力します",
+      "en": "The police will cooperate in disclosing the name of the infectious disease.",
+      "style": "Clear procedural statement. No hesitation. Professional distance. Even pace. The responsibility stated plainly — important and handled.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。早ければ年内に新警察署が完成しますね",
+      "en": "Yes. The new police station should be complete by the end of the year.",
+      "style": "Warm, almost conversational now. Forward-looking — a note of hope. Slightly lighter rhythm. The close of the exchange — a look toward the future together.",
+      "mood": "hopeful"
+    }
+  ]
+}

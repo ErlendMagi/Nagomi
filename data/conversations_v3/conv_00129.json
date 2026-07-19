@@ -1,0 +1,90 @@
+{
+  "id": "conv_00129",
+  "context": "Hospital waiting room. Mei is waiting for a friend who just had a small procedure. Mrs Mori is two seats over, equally tense.",
+  "purpose": "incidental stranger-bonding — shared anxious wait",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "心配",
+    "一人",
+    "ありがとう"
+  ],
+  "cast": [
+    "mei_romantic",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お一人で、待ってはるんですか？",
+      "en": "You're waiting alone?",
+      "style": "A small Kansai inquiry. Voice softer than usual.",
+      "mood": "soft_kansai"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい…友達の手術なんです。",
+      "en": "Yes… my friend's in surgery.",
+      "style": "A small careful answer. Voice slightly catching.",
+      "mood": "careful_catch"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "そうかー。私もな、姉の。本当に、長いな、こういう時。",
+      "en": "Ahh. Me too — my sister. Really, these times feel long.",
+      "style": "A small companion-sharing — no rush in the delivery.",
+      "mood": "companion_share"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本当に。…時間、止まってる気がして。",
+      "en": "Truly. …Feels like time has stopped.",
+      "style": "A small honest exhausted line — voice carries the moment fully.",
+      "mood": "honest_exhausted"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "うん。心配は、本当に体に来るよね。",
+      "en": "Mm. Worry — really gets into the body.",
+      "style": "A small wise observation — as the scene allows it.",
+      "mood": "wise_obs"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ですね…(small breath)",
+      "en": "It does… (small breath)",
+      "style": "A small real exhale — genuine and unforced throughout.",
+      "mood": "real_exhale"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お茶、いる？自販機、あっちにあるで。",
+      "en": "Want tea? Vending machine's over there.",
+      "style": "A small practical kindness — with steady attentive presence.",
+      "mood": "practical_kindness"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。…でも、大丈夫です。",
+      "en": "Thank you. …But — I'm alright.",
+      "style": "A small polite half-decline — no rush in the delivery.",
+      "mood": "polite_decline"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ええの、ええの。一緒に待ちましょね。",
+      "en": "It's fine, fine. Let's wait together.",
+      "style": "A small Kansai inclusion — voice carries the moment fully.",
+      "mood": "kansai_inclusion"
+    }
+  ]
+}

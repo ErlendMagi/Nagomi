@@ -1,0 +1,86 @@
+{
+  "id": "conv_06451",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 農協/アポ/故に/計り/交差/つかめ/生後/下流",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "農協",
+    "アポ",
+    "故に",
+    "計り",
+    "交差",
+    "つかめ",
+    "生後",
+    "下流"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_324 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、地元農協と協力して、調査しています。",
+      "en": "We're investigating this case in cooperation with the local agricultural cooperative.",
+      "style": "Measured and official, but not cold. Steady eye contact. Brief pause before the key detail. Clear enunciation on procedure.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "関係者、警察にアポ、取って訪問されたんですね。",
+      "en": "So the parties involved set up appointments with police and you visited them.",
+      "style": "Thoughtful, processing. Slight upturn on the question. Respectful deference to the officer's procedure. Genuine interest in how the investigation unfolded.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者は無事故に走ってきたドライバー、故に動機、見えにくい。",
+      "en": "That's right. The victim is a driver with a clean record, which makes the motive harder to see.",
+      "style": "Careful emphasis on 'clean record.' Matter-of-fact tone. Slight heaviness—acknowledging this complicates things. Steady pace, no rushing.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害金額、計りに掛けるのは、なかなか難しいですね。",
+      "en": "Calculating the damage amount is quite difficult, isn't it.",
+      "style": "Hesitant, almost testing the idea aloud. Seeking confirmation or insight. Quiet, probing—not accusatory. Trailing slightly upward at the end.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。交差点での衝突、現場検証、再度行います。",
+      "en": "Yes. We'll conduct another on-site verification of the intersection collision.",
+      "style": "Decisive but measured. Slight emphasis on 'another'—showing thoroughness. Professional resolve. Matter-of-fact delivery, no emotion layered in.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "手がかり、つかめないままですか。",
+      "en": "You still haven't found any leads?",
+      "style": "Quiet, direct question. Not pushy—genuinely asking. Slight concern underneath. Waiting for the answer without filling the silence.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。生後二歳の被害者、家族のケア、最優先です。",
+      "en": "No. The primary concern right now is caring for the victim—a two-year-old—and supporting their family.",
+      "style": "Shift in weight and tone. Gentler, more grounded. Clear priority shift—family care weighs heavier than investigation procedure. Steady, humane delivery.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "川の下流、捜索の範囲、広げますか。",
+      "en": "Should we expand the search area downstream from the river?",
+      "style": "Careful, practical question. Slight hesitation—aware this is a bigger decision. Respectful of the officer's judgment. Quiet, not demanding.",
+      "mood": "pragmatic"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06729",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 通告/知らさ/運送/日報/年内/償却/用地/代わる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通告",
+    "知らさ",
+    "運送",
+    "日報",
+    "年内",
+    "償却",
+    "用地",
+    "代わる"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、立ち退きの通告、地域住民に、出しました。",
+      "en": "We've issued eviction notices to all residents in the area.",
+      "style": "Professional, measured delivery. No inflection on difficult information. Even pace, slight pause after 'notices' to let it settle. Clean closure.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。捜査の進捗、御社にも、知らされている範囲で、共有しています。",
+      "en": "Yes. I'm sharing the investigation progress with you to the extent we're able to disclose.",
+      "style": "Attentive and cooperative tone. Steady pacing. Light emphasis on 'to the extent' — careful, lawful. Respectful half-beat before closing.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、運送業者を装って、移動しておりました。",
+      "en": "The suspect was moving around posing as a logistics worker.",
+      "style": "Matter-of-fact delivery, like reading case notes. Neutral weight on each phrase. No editorializing. Clinical precision throughout.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、日報を、警察に提出することも、可能です。",
+      "en": "Yes. We can also submit our daily reports to the police if that would be helpful.",
+      "style": "Willing and practical. Slight lift on 'also' — offering additional support. Warm professionalism, not stiff. Ready to cooperate further.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "捜査、年内に、目処をつけられそうです。",
+      "en": "We should be able to close the investigation before year's end.",
+      "style": "Measured optimism. Steady cadence on the timeline. Light emphasis on 'should' — cautious confidence, not a promise. Calm finality.",
+      "mood": "measured_optimistic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害品、償却扱い、検討する必要、出てきました。",
+      "en": "Yes. We'll need to review how to handle the damaged goods for accounting purposes.",
+      "style": "Businesslike, noting a practical task. Slight pause before 'accounting' — shifting into operational detail. No rush, methodical.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察署の用地、地域内で、変更されました。",
+      "en": "The police station location in the area has been updated.",
+      "style": "Brief, informational. Even tone. No extra emphasis. Factual announcement delivered without dwelling. Clean and direct.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。担当に代わる形で、ご報告、申し上げます。",
+      "en": "Yes. I'll brief the responsible party and follow up with you.",
+      "style": "Confirming closure. Warm professionalism, taking ownership. Steady assurance. Final beat of courtesy — almost a small bow in the voice.",
+      "mood": "responsible"
+    }
+  ]
+}

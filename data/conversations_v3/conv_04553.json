@@ -1,0 +1,78 @@
+{
+  "id": "conv_04553",
+  "context": "A boss and his manager read political headlines together",
+  "purpose": "Teach: 議決/選出/諮問/選任/合法/反し/不利/地方自治体",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "議決",
+    "選出",
+    "諮問",
+    "選任",
+    "合法",
+    "反し",
+    "不利",
+    "地方自治体"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_229 workflow wjoc5dipz)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "見出しにあるな、地方自治体の議会で重要な議決が行われたらしい。",
+      "en": "The headline says an important resolution was passed in a local government assembly.",
+      "style": "Authoritative boss reading headline aloud with measured interest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、新しい首長の選出を巡って揉めていたみたいですね。",
+      "en": "Yes, it seems there was conflict over the election of the new chief.",
+      "style": "Polite manager affirming with cautious workplace tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "こっちの記事は諮問機関の答申を完全に無視した形だと書いてある。",
+      "en": "This article says they completely ignored the advisory body's recommendation.",
+      "style": "Slightly indignant boss pointing at another article"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "監査役の選任手続きにも問題があったと指摘されていますよ。",
+      "en": "It's also pointed out that there were problems with the auditor appointment procedure.",
+      "style": "Reserved manager adding factual detail respectfully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "手続き自体は合法だが、住民感情に反した決定だな。",
+      "en": "The procedure itself is legal, but it's a decision that goes against residents' feelings.",
+      "style": "Boss giving weighty analytical verdict with crossed arms"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "次の選挙では現職にかなり不利な状況になりそうですね。",
+      "en": "It looks like the incumbent will be at quite a disadvantage in the next election.",
+      "style": "Manager speculating cautiously about political consequences"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ、こういう揉め事はそこら中の自治体で起きているらしい。",
+      "en": "Hmm, apparently this kind of trouble is happening in municipalities all over the place.",
+      "style": "Boss closing thought with resigned, knowing sigh"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お茶のお代わり、お持ちしましょうか。",
+      "en": "Shall I bring you another cup of tea?",
+      "style": "Manager politely offering service to defuse mood"
+    }
+  ]
+}

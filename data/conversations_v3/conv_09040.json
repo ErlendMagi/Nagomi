@@ -1,0 +1,86 @@
+{
+  "id": "conv_09040",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 楓/出逢い/隠れ家/どんぐり/硬貨/大砲/散髪/ブルーベリー",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "楓",
+    "出逢い",
+    "隠れ家",
+    "どんぐり",
+    "硬貨",
+    "大砲",
+    "散髪",
+    "ブルーベリー"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_453 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと楓の名所に行きましょうね",
+      "en": "Sho, let's go see the maple leaves with Dad, shall we?",
+      "style": "Warm, maternal invitation. Soft opening. Gentle downward inflection at the end—a mother checking in, not commanding. Unhurried.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんとママの出逢いの話して下さい",
+      "en": "Mom, can you tell me the story of how you and Dad first met?",
+      "style": "Genuine curiosity, not performing. Quiet wonder in the voice. Lean forward slightly—he's asking something that matters to him. Small breath before the question.",
+      "mood": "curious_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママのキッチンが私の隠れ家なのよ",
+      "en": "Sho, my kitchen is my little refuge, you know.",
+      "style": "Soft, almost dreamy. A mother speaking half to herself, half to her son. Slight pause before 'refuge'—she's choosing the word carefully. Tender nostalgia underneath.",
+      "mood": "reflective_peaceful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとどんぐり拾いに行ったよ",
+      "en": "Mom, I went acorn-picking with Dad today!",
+      "style": "Bright, eager. Quick clip at the opening—he wants her to hear his excitement. Open vowels. Natural child's enthusiasm, not forced. Trailing lift at the end.",
+      "mood": "pleased_excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんが古い硬貨をくれたわね",
+      "en": "Sho, Grandpa gave you that old coin, remember?",
+      "style": "Gently reminiscing. Soft pause after the opening. As if she's fondly remembering along with him. Slower pace—savoring the detail. Quiet, not lost-in-thought but present-in-memory.",
+      "mood": "tender_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんと大砲のお話したよ",
+      "en": "Mom, I told Grandpa a story about cannons!",
+      "style": "Eager but quieter than his previous turn—he's proud of what he shared with Grandpa, not just what he did. Slight shyness underneath the excitement. Soft landing.",
+      "mood": "proud_bashful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと散髪屋さんに行きましょう",
+      "en": "Sho, shall we take you to the barber with Dad?",
+      "style": "Maternal, matter-of-fact but tender. Practical warmth. Light, easy tone—stating something routine but said with care. The voice of a mother who makes small moments feel safe.",
+      "mood": "warm_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ブルーベリーパイ食べたい",
+      "en": "Mom, I want to eat blueberry pie.",
+      "style": "Simple, direct, but not demanding. Soft wanting in the voice—he's asking, not insisting. Small boy's voice. Quiet contentment. Slight wonder that blueberry pie is even a possibility.",
+      "mood": "wistful_hopeful"
+    }
+  ]
+}

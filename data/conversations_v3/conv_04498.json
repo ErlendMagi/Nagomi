@@ -1,0 +1,84 @@
+{
+  "id": "conv_04498",
+  "context": "A uni student interviews a manager about consulting work",
+  "purpose": "Teach: デフレ/クレジットカード/コンサルティング/譲渡/公益/年収/出品/営利",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デフレ",
+    "クレジットカード",
+    "コンサルティング",
+    "譲渡",
+    "公益",
+    "年収",
+    "出品",
+    "営利"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。御社のコンサルティング会社について、いくつか伺ってもよろしいですか？",
+      "en": "Thank you for your time today. May I ask a few questions about your consulting firm?",
+      "style": "Polite formal interview opening with respectful tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん、どうぞ。最近の若い人は、長く続いたデフレ経済の影響を気にしているのかな？",
+      "en": "Of course, please go ahead. Are young people today worried about the effects of the long deflationary economy?",
+      "style": "Warm welcoming reply with reflective generational curiosity"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、就職を控えて気になります。失礼ですが、御社の平均年収はどのくらいなのでしょうか？",
+      "en": "Yes, with job hunting coming up, it concerns me. Excuse me for asking, but what is the average annual salary at your firm?",
+      "style": "Earnest student question shifting carefully to practical career concerns"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちは新卒で六百万円ほどで、能力次第で年収アップも早いですよ。経費はクレジットカード決済で会社持ちです。",
+      "en": "For new graduates it's around six million yen, and salary growth is quick depending on ability. Expenses are covered by the company via credit card payment.",
+      "style": "Direct factual answer adding practical perk detail naturally"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "安心しました。御社は主にどのような案件を扱っていらっしゃるのですか？",
+      "en": "That's reassuring. What kinds of cases does your firm mainly handle?",
+      "style": "Relieved student steering interview toward concrete business scope"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "営利目的の企業支援が中心ですが、公益法人向けのアドバイザリーも行っています。",
+      "en": "We mainly support for-profit companies, but we also do advisory work for public-benefit corporations.",
+      "style": "Confident manager outlining client breadth with steady pride"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "幅広いんですね。事業譲渡の案件なども扱われるのでしょうか？",
+      "en": "That's a wide range. Do you also handle business transfer cases?",
+      "style": "Impressed student probing deeper into specialized advisory work"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、譲渡の仲介はうちの主力ですし、M&Aの入札出品の評価まで一貫して関わります。",
+      "en": "Yes, transfer mediation is one of our core services, and we handle everything through to valuing M&A bid listings.",
+      "style": "Confident manager listing core professional services with authority"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に多岐にわたるんですね。ぜひ御社で働きたいと思いました。",
+      "en": "Truly wide-ranging work. I'd really love to work at your company.",
+      "style": "Enthusiastic closing expressing genuine career aspiration sincerely now"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "conv_00097",
+  "context": "Yuki has come to Saito's clinic for a routine annual check. The encounter is professional but warm — Saito is also a friend of a friend.",
+  "purpose": "small medical encounter — professional with a small human note",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "少し",
+    "心配",
+    "元気"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、こんにちは。お変わりないですか？",
+      "en": "Ms. Tanaka — hello. Anything different?",
+      "style": "Calm professional. Sits across from her.",
+      "mood": "calm_pro"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい…たぶん。少し、最近、疲れやすくて。",
+      "en": "Yes… probably. Just — tired easily lately.",
+      "style": "A small honest report. Voice careful.",
+      "mood": "careful_report"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。…どのくらい前から？",
+      "en": "I see. …Since how long ago?",
+      "style": "Plain professional follow-up — with steady attentive presence.",
+      "mood": "plain_follow"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…たぶん、二ヶ月。",
+      "en": "…Maybe two months.",
+      "style": "A small honest admission. Voice slightly lower.",
+      "mood": "small_admission"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に？それは、ちゃんと診ましょう。",
+      "en": "Really? Then — let's check properly.",
+      "style": "A small note of real concern professionally framed.",
+      "mood": "real_concern_framed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "心配かけて、すみません。",
+      "en": "Sorry for the worry.",
+      "style": "A reflexive apology. Half-bow — no rush in the delivery.",
+      "mood": "reflexive_apology"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配は仕事ですから。…体重、少し測りますね。",
+      "en": "Worrying is my job. …Let's check your weight.",
+      "style": "A small warm joke that lands.",
+      "mood": "warm_joke"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。…本当にありがとうございます。",
+      "en": "Yes. …Truly, thank you.",
+      "style": "A small grateful exhale — voice carries the moment fully.",
+      "mood": "grateful_exhale"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫ですよ。時間、ゆっくり取りますから。",
+      "en": "It'll be fine. I'll take my time, properly.",
+      "style": "A small steady kindness. Closes the loop.",
+      "mood": "steady_kind"
+    }
+  ]
+}

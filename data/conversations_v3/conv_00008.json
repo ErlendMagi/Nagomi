@@ -1,0 +1,68 @@
+{
+  "id": "conv_00008",
+  "context": "After school. Hina rushes to Yumiko in the kitchen with a folded paper, very pleased with herself.",
+  "purpose": "small parent-child celebration — pure warmth",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "見る",
+    "本当に",
+    "一番",
+    "ありがとう",
+    "大きい"
+  ],
+  "cast": [
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、お母さん！これ見て見て！",
+      "en": "Mom, mom! Look at this, look look!",
+      "style": "Pure eight-year-old explosion. Bouncing in the voice. Paper waved on the second 「見て」.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はいはい、なに？……うわ、すごい。",
+      "en": "Okay okay, what is it? …Whoa — that's great.",
+      "style": "Mom-tone shifts mid-line. The first half is logistical; the 「うわ」 is genuinely impressed. Genuine, not performed.",
+      "mood": "shifting_impressed"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "本当に？うさぎ、大きいでしょ？",
+      "en": "For real? The bunny's big, right?",
+      "style": "Lit-up question. Her own pride breaking through. Lift on 「大きい」 as she points.",
+      "mood": "proud_seeking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、上手。これ、クラスで一番じゃない？",
+      "en": "Yeah, it's great. Best in the class, isn't it?",
+      "style": "Warm exaggeration but the warmth is honest. Mom-tone returning.",
+      "mood": "praising"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう！冷蔵庫に貼っていい？",
+      "en": "Thank you! Can I put it on the fridge?",
+      "style": "Already moving. The question is performative — she's already going for the magnets.",
+      "mood": "already_moving"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いいよ。一番上のとこに貼ってあげる。",
+      "en": "Sure. I'll put it right at the top.",
+      "style": "Walking-toward-her warmth. The plan is being shared on the move.",
+      "mood": "participating"
+    }
+  ]
+}

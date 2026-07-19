@@ -1,0 +1,86 @@
+{
+  "id": "conv_06786",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 会計士/生み出さ/染色/カスタム/補修/公約/不透明/枚数",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "会計士",
+    "生み出さ",
+    "染色",
+    "カスタム",
+    "補修",
+    "公約",
+    "不透明",
+    "枚数"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_341 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社の会計士、ベテランで、信頼できる人材だ。",
+      "en": "Our accountant is a veteran — someone you can trust.",
+      "style": "Measured, declarative. Slight weight on 'veteran' — respect for experience. Clean opening, no softness. The tone of someone setting a fact down.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新事業、若手から、生み出された企画、形にしております。",
+      "en": "Yes. We're developing a plan that came from the younger staff, and shaping it into something real.",
+      "style": "Steady, professional clarity. Measured pace. Slight lift on 'developing' — pride in progress. Direct eye contact, no rush. The competent report.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "伝統工芸、染色技術、若手にも、継承させろ。",
+      "en": "Traditional craftsmanship, dyeing techniques — make sure the younger generation inherits them.",
+      "style": "Command delivered quietly. Weight on 'inherits' — this matters. Not harsh, but final. The voice of someone who sees the line between present and future.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様向け、カスタム製品の受注、増えております。",
+      "en": "Yes. We're seeing more custom product orders coming in from clients.",
+      "style": "Factual update, slight warmth underneath. Even pace. Subtle emphasis on 'more' — this is good news, but stated plainly. No overselling.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本社の補修工事、来月から、始まる予定だな。",
+      "en": "The headquarters renovation is scheduled to begin next month.",
+      "style": "Brief, matter-of-fact delivery. Slight downbeat on 'renovation' — this is happening. No elaboration needed. The tone of someone moving through agenda items with purpose.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経営陣の公約、社員にも、浸透しています。",
+      "en": "Yes. The management's commitments are taking root with the staff.",
+      "style": "Affirming tone. Gentle pride — this is working. Steady pace, warm without being effusive. The satisfaction of seeing intention become action.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の先行き、不透明な部分もあるが、攻めていけ。",
+      "en": "The industry outlook has some unclear areas, but we need to stay aggressive.",
+      "style": "Honest acknowledgment of risk, then pivot to resolve. Slight pause before 'aggressive' — choosing the word deliberately. Measured but confident. The voice of leadership accepting uncertainty while pushing forward.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。配布資料の枚数、過剰にならないよう、調整します。",
+      "en": "Yes. I'll make sure the distribution materials stay efficient — not excessive.",
+      "style": "Closing note, practical and precise. Slight nod on 'efficient' — detail matters. Quick, professional. The final reassurance of someone wrapping up loose ends.",
+      "mood": "careful"
+    }
+  ]
+}

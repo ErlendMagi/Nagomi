@@ -1,0 +1,78 @@
+{
+  "id": "conv_05226",
+  "context": "A boss reviews a contractor performance summary",
+  "purpose": "Teach: 資材/教諭/優良/作動/強要/超越/預言/ウォール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資材",
+    "教諭",
+    "優良",
+    "作動",
+    "強要",
+    "超越",
+    "預言",
+    "ウォール"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "下請けの評価表を見たんだが、A社は優良判定で間違いなさそうだな。",
+      "en": "I looked at the contractor evaluation sheet — Company A clearly rates as preferred.",
+      "style": "Boss speaking matter-of-factly while reviewing documents at his desk"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、納期も品質も安定しています。資材の調達ルートも独自に持っているようで。",
+      "en": "Yes, their delivery and quality are stable. They seem to have their own materials sourcing routes too.",
+      "style": "Subordinate replying respectfully with a concise factual report"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。一方でB社だが、現場の安全装置がきちんと作動していなかった件、どうなった?",
+      "en": "Hmm. On the other hand, regarding Company B — what happened with the safety device that wasn't activating properly on site?",
+      "style": "Boss shifting tone slightly sharper as he raises a concern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "改善報告は届きました。ただ、社長が現場に残業を強要しているという噂もありまして。",
+      "en": "We received their improvement report. However, there are also rumors that their president is forcing overtime on workers.",
+      "style": "Subordinate lowering voice slightly when delivering sensitive information"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは問題だな。ところで、あの社長は元高校教諭だったというのは本当か?",
+      "en": "That's a problem. By the way, is it true that president used to be a high school teacher?",
+      "style": "Boss pivoting to a separate question with mild curiosity"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当です。教諭時代の常識を超越した経営手腕で、ウォール街帰りかと噂されるほどでして。",
+      "en": "It's true. His management skills go beyond what you'd expect from a former teacher — clients even joke he's like someone back from Wall Street.",
+      "style": "Subordinate explaining with a faint amused smile at the rumor"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ、預言者扱いか。じゃあB社は条件付き継続、A社は優先発注で進めてくれ。",
+      "en": "Hmm, treated like a prophet, huh. Then let's continue with Company B conditionally, and prioritize orders for Company A.",
+      "style": "Boss chuckling briefly then concluding with a decisive directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来週の会議までに正式な稟議書を用意しておきます。",
+      "en": "Understood. I'll have the formal approval document ready by next week's meeting.",
+      "style": "Subordinate confirming the order in a professional tone"
+    }
+  ]
+}

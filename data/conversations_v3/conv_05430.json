@@ -1,0 +1,79 @@
+{
+  "id": "conv_05430",
+  "context": "A police officer briefs a uni reporter about public-event safety",
+  "purpose": "Teach: 引か/運ば/塗り/桁/タスク/パブリック/フィードバック/会費",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引か",
+    "運ば",
+    "塗り",
+    "桁",
+    "タスク",
+    "パブリック",
+    "フィードバック",
+    "会費"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "パブリック催事の警備、ご質問ですね。",
+      "en": "You have a question about public-event security.",
+      "style": "Warm professionalism. Measured opening—not rushed, not stiff. Sits forward slightly, ready to listen. Clear-eyed. The tone of someone who has answered this before and doesn't mind.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。会場運営側からのフィードバック、どう吸い上げていますか。",
+      "en": "Yes. How do you gather feedback from the event organizers on site?",
+      "style": "Respectful but genuine curiosity. Leans in slightly. Not performing politeness—actually interested in the answer. Steady pace, no filler.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "毎回タスク管理表で確認します。桁の大きい人出は、特に警戒です。",
+      "en": "Every time we use a task-management checklist to review it. Large crowds especially—we stay extra vigilant.",
+      "style": "Matter-of-fact competence. Slight emphasis on the system itself, not the person explaining it. Unhurried, precise. The voice of someone describing a routine they trust.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "壁の塗り直しなど、設営側からの依頼にも対応しますか。",
+      "en": "Do you also handle requests from the setup team—things like repainting walls, that kind of thing?",
+      "style": "Thoughtful question, not challenging. Genuine uncertainty about the scope. Slight pause before 'that kind of thing'—he's thinking through examples as he speaks.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警備の動線が運ばれる経路を確保した上で、対応します。",
+      "en": "We respond to those requests, but only after we've secured the routes our patrol teams need to move through.",
+      "style": "Clear prioritization without arrogance. Steady, practical tone. A slight edge of firmness—this is the boundary. Professional, not cold.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "会費のかかる施設、注目を引かないと運営が苦しいですよね。",
+      "en": "Venues that charge admission struggle without visibility, though. That's the real pressure.",
+      "style": "Observant, empathetic recognition. Slower pace—he's thinking about the organizers' actual problem. Not asking, stating. Warm understanding underneath.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おっしゃる通りです。",
+      "en": "You're right about that.",
+      "style": "Genuine acknowledgment. A small nod in the voice. He means it—Ren saw something true. Warm, brief, the sound of respect between two people who don't need much.",
+      "mood": "affirming"
+    }
+  ]
+}

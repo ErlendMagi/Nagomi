@@ -1,0 +1,69 @@
+{
+  "id": "conv_00721",
+  "context": "Mrs. Mori catches Yumiko at the gate with a small piece of news.",
+  "purpose": "neighbor casual news exchange",
+  "ambient": "gate_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "一緒",
+    "笑顔",
+    "隣",
+    "情報"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "優子さん、おはよう。お元気？",
+      "en": "Yumiko-san — good morning. How are you doing?",
+      "style": "Warm, unhurried opening. Soft conspiratorial cadence—the tone of a neighbor who knows her well. Gentle lilt upward on the greeting, then settles into genuine interest. Real affection, no performance.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おはよう、森さん。元気ですよ。",
+      "en": "Morning, Mori-san. I'm doing well.",
+      "style": "Bright, open response. Slightly higher energy than tired—genuinely pleased to see her. Warm without reaching; the ease of someone accustomed to kindness from this neighbor. Clear but not brisk.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "隣のお店、新しい情報、聞きました？",
+      "en": "Did you hear? There's news about the shop next door.",
+      "style": "Eager but measured—not gossip-hungry, just delighted to have something to share. Leans in slightly with the question. Conspiratorial warmth. Paces just slowly enough to let curiosity build.",
+      "mood": "curious_delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いいえ、初めて。教えてください。",
+      "en": "No, I haven't heard anything. Please, tell me.",
+      "style": "Genuinely interested, not merely polite. Slight lean forward. Warm opening on 'No'—acknowledging she's curious now too. Soft, inviting the next words without pressure.",
+      "mood": "receptive_curious"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "今度、皆で、一緒に、行きましょう。",
+      "en": "Let's all go together next time.",
+      "style": "Invitation delivered as certainty wrapped in warmth. Unhurried pacing. Small lift on 'together'—the real pleasure is in including her. Gentle, assuming yes without demanding it.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "笑顔で、お待ちしてます。",
+      "en": "I'll be waiting for you with a smile.",
+      "style": "Closing warmth. Soft, genuine promise—not effusive, but tender. Slight fadeout at the end, the tone of someone closing a door gently. Composed grace.",
+      "mood": "tender_warm"
+    }
+  ]
+}

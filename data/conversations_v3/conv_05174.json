@@ -1,0 +1,78 @@
+{
+  "id": "conv_05174",
+  "context": "A uni student interviews a retired diplomat at home",
+  "purpose": "Teach: 祖国/敵対/全日本/肖像/風水/ハンガリー/鳥取/徳島",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "祖国",
+    "敵対",
+    "全日本",
+    "肖像",
+    "風水",
+    "ハンガリー",
+    "鳥取",
+    "徳島"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。早速ですが、長年祖国を離れての勤務、どんなお気持ちでしたか。",
+      "en": "Thank you for your time today. To start, how did it feel to work so long away from your homeland?",
+      "style": "Polite, respectful interview opener with slight nervousness in tone, formal university-student register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだなあ、若い頃はハンガリーに駐在していてね。ブダペストの街並みは今も忘れられんよ。",
+      "en": "Well, in my younger days I was stationed in Hungary. I still can't forget the streets of Budapest.",
+      "style": "Warm, nostalgic elderly voice, slow pace with reflective sighs between phrases."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "壁にかかっている肖像画は、もしかして当時の大使の方ですか。",
+      "en": "Is the portrait hanging on the wall perhaps the ambassador from that time?",
+      "style": "Curious, slightly impressed, leaning forward with genuine student interest."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、あれは恩師でね。冷戦の頃は敵対する国々の間で、言葉一つに神経を使ったものだ。",
+      "en": "Ah, that's my mentor. During the Cold War, between hostile nations, we agonized over every single word.",
+      "style": "Gravely serious shift in tone, voice deepening as he recalls tense diplomatic memories."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "退官された今は、鳥取のご実家と東京を行き来されていると伺いました。",
+      "en": "I heard that now in retirement you move between your family home in Tottori and Tokyo.",
+      "style": "Conversational pivot to lighter topic, friendly and inquisitive student tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そう、妻が徳島の出だから、四国にもよく顔を出す。この家は風水を見てもらって建てたんだよ。",
+      "en": "Yes, my wife is from Tokushima, so we visit Shikoku often. This house was built after consulting feng shui.",
+      "style": "Relaxed, slightly chuckling, proud homeowner sharing personal anecdotes warmly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、意外です。学生時代は全日本剣道大会にも出られたとか、本当ですか。",
+      "en": "Wow, that's surprising. I also heard you competed in the All-Japan Kendo Championship as a student. Is that true?",
+      "style": "Genuinely surprised exclamation, voice rising with admiration and youthful enthusiasm."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "若気の至りさ。外交も剣道も、結局は忍耐と相手への敬意に尽きるね。",
+      "en": "Just the folly of youth. In the end, both diplomacy and kendo come down to patience and respect for your opponent.",
+      "style": "Quiet wisdom in voice, philosophical and measured, ending the interview with gentle gravitas."
+    }
+  ]
+}

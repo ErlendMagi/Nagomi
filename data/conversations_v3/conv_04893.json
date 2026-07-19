@@ -1,0 +1,78 @@
+{
+  "id": "conv_04893",
+  "context": "A police officer guides a uni reporter through a museum exhibit",
+  "purpose": "Teach: アイデンティティ/苦悩/根源/嫌悪/落語/教団/風俗/戦車",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "アイデンティティ",
+    "苦悩",
+    "根源",
+    "嫌悪",
+    "落語",
+    "教団",
+    "風俗",
+    "戦車"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_246 workflow wgbt2o3e0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "署からの巡回でお邪魔しています。今日は警備の確認も兼ねて、江戸から昭和の風俗を扱った展示室を一緒に回りましょう。",
+      "en": "I'm here on patrol from the station. While checking security, let's walk through the exhibit on customs from Edo to Showa together.",
+      "style": "Police officer on patrol, friendly but businesslike tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "助かります。最初の部屋に旧型の戦車が置いてあって、ちょっと驚きました。",
+      "en": "That helps. There's an old-model tank placed in the first room, and it surprised me a bit.",
+      "style": "Curious student reporter reacting honestly to the display"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、あれね。戦後の治安が荒れた頃の話を聞くと、人々の苦悩が伝わってきますよ。",
+      "en": "Ah, that one. When you hear stories from the rough postwar years, you really sense people's anguish.",
+      "style": "Officer sharing a personal impression, casual and grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "隣の部屋には落語の高座もあって、当時の娯楽の根源みたいなものを感じます。",
+      "en": "The next room has a rakugo stage too, and you can feel something like the roots of the entertainment of that time.",
+      "style": "Reporter thinking out loud while taking notes"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。あの隅の展示は、戦後に増えた新興教団のチラシなんですって。当時はトラブルも多くてね。",
+      "en": "Yes. That display in the corner is apparently flyers from new religious groups that grew after the war. There was a lot of trouble back then.",
+      "style": "Officer pointing things out conversationally, mixing in police perspective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。みんな何かに自分のアイデンティティを預けたかったんですかね。",
+      "en": "I see. I guess everyone wanted to entrust their identity to something.",
+      "style": "Young reporter musing, soft and reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "端的に言うと、そうでしょうね。戦争への嫌悪を抱えながらも、生きる活力を探していたんだと思いますよ。",
+      "en": "To put it plainly, probably so. While carrying revulsion toward war, I think they were searching for the energy to live.",
+      "style": "Officer offering a plain-spoken human observation"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いい話が聞けました。最後の部屋まで、じっくり探索させてもらいますね。",
+      "en": "I got a good story out of this. I'll thoroughly explore all the way to the last room.",
+      "style": "Grateful student reporter wrapping up, motivated and polite"
+    }
+  ]
+}

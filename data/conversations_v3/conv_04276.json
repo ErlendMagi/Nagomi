@@ -1,0 +1,78 @@
+{
+  "id": "conv_04276",
+  "context": "A barista and a sales rep plan replacing cafe equipment",
+  "purpose": "Teach: 家電/トヨタ/メンテナンス/ポケット/オイル/サウンド/マップ/グリーン",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "家電",
+    "トヨタ",
+    "メンテナンス",
+    "ポケット",
+    "オイル",
+    "サウンド",
+    "マップ",
+    "グリーン"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_215 workflow wcx5zhi55)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "ユキさん、すみません、お店のエスプレッソマシン、そろそろ寿命みたいで。",
+      "en": "Yuki, sorry, our shop's espresso machine seems to be reaching the end of its life.",
+      "style": "Casual barista opening with the core problem and mild apology."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど、定期メンテナンスの時期も過ぎてましたもんね。",
+      "en": "I see, it was also past due for regular maintenance, right?",
+      "style": "Empathetic rep confirming context before suggesting solutions."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんです。グラインダーからオイル漏れもあって、騙し騙し使ってました。",
+      "en": "Exactly. There was even an oil leak from the grinder, so we'd been nursing it along.",
+      "style": "Honest barista elaborating on the equipment's deteriorating state."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ちょうど今、家電フェアでグリーン購入対象のマシンが揃ってます。トヨタ系列の補助制度も使えますよ。",
+      "en": "Right now our appliance fair has machines eligible for green purchasing, and you can use the Toyota-group subsidy too.",
+      "style": "Sales rep introducing a timely promotion tied to the customer's need."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "補助が出るなら助かります。うちのポケットマネーじゃ、正直きつかったので。",
+      "en": "If there's a subsidy that really helps. Honestly our out-of-pocket budget was tight.",
+      "style": "Relieved barista checking financial feasibility with frank honesty."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "対応店舗のマップ付き資料をお渡ししますね。サウンド設備の更新もまとめて見積もれます。",
+      "en": "I'll give you a brochure with a map of participating stores. We can also bundle an estimate for the sound equipment.",
+      "style": "Helpful rep offering tangible materials and an extended one-stop service."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それは助かります。あっさり決めたい案件なので、店長にも意向を確認しておきますね。",
+      "en": "That's a big help. It's something I want to decide quickly, so I'll confirm intent with the manager too.",
+      "style": "Cooperative barista signaling commitment and promising internal alignment."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では来週、直ちにデモ機をお持ちします。お店で実際に触ってみてください。",
+      "en": "Then next week, I'll bring a demo unit right away. Please try it out in the shop.",
+      "style": "Decisive sales rep closing with a concrete and inviting next step."
+    }
+  ]
+}

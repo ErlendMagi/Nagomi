@@ -1,0 +1,86 @@
+{
+  "id": "conv_06094",
+  "context": "A boss reviews a CSR response to a disaster",
+  "purpose": "Teach: 骨折/腎臓/専門医/倒壊/冤罪/気象庁/運航/収束",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "骨折",
+    "腎臓",
+    "専門医",
+    "倒壊",
+    "冤罪",
+    "気象庁",
+    "運航",
+    "収束"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "被災地、骨折治療への支援、組み込めるか。",
+      "en": "Can we integrate fracture-treatment support into our disaster-area response?",
+      "style": "Measured, direct opening. Even tone without harshness. Rapid-fire delivery — each phrase crisps into the next. The efficiency of a mind already assembling logistics.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。腎臓系の患者向け医療キットも検討中です。",
+      "en": "Yes. We're also reviewing kidney-care medical kits.",
+      "style": "Steady, methodical. Slight pause after the affirmative — he's consulting his notes internally. Clear enumeration, like items being checked off. Reliable, unrushed.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "専門医、社内ネットワークで紹介できる?",
+      "en": "Can we source specialists through our internal network?",
+      "style": "Lean forward slightly in delivery. Sharp, searching tone — not demanding, but expecting a real answer. Quick clip on each key word. No softening.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "倒壊地区への運搬、ヘリで対応します。",
+      "en": "Helicopter transport to the collapse zones is secured.",
+      "style": "Brief, factual. Matter-of-fact tone — the update of something already decided and in motion. Flat confidence, no room for doubt. Delivered as a completed action.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "広報、冤罪まがいの拡散、避けろ。",
+      "en": "PR strategy — avoid any appearance of opportunism or misrepresentation.",
+      "style": "Low, serious undertone. Weight on the first phrase. This is a caution, not a suggestion. Deliberate pacing — he's being precise about the stakes. Slight hardening at the edges.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "気象庁との連携、強化しています。",
+      "en": "We're strengthening coordination with the Meteorological Agency.",
+      "style": "Level, declarative. Slight nod in the voice — he's confirming forward motion. Steady pace, no hesitation. The tone of someone reporting progress, not asking permission.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "航空運航再開、社員の出張、慎重に。",
+      "en": "Aviation resumption, staff travel — we need to move with care here.",
+      "style": "Slower than his usual pace. Each clause receives a full breath. Calm but weighted — this is where caution matters most. Slight emphasis on 'careful', not harsh but unmissable.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事態収束まで、対応続けます。",
+      "en": "Understood. We'll maintain response operations until the situation stabilizes.",
+      "style": "Quiet finality. Steady, closing-statement tone. No performance, just the commitment restated. Slight exhale at the end — the conversation's conclusion, not a dismissal. Grounded.",
+      "mood": "steady"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04833",
+  "context": "A police officer briefs a uni reporter on a building safety story",
+  "purpose": "Teach: 因果/国交/アスベスト/ウィルス/参戦/周期/モダン/効用",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "因果",
+    "国交",
+    "アスベスト",
+    "ウィルス",
+    "参戦",
+    "周期",
+    "モダン",
+    "効用"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご足労ありがとう。今日は例のモダン建築の倒壊事故について説明します。",
+      "en": "Thanks for coming. Today I'll explain the collapse incident at that modern building.",
+      "style": "Formal officer tone, measured and professional briefing voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。学生新聞として、因果関係を正確に伝えたいんです。",
+      "en": "Thank you. As the student paper, we want to report the causal relationship accurately.",
+      "style": "Eager young reporter, polite but probing journalistic tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "結論から言うと、老朽化したアスベストの除去工事中に上部の梁が落下しました。",
+      "en": "To put it bluntly, an upper beam fell during asbestos removal on the aging structure.",
+      "style": "Direct factual delivery, officer summarizing findings concisely."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国交省の点検記録では、一定の周期で検査が義務付けられていましたよね?",
+      "en": "Per the Ministry of Land records, inspections were required on a set cycle, right?",
+      "style": "Sharp follow-up question, reporter checking known facts carefully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通り。記録上は問題なしだったが、形だけの検査では何の効用もない。",
+      "en": "Correct. Records showed no issues, but token inspections have no real effect.",
+      "style": "Slightly frustrated, candid admission from a seasoned officer."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場の作業員の方々の健康被害は? 行政はウィルス対策ほど真剣に取り組んでくれますか。",
+      "en": "What about the workers' health damage? Will authorities tackle it as seriously as virus countermeasures?",
+      "style": "Concerned humanitarian angle, thoughtful follow-up from reporter."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "全員の健康診断を進めています。警察もこの捜査に本格的に参戦しました。",
+      "en": "We're conducting health checks for everyone. Police have now seriously joined this investigation.",
+      "style": "Reassuring authority, signaling serious institutional commitment clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。市民が安心できる記事に仕上げます。",
+      "en": "Thank you very much. I'll write an article that reassures the citizens.",
+      "style": "Grateful closing, sincere young journalist wrapping up respectfully."
+    }
+  ]
+}

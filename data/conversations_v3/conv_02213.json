@@ -1,0 +1,79 @@
+{
+  "id": "conv_02213",
+  "context": "Aoi visits a small mochi store; chats with the elderly shopkeeper.",
+  "purpose": "Customer-shopkeeper warm exchange.",
+  "ambient": "shop_low_traditional",
+  "sound_effects": [],
+  "target_vocab": [
+    "粉",
+    "撮り",
+    "達する",
+    "飾っ",
+    "通い",
+    "効い",
+    "差し",
+    "済ん"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_111)",
+    "generated_at": "2026-05-27T17:28:11.025Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "おばあちゃん、お元気ですか?",
+      "en": "Grandma, how have you been?",
+      "style": "Warm, genuine opening. Soft voice, the careful respect of someone addressing an elder she likes. Unhurried pace. Recognition and real care underneath.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おう、いつも通いに来てくれて。",
+      "en": "Oh, you always make the time to come by.",
+      "style": "Pleased murmur. The tone of someone touched by consistent kindness. Slow, savoring the words. Quiet pride in being visited.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "粉、丁寧に、ようけ用意されてますね。",
+      "en": "You've really prepared so much flour — all arranged so carefully.",
+      "style": "Noticing the effort. Soft admiration in the voice. Lingers on the details — she's really looking. Gentle, not effusive.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "効いてくれて、嬉しいわ。",
+      "en": "I'm so glad it's useful to you.",
+      "style": "Warm exhale. The ease of someone pleased by a small kindness landing. Tender, unguarded. Simple and genuine.",
+      "mood": "tender_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "写真、ちょっと撮ってもいいですか?",
+      "en": "Would it be all right if I took a photo?",
+      "style": "Polite question, but with genuine interest. Soft request — checking first, not assuming. Respectful distance with warmth underneath.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "もちろん、店、達するまで飾ってる。",
+      "en": "Of course — I've been keeping it on display at the shop until you could see it.",
+      "style": "Quiet pride. She's been waiting for this moment. The words come with a small smile underneath. Patient, fond.",
+      "mood": "proud_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "済んだら、お送りしますね。",
+      "en": "Once I have the photo, I'll send it to you right away.",
+      "style": "Gentle promise. Warm, reassuring tone. The care of someone who follows through. Soft close, like tucking something in carefully.",
+      "mood": "warm_attentive"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02751",
+  "context": "Yuki and Kenji confirm a meeting schedule.",
+  "purpose": "WIDENED SCENARIO: office scheduling; vocabulary (先ほど/時刻/とおり/午前/前回) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "先ほど",
+    "時刻",
+    "とおり",
+    "午前",
+    "前回"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_138)",
+    "generated_at": "2026-05-29T14:04:51.307Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "先ほど、会議の連絡が来ました。",
+      "en": "A meeting notice came just now.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "開始の時刻は、決まりましたか?",
+      "en": "Is the start time decided?",
+      "style": "attentive office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "前回どおり、午前十時です。",
+      "en": "As last time, 10 a.m.",
+      "style": "clear office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前回の資料も、使いますか?",
+      "en": "Do we use last time's materials too?",
+      "style": "curious office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "先ほどの連絡では、そのとおりです。",
+      "en": "Per the notice just now, that's right.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "午前中に、準備を終えましょう。",
+      "en": "Let's finish prep in the morning.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "時刻に遅れないよう、気をつけます。",
+      "en": "I'll be careful not to be late.",
+      "style": "reliable office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前回どおり、スムーズにいきましょう。",
+      "en": "Let's go smoothly, like last time.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

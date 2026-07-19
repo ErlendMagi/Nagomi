@@ -1,0 +1,78 @@
+{
+  "id": "conv_05106",
+  "context": "A boss reviews a service rollout schedule with his manager",
+  "purpose": "Teach: 除き/主宰/遵守/合致/猶予/なおし/パーソナル/シニア",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "除き",
+    "主宰",
+    "遵守",
+    "合致",
+    "猶予",
+    "なおし",
+    "パーソナル",
+    "シニア"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_257 workflow w2qhb13ru)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新サービスのロールアウト計画だが、シニア向けプランの開始日を確認したい。",
+      "en": "About the new service rollout plan, I want to confirm the start date for the senior-oriented plan.",
+      "style": "Calm authoritative tone, measured pace, slight downward inflection at end."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、シニアプランとパーソナル診断サービスは予定通り来月一日に開始いたします。",
+      "en": "Yes, the senior plan and personal diagnostic service will launch as scheduled on the first of next month.",
+      "style": "Respectful business register, crisp delivery, steady professional pace."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "法務から関連規則の遵守について最終確認は取れているのか?",
+      "en": "Have you obtained final confirmation from legal regarding compliance with the relevant regulations?",
+      "style": "Slightly probing intonation, firm question, brief pause before key noun."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一部の地方拠点を除き、全社で体制が整いました。北海道支社のみ猶予を申請しています。",
+      "en": "Compliance is in place company-wide except for a few regional bases. Only the Hokkaido branch has requested a grace period.",
+      "style": "Slightly apologetic tone on the exception, then recovers to factual reporting."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "猶予は何日までだ?その間に資料のなおしも入るだろう。",
+      "en": "Until when is the grace period? Revisions to the materials will likely come up during that time.",
+      "style": "Direct managerial concern, clipped delivery, mild frown audible in voice."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今月末までです。社長が主宰される運営委員会で再提出する予定です。",
+      "en": "Until the end of this month. We plan to resubmit it at the steering committee chaired by the president.",
+      "style": "Polite deferential phrasing, careful enunciation of formal business terms."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。資料は本部の戦略方針に合致するよう仕上げてくれ。",
+      "en": "Understood. Make sure the materials are finalized so they align with headquarters' strategic policy.",
+      "style": "Decisive closing tone, slight warmth, instructional but not harsh."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。週末までに修正版をお持ちします。",
+      "en": "Understood. I will bring the revised version by the weekend.",
+      "style": "Crisp affirmative response, slight bow implied in voice, confident delivery."
+    }
+  ]
+}

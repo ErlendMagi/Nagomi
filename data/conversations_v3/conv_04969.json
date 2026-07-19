@@ -1,0 +1,78 @@
+{
+  "id": "conv_04969",
+  "context": "A retired exec mentors a younger boss about industry papers",
+  "purpose": "Teach: 思惑/効力/働きかけ/態勢/利便/前年度/集積/産経新聞",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "思惑",
+    "効力",
+    "働きかけ",
+    "態勢",
+    "利便",
+    "前年度",
+    "集積",
+    "産経新聞"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の産経新聞、読まれましたか。前年度比で広告収入が落ち込んでいる、と書いてありました。",
+      "en": "Did you read this morning's Sankei Shimbun? It said ad revenue has dropped compared to last fiscal year.",
+      "style": "Polite junior tone, slightly anxious and seeking guidance from a senior mentor."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、目を通したよ。あの記事の裏には、業界団体の思惑がはっきり透けて見えるな。",
+      "en": "Yes, I glanced through it. Behind that article, you can clearly see the industry group's calculations at play.",
+      "style": "Calm elder statesman voice, dry and worldly, sharing decades of insider perspective."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "思惑、ですか。私にはまだ全体像が掴めなくて……規制の効力もこれから問われるのでしょうね。",
+      "en": "Calculations, you say. I still can't grasp the full picture; I suppose the new rules' effectiveness will be tested.",
+      "style": "Humble, hesitant, mid-career executive admitting his limits to a respected mentor."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだ。条文だけでは効力は生まれん。役所への地道な働きかけがあって、ようやく制度は動く。",
+      "en": "Exactly. Statutes alone don't produce force; only steady lobbying of the ministries finally sets a system in motion.",
+      "style": "Patient teaching cadence, measured and slightly old-fashioned, distilling hard-won wisdom."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。社内でも受け入れ態勢を整えておかないと、利便性ばかり議論しても意味がないですね。",
+      "en": "I see. Unless we prepare our internal posture, debating user convenience alone is meaningless.",
+      "style": "Reflective, taking notes mentally, professional executive vocabulary, deferential."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ。それと、関西の研究機関に蓄えられた知識の集積を侮ってはいかん。彼らが論文で先を行っている。",
+      "en": "Mm. And don't underestimate the accumulated knowledge in the Kansai research institutes; their papers are ahead of us.",
+      "style": "Sage, gravelly elder advisor, name-dropping regional expertise with quiet conviction."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "前年度の学会誌、私も読み返してみます。先生方の論文から学べることは、まだ山ほどありそうです。",
+      "en": "I'll reread last fiscal year's journal issues. There seems to be a mountain still to learn from the professors' papers.",
+      "style": "Energized, resolved, younger executive renewing his commitment to study under guidance."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それでいい。焦らず読み込みなさい。答えはいつも、紙の上の地味な行間にあるものだよ。",
+      "en": "Good. Read them carefully, without rushing. The answers always lie in the plain spaces between printed lines.",
+      "style": "Warm closing benediction from a retired mentor, slow and reassuring, paternal."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "conv_01903",
+  "context": "Mrs. Mori reflects on a recent good deed she did and feels content.",
+  "purpose": "Elder woman quietly content after kindness.",
+  "ambient": "tatami_quiet_kettle",
+  "sound_effects": [],
+  "target_vocab": [
+    "親切",
+    "気持ち",
+    "良い",
+    "満足"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_095)",
+    "generated_at": "2026-05-27T08:33:18.891Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "今日、ちょっと親切したわ。",
+      "en": "You know, I did something kind today.",
+      "style": "Warm, conversational opening. Soft pride without showing off — the modest kind of contentment that comes from a small good deed. Gentle pace, almost confiding.",
+      "mood": "pleased_humble"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、何があった?",
+      "en": "Oh? What happened?",
+      "style": "Genuine curiosity, warm and open. Leans in slightly. Not demanding details, but genuinely interested in what her neighbor will share. Soft, encouraging tone.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "迷子、案内してあげた。",
+      "en": "A lost child — I showed them the way home.",
+      "style": "Understated delivery. No drama. Matter-of-fact kindness, like this is just what you do. Quiet pride underneath, but the focus stays on the child, not the act.",
+      "mood": "quiet_satisfied"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えらいわね、お疲れさま。",
+      "en": "That was wonderfully done. You must be tired.",
+      "style": "Genuine appreciation without flattery. Warm acknowledgment of the effort. Recognizes the small kindness and the care it took. Gentle, affirming tone.",
+      "mood": "admiring_caring"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "気持ち、満足してる。",
+      "en": "My heart feels full from it.",
+      "style": "Soft, reflective. The contentment of knowing she did right by someone. Warm trailing at the end — almost peaceful. No need to say more.",
+      "mood": "content_fulfilled"
+    }
+  ]
+}

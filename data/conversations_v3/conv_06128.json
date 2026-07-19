@@ -1,0 +1,86 @@
+{
+  "id": "conv_06128",
+  "context": "Two managers discuss legal/PR",
+  "purpose": "Teach: 被疑/面会/先送り/白紙/水質/非公式/たたき台/商事",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "被疑",
+    "面会",
+    "先送り",
+    "白紙",
+    "水質",
+    "非公式",
+    "たたき台",
+    "商事"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "被疑情報、漏れていないか、確認した?",
+      "en": "Have you checked whether suspect information has leaked?",
+      "style": "Clipped, efficient. No preamble. Expects a straight answer. The voice of someone managing a live crisis — watching for hesitation.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。担当弁護士との面会、終わりました。",
+      "en": "Yes. The counsel meeting finished.",
+      "style": "Direct confirmation. Steady delivery, no decoration. The professional reassurance of a completed task — moving to next.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "交渉の先送り、得策じゃないね。",
+      "en": "Postponing negotiations won't serve us here.",
+      "style": "Measured but decisive. A quiet assessment, not a rebuke. Eyes forward — naming what needs to happen, not what went wrong.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "白紙の状態からも、案を出します。",
+      "en": "From a blank slate too — I'll draft proposals.",
+      "style": "Calm commitment. No apology for the work ahead. Shows he's already thinking past the setback. Factual, unburdened.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "近隣の水質、社内モニタリング体制、再確認。",
+      "en": "Nearby water quality and our internal monitoring setup — verify them again.",
+      "style": "Clean directive. Measured pace. The voice of someone isolating risk. Not rushed, but non-negotiable. Specific.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "非公式に、業界仲間とも話し合いました。",
+      "en": "I've been discussing unofficially with contacts in the industry.",
+      "style": "Quiet confidence. Reveals work already underway. Not seeking credit — informing her of forward motion. Steady assurance underneath.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "役員向けのたたき台、夕方までに。",
+      "en": "A draft proposal for the executive board — by this evening.",
+      "style": "Crisply stated deadline. No hedging. The tone of someone issuing a hard target and expecting it to hold. Brief, immovable.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "商事大手との連携、急ぎます。",
+      "en": "Coordinating with the trading houses — making it urgent.",
+      "style": "Clipped closure. Final piece sliding into place. Quick, businesslike. The last report before action moves beyond this conversation.",
+      "mood": "pressing"
+    }
+  ]
+}

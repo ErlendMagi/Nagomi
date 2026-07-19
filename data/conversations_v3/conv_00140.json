@@ -1,0 +1,111 @@
+{
+  "id": "conv_00140",
+  "context": "A small audition room. Riku has been talked into trying out for a community theater play. Asuka, a friend of his mom's, is on the panel — purely by coincidence.",
+  "purpose": "small-stakes audition — nervous teen, kind familiar judge",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "言う",
+    "少し",
+    "心配"
+  ],
+  "cast": [
+    "riku_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "…リクくん？",
+      "en": "…Riku-kun?",
+      "style": "A small startled-pleased recognition — with steady attentive presence.",
+      "mood": "startled_pleased"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うわ…木村さん。",
+      "en": "Whoa… Ms. Kimura.",
+      "style": "A real teen embarrassment — no rush in the delivery.",
+      "mood": "real_embar"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日、来てくれて、本当にありがとう。",
+      "en": "Truly — thank you for coming today.",
+      "style": "A small professional pivot — voice carries the moment fully.",
+      "mood": "pro_pivot"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…なんで、ここにいんの。",
+      "en": "…Why are you here, like.",
+      "style": "A small honest teen line — as the scene allows it.",
+      "mood": "honest_teen"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "(small laugh) 審査員、一人だけ、足りなくて。",
+      "en": "(small laugh) They needed one more judge — that's all.",
+      "style": "A small explanation — genuine and unforced throughout.",
+      "mood": "small_explain"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…マジでやめてほしい。",
+      "en": "…Seriously, please don't.",
+      "style": "A small Kansai-Tokyo blend protest — with steady attentive presence.",
+      "mood": "mock_protest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫。私、ちゃんと先生として、見るから。",
+      "en": "It's alright. I'll watch you — properly, as a teacher.",
+      "style": "A small steady reassurance — no rush in the delivery.",
+      "mood": "steady_reassure"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(beat) 心配かけて、すみません。",
+      "en": "…(beat) Sorry to make you worry.",
+      "style": "A small unexpected mature line — voice carries the moment fully.",
+      "mood": "unexpected_mature"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いえいえ。…本当に、ゆっくり、やって。",
+      "en": "Not at all. …Really — take your time, do it.",
+      "style": "A small warm permission — as the scene allows it.",
+      "mood": "warm_permit"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい…(small breath) 始めます。",
+      "en": "Yes… (small breath) starting.",
+      "style": "A small focused commitment — genuine and unforced throughout.",
+      "mood": "focused_commit"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "時間、ちゃんとあるから。",
+      "en": "There's plenty of time.",
+      "style": "A small final permission — with steady attentive presence.",
+      "mood": "final_permit"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(begins, voice cracks then steadies)",
+      "en": "(begins, voice cracks then steadies)",
+      "style": "A real beat. The audition under way.",
+      "mood": "audition_starts"
+    }
+  ]
+}

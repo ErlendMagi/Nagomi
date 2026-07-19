@@ -1,0 +1,62 @@
+{
+  "id": "conv_01225",
+  "context": "Hina and Sho whisper about their day before bed.",
+  "purpose": "children bedtime-whisper exchange",
+  "ambient": "bedroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "楽しい",
+    "優しい",
+    "友達",
+    "大切"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_061)",
+    "generated_at": "2026-05-27T04:31:14.850Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、今日も、楽しかった。",
+      "en": "Sho — today was so much fun too.",
+      "style": "Bright, eager opening. Child's natural warmth and sincerity. Speaks clearly but softly, letting genuine joy show without performance. Slight lift on Sho's name.",
+      "mood": "joyful_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、一緒、本当に、嬉しい。",
+      "en": "Yeah — being together like this, it really makes me happy.",
+      "style": "Quiet, genuine. Small voice, big feeling underneath. Hesitant pauses before the important words. Warm and certain, not doubting himself.",
+      "mood": "content_grateful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "友達、大切、本当に。",
+      "en": "Having a friend like you — it really means so much.",
+      "style": "Softer, more thoughtful than before. Hina finding words for something big. Slight pause before 'means so much,' like she's discovering how true it is as she says it.",
+      "mood": "tender_sincere"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "優しい、ひな、本当に。",
+      "en": "You're so kind, Hina — really.",
+      "style": "Small voice, deep feeling. Almost shy about the compliment he's giving. Steady and sure underneath the shyness. The word 'kind' lands gently but with weight.",
+      "mood": "grateful_admiring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "おやすみ、しょう。",
+      "en": "Good night, Sho.",
+      "style": "Soft and warm closing. The brightness settling into something more peaceful. Says his name like a small goodbye, like making sure he knows she means it.",
+      "mood": "tender_sleepy"
+    }
+  ]
+}

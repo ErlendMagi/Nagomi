@@ -1,0 +1,78 @@
+{
+  "id": "conv_00004",
+  "context": "End of a long workday. Kenji catches Yuki at her desk and floats the idea of dinner.",
+  "purpose": "casual workplace invitation — gentle decompression after a hard day",
+  "ambient": "quiet_office",
+  "target_vocab": [
+    "今日",
+    "一緒",
+    "本当に",
+    "ありがとう",
+    "時間",
+    "大丈夫",
+    "明日",
+    "うん"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "お、まだいたんだ。",
+      "en": "Oh, still here?",
+      "style": "Light, surprised opener; warm step-down on the second clause. The tone of someone who didn't expect to find her but is glad he did.",
+      "mood": "warm_surprised"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん…ちょっと色々あって。",
+      "en": "Yeah… a few things going on.",
+      "style": "Soft, slightly trailing answer. Faintly apologetic without being dramatic. The 「色々」 carries a small weight.",
+      "mood": "tired_evasive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今日、本当にお疲れさま。よかったら、ご飯一緒にどう？",
+      "en": "Long day today, really. If you're up for it, want to grab dinner together?",
+      "style": "Casual but careful pacing. The invitation arrives like a sidestep — no pressure in the voice. Slight lift on 「どう？」.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えっ、いいの？",
+      "en": "Wait — really?",
+      "style": "Tiny surprised note. The 「えっ」 is half a breath before the question. Pleasure underneath but kept small.",
+      "mood": "pleased_surprise"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。時間あるなら、すぐそこ。",
+      "en": "Of course. If you've got the time, just around the corner.",
+      "style": "Casual reassurance. Hand gesture in the voice. Quick, easy.",
+      "mood": "easy"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫だよ。ありがとう、ほんと助かる。",
+      "en": "Yeah, I'm good. Thanks — really, this helps.",
+      "style": "The thank-you lands genuine rather than polite. Voice steadier than two lines ago.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃ、行こ。明日のことは明日考える。",
+      "en": "Then let's go. Tomorrow's problems are tomorrow's.",
+      "style": "Warm closing. Half-laugh in the second clause. The kind of sentence that ends a workday.",
+      "mood": "closing_warm"
+    }
+  ]
+}

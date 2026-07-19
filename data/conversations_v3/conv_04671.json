@@ -1,0 +1,78 @@
+{
+  "id": "conv_04671",
+  "context": "A police officer briefs a teen reporter on a regional incident",
+  "purpose": "Teach: 増税/喪失/上陸/遺体/寺院/決着/住人/渡り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "増税",
+    "喪失",
+    "上陸",
+    "遺体",
+    "寺院",
+    "決着",
+    "住人",
+    "渡り"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_235 workflow wz4i8nuk5)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お疲れ様です。今日は先日の事件について、町の住人の皆さんに伝えたいことがあります。",
+      "en": "Thanks for coming. Today I have some information about the recent incident to share with the town's residents.",
+      "style": "Formal, measured tone with professional police composure."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします!学校新聞に載せたいので、詳しく教えてください。",
+      "en": "Thank you for your time! I want to publish this in the school paper, so please tell me the details.",
+      "style": "Earnest and bright, eager young journalist energy."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "先週、川の渡り場の近くにある古い寺院の裏手で、遺体が発見されました。身元はすでに判明しています。",
+      "en": "Last week, a body was discovered behind the old temple near the river crossing. The identity has already been confirmed.",
+      "style": "Grave delivery, slowing down to deliver sensitive news carefully."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、あの裏手のあたりですか?あそこは台風が上陸した日に通行止めだった場所ですよね。",
+      "en": "Huh, that area behind the temple? That spot was blocked off the day the typhoon made landfall, right?",
+      "style": "Surprised but quickly focused, connecting facts like a curious reporter."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よく覚えていますね。捜査はもうすぐ決着がつく見込みで、事件性は低いと判断しています。",
+      "en": "You remember well. The investigation should reach a conclusion soon, and we believe foul play is unlikely.",
+      "style": "Reassuring yet careful, choosing words like an experienced officer."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "安心しました。あと、町の集会では増税の話も出ていましたが、警察への影響はありますか?",
+      "en": "That's a relief. Also, the tax hike came up at the town meeting—does it affect the police at all?",
+      "style": "Curious follow-up, pivoting smoothly between serious topics."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "予算は厳しくなりますが、地域の安全に対する使命感を喪失することはありません。安心してください。",
+      "en": "The budget will tighten, but we will never lose our sense of duty toward community safety. Please rest assured.",
+      "style": "Firm and dignified, reaffirming duty with quiet conviction."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "かっこいい!記事の最後にその言葉、ぜひ使わせてください。",
+      "en": "That's wonderful! Please let me use those words at the end of my article.",
+      "style": "Cheerful admiration, ending the interview on an uplifting note."
+    }
+  ]
+}

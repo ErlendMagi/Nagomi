@@ -1,0 +1,86 @@
+{
+  "id": "conv_06362",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 目立た/増額/相応/ホルダー/すじ/ぼっ/婆/爺",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "目立た",
+    "増額",
+    "相応",
+    "ホルダー",
+    "すじ",
+    "ぼっ",
+    "婆",
+    "爺"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_320 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日のシャツ、目立たないけど、好き。",
+      "en": "Mom, your shirt today — it's quiet, but I really like it.",
+      "style": "Bright, observant delivery. Small genuine smile in the voice. Direct eye contact level. No performance — just noticing something true.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お年玉、増額してくれたって、お祖父ちゃん。",
+      "en": "Yeah. Grandpa said he increased my New Year's money.",
+      "style": "Warm, unsurprised. Slight knowing in the tone — she knows where this conversation is heading. Gentle, conversational pace.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "年齢相応のおもちゃ、買ってもいいよね。",
+      "en": "So I can buy age-appropriate toys, right?",
+      "style": "Gentle probe, testing the boundary. Quiet hopeful lilt at the end. Not demanding — genuinely asking permission while already considering the possibility.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おうちの鍵、キーホルダーつけといて。",
+      "en": "Make sure to put a keychain on the house keys.",
+      "style": "Practical, matter-of-fact. Not commanding — a gentle reminder phrased as instruction. Slight warmth underneath the practicality.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お豆腐、すじ取らないで、いいんでしょ?",
+      "en": "Tofu doesn't need the sinews removed, right?",
+      "style": "Genuinely uncertain, asking for confirmation. Quiet, thoughtful pace. The voice of someone working through a small confusion out loud.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、お豆腐にすじはないね、ぼっちゃん。",
+      "en": "Hehe — tofu doesn't have sinews, sweetheart.",
+      "style": "Gentle, affectionate laugh. Warm correction without a trace of condescension. Soft, almost tender tone. Brief pause before the term of endearment.",
+      "mood": "amused_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お婆ちゃんちで、お餅つきしたい。",
+      "en": "I want to make mochi with Grandma.",
+      "style": "Eager, bright. Opening with genuine excitement. Quick pace, almost bouncing with the idea. Small innocent confidence in the request.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お爺ちゃんも、楽しみにしてるって。",
+      "en": "Grandpa's looking forward to it too.",
+      "style": "Warm, reassuring close. Soft smile in the voice. Slow, gentle pace. Subtle warmth that says *everyone is happy about this*.",
+      "mood": "warm_reassuring"
+    }
+  ]
+}

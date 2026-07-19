@@ -1,0 +1,86 @@
+{
+  "id": "conv_07986",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 埋まっ/労組/貸出/定休/代え/所存/営ん/取調べ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "埋まっ",
+    "労組",
+    "貸出",
+    "定休",
+    "代え",
+    "所存",
+    "営ん",
+    "取調べ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社の倉庫、在庫で埋まってしまったぞ",
+      "en": "Our warehouse has gotten completely packed with inventory.",
+      "style": "Clipped, direct opening. Factual tone with a note of frustration underneath. Short phrasing. No apology in the delivery — this is a problem that needs stating and fixing.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労組と協議を進めております",
+      "en": "Yes. We're working through discussions with the union right now.",
+      "style": "Measured, professional. Even pace. Slight deference to the hierarchy but not submissive — this is an update on work in progress. Calm assurance that the process is moving.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員食堂の貸出ロッカーを整えろ",
+      "en": "Sort out the employee locker system in the cafeteria.",
+      "style": "Sharp instruction, no excess words. Direct eye contact level. The tone of someone who expects competence and doesn't need to raise his voice to get it.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。来週水曜は定休にいたします",
+      "en": "Yes. We're closing it next Wednesday as scheduled.",
+      "style": "Brisk acknowledgment. Already thinking two steps ahead. Professional courtesy in the tone — he's confirming that he's understood the directive and the action is already planned.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業者を代えての対応を検討しろ",
+      "en": "Consider changing vendors to address this properly.",
+      "style": "Steady instruction with an undertone of expectation. Not a suggestion. The slight pause before 'address' carries weight — this matters. Clear final consonants on the instruction.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、当社、品質向上にお応えする所存です",
+      "en": "Yes. Our company is committed to meeting your expectations on quality improvement.",
+      "style": "Formal assurance delivered with quiet conviction. Slightly longer phrasing to show respect and seriousness. The words land carefully — this is not rote but genuine commitment spoken aloud to the boss.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "長年、この事業を営んできた誇りを忘れるな",
+      "en": "Don't lose sight of the pride we've built running this business for all these years.",
+      "style": "Firm but not harsh. The opening hits with weight — 'don't lose sight' is an appeal beneath the directive. Slight slowdown on 'all these years' — this carries history. Final phrase lands with quiet emphasis.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内取調べを実施しております",
+      "en": "Yes. We're conducting an internal investigation right now.",
+      "style": "Quiet closure. Slight fatigue underneath the professionalism — this is a serious step, not routine. Measured pace. The final word trails slightly, as if to say 'and we're taking it seriously.'",
+      "mood": "grave"
+    }
+  ]
+}

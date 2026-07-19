@@ -1,0 +1,72 @@
+{
+  "id": "conv_04303",
+  "context": "A boss reads grim headlines with his deputy",
+  "purpose": "Teach: 控訴/死刑/大蔵省/認可/勧告/侵略/貧困/殺さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "控訴",
+    "死刑",
+    "大蔵省",
+    "認可",
+    "勧告",
+    "侵略",
+    "貧困",
+    "殺さ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、見たか。例の事件、控訴審でも死刑判決が維持されたそうだ。",
+      "en": "Did you see this morning's paper? In that case, the death sentence was upheld on appeal too.",
+      "style": "Heavy, grave tone with slow deliberate pacing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、読みました。被告側はもう控訴を断念するかもしれませんね。",
+      "en": "Yes, I read it. The defense may give up on further appeals now.",
+      "style": "Subdued and respectful, matching the boss's somber mood"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それからこっちだ。旧大蔵省時代の許認可制度を巡る不正が、また蒸し返されている。",
+      "en": "And look at this one. Misconduct over the old Finance Ministry licensing system is being dragged up again.",
+      "style": "Irritated sigh, paper-rustling frustration audible throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "またですか。行政勧告だけで終わるとは思えませんよ。",
+      "en": "Again? I doubt this will end with just an administrative warning.",
+      "style": "Skeptical, quiet disbelief with a tired edge"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外面もひどいぞ。隣国の侵略行為が続いて、市民が無差別に殺されているらしい。",
+      "en": "The international page is awful too. The neighboring country's aggression continues, and civilians are reportedly being killed indiscriminately.",
+      "style": "Lowered voice, deeply troubled and weary tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ひどい話です。国内でも子どもの貧困がさらに広がっているという記事を見ました。",
+      "en": "Terrible. Domestically too, I saw an article saying child poverty is spreading even further.",
+      "style": "Solemn, almost whispered out of quiet frustration"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まったく、朝から気が滅入る話ばかりだな。コーヒーでも淹れてくれ。",
+      "en": "Honestly, nothing but depressing news first thing in the morning. Pour me a coffee, would you.",
+      "style": "Resigned exhale, gruff but softening toward the end"
+    }
+  ]
+}

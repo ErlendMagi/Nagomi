@@ -1,0 +1,86 @@
+{
+  "id": "conv_08721",
+  "context": "Mom and son chat",
+  "purpose": "Teach: コイツ/フラフラ/おととい/がまん/ちょこちょこ/まちまち/何時も/物凄く",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "コイツ",
+    "フラフラ",
+    "おととい",
+    "がまん",
+    "ちょこちょこ",
+    "まちまち",
+    "何時も",
+    "物凄く"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_438 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「コイツが俺の自慢の息子だ」って仰ってたわよ",
+      "en": "Your dad told me you're his greatest pride, Sho.",
+      "style": "Warm, matter-of-fact delivery. Gaze soft but not searching. Passing on a compliment the way a mother does—without ceremony, like it's simply true. Slight pause before speaking, choosing words carefully.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、運動会の後、フラフラだったよ",
+      "en": "Mom, I was so tired after the sports day.",
+      "style": "Small, quiet admission. Not complaining—observing about himself. Slightly uncertain, like he's checking if it was normal. Brief, genuine.",
+      "mood": "tired_honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、おとといお祖父ちゃんがお見えになったのよ",
+      "en": "Sho, your grandfather came to visit the day before yesterday.",
+      "style": "Conversational mention, not demanding attention. The tone of someone sharing a detail she thinks he'd want to know. Gentle pace, no weight to it.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、おやつをがまんしてからご飯食べるね",
+      "en": "Mom, I'm going to skip my snack and eat dinner instead.",
+      "style": "Soft resolve in the voice. He's thought about this and made a decision. Not seeking praise—just telling her. The simplicity of a child being considerate without fanfare.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんはちょこちょこ仕事の電話を取ってらっしゃるわ",
+      "en": "Sho, your dad's been taking work calls all day.",
+      "style": "Light observation, almost musing. Not explaining or excusing—just noticing aloud. The tone of someone used to this rhythm. Understated, not bitter.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達のお弁当の中身がまちまちで面白いよ",
+      "en": "Mom, all my friends have different things in their lunchboxes—it's so interesting.",
+      "style": "Brightening slightly. His curiosity landing on something small and real. Genuine delight in noticing differences. Conversational, eager to share the discovery.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは何時もお仕事が忙しいのよね",
+      "en": "Sho, your dad's always busy with work, you know.",
+      "style": "Quiet acknowledgment of the way things are. No frustration in the surface—just the patient recognition of a pattern. Slightly resigned but not sad. She's said this before.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんに会えて物凄く嬉しかったよ",
+      "en": "Mom, I was so happy to see Grandfather.",
+      "style": "Open warmth breaking through. Genuine, unguarded joy. The words come easier here. Slight brightness in the voice, lingering on the happiness like he wants to hold it.",
+      "mood": "joyful"
+    }
+  ]
+}

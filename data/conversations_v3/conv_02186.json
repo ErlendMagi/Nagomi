@@ -1,0 +1,79 @@
+{
+  "id": "conv_02186",
+  "context": "Sho-young plays soccer with friends; tells Ren about defeats.",
+  "purpose": "Child sharing simple sport disappointment.",
+  "ambient": "park_evening_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "負け",
+    "応援",
+    "勝負",
+    "熱心",
+    "帽子",
+    "草",
+    "集める",
+    "飛ぶ"
+  ],
+  "cast": [
+    "sho_child",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_110)",
+    "generated_at": "2026-05-27T17:15:10.052Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "蓮にいちゃん、今日、負けた。",
+      "en": "Ren… I lost today.",
+      "style": "Quiet, downturned opening. The sadness of a child who tried hard. Soft, almost whispered. Seeking reassurance but not asking for it.",
+      "mood": "disappointed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勝負、悔しいね。",
+      "en": "That match must've been frustrating.",
+      "style": "Gentle, unhurried response. Lean in slightly. Acknowledge the feeling without rushing past it. Warm, steady presence—the reliable older brother.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "熱心にやったのに!",
+      "en": "But I was trying so hard!",
+      "style": "Small spike of frustration on the opening. The bewilderment of effort not paying off. Hurt underneath, not quite anger. Voice cracks slightly with disappointment.",
+      "mood": "hurt_frustrated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "草の上、皆と頑張ったんでしょ?",
+      "en": "You and everyone out there gave it everything, though, right?",
+      "style": "Warm, grounding redirection. Not dismissing the loss—reframing it. Steady, encouraging tone. Light emphasis on 「みんな」to remind him he wasn't alone.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "帽子、飛んじゃった、走るとき。",
+      "en": "My hat flew off when I was running.",
+      "style": "Shift to quieter wonder—a small memory surfacing. Slight awe in the voice, momentary distraction from the loss. Soft, almost dreamy quality to the trailing thought.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "応援、皆で集めたら、強いはず。",
+      "en": "If everyone cheers for you next time, that strength will show.",
+      "style": "Gentle certainty. Not a promise, but a quiet truth. Lean back slightly—giving him space. Warm, tender inflection. The kind of thing an older brother says when he means it.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、次は、勝ちたい!",
+      "en": "Yeah… next time, I'm going to win!",
+      "style": "Small breath of determination on the opening. Soft but resolute. Voice lifts slightly—hope restoring itself. The quiet conviction of a child who's been reminded he's not alone.",
+      "mood": "hopeful_determined"
+    }
+  ]
+}

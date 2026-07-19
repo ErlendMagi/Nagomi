@@ -1,0 +1,78 @@
+{
+  "id": "conv_04186",
+  "context": "A boss briefs his deputy on a new strategic plan",
+  "purpose": "Teach: 出現/就任/公社/策定/施工/従事/文部/室内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出現",
+    "就任",
+    "公社",
+    "策定",
+    "施工",
+    "従事",
+    "文部",
+    "室内"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来月、私が新事業部長に就任することになった。",
+      "en": "Next month, I'll be taking the position of new business division head.",
+      "style": "Authoritative, measured tone with formal executive announcement gravitas"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おめでとうございます。打ち合わせは何時から始めますか。",
+      "en": "Congratulations. What time shall we start the meeting?",
+      "style": "Respectful subordinate tone, slightly stiff but warm congratulatory delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "十時からだ。会議室内で行う。今回の戦略策定は急務だ。",
+      "en": "From ten. We'll hold it inside the conference room. This strategy formulation is urgent.",
+      "style": "Crisp briefing cadence, businesslike with emphasis on strategic vision"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。住宅公社の案件も、まだ我々が担当している段階ですよね。",
+      "en": "I see. We're still in charge of the housing corporation project too, right?",
+      "style": "Thoughtful confirming tone, deputy carefully tracking multiple initiatives"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだ。施工業者との交渉も並行して進めてくれ。文部科学省への報告書類も用意しろ。",
+      "en": "Correct. Proceed with negotiations with the construction contractor in parallel. Also prepare the report documents for the Ministry of Education.",
+      "style": "Decisive directive, short clipped sentences typical of senior leadership"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。インフラ整備事業に従事している部署とも連携いたします。",
+      "en": "Understood. I'll also coordinate with the department engaged in the infrastructure development work.",
+      "style": "Earnest deputy voice, methodical in coordinating across teams"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "最近、競合他社が次々と出現しているからな。スピードが勝負だ。",
+      "en": "Lately competing firms keep appearing one after another. Speed is what matters.",
+      "style": "Sober market-aware tone, conveying competitive pressure with weight"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。明日の朝までに、骨子案をまとめて持参いたします。",
+      "en": "Understood. I'll bring you a drafted outline by tomorrow morning.",
+      "style": "Firm committed close, deputy accepting deadline with professional resolve"
+    }
+  ]
+}

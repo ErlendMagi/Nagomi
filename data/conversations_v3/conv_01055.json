@@ -1,0 +1,62 @@
+{
+  "id": "conv_01055",
+  "context": "Yumiko takes Hina for a routine doctor visit.",
+  "purpose": "mother-child hospital exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "病院",
+    "一緒",
+    "優しい",
+    "頑張る",
+    "健康"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、病院、一緒に、行こう。",
+      "en": "Hina-chan, let's go to the hospital together, okay?",
+      "style": "Warm, steady opening. Soft vocal weight on 'together'—a quiet promise. Practical kindness, no fuss. The tone of a mother who's made this decision and will carry it calmly so her daughter can too.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ちょっと、ドキドキ、する。",
+      "en": "I'm a little nervous.",
+      "style": "Small voice with genuine courage underneath. Quick, honest admission—no hiding. A slight quaver on 'nervous' that steadies as she speaks, like she's gathering herself even as she confesses.",
+      "mood": "nervous_brave"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、優しい、心配ない。",
+      "en": "The doctor is kind. There's nothing to worry about.",
+      "style": "Even, clear, maternal. Light certainty in the voice—not dismissing her fear but gently anchoring her. Like she's speaking from her own calm certainty, letting Hina borrow it.",
+      "mood": "composed_reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、頑張る。",
+      "en": "Okay. I'll do my best.",
+      "style": "Quiet determination breaking through. A small breath before she commits—she's heard her mother and is choosing to be brave. Earnest without being performative. The voice of a child making a decision.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "健康、大切、ね。",
+      "en": "Health is precious, sweetheart.",
+      "style": "Gentle landing. A soft, almost reflective tone—like she's reminding herself as much as Hina. Quiet wisdom delivered without weight. A hand on her shoulder in the voice.",
+      "mood": "tender_thoughtful"
+    }
+  ]
+}

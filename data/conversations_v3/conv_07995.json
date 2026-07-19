@@ -1,0 +1,86 @@
+{
+  "id": "conv_07995",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 覆い/明かさ/少数/気がつい/人民/調和/振れ/成人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "覆い",
+    "明かさ",
+    "少数",
+    "気がつい",
+    "人民",
+    "調和",
+    "振れ",
+    "成人"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社内の問題を覆い隠すな",
+      "en": "Don't hide the problems within the company.",
+      "style": "Sharp, direct command. Measured pace. Slight weight on the verb—this is non-negotiable. No softening. The voice of someone accustomed to being listened to.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、株主に進捗を明かさないわけにいきません",
+      "en": "Yes. We have to disclose our progress to the shareholders.",
+      "style": "Respectful acknowledgment, not deferential. Steady, clear delivery. Professional certainty—he's thought this through. Slight emphasis on \"have to\" to show he understands the necessity.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、少数株主の声も聴け",
+      "en": "Listen to the minority shareholders too.",
+      "style": "Measured instruction. Not harsh, but firm. The voice of someone who expects understanding without repeating. Even pacing. Pause before the instruction settles.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。気がついた改善点、社内、共有しております",
+      "en": "Yes. We're already sharing the improvements we've identified internally.",
+      "style": "Assured, measured response. Shows readiness and competence without overstatement. Even tone. Slight lift on \"already\"—a quiet confirmation that he's on top of this.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人民の信頼を得る経営しろ",
+      "en": "Run this company so that people trust us.",
+      "style": "Quiet intensity. Not raised volume—increased weight on each word. \"Trust\" gets the gravity of the directive. Unhurried, like someone speaking from principle rather than urgency.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業績と社員満足の調和を目指しております",
+      "en": "Yes. We're working toward a balance between performance and employee satisfaction.",
+      "style": "Committed, professional affirmation. Steady delivery. Shows he's aligned with the principle. No defensiveness—just clear evidence of the goal being pursued. Warm professionalism underneath the formality.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "株価の振れに惑わされるな",
+      "en": "Don't let stock price fluctuations throw you off course.",
+      "style": "Steady, nearly conversational wisdom. Not barking—more like advice from experience. Slight pause before the directive sinks in. The tone of someone who's seen markets move and learned not to chase them.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。成人向け新製品を展開いたします",
+      "en": "Yes. We'll roll out the new product line aimed at adults.",
+      "style": "Firm conclusion. Decisive delivery—this is the action item. Controlled confidence. Slight emphasis on \"will\"—commitment, not prediction. Lands with finality.",
+      "mood": "resolute"
+    }
+  ]
+}

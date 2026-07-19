@@ -1,0 +1,120 @@
+{
+  "id": "conv_00067",
+  "context": "9pm. Hiroshi (the boss) has called Kenji back to the office. A client crisis has hit and someone is going to have to fix it overnight.",
+  "purpose": "workplace urgency — boss asking subordinate to take a hit, calmly",
+  "ambient": "quiet_office",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "明日",
+    "大変",
+    "大丈夫",
+    "一緒",
+    "仕事"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤くん、夜遅くにすまない。",
+      "en": "Sato-kun — sorry to call you back so late.",
+      "style": "Composed but warmer than his daytime voice. Real apology underneath.",
+      "mood": "composed_apologetic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、大丈夫です。何ですか？",
+      "en": "No — it's fine. What is it?",
+      "style": "Bag still on shoulder. Voice neutral, professional.",
+      "mood": "professional_neutral"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "クライアントの件。明日朝までに、修正が必要だ。",
+      "en": "The client matter. Needs fixing by tomorrow morning.",
+      "style": "Plain, no extra weight. The information first.",
+      "mood": "plain_info"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…どのくらいの修正ですか？",
+      "en": "…How big a fix?",
+      "style": "Sits down in the voice. Calculating.",
+      "mood": "calculating"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "正直、大きい。本当に申し訳ない。",
+      "en": "Honestly — big. I'm truly sorry.",
+      "style": "The 「本当に」 rare from this man. Sincere.",
+      "mood": "rare_sincere"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかりました。私、やります。",
+      "en": "Understood. I'll do it.",
+      "style": "Quiet professional commitment. No theatre — as the scene allows it.",
+      "mood": "commitment"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒にやる。私も残る。",
+      "en": "Together. I'm staying too.",
+      "style": "A small statement that changes the conversation entirely.",
+      "mood": "changing_things"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…部長も？本当にいいんですか。",
+      "en": "…You too, sir? Really, is that alright?",
+      "style": "Genuinely surprised. The first real human note from him in the scene.",
+      "mood": "genuinely_surprised"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "私が頼んだ仕事だ。当然だろう。",
+      "en": "It's work I asked of you. Of course.",
+      "style": "Plain, firm. Self-evident logic, by his code.",
+      "mood": "firm_code"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。…正直、助かります。",
+      "en": "Thank you. …Honestly — that helps.",
+      "style": "A small unguarded line. Bag finally set down in the voice.",
+      "mood": "small_unguarded"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "コーヒー淹れた。…時間、節約しよう。",
+      "en": "I've made coffee. …Let's save time.",
+      "style": "A small practical kindness covering a larger one.",
+      "mood": "practical_cover"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。…大変ですけど、なんとかなる。",
+      "en": "Yes. …It's a lot, but we'll manage.",
+      "style": "Rolling sleeves up in the voice. Quietly determined.",
+      "mood": "rolling_up"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるさ。明日の朝、笑える。",
+      "en": "We will. We'll be laughing tomorrow morning.",
+      "style": "A small uncharacteristic promise. Voice slightly warmer.",
+      "mood": "uncharacteristic_warm"
+    }
+  ]
+}

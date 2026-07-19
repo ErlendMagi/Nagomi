@@ -1,0 +1,72 @@
+{
+  "id": "conv_05523",
+  "context": "A mom calms her young son before a school event",
+  "purpose": "Teach: 無意味/驚異/絶妙/暗黙/たまり/お祈り/お天気/引け",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "無意味",
+    "驚異",
+    "絶妙",
+    "暗黙",
+    "たまり",
+    "お祈り",
+    "お天気",
+    "引け"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、明日のお天気、心配だよ。",
+      "en": "Mom, I'm worried about the weather tomorrow.",
+      "style": "Quiet, restless energy. Words tumble slightly — the worry is active in his body. Small voice, like he's testing whether it's okay to say it out loud.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "予報は絶妙な晴れ間って言ってたから大丈夫よ。",
+      "en": "The forecast says there'll be clear skies tomorrow, so you'll be fine.",
+      "style": "Steady, practical reassurance. Not dismissive of his worry — acknowledging it while offering solid ground. A mother's calm that comes from having thought about it already.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "発表で頭真っ白になるの、心配がたまり続けて、無意味な不安かな…。",
+      "en": "But what if I go blank during my presentation? I keep worrying about it, and I don't know if that worry even makes sense…",
+      "style": "Soft, searching. He's thinking out loud, almost to himself. Hesitant phrasing — he's testing whether his fear is real or invented. A small boy trying to be reasonable about his own fear.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "暗黙の不安は、お母さんがお祈りしてあげるから。",
+      "en": "All those quiet worries you can't quite name — I'll carry those for you.",
+      "style": "Tender and certain. Spoken like a promise. No performance, no lightness — just a mother saying something true. Her voice settles into the space his worry occupied.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "失敗で気が引けても、笑顔で済ませばいい?",
+      "en": "So if I mess up and feel embarrassed, I should just smile anyway?",
+      "style": "Genuine question, not rhetorical. He's checking if what she said actually works — if it's a real solution. Small, hopeful lift at the end.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。驚異の精神力で、笑顔キープ!",
+      "en": "Yes — with that brave heart of yours, keep smiling.",
+      "style": "Bright and decisive, but grounded. Not overly cheerful — confident in him. A closing that feels earned, like she's seen him do hard things before and knows he can do this too.",
+      "mood": "encouraging"
+    }
+  ]
+}

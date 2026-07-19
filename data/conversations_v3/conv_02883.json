@@ -1,0 +1,75 @@
+{
+  "id": "conv_02883",
+  "context": "Yumiko and Sho do morning chores.",
+  "purpose": "Casual home register; vocabulary (ゴミ/袋/育児/体重/階段) in natural home.",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ゴミ",
+    "袋",
+    "育児",
+    "体重",
+    "階段"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_145)",
+    "generated_at": "2026-05-29T14:44:00.389Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "正坊、ゴミを袋にまとめてくれる?",
+      "en": "Sho, can you gather the trash in the bag?",
+      "style": "gentle mother voice, soft warm caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん!この袋、いっぱいだね。",
+      "en": "Yeah! This bag is full.",
+      "style": "cheerful small child voice, bright warm bouncing delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "階段の下まで、運んでくれる?",
+      "en": "Can you carry it to the bottom of the stairs?",
+      "style": "gentle mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "重いけど、できるよ!",
+      "en": "It's heavy, but I can do it!",
+      "style": "determined small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。体重、増えてきたね。",
+      "en": "Thanks. You're gaining weight, huh.",
+      "style": "warm mother voice, soft warm affectionate delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "大きくなった証拠だよ!",
+      "en": "It's proof I've grown!",
+      "style": "proud small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "育児って、毎日が運動みたいね。",
+      "en": "Childcare is like exercise every day.",
+      "style": "gentle mother voice, soft warm amused delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "階段、駆け上がって戻るね!",
+      "en": "I'll race up the stairs and back!",
+      "style": "energetic small child voice, bright warm cheerful closing delivery throughout"
+    }
+  ]
+}

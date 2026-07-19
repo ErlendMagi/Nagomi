@@ -1,0 +1,72 @@
+{
+  "id": "conv_05654",
+  "context": "A doctor explains pediatric care to a teen visitor",
+  "purpose": "Teach: 犯行/孤立/敗北/臓器/発症/投与/危惧/及ぼし",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "犯行",
+    "孤立",
+    "敗北",
+    "臓器",
+    "発症",
+    "投与",
+    "危惧",
+    "及ぼし"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、感染症の発症前に予防接種、これが基本だ。",
+      "en": "Sakura, vaccination before infection develops—that's the foundation. Prevention, not treatment.",
+      "style": "Clear, measured opener. Gentle firmness. Eye-level, not lecturing. Pauses slightly before 'that's the foundation' to let it land. Shoulders steady.",
+      "mood": "steady_instructive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "投与する量、子供で違うんですか?",
+      "en": "Does the dosage change depending on the child's age?",
+      "style": "Leans in slightly with genuine curiosity. Soft, thoughtful—not performing. A real question, not a test. Slight lift at the end, waiting to understand.",
+      "mood": "curious_attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。臓器の発達も考慮します。誤投与は、命に影響を及ぼし得る。",
+      "en": "It does. We account for how developed their organs are. An error in dosing can have life-or-death consequences.",
+      "style": "Steady, unhurried. Delivers the serious part without drama. Weight on 'life-or-death'—not dwelling, just naming it clearly. A doctor speaking as someone who knows the stakes.",
+      "mood": "grave_honest"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "医療の敗北を避けるため、現場は緊張感ありますね。",
+      "en": "So everyone in the room carries that weight—trying not to make a mistake that matters that much.",
+      "style": "Thoughtful, almost to herself at first, then meeting the doctor's eyes. Recognizing something serious without flinching. Pace measured. No performative gravity.",
+      "mood": "sobered_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "親が孤立しないよう、家族支援も含めます。",
+      "en": "And we make sure families aren't left alone in it. Support them through the whole process, not just the medical part.",
+      "style": "Warm shift now. Still measured, but gentler. Looking directly at Sakura. A reminder that medicine is also about people carrying fear. Clear breath before 'support them'.",
+      "mood": "compassionate_grounded"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "犯行ではなく事故も、危惧する観点なんですね。",
+      "en": "So you're watching for accidents and preventing harm in all its forms—not just what someone meant to do.",
+      "style": "Soft realization dawning. Respectful. Not rushing. Holding the fullness of what she's just understood. Slight nod in her voice at the end—understanding arriving.",
+      "mood": "reverent_clear"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08914",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 兵役/根絶/敵意/施政/余命/群集/沈下/借款",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "兵役",
+    "根絶",
+    "敵意",
+    "施政",
+    "余命",
+    "群集",
+    "沈下",
+    "借款"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_447 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、兵役経験者の戦後ストレスを医療チームで担当します",
+      "en": "Ren, we're handling postwar stress from military service veterans as a medical team.",
+      "style": "Clear, professional opening. Steady eye contact. Matter-of-fact tone without coldness. The slight pause before the main clause shows this is important information being carefully delivered.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、感染症の根絶を医療チームで目指します",
+      "en": "Yes, our medical team is working toward eradication of infectious disease.",
+      "style": "Affirming nod in the voice. Measured pace. Warm but not effusive. The kind of calm that comes from genuine commitment rather than performance.",
+      "mood": "steady_determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療従事者への敵意を防ぐ取り組みを、貴院、なさってますね、先生",
+      "en": "I've noticed your hospital takes real care to prevent hostility toward medical staff, Doctor.",
+      "style": "Genuine curiosity, not flattery. Slight hesitation — Ren checking his own phrasing. Respectful but not deferential. Seeking confirmation more than asking permission.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、国の施政に基づいた医療制度を医療チームで運用します",
+      "en": "Yes, we implement our national health policy framework through coordinated team care.",
+      "style": "Steady continuance. Professional register maintained. A touch of quiet pride on 'implement.' Not rushed — each phrase lands with intentional weight.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "余命告知のあり方を、貴院、慎重に検討されてますね、先生",
+      "en": "It seems your hospital gives careful thought to how end-of-life information is shared, Doctor.",
+      "style": "Gentle observation, not interrogation. Ren's voice carries respect and genuine interest. Slight vulnerable quality — he's asking something that matters to him without quite saying why.",
+      "mood": "reflective_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、群集事故時の救命を医療チームで訓練しております",
+      "en": "Yes, we conduct regular training for mass casualty rescue scenarios as a team.",
+      "style": "Measured, factual. Solid conviction on 'training.' No defensiveness — just stating what is. The tone of someone who takes preparedness seriously.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地盤沈下した病院の改築を、貴院、なさったんですね、先生",
+      "en": "So your hospital rebuilt after the structural subsidence, didn't it, Doctor.",
+      "style": "Observational, almost wondering. Ren's voice carries admiration for the scale of undertaking. Soft, reflective — asking about something substantial and human-scaled.",
+      "mood": "impressed_reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、海外借款で導入した医療機器を医療チームで活用します",
+      "en": "Yes, we make full use of the medical equipment we brought in through overseas development loans.",
+      "style": "Composed and direct. Matter-of-fact tone without apology. The clinical warmth of someone explaining institutional choices. Slight finality at the close — the closing thought of a conversation.",
+      "mood": "matter_of_fact"
+    }
+  ]
+}

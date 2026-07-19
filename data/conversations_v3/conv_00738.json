@@ -1,0 +1,62 @@
+{
+  "id": "conv_00738",
+  "context": "Yumiko teaches Hina a simple song on the piano.",
+  "purpose": "mother-child piano lesson",
+  "ambient": "living_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "音楽",
+    "ピアノ",
+    "一緒",
+    "楽しい",
+    "好き"
+  ],
+  "cast": [
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、ピアノ、一緒に、弾こうね。",
+      "en": "Hina-chan, shall we play piano together?",
+      "style": "Warm, unhurried invitation. Soft opening on the name. Gentle settling into the request—no rush, just inclusion. The voice carries practiced patience: a mother who has learned how to make space.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ひな、ピアノ、大好き。",
+      "en": "Yes! Hina loves piano!",
+      "style": "Bright, immediate enthusiasm. Light, unforced energy. The declaration comes freely—no performance, just genuine joy bubbling up. Voice lifts naturally on the second part.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "この音楽、ゆっくり、覚えようね。",
+      "en": "Let's learn this piece slowly together, okay?",
+      "style": "Patient, deliberate pace. Gentle emphasis on 'slowly'—not hurrying Hina forward. The voice settles, creating a contained space. Calm guidance without weight.",
+      "mood": "patient_warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい。お母さんと、一緒、好き。",
+      "en": "It's fun. I like being with you, Mom.",
+      "style": "Soft, genuine declaration. Voice slightly smaller but certain. Tender without hesitation—the child speaking what she feels. Slight warmth blooming on the last word.",
+      "mood": "tender_affectionate"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さんも、好きよ、ひなちゃん。",
+      "en": "I like it too, Hina-chan. So much.",
+      "style": "Quiet, genuine return. Voice deepens slightly on the closure. Exhale of contentment underlying the words. The affection is settled, not performed—she's said this and means it.",
+      "mood": "tender_content"
+    }
+  ]
+}

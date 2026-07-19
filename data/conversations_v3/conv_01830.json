@@ -1,0 +1,61 @@
+{
+  "id": "conv_01830",
+  "context": "Hiroshi-elder shares an old book he treasured with Sakura.",
+  "purpose": "Elder passing meaningful literary object to writer.",
+  "ambient": "tatami_quiet_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "古典",
+    "読む",
+    "大切"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_092)",
+    "generated_at": "2026-05-27T08:08:08.314Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "この本、お前に、渡したい。",
+      "en": "This book — I want to give it to you.",
+      "style": "Slow, measured cadence. Warm and deliberate, the weight of intention behind each phrase. Opens gently, lingers on the offering like he's passing something irreplaceable.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、本当に?",
+      "en": "Thank you — truly?",
+      "style": "Quiet wonder. Breath catches slightly on the question mark — surprise mixed with gratitude, like she's checking if this is real. Soft and full of awe.",
+      "mood": "touched_grateful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "古典や、深い味あるで。",
+      "en": "It's a classic, with deep flavor and meaning.",
+      "style": "Unhurried, almost conversational but weighted. Warm approval in the voice. Slight Kansai lilt on the final phrase. Speaking from long knowing.",
+      "mood": "fond"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "読ませていただきます、丁寧に。",
+      "en": "I'll read it carefully, with proper respect.",
+      "style": "Formal but genuine, not stiff — the respect comes from her, not the language. Slow, reverent attention. Each word placed with care.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "心に、響くで、必ず。",
+      "en": "It will touch your heart, I'm certain of it.",
+      "style": "Quiet conviction. Speaks like a promise he's made before and kept. Gentle but not wavering. Trails softly, with certainty, not doubt.",
+      "mood": "warm_assured"
+    }
+  ]
+}

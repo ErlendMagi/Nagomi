@@ -1,0 +1,78 @@
+{
+  "id": "conv_03871",
+  "context": "Boss announces an expansion plan at an all-hands meeting",
+  "purpose": "Teach: 集会/拡張/名称/同盟/関与/提携/損失/連中",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "集会",
+    "拡張",
+    "名称",
+    "同盟",
+    "関与",
+    "提携",
+    "損失",
+    "連中"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_195 workflow wmuzq4abe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本日の集会を始める。重要な発表があるので、最後までしっかり聞いてくれ。",
+      "en": "Let's begin today's assembly. I have an important announcement, so listen carefully until the end.",
+      "style": "Formal authoritative opening, measured pace, projects executive gravitas to the room."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "部長、わざわざ全員集めるなんて、ただの定例会議じゃないってことですよね。",
+      "en": "Boss, gathering everyone like this means it's not just a regular meeting, right?",
+      "style": "Slightly nervous office worker tone, polite but probing, hints at curiosity."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ。来期から海外事業の拡張を進める。新部署の正式な名称も既に決まっている。",
+      "en": "Yes. From next term we'll expand the overseas business. The new department's official name is already decided.",
+      "style": "Confident declarative delivery, businesslike, conveys finality and prior planning."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっ、そんな大きな話、いつの間に……どこかと提携でもされるんですか?",
+      "en": "What? Such a major matter, when did this happen... Are we partnering up with someone?",
+      "style": "Surprised, voice rising, polite keigo masking genuine shock."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "シンガポールの大手と業務提携を結ぶ。さらにアジア企業数社との同盟も視野に入れている。",
+      "en": "We're forming a business alliance with a major Singaporean firm. We're also eyeing alliances with several Asian companies.",
+      "style": "Strategic, deliberate, lays out vision with calm certainty and weight."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現場の連中にも、どこまで関与させる予定でしょうか。説明が必要かと思います。",
+      "en": "How deeply will you involve the people on the ground? I think they'll need an explanation.",
+      "style": "Diplomatic mid-level pushback, advocating for staff, respectful but firm."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "もちろん全員に関与してもらう。ただし初期投資が大きい分、短期の損失は避けられない。",
+      "en": "Of course everyone will be involved. However, given the large initial investment, short-term losses are unavoidable.",
+      "style": "Honest realism, leadership tone acknowledging risk while staying committed."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解しました。損失の覚悟がある上での決断なら、私たちもついていきます。",
+      "en": "Understood. If it's a decision made with the losses in mind, we'll follow you.",
+      "style": "Resolved, loyal subordinate voice, commitment expressed clearly and respectfully."
+    }
+  ]
+}

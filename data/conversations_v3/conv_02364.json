@@ -1,0 +1,70 @@
+{
+  "id": "conv_02364",
+  "context": "Hiroshi-boss runs a small company meeting; Yuki presents a decision.",
+  "purpose": "Business meeting register, professional vocabulary naturally.",
+  "ambient": "office_meeting_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "決定",
+    "目的",
+    "代表",
+    "使用",
+    "について",
+    "検討"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_119)",
+    "generated_at": "2026-05-29T12:23:43.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日の会議の目的、確認しましょう。",
+      "en": "Let's confirm the purpose of today's meeting.",
+      "style": "measured boss voice, soft warm professional delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新しいシステムの使用について、ご報告します。",
+      "en": "I'll report on the use of the new system.",
+      "style": "composed office woman voice, soft warm professional delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "導入は、もう決定しましたか?",
+      "en": "Has its adoption been decided?",
+      "style": "professional boss voice, soft warm engaged delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえ、まだ検討の段階です。",
+      "en": "No — it's still under consideration.",
+      "style": "gentle office woman voice, soft warm clear delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会社の代表として、慎重に決めたい。",
+      "en": "As the company's representative, I want to decide carefully.",
+      "style": "warm boss voice, soft warm thoughtful delivery carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "資料、ご確認いただけますか?",
+      "en": "Could you review the materials?",
+      "style": "soft office woman voice, warm professional delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ええ。皆で、ようく考えましょう。",
+      "en": "Yes. Let's all think it through carefully.",
+      "style": "warm boss voice, soft warm collaborative delivery carefully"
+    }
+  ]
+}

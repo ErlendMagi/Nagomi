@@ -1,0 +1,78 @@
+{
+  "id": "conv_04256",
+  "context": "A uni reporter interviews a rural farmer about climate and crops",
+  "purpose": "Teach: 温暖/少子化/農地/国産/繊維/途上/にわたる/付加",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "温暖",
+    "少子化",
+    "農地",
+    "国産",
+    "繊維",
+    "途上",
+    "にわたる",
+    "付加"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "こんにちは、大学新聞の取材で来ました。最近の温暖化、農業にどう影響していますか？",
+      "en": "Hello, I'm here from the university paper. How is recent global warming affecting your farming?",
+      "style": "Polite young reporter, slightly nervous opening question"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "そりゃもう大変だよ。夏は暑すぎて、長年にわたる経験もあんまり通用せんようになった。",
+      "en": "Oh, it's really tough. Summers are too hot, and even decades of experience hardly apply anymore.",
+      "style": "Weathered rural farmer, plainspoken with countryside warmth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。少子化で若い担い手も減っていると聞きますが、こちらの農地はどうですか？",
+      "en": "I see. I hear the declining birthrate is shrinking the next generation of farmers. How about the fields here?",
+      "style": "Curious student journalist, follow-up question with concern"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うちの周りの農地も、半分くらいは耕す人がいなくて荒れとるよ。",
+      "en": "About half the farmland around here has gone to ruin because no one's left to till it.",
+      "style": "Resigned older farmer, blunt observation with sadness"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国産の野菜を守るには、何が必要だと思いますか？",
+      "en": "What do you think is needed to protect domestically-grown vegetables?",
+      "style": "Earnest student reporter seeking the farmer's honest perspective"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "まあ、付加価値をつけることだな。ただの野菜じゃなくて、ブランド化せんと生き残れん。",
+      "en": "Well, adding value, I'd say. Just plain vegetables won't survive — you've got to brand them.",
+      "style": "Pragmatic older farmer sharing his hard-won wisdom"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "繊維作物、たとえば綿や麻なんかも作っているんですか？",
+      "en": "Do you also grow fiber crops, like cotton or hemp?",
+      "style": "Inquisitive reporter exploring unexpected angle, distinct timbre that anchors the scene"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "昔はやっとったが、今は途上国から安く入ってくるからな。勝負にならん。",
+      "en": "We used to, but cheap stuff comes in from developing countries now. We can't compete.",
+      "style": "Nostalgic farmer explaining market realities with shrug"
+    }
+  ]
+}

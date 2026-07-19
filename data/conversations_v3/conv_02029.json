@@ -1,0 +1,79 @@
+{
+  "id": "conv_02029",
+  "context": "Saito explains a complex case to Ren using formal medical language.",
+  "purpose": "Doctor in teaching mode with technical vocab.",
+  "ambient": "clinic_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "医療",
+    "治療",
+    "症状",
+    "事実",
+    "根拠",
+    "判断",
+    "確認",
+    "報告"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_102)",
+    "generated_at": "2026-05-27T12:52:20.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療判断、根拠が必要です。",
+      "en": "Medical judgment requires a foundation of evidence.",
+      "style": "Steady, level tone. Clear enunciation without rushing. The quiet authority of someone who has explained this many times. Slightly distant, but not unkind.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状から、事実をどう集めますか?",
+      "en": "How do we gather facts from the symptoms themselves?",
+      "style": "Genuinely curious, leaning forward slightly. Soft voice—not hesitant, but careful not to interrupt. A question that comes from listening closely to what she just said.",
+      "mood": "attentive_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "確認、複数の検査を経て。",
+      "en": "Through confirmation across multiple tests.",
+      "style": "Matter-of-fact but warm. Not lecturing—explaining something she believes matters. Slight emphasis on 'multiple,' like she's been careful about this many times before.",
+      "mood": "measured_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療、いつ始めるんですか?",
+      "en": "When will treatment actually begin?",
+      "style": "Engaged but not impatient. A real question, not rhetorical. Leans slightly forward. The tone of someone who has been taking notes and now wants the timeline.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "報告書、患者と家族にも丁寧に。",
+      "en": "We'll go through the report carefully with the patient and family too.",
+      "style": "Warm but professional. Slight emphasis on 'patient and family'—she's making sure he understands this isn't just about data. Relaxed shoulders. The care underneath the formality.",
+      "mood": "conscientious_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります、本当に。",
+      "en": "This has been really educational, honestly.",
+      "style": "Quiet sincerity. Small, genuine note of gratitude in the voice. Not flattering—just honest. The relief of someone who is learning from someone who actually explains.",
+      "mood": "grateful_humble"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、深めていきましょう。",
+      "en": "Let's deepen this together as we go.",
+      "style": "Tender beneath the professionalism. Slight lean forward. The word 'together' lands gently but firmly. Inviting him into partnership, not positioning herself as the sole authority.",
+      "mood": "warm_collaborative"
+    }
+  ]
+}

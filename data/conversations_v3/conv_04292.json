@@ -1,0 +1,78 @@
+{
+  "id": "conv_04292",
+  "context": "Two newsroom editors plan an international segment",
+  "purpose": "Teach: 厚生省/秘書/開幕/食糧/原油/入国/懇談/刊行",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "厚生省",
+    "秘書",
+    "開幕",
+    "食糧",
+    "原油",
+    "入国",
+    "懇談",
+    "刊行"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "来週の国際面、開幕は何で行きましょうか。",
+      "en": "For next week's international page, what should we lead with at the opening?",
+      "style": "Casual workplace tone, slightly deferential to senior colleague"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "原油価格が荒れているので、まずはそこを軸にしたいですね。",
+      "en": "Crude oil prices are volatile, so I want to anchor the segment around that.",
+      "style": "Confident editor voice, decisive and businesslike in pacing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それなら厚生省が出した食糧自給率の報告書も絡められそうです。",
+      "en": "Then we could also tie in the food self-sufficiency report the welfare ministry released.",
+      "style": "Engaged junior reporter pitching an angle, slightly eager tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいですね。大臣秘書に裏取りの電話を入れておいてください。",
+      "en": "Good idea. Please put in a fact-checking call to the minister's secretary.",
+      "style": "Assigning task crisply, polite but firm direction-giving"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。入国制限の続報も短く挟みましょうか。",
+      "en": "Got it. Should we also slip in a brief follow-up on entry restrictions?",
+      "style": "Quick confirmation followed by a tentative suggestion, professional"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、有識者との懇談会の発言が示唆に富んでいたので、そこから引用しましょう。",
+      "en": "Yes, the experts' remarks at the roundtable were quite insightful, let's quote from there.",
+      "style": "Reflective and editorial, weighing material with measured judgment"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "去年の刊行物のバックナンバーから、関連記事を取り出してきます。",
+      "en": "I'll go pull the related articles out of last year's back issues of the publication.",
+      "style": "Eager to act, briefly announcing next move before leaving"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。適宜こちらにも見せてくださいね。",
+      "en": "That helps a lot. Show them to me as appropriate along the way, okay?",
+      "style": "Warm closing instruction, supervisory but appreciative tone"
+    }
+  ]
+}

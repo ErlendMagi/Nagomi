@@ -1,0 +1,61 @@
+{
+  "id": "conv_01504",
+  "context": "Daichi takes the family dog for a morning walk; meets Mrs. Mori the neighbor.",
+  "purpose": "Casual neighborly greeting; small community warmth.",
+  "ambient": "street_morning_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "犬",
+    "散歩",
+    "朝",
+    "挨拶"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_075)",
+    "generated_at": "2026-05-27T06:09:04.464Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "おはようございます、お散歩ですか?",
+      "en": "Good morning—are you out for a walk?",
+      "style": "Warm, unhurried greeting. Soft opening, genuine curiosity without pressing. The ease of someone who's seen this routine before and enjoys it. Conversational, not perfunctory.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おはようございます、毎朝の日課でな。",
+      "en": "Morning—it's my daily routine.",
+      "style": "Friendly, matter-of-fact warmth with a light Kansai lilt. Self-aware, almost gentle humor in the simplicity. Not boastful, just stating a fact he's content with.",
+      "mood": "content"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "犬、可愛いわね。",
+      "en": "Your dog's adorable.",
+      "style": "Soft, lingering fondness in the observation. No hurry. The voice of someone who genuinely notices small good things and enjoys naming them aloud. Gentle chuckle underneath.",
+      "mood": "fond"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "元気だけが取り柄でな。",
+      "en": "He's all energy, really—that's his whole charm.",
+      "style": "Warm self-deprecation with affection underneath. Light, teasing tone aimed at the dog, not at himself. A slight laugh in the delivery, like he's in on the joke with his own dog.",
+      "mood": "affectionate_amused"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ、いい朝ですね。",
+      "en": "Heh—it really is a beautiful morning, isn't it?",
+      "style": "Soft laugh at the start. Genuine contentment. Lingering on the observation like she's savoring it. No rush—the voice of someone at peace with the moment and happy to share it.",
+      "mood": "peaceful_appreciative"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_02070",
+  "context": "Saito explains a surgery to a patient using clear terms.",
+  "purpose": "Doctor reassuring patient about medical procedure.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "手術",
+    "症",
+    "治療",
+    "血液",
+    "確認",
+    "安心",
+    "原稿",
+    "書類"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_104)",
+    "generated_at": "2026-05-27T13:06:31.755Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、手術、不安です。",
+      "en": "Doctor, I'm anxious about the surgery.",
+      "style": "Soft, uncertain opening. The words come out careful and small. Seeking reassurance but trying not to ask for it directly. A slight tremor underneath the politeness.",
+      "mood": "nervous_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配いりません、安心して。",
+      "en": "You don't need to worry. Try to relax.",
+      "style": "Steady, professional foundation. But warmth underneath—not cold clinical. A pause before speaking, like choosing words carefully for someone scared. Eye contact that says she's seen this worry before and it will be okay.",
+      "mood": "reassuring_competent"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "症状、治療で良くなりますか?",
+      "en": "Will the symptoms improve with treatment?",
+      "style": "Asking the question she's been afraid to ask. Quiet but direct. A little hope in the rise at the end, testing whether hope is allowed here.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血液検査、結果、確認しました。",
+      "en": "I've reviewed the blood test results.",
+      "style": "Matter-of-fact opening. Professional tone but not distant. The facts first—because facts are solid. A slight softness on the delivery, letting her know the facts are good news.",
+      "mood": "clear_measured"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "書類、これで揃いますか?",
+      "en": "Is everything in order now?",
+      "style": "Smaller voice than before. The question of someone who needs to know the path forward is clear. Polite but direct, with an undertone of needing certainty.",
+      "mood": "seeking_clarity"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、原稿、揃ってます。",
+      "en": "Yes, everything is in place.",
+      "style": "Quiet confirmation. No extra words. The solidity of someone who has checked twice and is telling the truth. A gentle finality that says: this part is done, you can breathe now.",
+      "mood": "reassured_complete"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、本当に。",
+      "en": "Thank you. Really, thank you so much.",
+      "style": "Gratitude that carries relief underneath. Words said slowly, with genuine feeling. Not performative—this is the moment where the worry can finally rest a little.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07849",
+  "context": "Officer briefs",
+  "purpose": "Teach: 招聘/来賓/一報/区役所/登用/譲り/心掛け/御礼",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "招聘",
+    "来賓",
+    "一報",
+    "区役所",
+    "登用",
+    "譲り",
+    "心掛け",
+    "御礼"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_394 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、有識者、絶対、招聘、絶対、講演会、絶対、開催いたします、本気で、感謝",
+      "en": "We're absolutely committed to inviting expert speakers to hold lectures on these matters. Thank you for your understanding.",
+      "style": "Measured official tone. Even pacing, each clause given equal weight. Slight pause between the commitment and the gratitude. Composed but not cold.",
+      "mood": "formal_earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、来賓、絶対、として、絶対、お招きいただきありがたいです、本気で、感謝",
+      "en": "Yes. We're very grateful to have the police represented here as honored guests and speakers.",
+      "style": "Respectful, attentive nod in his voice. Slightly formal register. Even tempo, acknowledging each point. Genuine warmth underneath the formality.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、事件、絶対、一報、絶対、入りました、本気で、感謝",
+      "en": "A report just came in regarding an incident. We appreciate you being informed immediately.",
+      "style": "Shift to procedural efficiency. Clipped delivery on the incident detail. Steady, professional. No drama — just factual handoff.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と、本気で、絶対、区役所、絶対、連携、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. We're thankful for the coordination between the police department and the ward office on this.",
+      "style": "Affirming, collaborative tone. Slight emphasis on 'coordination' — showing he understands the weight of partnership. Professional warmth.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、女性、絶対、登用、絶対、推進、絶対、しております、本気で、感謝",
+      "en": "The police are actively promoting opportunities for female officers. We're committed to this direction.",
+      "style": "Deliberate, principle-forward delivery. Slight emphasis on 'actively' and 'promoting.' Calm conviction. No performative energy.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、譲り、絶対、合いの、絶対、運転、絶対、お願いされております、本気で、感謝",
+      "en": "Yes. We've been asked to encourage safe driving practices—yielding, cooperative road behavior. We take that responsibility seriously.",
+      "style": "Earnest, slightly longer cadence. Listing the practices with gentle emphasis. Conversational but grounded. Ownership in his tone.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、安全、絶対、心掛け、絶対、徹底、絶対、しております、本気で、感謝",
+      "en": "Safety awareness is something we're constantly reinforcing across all our operations.",
+      "style": "Steady, deliberate. Weight on 'constantly.' Measured pace. Professional assurance without defensiveness.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域からの、本気で、絶対、御礼、絶対、お言葉、絶対、警察、絶対、ありがたく頂戴しました、本気で、感謝",
+      "en": "Yes. The community's appreciation for the police department's work means a great deal to us.",
+      "style": "Warm conclusion. Slight softening from procedural tone. Genuine gratitude, not performative. Closing beat with quiet sincerity.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "conv_03183",
+  "context": "The stall owner and helper tally up at the end of the day",
+  "purpose": "Close out the day; teach 売り/わずか/トラブル/最低/売っ/つくる/売る",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "トラブル",
+    "売り",
+    "わずか",
+    "最低",
+    "売っ",
+    "つくる",
+    "売る"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_160)",
+    "generated_at": "2026-05-29T16:25:20.570Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "今日の売り上げ、どうでした？",
+      "en": "How were the sales today?",
+      "style": "curious helper checking the day’s result"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "まずまずや。在庫も残りわずかになった。",
+      "en": "Not bad. There is only a little stock left.",
+      "style": "content owner noting the low remaining stock"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "トラブルはなかったですか？",
+      "en": "Was there any trouble?",
+      "style": "conscientious assistant doing a quick review"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お客さんと最低限の値段でちょっと揉めたわ。",
+      "en": "I bickered a bit with a customer over the bottom price.",
+      "style": "wry recounting of a minor pricing dispute"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "でも結局売れたんですよね？",
+      "en": "But it sold in the end, right?",
+      "style": "hopeful helper looking for the silver lining"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おう、最後はちゃんと売ったで。",
+      "en": "Yeah, in the end I sold it properly.",
+      "style": "satisfied Kansai owner closing the deal"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "明日つくる分、足りますか？",
+      "en": "Do we have enough to make for tomorrow?",
+      "style": "forward-planning helper checking supplies, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "夜なべしてつくるしかないな。",
+      "en": "I will have to stay up making more.",
+      "style": "resigned but devoted craftsman facing a late night"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "売り物、もっと増やしましょう。",
+      "en": "Let us put out more items for sale.",
+      "style": "encouraging assistant pushing for growth, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "せやな、明日も全部売るで。",
+      "en": "Right, I will sell it all again tomorrow.",
+      "style": "determined owner committing to tomorrow, spoken with a recognizable personal cadence"
+    }
+  ]
+}

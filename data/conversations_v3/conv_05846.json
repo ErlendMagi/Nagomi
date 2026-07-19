@@ -1,0 +1,65 @@
+{
+  "id": "conv_05846",
+  "context": "A boss reviews financial planning",
+  "purpose": "Teach: 損益/総研/送金/搭乗/事後/カ年/みなし/即し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "損益",
+    "総研",
+    "送金",
+    "搭乗",
+    "事後",
+    "カ年",
+    "みなし",
+    "即し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_294 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の損益、総研の見通しと比べてどうだ。",
+      "en": "How does this quarter's P&L compare to the think tank's projections?",
+      "style": "Direct, businesslike opening. Expectant pause at the dash. Measured pace — asking for specifics, not small talk. Slight forward lean in posture.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。送金関連の手数料、見直しが必要です。",
+      "en": "Yes. The remittance-related fees will need to be reassessed.",
+      "style": "Quiet confidence. Measured cadence on each item. Professional deference without hesitation — he's thought this through. Small breath before 'reassessed' to signal this is firm.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員の搭乗、海外視察、事後報告を徹底させろ。",
+      "en": "Make sure executives log all flights, overseas inspections, and submit reports afterwards. Non-negotiable.",
+      "style": "Clipped authority. Hard consonants on 'Make' and 'log.' Short, declarative sentences. Steady eye contact. No warmth, no negotiation in the delivery.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。3カ年計画、みなし会計のルールに即して再構築します。",
+      "en": "Yes. We'll rebuild the three-year plan to align with the deemed-accounting framework.",
+      "style": "Composed confirmation. Even pace, each phrase deliberate. Slight emphasis on 'rebuild' and 'align' — showing he understands the scope. Formal but not stiff.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、来週役員会で。",
+      "en": "Good. We'll present it at the board meeting next week.",
+      "style": "Closing statement, slightly lighter than the others. Decisive nod in the voice. Short, settled. Implicit: this conversation is done, next phase begins.",
+      "mood": "resolved"
+    }
+  ]
+}

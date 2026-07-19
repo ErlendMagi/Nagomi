@@ -1,0 +1,75 @@
+{
+  "id": "conv_02676",
+  "context": "Kenji shows Ren an online ordering line.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (オンライン/ライン/上げる/つながっ/覚悟) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "オンライン",
+    "ライン",
+    "上げる",
+    "つながっ",
+    "覚悟"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_134)",
+    "generated_at": "2026-05-29T13:41:46.166Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "オンラインの注文は、どう流れますか?",
+      "en": "How does the online order flow?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "注文は、一本のラインで処理されます。",
+      "en": "Orders are processed on a single line.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "混むと、ラインは遅くなりますか?",
+      "en": "When busy, does the line slow down?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "処理の速さを、上げる工夫をしました。",
+      "en": "We devised ways to raise processing speed.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "サーバーは、ちゃんとつながっていますか?",
+      "en": "Is the server properly connected?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、安定してつながっています。",
+      "en": "Yes, it's stably connected.",
+      "style": "reassuring office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "障害が起きる覚悟も、要りますね。",
+      "en": "We need to be prepared for outages too.",
+      "style": "thoughtful young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その覚悟で、対策を上げておきましょう。",
+      "en": "With that resolve, let's raise our defenses.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

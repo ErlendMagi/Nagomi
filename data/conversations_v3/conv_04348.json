@@ -1,0 +1,78 @@
+{
+  "id": "conv_04348",
+  "context": "A boss reviews an IT project plan with his manager",
+  "purpose": "Teach: 複製/コマンド/ソリューション/リソース/属性/伝達/遂行/実証",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "複製",
+    "コマンド",
+    "ソリューション",
+    "リソース",
+    "属性",
+    "伝達",
+    "遂行",
+    "実証"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回のITソリューションについて、進捗を報告してくれ。",
+      "en": "Report on the progress of this IT solution.",
+      "style": "Formal, authoritative tone of a senior boss."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、現在は新システムの実証実験を行っている段階です。",
+      "en": "Yes, we are currently in the proof-of-concept testing stage of the new system.",
+      "style": "Polite, measured reply from a diligent middle manager."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。人的リソースの配分は問題ないのか?",
+      "en": "I see. Are there any issues with the allocation of human resources?",
+      "style": "Probing question with concerned executive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "技術部から二名追加してもらい、業務遂行に支障はありません。",
+      "en": "We added two people from the tech department, so there are no obstacles to carrying out the work.",
+      "style": "Reassuring, factual report with confidence in the team."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "データの複製とバックアップ体制はどうなっている?",
+      "en": "What about the data duplication and backup setup?",
+      "style": "Sharp follow-up showing attention to risk management."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "サーバー上でコマンドを実行して、毎晩自動でバックアップが取れる仕組みです。",
+      "en": "We run a command on the server, and backups are taken automatically every night.",
+      "style": "Technical explanation delivered clearly and professionally to the boss."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ユーザー属性の管理と、現場への指示の伝達もしっかり頼むぞ。",
+      "en": "Make sure user attribute management and instructions to the field are properly conveyed.",
+      "style": "Firm directive emphasizing operational discipline, distinct timbre that anchors the scene"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来月までに効果を実証できる数値をご報告いたします。",
+      "en": "Understood. I will report numbers demonstrating the effectiveness by next month.",
+      "style": "Committed, deferential closing remark from manager."
+    }
+  ]
+}

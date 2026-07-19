@@ -1,0 +1,91 @@
+{
+  "id": "conv_03201",
+  "context": "A family visits a pet shop and meets the puppies",
+  "purpose": "Browse puppies; teach 匹/ワン/我慢/だめ/とれ/在庫/もつ/垢",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "匹",
+    "ワン",
+    "在庫",
+    "もつ",
+    "我慢",
+    "だめ",
+    "とれ",
+    "垢"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "わあ、子犬が三匹もいる！",
+      "en": "Wow, there are three whole puppies!",
+      "style": "wide-eyed child bursting with pure excitement"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "せやろ、みんな元気なワンちゃんやで。",
+      "en": "Right? They are all lively little pups.",
+      "style": "warm Kansai shopkeeper proud of his animals"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "この子、いまワンって鳴いた！",
+      "en": "This one just went woof!",
+      "style": "delighted child pointing at the puppy eagerly"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "触る前に、ちょっと我慢してね。",
+      "en": "Be patient a moment before you touch them.",
+      "style": "gentle mother reining in her eager son"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "勝手に抱っこはだめやで。",
+      "en": "No picking them up without asking.",
+      "style": "firm but kindly Kansai owner setting a rule"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "えー、抱きたいよう。",
+      "en": "Aww, but I want to hold one.",
+      "style": "whining child pleading with obvious longing"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "この子ら、まだ首輪がとれやすいねん。",
+      "en": "Their collars still come off easily, see.",
+      "style": "careful owner explaining the practical reason"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "フードの在庫はありますか？",
+      "en": "Do you have the food in stock?",
+      "style": "practical mother already planning the purchase"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "在庫はたっぷりあるで。一袋で一週間もつわ。",
+      "en": "Plenty in stock. One bag lasts a week.",
+      "style": "reassuring Kansai owner offering helpful detail"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お風呂で垢も落としてあげたい！",
+      "en": "I want to scrub the grime off in the bath too!",
+      "style": "eager child imagining caring for the pup"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_05149",
+  "context": "A retired exec mentors a younger boss on big-deal investments",
+  "purpose": "Teach: 償還/異論/加算/要し/キープ/区間/巨額/組み込ま",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "償還",
+    "異論",
+    "加算",
+    "要し",
+    "キープ",
+    "区間",
+    "巨額",
+    "組み込ま"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先輩、今回うちが検討している案件、巨額の投資になりそうで正直迷っています。",
+      "en": "Senpai, the deal we're considering has become a massive investment, and honestly I'm hesitant.",
+      "style": "Younger boss seeking guidance, deferential but professional tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ほう、聞かせてくれ。社債の償還スケジュールはどう組み立てているんだ?",
+      "en": "Oh? Let me hear it. How are you structuring the bond redemption schedule?",
+      "style": "Calm elder mentor, probing with experienced questions"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "十年債を中心に、五年目から段階的に償還する形で、利息は元本に加算せず分離して払う設計です。",
+      "en": "Centered on ten-year bonds, redeeming in stages from year five, with interest paid separately rather than added to principal.",
+      "style": "Detailed financial explanation, careful and measured tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "悪くない。ただ、五年目から十年目の区間で金利が跳ねたらどうする?そこに異論を持つ役員はいないか?",
+      "en": "Not bad. But what if rates spike during the year five to ten window? Are there no board members raising objections?",
+      "style": "Probing critique, raising hard questions with authority"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は財務担当が反対していて、説得には時間を要しました。リスクヘッジを契約に組み込まないと通らないと。",
+      "en": "Actually the finance head opposed it, and persuading him took considerable time. He insists we must build hedging into the contract.",
+      "style": "Honest admission of internal struggle, slightly weary and reflective"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "賢明だな。固定金利のスワップで上限をキープしておけ。これは絶対に外すな。",
+      "en": "Wise. Lock in a cap using a fixed-rate swap. Do not skip that under any circumstances.",
+      "style": "Firm decisive advice from a seasoned elder mentor"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "承知しました。では、その条項を最終案に組み込ませてもらいます。",
+      "en": "Understood. Then I'll have that clause incorporated into the final proposal.",
+      "style": "Grateful acceptance with a quietly resolved professional tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それでいい。大きな勝負ほど、守りの設計が勝敗を分けるんだ。",
+      "en": "That'll do. The bigger the gamble, the more defensive design decides the outcome.",
+      "style": "Closing aphorism delivered with sage warmth and finality"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08181",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 真っ暗/滅多に/遥か/真夏/呆れ/入り込ん/通り過ぎ/つづき",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "真っ暗",
+    "滅多に",
+    "遥か",
+    "真夏",
+    "呆れ",
+    "入り込ん",
+    "通り過ぎ",
+    "つづき"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_411 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、停電でお家の中、真っ暗になっちゃったわね",
+      "en": "Sho, the power's out — the house is pitch-dark, isn't it?",
+      "style": "Gentle, observational tone. Quiet recognition without alarm. Soft opening. Speaking from a slight distance, as if narrating a shared moment rather than drawing attention to a problem.",
+      "mood": "calm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんは滅多に怒らないお方ね",
+      "en": "Mom, Grandpa doesn't get angry very often, does he?",
+      "style": "Quiet, thoughtful. Sho is shifting the subject with genuine curiosity, not deflection. Small pause before speaking, like he's been thinking about this. Seeking reassurance gently.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんちは遥か遠くにあるわよ",
+      "en": "Grandma's house is very far away, sweetheart.",
+      "style": "Warm, patient response. Slight tilt toward his concern. Not explanatory — acknowledging what he's really asking without making him name it directly.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、真夏の暑さ、すごいよね",
+      "en": "The summer heat is really intense this year, isn't it?",
+      "style": "Light, slightly wondering tone. Not complaining — observation that invites him to share what he's noticed. A small, genuine remark offered between them.",
+      "mood": "conversational"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "翔くん、お父さん、ぼくの成績に呆れてないよね?",
+      "en": "Dad, you're not disappointed in my grades, are you?",
+      "style": "Careful, slightly nervous underneath. Testing the waters. Small hesitation at the beginning — he's genuinely uncertain. Seeking confirmation, not expecting it.",
+      "mood": "anxious_seeking"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お友達がお家に入り込んで遊んでくれたよ",
+      "en": "Mom, a friend came by the house and we played together.",
+      "style": "Bright, eager announcement. Quick pace, genuine warmth. Pride in the telling — he wants her to know something good happened. Open, almost breathless.",
+      "mood": "happy_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、家の前を犬が通り過ぎたわよ",
+      "en": "Sho, a dog just walked past the front of the house!",
+      "style": "Warm, playful energy. Quick light tone drawing his attention to something. A little theatrical — sharing a small moment of delight with him, inviting him to be excited too.",
+      "mood": "warm_animated"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、絵本のつづき、読んで",
+      "en": "Mom, will you read the rest of the story with me?",
+      "style": "Soft, intimate request. Warm undertone — he's comfortable asking. Not demanding, but genuinely hoping. Trailing slightly upward at the end, gentle and close.",
+      "mood": "eager_tender"
+    }
+  ]
+}

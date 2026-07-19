@@ -1,0 +1,78 @@
+{
+  "id": "conv_04469",
+  "context": "A uni student interviews a retired academic about his career path",
+  "purpose": "Teach: 鹿児島/石川/学園/南部/郡/川崎/長野/東京大学",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鹿児島",
+    "石川",
+    "学園",
+    "南部",
+    "郡",
+    "川崎",
+    "長野",
+    "東京大学"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_225 workflow wvvwn6tkp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。先生は東京大学のご出身と伺いました。",
+      "en": "Thank you for your time today. I heard you graduated from the University of Tokyo.",
+      "style": "Polite respectful interview opening from young student."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、東京大学を出てから、最初は農林水産省に勤めていたんですよ。",
+      "en": "Yes, after graduating from Tokyo University, I first worked at the Ministry of Agriculture, Forestry and Fisheries.",
+      "style": "Calm reflective tone from elderly retired academic."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。ご出身は鹿児島県とお聞きしましたが、上京されたきっかけは何でしたか。",
+      "en": "I see. I heard you're originally from Kagoshima Prefecture, what brought you to Tokyo?",
+      "style": "Curious respectful follow-up question by interviewer."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "私の村は鹿児島の山あいの小さな郡でしてね、若い頃は本当に苦痛なほど閉鎖的でした。",
+      "en": "My village was in a small county in the mountains of Kagoshima, and as a youth it was painfully closed-off.",
+      "style": "Nostalgic candid recollection with quiet honesty."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。その後、川崎市の研究所に移られたんですよね。石川県や長野県でも調査されたとか。",
+      "en": "I see. After that you moved to a research lab in Kawasaki City, right? I heard you also did surveys in Ishikawa and Nagano.",
+      "style": "Engaged researcher tone showing prepared background knowledge."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よく調べていますね。長野の山村や石川の漁村、それから九州南部の農村まで、まさしく日本中を歩きました。",
+      "en": "You've done your homework. From mountain villages in Nagano to fishing villages in Ishikawa, and farming villages in southern Kyushu, I literally walked all over Japan.",
+      "style": "Warm appreciative reminiscing with broad geographic sweep."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先生が岩波新書で書かれた人種と道徳に関する論考、厳密な議論で本当に勉強になりました。",
+      "en": "Your Iwanami paperback essay on race and morality was rigorously argued and I learned so much from it.",
+      "style": "Earnest academic admiration from a student reader."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ありがとう。退職後は地元の学園で講師をしていてね、若い人に教えるのが今の生きがいですよ。",
+      "en": "Thank you. Since retiring I've been a lecturer at a local academy, and teaching young people is what gives me purpose now.",
+      "style": "Gentle modest closing reflection from contented elder."
+    }
+  ]
+}

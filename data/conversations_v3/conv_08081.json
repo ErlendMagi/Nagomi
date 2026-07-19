@@ -1,0 +1,86 @@
+{
+  "id": "conv_08081",
+  "context": "Mom and son chat",
+  "purpose": "Teach: どー/ふまえ/別名/つきあい/帯び/一端/つた/しから",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "どー",
+    "ふまえ",
+    "別名",
+    "つきあい",
+    "帯び",
+    "一端",
+    "つた",
+    "しから"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_406 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "つたない文章でごめんね。翔くん、どーしたの?顔色が悪いわよ",
+      "en": "Sho, sweetheart — what's wrong? You look pale.",
+      "style": "Warm, immediate concern. Softens the second sentence slightly. Leans in with maternal attention. No rush in the delivery.",
+      "mood": "concerned_maternal"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんはお仕事のご経験をふまえてアドバイスしてくれるよ",
+      "en": "Mom, Dad gives good advice because he's learned a lot from work.",
+      "style": "Quiet, thoughtful observation. Speaking carefully, like he's worked this out. Not seeking approval, just sharing something true he noticed.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんの別名は「タマちゃん」よ",
+      "en": "Sho, you know Grandma's nickname is 'Tama-chan,' right?",
+      "style": "Gentle redirect, slightly puzzled undertone. Like she's testing whether he's paying attention or if something is off. Warm but probing.",
+      "mood": "gently_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お友達とのつきあい、長くなったよ",
+      "en": "Mom, my friendship with my friend — it's been going on for a long time now.",
+      "style": "Small voice, proud but hesitant. Building up to something. Eyes bright with the weight of it. Slightly eager for her response.",
+      "mood": "proud_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、湿気を帯びた洗濯物、乾かしてね",
+      "en": "Sho, could you hang the damp laundry to dry for me?",
+      "style": "Practical, warm. A small task given with trust, not dismissal. The tone of someone shifting gears — attending to ordinary things while still watching him.",
+      "mood": "practical_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お仕事の一端をお手伝いしたよ",
+      "en": "Mom, I helped Dad with some of his work today.",
+      "style": "Bright with quiet pride. Waiting for recognition without demanding it. Small chest a little puffed up. Matter-of-fact but hopeful.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ばあばのお話、お父さんに伝った?",
+      "en": "Sho, did you tell Dad what Grandma was saying?",
+      "style": "Curious, slightly testing. Relaxed but alert — checking in on something specific. The rhythm of a mother who's piecing something together.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、しからずに優しく注意してね",
+      "en": "Mom, you'll be gentle with me about it, right? Not angry?",
+      "style": "Soft, tentative edge underneath. A small request wrapped in wry protection. He's asking for reassurance disguised as wit. Vulnerable despite the lightness.",
+      "mood": "vulnerable_guarded"
+    }
+  ]
+}

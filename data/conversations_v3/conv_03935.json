@@ -1,0 +1,78 @@
+{
+  "id": "conv_03935",
+  "context": "Two coworkers review last quarter logistics over coffee",
+  "purpose": "Teach: 小売/通販/入社/デバイス/インテリア/店内/応答/受け取っ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "小売",
+    "通販",
+    "入社",
+    "デバイス",
+    "インテリア",
+    "店内",
+    "応答",
+    "受け取っ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_198 workflow wmokhormi)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "先週の小売店の売上、見ました？前期より落ちてますね。",
+      "en": "Did you see last week's retail store sales? They've dropped compared to last quarter.",
+      "style": "Calm, slightly concerned female office tone, professional but casual over coffee."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "見ました。逆に通販サイトの方は伸びてるんですよね。",
+      "en": "I saw it. Conversely, the online shopping site side is actually growing.",
+      "style": "Thoughtful male voice, measured analytical delivery with a hint of resignation."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "去年入社した新人が、その分析レポートまとめてくれましたよ。",
+      "en": "That new hire who joined the company last year put together the analysis report.",
+      "style": "Mildly impressed female tone, warm acknowledgment of a junior colleague's effort."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、モバイルデバイス経由の注文が急増してるってやつですよね。",
+      "en": "Ah, the one showing mobile device orders are surging, right?",
+      "style": "Recognition lighting up his voice, engaged professional male delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうそう。あと店内のインテリアも古くなってて、客足が遠のいてるって。",
+      "en": "Exactly. Also the in-store interior has gotten old, which is keeping customers away.",
+      "style": "Slightly worried female voice, sharing concerns conversationally with a sigh."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "問い合わせへの応答も遅れてて、苦情も増えてるみたいで。",
+      "en": "Response times to inquiries have been slow too, and complaints seem to be increasing.",
+      "style": "Somewhat troubled male tone, lowering voice as he discusses problems."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "昨日、部長から改善提案の依頼メール受け取ったんですけど、一緒に考えません？",
+      "en": "Yesterday I received an email from the director requesting improvement proposals — want to think together?",
+      "style": "Collaborative female voice, inviting tone with a touch of camaraderie."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいですね。今日の午後、会議室押さえておきますよ。",
+      "en": "Sounds good. I'll go reserve a meeting room for this afternoon.",
+      "style": "Agreeable male voice, decisive and helpful workplace tone, ending warmly."
+    }
+  ]
+}

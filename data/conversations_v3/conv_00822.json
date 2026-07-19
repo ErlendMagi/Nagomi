@@ -1,0 +1,76 @@
+{
+  "id": "conv_00822",
+  "context": "Dr. Saito advises Ryosuke about summer health precautions.",
+  "purpose": "doctor-patient summer health advisory",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "夏",
+    "健康",
+    "注意",
+    "水",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_041)",
+    "generated_at": "2026-05-27T02:04:36.447Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、夏、特に、健康、注意ですよ。",
+      "en": "Ryosuke-san, during the summer especially, please take care with your health.",
+      "style": "Warm, measured opening. Soft professional composure grounded in genuine concern. Light emphasis on 'especially' — not alarming, just attentive. The tone of a doctor who has seen summers take their toll.",
+      "mood": "caring_professional"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、暑い日、気を付けてます。",
+      "en": "Yes, I'm careful on the hot days.",
+      "style": "Respectful, earnest. A small nod in the voice — showing he takes the advice seriously without overstatement. Warm but not effusive. The tone of someone reporting to someone he trusts.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "水分、しっかり、取ってください。",
+      "en": "Make sure you're drinking enough water.",
+      "style": "Direct but gentle. Practical advice delivered with warmth, not as instruction but as care. Slight emphasis on 'enough' — specific, not vague. The voice of experience.",
+      "mood": "caring_direct"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "優子も、心配性で、注意してくれます。",
+      "en": "Yumiko looks after me too — she worries about these things.",
+      "style": "Warm gratitude threading through the words. A small, genuine smile audible. Tender mention of his wife — not boastful, just truthful. Slow pace on her name.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素晴らしい。家族、本当、大切ですね。",
+      "en": "That's wonderful. Family is truly important.",
+      "style": "Quiet philosophical warmth. A slight pause before 'truly' — reflecting on what he's just heard. The voice of someone who has seen how much family matters in her work.",
+      "mood": "thoughtful_appreciation"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "長く、元気で、いたいですね。",
+      "en": "Stay well, and come see me again.",
+      "style": "Genuine closing warmth. A soft, simple benediction. Not rushed — each word given its weight. The tone of a doctor saying goodbye to someone she cares about.",
+      "mood": "warm_farewell"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、また、いらして。",
+      "en": "I want to stay healthy and active for a long time.",
+      "style": "Reflective, hopeful. A note of quiet determination underneath — not just wishing, but meaning it. Slow, thoughtful delivery. The voice of someone looking forward.",
+      "mood": "reflective_hopeful"
+    }
+  ]
+}

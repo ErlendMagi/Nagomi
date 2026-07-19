@@ -1,0 +1,78 @@
+{
+  "id": "conv_04543",
+  "context": "A vendor and the cafe owner negotiate a complex deal",
+  "purpose": "Teach: カネ/技能/適し/所長/複合/寄与/上限/模索",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "カネ",
+    "技能",
+    "適し",
+    "所長",
+    "複合",
+    "寄与",
+    "上限",
+    "模索"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_229 workflow wjoc5dipz)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "正直に申し上げますと、今回の卸価格には上限がございまして、これ以上カネを動かして値引きを模索しきれませんでした。",
+      "en": "To be honest, our wholesale pricing has a ceiling, and we couldn't move more money around to explore further discounts.",
+      "style": "Polite, measured business tone with apologetic undertone and careful hedging."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うちのカフェ、ただの喫茶店じゃなくて複合スペースとして運営してるんです。物販も焙煎教室も全部ここで。",
+      "en": "Our cafe isn't just a coffee shop — we run it as a multi-use space. Retail, roasting classes, everything happens here.",
+      "style": "Warm but firm barista pitch, proud and slightly persuasive in delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど、それでしたら単純な仕入れ契約より、長期的な提携の方が御店の業態に適していそうですね。",
+      "en": "I see. In that case, a long-term partnership rather than a simple supply contract would probably suit your business model better.",
+      "style": "Thoughtful, slightly leaning forward, recalibrating the pitch on the fly."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんです。ただ、本社の所長さんの承認がないと動けないって前回も言われちゃって、ちょっと話しづらかったんですよね。",
+      "en": "Exactly. But last time I was told you couldn't move without your branch manager's approval, which made things awkward to discuss.",
+      "style": "Friendly complaint, half-smiling but pointed, testing how much authority Yuki actually has."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "その点は今回権限を預かってきました。バリスタさんの技能や焙煎のノウハウが弊社のブランド価値にも寄与すると、上にも説明済みです。",
+      "en": "I've been entrusted with authority this time. I've already explained upstairs that your barista skills and roasting know-how contribute to our brand value too.",
+      "style": "Reassuring but professional, dropping the corporate shield to build trust."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うれしいです。じゃあ豆の独占供給と引き換えに、教室の共催スポンサーになってもらうって形はどうですか?",
+      "en": "That's great to hear. So how about this — exclusive bean supply from you, in exchange for co-sponsoring our classes?",
+      "style": "Bright, business-savvy counteroffer, momentum building in the negotiation."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "面白い提案ですね。広告予算からの拠出になるので、金額はいちいち稟議が必要ですが、方向性としては前向きに検討させてください。",
+      "en": "Interesting proposal. Since it would come from our advertising budget, each amount needs internal approval, but directionally we'd like to consider it positively.",
+      "style": "Cautiously enthusiastic, balancing real interest with bureaucratic realism."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。じゃあ来週までに細かい条件を詰めて、お馴染みの常連さんにも喜んでもらえる形にしましょう。",
+      "en": "Thank you. Let's nail down the details by next week and shape it into something our regulars will love too.",
+      "style": "Closing with warmth, shifting from negotiator back to neighborhood cafe owner."
+    }
+  ]
+}

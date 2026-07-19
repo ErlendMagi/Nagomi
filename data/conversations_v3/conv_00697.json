@@ -1,0 +1,69 @@
+{
+  "id": "conv_00697",
+  "context": "Mei gives Ren baby supplies advice.",
+  "purpose": "small adult new-parent advice",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤ちゃん",
+    "一緒",
+    "相談",
+    "感謝",
+    "幸せ"
+  ],
+  "cast": [
+    "mei_romantic",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "メイさん、赤ちゃんの、何が、一番、必要？",
+      "en": "Mei-san, what do you think a baby needs most at the start?",
+      "style": "Gentle, slightly uncertain beginning — testing the question out loud. Warm and respectful throughout. Soft pace. Real curiosity in his voice, not performance. Leans in slightly.",
+      "mood": "curious_humble"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "まず、オムツと、ミルク、ベビー服。",
+      "en": "First, diapers, formula, and baby clothes.",
+      "style": "Warm, practical wisdom delivered gently. Not lecturing — offering. Soft pace, steady. A little room between items, like she's thinking through it. Affirming tone underneath.",
+      "mood": "warm_maternal"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最初は、それで、いいんすね。",
+      "en": "I see. So those basics are really all you need at first.",
+      "style": "Quiet relief in the openness. He's absorbing what she said. Soft, thoughtful pace. Slight upward inflection at the end — checking his understanding with her.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "皆、最初、似たような感じ。買いすぎないこと、大事。",
+      "en": "Most people feel the same way at first. The important thing is not to overbuy.",
+      "style": "Gentle wisdom-sharing. Warm but grounded — not flowery. Steady pace. The slight pause before 'the important thing,' like she's learned this from experience. Caring without fuss.",
+      "mood": "wise_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "相談、本当に、助かります。",
+      "en": "Talking with you really does help. Thank you.",
+      "style": "Genuine gratitude, quietly expressed. Slight vulnerability underneath — he means this. Soft voice, slower pace. The words land without needing emphasis.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "いつでも、聞いて。皆で、応援してる。",
+      "en": "Ask anytime. We're all rooting for you.",
+      "style": "Open, tender, extending an invitation. Warm throughout. The 'all' carries the sense of people around him who care. Soft but steady. Ends with quiet affection.",
+      "mood": "warm_encouraging"
+    }
+  ]
+}

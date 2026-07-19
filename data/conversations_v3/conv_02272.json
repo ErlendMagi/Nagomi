@@ -1,0 +1,79 @@
+{
+  "id": "conv_02272",
+  "context": "Naoko has a sale day at the ramen shop; many customers.",
+  "purpose": "Aunt running busy promotional day.",
+  "ambient": "ramen_shop_busy",
+  "sound_effects": [],
+  "target_vocab": [
+    "半額",
+    "殺到",
+    "気軽",
+    "取り扱う",
+    "振込",
+    "こたえ",
+    "時計",
+    "料理"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "aoi_barista"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_114)",
+    "generated_at": "2026-05-27T17:56:38.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "蒼ちゃん、半額デーで、殺到や!",
+      "en": "Aoi-chan — it's half-price day, we're gonna get slammed!",
+      "style": "Brash, energetic Kansai clip. Sharp attack on the excitement. Loud and generous, like she's sharing good news with a friend she's about to rope into the chaos. No apology in her voice.",
+      "mood": "energized"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お手伝い、何でも気軽に言って!",
+      "en": "Just ask me for anything you need — really, whatever.",
+      "style": "Warm, genuine offer. Soft open. Steady, reassuring pace. The kind of thing said while already rolling up sleeves to help. No performance, just presence.",
+      "mood": "generous"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "取り扱うこと、ようけあるで!",
+      "en": "There's gonna be a ton of things to juggle!",
+      "style": "Brassy, delighted warning. Quick-fire delivery with a laugh underneath. The aunt who finds chaos energizing. Punctuates with physical gesture — hands up, shoulders shrug.",
+      "mood": "energized"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "時計、気にしながら、こたえないとね。",
+      "en": "I'll keep an eye on the time and stay on top of it.",
+      "style": "Quiet competence. Steady, unhurried. The voice of someone who's already mentally organized the next three moves. Reassuring but not showy.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お客さん、皆、楽しんでくれてる!",
+      "en": "Look at everyone — they're all having such a good time.",
+      "style": "Warm, almost tender observation. Soft attack, slower pace. Pride that's genuine and unguarded. Like she's witnessing something that matters and wants you to see it too.",
+      "mood": "proud_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "振込みも、後で確認します。",
+      "en": "I'll double-check the transfers later.",
+      "style": "Practical, competent. Matter-of-fact tone with a note of care underneath. Not worried, just thorough. Brief, efficient — she's already moved on to the next task in her mind.",
+      "mood": "responsible"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "料理、最後まで頑張ろう!",
+      "en": "Let's push through to the finish with everything we've got!",
+      "style": "Rousing, generous energy. Loud Kansai warmth. The aunt rallying her team. Quick, committed attack. Shoulders back, voice open — this is the home stretch and she means it.",
+      "mood": "determined"
+    }
+  ]
+}

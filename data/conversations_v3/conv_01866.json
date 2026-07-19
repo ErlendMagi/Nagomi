@@ -1,0 +1,75 @@
+{
+  "id": "conv_01866",
+  "context": "Sho-young and Hina-young play shogi at the kitchen table.",
+  "purpose": "Two siblings strategizing through traditional board game.",
+  "ambient": "kitchen_quiet_clock",
+  "sound_effects": [],
+  "target_vocab": [
+    "将棋",
+    "駒",
+    "考える",
+    "勝つ"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_094)",
+    "generated_at": "2026-05-27T08:24:49.810Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ねえちゃん、将棋、僕の番!",
+      "en": "Sis — it's my turn at shogi!",
+      "style": "Bright, eager opening. Slightly breathless from anticipation. Small, genuine excitement — not performing, just genuinely ready to play. Soft but clear.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "駒、どこに動かす?",
+      "en": "Where do you want to move that piece?",
+      "style": "Warm and attentive, leaning in. Speaking at his pace, not rushing him. Genuinely curious about his choice. Encouraging without pressure.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うーん、考える!",
+      "en": "Hmm… let me think…",
+      "style": "Soft, internal focus. The vowel stretched slightly — real deliberation, not stalling. Quiet concentration. A little worried, but trying.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ゆっくり、慌てないで。",
+      "en": "Take your time — no rush.",
+      "style": "Patient and steady. A small smile in the voice. Reassuring without being condescending. The cadence of someone who knows he worries.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ここに、置く!",
+      "en": "There — I'll place it here!",
+      "style": "A moment of decisiveness breaking through the hesitation. Clear and purposeful. Pride in making the choice. Still small-voiced but certain.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "いい手や、勝てるかも!",
+      "en": "That's a good move — you might actually win!",
+      "style": "Genuine delight. A little surprised, genuinely impressed. Warm encouragement that lands because she means it. Light and bright at the end.",
+      "mood": "proud_surprised"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった、本当に?",
+      "en": "Really? I did?",
+      "style": "Disbelief giving way to joy. Eyes widening in his voice. Small, real laugh underneath. The happiness of being noticed for doing something right.",
+      "mood": "thrilled"
+    }
+  ]
+}

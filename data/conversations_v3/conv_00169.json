@@ -1,0 +1,69 @@
+{
+  "id": "conv_00169",
+  "context": "A bright afternoon at the local park. Hina has spotted Sho on a bench by himself and goes over.",
+  "purpose": "small social bridge between two children — louder one drawing out the quieter",
+  "ambient": "park_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "遊ぶ",
+    "一緒",
+    "好き",
+    "何",
+    "友達"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "ねえ、何してるの？",
+      "en": "Hey, what are you doing?",
+      "style": "Bright child curiosity bouncing forward, direct uninhibited question lifted high with sunny pitch throughout.",
+      "mood": "bright-curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "えっと…絵、描いてる。",
+      "en": "Um… I'm drawing a picture.",
+      "style": "Small six-year-old shy voice, slight pause before the answer, careful gentle showing of his quiet activity.",
+      "mood": "shy-careful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "わあ、見せて見せて！",
+      "en": "Wow, show me, show me!",
+      "style": "High child enthusiastic burst, both 「見せて」 spiking, no hesitation in the curious eager request at all.",
+      "mood": "eager-burst"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…これ、犬。",
+      "en": "…This, a dog.",
+      "style": "Tiny six-year-old voice presenting modestly, gentle pride underneath the brief delivery, careful soft offering.",
+      "mood": "modestly-presenting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "すごい！一緒に遊ぶ？",
+      "en": "Amazing! Want to play together?",
+      "style": "Bright child praise then immediate pivot to inclusion, sunny inviting energy carrying the friendship offer fully.",
+      "mood": "inviting-bright"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、いい。",
+      "en": "Yeah, okay.",
+      "style": "Small six-year-old soft acceptance, voice warming with the unexpected friendliness, brief but genuine response.",
+      "mood": "softly-accepting"
+    }
+  ]
+}

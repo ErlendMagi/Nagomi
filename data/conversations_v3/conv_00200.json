@@ -1,0 +1,69 @@
+{
+  "id": "conv_00200",
+  "context": "A small bookstore on a Saturday. Mei is browsing the cooking section and Ren is looking for a novel. They strike up a brief conversation.",
+  "purpose": "small chance encounter between strangers in a bookstore — gentle low-stakes warmth",
+  "ambient": "bookstore_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "探す",
+    "偶然",
+    "同じ",
+    "興味"
+  ],
+  "cast": [
+    "mei_romantic",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、すいません、その本、もう一冊ある？",
+      "en": "Oh, excuse me — is there another copy of that book?",
+      "style": "University student casual easygoing approach, the unforced friendly inquiry, soft real curiosity threading throughout delivery.",
+      "mood": "casually-easygoing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えっと、棚にもう一冊ありますよ。",
+      "en": "Um, there's one more on the shelf.",
+      "style": "Romantic warm helpful soft reply, the gentle directing audible, soft real consideration threading throughout delivery throughout.",
+      "mood": "warmly-helpful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとう。これ、探してたんすよ。",
+      "en": "Thanks. I've been looking for this.",
+      "style": "University student warm casual gratitude, the easy disclosure audible, soft real appreciation threading throughout delivery.",
+      "mood": "casually-grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "私も、同じ著者、好きなんです。",
+      "en": "Me too — I like the same author.",
+      "style": "Romantic warm soft connection lift, the gentle small discovery audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "softly-connecting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "偶然っすね。じゃあ、おすすめあったら教えて。",
+      "en": "What a coincidence. If you've got recommendations, tell me.",
+      "style": "University student warm casual continuation, the easy open exchange offered, soft real friendliness threading throughout.",
+      "mood": "casually-open"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、もちろん。良い本見つかりますように。",
+      "en": "Yes, of course. May you find a good book.",
+      "style": "Romantic warm soft well-wishing closing, the small kindness extended gently, soft real warmth threading throughout delivery.",
+      "mood": "softly-wishing"
+    }
+  ]
+}

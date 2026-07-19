@@ -1,0 +1,78 @@
+{
+  "id": "conv_04240",
+  "context": "A uni student talks to a teacher about a research-method dilemma",
+  "purpose": "Teach: 直面/絶望/味方/軽減/類似/背後/仮説/真理",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "直面",
+    "絶望",
+    "味方",
+    "軽減",
+    "類似",
+    "背後",
+    "仮説",
+    "真理"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、卒論のデータが全然仮説と合わなくて、ちょっと絶望してます…",
+      "en": "Professor, my thesis data doesn't match my hypothesis at all... I'm a bit in despair.",
+      "style": "Anxious undergraduate venting frustration to a trusted mentor figure."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "落ち着いて。多くの研究者がその壁に直面するのよ。",
+      "en": "Calm down. Many researchers face that exact wall.",
+      "style": "Warm reassuring teacher tone, measured and grounding the student."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ネットで類似の研究を探したんですけど、結論がバラバラで…",
+      "en": "I searched online for similar studies, but the conclusions are all over the place.",
+      "style": "Confused student rattling off what he's already tried."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "数字が合わない背後には、必ず理由があるの。方法論を見直してみましょう。",
+      "en": "There's always a reason behind numbers that don't add up. Let's review your methodology.",
+      "style": "Analytical mentor voice, gently steering toward problem-solving."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "サンプルサイズを増やせば、誤差は軽減できますか?",
+      "en": "If I increase the sample size, can the margin of error be reduced?",
+      "style": "Eager student grasping for a concrete technical fix."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。でも真理は数字だけにあるんじゃない。仮説自体を疑う勇気も必要よ。",
+      "en": "Yes. But truth doesn't lie only in numbers. You also need the courage to doubt the hypothesis itself.",
+      "style": "Philosophical teacher delivering a gentle but pointed lesson."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "…仮説を捨てる勇気、ですか。",
+      "en": "...The courage to throw away my hypothesis, huh.",
+      "style": "Quiet realization, half-question half-acceptance from the student."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫。私はあなたの味方だから、一緒に組み直しましょう。",
+      "en": "It's okay. I'm on your side, so let's rebuild it together.",
+      "style": "Final warm encouragement, closing the conversation on solidarity."
+    }
+  ]
+}

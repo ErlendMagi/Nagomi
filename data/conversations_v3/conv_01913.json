@@ -1,0 +1,61 @@
+{
+  "id": "conv_01913",
+  "context": "Kenji helps Hiroshi-elder use the train station ticket machine.",
+  "purpose": "Adult patiently helping elder with tech.",
+  "ambient": "station_machine_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "切符",
+    "駅",
+    "行き先",
+    "機械"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "この機械、わからん。",
+      "en": "This machine doesn't make sense to me.",
+      "style": "Soft, genuinely puzzled. A slight chuckle underneath—not self-deprecating, just honest. Warm drawl, unhurried. Kansai lilt on the vowels.",
+      "mood": "gently_confused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おとうさん、行き先押して。",
+      "en": "Dad, you just press the destination button.",
+      "style": "Patient, gentle instruction. Warm without being patronizing. Kansai cadence, slight lilt upward at the end—more offering than correcting. Speaking as someone who's explained this before and will again.",
+      "mood": "patient_affectionate"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、これか?",
+      "en": "Oh, this one here?",
+      "style": "Quick realization, soft and wondering. A tiny uptick of hope in the voice. Reaches for understanding. Kansai musicality. Not rushed—he's checking, genuinely.",
+      "mood": "tentative_hopeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう、切符出るで。",
+      "en": "Yeah, that's it—ticket comes right out.",
+      "style": "Warm confirmation, almost encouraging. Kansai warmth threaded through. Light, reassuring. The tone of someone watching something click into place and being quietly pleased about it.",
+      "mood": "warmly_encouraging"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おおきに、助かるわ。",
+      "en": "Thanks, you saved me there.",
+      "style": "Genuine gratitude, unhurried. Soft Kansai drawl. A little relief in there—not from the ticket, from being helped. Warm, without fussing. The kind of thanks that means something.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

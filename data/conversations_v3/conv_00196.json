@@ -1,0 +1,69 @@
+{
+  "id": "conv_00196",
+  "context": "Sakura goes to the doctor by herself for the first time, for a minor cold. Dr. Saito treats her seriously like a young adult.",
+  "purpose": "rite-of-passage moment — being treated as a grown patient for the first time",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "一人",
+    "大丈夫",
+    "風邪",
+    "検査",
+    "心配"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、今日は一人で来たんですね。",
+      "en": "Sakura-san, you came alone today.",
+      "style": "Doctor warm respectful recognition, the adult-treatment audible in the cadence, soft real care threading throughout delivery.",
+      "mood": "respectfully-recognizing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、ちょっと風邪っぽくて。",
+      "en": "Yes, I think it might be a cold.",
+      "style": "Teen careful adult-attempting voice, the slight nervous self-management audible, soft real composure threading throughout.",
+      "mood": "composedly-adult"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "熱はどうですか。咳もある？",
+      "en": "How's your fever? Coughing too?",
+      "style": "Doctor professional warm questioning, the standard sequence held respectfully, soft real attention threading throughout delivery.",
+      "mood": "professionally-attentive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "熱は微熱、咳が少し。",
+      "en": "Slight fever, a little cough.",
+      "style": "Teen composed adult-clinical report, the careful precise answering, soft real maturity threading throughout delivery throughout.",
+      "mood": "precisely-composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫そうですね。お薬出しますね。",
+      "en": "You'll be alright. I'll prescribe some medicine.",
+      "style": "Doctor warm reassuring conclusion, the gentle professional clarity, soft real reassurance threading throughout delivery.",
+      "mood": "warmly-reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。安心しました。",
+      "en": "Thank you. I feel relieved.",
+      "style": "Teen warm grateful adult-closing, the relief audible underneath, soft real maturity threading throughout delivery throughout.",
+      "mood": "gratefully-mature"
+    }
+  ]
+}

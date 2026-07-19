@@ -1,0 +1,72 @@
+{
+  "id": "conv_04293",
+  "context": "A police officer briefs a teen reporter on a border issue",
+  "purpose": "Teach: 厚生省/秘書/開幕/食糧/原油/入国/懇談/刊行",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "厚生省",
+    "秘書",
+    "開幕",
+    "食糧",
+    "原油",
+    "入国",
+    "懇談",
+    "刊行"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日は懇談の場を設けてくれてありがとう。国境付近の入国管理について話そう。",
+      "en": "Thanks for setting up this meeting today. Let's talk about immigration control near the border.",
+      "style": "Formal, measured tone with official briefing cadence."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします。学校新聞の刊行に向けて、現場の声を聞きたくて来ました。",
+      "en": "Thank you for having me. I came to hear frontline voices for our school paper's next issue.",
+      "style": "Polite, eager teenager addressing an authority figure respectfully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今年は原油の輸送ルートが変わって、密輸の通報が開幕からずっと増えているんだ。",
+      "en": "This year the crude oil shipping routes shifted, and smuggling reports have risen since the season opened.",
+      "style": "Informative and slightly grave tone explaining background to a young listener."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "食糧の不正な持ち込みも問題になっていると聞きました。健康への影響はどうですか？",
+      "en": "I heard illegal food imports are also becoming an issue. What about the health impact?",
+      "style": "Inquisitive, journalistic, follow-up question style, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "厚生省と連携して検査を強化している。大臣の秘書からも先週、直接指示が下りた。",
+      "en": "We're strengthening inspections in coordination with the Ministry of Health. The minister's secretary issued direct instructions last week.",
+      "style": "Authoritative, bureaucratic register conveying institutional weight."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そうなんですね。読者にもわかりやすく伝えられるよう、しっかりメモを取ります。",
+      "en": "I see. I'll take careful notes so I can explain it clearly to our readers.",
+      "style": "Earnest, attentive teenage tone showing professional intent."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "うん、若い世代に正しく届くといい。質問があれば、いつでも署に連絡してくれ。",
+      "en": "Yeah, I hope it reaches the younger generation accurately. Contact the station anytime if you have questions.",
+      "style": "Warmer closing tone, paternal encouragement from officer."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03424",
+  "context": "Planning a school field trip to the museum",
+  "purpose": "Plan a school trip; teach 国立/千葉/２月/８月/１０月/１２月/男女/３つ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国立",
+    "千葉",
+    "２月",
+    "８月",
+    "１０月",
+    "１２月",
+    "男女",
+    "３つ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_172)",
+    "generated_at": "2026-05-31T21:41:10.917Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "学校の社会見学先に、国立美術館はどうでしょう。",
+      "en": "For the school field trip, how about the national museum?",
+      "style": "planner proposing politely, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "千葉の本館、設備も整っていますね。",
+      "en": "The Chiba main building is well equipped too.",
+      "style": "manager endorsing, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "２月か８月、どちらの展示が学習向きですか？",
+      "en": "February or August — which show suits learning?",
+      "style": "planner weighing options, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "１０月の歴史展も、教科書と関連します。",
+      "en": "October’s history show ties to the textbook too.",
+      "style": "manager offering an alternative, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "１２月は混むので、避けたいですね。",
+      "en": "December gets crowded, so I’d avoid it.",
+      "style": "cautious planner ruling out, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "男女別の班分けで、効率よく回れます。",
+      "en": "Splitting by gender keeps the tour efficient.",
+      "style": "manager suggesting logistics, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "３つの展示室を、半日で巡れますよ。",
+      "en": "You can cover three rooms in half a day.",
+      "style": "planner confirming feasibility, each word carrying genuine natural feeling"
+    }
+  ]
+}

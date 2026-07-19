@@ -1,0 +1,75 @@
+{
+  "id": "conv_02441",
+  "context": "Disaster news: Sakura and Ren report on an earthquake.",
+  "purpose": "WIDENED SCENARIO: news report; formal causal connectives (による/により/に対する) in natural home.",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "による",
+    "により",
+    "に対する",
+    "発生",
+    "下さい"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_123)",
+    "generated_at": "2026-05-29T12:47:34.257Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "今朝、強い地震が発生しました。",
+      "en": "A strong earthquake occurred this morning.",
+      "style": "crisp adult anchor voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地震による被害は、出ていますか?",
+      "en": "Is there damage from the earthquake?",
+      "style": "measured young reporter voice, soft warm serious focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一部の地域に、被害が出ています。",
+      "en": "There is damage in some areas.",
+      "style": "clear adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "専門家により、注意が呼びかけられています。",
+      "en": "Experts are calling for caution.",
+      "style": "serious young reporter voice, soft warm focused delivery throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "建物に対する点検も、始まりました。",
+      "en": "Inspections of buildings have also begun.",
+      "style": "professional adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "余震による危険も、続いています。",
+      "en": "Danger from aftershocks also continues.",
+      "style": "measured young reporter voice, soft warm serious focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "海の近くには、近づかないで下さい。",
+      "en": "Please don't approach the coast.",
+      "style": "firm adult anchor voice, soft warm urgent caring clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最新の情報に、注意して下さい。",
+      "en": "Please pay attention to the latest information.",
+      "style": "serious young reporter voice, soft warm urgent caring delivery throughout"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04831",
+  "context": "A teacher walks a uni student through a research framing exercise",
+  "purpose": "Teach: 因果/国交/アスベスト/ウィルス/参戦/周期/モダン/効用",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "因果",
+    "国交",
+    "アスベスト",
+    "ウィルス",
+    "参戦",
+    "周期",
+    "モダン",
+    "効用"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日は研究テーマの枠組みを一緒に整えましょう。まず、何と何の因果関係を調べたいの？",
+      "en": "Today let's organize your research framework together. First, what causal relationship do you want to investigate?",
+      "style": "Warm guiding teacher tone, slow and inviting collaboration."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦後の国交回復が、地方経済にどう影響したかを見たいんです。ただ、範囲が広すぎて。",
+      "en": "I want to see how postwar diplomatic normalization affected the regional economy. But the scope feels too broad.",
+      "style": "Earnest student voice, slightly anxious but motivated to refine."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほどね。じゃあ景気の周期と一緒に見ると、変動が捉えやすくなるわよ。",
+      "en": "I see. If you look at it alongside the business cycle, the fluctuations become easier to capture.",
+      "style": "Encouraging academic suggestion, calm and methodical pacing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、それいいですね。実は当時のアスベスト輸入量も指標として重ねてみたくて。",
+      "en": "Oh, that sounds great. Actually I also wanted to overlay the asbestos import volume of that era as an indicator.",
+      "style": "Excited realization, voice brightening with new connection."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白い視点ね。でも変数を増やしすぎると、後年のコンピュータウィルス騒動みたいな外的ノイズに説明が引っ張られるわよ。",
+      "en": "Interesting angle. But if you add too many variables, external noise like later computer virus scares will dominate your explanation.",
+      "style": "Gentle academic caution, raising methodological concern thoughtfully."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに。じゃあ僕は建築のモダン化が地域にもたらした効用に絞って、学会に参戦してみます。",
+      "en": "True. Then I'll narrow it to the utility that architectural modernization brought to the region, and step into the conference circuit.",
+      "style": "Determined student making a decision, settling on a direction."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい絞り方ね。来週までに先行研究を三本、要約して持ってきてちょうだい。",
+      "en": "That's a good way to narrow it down. By next week, please summarize three prior studies and bring them.",
+      "style": "Polite but firm assignment, closing the meeting with clear next steps."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、頑張ります。先生、本当にありがとうございました。",
+      "en": "Yes, I'll do my best. Sensei, thank you so very much.",
+      "style": "Grateful student bow in voice, sincere and slightly relieved."
+    }
+  ]
+}

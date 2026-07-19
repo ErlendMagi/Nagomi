@@ -1,0 +1,75 @@
+{
+  "id": "conv_02559",
+  "context": "Kenji and Yuki troubleshoot a homepage login.",
+  "purpose": "WIDENED SCENARIO: web help; site vocabulary (ホームページ/トップ/入る/ところが) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ホームページ",
+    "トップ",
+    "入る",
+    "ところが",
+    "そのもの"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_128)",
+    "generated_at": "2026-05-29T13:08:48.299Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "ホームページに、入れないんです。",
+      "en": "I can't get into the homepage.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "トップは、表示されていますか?",
+      "en": "Is the top page showing?",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "トップは出ます。ところが、先に進めなくて。",
+      "en": "The top shows. But I can't go further.",
+      "style": "frustrated office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ホームページそのものは、正常です。",
+      "en": "The homepage itself is fine.",
+      "style": "analytical office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では、なぜ入れないんでしょう?",
+      "en": "Then why can't I get in?",
+      "style": "curious office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "パスワードそのものを、確認しましょう。",
+      "en": "Let's check the password itself.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "直したら、無事に入れました!",
+      "en": "After fixing it, I got in fine!",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "トップから、もう全部使えますよ。",
+      "en": "From the top page, you can use everything now.",
+      "style": "reassuring office man voice, soft warm closing throughout"
+    }
+  ]
+}

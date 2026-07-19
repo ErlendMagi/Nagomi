@@ -1,0 +1,72 @@
+{
+  "id": "conv_05618",
+  "context": "A uni student helps a teen friend plan a cultural day",
+  "purpose": "Teach: 餃子/バッハ/フォーク/試写/制服/中旬/体操/カ所",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "餃子",
+    "バッハ",
+    "フォーク",
+    "試写",
+    "制服",
+    "中旬",
+    "体操",
+    "カ所"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_282 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、月末の試写会、行きたいんですけど予約難しいって。",
+      "en": "Senpai, there's a screening at the end of the month I want to go to, but getting a reservation sounds really hard.",
+      "style": "Quick, eager pitch leaning forward slightly. Hopeful but realistic about the obstacle. Light breathiness on 'really hard'—seeking validation that it's not just her.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "中旬から先行販売あるぞ。先に押さえよう。",
+      "en": "They've got an early-bird sale starting mid-month. Let's grab tickets before they sell out.",
+      "style": "Practical, problem-solving tone. Slight lift of confidence at 'early-bird'—the revelation of a solution. Not flashy, just matter-of-fact and steady.",
+      "mood": "helpful_assured"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "帰りに、近所の餃子屋で食事しません?",
+      "en": "After, want to grab gyoza at that place nearby?",
+      "style": "Lighter turn, almost conspiratorial. Testing—phrased as a real question, not assumption. Gentle rhythm, slight pause before 'nearby' like she's picturing it.",
+      "mood": "playful_tentative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いいね。バッハのカフェも近くだから、寄ろう。",
+      "en": "Yeah, that works. There's a Bach-themed cafe close by too—we could stop in.",
+      "style": "Relaxed agreement flowing into an offer. Warm, easy. Slight emphasis on 'Bach-themed' like sharing a small discovery. Pace steady, no rush.",
+      "mood": "warm_open"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "フォークで食べるパスタもあるって。制服でも入れるかな。",
+      "en": "They have pasta too, the kind you eat with a fork. Do you think I can go in my uniform?",
+      "style": "Genuine small worry underneath casual phrasing. Slight self-consciousness on 'uniform'—a moment of real uncertainty. Otherwise natural, conversational rhythm.",
+      "mood": "uncertain_pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "体操後の汗を流してから、駅前のカ所で待ち合わせな。",
+      "en": "After your gym shower, meet me at the station entrance—you know the spot.",
+      "style": "Intimate, practical ease. Implies shared knowledge and routine. Warm close, not rushed. Slight settling tone on 'you know the spot'—the assumption of understanding between them.",
+      "mood": "warm_familiar"
+    }
+  ]
+}

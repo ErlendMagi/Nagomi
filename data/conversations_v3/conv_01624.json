@@ -1,0 +1,61 @@
+{
+  "id": "conv_01624",
+  "context": "Kenji and Hiroshi-elder visit a small graveyard at dusk.",
+  "purpose": "Friend supporting elder during quiet memorial visit.",
+  "ambient": "graveyard_dusk_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "墓",
+    "香",
+    "想い出",
+    "静か"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_081)",
+    "generated_at": "2026-05-27T06:50:51.012Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "墓参り、ありがとうな。",
+      "en": "Thank you for coming to the grave.",
+      "style": "Measured, unhurried opening. Warm and grateful, but restrained—the gratitude of someone who knows words are small next to the gesture. Soft breath, as if speaking in a place that asks for quiet.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おとうさん、当然です。",
+      "en": "Of course, Father.",
+      "style": "Quiet and steady. No flourish—just the simple warmth of a son who understands this is what you do. Respectful not through formality but through genuine care.",
+      "mood": "dutiful_warm"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "線香、立てよか。",
+      "en": "Should I light the incense?",
+      "style": "Gentle inquiry, spoken as ritual rather than question. Unhurried, reverent pace. The voice of someone moving through this moment with presence, not hurry.",
+      "mood": "reverent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、お手伝いします。",
+      "en": "Yes—I'll help with that.",
+      "style": "Steady and sure. A small offer of presence. No rush. The tone of someone who's learned that help means being there, not taking over.",
+      "mood": "present_willing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "静かな夕方、ええなぁ。",
+      "en": "A quiet evening like this—it's good.",
+      "style": "Settled and reflective. Long, easy breath. Speaking not to convince but to notice aloud—the contentment of someone at peace in a moment of stillness. Slight trailing-off, as if the thought continues beyond words.",
+      "mood": "peaceful_reflective"
+    }
+  ]
+}

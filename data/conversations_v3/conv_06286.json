@@ -1,0 +1,86 @@
+{
+  "id": "conv_06286",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: こみ/削る/利く/扱える/照らさ/考え直し/挙がっ/緩め",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "こみ",
+    "削る",
+    "利く",
+    "扱える",
+    "照らさ",
+    "考え直し",
+    "挙がっ",
+    "緩め"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_316 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "駅のラッシュ、人こみ、避けて移動しろ。",
+      "en": "Avoid the station crowds when moving around.",
+      "style": "Clipped, direct. Gives the instruction without preamble. Calm authority. Eye-contact level. No waste.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経費、無駄な項目、削るよう、見直しました。",
+      "en": "Yes. I've reviewed the expenses and trimmed the wasteful items.",
+      "style": "Steady, methodical delivery. Each phrase lands clearly. Slight pause between items to show work done. Respectful attention — looking at or near Hiroshi.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "彼の交渉力、よく利くな。",
+      "en": "His negotiation skills are working well.",
+      "style": "Observant, almost to himself. Light appreciation in the tone. Not quite praise — more accurate assessment. Slight nod in the voice.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。多言語が扱える社員、貴重です。",
+      "en": "Yes. Multi-lingual staff members are quite valuable.",
+      "style": "Agreement without embellishment. Warm undertone — genuine, not flattering. Brief, letting the observation stand on its own merit.",
+      "mood": "warm_agreement"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料、ライトで照らさないと、読めないな。",
+      "en": "I can't read the materials without proper lighting.",
+      "style": "Matter-of-fact observation. Slight frustration — not at Kenji, at the situation. Practical problem-solving tone. Pause before the conclusion.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。決定、もう一度、考え直しましょうか。",
+      "en": "Yes. Should we reconsider the decision once more?",
+      "style": "Checking in rather than assuming. Gentle offer of revision. Soft on the question mark — inviting input, not demanding. Respectful pause.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "問題、また挙がってきたか?",
+      "en": "Are we running into problems again?",
+      "style": "Calm inquiry. No irritation — pattern recognition. Slight sigh underneath. Expects an answer. Direct but not sharp.",
+      "mood": "weary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。締め切り、緩めに設定し直します。",
+      "en": "Yes. I'll reset the deadlines with more flexibility.",
+      "style": "Decisive commitment. Shows he's heard and is moving to action. Quiet confidence. Slight lift at the end — readiness to proceed.",
+      "mood": "resolute"
+    }
+  ]
+}

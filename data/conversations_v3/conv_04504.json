@@ -1,0 +1,72 @@
+{
+  "id": "conv_04504",
+  "context": "A uni student gives life advice to his teen friend",
+  "purpose": "Teach: 望み/すこし/かぎり/幼い/ボケ/ゆとり/せいぜい/独り言",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "望み",
+    "すこし",
+    "かぎり",
+    "幼い",
+    "ボケ",
+    "ゆとり",
+    "せいぜい",
+    "独り言"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、ちょっと聞いてください。最近、将来の望みが全然わからなくて…",
+      "en": "Senpai, listen for a sec. Lately I have no idea what my hopes for the future even are.",
+      "style": "Hesitant teen voice, slightly downcast, seeking advice from an older friend."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ああ、わかるよ。俺もすこし前まで同じ感じだったから。",
+      "en": "Ah, I get it. I felt the exact same way until a little while ago.",
+      "style": "Warm, casual uni-student tone, relaxed and reassuring throughout the reply."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "でも、先輩は幼い頃から夢があったでしょう?私にはそれがないんです。",
+      "en": "But senpai, you've had a dream since you were little, right? I don't have anything like that.",
+      "style": "Slightly envious, vulnerable teenage tone with a quiet sigh."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いや、俺の知るかぎり、十代で夢が決まってる奴なんてほぼいないって。",
+      "en": "Nah, as far as I know, almost no one in their teens has their dream figured out.",
+      "style": "Confident but gentle, friendly upperclassman energy with a small chuckle."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "焦らずに、心のゆとりを持つのが一番大事だよ。",
+      "en": "Don't rush it — having some breathing room in your heart is what matters most.",
+      "style": "Soft, advisory tone, almost philosophical delivery for a uni student."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そうですか…つい家で独り言ばっかり呟いちゃって、自分でもボケたのかなって思います。",
+      "en": "Really… I keep muttering to myself at home, and I'm starting to wonder if I've gone a bit dotty.",
+      "style": "Self-deprecating, half-joking teen voice with a small embarrassed laugh."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ははっ、それは考えすぎだって。今はせいぜい好きなことを試してみればいいんだよ。",
+      "en": "Haha, you're overthinking it. For now, just go ahead and try whatever you like — that's plenty.",
+      "style": "Laughing, encouraging, big-brotherly delivery with warm reassuring energy."
+    }
+  ]
+}

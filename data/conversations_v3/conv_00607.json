@@ -1,0 +1,62 @@
+{
+  "id": "conv_00607",
+  "context": "Sho visits Saito for a follow-up check.",
+  "purpose": "small medical-child ongoing relationship",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "健康",
+    "頑張る",
+    "ありがとう",
+    "一緒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_031)",
+    "generated_at": "2026-05-27T00:55:40.388Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、本当に、お元気そうで、安心。",
+      "en": "Sho-kun, you look wonderfully healthy. I'm so relieved.",
+      "style": "Warm, steady professional attention. A real smile underneath the words. Soft pace, unhurried—making room for the care she actually feels. The kind of doctor who slows down for the people she knows.",
+      "mood": "warm_relieved"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おかげさまで、ちゃんと、頑張ってます。",
+      "en": "Thanks to everyone. I'm working hard, like I should be.",
+      "style": "Quiet, earnest pride. Small voice but steady. A six-year-old who takes being okay seriously. Slight lift at the end—he's doing it right and he knows it.",
+      "mood": "proud_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さん、メイさん、ご家族、皆さん、お元気で。",
+      "en": "Your mother, Mei-san, your whole family—everyone's doing well?",
+      "style": "Gentle inquiry with real interest. Not checklist clinical, but genuinely asking about the people around him. Warm, unhurried. The small pause before 'everyone' lets the question breathe.",
+      "mood": "warm_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "皆、ひかりちゃんが、生まれて、すごく、嬉しい。",
+      "en": "Everyone's really happy since Hikari-chan was born.",
+      "style": "Bright with small-person joy. No performance—just genuine delight that spills out. The joy is in his voice more than the words. Soft and natural, like he can't help but share this.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "よかったね。ご家族、ずっと、繋がっていけて。",
+      "en": "I'm so glad. Your family stays connected through all of this.",
+      "style": "Closing warmth with quiet reflection. A gentle observation more than a statement. Slow, tender finish. The kind of thing an older person says when they've seen what matters.",
+      "mood": "tender_warm"
+    }
+  ]
+}

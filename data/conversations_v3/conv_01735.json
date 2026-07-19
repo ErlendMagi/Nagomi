@@ -1,0 +1,75 @@
+{
+  "id": "conv_01735",
+  "context": "Daichi has minor back pain; Saito advises rest and stretching.",
+  "purpose": "Doctor giving practical medical advice to friend.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "腰",
+    "痛い",
+    "休む",
+    "伸ばす"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "先生、腰、痛うてな。",
+      "en": "Doctor, my back's been killing me.",
+      "style": "Kansai warmth with an undertone of resignation. Gentle opening, slightly raspy on the complaint itself. Slow, deliberate pacing — not rushing the discomfort. A small sigh buried in the delivery.",
+      "mood": "weary_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつから、痛みますか?",
+      "en": "When did it start hurting?",
+      "style": "Clear, professional inquiry without coldness. Slight lean-forward in the voice — she's listening, not just checking boxes. Measured pace, genuine attention underneath the clinical question.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "三日前から、ずっと。",
+      "en": "Three days ago, and it hasn't let up.",
+      "style": "Kansai directness without complaint. Matter-of-fact tone — stating facts, not seeking sympathy. Steady pacing, slight heaviness on 'hasn't let up' as acknowledgment of duration.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "休んで、軽く伸ばしてください。",
+      "en": "Rest it and do some gentle stretching.",
+      "style": "Calm, assured without being authoritative. Slight emphasis on 'gentle' — protective phrasing, not commanding. Warm professional tone, the voice of someone who knows her patients need reassurance as much as instruction.",
+      "mood": "caring_professional"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "無理せん方がええんですね。",
+      "en": "So I shouldn't push it, then.",
+      "style": "Kansai man checking his understanding, quietly relieved. Slight uptilt at the end — affirmation-seeking but not anxious. Warm, genuine tone of someone accepting practical wisdom.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、一週間、様子見ましょう。",
+      "en": "Right. Let's monitor it over the next week.",
+      "style": "Gentle confidence. Steady, measured pacing — conveying stability and a clear path forward. Warmth underneath the professionalism. The reassurance of a plan.",
+      "mood": "steady_supportive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おおきに、助かります。",
+      "en": "Much obliged, Doctor. That helps.",
+      "style": "Kansai gratitude, genuine and unhurried. Warm closing, appreciative without effusiveness. Slight settling-back in the tone — relief and trust combined. Genuine small smile in the voice.",
+      "mood": "grateful"
+    }
+  ]
+}

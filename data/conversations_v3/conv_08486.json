@@ -1,0 +1,86 @@
+{
+  "id": "conv_08486",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 完売/手形/再販/増収/不問/別個/特産/海苔",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "完売",
+    "手形",
+    "再販",
+    "増収",
+    "不問",
+    "別個",
+    "特産",
+    "海苔"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_426 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新商品を完売しろ",
+      "en": "Sell out the new product line.",
+      "style": "Clipped authority. Decisive opening. No room for question. Command voice, not raised—just clear. Eyes steady on the recipient.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先の手形決済が確認されました",
+      "en": "Yes. We've confirmed the settlement with our partner on the bill of exchange.",
+      "style": "Respectful acknowledgment with quiet competence. Professional pace. Direct eye contact maintained throughout. Slight nod at the confirmation—assurance without overstepping.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "絶版商品の再販を検討しろ",
+      "en": "Look into re-releasing the out-of-print products.",
+      "style": "Measured directive. Weight behind each word. Slight forward lean—this matters. The tone of someone who knows what the market needs.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。今期は増収増益の見込みです",
+      "en": "Yes. We're forecasting increased revenue and profit for this fiscal year.",
+      "style": "Clear, steady update delivered without embellishment. Slight lift at the end—the numbers speak. Confident but not celebrating prematurely.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去の経歴は不問とし採用しろ",
+      "en": "Hire without regard to past employment history.",
+      "style": "Direct principle stated as fact. No hesitation. Authoritative but not harsh—this is how it will be. Brief, final, moving forward.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新事業を別個の法人で運営します",
+      "en": "Yes. We'll operate the new division as a separate corporation.",
+      "style": "Formal affirmation. Measured pace. The structure is sound—delivered with controlled precision. Acknowledging the scope of the decision.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地域特産品を商品ラインに加えろ",
+      "en": "Add local specialty products to our product line.",
+      "style": "Strategic instruction. Calm authority. Eyes engaged—this is about market expansion. Weight on the key directive without rushing.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海苔メーカーとの提携を進めております",
+      "en": "Yes. We're moving forward with a partnership with a nori manufacturer.",
+      "style": "Closing status report. Measured and clear. Slight sense of momentum—progress is underway. Professional finality, slightly warmer than the previous updates.",
+      "mood": "progressing"
+    }
+  ]
+}

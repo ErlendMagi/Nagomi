@@ -1,0 +1,76 @@
+{
+  "id": "conv_00881",
+  "context": "Mrs. Mori formally thanks Sachiko for years of friendship.",
+  "purpose": "two-elderly-women recognition exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "認める",
+    "友人",
+    "一緒",
+    "感謝",
+    "大切"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "佐知子さん、認めること、ある。",
+      "en": "Sachiko-san, there's something I need to say.",
+      "style": "Soft opening, gathering words with quiet intention. Warm but serious — the kind of voice that signals this matters. Steady gaze, almost vulnerable in its sincerity.",
+      "mood": "tender_sincere"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "何かしら？",
+      "en": "What is it?",
+      "style": "Open curiosity, leaning forward slightly. Attentive and warm — ready to listen, no defensiveness. Gentle questioning, like opening a door someone has knocked on.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "長い友人、ずっと、感謝してる。",
+      "en": "We've been friends for so long. I've always been grateful — truly grateful.",
+      "style": "Deliberate pacing, each phrase settling. Voice carries the weight of decades. Not rushed. Philosophical undertone — the kind of gratitude that's been sitting in the chest for years.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "こちらこそ、本当に。",
+      "en": "The same for me. So much.",
+      "style": "Matched warmth, equal in feeling. Voice thickens slightly — emotion present but not spilled. Affirming, tender. The 'so much' lingers as acknowledgment of shared time.",
+      "mood": "tender_reciprocal"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "一緒に、年取って、大切な思い出。",
+      "en": "Growing old together, building these precious memories — that's been one of life's great gifts.",
+      "style": "Reflective, slower tempo. Voice carries both gratitude and the quiet awe of looking back. Not heavy — luminous. The kind of delivery that makes time feel present in the room.",
+      "mood": "philosophical_tender"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "これからも、お互い、大切に。",
+      "en": "I hope we keep treasuring each other, for however long we have.",
+      "style": "Soft promise beneath the words. Warm but grounded — not sentimental, sincere. Slight pause before 'however long,' then gentle forward. Voice closes gently, like a door left ajar.",
+      "mood": "tender_promise"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "長く、お元気で。",
+      "en": "I hope you stay well for many years to come.",
+      "style": "Closing benediction — not grand, intimate. Voice quiets to almost whisper. Each word is a small gift. Trailing warmth, like a hand resting on a shoulder.",
+      "mood": "tender_farewell"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_11008",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 柏崎/佐野/矢野/松永/白石/吉岡/小松/亀井",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "柏崎",
+    "佐野",
+    "矢野",
+    "松永",
+    "白石",
+    "吉岡",
+    "小松",
+    "亀井"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_552 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、新潟県柏崎の原発研究の論文を読め",
+      "en": "Ren, read the paper on nuclear power research from Kashiwazaki, Niigata.",
+      "style": "Clipped, direct instruction. Flat authority—no warmth, no punishment. The tone of someone who expects competence and doesn't feel the need to convince.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。指導教授の佐野先生のご研究を継承します",
+      "en": "Yes, sir. I'll carry forward Professor Sano's research.",
+      "style": "Quiet earnestness. Quick acceptance without hesitation. A respectful nod in the voice—not obsequious, but genuine commitment to the task ahead.",
+      "mood": "respectful_determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、共同研究の矢野先生に研究照会しろ",
+      "en": "Ren, contact Professor Yano about the collaborative research.",
+      "style": "Same clipped cadence as before. A task assigned, not debated. Slight pause after the name—letting it land as the next concrete step.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会で松永助教のご発表を聴きます",
+      "en": "Yes, sir. I'll attend the conference and listen to Assistant Professor Matsunaga's presentation.",
+      "style": "Slightly lifted energy—he's already thinking ahead to the conference. Still formal, but there's a note of active purpose underneath the deference.",
+      "mood": "focused_engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、文献の白石先生のご論文も参考にしろ",
+      "en": "Ren, reference Professor Shiraishi's paper in the literature as well.",
+      "style": "The same measured instruction—adding to the list, not reconsidering it. No inflection of doubt. Hiroshi expects this will be done.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室の吉岡先輩からご指導を仰ぎます",
+      "en": "Yes, sir. I'll seek guidance from Yoshioka, a senior member in the lab.",
+      "style": "Polite acceptance again. A slight slowing on 「仰ぎます」—he's acknowledging the humility of asking for help, which is the right tone for this formal context.",
+      "mood": "humble_diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、海外連携の小松教授と打ち合わせしろ",
+      "en": "Ren, coordinate a meeting with Professor Komatsumoto from the international partnership.",
+      "style": "Returning to the directive voice. Clear, unbending. This is the kind of task that requires initiative—Hiroshi trusts Ren will handle it.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の窓口、亀井事務官に申請します",
+      "en": "Yes, sir. I'll submit the application to Kamei, the administrative officer, for research funding.",
+      "style": "The final confirmation. A touch more weight on this one—it's the practical closing step. Still respectful, but with a sense of having absorbed the whole chain of action.",
+      "mood": "resolute_closure"
+    }
+  ]
+}

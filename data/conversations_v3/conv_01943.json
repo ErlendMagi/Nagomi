@@ -1,0 +1,61 @@
+{
+  "id": "conv_01943",
+  "context": "Riku-teen helps Hina-young carry her heavy school books.",
+  "purpose": "Older teen offering practical help to younger.",
+  "ambient": "school_corridor_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "重い",
+    "手伝う",
+    "助かる"
+  ],
+  "cast": [
+    "riku_teen",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "陸くん、本、重い!",
+      "en": "Riku, these books are so heavy!",
+      "style": "Bright, unselfconscious call across a short distance. Genuine strain on the words 'heavy' — not exaggerating, just stating the obvious fact. Quick, unguarded.",
+      "mood": "playful_strained"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "手伝うで、貸して!",
+      "en": "Here, let me take those.",
+      "style": "Immediate offer, no hesitation. Warm and easy — this is what you do for someone. Light upturn at the end, like rolling up sleeves.",
+      "mood": "helpful_natural"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、助かる。",
+      "en": "Thanks, you're a lifesaver.",
+      "style": "Genuine relief in the breath. Grateful but not over-the-top. Soft landing on the final word, like she's already feeling lighter.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "こんな量、毎日?",
+      "en": "You carry this much every single day?",
+      "style": "Slight disbelief. Warm concern underneath. The question lands with gentle weight — not mocking, actually noticing. A beat of pause before the question.",
+      "mood": "concerned_surprised"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、勉強多い。",
+      "en": "Yeah, there's a lot to study for.",
+      "style": "Matter-of-fact acceptance tinged with quiet tiredness. Not complaining, just stating how things are. Slight exhale woven into the middle of the sentence.",
+      "mood": "resigned_earnest"
+    }
+  ]
+}

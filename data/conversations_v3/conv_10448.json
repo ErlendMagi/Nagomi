@@ -1,0 +1,86 @@
+{
+  "id": "conv_10448",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: キロメートル/秒間/車掌/電柱/ノース/サウス/サッシ/リール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "キロメートル",
+    "秒間",
+    "車掌",
+    "電柱",
+    "ノース",
+    "サウス",
+    "サッシ",
+    "リール"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_524 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究対象地までの距離をキロメートルで記せ",
+      "en": "Ren — record the distance to the research site in kilometers.",
+      "style": "Direct, measured tone. Brief and authoritative without harshness. Expectation of compliance — not a question. Steady eye contact, slight forward lean.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験の秒間サンプリングを徹底します",
+      "en": "Yes. I'll ensure we stick to precise sampling at one-second intervals.",
+      "style": "Prompt, eager compliance. Slight breathiness from concentration. Standing a bit straighter. The tone of someone wanting to prove they've understood exactly.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、鉄道輸送の車掌役割の研究を読め",
+      "en": "Ren — read the research on the conductor's role in rail transport operations.",
+      "style": "Same measured authority. Slight pause before the task — not rushed. Clear expectation. The voice of someone delegating because they believe the person can do it.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。送電網の電柱配置の論文を読みます",
+      "en": "Yes. I'll read through the papers on power grid pole placement.",
+      "style": "Quick affirmation. Slightly uncertain—he's registering that this is different from what he expected, but committing anyway. No hesitation in the voice, just a micro-pause internally.",
+      "mood": "compliant_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、北極研究のノース極隊と連絡を取れ",
+      "en": "Ren — contact the Arctic Research team to coordinate.",
+      "style": "Same steady command. Matter-of-fact. The phrasing is clear; the expectation is clear. No inflection that softens it.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。南極研究のサウス極隊の論文を読みます",
+      "en": "Yes. I'll review the Antarctic Research team's publications.",
+      "style": "Acceptance without full comprehension. He's doing what's asked, but there's a slight flatness now — polite, attentive, but internally noting the mismatch.",
+      "mood": "polite_confused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室のサッシ気密性を確認しろ",
+      "en": "Ren — check the airtightness of the window seals in the lab.",
+      "style": "Crisp, practical instruction. No embellishment. The tone of routine maintenance paired with quiet authority. Direct as before.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。撮影機材のリール調整を整えます",
+      "en": "Yes. I'll adjust and set the camera equipment reels.",
+      "style": "Final compliance. Slight weariness now—not exhaustion, but the accumulation of mismatched instructions. Quiet, steady. He's still performing correctly, but the mask is thinner.",
+      "mood": "compliant_weary"
+    }
+  ]
+}

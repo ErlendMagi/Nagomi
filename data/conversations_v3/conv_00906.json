@@ -1,0 +1,76 @@
+{
+  "id": "conv_00906",
+  "context": "Hiroshi reviews the company's communication system upgrade.",
+  "purpose": "boss-subordinate communication-system exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "通信",
+    "システム",
+    "一緒",
+    "考える",
+    "対策"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_046)",
+    "generated_at": "2026-05-27T02:46:28.251Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、通信、不安定、聞いてる。",
+      "en": "Kenji. Communication's unstable. Are you hearing me?",
+      "style": "Sharp, direct opening. Composed authority—not raised, but penetrating. Clipped pacing. Eyes level. The tone of someone accustomed to being listened to.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、システム、見直しが、必要です。",
+      "en": "Yes. The system needs a thorough review.",
+      "style": "Respectful but steady. No flinch—he's met the gaze. Warm undertone beneath the formality. Measured delivery, professional but not distant. The tone of someone who knows what needs doing.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "対策、急げ。客先、影響、出る。",
+      "en": "Move fast on this. It's already affecting the client.",
+      "style": "Sharper now. No buffer language. Each phrase lands with weight. Slight lean forward on 'already affecting.' The urgency is real but controlled—no panic, just clarity about stakes.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今週中に、案、まとめます。",
+      "en": "I'll have a full plan pulled together by end of week.",
+      "style": "Lean in slightly. Quiet assurance in the voice—not overselling, just stating what will happen. Steady rhythm. No hesitation on the commitment.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、考えよう、根本から。",
+      "en": "Let's work through this together. From the ground up.",
+      "style": "Slight shift—warmer now, but still measured. The command relaxes into collaboration. Thoughtful pace. Weight on 'together' like he means it. A door opening.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます、頑張ります。",
+      "en": "Thank you. I won't let you down.",
+      "style": "Genuine gratitude—no performance. Quiet and firm. The 'I won't let you down' lands with real conviction, not desperation. Brief pause before the commitment.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。",
+      "en": "I'm counting on you.",
+      "style": "Final, brief. Warm note underneath the firmness—he trusts. Let it land. No elaboration needed. Slight nod implicit in the delivery.",
+      "mood": "trusting"
+    }
+  ]
+}

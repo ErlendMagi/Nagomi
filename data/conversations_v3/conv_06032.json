@@ -1,0 +1,79 @@
+{
+  "id": "conv_06032",
+  "context": "A doctor and reporter discuss epidemiology",
+  "purpose": "Teach: 親善/発祥/庁舎/受動/刑罰/緊迫/牽引/症例",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "親善",
+    "発祥",
+    "庁舎",
+    "受動",
+    "刑罰",
+    "緊迫",
+    "牽引",
+    "症例"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_303 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、国際親善のプロジェクト、医療界でも盛んです。",
+      "en": "Ren, international-goodwill projects are thriving in medicine as well.",
+      "style": "Measured and clear, offering information as equals. Steady eye contact. No rush. The tone of someone who has seen enough to know what matters.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "発祥地での先進治療、研究進んでますね。",
+      "en": "The advanced treatments at the source — research is really moving forward there.",
+      "style": "Genuine curiosity breaking through slight hesitation. Soft emphasis on 「進んでます」 like he's thinking out loud. Leaning in slightly, engaged.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。県庁舎での会議、現場と直結します。",
+      "en": "Yes. The prefectural meetings — they connect directly to the work on the ground.",
+      "style": "Unhurried confirmation. Slight nod in the voice. Patient with his thinking, not explaining down. A door opening wider.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "受動的な治療から、能動的予防に切り替えていますね。",
+      "en": "So it's shifting from passive treatment to active prevention.",
+      "style": "Reflective restatement, checking his own understanding aloud. Thoughtful pause before speaking. Not quite a question, but open — inviting her to confirm or expand.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。医療刑罰の国際比較、倫理面でも論じられます。",
+      "en": "Right. International comparisons of medical ethics — they're being discussed and debated.",
+      "style": "Steady delivery of fact, but with quiet weight. Clear-eyed about the complexity. No simplification. The honesty of someone used to difficult conversations.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "緊迫した感染症対応、医療界が牽引するんですね。",
+      "en": "So urgent infectious-disease response — medicine is really leading that charge.",
+      "style": "Slight wonder underneath, recognising the weight of what he's naming. Careful articulation. The note of someone beginning to understand the scope of it.",
+      "mood": "realising"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。難症例にも、地道に取り組みます。",
+      "en": "Yes. Even the difficult cases — we work through them steadily.",
+      "style": "Quiet closing note of conviction. Slight fatigue underneath, but not despair. The voice of someone whose shoulders carry the work but whose resolve doesn't bend. Trailing softly into presence.",
+      "mood": "steady_resolve"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07789",
+  "context": "Officer briefs",
+  "purpose": "Teach: 書面/代理人/不調/派閥/期末/行き先/続行/後押し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "書面",
+    "代理人",
+    "不調",
+    "派閥",
+    "期末",
+    "行き先",
+    "続行",
+    "後押し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_391 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、書面、絶対、で、絶対、通達、絶対、いたします、本気で、感謝",
+      "en": "We'll make sure you receive the written statement officially. Thank you for your patience.",
+      "style": "Professional, measured. Formal opening. Clear enunciation on key procedural words. Steady pace, reassuring without being warm. The voice of someone who has said this many times and means it each time.",
+      "mood": "professional_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者の、本気で、絶対、代理人、絶対、警察、絶対、対応中ですね、本気で、感謝",
+      "en": "Yes. We're handling the suspect's representation through proper police channels.",
+      "style": "Attentive, cooperative. Slight nod in the voice on the opening 'Yes.' Matching Takeda's measured pace. Demonstrating he's following and engaged without overdoing it.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "通信機器の、本気で、絶対、不調、絶対、警察、絶対、対応中です、本気で、感謝",
+      "en": "The communication equipment issue — we're working on that right now.",
+      "style": "Even-toned, matter-of-fact. Brief pause after the dash, then matter-of-fact acknowledgment. No defensiveness. The voice of someone apologizing without performing an apology.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察内、本気で、絶対、派閥、絶対、なく、絶対、一丸、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. I appreciate that the department is coordinated — everyone working as one on this.",
+      "style": "Genuine respect in the tone. Warm but not effusive. Slight emphasis on 'coordinated' — he's noticed and it matters. Steady, collaborative energy.",
+      "mood": "grateful_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、期末、絶対、犯罪、絶対、統計、絶対、まとめております、本気で、感謝",
+      "en": "We're currently compiling the crime statistics for the end-of-period report.",
+      "style": "Procedural, slightly formal. Deliberate pacing on the transition to 'crime statistics.' Administrative, efficient. Not rushed but not lingering either.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、容疑者の、絶対、行き先、絶対、追跡中ですね、本気で、感謝",
+      "en": "Yes. We're actively tracking the suspect's movements and whereabouts.",
+      "style": "Engaged, professional. Slight emphasis on 'actively' to show diligence. Kenji's tone mirrors Takeda's earlier reassurance — confident without overstatement.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "捜査、本気で、絶対、続行、絶対、いたします、本気で、感謝",
+      "en": "The investigation will continue. Thank you for your thoroughness.",
+      "style": "Firm, resolved. Clean attack on 'investigation.' Steady, purposeful. Gratitude delivered as statement of fact, not apology. The voice of someone committed to follow-through.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害者支援、本気で、絶対、後押し、絶対、警察、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. We're grateful for the police department's support for the victims. It makes a real difference.",
+      "style": "Warm, sincere. Slight softening on 'grateful' — this one lands differently than the procedural points. Quiet conviction. The voice of someone who has seen what victim support actually means.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

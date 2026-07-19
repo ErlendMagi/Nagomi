@@ -1,0 +1,75 @@
+{
+  "id": "conv_02533",
+  "context": "Mom and daughter, a small favor at home.",
+  "purpose": "Casual home register reusing stragglers (おく/もらう/さえ/そのまま/箸) naturally.",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "おく",
+    "もらう",
+    "さえ",
+    "そのまま",
+    "箸"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_127)",
+    "generated_at": "2026-05-29T13:04:43.282Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お箸を、並べておいてくれる?",
+      "en": "Could you set out the chopsticks?",
+      "style": "gentle mother voice, soft warm caring asking throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、箸はそのままここに置くね。",
+      "en": "Yeah, I'll just leave the chopsticks here.",
+      "style": "cheerful adult daughter voice, soft warm relaxed throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お皿も、出しておいてもらえる?",
+      "en": "Could you get the plates out too?",
+      "style": "gentle mother voice, soft warm asking throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "手伝ってもらえると、助かるって?",
+      "en": "You mean it helps if I pitch in?",
+      "style": "playful adult daughter voice, soft warm teasing throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あなたさえいれば、すぐ終わるわ。",
+      "en": "With just you here, it's done in no time.",
+      "style": "warm mother voice, soft warm affectionate throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "箸は、そのまま左に置いておくね。",
+      "en": "I'll leave the chopsticks on the left as is.",
+      "style": "helpful adult daughter voice, soft warm relaxed throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "手伝ってもらって、ありがとう。",
+      "en": "Thanks for helping out.",
+      "style": "grateful mother voice, soft warm tender throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "声さえかけてくれれば、いつでもやるよ。",
+      "en": "Just say the word and I'll do it anytime.",
+      "style": "warm adult daughter voice, soft warm affectionate closing throughout"
+    }
+  ]
+}

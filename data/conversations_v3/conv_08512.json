@@ -1,0 +1,86 @@
+{
+  "id": "conv_08512",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 予見/告訴/蒸留/沈没/演算/概略/諜報/内政",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "予見",
+    "告訴",
+    "蒸留",
+    "沈没",
+    "演算",
+    "概略",
+    "諜報",
+    "内政"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_427 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、事件を予見されてましたか、というご質問ですね",
+      "en": "So you're saying the police had foreseen this case and the incident?",
+      "style": "Careful, methodical phrasing with slight upward lilt at the end. Genuinely seeking clarification, not challenging. Measured pace, the way someone talks when they're thinking aloud with an official.",
+      "mood": "curious_formal"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者からの告訴を受理しました",
+      "en": "The police have accepted a complaint from the victim.",
+      "style": "Level, official tone. Crisp delivery without coldness. Each phrase placed deliberately, like stating facts into a record. Professional but not distant.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、不法蒸留所の摘発を警察、進められてますね",
+      "en": "So the police are moving forward with the investigation into the illegal distillery operation.",
+      "style": "Quiet observation, almost thinking aloud. Testing the information, not doubting it. Slight pause before 'into' — making sure he has the thread right.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、漁船沈没事故の調査を継続しております",
+      "en": "The police are continuing our investigation into the fishing vessel sinking.",
+      "style": "Steady, no-nonsense. 'Continuing' carries the weight — this is ongoing, not settled. Eyes level. Calm authority without any need to perform it.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、データの演算ミスを警察、確認されたんですね",
+      "en": "And the police have confirmed the computational error in the data, then.",
+      "style": "Slightly surprised undertone, but contained. Checking his own understanding. Voice quieter on 'confirmed' — acknowledging the significance of that confirmation.",
+      "mood": "measured_surprised"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、事件の概略を記者会見で発表します",
+      "en": "The police will announce an outline of the case at a press conference.",
+      "style": "Formal, announced clearly. 'Will announce' lands with decision. No hesitation. The tone of someone moving to the next procedural step with full awareness of its weight.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、外国諜報活動を警察、警戒されてますね",
+      "en": "So the police are watching for foreign intelligence activity in this matter.",
+      "style": "Lowered voice, more serious. Less curiosity, more concern. Acknowledging the gravity of what he's learned. Steady eye contact level.",
+      "mood": "grave_attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、内政干渉の事案にも対応します",
+      "en": "The police will also respond to cases involving foreign interference in domestic affairs.",
+      "style": "Firm, authoritative. Slight emphasis on 'also' — broadening the scope. No room for misunderstanding. Professional, clear-eyed delivery of scope and commitment.",
+      "mood": "authoritative"
+    }
+  ]
+}

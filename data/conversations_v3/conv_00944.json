@@ -1,0 +1,76 @@
+{
+  "id": "conv_00944",
+  "context": "Saito advises Ryosuke about post-retirement health.",
+  "purpose": "doctor-patient retirement-health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_047)",
+    "generated_at": "2026-05-27T02:53:24.650Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、退職後、健康、注意ですよ。",
+      "en": "Ryosuke-san, retirement brings changes to your health. We need to be thoughtful about that.",
+      "style": "Warm and clear, the opening direct but softened by genuine care. Steady pace. Composure audible but not distant—a doctor speaking to someone she respects. The final clause lands gently, not as warning but as fact.",
+      "mood": "caring_steady"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、生活、変わりますね。",
+      "en": "Yes, life really does change when you stop working.",
+      "style": "Quiet acknowledgment, meeting her partway. A small pause after the opening, like he's felt the weight of it. Soft voice, thoughtful—not deflecting, genuinely considering. Gentle, almost grateful tone.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "運動、続ける、大切。",
+      "en": "Keeping up with exercise is what matters most.",
+      "style": "Clear emphasis on 「大切」 without pushing. Warm delivery, practical but not clinical. A slight lean forward in the voice—she's speaking from experience, not just protocol. Real conviction underneath the gentleness.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "優子と、毎日、散歩、します。",
+      "en": "Yumiko and I walk together every day.",
+      "style": "Small quiet pride in the sentence. The mention of his wife's name carries tenderness. Steady pace, present—he's already living this, not planning it. A man who has made a quiet commitment and means to keep it.",
+      "mood": "tender_committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素敵な習慣、ですね。",
+      "en": "That's a lovely habit to have.",
+      "style": "Genuine warmth in the recognition. A slight smile audible. Not patronising—she sees what he's built. The closing note holds a moment, like she's moved by the simplicity of it.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "一緒に、健康、保ちたい。",
+      "en": "I want to stay healthy together with her.",
+      "style": "Soft, almost private in its sincerity. The word 「一緒に」 carries the real weight—this is about the two of them, not just medical compliance. Voice gentle and steady. A quiet intention spoken aloud.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、いいですよ。",
+      "en": "Please come talk to me anytime—about anything.",
+      "style": "Warm closing, the door left open. Not formal despite the words. A slight soften on the final phrase, like she means it. The kind of permission that comes from someone who will actually answer when you call.",
+      "mood": "gentle_open"
+    }
+  ]
+}

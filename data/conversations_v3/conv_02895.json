@@ -1,0 +1,75 @@
+{
+  "id": "conv_02895",
+  "context": "Kenji shows Yuki a transit-info app.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (会談/信号/通知/視聴/路線) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "信号",
+    "通知",
+    "視聴",
+    "路線",
+    "会談"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_145)",
+    "generated_at": "2026-05-29T14:44:00.389Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この乗り換えアプリ、便利ですか?",
+      "en": "Is this transfer app handy?",
+      "style": "curious office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、路線を一目で示してくれます。",
+      "en": "Yes, it shows the routes at a glance.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "遅れの通知も、来るんですか?",
+      "en": "Do delay notifications come too?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、通知が、すぐに届きます。",
+      "en": "Yes, notifications arrive right away.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "路線図は、信号待ちでも見られますか?",
+      "en": "Can I view the route map while waiting at a light?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "信号待ちの間に、さっと確認できますよ。",
+      "en": "You can check quickly while at a signal.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ニュースの会談も、視聴できますか?",
+      "en": "Can I watch the news summit too?",
+      "style": "engaged office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会談の中継も、視聴できますよ。",
+      "en": "You can watch the summit broadcast too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

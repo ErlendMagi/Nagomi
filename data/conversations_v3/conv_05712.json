@@ -1,0 +1,65 @@
+{
+  "id": "conv_05712",
+  "context": "A doctor explains medical research to a reporter",
+  "purpose": "Teach: 無償/基調/結ば/保っ/欠ける/とらえる/所見/判っ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "無償",
+    "基調",
+    "結ば",
+    "保っ",
+    "欠ける",
+    "とらえる",
+    "所見",
+    "判っ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_287 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、当院の無償検診、地域貢献を基調にしています。",
+      "en": "Ren, our free screenings are grounded in community contribution.",
+      "style": "Clear, measured opening. Direct eye contact. Steady pace, no rush. The tone of someone who has explained this before and means it each time.",
+      "mood": "composed_direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療データ、患者の同意で結ばれた使用です。",
+      "en": "Medical data—used only with patient consent.",
+      "style": "Thoughtful pause before the dash. Quiet but not tentative. Testing the waters, wanting to understand the full picture. Slight lean forward.",
+      "mood": "probing_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。一定の品質を保って、研究側の所見も尊重します。",
+      "en": "Yes. We maintain quality standards and respect the researchers' observations too.",
+      "style": "Reassuring without condescension. Small nod on 'yes.' Warm but precise. The voice of someone balancing multiple stakeholders with steady hands.",
+      "mood": "patient_balanced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "人手が欠ける時期、現場の実態をとらえる難しさがありますね。",
+      "en": "During staffing shortages though, it's harder to actually see what's happening on the ground.",
+      "style": "Gentle observation, not complaint. Thoughtful pace, almost thinking aloud. Respect in the voice for the difficulty of the problem.",
+      "mood": "curious_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "判った点を、地道に共有しています。",
+      "en": "What we do understand, we share carefully.",
+      "style": "Quiet conviction. Slower tempo. Trailing weight on the final words, like a closing thought. Grounded, honest.",
+      "mood": "steady_resolved"
+    }
+  ]
+}

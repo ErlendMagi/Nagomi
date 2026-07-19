@@ -1,0 +1,75 @@
+{
+  "id": "conv_02840",
+  "context": "Ren reports a survey on resources to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (資源/アンケート/事前/人事/学部) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資源",
+    "アンケート",
+    "事前",
+    "人事",
+    "一言"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_142)",
+    "generated_at": "2026-05-29T14:30:17.368Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "資源の使い方について、調べました。",
+      "en": "I researched how resources are used.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "どう、調べたのかね?",
+      "en": "How did you research it?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "社員に、アンケートを取りました。",
+      "en": "I ran a questionnaire with employees.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "事前に、人事と相談したかね?",
+      "en": "Did you consult HR beforehand?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、事前に人事の許可を得ました。",
+      "en": "Yes, I got HR's permission in advance.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手の意見も、入っているかね?",
+      "en": "Are younger staff's views included?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "技術学部の出身者の声も、集めました。",
+      "en": "I gathered voices from engineering-faculty graduates too.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一言で言うと、資源は足りているのかね?",
+      "en": "In a word, are resources sufficient?",
+      "style": "decisive boss voice, soft warm inquiry closing throughout"
+    }
+  ]
+}

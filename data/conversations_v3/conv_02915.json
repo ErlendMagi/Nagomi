@@ -1,0 +1,75 @@
+{
+  "id": "conv_02915",
+  "context": "Yumiko and Sho tidy the kitchen.",
+  "purpose": "Casual home register; vocabulary (借り/置か/住む/流し/我が) in natural home.",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "借り",
+    "置か",
+    "住む",
+    "流し",
+    "我が"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_146)",
+    "generated_at": "2026-05-29T14:48:14.344Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お皿を、流しに置いてくれる?",
+      "en": "Can you put the dishes in the sink?",
+      "style": "gentle mother voice, soft warm caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん!流しがいっぱいだね。",
+      "en": "Yeah! The sink is full.",
+      "style": "cheerful small child voice, bright warm bouncing delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "コップは、棚に置いておいてね。",
+      "en": "Put the cups on the shelf.",
+      "style": "gentle mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "隣に住む子に、本を借りたんだ。",
+      "en": "I borrowed a book from the kid living next door.",
+      "style": "happy small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "借りた本は、大事にしてね。",
+      "en": "Take care of the borrowed book.",
+      "style": "warm mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "我が家、きれいになったね!",
+      "en": "Our house got clean!",
+      "style": "proud small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "流しを拭いたら、おしまいよ。",
+      "en": "Wipe the sink and we're done.",
+      "style": "gentle mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "本を、ちゃんと棚に置いたよ!",
+      "en": "I put the book on the shelf properly!",
+      "style": "cheerful small child voice, bright warm affectionate closing delivery throughout"
+    }
+  ]
+}

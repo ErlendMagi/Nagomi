@@ -1,0 +1,78 @@
+{
+  "id": "conv_03408",
+  "context": "Explaining palliative care",
+  "purpose": "Explain a treatment; teach 緩和/ニーズ/入院/制御/失っ/ショック/表面/確信",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "緩和",
+    "ニーズ",
+    "入院",
+    "制御",
+    "失っ",
+    "ショック",
+    "表面",
+    "確信"
+  ],
+  "cast": [
+    "sakura_teen",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "緩和ケアって、どんな治療ですか？",
+      "en": "What kind of treatment is palliative care?",
+      "style": "curious interviewer asking, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "痛みを和らげ、患者のニーズを優先します。",
+      "en": "We ease pain and prioritize patient needs.",
+      "style": "doctor explaining the philosophy, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "入院が必要な場合もありますか？",
+      "en": "Is hospitalization sometimes needed?",
+      "style": "interviewer probing, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。容体を制御しながら見守ります。",
+      "en": "Yes. We watch over them while controlling the condition.",
+      "style": "doctor detailing the approach, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "意識を失っても、対応できるんですか？",
+      "en": "Can you handle it if they lose consciousness?",
+      "style": "interviewer asking carefully, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "急変はショックですが、備えています。",
+      "en": "Sudden changes are a shock, but we’re prepared.",
+      "style": "doctor conveying readiness, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "皮膚の表面のケアも大事なんですね。",
+      "en": "Skin-surface care matters too, then.",
+      "style": "interviewer noting a detail, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうです。私たちは、治療に確信を持って臨みます。",
+      "en": "Yes. We approach treatment with conviction.",
+      "style": "doctor closing resolutely, delivery emotionally grounded and unforced"
+    }
+  ]
+}

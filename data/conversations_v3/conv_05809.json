@@ -1,0 +1,65 @@
+{
+  "id": "conv_05809",
+  "context": "A police officer briefs a corporate IT team",
+  "purpose": "Teach: 本田/石田/安田/川口/神田/大塚/野口/高木",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本田",
+    "石田",
+    "安田",
+    "川口",
+    "神田",
+    "大塚",
+    "野口",
+    "高木"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社IT統括の本田部長、ご挨拶ありがとうございました。",
+      "en": "Director Honda — thank you for welcoming us.",
+      "style": "Formal, measured opening. Slight nod in the voice. Professional warmth — acknowledging courtesy without overstating it. Steady pace, respectful eye-level.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。石田さん、安田さん、川口さんが、現場担当です。",
+      "en": "We appreciate that. Ishida, Yasuda, and Kawaguchi are our field coordinators.",
+      "style": "Clear and straightforward. Efficient — no wasted words. Light warmth underneath the professionalism. A small collaborative lean, not defensive.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "神田さん、大塚さん、データ管理、密に連絡を。",
+      "en": "Kanda and Otsuka — we'll need close communication on data management.",
+      "style": "Businesslike and direct. Slight emphasis on 「close」— this matters. Clipped pace. No ambiguity. Professional but not cold.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "野口さん、高木さんも、合同訓練に参加します。",
+      "en": "Noguchi and Takagi are joining the joint drills as well.",
+      "style": "Informative, steady delivery. Adding detail without fanfare. Matter-of-fact tone. Pace maintains the procedural momentum from the previous line.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お願いします。",
+      "en": "Thank you. We look forward to working with you.",
+      "style": "Respectful close. Slight bow in the voice — formal but genuine. Quiet confidence. Not rushed. Allows space for the exchange to settle.",
+      "mood": "grateful"
+    }
+  ]
+}

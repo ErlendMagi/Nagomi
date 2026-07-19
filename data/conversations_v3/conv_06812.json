@@ -1,0 +1,86 @@
+{
+  "id": "conv_06812",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 主治医/遺言/台頭/文科/担い手/陳情/微生物/消去",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主治医",
+    "遺言",
+    "台頭",
+    "文科",
+    "担い手",
+    "陳情",
+    "微生物",
+    "消去"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_342 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、被害者の主治医、証言、いただいております。",
+      "en": "We've received testimony from the victim's attending physician regarding this case.",
+      "style": "Measured, professional opening. Steady eye contact. Clipped but not rushed. The tone of someone who has delivered this information many times and means to be clear.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、遺言のような手記、現場に、残していたんですね。",
+      "en": "So the suspect left behind a kind of memoir at the scene — something like a will.",
+      "style": "Thoughtful pause before speaking. Genuine curiosity, not probing. Ren's mind working through the implications. Slight lean forward. Respectful, almost tentative.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域に、組織犯罪、台頭しております、最近。",
+      "en": "Yes. We've been seeing a rise in organized crime activity in the region lately.",
+      "style": "Matter-of-fact delivery. No inflection on the concerning content. Professional distance maintained. Brief, factual, the voice of someone reporting routine briefings.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "文科省、教育現場の犯罪対策、強化していますね。",
+      "en": "And the Ministry of Education has been strengthening crime prevention measures in schools.",
+      "style": "Observational, not challenging. Ren connecting information aloud, thinking alongside Takeda rather than asking. Quiet certainty in the observation.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域防犯の担い手として、自治会、活動されています。",
+      "en": "That's right. The neighbourhood association has been active as a key partner in local crime prevention.",
+      "style": "Confirmation with a touch of civic pride. Not defensive, but standing behind the work. Steady, informative. The professional acknowledging community effort.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "住民からの陳情、警察、丁寧に、対応されていますね。",
+      "en": "And the police have been responding to resident complaints with real care.",
+      "style": "Ren noticing something genuine. Soft admiration underneath. Not flattering — observing. A small brightness in the darker conversation.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。鑑識、微生物のレベルで、捜査、進めております。",
+      "en": "Yes. Our forensic investigation is advancing down to the microscopic level.",
+      "style": "Pride in precision without arrogance. Takeda indicating depth of work. Deliberate pacing — each phrase carries the weight of meticulous procedure.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証拠の消去、犯人の手口、巧妙化していますね、最近。",
+      "en": "Crime methods have been getting more sophisticated lately — evidence destruction especially.",
+      "style": "Ren's concern surfacing. Observational, almost worried. A closing reflection rather than a question. Slower pace, slight trailing thought.",
+      "mood": "concerned_observant"
+    }
+  ]
+}

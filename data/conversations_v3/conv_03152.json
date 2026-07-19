@@ -1,0 +1,75 @@
+{
+  "id": "conv_03152",
+  "context": "Ren reports a budget on cleanup to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (汚染/支出/経緯/失わ/向かう) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "汚染",
+    "支出",
+    "経緯",
+    "失わ",
+    "向かう"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_158)",
+    "generated_at": "2026-05-29T16:08:12.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "工場の汚染対策を、まとめました。",
+      "en": "I compiled the factory's pollution measures.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "汚染に至った経緯は、分かったかね?",
+      "en": "Did you find the process that led to pollution?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "経緯を、詳しく調べました。",
+      "en": "I investigated the process in detail.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "対策の支出は、どのくらいかね?",
+      "en": "How much is the spending on measures?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "支出は、来年度に計上します。",
+      "en": "We'll budget the spending next fiscal year.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "信用を、失わないようにな。",
+      "en": "Make sure we don't lose trust.",
+      "style": "firm boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "信用を失わず、改善に向かいます。",
+      "en": "Without losing trust, we'll head toward improvement.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "解決に向かう道を、示してくれ。",
+      "en": "Show the path toward resolution.",
+      "style": "warm boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

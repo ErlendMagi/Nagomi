@@ -1,0 +1,78 @@
+{
+  "id": "conv_04426",
+  "context": "A uni student interviews an engineer about product specs",
+  "purpose": "Teach: 実用/センチ/未満/ヵ月/インチ/記号/満載/ポンド",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "実用",
+    "センチ",
+    "未満",
+    "ヵ月",
+    "インチ",
+    "記号",
+    "満載",
+    "ポンド"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間ありがとうございます。新製品について伺いたいんですが、まずサイズを教えていただけますか？",
+      "en": "Thank you for your time today. I'd like to ask about the new product — could you start with the size?",
+      "style": "Polite formal interview opening with curious researcher tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、本体は約十五センチで、厚さは二インチ未満に抑えています。片手で扱える実用的な設計です。",
+      "en": "Yes, the body is about fifteen centimeters, and the thickness is kept under two inches. It's a practical design you can handle with one hand.",
+      "style": "Professional engineer explaining specs with measured confident delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。重量はどのくらいですか？海外向けの資料も見たいので、ポンド表記もあれば助かります。",
+      "en": "I see. How much does it weigh? Since I want to look at materials for overseas markets, having it in pounds would help.",
+      "style": "Inquisitive student following up with practical research-minded request"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "重さは約一・二ポンドですね。仕様書には単位記号も両方併記してありますよ。",
+      "en": "It weighs roughly 1.2 pounds. The spec sheet lists the unit symbols in both formats.",
+      "style": "Helpful engineer providing clear numerical answer with documentation reference"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "開発期間はどれくらいかかったんでしょうか？かなり機能が満載に見えますが。",
+      "en": "How long did development take? It looks like the product is packed with features.",
+      "style": "Impressed interviewer probing deeper with admiring observational tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "構想から発売まで、ちょうど十八ヵ月かかりました。チーム全員で議論を重ねた結果です。",
+      "en": "From concept to release, it took exactly eighteen months. It's the result of countless team discussions.",
+      "style": "Reflective engineer recalling project timeline with proud team-focused tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "十八ヵ月ですか。最後に、今後の展望を一言いただけますか？",
+      "en": "Eighteen months, wow. Lastly, could you share a word about your future outlook?",
+      "style": "Respectful closing question with formal interview-style wrap-up"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね、より多くの人の暮らしに役立つ製品を生み出していきたいです。",
+      "en": "Well, I'd like to keep creating products that genuinely help more people in their daily lives.",
+      "style": "Sincere closing statement with forward-looking aspirational warmth"
+    }
+  ]
+}

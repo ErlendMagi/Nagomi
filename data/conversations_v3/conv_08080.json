@@ -1,0 +1,86 @@
+{
+  "id": "conv_08080",
+  "context": "Mom and son chat",
+  "purpose": "Teach: カマ/ぽん/はいっ/よれ/たがら/辰/くろ/うぅ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "カマ",
+    "ぽん",
+    "はいっ",
+    "よれ",
+    "たがら",
+    "辰",
+    "くろ",
+    "うぅ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_405 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんちのカマ、立派だったわね",
+      "en": "Sho, Grandma's kiln was really something special, wasn't it.",
+      "style": "Warm, nostalgic exhale. Soft focus — she's remembering the visit, not addressing him directly. Gentle rhythm, like a thought shared aloud rather than a statement.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが、ぼくの肩、ぽんと叩いてくれたよ",
+      "en": "Dad gave me a tap on the shoulder, Mom.",
+      "style": "Bright, almost breathless — excitement bubbling just beneath. Quick syllables on the action. Watching her face to see if she understands how good it felt.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがはいって来たわよ",
+      "en": "Sho, Dad's just come in.",
+      "style": "Light, informational — she's not lecturing, just letting him know. Turned-toward-him, but gentle. The tone of a mother noticing something and passing it along.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくの体操服、よれちゃったよ",
+      "en": "Mom, I messed up my gym clothes.",
+      "style": "Matter-of-fact with an undertone of regret. Not quite apologetic — more like he's reporting an inevitability. Small voice, accepting his own bad luck.",
+      "mood": "resigned_wry"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お薬を食べたがらないのは困るわ",
+      "en": "Sho, I'm having a time with you not wanting your medicine.",
+      "style": "Patient but tired underneath. Not scolding — genuinely a little stuck. Warm exhale, like she's admitting she doesn't know how to solve this one. Slight slope downward at the end.",
+      "mood": "gently_frustrated"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、辰年生まれだよね",
+      "en": "Mom, I was born in the Year of the Dragon, right?",
+      "style": "Curious, reaching upward slightly. Asking for confirmation, not showing off. Genuine wondering — he wants to know if she remembers. Small, hopeful pause at the end.",
+      "mood": "curious_seeking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママのくろい着物、お祖母ちゃんに頂いたのよ",
+      "en": "Sho, this black kimono my mother gave me — I got it from Grandma.",
+      "style": "Nostalgic and tender. Gentle fingertips on the memory. Quiet pride in the object and its history. Speaking as if he might understand someday why this matters.",
+      "mood": "warm_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、うぅ、ぼく、お風呂はやだ",
+      "en": "Mom… ugh, I don't want to take a bath.",
+      "style": "Small, tired whine with genuine dread underneath. The 'uu' carries exhaustion and reluctance. Trailing off like he's given up the argument before starting it. Slumped posture in the voice.",
+      "mood": "weary_resistant"
+    }
+  ]
+}

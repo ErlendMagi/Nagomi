@@ -1,0 +1,78 @@
+{
+  "id": "conv_05067",
+  "context": "Two managers prep an office relocation checklist",
+  "purpose": "Teach: 撤去/法定/スローガン/任期/速やか/命名/デフォルト/稼動",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "撤去",
+    "法定",
+    "スローガン",
+    "任期",
+    "速やか",
+    "命名",
+    "デフォルト",
+    "稼動"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "移転チェックリストの件ですが、まず古い什器の撤去から進めましょうか。",
+      "en": "About the relocation checklist, shall we start with removing the old furniture?",
+      "style": "Polite, businesslike opener; calm and methodical professional tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね。法定の届出も忘れずに、速やかに役所へ提出しないと。",
+      "en": "Right. We mustn't forget the statutory filings either, we need to submit them to the office promptly.",
+      "style": "Responsive and slightly cautious; conscientious mid-level manager voice."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では届出は私が担当します。あと、新オフィスの命名についても役員から相談されていて。",
+      "en": "Then I'll handle the filings. Also, the executives consulted me about naming the new office.",
+      "style": "Taking initiative; smooth transition between tasks, brisk delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "命名ですか。社内スローガンと合わせて考えると良さそうですね。",
+      "en": "Naming, huh. It might be good to consider it alongside the company slogan.",
+      "style": "Thoughtful, suggesting collaboration; slightly slower contemplative pace."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいアイデアです。社長の任期中に決めたいそうで、来月までに案を出す必要があります。",
+      "en": "Good idea. Apparently he wants it decided during the president's term, so we need proposals by next month.",
+      "style": "Agreeing then adding urgency; professional pace with mild pressure."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解。サーバーは引っ越し当日から稼動させたいので、IT部にも早めに連絡しておきます。",
+      "en": "Got it. We want the servers running from day one, so I'll contact the IT department early.",
+      "style": "Decisive and action-oriented; confident operational manager voice."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。あ、印刷機のデフォルト設定もリセットされるので、共有しておきましょう。",
+      "en": "That helps. Oh, the printer's default settings will get reset too, so let's share that with everyone.",
+      "style": "Grateful then detail-oriented; warm but precise, anticipating user issues."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "細かいところまで気が回りますね。では明日の会議で全項目を確認しましょう。",
+      "en": "You really notice the small details. Then let's review all items in tomorrow's meeting.",
+      "style": "Light praise then wrapping up; collegial closing tone."
+    }
+  ]
+}

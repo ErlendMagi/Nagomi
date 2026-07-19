@@ -1,0 +1,75 @@
+{
+  "id": "conv_02908",
+  "context": "News: Sakura and Ren report on an earthquake.",
+  "purpose": "WIDENED SCENARIO: disaster news; vocabulary (地震/出来事/発信/引き続き/方面) in natural home.",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "地震",
+    "出来事",
+    "発信",
+    "引き続き",
+    "方面"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_146)",
+    "generated_at": "2026-05-29T14:48:14.344Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先ほど、強い地震がありました。",
+      "en": "A strong earthquake just occurred.",
+      "style": "crisp adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "どの方面で、揺れたんですか?",
+      "en": "In which direction did it shake?",
+      "style": "measured young reporter voice, soft warm serious focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "東の方面で、大きく揺れました。",
+      "en": "It shook strongly in the eastern area.",
+      "style": "clear adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "情報は、どこから発信されますか?",
+      "en": "Where is the information sent from?",
+      "style": "serious young reporter voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "気象台が、発信を続けています。",
+      "en": "The weather agency keeps transmitting.",
+      "style": "professional adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "こうした出来事には、備えが要りますね。",
+      "en": "Such events require preparation.",
+      "style": "thoughtful young reporter voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "引き続き、最新の情報を発信します。",
+      "en": "We'll continue to transmit the latest info.",
+      "style": "measured adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "各方面の状況を、引き続き伝えます。",
+      "en": "We'll keep reporting conditions in each area.",
+      "style": "earnest young reporter voice, soft warm calm closing throughout"
+    }
+  ]
+}

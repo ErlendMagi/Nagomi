@@ -1,0 +1,86 @@
+{
+  "id": "conv_08028",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: にもかかわらず/おっしゃら/あげれ/仰っ/当てはめ/まとまら/違わ/無き",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にもかかわらず",
+    "おっしゃら",
+    "あげれ",
+    "仰っ",
+    "当てはめ",
+    "まとまら",
+    "違わ",
+    "無き"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、忙しいにもかかわらず、研究を続けろ",
+      "en": "Ren—keep pushing your research, demanding schedule or not.",
+      "style": "Direct, measured opening. Light weight on the name as an anchor. Steady pace, no flourish. The voice of someone who knows what matters and expects you to know it too.",
+      "mood": "steady_demanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。教授は具体的におっしゃらないこともあります",
+      "en": "Yes, sir. Sometimes your guidance isn't entirely explicit, though—I have to read between the lines.",
+      "style": "Respectful but genuine—not flattering. Slight hesitation before the second clause, like he's admitting something soft. Quiet, searching tone. A small acknowledgment of the work he's trying to do.",
+      "mood": "earnest_questioning"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、お前、後輩にもっと時間をあげればよかった",
+      "en": "Ren, I wish I'd given you more time with the younger students.",
+      "style": "Pause after the name—a real moment of reflection. Quieter than before, almost to himself. Slower pace. The sound of someone reconsidering something he didn't think to reconsider until now.",
+      "mood": "reflective_regretful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。教授が仰ったご助言、心に留めております",
+      "en": "Yes. I'm taking your advice to heart, truly.",
+      "style": "Formal respect, but warm underneath. Steady, careful delivery. No rush. The deliberate pause before the second clause—he means it, and he wants that understood.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、モデルを当てはめての検証を進めろ",
+      "en": "Ren—move forward with fitting your model to the data. Verify it works.",
+      "style": "Shift back to directorial clarity. Crisp attack on the name. Practical, efficient pacing. No ambiguity—this is the work. Composed, authoritative, but not cold.",
+      "mood": "focused_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験結果がまとまらないこともあります",
+      "en": "Yes, sir. The experimental results don't always come together cleanly—sometimes there are gaps.",
+      "style": "Honest vulnerability behind the formality. Slightly slower pace, tentative. He's admitting friction without excuse-making. Quiet concern underneath, waiting to see if it matters.",
+      "mood": "concerned_honest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論理は他研究と違わないか確認しろ",
+      "en": "Ren—verify your logic against existing research. Make sure nothing contradicts.",
+      "style": "Sharp focus. Quick, clear delivery. The name lands with weight. No negotiation in the tone—this is non-negotiable rigor. Steady, exacting.",
+      "mood": "exacting_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。引用元無きの論文は通りません",
+      "en": "Yes. A paper without proper citations won't hold up—it won't pass.",
+      "style": "Quiet finality. Slightly firmer than before, but not harsh. He understands the rule and respects it. Steady close, trailing softly. The voice of someone who has learned this lesson and won't forget it.",
+      "mood": "somber_resolved"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03600",
+  "context": "A boss and the writer-employee discuss deadlines and counterarguments",
+  "purpose": "Teach: 通勤/反論/高める/最悪/さあ/執筆/男の子/悪化",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通勤",
+    "反論",
+    "高める",
+    "最悪",
+    "さあ",
+    "執筆",
+    "男の子",
+    "悪化"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_180 workflow w1fqcqim4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "さあ、本題に入ろう。執筆の進捗はどうなっている？",
+      "en": "Right, let's get to the point. How is the writing going?",
+      "style": "Boss opens the meeting briskly and businesslike."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "正直に言うと、最近通勤に時間がかかって、作業が遅れています。",
+      "en": "Honestly, my commute has been eating up time, so I've fallen behind.",
+      "style": "Young employee admits the delay nervously but politely."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "通勤のせいにするのは反論として弱いな。締め切りが悪化したら困る。",
+      "en": "Blaming the commute is a weak counterargument. We can't have the deadline slipping further.",
+      "style": "Boss pushes back firmly without yelling, dismissive tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "反論というより事情の説明です。家でも隣の男の子が朝から騒いでいて集中できなくて…",
+      "en": "It's more of an explanation than a counterargument. The boy next door is loud every morning, so I can't focus.",
+      "style": "Defensive but respectful, trailing off slightly apologetic."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "事情はわかるが、最悪の場合は今月の特集が飛ぶぞ。質を高める前に、まず仕上げてくれ。",
+      "en": "I understand, but in the worst case this month's feature gets cut. Finish it first, then worry about raising the quality.",
+      "style": "Stern manager prioritizing delivery over polish."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。今夜カフェにこもって、明日の昼までに初稿を出します。",
+      "en": "Understood. I'll hole up in a cafe tonight and have the first draft in by tomorrow noon.",
+      "style": "Employee concedes and commits with concrete plan."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、それでいい。読者の期待を高める原稿を頼むよ。",
+      "en": "Good, that works. I'm counting on you for a draft that raises reader expectations.",
+      "style": "Boss softens at the end, encouraging and trusting."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04182",
+  "context": "Two newsroom editors plan coverage of a breaking story",
+  "purpose": "Teach: 殺害/銃/爆弾/解雇/死者/探偵/悲劇/単独",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "殺害",
+    "銃",
+    "爆弾",
+    "解雇",
+    "死者",
+    "探偵",
+    "悲劇",
+    "単独"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "ユキさん、さっき入った速報なんですけど、繁華街で発砲事件があって、犯人は銃を持ったまま逃走中らしいです。",
+      "en": "Yuki-san, about the breaking news that just came in—there was a shooting in the entertainment district, and the suspect is apparently still on the run with the gun.",
+      "style": "Junior reporter briefing senior editor urgently with rising tension."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ちょっと待って、それ単独犯なの?それとも組織的な動き?爆弾予告とかも一緒に出てない?",
+      "en": "Hold on, is it a lone suspect, or some kind of organized move? Are there any bomb threats coming in alongside it?",
+      "style": "Veteran editor pressing for clarity, sharp and methodical."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今のところ単独犯の線が濃いです。ただ、現場近くで不審物が見つかってて、警察は時限爆弾の可能性も視野に入れてるみたいで。",
+      "en": "Right now the lone-suspect angle looks strongest. But suspicious objects were found near the scene, and police seem to be considering the possibility of a time bomb.",
+      "style": "Reporter relaying field intel carefully, hedging with sources."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "死者数はもう確定したの?未だに病院から正式な発表ないんだけど、誤報だけは絶対に避けたいのよね。",
+      "en": "Has the death toll been confirmed yet? We still haven't gotten an official statement from the hospital, and the one thing I absolutely want to avoid is misreporting.",
+      "style": "Editor balancing speed against accuracy, weight of responsibility."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あぁ、それなんですが、関係者の話だと殺害された被害者は二名で確定っぽいです。ただ重体の方が一人いて、まだ流動的で。",
+      "en": "Ah, about that—according to sources, two victims killed has been confirmed. But there's one person in critical condition, so it's still fluid.",
+      "style": "Reporter delivering grim numbers with measured restraint."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかった。じゃあ一面は事件そのものの続報、社会面で被害者の人格や背景に踏み込みましょう。一見地味でも、安易に悲劇の主人公みたいに描かないようにね。",
+      "en": "Got it. So we'll lead with follow-up on the incident itself on the front page, and dig into the victims' character and backgrounds on the society page. Even if it seems plain at first glance, don't paint them as tragic heroes too easily.",
+      "style": "Editor assigning desks, ethical guardrails firmly stated."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。あと、元同僚から不当解雇されたとかいう情報も流れてて、動機に絡んでくる可能性もあるので、当たってみる価値ありそうです。",
+      "en": "Understood. Also, there's chatter that he was supposedly unfairly dismissed by his former employer, which could tie into motive, so it seems worth looking into.",
+      "style": "Reporter floating lead carefully, suggesting follow-up thread."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいね、その線追って。元刑事の私立探偵の知り合いがいるから、裏取りは私が回す。レンくんは現場の張り込み続行で。",
+      "en": "Nice, chase that lead. I've got a private investigator contact who's a former detective, so I'll handle verification. Ren-kun, you keep staking out the scene.",
+      "style": "Editor delegating decisively, leveraging personal network."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。鋭いツッコミを入れてくる読者も多いんで、しょうがを利かせた書きっぷりじゃなくて、淡々と事実で押していきます。第一報、十五分後に原稿上げます。",
+      "en": "Understood. We get a lot of readers throwing sharp jabs, so instead of writing with a ginger-spicy flair, I'll push straight with the facts. I'll have the first draft up in fifteen minutes.",
+      "style": "Reporter wrapping with professional resolve and timeline."
+    }
+  ]
+}

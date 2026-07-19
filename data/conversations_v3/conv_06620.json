@@ -1,0 +1,86 @@
+{
+  "id": "conv_06620",
+  "context": "A chef and barista plan menus",
+  "purpose": "Teach: むら/しづ/やめよ/資料館/遅かっ/カモ/ゴロ/栓",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "むら",
+    "しづ",
+    "やめよ",
+    "資料館",
+    "遅かっ",
+    "カモ",
+    "ゴロ",
+    "栓"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "葵さん、新作ケーキ、色むら、絶対出さんようにせなな。",
+      "en": "Aoi — make sure that new cake comes out without any color streaks, yeah?",
+      "style": "Warm, directive Kansai accent. Opens with her name like calling across the counter. Light, confident. Not bossy — team leader checking in on something that matters.",
+      "mood": "firm_collaborative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。バイトの、しづちゃん、明日からシフト入りますね。",
+      "en": "Got it. Shizu's starting her shifts tomorrow, right?",
+      "style": "Bright acknowledgment with a light upward lilt. Professional but genuinely interested. The kind of barista who actually registers when the roster changes.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "冷凍メニュー、もうやめようと思てる、こだわりたいんや。",
+      "en": "I've been thinking — we should drop the frozen stuff. I want us to care more about what we're making.",
+      "style": "Shift to earnest conviction. Slower pace, more weight on each word. Leans in slightly. This is about philosophy, not just logistics.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。地元の資料館とコラボ、企画していけそうですね。",
+      "en": "That could work. We could actually do something with the local museum — a real collaboration.",
+      "style": "Thoughtful, seeing the shape of something good. Quiet momentum building. She's thinking out loud with him, not just responding.",
+      "mood": "inspired"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "食材の配達、遅かったな、今朝、悩みやで。",
+      "en": "The ingredient delivery was slow this morning, man. That's been on my mind.",
+      "style": "Slight frustration with an undertone of dark humor. Tired shrug in the voice. The kind of small thing that piles on during a morning rush.",
+      "mood": "weary_frustrated"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。新メニューに、合鴨のカモ料理、加えませんか。",
+      "en": "What if we added roasted duck to the new menu? Would that work?",
+      "style": "Gentle probe — offering a solution, not pushing. Soft confidence. She's been listening, and now she's contributing to the shape of things.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "昼休み、ゴロ寝してる暇あらへんな、繁忙期は。",
+      "en": "There's no time for a lunch nap during busy season, is there? It all just keeps coming.",
+      "style": "Rueful acceptance mixed with dark humor. Quick cadence — matching the pace of the rush itself. A laugh underneath the complaint.",
+      "mood": "resigned_wry"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。新作のシードルの栓、明日、皆で抜きますね。",
+      "en": "Tomorrow we're opening that new cider together — all of us popping the cork.",
+      "style": "Warm closing note. Slight lift at the end — genuine anticipation. The kind of small shared moment that marks a shift. Inviting and inclusive.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

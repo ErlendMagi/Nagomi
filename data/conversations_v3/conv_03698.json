@@ -1,0 +1,74 @@
+{
+  "id": "conv_03698",
+  "context": "A barista chats with a customer at the counter on a quiet evening",
+  "purpose": "Teach: 風邪薬/セット/お湯/飲み物/食事会/カウンター/注文する/大盛り",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "セット",
+    "お湯",
+    "飲み物",
+    "カウンター"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。カウンター席、空いてますよ。",
+      "en": "Welcome. The counter seats are open.",
+      "style": "Warm, soft greeting with welcoming barista tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ありがとう。じゃあ、ここで注文するね。",
+      "en": "Thanks. I'll order from here, then.",
+      "style": "Relaxed dad voice, easy and slightly tired."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今夜は静かですね。温かい飲み物はいかがですか？",
+      "en": "It's quiet tonight. How about a warm drink?",
+      "style": "Gentle suggestion, calm evening barista mood."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "実は風邪気味でね。さっき風邪薬を飲んだところなんだ。",
+      "en": "Actually I'm catching a cold. Just took cold medicine.",
+      "style": "Slightly hoarse, candid dad sharing a complaint."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それなら、お湯多めのカフェオレと、軽食のセットはどうでしょう。",
+      "en": "Then how about a latte with extra hot water and a light meal set?",
+      "style": "Thoughtful, caring barista offering a gentle remedy."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いいね。あ、サンドイッチは大盛りにできる？明日、食事会があるけど今夜はちょっと食べておきたくて。",
+      "en": "Nice. Can you make the sandwich a large portion? I have a dinner gathering tomorrow but want to eat a bit tonight.",
+      "style": "Friendly negotiation, hungry but considerate dad tone overall."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もちろん大盛りで承ります。少々お待ちくださいね。",
+      "en": "Of course, large portion it is. Please wait a moment.",
+      "style": "Cheerful confirmation in a professional service voice."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "助かるよ。やっぱりこのカウンターは落ち着くなあ。",
+      "en": "Thanks, that helps. This counter really is relaxing.",
+      "style": "Soft sigh with appreciative middle-aged warmth here."
+    }
+  ]
+}

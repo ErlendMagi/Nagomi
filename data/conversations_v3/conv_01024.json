@@ -1,0 +1,76 @@
+{
+  "id": "conv_01024",
+  "context": "Yumiko visits Kenji at the office with a small gift.",
+  "purpose": "mother-figure office visit exchange",
+  "ambient": "office_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "家族",
+    "優しい",
+    "大切",
+    "感謝"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_051)",
+    "generated_at": "2026-05-27T03:21:23.101Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "健次さん、これ、家族から、お礼。",
+      "en": "Kenji-san — this is a little thank you from our family.",
+      "style": "Warm, genuine maternal tone. Slight pause before offering the gift, like she's thought carefully about this moment. Soft, sincere — not flowery, but real. Voice settles into gentleness.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "え、わざわざ、ありがとうございます。",
+      "en": "Oh — you didn't have to, but thank you so much.",
+      "style": "Surprised, then genuinely pleased. Brief hesitation on the opening, caught off-guard in a good way. Warm formality — respectful but not stiff. Gratitude settles into his voice by the end.",
+      "mood": "surprised_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しい指導、いつも、ね。",
+      "en": "You've always been so thoughtful with them.",
+      "style": "Steady, appreciative. No rush. Each phrase lands with quiet weight — she means this deeply. Soft smile underneath the words, visible even in voice alone.",
+      "mood": "sincere_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、こちらこそ。",
+      "en": "Not at all — I'm the one who's grateful.",
+      "style": "Humble, genuine deflection. Soft start, steady middle. Not false modesty — he actually means this. Composure sits lightly, warmth shows through.",
+      "mood": "humble_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族、皆、感謝、しています。",
+      "en": "My whole family appreciates everything you do.",
+      "style": "Quiet emphasis on 'whole family' — she's speaking for something larger than herself. Deeper tone, more grounded. Warmth becomes tender, almost protective in its sincerity.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大切な、お言葉、本当に。",
+      "en": "Your kind words mean so much to me, truly.",
+      "style": "Softer now, vulnerability just beneath the surface. Slight breathiness on 'truly' — this matters more than politeness requires. Warmth and genuine feeling intertwined.",
+      "mood": "touched_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、これからも、よろしく。",
+      "en": "I hope we can continue working together like this.",
+      "style": "Warm closing. Slow, intentional pacing. 'Like this' carries the weight — she's talking about the whole relationship, not just a job. Gentle but sure. A quiet promise in her voice.",
+      "mood": "hopeful_warm"
+    }
+  ]
+}

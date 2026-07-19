@@ -1,0 +1,86 @@
+{
+  "id": "conv_07958",
+  "context": "Aunt and nephew chat",
+  "purpose": "Teach: 賑わっ/戸惑う/祝っ/釣っ/ありえ/よくよく/ふっと/にわか",
+  "ambient": "park_distant_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "賑わっ",
+    "戸惑う",
+    "祝っ",
+    "釣っ",
+    "ありえ",
+    "よくよく",
+    "ふっと",
+    "にわか"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_399 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔くん、メイ姉さんのお店、最近賑わってるの",
+      "en": "Sho, my shop's been really busy lately, you know?",
+      "style": "Warm, conversational opening. Bright energy—she's pleased and sharing a small joy. Relaxed pace, natural cadence of someone chatting with someone close.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "メイ姉さん、ぼく、新しい学校で戸惑うことあるよ",
+      "en": "Mei-sis, I get confused sometimes at my new school.",
+      "style": "Quiet and careful, testing whether it's safe to say this out loud. Not complaining—observing. Small voice, steady underneath the hesitation.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔くん、お誕生日、メイ姉さんお祝ってあげる",
+      "en": "Sho, let me celebrate your birthday for you.",
+      "style": "Tender, deliberate. Slow opening. She's offering something genuine, not performing—the kind of warmth that comes from noticing he might need it.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "メイ姉さん、お父さんと魚を釣ったよ",
+      "en": "Mei-sis, Dad and I caught fish together.",
+      "style": "Animated, alive with the memory. Quick pace, genuine pride without pretense. The small happiness of having done something with his dad.",
+      "mood": "proud_happy"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔くん、それありえないほどお洒落ね",
+      "en": "Sho, that outfit of yours is incredibly stylish.",
+      "style": "Delighted, noticing him. Warm emphasis on the surprise of discovering this. Not flattering—actually seeing him and remarking on it genuinely.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "メイ姉さん、ぼく、よくよく考えるよ",
+      "en": "Mei-sis, I think about things pretty deeply.",
+      "style": "Measured, slightly solemn. He's being honest about who he is. No rush—giving weight to his own observation. Small but serious.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "翔くん、ふっとあなたのお誕生日思い出したわ",
+      "en": "Sho, I just remembered your birthday all of a sudden.",
+      "style": "Soft, gentle surprise. Wistful opening—something triggered the memory. Warm trailing-off, like she's smiling at the thought of him.",
+      "mood": "tender_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "メイ姉さん、にわか雨だったから走って帰ったよ",
+      "en": "Mei-sis, it was a sudden downpour, so I ran all the way home.",
+      "style": "Vivid and animated, painting the scene. Quick rhythm—the urgency of running through rain. Breathless at the end, like the memory just caught up with him.",
+      "mood": "animated_vivid"
+    }
+  ]
+}

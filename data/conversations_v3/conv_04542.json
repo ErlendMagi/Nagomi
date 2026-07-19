@@ -1,0 +1,72 @@
+{
+  "id": "conv_04542",
+  "context": "A senior trains a new hire on company processes",
+  "purpose": "Teach: カネ/技能/適し/所長/複合/寄与/上限/模索",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "カネ",
+    "技能",
+    "適し",
+    "所長",
+    "複合",
+    "寄与",
+    "上限",
+    "模索"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_229 workflow wjoc5dipz)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "新人研修へようこそ。まず、うちの会社の所長は現場主義でね、技能の習得を何より重視しているんだ。",
+      "en": "Welcome to new-hire training. Our office director is hands-on, and values acquiring practical skills above all else.",
+      "style": "Warm but authoritative senior employee tone setting an instructional context."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。専門技能を磨くことが、会社の成長に寄与するわけですね。",
+      "en": "I see, so honing specialized skills is what contributes to the company's growth.",
+      "style": "Eager junior responding with polite formal Japanese and quick comprehension."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。ただ、研修にもカネがかかるから、年間予算には上限がある。だから優先順位を常に模索している状態なんだ。",
+      "en": "Exactly, but training costs money too, so there's an annual budget cap. We're constantly figuring out priorities.",
+      "style": "Practical mentor explaining real business constraints with candid workplace honesty."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "予算の上限内で最大の効果を出すのは、大変そうですね。",
+      "en": "Getting maximum results within that budget cap sounds quite challenging.",
+      "style": "Thoughtful junior employee showing empathy and analytical engagement."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それでね、君には複合的なスキルを持ってほしい。営業も企画も、両方に適した人材が今うちには必要なんだ。",
+      "en": "So I want you to develop composite skills. We need people suited to both sales and planning right now.",
+      "style": "Senior outlining strategic expectations with directness and personalized guidance."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "複合的なスキル、ですか。自分にどちらが適しているのか、正直まだ分かりません。",
+      "en": "Composite skills, huh. Honestly, I'm not sure yet which one suits me better.",
+      "style": "Honest junior admitting uncertainty while maintaining respectful professional posture."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "焦らなくていい。半年かけて方針を模索しよう。会社に寄与する形は人それぞれだからね。",
+      "en": "No need to rush. We'll spend half a year figuring out your direction. Everyone contributes differently.",
+      "style": "Reassuring mentor closing with patient supportive long-term perspective."
+    }
+  ]
+}

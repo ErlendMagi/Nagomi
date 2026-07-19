@@ -1,0 +1,86 @@
+{
+  "id": "conv_09106",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 本紙/減速/同市/出馬/課せ/部類/大綱/適性",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本紙",
+    "減速",
+    "同市",
+    "出馬",
+    "課せ",
+    "部類",
+    "大綱",
+    "適性"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_457 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、本紙の取材依頼を承諾しろ",
+      "en": "Accept the interview request from the newspaper.",
+      "style": "Clipped, authoritative. Each word lands with quiet weight. No inflection wasted. The tone of someone used to being obeyed without explanation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市場の成長減速に備えております",
+      "en": "Yes. We're preparing for the market slowdown ahead.",
+      "style": "Measured, respectful. Precise enunciation on the key terms. Steady rhythm — the cadence of someone reporting facts they've already verified. A slight nod in the voice.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、同市での展開を加速しろ",
+      "en": "Accelerate our expansion in that market.",
+      "style": "Direct, economical. Sharp attack on the verb. No softening. The brevity itself is the authority — a man who doesn't need to elaborate.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。次期社長への出馬を取締役会で決定します",
+      "en": "Understood. The board will decide on the next president's candidacy.",
+      "style": "Formal, deferential. Slightly elevated register — acknowledging the weight of what's being stated. Crisp delivery, no hesitation. The voice of someone documenting a significant decision.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新人にも適正な責任を課せ",
+      "en": "Assign appropriate responsibility to new staff as well.",
+      "style": "Controlled, expectant. A slight emphasis on 「適正」in the voice — fairness matters here. The tone of someone testing whether the message will be understood correctly.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。これは特別案件の部類に入ります",
+      "en": "Understood. This falls into the special project category.",
+      "style": "Confirming, precise. Slightly formal register — matching the elevated context. Even cadence, no apology in the tone. Clear categorization.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新事業の大綱を取締役会に提示しろ",
+      "en": "Present the new business framework to the board.",
+      "style": "Clipped final directive. Sharp on the verb. No question mark at the end — this is instruction, not suggestion. The tone of someone moving to close the meeting.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の適性検査を継続実施します",
+      "en": "Yes. We'll continue implementing staff aptitude assessments.",
+      "style": "Concluding tone — slightly lowered, finishing note. Respectful but not deferential. The last word carries a sense of closure. Steady and assured.",
+      "mood": "professional"
+    }
+  ]
+}

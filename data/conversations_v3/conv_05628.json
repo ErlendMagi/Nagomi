@@ -1,0 +1,72 @@
+{
+  "id": "conv_05628",
+  "context": "A boss explains corporate finance basics to a uni intern",
+  "purpose": "Teach: 残高/納税/人件/同行/職種/命じ/多額/持ち出し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "残高",
+    "納税",
+    "人件",
+    "同行",
+    "職種",
+    "命じ",
+    "多額",
+    "持ち出し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮くん、企業の残高決算、職種別に分解して見ると面白いよ。",
+      "en": "Ren, you know what's interesting? When you break down corporate financials by department, you start to see real patterns.",
+      "style": "Warm, inviting tone. Leans back slightly — comfortable in his own knowledge. Pauses after the name to check in. Genuine curiosity in his voice, not lecturing.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "人件費の重みも、職種で違うんですね。",
+      "en": "So the weight of labor costs really does shift depending on the department.",
+      "style": "Quiet discovery in the voice. Speaks slowly, as if following the logic in real-time. Slight upward lift at the end — checking that he's understood correctly.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "納税の構造も、業種ごとに違う。多額の控除も時に。",
+      "en": "Tax structures shift by industry too. And sometimes there are significant deductions built into that.",
+      "style": "Matter-of-fact, steady rhythm. Each phrase lands with quiet authority. No rush. The tone of someone explaining something he's thought about many times.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "資料、社外への持ち出しは厳禁ですよね。",
+      "en": "Materials absolutely can't leave the office, right? That's the rule.",
+      "style": "Gentle anxiety underneath. Voice tightens slightly on 'can't.' Seeking confirmation, not challenging. The careful politeness of someone still learning the boundaries.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当然だ。役員にも命じてある、社外同行時のルール遵守。",
+      "en": "Of course. I've made it clear to all the executives — we follow protocol when anything goes outside these walls.",
+      "style": "Definitive. Clipped slightly on 'of course.' Weight on 'clear' and 'protocol.' Not harsh, but firm — this is settled ground. The voice of someone used to being listened to.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。",
+      "en": "I really appreciate that. This has been really valuable.",
+      "style": "Sincere and warm. Soft voice, like the words are genuine and not performed. Small pause before 'really' the second time — he means it. Slight bow in the voice.",
+      "mood": "grateful"
+    }
+  ]
+}

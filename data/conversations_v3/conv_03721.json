@@ -1,0 +1,78 @@
+{
+  "id": "conv_03721",
+  "context": "Boss reviews quarterly board with a manager — orders, subordinates",
+  "purpose": "Teach: ボード/部下/発注/切り替え/エラー/同期/私立/志向",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボード",
+    "部下",
+    "発注",
+    "切り替え",
+    "エラー",
+    "同期",
+    "私立",
+    "志向"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_187 wdqeqmj99)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日のボード会議の前に、四半期の数字を一旦確認しておきたい。",
+      "en": "Before today's board meeting, I want to review the quarterly numbers first.",
+      "style": "Firm authoritative tone, businesslike pacing, slight pressure expected"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、部下にも全員データを共有させましたが、システムの同期が少し遅れていまして。",
+      "en": "Yes, I had all the subordinates share the data, but the system sync was a bit delayed.",
+      "style": "Polite formal speech, slightly apologetic, careful word choice"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "またか。先月の発注ミスもそのエラーが原因だったんじゃないのか。",
+      "en": "Again? Wasn't last month's ordering mistake also caused by that error?",
+      "style": "Stern questioning tone, mild frustration, direct boss energy"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。新システムへの切り替えの際に、エラー処理が甘かったと反省しております。",
+      "en": "Exactly as you say. When we switched to the new system, our error handling was inadequate, and I take that to heart.",
+      "style": "Humble keigo, reflective self-criticism, measured cadence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うちは品質志向の会社だ。私立大学出のエリート揃いでも、現場が回らなければ意味がない。",
+      "en": "Our company is quality-oriented. Even if we're full of private university elites, it means nothing if operations don't run.",
+      "style": "Lecturing tone, principled, slightly cutting remark"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "肝に銘じます。来週までに発注フローを見直して、部下にも再教育を行います。",
+      "en": "I'll take that to heart. By next week I'll revise the ordering flow and retrain the subordinates.",
+      "style": "Determined commitment, formal pledge, respectful posture"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。ボードには俺から説明するが、同じエラーが繰り返されないように頼む。",
+      "en": "I'm counting on you. I'll explain things to the board, but make sure the same error isn't repeated.",
+      "style": "Conditional trust, closing instruction, paternal authority"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。気持ちの切り替えも含めて、チーム全体で立て直します。",
+      "en": "Thank you. Including a change of mindset, the whole team will rebuild itself.",
+      "style": "Grateful resolve, team-focused, sincere closing remark"
+    }
+  ]
+}

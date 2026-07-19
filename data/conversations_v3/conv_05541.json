@@ -1,0 +1,72 @@
+{
+  "id": "conv_05541",
+  "context": "Two cafe friends gossip about a love-letter incident",
+  "purpose": "Teach: 好意/迫る/作り上げ/挟ん/覗き/曲がっ/便り/悪意",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "好意",
+    "迫る",
+    "作り上げ",
+    "挟ん",
+    "覗き",
+    "曲がっ",
+    "便り",
+    "悪意"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨日、机に挟んでた便り、誰かに覗き見られた気がして…。",
+      "en": "Yesterday, I felt like someone saw a letter tucked in my desk…",
+      "style": "Hesitant opening. Soft, almost checking herself for worrying over nothing. Vulnerable delivery — the anxiety surfacing as she speaks. Small trailing-off on the ellipsis, like she's waiting for reassurance.",
+      "mood": "anxious_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "好意で渡された手紙だったでしょ?悪意は無いと思うよ。",
+      "en": "It was given to you with good intentions, though, right? I don't think there was any malice behind it.",
+      "style": "Steady, grounded warmth. A gentle push back against the spiral. Light, measured pace — not rushing her but gently anchoring. The tone of someone who's heard this worry before and knows how to sit with it.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。でも曲がった解釈、すぐ広まるからさ。",
+      "en": "Yeah, but you know how fast twisted interpretations spread.",
+      "style": "Quieter here — the real anxiety breaking through. Knowing, almost resigned. A pause before 「広まるからさ」 that shows she's lived this worry. Not helpless, but caught.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "噂が真実に迫る前に、本人と直接話そう。",
+      "en": "Before the rumor gets too close to the truth, just talk to him directly.",
+      "style": "Practical and direct, but not clinical. Conviction underneath — the voice of someone offering the clearest path forward. A light firmness, like she's seen this solved before and knows what works.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "勇気作り上げて、明日呼び出してみる。",
+      "en": "I'll work up the courage tomorrow and ask him to talk.",
+      "style": "Resolve starting to crystallize. Slower opening — the decision forming as she speaks. Breath underneath the words, like she's committing to something that scares her. Slight lift at the end, like permission to be brave.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、応援する。",
+      "en": "Yeah. I've got your back.",
+      "style": "Warm, simple, close. No flourish — just steady presence. A hand on the shoulder kind of delivery. Quiet confidence that makes space for her to take the next step.",
+      "mood": "supportive"
+    }
+  ]
+}

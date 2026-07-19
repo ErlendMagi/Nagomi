@@ -1,0 +1,79 @@
+{
+  "id": "conv_05273",
+  "context": "A police archivist guides a uni reporter through old records",
+  "purpose": "Teach: 土木/兵隊/戦線/母子/次男/長女/膜/芯",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "土木",
+    "兵隊",
+    "戦線",
+    "母子",
+    "次男",
+    "長女",
+    "膜",
+    "芯"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_265 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "これが戦時中の土木関連の資料です。兵隊の動員記録も含まれます。",
+      "en": "These are wartime civil-engineering records. They include soldier mobilization logs.",
+      "style": "Clear, steady introduction. Slight weight on the opening phrase to frame the importance. Professional but not cold—a curator presenting something that matters.",
+      "mood": "measured_informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦線の後方で動員された人びとの一覧ですね。",
+      "en": "So these are lists of people mobilized behind the front lines.",
+      "style": "Thoughtful, registering the weight of what he's looking at. Quiet curiosity—not performing interest, but genuinely absorbing the human dimension. Slight pause before speaking, like he's thinking as he speaks.",
+      "mood": "quiet_recognition"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。家族の続柄も詳細です。母子手帳から長女・次男まで記録されています。",
+      "en": "Yes. The family records are quite detailed—everything from mother-child handbooks through notes on eldest daughters and second sons.",
+      "style": "Patient, technical precision. Slight emphasis on \"quite detailed\" to underscore the scope and specificity of documentation. Not detached—measured but present, acknowledging the personal weight beneath the bureaucracy.",
+      "mood": "factual_somber"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "紙の膜が薄くなって、めくるのにも気を遣います。",
+      "en": "The paper's so fragile. Even turning the pages requires real care.",
+      "style": "Hushed, almost reverent. Slow deliberation on the words—each one chosen carefully, like he's handling the fragility as he speaks it. Breath shallow and attentive.",
+      "mood": "awed_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "手袋ありますので、どうぞ。鉛筆の芯で書かれた箇所は特に脆いです。",
+      "en": "There are gloves here—please use them. The pencil-written sections are especially delicate.",
+      "style": "Practical and gentle, not commanding. Warm on the offer of gloves. Technical instruction delivered with quiet care, like he's protecting something precious. No urgency, just attentiveness.",
+      "mood": "protective_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "撮影は許可されていますか。",
+      "en": "Are photographs allowed?",
+      "style": "Respectful and direct. Quick, businesslike—the question of someone who wants to follow protocol exactly. No hesitation, but genuine deference to the rules of the space.",
+      "mood": "respectful_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "低照度のフラッシュなしならば構いません。",
+      "en": "Low light without flash is fine.",
+      "style": "Brief, permission granted with practical clarity. Slight warmth—acknowledging the student's respect for the archive. Procedural but not cold.",
+      "mood": "approving"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_05315",
+  "context": "A doctor explains disaster-medicine basics to a teen",
+  "purpose": "Teach: 分裂/火災/津波/飛躍/流動/機動/抑圧/繁栄",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "分裂",
+    "火災",
+    "津波",
+    "飛躍",
+    "流動",
+    "機動",
+    "抑圧",
+    "繁栄"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、災害医療の基礎、お話ししましょう。",
+      "en": "Sakura, let me walk you through the fundamentals of disaster medicine.",
+      "style": "Clear, unhurried opening. Settled tone—teacher shifting into instruction mode. Slight warmth beneath the professionalism. Measured pace, grounded in her experience.",
+      "mood": "steady_instructive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お願いします!津波後の救護とか、機動的に動かないとなんですよね。",
+      "en": "Please! Like, after a tsunami, you have to be mobile and responsive, right?",
+      "style": "Bright forward momentum. Quick staccato on the thought—she's already thinking ahead. Genuine curiosity underlying the eagerness. Small uptick at the end, seeking confirmation but not doubt.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その通り。情報が分裂しないよう、トリアージが要になります。",
+      "en": "Exactly. Triage becomes the linchpin—it keeps information from fragmenting across the response.",
+      "style": "Affirming nod in the voice. Slight emphasis on 「linchpin」 without lecturing. Warm acknowledgment of her thinking. Steady, conversational pace.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "火災時の救護とは、優先順位が違うんですか。",
+      "en": "So the priority system changes depending on whether it's a fire versus a flood?",
+      "style": "Thoughtful probe. She's testing the logic, not questioning the answer. Quiet concentration. Open inflection at the end—she's genuinely asking.",
+      "mood": "thoughtful_testing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、流動的に判断します。技術の飛躍で、現場通信も改善しました。",
+      "en": "Yes. We have to assess fluidly, adapt in the moment. And technology has actually improved field communications quite a bit.",
+      "style": "Affirming her logic while expanding it. Light energy on the tech point—subtle pride in improvement. Still grounded, practical. Not overselling, just honest.",
+      "mood": "pragmatic_engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "被災者の心の抑圧、ケア体制もあるんですよね。",
+      "en": "And there are support systems for the psychological toll on survivors too, right? Not just immediate aid.",
+      "style": "Quieter, more careful here. She's touching something that matters to her. Respectful tone. Seeking to understand, not just gather information.",
+      "mood": "serious_compassionate"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。地域の繁栄を取り戻すための長期支援、含まれます。",
+      "en": "Yes. Long-term support is woven in—helping communities rebuild not just structures, but a sense of wholeness again.",
+      "style": "Tender close. Slight slowdown, weight on 「wholeness」. She's speaking from something beyond textbooks. Warm without sentimentality. The voice of someone who has sat with people through recovery.",
+      "mood": "warm_humane"
+    }
+  ]
+}

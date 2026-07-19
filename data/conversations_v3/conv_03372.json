@@ -1,0 +1,72 @@
+{
+  "id": "conv_03372",
+  "context": "Planning a domestic rail trip",
+  "purpose": "Plan a rail trip; teach 鉄道/名古屋/福岡/滞在/欧州/ニューヨーク/カナダ/イスラエル",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鉄道",
+    "名古屋",
+    "福岡",
+    "滞在",
+    "欧州",
+    "ニューヨーク",
+    "カナダ",
+    "イスラエル"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_169)",
+    "generated_at": "2026-05-29T18:05:03.984Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "今回は鉄道で西へ行こう。",
+      "en": "This time let’s go west by rail.",
+      "style": "planning friend proposing a route, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "名古屋で一泊して、福岡まで？",
+      "en": "Stay a night in Nagoya, then to Fukuoka?",
+      "style": "engaged friend mapping the legs, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "いいね。福岡には何日滞在する？",
+      "en": "Nice. How many days do we stay in Fukuoka?",
+      "style": "organizing friend checking duration, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "三日くらいゆっくりしたい。",
+      "en": "I want about three relaxed days.",
+      "style": "friend setting the pace, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "海外だと、欧州は遠いもんね。",
+      "en": "For abroad, Europe is far, after all.",
+      "style": "friend comparing with overseas, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ニューヨークも憧れるけど、予算が…。",
+      "en": "I long for New York too, but the budget…",
+      "style": "friend tempering with reality, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "カナダやイスラエルは、また今度ね。",
+      "en": "Canada and Israel are for another time.",
+      "style": "friend deferring the big trips, each word carrying genuine natural feeling"
+    }
+  ]
+}

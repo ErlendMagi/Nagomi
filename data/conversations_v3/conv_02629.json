@@ -1,0 +1,75 @@
+{
+  "id": "conv_02629",
+  "context": "Ren and Kenji troubleshoot a stubborn bug.",
+  "purpose": "WIDENED SCENARIO: tech troubleshooting; adverbs (そういった/とにかく/どうも/いれ/どうしても) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "そういった",
+    "とにかく",
+    "どうも",
+    "いれ",
+    "どうしても"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_132)",
+    "generated_at": "2026-05-29T13:26:03.452Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "このエラー、どうしても消えないんです。",
+      "en": "This error just won't go away.",
+      "style": "frustrated young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "どうも、設定の問題のようですね。",
+      "en": "It seems to be a settings issue.",
+      "style": "analytical office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そういった場合、どう直すんですか?",
+      "en": "In such cases, how do you fix it?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "とにかく、一度値を入れ直しましょう。",
+      "en": "Anyway, let's re-enter the value once.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "値を入れたら、どうなりますか?",
+      "en": "What happens after I put the value in?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "正しく入れれば、どうしても直るはずです。",
+      "en": "If entered correctly, it should definitely fix.",
+      "style": "reassuring office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "とにかく、入れ直してみます。",
+      "en": "Anyway, I'll try re-entering it.",
+      "style": "resolved young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そういった粘りが、大事ですよ。",
+      "en": "That kind of persistence matters.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

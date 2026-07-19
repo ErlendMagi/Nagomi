@@ -1,0 +1,79 @@
+{
+  "id": "conv_02223",
+  "context": "Mei looks at Sho-young's eye irritation; small medical concern.",
+  "purpose": "Mother checking child's minor health issue.",
+  "ambient": "bathroom_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "眼",
+    "症状",
+    "心配",
+    "低く",
+    "安心",
+    "熱い",
+    "抑える",
+    "優しい"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_112)",
+    "generated_at": "2026-05-27T17:35:22.838Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、眼、ちょっと変。",
+      "en": "Mom… my eye feels a little funny.",
+      "style": "Soft, tentative voice. Small concerned pause before the confession. Trusting but uncertain—the quiet way a child reports something that's scared him a little. No drama, just honesty.",
+      "mood": "worried_small"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "見せて、症状、深い?",
+      "en": "Let me see. Does it hurt a lot?",
+      "style": "Gentle, attentive shift. Moves closer without fussing. Calm and clear—the voice of someone who's done this before and wants him to know he's safe. Warm competence.",
+      "mood": "concerned_capable"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "熱い感じ、する。",
+      "en": "It feels hot… like it's burning a little.",
+      "style": "Quiet and small, almost fragile. Voice wavers slightly on the main complaint—vulnerability showing through. Needs reassurance but trying to be brave about it.",
+      "mood": "uncomfortable_uncertain"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "心配いらない、症状、低いから。",
+      "en": "It's nothing serious, sweetheart. Just a little irritation.",
+      "style": "Steady, maternal certainty. Soft tone that settles him. Speaks with quiet confidence—not dismissing his worry, but gently containing it. A small reassuring smile in the voice.",
+      "mood": "reassuring_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "安心、お母さんといると。",
+      "en": "I feel better when I'm with you.",
+      "style": "Tender, small voice. Genuine vulnerability—not performing, just saying what's true. Slight softness on the admission. The relief of being truly heard.",
+      "mood": "safe_trusting"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "優しく、抑える薬、塗ろうね。",
+      "en": "Let's put some gentle medicine on it, okay?",
+      "style": "Soft, matter-of-fact kindness. Speaking as they move together. Warm and practical—turning worry into small, manageable action. The tone that makes a child feel held.",
+      "mood": "caring_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、ありがとう、お母さん。",
+      "en": "Yeah… thank you, Mom.",
+      "style": "Quiet contentment. The tension releasing slightly. Grateful and small—he's given his worry over and trusts her completely now. A soft, relieved exhale in the words.",
+      "mood": "grateful_calm"
+    }
+  ]
+}

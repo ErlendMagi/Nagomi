@@ -1,0 +1,72 @@
+{
+  "id": "conv_05626",
+  "context": "A boss and his manager review finances",
+  "purpose": "Teach: 残高/納税/人件/同行/職種/命じ/多額/持ち出し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "残高",
+    "納税",
+    "人件",
+    "同行",
+    "職種",
+    "命じ",
+    "多額",
+    "持ち出し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期、残高が予想より多額に積み上がってるな。",
+      "en": "This quarter, the cash position is accumulating above projections.",
+      "style": "Measured, factual opening. Clipped, observational tone—no theatrics. The voice of someone reading a problem into existence, neither concerned nor dismissive.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。納税の準備、進めています。",
+      "en": "Yes. We're already moving forward with tax preparation.",
+      "style": "Respectful, precise. Quick and clean—a subordinate confirming readiness without elaboration. Slight forward lean in the posture of the voice.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人件費の見直し、財務部と同行で打ち合わせを命じた。",
+      "en": "I've ordered Finance and HR to conduct a joint review of personnel costs.",
+      "style": "Authoritative but not harsh. Each clause lands with quiet certainty—a decision already made and now being communicated. No invitation for input.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。職種別の予算も、再配分が必要です。",
+      "en": "Understood. We'll also need to reallocate the departmental budgets.",
+      "style": "Professional, slightly anticipatory. Adds information without waiting to be asked—the voice of someone who's already thinking two steps ahead. Steady and efficient.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料を持ち出し、来週社外取締役にも見せる。",
+      "en": "I'm taking the files to show the outside directors next week.",
+      "style": "Calm statement of logistics. No sense of urgency—just matter-of-fact sequencing. The tone of someone organizing his calendar, not announcing a crisis.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "秘匿区分、確認します。",
+      "en": "I'll verify the confidentiality classifications.",
+      "style": "Brief, competent. A small, tidy acknowledgment that the conversation is concluded. The voice of someone checking an item off without ceremony.",
+      "mood": "confirmatory"
+    }
+  ]
+}

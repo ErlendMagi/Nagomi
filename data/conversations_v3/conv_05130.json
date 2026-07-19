@@ -1,0 +1,90 @@
+{
+  "id": "conv_05130",
+  "context": "A barista finalizes a partnership contract with a corporate manager",
+  "purpose": "Teach: 携わる/撤回/合衆国/経常/在籍/厳選/法規/位置付け",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "携わる",
+    "撤回",
+    "合衆国",
+    "経常",
+    "在籍",
+    "厳選",
+    "法規",
+    "位置付け"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "お待ちしておりました。今日でついに提携のお話がまとまると思うと、朝から胸が高鳴っています。",
+      "en": "I've been looking forward to this. Just thinking that our partnership talks will finally come together today made my heart race since morning.",
+      "style": "Warm barista enthusiasm, voice slightly breathless with genuine excitement before settling into business."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こちらこそ恐縮です。御社のように地域のコーヒー文化に携わるお店との提携は、社内でも極めて高く評価されております。",
+      "en": "The pleasure is mine. A partnership with a shop like yours that's involved in the local coffee culture is highly regarded within our company.",
+      "style": "Measured corporate cadence, precise keigo with the polished neutrality of a seasoned manager."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。今回の限定メニューには、エチオピアの小さな農園から仕入れた厳選豆を使う予定なんですよ。",
+      "en": "Thank you so much. For this limited menu, we're planning to use carefully selected beans sourced from a small farm in Ethiopia.",
+      "style": "Voice brightening with craftsman pride, leaning slightly forward when describing the beans."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "素晴らしいですね。ただ法務の立場から、契約書第七条、関係法規の遵守項目を一点だけ確認させてください。",
+      "en": "Wonderful. However, from a legal standpoint, please let me confirm just one point in Article Seven on compliance with relevant regulations.",
+      "style": "Smoothly pivoting into careful legal scrutiny, tone cooling without losing courtesy."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もちろんです。前回いただいたご指摘を踏まえて、輸入関連の条項は全面的に書き直しました。",
+      "en": "Of course. Based on your previous feedback, we completely rewrote the import-related clauses.",
+      "style": "Confident yet humble, ready to address professional concerns directly and openly."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。米国、いえ、正式には合衆国の輸入規制は、ここ数年で大きく変わっていますので。",
+      "en": "That's a great help. The import regulations of the US, or formally, the United States, have changed significantly in recent years.",
+      "style": "Self-correcting from casual to formal register, signalling legal precision with quiet pride."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そのあたりは顧問の先生にも確認していただきました。あと、御社が求められた経常利益の推移資料もご用意してあります。",
+      "en": "We had our legal advisor double-check that area. Also, I've prepared the materials on ordinary profit trends that your company requested.",
+      "style": "Reassuring barista warmth returning, voice steady as she slides documents across the table."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご丁寧にありがとうございます。在籍スタッフの内訳もあれば、社内の決裁がぐっとスムーズになります。",
+      "en": "Thank you for being so thorough. If you also have a breakdown of enrolled staff, our internal approval will go much more smoothly.",
+      "style": "Professional appreciation softening the edges, hinting at the warmth beneath the corporate veneer."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "全部このファイルに入っております。この提携は、うちの店にとっても今後の経営の中心的な位置付けですから。",
+      "en": "It's all in this file. This partnership holds a central position in our shop's future management as well.",
+      "style": "Quiet weight of commitment in her voice, hand resting briefly on the folder."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "心強いお言葉です。では、前回こちらが申し上げた懸念は撤回いたしまして、このまま調印へ進めさせてください。",
+      "en": "Reassuring words indeed. Then I'll withdraw the concerns we raised previously, and let's proceed straight to signing.",
+      "style": "Decisive close, formal facade finally cracking into a small genuine smile of relief."
+    }
+  ]
+}

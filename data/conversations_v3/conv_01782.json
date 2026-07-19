@@ -1,0 +1,61 @@
+{
+  "id": "conv_01782",
+  "context": "Mei reads bedtime story about a forest to small daughter (use hina_child as small child).",
+  "purpose": "Mother sharing imaginative storytelling moment.",
+  "ambient": "bedroom_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "森",
+    "動物",
+    "物語",
+    "夢"
+  ],
+  "cast": [
+    "mei_romantic",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_089)",
+    "generated_at": "2026-05-27T07:46:48.868Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、物語、聞きたい。",
+      "en": "Mom, will you tell me a story?",
+      "style": "Soft, drowsy request. Voice already half-way to sleep. Nestles the question in gently, trusting she'll say yes. Warm and utterly open.",
+      "mood": "sleepy_trusting"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "森の中、優しい動物たち。",
+      "en": "In a forest, there were kind animals.",
+      "style": "Begins as though the story is already unfolding in her mind. Dreamlike, unhurried pace. Each word chosen tenderly, like tucking a blanket. Warmth without performance.",
+      "mood": "tender_dreamy"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "どんな動物?",
+      "en": "What kind of animals?",
+      "style": "Small voice, curious but not urgent. Barely a whisper — doesn't want to break the spell of the story beginning. Wide-eyed and present.",
+      "mood": "curious_rapt"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "小さい兎と、賢い狐。",
+      "en": "A small rabbit, and a wise fox.",
+      "style": "Continues the story's gentle unfold. Slight pause before each animal, as if introducing them to the listener. Warm and patient, drawing out the moment.",
+      "mood": "gentle_engaged"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "いい夢、見られそう。",
+      "en": "I think I'll have nice dreams.",
+      "style": "Trailing certainty, almost to herself. Content sigh beneath the words. Already drifting, secure in the story and her mother's voice. Peaceful settling-in.",
+      "mood": "content_drowsy"
+    }
+  ]
+}

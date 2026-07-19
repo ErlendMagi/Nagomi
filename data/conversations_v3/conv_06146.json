@@ -1,0 +1,86 @@
+{
+  "id": "conv_06146",
+  "context": "A boss reviews CSR and finances",
+  "purpose": "Teach: 創っ/寄贈/自費/元本/学業/委ねる/備品/持ち歩い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "創っ",
+    "寄贈",
+    "自費",
+    "元本",
+    "学業",
+    "委ねる",
+    "備品",
+    "持ち歩い"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_309 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "創業者が創った理念、若手にも伝えよ。",
+      "en": "The founder's vision — pass it on to the younger staff.",
+      "style": "Direct, measured authority. Even breath. Slight pause after the dash to let the instruction land. Expects compliance without doubt.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地元の小学校に、図書、寄贈しました。",
+      "en": "Yes. We've donated books to a local elementary school.",
+      "style": "Steady, factual. Clipped delivery on \"Yes\" to show readiness. Even pace through the detail. Pride contained, not suppressed.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員の海外出張、自費部分、明確にしろ。",
+      "en": "The exec travel overseas — the personal expenses need to be clear.",
+      "style": "Precise, no softening. Sharp attention on \"personal expenses.\" Slight lean forward. This is a problem needing fixing.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。元本を確保しつつ、運用、進めます。",
+      "en": "Yes. We'll secure the principal while keeping operations moving.",
+      "style": "Thoughtful but brisk. Shows he's already thinking it through. Calm confidence — this isn't a guess, it's a plan.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手社員の学業支援、奨学制度を拡充しろ。",
+      "en": "Expand the scholarship program for junior staff education.",
+      "style": "Command-form delivery. Clean attack. Each phrase weighted equally. No negotiation, but not harsh — this is how things get done.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業務の判断、現場に委ねる方針です。",
+      "en": "Yes. Our policy is to trust decision-making to the field teams.",
+      "style": "Affirmative, then pivots to principle. Slight warmth on \"trust\" — this shows his philosophy. Steady, no defensiveness.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "備品の管理、責任部署を明確に。",
+      "en": "Equipment management — make the responsible department clear.",
+      "style": "Clipped, final-word clarity. Pause after the dash. Low but not whispered. Expects immediate understanding and action.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "タブレットを持ち歩いて、現場でデータ管理させます。",
+      "en": "We'll have people carry tablets out to the field and manage inventory on-site.",
+      "style": "Practical, forward-moving. Picks up tempo slightly. Shows the solution is already in motion. Matter-of-fact, not proud.",
+      "mood": "solution_focused"
+    }
+  ]
+}

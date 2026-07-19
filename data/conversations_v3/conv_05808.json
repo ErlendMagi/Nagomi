@@ -1,0 +1,65 @@
+{
+  "id": "conv_05808",
+  "context": "A boss introduces a uni intern to an engineering team",
+  "purpose": "Teach: 本田/石田/安田/川口/神田/大塚/野口/高木",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本田",
+    "石田",
+    "安田",
+    "川口",
+    "神田",
+    "大塚",
+    "野口",
+    "高木"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、こちらが本田部長、隣が石田課長、後ろが安田主任、川口先輩、神田リーダー。",
+      "en": "Ren, this is Director Honda over there; next to him is Chief Ishida; and behind them are Supervisor Yasuda, Kawaguchi, and Leader Kanda.",
+      "style": "Steady, authoritative pace. Point and name with clarity—no rush. Each introduction lands with the weight of introduction. Warm baseline beneath the formality. This is orientation, not interrogation.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "初めまして、よろしくお願いします。",
+      "en": "It's a pleasure to meet you all. I look forward to working with you.",
+      "style": "Respectful bow in the voice. Careful diction, slightly slower than conversational. Genuine—not performed. A small pause before each clause to show he means it, not just saying it.",
+      "mood": "respectful_earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "大塚さんがデータ分析、野口さんが品質、高木さんがAI担当だ。",
+      "en": "Otsuka handles data analysis; Noguchi is quality; Takagi leads the AI division.",
+      "style": "Clinical efficiency. Each role lands on the same beat. Hiroshi is cataloguing, not elaborating. Comfortable silence between phrases. Speaking to someone he's already assessing.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。",
+      "en": "I really appreciate that. There's a lot to learn.",
+      "style": "Soft, genuine gratitude. Slight breath intake before speaking—gathering resolve. Ren is absorbing, not just listening. Quieter than the bow, more personal. A touch of nervous energy underneath.",
+      "mood": "humbled_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まずは、各部署を一週間ずつ回ってもらう。",
+      "en": "First, you'll spend a week rotating through each department.",
+      "style": "Matter-of-fact instruction. Slight forward momentum—this is the plan, this is how it goes. No debate, but no harshness either. The tone of someone laying out a path he's walked before.",
+      "mood": "measured"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00777",
+  "context": "Hina pesters Yumiko with curious questions.",
+  "purpose": "child-mother curious-questions exchange",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "なぜ",
+    "質問",
+    "一緒",
+    "考える",
+    "楽しい"
+  ],
+  "cast": [
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_039)",
+    "generated_at": "2026-05-27T01:50:32.806Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、なぜ、空、青い？",
+      "en": "Mom, why is the sky blue?",
+      "style": "Bright, genuinely curious opening. High and warm without performing. Natural childish cadence—asks the question like she's been wondering about it all morning. Soft, unselfconscious.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いい質問。一緒に、考えてみる？",
+      "en": "That's a good question. Want to think about it together?",
+      "style": "Warm, inviting without being condescending. A small pause of genuine appreciation before the offer. Soft maternal tone that signals she's pleased Hina asked. Patient and open.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん。お日様、関係、ある？",
+      "en": "Yeah. Does the sun have something to do with it?",
+      "style": "Thinking aloud, engaged. A hint of self-awareness that she might be figuring it out as she speaks. Still bright, but with a thread of concentration running underneath. Genuine effort.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "正解。光、関係、あるね。",
+      "en": "Exactly right. Light is part of it.",
+      "style": "Pleased affirmation. Gentle emphasis on the connection she made. Warm approval that feels earned, not automatic. No rush—lets the answer land.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい！もっと、質問する。",
+      "en": "This is fun! Can I ask more questions?",
+      "style": "Bright crescendo. Real excitement, the kind only a child has when discovery feels personal. Quick, genuine. Trailing lift on the final question—expecting yes.",
+      "mood": "delighted_eager"
+    }
+  ]
+}

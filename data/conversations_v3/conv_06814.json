@@ -1,0 +1,86 @@
+{
+  "id": "conv_06814",
+  "context": "A boss reviews corp affairs",
+  "purpose": "Teach: 主治医/遺言/台頭/文科/担い手/陳情/微生物/消去",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主治医",
+    "遺言",
+    "台頭",
+    "文科",
+    "担い手",
+    "陳情",
+    "微生物",
+    "消去"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_342 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "創業者の主治医、長年、当社にも、ご縁があった人物だ。",
+      "en": "The founder's personal physician—someone we've had a long relationship with through the company.",
+      "style": "Measured, deliberate. Opens with slight weight on the title. Pauses between clauses like laying out facts. Calm authority without drama. Eyes steady on the listener.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。創業者の遺言、社是として、引き継いでおります。",
+      "en": "Yes. We've inherited the founder's will as the company motto and continue to uphold it.",
+      "style": "Respectful, attentive. Slight nod in the voice on 'inherited.' Steady tempo. Careful emphasis on 'continue'—showing diligence, not rote recitation.",
+      "mood": "respectful_attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界、新興企業の台頭、警戒しろ。",
+      "en": "Watch the industry carefully. Be alert to startups gaining ground.",
+      "style": "Firm, measured instruction. Sharp attack on the first word. Clipped cadence. No softening—this is counsel, not suggestion. Slight lean forward in posture.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。文科省のガイドライン、製品開発に、活用しています。",
+      "en": "Yes. We're actively using MEXT guidelines in our product development.",
+      "style": "Precise, professional. Light emphasis on 'actively' to show concrete action. Steady pace. Confident but not overconfident—reporting progress to someone who expects accuracy.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の担い手、社員、若手から、育てろ。",
+      "en": "Develop your future leaders from within—nurture the younger staff.",
+      "style": "Instructive, measured. Slight pause after the opening phrase. Emphasis on 'nurture' with care underneath—this is investment, not just direction. Steady, eye-contact level.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、政府への陳情活動にも、参加しております。",
+      "en": "Yes. Our staff are also participating in policy advocacy efforts with the government.",
+      "style": "Informative, engaged. Light emphasis on 'also' to show breadth of involvement. Measured pace. Showing active participation without overstatement.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "微生物分野、新規事業として、検討中だ。",
+      "en": "We're currently exploring microbiology as a potential new business venture.",
+      "style": "Considered, deliberate. Slight pause before 'microbiology.' Weight on 'exploring'—early stage, thoughtful. Measured pace. Open to the next question.",
+      "mood": "exploratory"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。古いデータの消去、計画的に、進めております。",
+      "en": "Yes. We're systematically proceeding with the planned deletion of legacy data.",
+      "style": "Methodical, precise. Emphasis on 'systematically'—showing careful process. Steady, unhurried tempo. Final statement of a sequence—slight closure in the trailing tone.",
+      "mood": "methodical"
+    }
+  ]
+}

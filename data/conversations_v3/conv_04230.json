@@ -1,0 +1,78 @@
+{
+  "id": "conv_04230",
+  "context": "A uni student interviews a senior developer about content systems",
+  "purpose": "Teach: ペーパー/ポリシー/フレーム/ドライバー/転載/改行/文字数/全角",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ペーパー",
+    "ポリシー",
+    "フレーム",
+    "ドライバー",
+    "転載",
+    "改行",
+    "文字数",
+    "全角"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はインタビューありがとうございます。御社のコンテンツ管理システムについて、まず基本ポリシーから伺えますか。",
+      "en": "Thank you for the interview today. Could I first ask about your company's basic content management policy?",
+      "style": "Polite, slightly nervous student interviewer opening formally with respect."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちはペーパーレス化を進めていて、無断転載を防ぐ仕組みも入れてます。投稿フレームは独自に組んでますよ。",
+      "en": "We're going paperless, and we've built in protection against unauthorized reposting. The posting framework is custom-built.",
+      "style": "Confident senior engineer, casual professional, slight pride in craft."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。フレームワークは何を使われてるんですか?データベースのドライバーとか。",
+      "en": "I see. What framework do you use? And things like the database driver?",
+      "style": "Eager student following up with technical curiosity, leaning forward."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "PostgreSQLのドライバーをラップして、独自のORMを書きました。意外と泥臭い作業ですよ。",
+      "en": "We wrapped the PostgreSQL driver and wrote our own ORM. It's surprisingly tedious work.",
+      "style": "Veteran tone, matter-of-fact, hints at long hours behind scenes."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "投稿時の文字数制限とか、全角と半角の扱いはどうされてますか?",
+      "en": "How do you handle things like character count limits and full-width versus half-width on submissions?",
+      "style": "Detailed technical question from prepared student, notebook in hand."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "文字数は全角換算で数えてます。改行コードもLFに統一してて、Windowsからの入力は自動変換ですね。",
+      "en": "We count characters in full-width units. We also normalize line breaks to LF, auto-converting Windows input.",
+      "style": "Patient explanation, walking junior through real implementation details clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "細かいところまで考えられてるんですね。最後に、若手エンジニア向けに一言いただけますか?",
+      "en": "You've really thought through every detail. Finally, could you give a word to young engineers?",
+      "style": "Genuinely impressed, wrapping up with a closing soft question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "地味な仕様こそ大事です。改行ひとつで信頼が決まりますから。",
+      "en": "The plain specs matter most. A single line break can decide whether you're trusted.",
+      "style": "Reflective closing wisdom, quiet conviction from years of experience."
+    }
+  ]
+}

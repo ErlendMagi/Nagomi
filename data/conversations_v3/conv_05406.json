@@ -1,0 +1,72 @@
+{
+  "id": "conv_05406",
+  "context": "A boss reviews HR and operational news",
+  "purpose": "Teach: 抽選/移籍/攻略/収納/主観/賛同/真摯/表彰",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "抽選",
+    "移籍",
+    "攻略",
+    "収納",
+    "主観",
+    "賛同",
+    "真摯",
+    "表彰"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_272 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の表彰候補、もう絞り込んだか?",
+      "en": "Have you narrowed down the award candidates for this quarter?",
+      "style": "Measured opening. Direct but not harsh. Slight pause after the question, inviting the answer without pressure. Calm authority.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の移籍組も含めて、真摯に評価しました。",
+      "en": "Yes. I've evaluated everyone carefully, including the new transfers in sales.",
+      "style": "Steady, methodical delivery. Confidence in the work done, not defensiveness. Even pace. Slight emphasis on 'carefully' — showing the thoroughness.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "抽選で決めるんじゃないんだから、主観に流されるな。",
+      "en": "This isn't a lottery, so don't let personal bias creep in.",
+      "style": "Firmer edge now. Not accusatory, but a clear principle being stated. Weight on 'isn't' and 'don't.' The tone of someone who's seen this go wrong before.",
+      "mood": "cautionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんです。攻略チームの貢献も賛同を得ています。",
+      "en": "Of course. The strike team's contributions have buy-in from the team as well.",
+      "style": "Reassuring without being obsequious. Quick, smooth delivery showing he's thought this through. Slight lift at the end — offering additional evidence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料は収納フォルダに揃えておけ。",
+      "en": "Make sure all the materials are organized in the shared folder.",
+      "style": "Practical, concise. Final instruction delivered without emphasis — matter-of-fact. The tone of someone moving through the checklist.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Crisp, immediate. Single beat of acknowledgment. Clean close — no extra words, just confirmation.",
+      "mood": "compliant"
+    }
+  ]
+}

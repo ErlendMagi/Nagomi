@@ -1,0 +1,86 @@
+{
+  "id": "conv_06646",
+  "context": "A boss reviews planning",
+  "purpose": "Teach: 知識人/会派/替わり/積ま/計っ/常用/手作業/シード",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "知識人",
+    "会派",
+    "替わり",
+    "積ま",
+    "計っ",
+    "常用",
+    "手作業",
+    "シード"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_334 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今度の講演会、知識人を多数招くな。",
+      "en": "For the upcoming lecture, we'll need to invite a number of prominent intellectuals.",
+      "style": "Measured directive. Even pace, no rush. Opens with calm authority. Sits at desk level—hands steady, eyes clear. Not unkind, but brooking no questions.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内、保守派と改革派の会派、調整中です。",
+      "en": "Understood. We're currently coordinating between the conservative and reform factions within the company.",
+      "style": "Professional, itemizing. Respectful cadence—each fact placed precisely. Slight lean forward to show engagement. Alert and earnest, not defensive.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "部長の替わりに、君に、出席してもらう。",
+      "en": "I want you to attend in the department head's place.",
+      "style": "Quiet confidence. Gentle but direct—like assigning trust. No performative delivery. Slight pause before the assignment lands.",
+      "mood": "delegating"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。倉庫、商品、これ以上、積まないでください。",
+      "en": "Understood. Also, we should stop stacking more inventory in the warehouse.",
+      "style": "Practical pivot—topic shift without ceremony. Even tone, straightforward. The voice of someone managing multiple details without strain.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業績、しっかり計った上で、判断する。",
+      "en": "We'll evaluate performance once we've measured results carefully.",
+      "style": "Principle stated simply. Measured, reflective pace. A reminder of standards rather than a rebuke. Settles slightly back in chair.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社用車、常用しているのは、私だけです。",
+      "en": "Understood. I'm the only one using the company vehicle on a regular basis.",
+      "style": "Factual update. Level tone, no apology or over-explanation. Direct, as though checking off a list together. Quick and clear.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "検品は、手作業で、慎重にやれ。",
+      "en": "Make sure quality control is done by hand and with full attention.",
+      "style": "Instruction with weight. Slower on the key word—「手作業」—slight emphasis. Not harsh, but the implication is clear: this matters, take care.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新事業に、シードマネー、確保しています。",
+      "en": "Understood. We've already secured seed funding for the new venture.",
+      "style": "Closing note of competence. Slightly lighter cadence—good news delivered without fanfare. Confident, concise, ready to wrap.",
+      "mood": "assured"
+    }
+  ]
+}

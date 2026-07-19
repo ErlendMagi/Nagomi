@@ -1,0 +1,86 @@
+{
+  "id": "conv_06249",
+  "context": "A police officer briefs on case-handling",
+  "purpose": "Teach: リポート/フェーズ/読み取り/近づける/停め/遣っ/戻さ/増えれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リポート",
+    "フェーズ",
+    "読み取り",
+    "近づける",
+    "停め",
+    "遣っ",
+    "戻さ",
+    "増えれ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_314 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察庁リポート、共有させてください。",
+      "en": "I'd like to share the National Police Agency report with you.",
+      "style": "Professional opening. Clear, measured delivery. Even pace. No rush—this is important information being handed over with care.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。我々のフェーズ管理、警察と連動させます。",
+      "en": "Understood. We'll coordinate our phase management with the police operation.",
+      "style": "Attentive and responsive. Quick acceptance, then slight lean forward into the detail. Shows readiness to execute. Steady confidence.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠の読み取り、慎重に。",
+      "en": "Handle evidence interpretation carefully.",
+      "style": "Measured instruction. Light emphasis on 'carefully'—not stern, but weighing. Quiet authority. The tone of someone who has seen carelessness cost.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者に近づけるルート、限定されています。",
+      "en": "Understood. Our routes to approach the suspect are limited.",
+      "style": "Factual acknowledgment. Brief pause before 'limited'—registering the constraint. Professional but not robotic. Shows he's thinking through the logistics.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "車両、現場の入口で停めるよう、お願いします。",
+      "en": "Please make sure vehicles are parked at the site entrance only.",
+      "style": "Directive stated as respectful request. Clear, no ambiguity. Slight downward inflection at the end. The politeness of someone used to being followed.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報、警察と社員、業務を遣ってもらう体制を進めます。",
+      "en": "Understood. We'll move forward with coordinating PR and staff deployment with your department.",
+      "style": "Confirming and forward-moving. Slight uptick at 'PR'—showing he's already thinking ahead to the next layer. Efficient, not rushed.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠、白紙に戻さず、追跡を。",
+      "en": "Don't reset the evidence chain. Keep tracking it.",
+      "style": "Firm instruction. Slight stress on 'don't' and 'keep'—non-negotiable. The tone of someone protecting the integrity of an investigation. Still measured, not angry.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事案、増えれば、対策も強化します。",
+      "en": "Understood. If more cases emerge, we'll escalate our countermeasures accordingly.",
+      "style": "Closing statement with future readiness. Calm, steady. No drama. Shows he understands this might expand and is prepared. Professional handoff tone.",
+      "mood": "resolute"
+    }
+  ]
+}

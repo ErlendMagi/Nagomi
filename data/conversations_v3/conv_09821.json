@@ -1,0 +1,86 @@
+{
+  "id": "conv_09821",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 見舞わ/陥り/放つ/つながら/かけ離れ/一転/産む/傷つける",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "見舞わ",
+    "陥り",
+    "放つ",
+    "つながら",
+    "かけ離れ",
+    "一転",
+    "産む",
+    "傷つける"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_493 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが風邪に見舞われてお休みなのよ",
+      "en": "Sho, your dad's caught a cold and he's resting at home today.",
+      "style": "Gentle, matter-of-fact. Opening warm and clear. The practical information without alarm—a mother normalizing something small. Steady pace, grounded in her capable presence.",
+      "mood": "calm_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが疲れの底に陥りそうだから労って差し上げてね",
+      "en": "Mom, Dad might get really worn down, so you'll take care of him, right?",
+      "style": "Quiet concern underneath. Not urgent—observant and delicate. A small voice noticing what adults miss. Slight upswing on the question, trusting but checking. No performance.",
+      "mood": "thoughtful_worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが厳しい声を放つ時は心配して下さってるのよ",
+      "en": "That's right, sweetheart. When Dad speaks in that stern voice, it means he's worried about something.",
+      "style": "Patient reassurance. Slow enough for a child to follow. Warm on the explanation—not condescending, but clarifying. A mother who meets her son where he is.",
+      "mood": "warm_understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと電話がつながらなかったよ",
+      "en": "Mom, I tried calling Dad but couldn't reach him.",
+      "style": "Matter-of-fact worry. Small and direct—not dramatic, just reporting what happened. A pause before the last word, like he's still processing it. Real concern in a child's quiet voice.",
+      "mood": "anxious_quiet"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは普段と性格がかけ離れた怖い顔の時もあるわね",
+      "en": "Sometimes Dad looks so different from how he usually is—almost scary, actually.",
+      "style": "Thoughtful, almost musing. Gently honest observation. Not critical—just naming something Sho's noticed and working to understand. A mother validating what her son sees without making it bigger than it is.",
+      "mood": "gently_honest"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、状況が一転して嬉しくなったよ",
+      "en": "Mom, things just changed so fast—I'm really happy now.",
+      "style": "Sudden brightness. Relief in the voice. Quick tempo on the shift. A child's joy when worry lifts—genuine, uncomplicated. The words tumble slightly with released tension.",
+      "mood": "relieved_bright"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、犬が赤ちゃんを産むって聞いたわ",
+      "en": "I heard the dog is going to have puppies.",
+      "style": "Warm, pleasant surprise in her voice. The kind of news a mother shares to lift the mood in the house. Light pace, a small smile audible. Offering something to be happy about together.",
+      "mood": "pleased_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんを傷つけるような事言わないって誓うよ",
+      "en": "Mom, I promise I won't say anything to hurt Dad.",
+      "style": "Serious and sincere without being heavy. A child making a real vow—steady breath, no wavering. Deep care underneath. Slow, deliberate, the weight of meaning in a small voice.",
+      "mood": "earnest_protective"
+    }
+  ]
+}

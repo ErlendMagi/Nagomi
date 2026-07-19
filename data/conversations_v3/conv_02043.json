@@ -1,0 +1,79 @@
+{
+  "id": "conv_02043",
+  "context": "Naoko plans a Kyoto sightseeing trip with Hiroshi-elder.",
+  "purpose": "Aunt and elder organizing travel logistics.",
+  "ambient": "ramen_shop_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "京都",
+    "観光",
+    "案内",
+    "費用",
+    "計画",
+    "北",
+    "離れ",
+    "日"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_103)",
+    "generated_at": "2026-05-27T13:02:24.898Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "兄ちゃん、京都、観光行こか!",
+      "en": "Brother — hey, let's go sightseeing in Kyoto!",
+      "style": "Brassy, generous opening. Loud and bright, the kind of voice that fills a room without trying. Quick upbeat rhythm. Playful energy — this is an invitation, not a demand.",
+      "mood": "energetic_inviting"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、ええなぁ、案内、何や?",
+      "en": "Yeah, that sounds good. What's the plan?",
+      "style": "Warm, immediately on board. Soft and easy — no hesitation. Gentle curiosity underneath. The fondness of someone who knows this person well and trusts her enthusiasm.",
+      "mood": "warm_interested"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "神社、お寺、ようけ回るで!",
+      "en": "Shrines, temples — we'll hit up a bunch of them!",
+      "style": "Animated and animated. Voice rises slightly with the excitement. Quick tempo, almost breathless. The kind of speaker who is already half-picturing the trip while talking about it.",
+      "mood": "enthusiastic"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "費用、どれくらい、かかるんやろ?",
+      "en": "How much do you think it'll cost?",
+      "style": "Gentle pragmatism. Soft landing on each word. A brief pause before the question — he's thinking it through. Warm but slightly concerned, the way someone asks when they genuinely want to know.",
+      "mood": "thoughtful_practical"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "日帰りやったら、安いで。",
+      "en": "If we do it as a day trip, it won't be too expensive.",
+      "style": "Matter-of-fact warmth. Brisk and reassuring. No fussiness — just laying out the sensible option. Confident in her own planning.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "家、離れるの、久しぶりや。",
+      "en": "It's been a long time since I've left home.",
+      "style": "Quiet and reflective. Slow pace, almost contemplative. A small exhale underneath — nostalgia mixed with something tender. Not melancholy, but wistful.",
+      "mood": "wistful_gentle"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "計画、来週、立てよか!",
+      "en": "Come on, let's figure it all out next week!",
+      "style": "Bright, decisive energy. Quick upbeat tempo. She's moving the conversation forward with warmth and optimism. No room for hesitation — this is happening.",
+      "mood": "determined_cheerful"
+    }
+  ]
+}

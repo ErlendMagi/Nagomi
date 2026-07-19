@@ -1,0 +1,86 @@
+{
+  "id": "conv_08154",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 洗脳/疾病/空想/部族/拷問/国営/改変/公営",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗脳",
+    "疾病",
+    "空想",
+    "部族",
+    "拷問",
+    "国営",
+    "改変",
+    "公営"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_409 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんを洗脳するような医療は行いません",
+      "en": "Ren — we don't conduct medical care designed to manipulate patients.",
+      "style": "Clear, measured opening. Steady gaze. No performative gentleness, but not harsh either. The certainty of someone stating principle, not opinion.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、希少な疾病の研究もされているそうですね、先生",
+      "en": "I've heard your hospital also conducts research on rare diseases, Doctor.",
+      "style": "Respectful inquiry with genuine curiosity beneath. Slight lean forward. Not flattering — sincere interest in her work. Careful with the honorific.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、空想型の症状を呈する患者さんも医療チームは丁寧に診ます",
+      "en": "Yes — our medical team approaches patients presenting with delusional symptoms with the same care and rigor.",
+      "style": "Measured confirmation. A small weight on 'delusional' — not clinical coldness, but precision. Steady breathing. She's including him in her professional world.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療体制が部族別に異なる国があると、貴院、研究なさったんですね、先生",
+      "en": "So your hospital has researched how healthcare systems differ across cultures with different tribal or community structures, then.",
+      "style": "Thoughtful, connecting the threads. Slightly slower pace — he's working through the implication as he speaks. Respectful but not obsequious. Genuinely impressed.",
+      "mood": "reflective_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、拷問被害者のトラウマケアを医療チームは行います",
+      "en": "Yes — our team also provides trauma care for torture survivors. It's part of our responsibility.",
+      "style": "Quiet conviction here. No flinch from the weight of it. Slow, deliberate. She's not softening the word 'torture' — meeting it directly.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国営医療制度との比較を、貴院、論じていらっしゃいますね、先生",
+      "en": "Your hospital addresses the comparison between public and state-run systems in that research too, I understand.",
+      "style": "Careful, intelligent follow-up. He's synthesizing, not just reacting. Soft, almost tentative phrasing — 'I understand' — but the question itself shows he's been listening closely.",
+      "mood": "thoughtful_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、カルテの改変は絶対に許しません",
+      "en": "Correct. We absolutely will not tolerate falsification of medical records.",
+      "style": "Firm shift here. The lightness drops. This is non-negotiable. Clipped, clear. Not angry — glacial. The line that matters most.",
+      "mood": "unyielding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "公営病院との連携、貴院は強化されているそうですね、先生",
+      "en": "I see — your hospital is strengthening partnerships with public institutions as well.",
+      "style": "Final synthesis, quiet and respectful. Closing the conversation with understanding. A small breath before speaking, like he's integrating everything he's learned. Trailing softly, almost like an acknowledgment rather than a question.",
+      "mood": "reflective_resolved"
+    }
+  ]
+}

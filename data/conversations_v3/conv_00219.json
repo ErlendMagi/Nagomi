@@ -1,0 +1,83 @@
+{
+  "id": "conv_00219",
+  "context": "Daichi has stopped at a koban to report a possibly suspicious situation he saw on his commute.",
+  "purpose": "civic interaction across regions — Osaka guy reporting in to Tokyo officer",
+  "ambient": "koban_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "報告",
+    "怪しい",
+    "人物",
+    "気",
+    "住所"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "takeda_officer"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "すいません、ちょっと気になることがあって。",
+      "en": "Excuse me, there's something that bothered me.",
+      "style": "Kansai warm earnest civic-opener, the regional swing softened for the formal setting, soft real care throughout delivery.",
+      "mood": "earnestly-careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どうされましたか。",
+      "en": "Yes, what happened?",
+      "style": "Officer professional steady receiving voice, the careful real listening-attention audible, soft real readiness threading throughout delivery.",
+      "mood": "professionally-steady"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "駅前の公園で、怪しい人が、ずっとおって。",
+      "en": "At the park by the station, a suspicious person was there for a long time.",
+      "style": "Kansai warm careful citizen-reporting, the regional swing carrying through the formal report, soft real care throughout delivery.",
+      "mood": "carefully-reporting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "時間はどれくらいでしょうか。",
+      "en": "About what time?",
+      "style": "Officer professional careful clarifying, the gentle clinical inquiry-cadence, soft real attention threading throughout delivery throughout.",
+      "mood": "carefully-clarifying"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "夕方の六時頃ですわ。",
+      "en": "Around six in the evening.",
+      "style": "Kansai warm precise citizen-answer, the regional swing in the helpful answer, soft real care threading throughout delivery throughout.",
+      "mood": "precisely-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ありがとうございます。住所と連絡先、教えていただけますか。",
+      "en": "Thank you. Could you give your address and contact info?",
+      "style": "Officer professional courteous information-gathering, the careful institutional cadence, soft real attention threading throughout delivery.",
+      "mood": "courteously-gathering"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "もちろん。何かあったら、また連絡しますわ。",
+      "en": "Of course. If anything else comes up, I'll contact you again.",
+      "style": "Kansai warm cooperative civic-closing, the regional swing carrying real care, soft real commitment threading throughout delivery.",
+      "mood": "cooperatively-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "助かります。何かあったら、すぐ連絡を。",
+      "en": "You're a help. If anything happens, contact us immediately.",
+      "style": "Officer warm professional sincere thanks, the soft real care behind the formality audible, gentle real warmth throughout delivery.",
+      "mood": "warmly-sincere"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08860",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 洗面/殺菌/バレンタインデー/ベーグル/教習所/ナポリ/競輪/大文字",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗面",
+    "殺菌",
+    "バレンタインデー",
+    "ベーグル",
+    "教習所",
+    "ナポリ",
+    "競輪",
+    "大文字"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_444 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、洗面台の鏡を綺麗に拭きましょうね",
+      "en": "Sho, let's make sure we wipe down the bathroom mirror nice and clean.",
+      "style": "Soft, matter-of-fact instruction. Warm but practical — the tone of a parent guiding a routine task. Steady rhythm. Inclusive 'we' that brings him into the responsibility gently.",
+      "mood": "calm_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、給食前に殺菌ジェルで手を洗うよ",
+      "en": "Mom, I wash my hands with disinfectant gel before lunch.",
+      "style": "Quick, earnest delivery — he's offering information he finds important. No hesitation. Slight lift at the end, like he's sharing something he's proud of noticing. Small and genuine.",
+      "mood": "eager_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、バレンタインデーにお父さんへチョコ用意しましょう",
+      "en": "Sho, let's prepare some chocolate for Dad for Valentine's Day.",
+      "style": "Gentle invitation, inviting him to share in something soft and special. Slower pace than the last instruction. Warmth underneath — she's including him in caring for his father. Slight linger on the idea.",
+      "mood": "tender_inclusive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ベーグルにバター塗ってください",
+      "en": "Mom, can you spread butter on my bagel for me?",
+      "style": "Direct, simple request. No elaborate reasoning — just what he wants right now. Polite but uncomplicated. Quick beat. The straightforward ask of a child who trusts he'll be heard.",
+      "mood": "eager_direct"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが新しい教習所に通われるそうよ",
+      "en": "Sho, your dad is attending a new driving school these days, apparently.",
+      "style": "Thoughtful observation shared conversationally. Slow, reflective — she's processing as she tells him. Quiet wonder in her tone. Not urgent, just... noteworthy. Slight trailing-off, like she's thinking aloud.",
+      "mood": "reflective_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとナポリのピザ屋に行きたい",
+      "en": "Mom, I want to go to that Neapolitan pizza place with Dad.",
+      "style": "Hopeful, specific request. A small brightness in his voice — he has an idea and wants it to happen. No pressure underneath, just genuine wanting. Open ending, waiting for her response.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは絶対競輪には行かないと約束されてるわ",
+      "en": "Sho, your father made a promise he'd never go to the keirin track.",
+      "style": "Steady, reassuring statement. She's offering him something solid — a promise kept is reliable. Quiet firmness. Not lecturing, just anchoring him in something true about his father. Clear breath at the end.",
+      "mood": "grounded_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと京都で大文字焼きを見たい",
+      "en": "Mom, I want to see the Daimonji bonfire in Kyoto with Dad.",
+      "style": "Wistful and specific. A memory he wants to make, not just any experience — this one, with Dad. Warmth and tenderness in the reaching. Soft close, like he's still imagining it as he speaks.",
+      "mood": "wistful_hopeful"
+    }
+  ]
+}

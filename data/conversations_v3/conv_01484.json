@@ -1,0 +1,61 @@
+{
+  "id": "conv_01484",
+  "context": "Daichi calls Hiroshi-elder by phone to check on him on a cold morning.",
+  "purpose": "Son-in-law checking on elderly father-in-law over the phone.",
+  "ambient": "home_morning_kettle",
+  "sound_effects": [],
+  "target_vocab": [
+    "電話",
+    "寒い",
+    "体",
+    "注意"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おとうさん、今朝寒いやろ?",
+      "en": "Dad — it's chilly this morning, isn't it?",
+      "style": "Warm opening, easy and familiar. Soft Kansai lilt. Gentle concern folded into casual observation, not forced. The tone of checking in on someone you care about without making it heavy.",
+      "mood": "affectionate_attentive"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、冷えるなぁ。",
+      "en": "Yeah, real cold today.",
+      "style": "Slow, gravelly exhale. Weathered Kansai drawl. No rush — he's lived through enough mornings to know cold when he feels it. Quiet acceptance, almost meditative.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "体、気をつけてや。",
+      "en": "Look after yourself, all right?",
+      "style": "Gentle insistence wrapped in warmth. Kansai softness — 'や' falling naturally at the end. Not commanding, but sincere. The care of someone younger making sure the older man knows he's thought of.",
+      "mood": "protective_tender"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おおきに、心配してくれて。",
+      "en": "Much obliged. I appreciate you worrying about me.",
+      "style": "Quiet gratitude, slightly surprised to be cared for. Slow Kansai cadence. A small smile in the voice — the kind of thanks that means more than the words say. Trails into gentle warmth.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "今日昼、寄るからな。",
+      "en": "I'll stop by around noon.",
+      "style": "Promise, not a plan. Kansai warmth and softness. Confident, reliable — he's saying this like a man who follows through. No fanfare, just the straightforward affection of showing up.",
+      "mood": "devoted"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04314",
+  "context": "A boss invites his manager to a business dinner reservation",
+  "purpose": "Teach: 鶏/調理/放題/代金/飲食/定員/ピーク/支払う",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鶏",
+    "調理",
+    "放題",
+    "代金",
+    "飲食",
+    "定員",
+    "ピーク",
+    "支払う"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今度の金曜、銀座の飲食店で部署の会食を予約したよ。",
+      "en": "I booked a department dinner at a restaurant in Ginza this Friday.",
+      "style": "warm authoritative boss tone inviting his subordinate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。どんなお店ですか?",
+      "en": "Thank you. What kind of place is it?",
+      "style": "polite curious office worker showing respect"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "鶏料理の専門店でね、調理が丁寧だと評判なんだ。",
+      "en": "It's a chicken specialty restaurant, famous for careful cooking.",
+      "style": "informative boss describing restaurant with quiet pride"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "へえ、食べ放題のコースもあるんでしょうか?",
+      "en": "Oh, do they have an all-you-can-eat course too?",
+      "style": "casual interested employee asking light follow-up question"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "あるよ。ただ金曜の夜はピーク時で、定員もすぐ埋まるらしい。",
+      "en": "They do. But Friday nights peak fast and seats fill quickly.",
+      "style": "experienced boss sharing practical scheduling concern calmly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。代金はどうしましょうか、各自で支払う形ですか?",
+      "en": "I see. How about the bill, does each person pay separately?",
+      "style": "considerate employee clarifying payment details politely"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回は私が出すから、気にせず楽しんでくれ。",
+      "en": "I'll cover it this time, so just relax and enjoy yourself.",
+      "style": "generous boss reassuring his subordinate with warmth"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "恐縮です。皆も喜びますよ、楽しみにしています。",
+      "en": "I'm honored. Everyone will be pleased, I'm looking forward to it.",
+      "style": "grateful employee accepting graciously with sincere appreciation"
+    }
+  ]
+}

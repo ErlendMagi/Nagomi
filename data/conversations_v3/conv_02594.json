@@ -1,0 +1,75 @@
+{
+  "id": "conv_02594",
+  "context": "Kenji and Yuki run a system check before launch.",
+  "purpose": "WIDENED SCENARIO: IT operations; tech vocabulary (チェック/ネットワーク/デジタル/コンピュータ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "チェック",
+    "ネットワーク",
+    "デジタル",
+    "コンピュータ",
+    "ソフト"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "公開前に、全部チェックしましょう。",
+      "en": "Let's check everything before going live.",
+      "style": "focused office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ネットワークは、安定していますか?",
+      "en": "Is the network stable?",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ネットワークは、問題なしです。",
+      "en": "The network has no issues.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "デジタルの記録も、残りますか?",
+      "en": "Will digital records be kept too?",
+      "style": "curious office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、デジタルで全部チェックできます。",
+      "en": "Yes, you can check everything digitally.",
+      "style": "reassuring office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "コンピュータの動きは、軽いですか?",
+      "en": "Is the computer running light?",
+      "style": "thoughtful office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ソフトを整理して、軽くしました。",
+      "en": "I tidied the software to make it light.",
+      "style": "satisfied office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "チェックが済めば、安心ですね。",
+      "en": "Once the check's done, it's reassuring.",
+      "style": "relieved office woman voice, soft warm clarity closing throughout"
+    }
+  ]
+}

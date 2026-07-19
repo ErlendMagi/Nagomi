@@ -1,0 +1,62 @@
+{
+  "id": "conv_00659",
+  "context": "Officer Takeda stops by Yumiko's home briefly. Small civic moment.",
+  "purpose": "small civic ongoing community check",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "近所",
+    "元気",
+    "感謝",
+    "安心",
+    "ありがとう"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "野田さん、こんにちは。お元気そうで、安心。",
+      "en": "Noda-san, hello. You look well — I'm relieved.",
+      "style": "Warm professional greeting. Genuine concern in the observation. Measured pace, steady eye contact. The ease of someone who has checked on many neighbors and means each one.",
+      "mood": "relieved_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "武田さん、いつもありがとうございます。",
+      "en": "Takeda-san, thank you as always.",
+      "style": "Respectful but genuinely warm. A slight bow in the voice. Unhurried gratitude—not effusive, but deeply felt. The tone of someone who knows this person's care matters.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "近所、特に、変わりなく？",
+      "en": "The neighborhood — no changes, everything normal?",
+      "style": "Professional inquiry but genuinely curious. Leans in slightly with the question. Listening posture. The tone of someone checking because it matters, not because it's protocol.",
+      "mood": "attentive_professional"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、皆さんで、ちゃんと、見守ってます。",
+      "en": "Yes, we're all looking after things properly.",
+      "style": "Steady, assured. A note of quiet pride in the \"we\" — she's part of the community care. Calm, reliable. The voice of someone reporting something she's confident about.",
+      "mood": "assured_civic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ、感謝しています。",
+      "en": "And we're grateful for it too.",
+      "style": "Closing warmth. A gentle finality to the exchange. Sincere without formality. Slight softening at the end—the acknowledgment of mutual care between two people who understand each other.",
+      "mood": "grateful_genuine"
+    }
+  ]
+}

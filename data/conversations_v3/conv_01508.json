@@ -1,0 +1,68 @@
+{
+  "id": "conv_01508",
+  "context": "Saito examines Hiroshi-elder for routine check-up; gentle medical exchange.",
+  "purpose": "Doctor checking elderly patient with warmth and respect.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "心臓",
+    "血液",
+    "検査",
+    "結果"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "心臓の音、安定してますよ。",
+      "en": "Your heart sounds steady.",
+      "style": "measured doctor voice, soft warm professional reassurance delivered carefully"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、よかったわ。",
+      "en": "Oh — that's good.",
+      "style": "slow elder Kansai voice, warm relieved soft delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血液検査の結果、後でお伝えします。",
+      "en": "I'll share blood test results later.",
+      "style": "professional doctor voice, soft clear careful delivery carefully"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よろしゅう頼むわ。",
+      "en": "Much obliged.",
+      "style": "gentle elder Kansai voice, slow warm respectful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "食生活、続けてくださいね。",
+      "en": "Keep up the diet, please.",
+      "style": "soft doctor voice, warm encouraging professional advice delivered carefully"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "はい、家内も気にしてくれて。",
+      "en": "Yes — the wife watches it too.",
+      "style": "soft elder Kansai voice, warm fond grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい奥様ですね。",
+      "en": "What a fine wife.",
+      "style": "warm doctor voice, soft genuine respectful appreciation delivered carefully"
+    }
+  ]
+}

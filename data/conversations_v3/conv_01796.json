@@ -1,0 +1,61 @@
+{
+  "id": "conv_01796",
+  "context": "Mrs. Mori invites Yumiko to a small ikebana class.",
+  "purpose": "Elder friends sharing cultural craft together.",
+  "ambient": "cultural_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "文化",
+    "花",
+    "美しい",
+    "伝統"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_090)",
+    "generated_at": "2026-05-27T07:54:50.847Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "生け花、初めて?",
+      "en": "Ikebana — first time doing this?",
+      "style": "Warm, curious lean-in. Soft fondness in the voice. The gentle probe of someone who's watched many people discover this. Unhurried, inviting.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ええ、ドキドキするわ。",
+      "en": "Yes. I'm honestly nervous about it.",
+      "style": "Breath catches slightly on the admission. Soft and honest, almost surprised at her own confession. Warm underneath — the vulnerability of trying something new.",
+      "mood": "eager_nervous"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "花、一本一本、丁寧にね。",
+      "en": "Flowers — you work with each one carefully, one at a time.",
+      "style": "Steady, patient teacher's voice. Slow demonstration in the words themselves. The reassurance of someone who's taught this before and knows what matters.",
+      "mood": "gentle_instructive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "美しい伝統、ですね。",
+      "en": "It's a beautiful tradition, isn't it.",
+      "style": "Quiet reverence. Soft wonder underneath — not performing awe, but genuinely touched. The voice of someone recognising something true.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "心、整うわよ。",
+      "en": "The mind settles, you know. It will.",
+      "style": "Knowing gentleness. Not forcing reassurance — just stating what she's seen happen. Warm and quiet, the wisdom of experience offered without weight.",
+      "mood": "wise_reassuring"
+    }
+  ]
+}

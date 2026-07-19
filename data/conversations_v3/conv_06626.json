@@ -1,0 +1,86 @@
+{
+  "id": "conv_06626",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 備蓄/修繕/調印/共催/譲る/過労/堅実/組み込ん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "備蓄",
+    "修繕",
+    "調印",
+    "共催",
+    "譲る",
+    "過労",
+    "堅実",
+    "組み込ん"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "非常用の備蓄、各事業所、点検しろ。",
+      "en": "Check the emergency stockpiles at each branch.",
+      "style": "Clipped, authoritative. Direct eye contact. No softening — this is an order, not a suggestion. Breath control and pace keep it matter-of-fact.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本社ビル、修繕、来月から始まります。",
+      "en": "Understood. The renovation of the main office building starts next month.",
+      "style": "Respectful, slightly faster than the boss. Not hurried — organized. Small nod of confirmation. Reporting facts clearly without embellishment or hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約、調印は、今週金曜の予定だな。",
+      "en": "The contract signing is scheduled for Friday this week, yes?",
+      "style": "Measured confirmation. Light vocal rise at the end, checking alignment. Not demanding — expecting agreement from someone who should already know this.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界団体と、共催イベント、企画中です。",
+      "en": "Yes. We're currently planning a co-hosted event with the industry association.",
+      "style": "Steady, informative. Each item gets equal weight. No excitement — professional update delivered with competence. Eyes stay level.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の案件、若手に譲る判断、する。",
+      "en": "For this project, I've decided to give the younger staff members the lead.",
+      "style": "Calm announcement of a decision already made. Slight pause before the decision itself. Not asking for input — stating direction with quiet confidence.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。過労、社員の中で、注意喚起しております。",
+      "en": "Understood. We're actively reminding the team about overwork and burnout prevention.",
+      "style": "Affirmative, slightly earnest. Shows he takes the instruction seriously. A beat of care in his voice — this matters beyond just compliance.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "堅実な経営方針、社内、徹底しろ。",
+      "en": "Implement sound management practices consistently throughout the company.",
+      "style": "Direct, non-negotiable. Each word has weight. Deliberate pace. The tone of someone who expects compliance and will notice if it doesn't happen.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新システムを組み込んだ運用、来期、開始します。",
+      "en": "Understood. We'll begin operations with the new system integrated starting next quarter.",
+      "style": "Clear confirmation and timeline. Professional formality. Slight lift of pride in 'will begin' — showing readiness and preparedness. Measured, not rushed.",
+      "mood": "reliable"
+    }
+  ]
+}

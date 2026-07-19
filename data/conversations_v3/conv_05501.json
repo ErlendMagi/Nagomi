@@ -1,0 +1,65 @@
+{
+  "id": "conv_05501",
+  "context": "Two cafe friends recap a recent week",
+  "purpose": "Teach: いままで/スッキリ/ヒマ/居心地/悲しく/全開/鳴らし/立ち上がり",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "いままで",
+    "スッキリ",
+    "ヒマ",
+    "居心地",
+    "悲しく",
+    "全開",
+    "鳴らし",
+    "立ち上がり"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "今週、いままでで一番ヒマな日もあれば、レジを全開で鳴らした日もあった。",
+      "en": "This week I had some of the slowest days ever, and then days where the register just wouldn't stop ringing.",
+      "style": "Easy, conversational opening. Matter-of-fact tone with a note of gentle amusement at the swing. Steady pace, like she's just observing the week. Slight lift at the end — no complaint, just texture.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "居心地のいい店だから、お客さん増えてるんだね。",
+      "en": "The shop's such a comfortable place — that's probably why you're getting more customers.",
+      "style": "Warm recognition, genuinely pleased for her. Soft smile in the voice. Slow, present — this is noticing something about Aoi, not just making conversation. Eye-contact level.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夕方、立ち上がりの席で、おじいさんが少し悲しくしていて、心配だった。",
+      "en": "There was an older man sitting by the window this evening, and he looked a little sad. I got worried about him.",
+      "style": "Gentle concern, but not alarming. Quiet observational tone — she was paying attention. Slow on the sadness, letting it land. Trailing softly, like she's still thinking about it.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "声かけられたの?",
+      "en": "Did you say anything to him?",
+      "style": "Light, interested question. Not probing, just genuinely curious about what Aoi does in these moments. Quick, natural, leaning slightly in.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、温かいお茶出したら、スッキリした顔で帰って行ったよ。",
+      "en": "I brought him some warm tea, and when he left, his face had completely cleared.",
+      "style": "Soft satisfaction in the voice. Warm but understated — she's not making a big thing of it, just noticing what happened. Gentle smile on the words. Quiet exhale of relief at the end.",
+      "mood": "tender_relieved"
+    }
+  ]
+}

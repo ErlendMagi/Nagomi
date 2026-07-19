@@ -1,0 +1,86 @@
+{
+  "id": "conv_10407",
+  "context": "Two managers chat",
+  "purpose": "Teach: 車種/日本円/丸の内/新橋/読み物/スチール/ストリーム/ポータブル",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "車種",
+    "日本円",
+    "丸の内",
+    "新橋",
+    "読み物",
+    "スチール",
+    "ストリーム",
+    "ポータブル"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_522 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "社用車の車種を電気自動車に切り替えましょう",
+      "en": "Let's switch our company vehicles over to electric cars.",
+      "style": "Decisive opening, clear authority. Clipped pace. The tone of someone who's already thought this through and is ready to move. No negotiation in the delivery.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外送金の日本円換算を毎日確認します",
+      "en": "Understood. I'll confirm the yen conversion on overseas transfers daily.",
+      "style": "Quick affirmation, then a slight shift—listing the action with clarity and focus. Respectful, aligned. The energy of someone taking notes and moving to the next item.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "丸の内のセミナーに営業部から派遣します",
+      "en": "We'll dispatch someone from Sales to the Marunouchi seminar.",
+      "style": "Matter-of-fact assignment. Even pace, forward momentum. The voice of delegation without strain—someone comfortable giving clear direction.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新橋の老舗との連携を進めます",
+      "en": "Understood. I'll move forward with connecting with the long-established shop in Shinbashi.",
+      "style": "Steady confirmation, then a deliberate step into the next action. Professional, engaged. The tone of someone noting a commitment and moving to fulfil it.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員向け読み物を社内報に毎月載せましょう",
+      "en": "Let's run monthly staff reading pieces in the company newsletter.",
+      "style": "Proposal with light certainty. Moderate pace, conversational but purposeful. The suggestion of someone establishing a small culture shift, not announcing a mandate.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。倉庫のスチールラックを新調します",
+      "en": "Understood. I'll get new steel shelving for the warehouse.",
+      "style": "Direct acknowledgment, then the action stated with quiet efficiency. No flourish. The tone of someone who hears the instruction and begins the work.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "動画配信のストリームを高画質化しましょう",
+      "en": "Let's upgrade our video stream to high definition.",
+      "style": "Clear intention, steady pace. The voice of someone identifying what needs to happen next and moving the team toward it. Slight emphasis on the upgrade itself.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議用ポータブルプロジェクターを購入します",
+      "en": "Understood. I'll purchase portable projectors for meetings.",
+      "style": "Final confirmation, delivered with closure. Slightly slower pace on the action—it's the closing point. Professional, complete. The tone of someone signing off on a list.",
+      "mood": "resolved"
+    }
+  ]
+}

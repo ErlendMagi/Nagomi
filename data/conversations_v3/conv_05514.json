@@ -1,0 +1,72 @@
+{
+  "id": "conv_05514",
+  "context": "A uni student interviews a retired civil engineer",
+  "purpose": "Teach: 交通省/官邸/直線/遠隔/無関心/団地/下降/上流",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "交通省",
+    "官邸",
+    "直線",
+    "遠隔",
+    "無関心",
+    "団地",
+    "下降",
+    "上流"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "長年、土木と交通省の橋渡しをされていたんですよね。",
+      "en": "You've spent years bridging civil engineering and the transport ministry, haven't you?",
+      "style": "Respectful, genuinely curious. Leaning forward slightly. Careful articulation — this is someone asking an elder about his life's work. Warm but formal.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。官邸とも何度も交渉した。",
+      "en": "Yes. I negotiated with the cabinet office many times.",
+      "style": "Matter-of-fact recollection. Steady, unhurried pace. No pride, no regret — just stating what happened. The voice of someone who knows what he's seen.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "直線道路と団地開発の調整、住民の無関心、課題でしたか。",
+      "en": "Was coordinating road projects and housing developments difficult because residents just didn't engage?",
+      "style": "Thoughtful probe, not accusatory. Slow on the setup. Slight lift on the final clause — testing whether he agrees with the diagnosis.",
+      "mood": "thoughtfully_probing"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。遠隔地ほど、住民の声が下降していった。",
+      "en": "Yes. The more remote the area, the quieter the voices became.",
+      "style": "Quiet, observational tone. Voice trails slightly at the end. Speaking from memory — not bitterness, but recognition of a pattern he watched happen.",
+      "mood": "wistful_observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "上流の自治体の対応、変わってきましたか。",
+      "en": "Have upstream municipalities started responding differently now?",
+      "style": "Genuine interest, not leading. Open-ended. Lean into the question naturally — Ren is following the thread of what matters to this man.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "近年は、改善しているよ。",
+      "en": "Things have been improving in recent years.",
+      "style": "Quiet affirmation with a hint of cautious optimism. Measured pace. A gentle close — not triumphant, but satisfied that direction matters more than arrival.",
+      "mood": "cautiously_hopeful"
+    }
+  ]
+}

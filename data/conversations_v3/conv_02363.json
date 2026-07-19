@@ -1,0 +1,70 @@
+{
+  "id": "conv_02363",
+  "context": "Saito explains how a medication works to a curious Ren shadowing him.",
+  "purpose": "Doctor in explanatory register, technical-but-natural.",
+  "ambient": "clinic_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "場合",
+    "によって",
+    "程度",
+    "ほとんど",
+    "使用",
+    "効果"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_119)",
+    "generated_at": "2026-05-29T12:23:43.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "この薬は、症状の程度によって、量を変えます。",
+      "en": "We adjust the dose of this medicine by the severity of symptoms.",
+      "style": "measured doctor voice, soft warm professional clear delivery carefully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "軽い場合は、少なめですか?",
+      "en": "For mild cases, is it a smaller amount?",
+      "style": "curious young man voice, soft warm engaged delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。ほとんどの患者さんは、それで良くなります。",
+      "en": "Yes. Most patients improve with that.",
+      "style": "gentle doctor voice, soft warm informative delivery carefully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "使用するとき、注意点はありますか?",
+      "en": "Are there precautions when using it?",
+      "style": "engaged young man voice, soft warm professional delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "食後に飲むこと。これが、効果を高めます。",
+      "en": "Take it after meals — that boosts the effect.",
+      "style": "measured doctor voice, soft warm careful delivery carefully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、勉強になります。",
+      "en": "I see — that's instructive.",
+      "style": "humble young man voice, soft warm grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "患者さんに、丁寧に伝えることが大事ですよ。",
+      "en": "It's important to explain it to patients carefully.",
+      "style": "warm doctor voice, soft warm wise delivery carefully"
+    }
+  ]
+}

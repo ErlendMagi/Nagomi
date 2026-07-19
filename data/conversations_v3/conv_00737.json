@@ -1,0 +1,76 @@
+{
+  "id": "conv_00737",
+  "context": "Officer Takeda meets Ren after Ren's late-night lab work.",
+  "purpose": "authority-student late-night safety advisory",
+  "ambient": "street_night",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "状況",
+    "安全",
+    "大変",
+    "注意"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "君、こんな時間まで、仕事か？",
+      "en": "You're working this late?",
+      "style": "Even, professional opening. Gentle curiosity beneath the uniform — not interrogative, genuinely asking. Steady gaze. A moment of human concern breaking through the official posture.",
+      "mood": "concerned_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、研究室、今、帰る所です。",
+      "en": "Yes, just leaving the lab now.",
+      "style": "Respectful but not stiff. A small, genuine warmth in the acknowledgment — not performing deference, actually grateful for the attention. Slight relief in the phrasing, like this conversation is solid ground.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "夜の状況、結構、危ない時、ある。",
+      "en": "It can get pretty dangerous out at this hour.",
+      "style": "Careful weight on 'dangerous' — not alarmist, but real. The tone of someone who has seen things. Steady, low-key advisory. Not lecturing; informing someone he respects.",
+      "mood": "cautious_caring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "気を付けます。明るい道、選んでます。",
+      "en": "I'll be careful. I'm sticking to well-lit streets.",
+      "style": "Quick, earnest reassurance. The eagerness of someone young trying to show he's already thought this through. A touch of self-consciousness — aware he's being looked out for, appreciating it.",
+      "mood": "earnest_reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良し。仕事、大変だろうが、安全、一番。",
+      "en": "Good. Work's demanding, but safety comes first.",
+      "style": "A slight soften from earlier — approval and instruction blended. The 'but' carries weight: priority-setting, not criticism. Paternal without overstepping. Brief, memorable.",
+      "mood": "warm_advisory"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます、気を付けます。",
+      "en": "Thank you. I'll take care.",
+      "style": "Quiet gratitude, no excess. Sincere nod in the voice. He means it — this exchange landed. Respectful close without formality-stiffness.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "注意して、帰れ。",
+      "en": "Get home safe.",
+      "style": "Final note: calm, brief, final. The tone shifts to genuine care underneath the instruction. Not dismissive — this is how officers like Takeda say goodbye to people they've decided are worth watching over.",
+      "mood": "protective_brief"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04730",
+  "context": "A vendor and cafe owner finalize a long-term contract",
+  "purpose": "Teach: 引き下げ/免除/落札/需給/補完/著名/完結/出入り",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き下げ",
+    "免除",
+    "落札",
+    "需給",
+    "補完",
+    "著名",
+    "完結",
+    "出入り"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_238 workflow wxr5wooap)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "本日は契約の件で伺いました。需給の動向を踏まえて、来期から納入価格の引き下げをご相談したいんです。",
+      "en": "I've come today about the contract. Given supply and demand trends, we'd like to discuss a price reduction from next term.",
+      "style": "Polite businesslike tone, measured and slightly firm negotiator voice"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "正直、厳しいですね。先日の豆の入札でうちが落札した価格自体が高くて、こちらも余裕がなくて。",
+      "en": "Honestly, that's tough. The price we won at the recent bean auction was already high, so we have no margin either.",
+      "style": "Warm but candid cafe-owner voice, slightly worried and sincere"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事情は承知しています。その代わり、最低発注量を保証して、初年度は配送料の免除という形でこちらが補完します。",
+      "en": "I understand the situation. In exchange, we'll guarantee minimum orders and waive delivery fees the first year to compensate.",
+      "style": "Calm, problem-solving corporate tone with reassuring cadence"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それは助かります。実はうちの店、著名な雑誌に載ってから、店の出入り口に列ができるくらいお客さんが増えて。",
+      "en": "That really helps. Since a famous magazine featured us, lines have formed at our entrance — customers have really grown.",
+      "style": "Brightening slightly, proud yet humble small-business owner voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "存じております。だからこそ長期で組みたいんです。三年契約で、双方の不安要素を完全に解消したくて。",
+      "en": "I'm aware. That's exactly why we want a long-term deal — three years to fully resolve mutual concerns on both sides.",
+      "style": "Confident, forward-looking, with quiet conviction in her pitch"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "三年は長いですが、安定するならありがたいです。ただ、品質基準だけはこちらの言い分も通させてください。",
+      "en": "Three years is long, but stability is welcome. Just let our quality standards have weight too, please.",
+      "style": "Thoughtful, gently assertive about craft and standards in negotiation"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。九月下旬を目処に協議を完結させて、正式契約という方向で社内に持ち帰らせていただきます。",
+      "en": "Of course. We'll aim to conclude discussions by late September and move toward a formal contract — I'll take this back internally.",
+      "style": "Closing tone, polished and conclusive, businesslike warmth in her delivery"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。今日はゆっくりコーヒーでも飲んでいってください。一杯、サービスしますね。",
+      "en": "Thank you. Please stay and enjoy a coffee — this one's on the house today.",
+      "style": "Relaxed and friendly, returning to barista mode with genuine hospitality"
+    }
+  ]
+}

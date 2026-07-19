@@ -1,0 +1,72 @@
+{
+  "id": "conv_05398",
+  "context": "A uni student helps a teen friend plan a cultural trip",
+  "purpose": "Teach: 万博/ウィーン/秋葉原/金沢/モーツァルト/ドクター/芸術家/大賞",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "万博",
+    "ウィーン",
+    "秋葉原",
+    "金沢",
+    "モーツァルト",
+    "ドクター",
+    "芸術家",
+    "大賞"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、卒業旅行、ウィーンと金沢で迷ってます。",
+      "en": "Senpai, I'm torn between Vienna and Kanazawa for the graduation trip.",
+      "style": "Quick, bright opening. Genuine indecision — not fishing for an answer, actually weighing it. Leans forward slightly. Respectful but easy with him.",
+      "mood": "thoughtful_eager"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "モーツァルトの軌跡を辿るならウィーン、和の芸術家巡りなら金沢。",
+      "en": "Vienna if you want to trace Mozart's path. Kanazawa if you're after visiting Japanese artists.",
+      "style": "Calm, laying out options like he's thought about this. No pressure in the tone. Clear-eyed. Slight warmth — he's comfortable helping her think.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "秋葉原の最新ガジェット展も気になるんですが。",
+      "en": "Though I'm also kind of interested in that latest-gadget exhibition in Akihabara.",
+      "style": "Slight conspiratorial shift — admitting something less weighty. Self-aware smile in the voice. Testing if he'll judge her for the contradiction.",
+      "mood": "playful_uncertain"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "帰国後でも観れる。今は遠出を優先しよう。",
+      "en": "You can see that after you get back. Prioritize somewhere far away while you can.",
+      "style": "Gentle but grounded advice. Not lecturing — just matter-of-fact wisdom. Warm underneath. He's not dismissing her interest, just redirecting gently.",
+      "mood": "protective_practical"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "万博関連の特別展も追加できそう。",
+      "en": "I could probably fit in an Expo-related special exhibition too though.",
+      "style": "Brightening again, scheming out loud. Energy building. She's half-joking about fitting everything in but also genuinely considering it. Quick delivery.",
+      "mood": "excited_scheming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ドクター佐藤の関連講演、大賞受賞してたから、聞けたら最高。",
+      "en": "Dr. Sato's related talk actually won a grand prize — if you could catch that, it'd be incredible.",
+      "style": "Genuine enthusiasm breaking through. He knows this matters in a way beyond the usual. Slight lean forward. Not performing knowledge, sharing something he's actually excited about.",
+      "mood": "inspired_genuine"
+    }
+  ]
+}

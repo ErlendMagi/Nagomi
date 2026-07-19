@@ -1,0 +1,78 @@
+{
+  "id": "conv_04375",
+  "context": "A teacher gives a uni student writing-method feedback",
+  "purpose": "Teach: 英文/解答/検定/検出/限度/欠点/ユニーク/多々",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "英文",
+    "解答",
+    "検定",
+    "検出",
+    "限度",
+    "欠点",
+    "ユニーク",
+    "多々"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "蓮くん、先週提出してくれた英文ライティングの解答用紙、目を通しましたよ。",
+      "en": "Ren, I've looked through the English writing assignment you submitted last week.",
+      "style": "Warm but composed teacher tone, opening feedback gently with formal politeness."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。正直、英検の検定対策を意識して書いたんですけど、自信がなくて…。",
+      "en": "Thank you. Honestly, I wrote it with the Eiken certification test in mind, but I'm not confident.",
+      "style": "Nervous university student, slightly humble, seeking reassurance from teacher."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "発想自体はとてもユニークで、面白い視点が多々ありました。そこは大きな強みです。",
+      "en": "The ideas themselves were very unique, and there were many interesting perspectives. That's a real strength.",
+      "style": "Encouraging, leading with praise before constructive criticism, professional warmth."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか?嬉しいです。でも、欠点もきっとありますよね…遠慮なく指摘してください。",
+      "en": "Really? I'm glad. But there must be weak points too, right? Please point them out honestly.",
+      "style": "Eager student humbly inviting criticism, mature self-aware attitude toward growth."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうですね、一文が少し長すぎて、読み手の集中力の限度を超えてしまう箇所が見受けられました。",
+      "en": "Well, some sentences were a bit too long, and there were places that exceeded the reader's concentration limit.",
+      "style": "Specific, diagnostic feedback delivered with measured academic warmth and care."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、確かに書きながら止まれなくなる癖があって…。",
+      "en": "I see, certainly I have a habit of not being able to stop while writing.",
+      "style": "Reflective acknowledgment, casual trailing speech showing genuine self-recognition of flaws."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それと、同じ単語の繰り返しも検出できたので、類義語に置き換えるともっと洗練されますよ。",
+      "en": "Also, I detected repetition of the same words, so replacing them with synonyms will make it more refined.",
+      "style": "Additional concrete feedback offered as constructive next step with gentle expertise."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、必ず直してきます。今日のフィードバック、本当にありがとうございました!",
+      "en": "Yes, I'll definitely correct it. Thank you so much for today's feedback!",
+      "style": "Energetic grateful closing, motivated student tone with renewed determination."
+    }
+  ]
+}

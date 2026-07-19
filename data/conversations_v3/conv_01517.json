@@ -1,0 +1,61 @@
+{
+  "id": "conv_01517",
+  "context": "Sachiko-grandma teaches Hina-young how to make a paper crane.",
+  "purpose": "Grandmother teaching child traditional craft; quiet attention.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "折り紙",
+    "形",
+    "手",
+    "伝統"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "まず、半分に折ってね。",
+      "en": "First, fold it in half for me.",
+      "style": "Warm, patient opening. Soft hands in her voice. Each instruction clear and unhurried, like she's done this a hundred times and has all the time in the world for this one.",
+      "mood": "warm_patient"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい、こうですか?",
+      "en": "Yes—like this?",
+      "style": "Bright and eager, checking in. Small upward lift at the end—genuine question, not performance. The concentrated attention of a child who wants to get it right.",
+      "mood": "attentive_eager"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、上手ね、ゆっくりで。",
+      "en": "Perfect, you're doing beautifully. Take your time.",
+      "style": "Soft praise settling over the words. No rush. Gentle encouragement on 'beautifully'—grandmother noticing not just the action but the care in it.",
+      "mood": "proud_unhurried"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "形が見えてきた!",
+      "en": "I can see the shape appearing!",
+      "style": "Delighted recognition breaking through. Quick, bright—the genuine excitement of watching something familiar emerge. A child's wonder at the magic of folded paper.",
+      "mood": "joyful_amazed"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "これが、伝統の鶴よ。",
+      "en": "This is the traditional crane.",
+      "style": "Reverent, nearly whispered weight to it. Settling into something larger than this moment—generations of hands, this shape. Tender and ceremonial without being stiff.",
+      "mood": "tender_reverent"
+    }
+  ]
+}

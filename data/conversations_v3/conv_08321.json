@@ -1,0 +1,86 @@
+{
+  "id": "conv_08321",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 真夜中/どっと/あげく/大金/居間/つぶやい/しつこい/うろうろ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "真夜中",
+    "どっと",
+    "あげく",
+    "大金",
+    "居間",
+    "つぶやい",
+    "しつこい",
+    "うろうろ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_418 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、真夜中にお水飲みたくなったら、ママ呼んでね",
+      "en": "If you get thirsty in the middle of the night, sweetheart, just call for me.",
+      "style": "Soft, protective opening. Warm practical tone. The gentle authority of a mother settling her child. Slow, unhurried pace—no rush, I'm here.",
+      "mood": "tender_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祭りでお客様がどっと来たって、お父さんが言ってたよ",
+      "en": "Mom, Dad said a crowd of customers suddenly showed up at the festival.",
+      "style": "Quiet, matter-of-fact reporting. The careful voice of a child relaying something he's noticed matters. No drama, just the facts as he heard them.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、走り回ったあげく、お疲れになったわね",
+      "en": "You ran yourself ragged out there, didn't you, sweetheart.",
+      "style": "Knowing, slightly amused warmth. A gentle observation, not a question. Soft recognition of his tiredness mixed with quiet affection.",
+      "mood": "fond_wry"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんが大金を寄付なさったってお話聞いたよ",
+      "en": "Mom, I heard Grandpa made a big donation.",
+      "style": "Still reporting, but with a hint of wonder underneath. The same careful, perceptive tone. A child processing something significant without quite knowing why it matters.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、居間でお絵かきしようね",
+      "en": "Why don't we do some drawing together in the living room.",
+      "style": "A gentle redirect, warmly offered. Not commanding—inviting. The voice of someone shifting his mood by changing the moment. Calm, easy.",
+      "mood": "gentle_redirecting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが何かつぶやいてたよ",
+      "en": "Dad was muttering about something earlier.",
+      "style": "Small, hesitant observation. Not complaining—just noticing and sharing. The voice of a child aware that adults have thoughts he doesn't quite understand.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達が、しつこい誘い方しないか心配",
+      "en": "I'm a bit worried your friends might not be gentle about how they ask you to do things.",
+      "style": "Quiet concern beneath a practical surface. A mother thinking aloud, not quite asking. Careful tone—protective but not hovering. The words of someone who knows her son notices things.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お家の中をうろうろしてたよ",
+      "en": "I was just wandering around the house earlier.",
+      "style": "Small, wry admission. A child explaining his own restlessness with gentle self-awareness. Quiet, slightly apologetic—aware that wandering means something was off.",
+      "mood": "quietly_restless"
+    }
+  ]
+}

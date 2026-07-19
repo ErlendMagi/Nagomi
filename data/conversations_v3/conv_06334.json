@@ -1,0 +1,86 @@
+{
+  "id": "conv_06334",
+  "context": "A boss reviews a corporate issue",
+  "purpose": "Teach: 問いかけ/たどっ/潰れ/壊さ/敷い/歪ん/聞き取れ/消さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "問いかけ",
+    "たどっ",
+    "潰れ",
+    "壊さ",
+    "敷い",
+    "歪ん",
+    "聞き取れ",
+    "消さ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員への問いかけ、月一で実施しろ。",
+      "en": "Implement monthly check-ins with staff.",
+      "style": "Sharp, decisive. Brief breath-pause after the verb. Authority without drama. Eyes moving to the next task already.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。創業の道をたどった社史、丁寧に編集します。",
+      "en": "Understood. I'll edit the company history—the founding story—carefully.",
+      "style": "Attentive nod underlying the words. Steady pace, measured. Slight lean forward to show he's tracking the thread. Businesslike but not rushed.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "倉庫の屋根、潰れた箇所、修理を急げ。",
+      "en": "The warehouse roof—damaged sections. Get the repairs done quickly.",
+      "style": "Clipped sentences. Weight on 'quickly.' No softening. This is a problem he wants solved, not discussed. Tone stays level and direct.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "設備を壊さずに、改修、進めます。",
+      "en": "Understood. We'll proceed carefully so equipment doesn't get damaged.",
+      "style": "Calm assurance. Not defensive—just laying out the plan. Quiet confidence that the work will be done right. Measured tempo, no hesitation.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "カーペット、新しく敷いたフロア、来客に好評だ。",
+      "en": "The new carpet on the floor—guests have been responding well to it.",
+      "style": "Slight shift to warmth here. Observational rather than directive. A beat of genuine noticing. Not praise exactly, but acknowledgment that something worked.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。報告書、歪んだ数値、修正しました。",
+      "en": "Yes. I've corrected the data issues in the reports.",
+      "style": "Efficient. Brief acknowledgment and handoff. Shows he understood the indirect request—that positive action includes attention to detail elsewhere.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員会、聞き取れない部分、議事録、補強しろ。",
+      "en": "The board meeting minutes—fill in the parts that were unclear on the recording.",
+      "style": "Direct instruction with clear purpose. No softness but not harsh. This is maintenance work, not blame. Even tempo, expects compliance without drama.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。痕跡、消さずに、改善履歴、残します。",
+      "en": "Understood. I'll strengthen the record while keeping a trail of what was added and why.",
+      "style": "Careful words. Slight emphasis on 'why'—showing he understands the ethical weight here. Deliberate, thoughtful pace. Not defensive, but thorough.",
+      "mood": "conscientious"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03292",
+  "context": "Dealing with trolls after launch",
+  "purpose": "Handle moderation; teach 名無し/適切/削除/アプリケーション/上記/記述/つぶやき/特許",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "名無し",
+    "適切",
+    "削除",
+    "アプリケーション",
+    "上記",
+    "記述",
+    "つぶやき",
+    "特許"
+  ],
+  "cast": [
+    "riku_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_165)",
+    "generated_at": "2026-05-29T17:24:30.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "名無しの投稿で、荒らしが増えてきた。",
+      "en": "Anonymous posts have brought more trolling.",
+      "style": "frustrated dev reporting a problem, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "不適切なものは、すぐ削除しよう。",
+      "en": "Let’s delete the inappropriate ones right away.",
+      "style": "decisive lead taking action, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "アプリケーションに通報ボタンを追加したよ。",
+      "en": "I added a report button to the application.",
+      "style": "proactive dev showing his fix, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いいね。上記のルールを画面に表示しよう。",
+      "en": "Good. Let’s display the above rules on screen.",
+      "style": "lead refining the approach, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "規約に、禁止事項を記述しておくね。",
+      "en": "I’ll describe the prohibitions in the terms.",
+      "style": "diligent dev handling the policy, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "つぶやき機能は人気だけど、管理が大変だ。",
+      "en": "The murmur feature’s popular, but moderation is tough.",
+      "style": "lead weighing the tradeoff, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "この通報の仕組み、特許になりそうな発想だね。",
+      "en": "This reporting design feels patent-worthy.",
+      "style": "impressed dev praising the idea, tone holding steady through the whole line"
+    }
+  ]
+}

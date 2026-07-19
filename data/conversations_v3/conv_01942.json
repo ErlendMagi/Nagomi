@@ -1,0 +1,61 @@
+{
+  "id": "conv_01942",
+  "context": "Yumiko gives Hina-young her grandmother's hairpin as a heirloom.",
+  "purpose": "Elder passing meaningful heirloom across generations.",
+  "ambient": "tatami_lamp_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "飾り",
+    "受け取る",
+    "大切",
+    "伝統"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひな、これ、おばあちゃんの。",
+      "en": "Hina—this was your grandmother's.",
+      "style": "Soft, deliberate pause after the name. Warm reverence in the voice, like she's handing over something precious. Gentle breath before speaking the object's weight.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "まあ、本当にいいの?",
+      "en": "Really? I can have it?",
+      "style": "Awed, almost breathless on the opening. Sincere surprise—not performance, genuine disbelief. Soft lift at the end, checking she understood correctly.",
+      "mood": "grateful_awed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、お前に、託したい。",
+      "en": "Yes. I want to give this to you.",
+      "style": "Quiet certainty. The word 'you' lands with quiet emphasis—not demanding, but clear. Breath of completion, like a small ceremony closing.",
+      "mood": "loving_intent"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "大切に、します。",
+      "en": "I'll take care of it. I promise.",
+      "style": "Solemn and small. The words come deliberate and slow. No rush. The tone of a child understanding she's been trusted with something that matters.",
+      "mood": "devoted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "伝統、守ってね。",
+      "en": "Keep the tradition alive, okay?",
+      "style": "A gentle request, not a command. Soft at the edges but solid at the center. The phrase lands like a hand resting on a shoulder—present, not heavy.",
+      "mood": "hopeful_legacy"
+    }
+  ]
+}

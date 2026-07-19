@@ -1,0 +1,78 @@
+{
+  "id": "conv_04059",
+  "context": "A boss and his deputy review a committee report",
+  "purpose": "Teach: 判明/改定/答申/定年/発足/定める/出力/分割",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "判明",
+    "改定",
+    "答申",
+    "定年",
+    "発足",
+    "定める",
+    "出力",
+    "分割"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ようやく委員会の答申書に目を通したよ。思ったより踏み込んだ内容だったな。",
+      "en": "I've finally read through the committee's report. The content went further than I expected.",
+      "style": "Boss speaks in measured, slightly weary executive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、定年制度の改定について、かなり具体的な提案がありましたね。",
+      "en": "Yes, regarding the revision of the retirement age system, there were quite concrete proposals.",
+      "style": "Deputy responds respectfully but with informed confidence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "問題はそこだ。現行制度の運用に不備があったことが判明した以上、放置はできない。",
+      "en": "That's the issue. Now that flaws in the current system have come to light, we can't ignore it.",
+      "style": "Boss shifts to a firmer, problem-solving tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。来月発足する検討チームで、論点を整理していく予定です。",
+      "en": "You're absolutely right. The review team launching next month will organize the issues.",
+      "style": "Deputy answers with structured, plan-oriented professionalism."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "チームの権限と責任範囲は、最初の会合できちんと定めるように。曖昧だと後で揉める。",
+      "en": "Make sure to clearly establish the team's authority and scope at the first meeting. Ambiguity causes trouble later.",
+      "style": "Boss gives a direct, experience-backed instruction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。シミュレーションの出力結果も、議論の土台として共有しておきます。",
+      "en": "Understood. I'll also share the simulation output results as a basis for discussion.",
+      "style": "Deputy confirms with thorough, prepared follow-through."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料は項目別に分割して配ってくれ。一度に全部見せても、誰も読まんからな。",
+      "en": "Distribute the materials divided by section. If you show everything at once, nobody reads it.",
+      "style": "Boss adds practical, slightly cynical workplace wisdom."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。役員会までに、要点をまとめた資料を改めてお持ちします。",
+      "en": "Got it. I'll bring you a summarized document with the key points before the board meeting.",
+      "style": "Deputy closes with reliable, deferential commitment."
+    }
+  ]
+}

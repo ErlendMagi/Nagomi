@@ -1,0 +1,83 @@
+{
+  "id": "conv_00168",
+  "context": "Aunt Naoko knows a young man and wants to gently introduce him to Mei. They meet for tea to discuss it.",
+  "purpose": "aunt-friend matchmaking — older woman setting up younger one with gentle pressure",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "紹介",
+    "一度",
+    "会う",
+    "優しい",
+    "考える"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "メイちゃん、ちょっと話があるの。",
+      "en": "Mei-chan, I have something to talk about.",
+      "style": "Aunt conspiratorial warmth, voice dropping slightly into matchmaker register, real care behind the playful tone.",
+      "mood": "conspiratorial-warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "え、何ですか？気になる。",
+      "en": "Eh, what is it? Now I'm curious.",
+      "style": "Romantic feminine voice lifting with curiosity, slight nervous laugh threading through, real interest carried throughout.",
+      "mood": "curious-nervous"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "いい人いるんだけど、一度会ってみない？",
+      "en": "There's a nice guy — won't you meet him once?",
+      "style": "Aunt easy direct delivery, the matchmaking matter-of-fact, no pressure but real intention in the offer.",
+      "mood": "matter-of-factly-offering"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えー、急に！どんな人ですか？",
+      "en": "Eh, so suddenly! What kind of person?",
+      "style": "Romantic feminine flutter, the surprise genuine but not closed off, real curiosity threading through the protest.",
+      "mood": "fluttered-curious"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "すごく優しい子よ。仕事も真面目で。",
+      "en": "A really kind one. Serious about his work too.",
+      "style": "Aunt selling pitch warm with conviction, the descriptions delivered with the certainty of personal knowledge.",
+      "mood": "convincingly-warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うーん、ちょっと考えてもいいですか？",
+      "en": "Hmm, can I think about it a little?",
+      "style": "Romantic soft hesitation, voice respectfully declining-but-not-declining, careful consideration audible throughout response.",
+      "mood": "softly-hesitating"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "もちろん。急がなくていいから。",
+      "en": "Of course. No need to rush.",
+      "style": "Aunt warm pressure-release, the patience genuine, the matchmaker confidence not insisting just opening the door.",
+      "mood": "warmly-releasing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。考えてみますね。",
+      "en": "Thank you. I'll think it over.",
+      "style": "Romantic sincere response, voice carrying real consideration not dismissal, soft warmth in the closing.",
+      "mood": "sincerely-considering"
+    }
+  ]
+}

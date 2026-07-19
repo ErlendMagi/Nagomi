@@ -1,0 +1,84 @@
+{
+  "id": "conv_03788",
+  "context": "An IT engineer explains a system upgrade to the boss",
+  "purpose": "Teach: 総額/前年/出資/議事/モニター/ユニット/基づき/バックアップ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "総額",
+    "前年",
+    "出資",
+    "議事",
+    "モニター",
+    "ユニット",
+    "基づき",
+    "バックアップ"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_190 w39oywsro)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "社長、昨日の議事録に基づき、システム更新の件をご説明させていただきます。",
+      "en": "Boss, based on yesterday's meeting minutes, I'd like to explain the system upgrade.",
+      "style": "Polite junior engineer reporting respectfully to senior boss."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、頼むよ。前年のトラブルを繰り返さないよう、しっかり頼む。",
+      "en": "Yes, please. Make sure we don't repeat last year's troubles.",
+      "style": "Gruff boss tone, demanding and slightly impatient."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。まず、サーバーユニットを四台、新型に入れ替える予定です。",
+      "en": "Yes. First, we plan to replace four server units with new models.",
+      "style": "Calm technical explanation with measured pace."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "総額でいくらかかるんだ？うちの出資比率も気になるところだな。",
+      "en": "What's the total cost? I'm also curious about our investment ratio.",
+      "style": "Sharp businesslike question focused on money."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "総額は約八百万円で、出資元の親会社にも事前に確認済みです。",
+      "en": "The total is about eight million yen, already cleared with the parent investor.",
+      "style": "Confident factual reply with concrete numbers."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "モニター類はどうする？古いのは全部入れ替えるのか？",
+      "en": "What about the monitors? Are we replacing all the old ones?",
+      "style": "Practical follow-up question with curious tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "古いモニターは半分だけ更新し、残りは予備として保管します。",
+      "en": "We'll only replace half the old monitors and keep the rest as spares.",
+      "style": "Practical engineer explaining budget-conscious plan clearly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。バックアップ体制は万全だろうな？",
+      "en": "I see. The backup system is completely solid, right?",
+      "style": "Stern double-checking tone from cautious manager."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もちろんです。バックアップは二重に取り、移行作業も週末に行います。",
+      "en": "Of course. We'll take double backups and do the migration over the weekend.",
+      "style": "Reassuring professional confidence with clear schedule."
+    }
+  ]
+}

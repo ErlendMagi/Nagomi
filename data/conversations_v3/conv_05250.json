@@ -1,0 +1,78 @@
+{
+  "id": "conv_05250",
+  "context": "A police officer briefs a uni reporter about a public-affairs case",
+  "purpose": "Teach: 多用/却下/零細/撤廃/利権/啓蒙/弾力/類型",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "多用",
+    "却下",
+    "零細",
+    "撤廃",
+    "利権",
+    "啓蒙",
+    "弾力",
+    "類型"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "取材内容、確認しておきます。市の予算案の件ですね。",
+      "en": "Let me confirm the topic — the city budget proposal, correct?",
+      "style": "Calm, measured officer voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。零細事業者向けの補助金が却下された経緯、教えていただけますか。",
+      "en": "Yes. Could you walk me through how the small-business subsidies were rejected?",
+      "style": "Polite student-journalist opener."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "議会の弾力的な対応が間に合わず、撤廃案の方が先に通ってしまった。",
+      "en": "The council's flexible response didn't keep up, and the abolition plan passed first.",
+      "style": "Factual recounting, hands folded."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "利権構造に絡む話だと、住民への啓蒙はどう進めているんですか。",
+      "en": "For matters tangled with vested interests, how are you educating residents?",
+      "style": "Probing student curiosity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "広報資料を多用するより、地域の会合で類型化した事例を直接話すようにしています。",
+      "en": "Rather than overusing PR materials, we share categorized cases at local meetings.",
+      "style": "Pragmatic officer explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大変参考になります。資料、後ほどメールでお送りください。",
+      "en": "Very helpful. Please email the materials later.",
+      "style": "Grateful student nod."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "了解。匿名処理が必要な箇所、こちらでマークしてお渡しします。",
+      "en": "Understood. I'll flag the parts that need anonymization and pass them on.",
+      "style": "Procedural closer, slight nod."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お手数おかけします。ありがとうございます。",
+      "en": "Sorry for the trouble. Thank you very much.",
+      "style": "Polite student sign-off."
+    }
+  ]
+}

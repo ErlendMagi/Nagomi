@@ -1,0 +1,79 @@
+{
+  "id": "conv_02064",
+  "context": "Yuki-office helps Kenji with a financial calculation; office work.",
+  "purpose": "Two adults working through numbers professionally.",
+  "ambient": "office_calculator_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "負担",
+    "逆",
+    "もらい",
+    "カード",
+    "実験",
+    "明確",
+    "計算",
+    "正確"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_104)",
+    "generated_at": "2026-05-27T13:06:31.755Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "健司さん、この負担、計算、合いますか?",
+      "en": "Kenji, does this burden calculation match up?",
+      "style": "Careful, measured opening. Soft concern underneath — checking her own work first before asking for validation. Warm but slightly tentative. The tone of someone used to double-checking herself.",
+      "mood": "careful_concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "逆に、もう一度、確認したい。",
+      "en": "Actually, I'd like to verify it once more myself.",
+      "style": "Gentle, collaborative counter-proposal. No edge — just thoughtful. Leans in slightly with the word 「逆に」, offering partnership rather than correction. Warm and steady.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "カード、領収書からもらいました。",
+      "en": "I got the numbers from the credit card receipts.",
+      "style": "Straightforward and helpful. Soft delivery — offering information without fanfare. The voice of someone who's already prepared and is simply laying out what she has. Gentle clarity.",
+      "mood": "factual_helpful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "実験的に、新しいシステム、試そうか?",
+      "en": "Should we try running it through the new system experimentally?",
+      "style": "Engaged and forward-looking. A touch of optimism — suggesting a fresh approach without pressure. Warm, focused, thinking out loud together. Small pause before 「試そうか」 like he's testing the idea aloud.",
+      "mood": "thoughtful_hopeful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "明確な指示、ありがとうございます。",
+      "en": "Thank you for the clear direction.",
+      "style": "Genuine gratitude with quiet relief. Not performative — sincere acknowledgment. Soft exhale at the end of 「ございます」, like she can now move forward with confidence. Warm professionalism.",
+      "mood": "grateful_reassured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "正確な計算、皆、頼ってる。",
+      "en": "Everyone is counting on accurate calculations.",
+      "style": "Warm reassurance with gentle weight. Not lecturing — affirming why this matters. Steady, composed tone that lands like steady ground. The voice of someone who understands responsibility and isn't burdened by it, but owns it.",
+      "mood": "grounded_supportive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "頑張ります、本当に!",
+      "en": "I'm really going to do my best!",
+      "style": "Bright, genuine commitment. Energy lifted at 「頑張ります」 — sincere resolve, not forced cheerfulness. Small emphasis on 「本当に」, earnest and warm. The voice of someone ready to meet the challenge.",
+      "mood": "determined_earnest"
+    }
+  ]
+}

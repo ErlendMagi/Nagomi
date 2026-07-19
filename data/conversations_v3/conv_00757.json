@@ -1,0 +1,76 @@
+{
+  "id": "conv_00757",
+  "context": "Dr. Saito speaks with Ryosuke about lifestyle and health.",
+  "purpose": "doctor-patient awareness exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "意識",
+    "生活",
+    "大切",
+    "影響"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_038)",
+    "generated_at": "2026-05-27T01:43:54.066Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、健康への意識、高いですね。",
+      "en": "You have a real commitment to your health, Ryosuke-san.",
+      "style": "Warm professional opening. Genuine appreciation in the voice—noticing something true about him. Clear and composed, but the sincerity underneath the formality. Steady eye contact in tone.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "家族のためにも、大切と思います。",
+      "en": "For my family's sake, I think it matters.",
+      "style": "Thoughtful and tender. Speaks from conviction, not performance. A quiet moment where he's being honest about what drives him. Gentle, unhurried pace.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "生活習慣、本当に、結果、影響する。",
+      "en": "Daily habits really do make a difference in the long run.",
+      "style": "Clear, practical advice delivered warmly. No lecture—just stating what she knows to be true. Measured pace. The confidence of someone who's seen it work.",
+      "mood": "informative_warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "何か、お勧め、ありますか？",
+      "en": "Do you have any recommendations for me?",
+      "style": "Engaged and genuinely asking. Open posture in his voice—ready to listen, not defensive. Warm curiosity, the kind that shows he trusts her judgment.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "毎日の散歩、十分、効果あります。",
+      "en": "A daily walk is really quite enough. You'll see the benefit.",
+      "style": "Calm and assured. Speaking from experience. She lands gently on the practical certainty of it. Not prescriptive—just clear. Slight warmth at the end.",
+      "mood": "clear_encouraging"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "優子と、続けています。",
+      "en": "Yumiko and I have been doing that together.",
+      "style": "Soft pride and tenderness. The 'together' carries weight—it's not just exercise, it's something shared. Quiet warmth. Almost to himself, but meant for her to hear.",
+      "mood": "tender_content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素晴らしい。お二人、長く、お元気で。",
+      "en": "That's wonderful. I hope you both stay well for many years to come.",
+      "style": "Sincere closing warmth. A real wish, not a platitude. Slower pace on the final phrase. The kind of thing a good doctor says and genuinely means. Gentle formality wrapped around real care.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

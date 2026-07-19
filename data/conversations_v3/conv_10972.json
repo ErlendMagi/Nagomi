@@ -1,0 +1,86 @@
+{
+  "id": "conv_10972",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 前列/鮓/峪/壱/魏/起る/不確か/組成",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "前列",
+    "鮓",
+    "峪",
+    "壱",
+    "魏",
+    "起る",
+    "不確か",
+    "組成"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_550 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、講演会場の前列、つまり前列の不審者を、警察、警戒されますね",
+      "en": "In this case, the police will be vigilant about the suspicious person in the front row of the lecture hall, won't they?",
+      "style": "Thoughtful, measured. Soft opening on 「本件」. Curiosity paced evenly, not rushed. Voice rises slightly at the end—a genuine question seeking confirmation, not a rhetorical flourish.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収品の古い鮓、つまり鮓の容器の鑑定もされますね",
+      "en": "The police will also be authenticating the old sushi container from the seized items, won't they?",
+      "style": "Agreeing nod in the voice. Steady, professional tone. Slight emphasis on the practical detail—acknowledging the thoroughness without fanfare. Collaborative inflection at the clause break.",
+      "mood": "measured_affirmative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、山の峪、つまり峪の遭難事案を、警察、捜索されますね",
+      "en": "In this case, for the missing person incident in the mountain valley, the police will conduct a search, won't they?",
+      "style": "Careful, deliberate pacing. Slight pause before 「山の峪」—letting the detail settle. Quiet conviction underneath. Voice stays level, grounded in the procedural reality.",
+      "mood": "thoughtful_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、旧字「壱」、つまり「一」の偽造文書も鑑定されますね",
+      "en": "The police will also authenticate the forged documents with the old character for 'one,' won't they?",
+      "style": "Steady, procedural. Light emphasis on the forensic distinction between the characters. Calm authority—not lecturing, just laying out what needs doing. Closes firmly but not harshly.",
+      "mood": "measured_authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、押収古文書の魏王朝印の鑑定を、警察、専門家に依頼されますね",
+      "en": "In this case, for the authentication of the Wei Dynasty seal on the confiscated historical documents, the police will consult with experts, won't they?",
+      "style": "Respectful tone when naming the historical artifact. Measured pacing. Slight lift at 「専門家に依頼」—acknowledging the specialized knowledge required. Ends with genuine question inflection.",
+      "mood": "thoughtful_deferential"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、事件が起る、つまり起こる前に未然防止策をされますね",
+      "en": "The police will take preventive measures before an incident even occurs, won't they?",
+      "style": "Calm, almost philosophical. Long, even breath before the preventive concept. Professional warmth—no edge, just steady conviction that this matters. Ends with gentle affirmation.",
+      "mood": "measured_principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者の供述に不確かな部分を、警察、慎重に確認されますね",
+      "en": "In this case, the police will carefully verify any uncertain portions of the victim's statement, won't they?",
+      "style": "Slow, deliberate. Weight on 「慎重に」—this is where careful matters. Quiet intensity underneath. Not accusatory, just rigorous. Slight trailing-off on the question tag.",
+      "mood": "thoughtful_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、爆発物の組成分析を、警察、慎重におこなわれますね",
+      "en": "The police will conduct a careful compositional analysis of the explosive material, won't they?",
+      "style": "Professional, close to neutral. Slight drop in volume on the technical detail. Steady, unrushed. No emotion attached to the procedure itself—just the competent statement of what must be done.",
+      "mood": "measured_attentive"
+    }
+  ]
+}

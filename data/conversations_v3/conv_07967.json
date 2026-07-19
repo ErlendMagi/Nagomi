@@ -1,0 +1,86 @@
+{
+  "id": "conv_07967",
+  "context": "Two managers chat",
+  "purpose": "Teach: 勝てる/そろえ/置け/絞ら/読み直し/在り方/実装/低減",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勝てる",
+    "そろえ",
+    "置け",
+    "絞ら",
+    "読み直し",
+    "在り方",
+    "実装",
+    "低減"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、ライバル社に勝てる商品を出しましょう",
+      "en": "Let's get a product to market that beats the competition.",
+      "style": "Brisk, forward-moving opening. Clear directive tone. No hesitation—she's confident in the direction. Steady eye contact, slightly higher energy than the room baseline.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。資料をそろえております",
+      "en": "Yes. I've got the documents ready.",
+      "style": "Efficient, attentive. Quick agreement without overstatement. Slight nod in the voice. Shows readiness without making it about himself.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員、資料を置けるロッカー、増やしますか",
+      "en": "Should we add more lockers for the staff to store their materials?",
+      "style": "Measured, consulting. Phrase as a genuine question—she's inviting input before deciding. Slight lift at the end, checking the room. Practical tone.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告予算を絞らせていただきました",
+      "en": "Yes. I've adjusted the advertising budget as requested.",
+      "style": "Matter-of-fact report. No pride in the cut, no apology either. Speaking to a decision already made. Even, competent delivery.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "提案書を読み直して、再提出しましょう",
+      "en": "Let's review the proposal once more and resubmit it.",
+      "style": "Directive but not impatient. Slight emphasis on 'review'—quality check, not criticism. Assumes agreement. Calm authority.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議の在り方を見直しております",
+      "en": "Yes. I'm currently reviewing how we run our meetings.",
+      "style": "Focused update. Taking initiative without waiting to be asked. Steady, professional tone. Shows he's already working on it.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社内SNSを実装しましょう",
+      "en": "Let's implement an internal SNS platform.",
+      "style": "Clear directive with forward momentum. Slight emphasis on 'implement'—this is decided. Brisk, efficient. No room for debate but not hostile.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。在庫低減を進めております",
+      "en": "Yes. I'm moving forward with inventory reduction.",
+      "style": "Final confirmation. Steady, measured. Closing tone—wrapping up the meeting's thread. Quiet competence. Slight emphasis on 'moving forward' shows progress.",
+      "mood": "committed"
+    }
+  ]
+}

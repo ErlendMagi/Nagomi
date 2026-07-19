@@ -1,0 +1,84 @@
+{
+  "id": "conv_04398",
+  "context": "A senior trains a new hire on order fulfillment",
+  "purpose": "Teach: 工作/発送/送料/到達/定価/稼ぎ/先物/付属",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工作",
+    "発送",
+    "送料",
+    "到達",
+    "定価",
+    "稼ぎ",
+    "先物",
+    "付属"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日は発送業務を教えるよ。まずは商品の確認から始めよう。",
+      "en": "Today I'll teach you shipping operations. Let's start with confirming the products.",
+      "style": "Calm senior tone, instructive and welcoming, measured pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。送料の計算もこちらでやるんですか？",
+      "en": "Thank you for your guidance. Do we calculate the shipping fees here too?",
+      "style": "Polite junior register, slightly nervous but eager to learn."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう、サイズと地域で決まる。北海道だと届くまで二日かかる場合もあるから、到達予定日も伝票で確認してね。",
+      "en": "Yes, it's decided by size and region. Hokkaido can take two days to arrive, so check the estimated arrival date on the slip too.",
+      "style": "Explanatory, factual, breaking down logistics step by step."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。値札の定価ラベルは、もう貼ってある状態で届くんですね。",
+      "en": "I see. So the items arrive with the list-price tags already attached.",
+      "style": "Confirming understanding, curious junior voice, rising intonation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。付属品の有無もチェックリストで必ず確認すること。漏れがあるとクレームになる。",
+      "en": "Right. Always verify accessories using the checklist. Missing items cause complaints.",
+      "style": "Warning tone, emphasizing importance, slightly firmer delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "気をつけます。ちなみに、この物流って先物取引の商品も扱うことがあるんですか？",
+      "en": "I'll be careful. By the way, does this logistics operation ever handle futures-traded goods?",
+      "style": "Curious aside, work-related question, genuine interest in business scope."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "たまにあるけど契約は別部署だね。うちは地道に稼ぎを積み上げる現場だよ。",
+      "en": "Occasionally, but the contracts go through a different department. We steadily build earnings on the ground here.",
+      "style": "Reflective, mentor-like, grounded and warm explanatory tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "梱包は子供の工作みたいに、一つずつ丁寧に手を動かすのがコツだよ。",
+      "en": "Packing is like a child's craft project — the trick is moving your hands carefully, one piece at a time.",
+      "style": "Gentle metaphor, mentor sharing wisdom, warm encouraging delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。一つずつ丁寧に覚えていきます。",
+      "en": "Understood. I'll learn each step carefully, one at a time.",
+      "style": "Determined and respectful, closing with renewed commitment."
+    }
+  ]
+}

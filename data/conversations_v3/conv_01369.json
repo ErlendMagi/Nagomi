@@ -1,0 +1,76 @@
+{
+  "id": "conv_01369",
+  "context": "Saito assures Mei about her family's health.",
+  "purpose": "doctor-mother family-health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "患者",
+    "健康",
+    "一緒",
+    "家族",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_069)",
+    "generated_at": "2026-05-27T05:26:46.126Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、家族、本当、健康、ね。",
+      "en": "Mei-san, your family is truly in good health.",
+      "style": "Warm, professional opening. Steady voice with genuine care beneath composure. Slight pause before the core reassurance, delivering it with quiet conviction.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ああ、本当、感謝。",
+      "en": "Yes — truly, I'm so grateful.",
+      "style": "Tender, quiet relief. Soft breath on the opening acknowledgment. Gentle and unhurried, the gratitude sincere without performance. Trailing warmth on the final word.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "患者、本当、皆、本当に、立派。",
+      "en": "All my patients are truly admirable.",
+      "style": "Clear, genuine appreciation. Even pacing. The words land with quiet weight — not flattery, but honest observation. Warm professional tone throughout.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "相談、本当、いつでも、ね。",
+      "en": "Please, anytime you need to talk.",
+      "style": "Soft, open-hearted. Unhurried delivery with a gentle rise on the offer. The reassurance is simple and sincere, spoken as if it costs nothing to give.",
+      "mood": "warm_offering"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、頑張りましょう。",
+      "en": "Let's do this together.",
+      "style": "Resolute but warm. Slight emphasis on the togetherness — not commanding, but inviting. The kind of composure that steadies without distance.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "感謝、本当、ずっと、ね。",
+      "en": "Thank you — truly, always.",
+      "style": "Deep, sustained tenderness. Quiet and unhurried. The gratitude spans time — not a moment, but a practice. Soft fadeout, like a promise made to oneself.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ、本当に。",
+      "en": "The gratitude is mine.",
+      "style": "Gentle closing. Even quieter than before, almost reflective. The mirror of her thanks — honest and without excess. A breath of mutual recognition.",
+      "mood": "warm_humble"
+    }
+  ]
+}

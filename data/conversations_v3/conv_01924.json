@@ -1,0 +1,61 @@
+{
+  "id": "conv_01924",
+  "context": "Aoi orders supplies for the cafe; phone call with supplier briefly.",
+  "purpose": "Business owner making business call.",
+  "ambient": "cafe_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "注文",
+    "配達",
+    "確認",
+    "量"
+  ],
+  "cast": [
+    "aoi_barista",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "社長、注文の確認、お願いします。",
+      "en": "Boss, could you confirm the order for me?",
+      "style": "Professional but approachable. Clear, measured opening. Warm undertone—she knows this customer well. The courtesy of a question rather than a demand. Steady pace, no rush.",
+      "mood": "respectful_familiar"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、量、いつもと同じで?",
+      "en": "Yes—the usual quantity?",
+      "style": "Calm, checking-in tone. Light lift on the question. No pressure underneath. The voice of someone who listens to his staff and trusts their judgment. Deliberate but not stiff.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今回、少し増やしてください。",
+      "en": "Could we increase it a bit this time?",
+      "style": "Gentle request, not presumption. Slight hesitation before the ask—respectful of asking more. Warm but professional. Soft close, as if offering rather than demanding.",
+      "mood": "considerate_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかりました、配達日も決めましょう。",
+      "en": "Understood. Let's set the delivery date then.",
+      "style": "Efficient and kind at once. Slight nod in the voice—moving forward. Not dismissive, just focused. The ease of someone who makes decisions cleanly and keeps things moving.",
+      "mood": "decisive_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "Genuine gratitude, not rote. Soft peak on 「ありがとう」, then a gentle fade. The relief of being heard and accommodated. Quiet sincerity.",
+      "mood": "grateful"
+    }
+  ]
+}

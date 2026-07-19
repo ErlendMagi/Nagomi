@@ -1,0 +1,62 @@
+{
+  "id": "conv_01309",
+  "context": "Daichi delivers fresh vegetables to Tatsuya.",
+  "purpose": "cousin delivery exchange",
+  "ambient": "porch_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "配達",
+    "一緒",
+    "頑張る",
+    "感謝",
+    "楽しい"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_066)",
+    "generated_at": "2026-05-27T05:06:03.490Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "たつや、配達、本当、ありがとう。",
+      "en": "Tatsuya, thanks so much for the delivery.",
+      "style": "Warm Kansai lilt underneath. Opening attack with genuine gratitude, not performance. Soft throughout—the kind of thanks that lands because it's real, not loud. Trails gently upward at the name.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん、皆、頑張ってる、本当。",
+      "en": "Yeah—everyone's working hard, truly.",
+      "style": "Quiet country patience. Low, measured tone. Sits with the thought rather than pushing it. Slight pause before 'truly'—not for effect, but like he's making sure the words are the right ones.",
+      "mood": "observant_warm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "感謝、本当、皆に。",
+      "en": "I'm grateful—truly grateful to everyone.",
+      "style": "Kansai warmth deepens here. The gratitude finds its center. Slight emphasis on the second 'grateful,' but it's tender, not emphatic. Genuine appreciation with the soft regional rhythm underneath.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "一緒に、楽しい、本当、ね。",
+      "en": "Being together like this—it's really something special.",
+      "style": "Country slowness. Gentle, unhurried delivery. The words find their own pace. Quiet conviction underneath—not explaining, just noticing. Soft close, like he's still turning the thought over.",
+      "mood": "tender_appreciative"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "これからも、ね、本当に。",
+      "en": "I hope we keep going like this—really do.",
+      "style": "Kansai warmth carries a quiet promise forward. Soft opening, then the conviction settles in gently. 'Really do' is tender, not performative. Trails with the warmth intact—a vow without ceremony.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

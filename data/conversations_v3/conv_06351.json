@@ -1,0 +1,86 @@
+{
+  "id": "conv_06351",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 腫瘍/叩か/舐め/湧き/たどる/明かし/白熱/惑わさ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "腫瘍",
+    "叩か",
+    "舐め",
+    "湧き",
+    "たどる",
+    "明かし",
+    "白熱",
+    "惑わさ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_319 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、腫瘍の早期発見、治療成功の鍵です。",
+      "en": "Ren, early detection of tumors—that's the key to successful treatment.",
+      "style": "Clear, measured delivery. No rush. Each phrase lands with quiet authority. Eyes steady. The tone of someone who has learned this through years of seeing what happens when detection comes too late.",
+      "mood": "measured_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "同業他社、研究分野で叩かれることも、ありますね。",
+      "en": "Even in the same field, researchers can get criticized, can't they?",
+      "style": "Leaning forward slightly, genuine curiosity. Soft on the opening. The cadence of someone working through an observation in real time, not reciting it. Respectful pause at the question mark.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。患者の唇、傷を舐めて治す行為、感染リスクで止めてます。",
+      "en": "Yes. We've had to stop patients from licking their wounds to try to heal them—the infection risk is too high.",
+      "style": "Patient, explanatory tone. Not condescending. Matter-of-fact about the illogic but warm to the human impulse behind it. Steady pace. The voice of someone who has had to explain this more than once.",
+      "mood": "clinical_gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療意欲、現場から湧き上がる、医療界の魅力ですね。",
+      "en": "That drive to heal—the way it rises up from the actual work—that's what's beautiful about medicine, isn't it?",
+      "style": "Warmth breaking through. Slower pace. A real question, not rhetorical. The voice of someone discovering something true in the moment of saying it. Slight lift at the end.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。症例をたどる地道な作業、研修医の課題です。",
+      "en": "Yes. Following cases through—that methodical work—that's part of what residents have to master.",
+      "style": "Affirmative but measured. Slight emphasis on the word 'methodical' to honor the patience it requires. Calm, steady rhythm. The voice of someone who has done that work herself.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "進行状況を明かしてくれる先生、患者の信頼、得ます。",
+      "en": "When doctors share their progress honestly like that, patients trust them more.",
+      "style": "Thoughtful, observational. Not quite a question but weighted like one. Searching for agreement. Soft attack. Small pause before 'patients' as if testing the idea.",
+      "mood": "insightful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。学会、白熱した議論、続きました。",
+      "en": "Yes. The conference had some heated discussions about it.",
+      "style": "Reflective, slightly removed. Eyes looking past for a moment. Acknowledging the energy of the debate without being caught in it. Steady exhale at the end.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "誤情報に惑わさないよう、医師の発信力、重要ですね。",
+      "en": "That's why doctors need to speak up clearly—so people don't get pulled in by misinformation.",
+      "style": "Conviction building as the line progresses. Quiet firmness. Not urgent, but weighted with importance. The voice of someone who has seen the damage misinformation does.",
+      "mood": "concerned_determined"
+    }
+  ]
+}

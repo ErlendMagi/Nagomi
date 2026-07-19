@@ -1,0 +1,86 @@
+{
+  "id": "conv_08040",
+  "context": "Mom and son chat",
+  "purpose": "Teach: すてき/好ん/呟い/見失っ/うまかっ/脱ぎ/日当たり/当っ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "すてき",
+    "好ん",
+    "呟い",
+    "見失っ",
+    "うまかっ",
+    "脱ぎ",
+    "日当たり",
+    "当っ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママの新しいお洋服、すてきでしょ?",
+      "en": "Sho, don't you think Mama's new dress is lovely?",
+      "style": "Warm, inviting tone. Speaking to a child she adores. Slight uplift at the end — seeking his genuine opinion, not just admiration. Open and present.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お野菜の中でトマトを好んで食べるよ",
+      "en": "Mom, I like eating tomatoes best out of all the vegetables.",
+      "style": "Bright clarity. Small voice, but certain. Speaking as if he's thought about this carefully. Earnest in the way only a six-year-old can be about vegetables.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが何か呟いてたわよ",
+      "en": "Sho, Dad was saying something under his breath earlier.",
+      "style": "Casual observation, not quite a complaint. Thinking out loud in his presence. Warm but matter-of-fact — the small passing comment a parent makes.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達を駅で見失ったよ",
+      "en": "Mom, I lost track of my friend at the station.",
+      "style": "Small, worried admission. Quieter than before. Sounding like he's confessing something that bothered him more than he wants to show.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんの作ったお料理、うまかったね",
+      "en": "Sho, the food Dad made today was really delicious, wasn't it?",
+      "style": "Warm recollection. Not asking about the dish itself — affirming something good that happened. The tone of someone remembering a small happiness.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お風呂上りに服を脱ぎっぱなしダメだよね",
+      "en": "Mom, I shouldn't leave my clothes all over the bathroom after my bath, right?",
+      "style": "Seeking reassurance through self-awareness. Small voice checking if he's understood correctly. Earnest and slightly uncertain — wanting to be told he's learning.",
+      "mood": "earnest_seeking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんちは日当たり最高よ",
+      "en": "Sho, Grandma's place gets such wonderful sunlight.",
+      "style": "Bright, almost celebratory observation. Speaking with pleasure about a place he likes. The tone of someone sharing something small that delights her.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お年玉付きの年賀状が当ったよ",
+      "en": "Mom, my New Year's card with the lottery ticket won!",
+      "style": "Open, unbridled happiness. Rushing the words slightly in his excitement. Small chest out — proud of his luck and eager to share it.",
+      "mood": "proud_delighted"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_00766",
+  "context": "Hiroshi briefs Kenji on a new product development initiative.",
+  "purpose": "boss-subordinate product development briefing",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "開発",
+    "商品",
+    "一般",
+    "基本",
+    "理解"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_039)",
+    "generated_at": "2026-05-27T01:50:32.806Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、新しい商品の開発、始めるぞ。",
+      "en": "Kenji — we're starting new product development.",
+      "style": "Direct opening with his name as anchor. Measured, composed authority. The tone of a man who has made a decision and is now executing it. No doubt in the delivery.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、概要、伺わせてください。",
+      "en": "Yes, sir. Could you walk me through the outline?",
+      "style": "Attentive and genuinely ready to listen. Respectful without servility. Lean slightly forward in the voice — eager to receive direction from someone he trusts.",
+      "mood": "engaged_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一般向け、初心者でも、使える物だ。",
+      "en": "It's for the general public — beginners should be able to use it.",
+      "style": "Clear and concrete. Each phrase lands with equal weight. The voice of someone explaining a vision he's already clarified to himself.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基本機能、何を、考えていますか？",
+      "en": "What basic functions are you picturing?",
+      "style": "Genuine curiosity threaded with professional focus. Not tentative — he's asking because he wants the real answer. Steady eye contact in the voice.",
+      "mood": "attentive_curious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "シンプルさ、最優先。複雑にはするな。",
+      "en": "Simplicity is the priority. Don't over-engineer it.",
+      "style": "Firm but not harsh. A principle, not a reprimand. The slight weight on 「シンプルさ」 landing like the core of the entire conversation.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "理解しました。来週、案、提示します。",
+      "en": "Understood. I'll have a proposal ready next week.",
+      "style": "Quiet commitment. No flourish, no over-promising. The tone of someone who means exactly what he says and will deliver it.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。期待している。",
+      "en": "I'm counting on you. This matters.",
+      "style": "Soften the ending slightly — not the command, but the confidence underneath it. A moment of genuine regard. He's saying: I believe in this, and I believe in you.",
+      "mood": "trusting_warm"
+    }
+  ]
+}

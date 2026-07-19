@@ -1,0 +1,76 @@
+{
+  "id": "conv_01020",
+  "context": "Saito gives Aoi advice about Hikari's vaccine schedule.",
+  "purpose": "doctor-mother vaccine exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "子ども",
+    "相談",
+    "一緒",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_051)",
+    "generated_at": "2026-05-27T03:21:23.101Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "あおいさん、お子さん、元気？",
+      "en": "Aoi-san, how is your child doing?",
+      "style": "Gentle inquiry delivered with professional warmth. Soft opening, unhurried pace. The composure of someone who listens for a living settling into the question. A real smile reaching the voice.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、おかげさまで、元気。",
+      "en": "Yes, thanks to you. She's doing well.",
+      "style": "Quiet gratitude threading through the words. Respectful but not stiff. The warmth of someone who appreciates being asked and genuinely heard. Soft exhale after 'yes.'",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康診断、来月、ですね。",
+      "en": "The health check will be next month, then.",
+      "style": "Clear, factual delivery that remains gentle. Light confirmation without formality. The professionalism of someone who cares about what comes next. Steady, not rushed.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、連れてきます。",
+      "en": "Yes, I'll bring her in.",
+      "style": "Direct and sincere, no uncertainty. The commitment in the voice is quiet but complete. Small pause after 'yes,' then steady follow-through. Respectful without being deferential.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子どもの健康、一番、大切。",
+      "en": "A child's health is the most precious thing.",
+      "style": "Spoken with quiet weight, as though from experience. Not lecturing—philosophizing gently. Slow, measured pace. Each word given space. The voice carries both tenderness and conviction.",
+      "mood": "tender_sincere"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "相談、本当に、感謝。",
+      "en": "I'm truly grateful for your advice.",
+      "style": "Soft, genuine gratitude. Not effusive, but deeply felt. The words carry respect without strain. A small catch of emotion kept steady. The voice holds the moment briefly.",
+      "mood": "moved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、見守ろうね。",
+      "en": "Let's look after her together.",
+      "style": "Warm invitation softly made. The 'together' carries genuine partnership, not obligation. Closing-note tenderness. A promise held lightly but firmly. Breath soft, pace unhurried.",
+      "mood": "warm_reassuring"
+    }
+  ]
+}

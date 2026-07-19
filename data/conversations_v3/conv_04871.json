@@ -1,0 +1,84 @@
+{
+  "id": "conv_04871",
+  "context": "A teacher walks a uni student through a science prize paper",
+  "purpose": "Teach: 公判/判事/ノーベル/飼育/曲線/半数/根底/療養",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "公判",
+    "判事",
+    "ノーベル",
+    "飼育",
+    "曲線",
+    "半数",
+    "根底",
+    "療養"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_245 workflow w5gqr173i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "この論文、ノーベル賞候補になった研究の要旨なんだけど、目を通してみた？",
+      "en": "This paper is the summary of research that became a Nobel Prize candidate—did you look it over?",
+      "style": "Warm mentor tone, slightly inquisitive and encouraging at the end."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。マウスの飼育環境を変えて、細胞の増え方を観察した実験ですよね。",
+      "en": "Yes. It's the experiment where they changed the mouse rearing environment and observed how cells multiplied, right?",
+      "style": "Eager student voice, careful and slightly tentative phrasing throughout."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう。グラフの曲線を見ると、対照群と比べて成長率が二倍近くまで跳ね上がっているでしょう。",
+      "en": "Right. Looking at the curve in the graph, the growth rate jumps to nearly double compared to the control group, doesn't it?",
+      "style": "Teacher pointing at a figure with calm explanatory cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当だ。これまでの仮説を根底から覆す結果ですね。",
+      "en": "You're right. It's a result that overturns the existing hypothesis from its very foundation.",
+      "style": "Mild awe, voice rising with dawning realization."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ただね、発表直後にデータ捏造の疑いがかけられて、民事の公判まで持ち込まれたの。",
+      "en": "However, right after publication, data fabrication suspicions were raised, and it was even brought to a civil trial.",
+      "style": "Lowered, serious tone while sharing a piece of history."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "えっ、そこまでの騒ぎになったんですか。論文だけ読んでいたら気づきませんでした。",
+      "en": "What, it became that big of a commotion? I wouldn't have noticed just by reading the paper.",
+      "style": "Surprised, slightly louder, then trailing into quiet reflection."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "結局、担当の判事が再現実験の記録を精査して、半数以上のデータに問題はないと結論づけたのよ。",
+      "en": "In the end, the presiding judge examined the records of the replication experiments and concluded that more than half of the data had no issues.",
+      "style": "Steady, almost relieved cadence delivering the resolution."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "でも主著者は心労で体を壊してね、長い療養の後にようやく研究に戻れたの。",
+      "en": "But the lead author broke down from the stress, and only after a long recuperation could he finally return to research.",
+      "style": "Gentle, slightly melancholic, reflective tone with a soft sigh."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そんな背景があったんですね。今日のゼミ、すごく有意義な時間でした。",
+      "en": "There was that kind of background, huh. Today's seminar was a truly meaningful time.",
+      "style": "Grateful and energized, voice brightening at the end."
+    }
+  ]
+}

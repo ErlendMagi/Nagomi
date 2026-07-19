@@ -1,0 +1,76 @@
+{
+  "id": "conv_00638",
+  "context": "Yuki visits Saito for a mental-health check. Adult professional under work stress.",
+  "purpose": "adult patient mental-health consultation",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "不安",
+    "相談",
+    "生活",
+    "感謝"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_032)",
+    "generated_at": "2026-05-27T01:02:00.770Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "佐藤さん、最近、お疲れですか。",
+      "en": "Sato-san, you've been looking tired lately, haven't you?",
+      "style": "Warm and genuinely attentive. Soft opening, the question itself posed with real care and listening — not clinical check-in but human recognition. Steady, steady gaze in the voice.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "正直、ちょっと、不安、増えてて。",
+      "en": "Honestly, my anxiety has been getting worse.",
+      "style": "Hesitant, vulnerable. The pauses between thoughts are real — she's gathering courage to admit this. Voice thins slightly on the confession. Soft and aching underneath.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "責任、重くなってますもんね。",
+      "en": "Your responsibilities have gotten heavier, haven't they?",
+      "style": "Recognition and gentleness. She's naming something true. Not as a question that needs answering but as an acknowledgement — I see you carrying this. Warm and steady.",
+      "mood": "understanding_supportive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お休みも、ちゃんと、取れてない、気がして。",
+      "en": "I feel like I haven't been taking proper rest.",
+      "style": "Quietly self-recriminating. The admission trails off slightly — she's aware of what she should be doing and isn't. Small, tired voice. Real weight underneath.",
+      "mood": "tired_conflicted"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理しないことが、一番。少しずつ、生活、整えていきましょう。",
+      "en": "Not pushing yourself too hard is what matters most. Let's work on gradually getting your life back in order.",
+      "style": "Calm, practical wisdom without lecturing. A light touch of firmness on what matters. Then an invitation forward — we, together — gentle and steady. The voice of someone who has seen this before and knows the path.",
+      "mood": "wise_supportive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、ありがとうございます。相談、本当に、助かります。",
+      "en": "Yes, thank you. Talking with you really does help.",
+      "style": "Genuine relief and gratitude. Voice brightens slightly — she feels heard. Simple, honest, from real softness underneath. Steady eye contact in the voice.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "何かあれば、いつでも、来てください。",
+      "en": "If anything comes up, please come see me anytime.",
+      "style": "Warm, open door. Not perfunctory — real permission and real welcome. She's extending care forward and meaning it. Steady, trustworthy, gentle.",
+      "mood": "kind_reassuring"
+    }
+  ]
+}

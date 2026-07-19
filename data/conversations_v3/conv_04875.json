@@ -1,0 +1,84 @@
+{
+  "id": "conv_04875",
+  "context": "A boss debates a science-policy headline with his manager",
+  "purpose": "Teach: 公判/判事/ノーベル/飼育/曲線/半数/根底/療養",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公判",
+    "判事",
+    "ノーベル",
+    "飼育",
+    "曲線",
+    "半数",
+    "根底",
+    "療養"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_245 workflow w5gqr173i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、ノーベル賞受賞者が政府の研究方針を根底から批判していたな。",
+      "en": "In this morning's paper, the Nobel laureate fundamentally criticized the government's research policy.",
+      "style": "Authoritative boss opening with a serious headline reference."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "読みました。研究費の半数以上が大規模プロジェクトに集中しているという指摘ですよね。",
+      "en": "I read it. The point was that over half of research funding is concentrated on large-scale projects.",
+      "style": "Polite manager engaging thoughtfully with specific data."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだ。しかも動物の飼育施設の予算が削られて、現場の研究者が困っているらしい。",
+      "en": "Right. And apparently animal breeding facility budgets are being cut, troubling on-site researchers.",
+      "style": "Boss expanding the issue with concrete concern."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "予算の配分曲線を見ると、ここ十年で偏りが急激に進んでいますね。",
+      "en": "Looking at the budget allocation curve, the imbalance has accelerated sharply over the past decade.",
+      "style": "Analytical manager citing data trends respectfully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は元同僚の判事が、関連する不正経理の公判を担当しているそうだ。",
+      "en": "Actually, a former colleague who's now a judge is presiding over the related accounting fraud trial.",
+      "style": "Boss sharing insider connection with measured gravity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうなんですか。その判事の判断が今後の政策の方向を決めるかもしれませんね。",
+      "en": "Is that so? That judge's ruling may well determine the direction of future policy.",
+      "style": "Manager showing surprise while engaging seriously."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ただ、当の受賞者は今、体調を崩して自宅で療養中らしくてな。",
+      "en": "However, the laureate himself has reportedly fallen ill and is recuperating at home.",
+      "style": "Boss adding a sobering personal detail with empathy."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは心配ですね。彼の声がなくなれば、改革の勢いも失われるかもしれません。",
+      "en": "That's worrying. If his voice goes silent, the reform momentum may be lost as well.",
+      "style": "Manager voicing genuine concern about wider implications."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "だからこそ、我々のような企業側も発言していくべきだと思うんだ。",
+      "en": "That's precisely why I believe businesses like ours need to speak up too.",
+      "style": "Boss concluding with conviction and a call to action."
+    }
+  ]
+}

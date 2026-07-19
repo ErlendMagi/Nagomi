@@ -1,0 +1,65 @@
+{
+  "id": "conv_05609",
+  "context": "A retired exec mentors a younger boss on operations",
+  "purpose": "Teach: 上回る/補給/含み/順次/終える/レギュラー/当店/常時",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "上回る",
+    "補給",
+    "含み",
+    "順次",
+    "終える",
+    "レギュラー",
+    "当店",
+    "常時"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_282 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "当店のレギュラー商品、常時棚に並べておけ。",
+      "en": "Keep the regular stock items on the shelves at all times.",
+      "style": "Measured, unhurried. Delivered with the weight of experience—not commanding, but stating what he knows to be true. Slight pause before the final phrase, letting it land.",
+      "mood": "steady_instructive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "承知しております。順次補給の体制、安定しています。",
+      "en": "Understood. Our replenishment cycle is running smoothly.",
+      "style": "Respectful, attentive. Crisp and professional without stiffness. The tone of someone fully present and taking the direction seriously. No over-explanation.",
+      "mood": "focused_compliant"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "予測を上回る時こそ、慎重に。新案も含み、検討しろ。",
+      "en": "When demand exceeds what you've forecast, stay cautious. Think through new approaches before you act on them.",
+      "style": "Deliberate tempo. Each phrase gets space to settle. Warm but uncompromising—this is wisdom earned, not doctrine. A slight lean forward in attention.",
+      "mood": "thoughtful_cautionary"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。今期を終えるまでに、棚卸も完了させます。",
+      "en": "Yes. I'll have the full inventory count finished before the quarter closes.",
+      "style": "Assured and steady. No hedging. The voice of someone committing to something concrete. Direct eye-contact level of certainty.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よし。",
+      "en": "Good.",
+      "style": "Brief nod in the voice. Warm approval with finality. The kind of quiet that says 'we're done here, and you've heard what matters.'",
+      "mood": "satisfied"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02903",
+  "context": "Saito checks on Kenji feeling unwell after work.",
+  "purpose": "WIDENED SCENARIO: medical chat; vocabulary (給料/迷惑/具合/落とし/身近) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "給料",
+    "迷惑",
+    "具合",
+    "落とし",
+    "身近"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_146)",
+    "generated_at": "2026-05-29T14:48:14.344Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "先生、最近、具合が良くないんです。",
+      "en": "Doctor, lately I'm not feeling well.",
+      "style": "tired office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "身近な疲れが、出ているようですね。",
+      "en": "Everyday fatigue seems to be showing.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "仕事のことが、頭から落とせなくて。",
+      "en": "I can't get work off my mind.",
+      "style": "troubled office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "人に頼るのは、迷惑ではありませんよ。",
+      "en": "Relying on others isn't a nuisance.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "給料のために、無理してました。",
+      "en": "I was pushing myself for the salary.",
+      "style": "honest office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "身近な人に、相談してみて下さい。",
+      "en": "Please consult someone close to you.",
+      "style": "warm doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "迷惑かなと、ためらってました。",
+      "en": "I hesitated, thinking I'd be a bother.",
+      "style": "reflective office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "具合が悪い時は、休むのが一番です。",
+      "en": "When you feel unwell, resting is best.",
+      "style": "gentle doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

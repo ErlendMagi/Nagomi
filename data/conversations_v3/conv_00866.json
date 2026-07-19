@@ -1,0 +1,76 @@
+{
+  "id": "conv_00866",
+  "context": "Hiroshi reviews Kenji's sales data report.",
+  "purpose": "boss-subordinate data-analysis exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "データ",
+    "処理",
+    "率",
+    "一緒",
+    "考える"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、データ、見せろ。",
+      "en": "Kenji, let me see the data.",
+      "style": "Sharp, direct opening. No preamble. Measured command tone that expects immediate compliance. The composure of someone used to being obeyed.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、処理、完了しました。",
+      "en": "Yes, sir. The processing is complete.",
+      "style": "Respectful, formal. Crisp on the affirmation. Delivered with quiet competence, not nervousness. The professional warmth of someone who takes pride in their work.",
+      "mood": "professional_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "売上の率、上がってるな。",
+      "en": "Sales figures are trending up.",
+      "style": "Observation delivered with quiet approval. Slight lift on 'up' — not celebration, but recognition. The tone of a leader noting progress without over-stating it.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前月比、十パーセント、増です。",
+      "en": "Month over month, we're at ten percent growth.",
+      "style": "Precise, methodical. Each number lands clearly. Steady rhythm. Warm undertone — sharing good news with someone who will appreciate the detail.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "次の対策、考えろ。",
+      "en": "Figure out the next move.",
+      "style": "Lean and direct. Brief pause after the command. Not dismissive — delegating with confidence. The tone of someone who trusts the person will deliver.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "チームと、一緒に、立てます。",
+      "en": "We'll work through it with the team.",
+      "style": "Reassuring and committed. The 'we' carries weight — genuine collaboration, not just compliance. Even in a formal exchange, warmth breaks through.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。",
+      "en": "I'm counting on you.",
+      "style": "Brief and weighted. Not affectionate, but genuinely personal. The pause before the period lands like trust being handed over. Composed, final.",
+      "mood": "trusting"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05490",
+  "context": "A police officer briefs a uni reporter about admin staffing",
+  "purpose": "Teach: 申込み/選抜/院長/アナリスト/アドバイザー/部数/直行/配備",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込み",
+    "選抜",
+    "院長",
+    "アナリスト",
+    "アドバイザー",
+    "部数",
+    "直行",
+    "配備"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本年度の人員配備、申込みベースで決まりました。",
+      "en": "This year's personnel assignments have been finalized based on the applications we received.",
+      "style": "Measured, official tone. Opens with calm certainty. Speaks with the steady rhythm of someone delivering routine information clearly. No rush.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "選抜基準、院長クラスのアドバイザーも関わるんですか。",
+      "en": "Are director-level advisors involved in the selection criteria?",
+      "style": "Respectful but genuine curiosity underneath. Careful phrasing—not performing politeness, just checking his facts. Slight lean forward in tone.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。外部アナリストの意見も反映しています。",
+      "en": "Yes. We've incorporated feedback from external analysts as well.",
+      "style": "Straightforward procedural confirmation. Steady pace. Neither warmer nor colder than necessary. The tone of someone accustomed to answering questions clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "広報誌の部数、増やす計画はありますか。",
+      "en": "Are there plans to increase the print run for the bulletin?",
+      "style": "Genuine interest—not performative. Asks like he's genuinely trying to understand something that matters. Slight questioning lilt at the end, natural and unforced.",
+      "mood": "earnest_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "直行ルートでの地域配信を強化中です。",
+      "en": "We're currently focusing on strengthening direct-route regional distribution.",
+      "style": "Informative and clear. Delivers the answer with the same measured cadence as before. Explains the priority shift without over-explaining. Professional and present.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you.",
+      "style": "Genuine gratitude—sincere without being effusive. Slight warmth underneath the formality. The tone of someone who actually means what they say.",
+      "mood": "grateful"
+    }
+  ]
+}

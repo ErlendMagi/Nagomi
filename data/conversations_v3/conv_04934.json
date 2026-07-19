@@ -1,0 +1,78 @@
+{
+  "id": "conv_04934",
+  "context": "A uni student interviews a retired biography author at home",
+  "purpose": "Teach: 情緒/カリスマ/一族/推理/調停/活字/イデオロギー/頭脳",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "情緒",
+    "カリスマ",
+    "一族",
+    "推理",
+    "調停",
+    "活字",
+    "イデオロギー",
+    "頭脳"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_248 workflow wae9tniwh)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間を頂きありがとうございます。先生は推理小説の評伝で知られていますが、最初に手がけたのはどの作家でしたか？",
+      "en": "Thank you for your time today. You're known for biographies of mystery writers — which author did you tackle first?",
+      "style": "Polite interview opening, slightly nervous student tone, formal register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ある旧家の一族に生まれた作家でね。彼の頭脳明晰な文章に、若い私はすっかり魅了されたんだ。",
+      "en": "He was born into an old family clan. His brilliantly sharp prose completely captivated me when I was young.",
+      "style": "Warm reminiscing elder voice, slow nostalgic delivery, gentle smile audible."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その方は文壇でもカリスマ的な存在だったと伺いました。直接お会いになって、印象はいかがでしたか？",
+      "en": "I've heard he was a charismatic figure in literary circles. What was your impression when you met him?",
+      "style": "Curious follow-up question, leaning forward, respectful student curiosity."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それがね、お会いすると意外と物静かで、情緒の細やかな方だった。活字の上の鋭さとは別人のようでね。",
+      "en": "Well, in person he was surprisingly quiet, with a delicate emotional sensitivity — quite different from the sharpness on the page.",
+      "style": "Thoughtful elder reflecting, soft chuckle, savoring an old memory."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "評伝を書く中で、ご家族との関係について書くのは難しくなかったですか？特に遺族との調停のような場面もあったのでは。",
+      "en": "Was writing about his family relationships difficult? I imagine there were moments almost like mediation with surviving relatives.",
+      "style": "Probing but respectful, lowering voice slightly for sensitive topic."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "鋭いところを突くね。実際、戦後のイデオロギー対立がご家族の中にも影を落としていてね、何度も話し合いを重ねたよ。",
+      "en": "You strike a sharp point. The postwar ideological conflicts had cast shadows within the family too, so we had many discussions.",
+      "style": "Impressed at the question, grave tone shift, weighted with history."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど…。最後に、これから評伝を書きたい若い書き手に向けて、一言頂けますか？",
+      "en": "I see... Lastly, could you give a word of advice to young writers hoping to write biographies?",
+      "style": "Quiet awe, transitioning to closing question, notebook closing tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "対象を神格化せず、対等な人間として見ることだ。それが伝記作家にとって、何より大切な姿勢だと私は思うよ。",
+      "en": "Don't deify your subject — see them as an equal human being. That, I believe, is the most important stance for a biographer.",
+      "style": "Concluding wisdom, firm but kind, like passing a torch."
+    }
+  ]
+}

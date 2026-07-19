@@ -1,0 +1,90 @@
+{
+  "id": "conv_04499",
+  "context": "A vendor and a barista discuss payment options",
+  "purpose": "Teach: デフレ/クレジットカード/コンサルティング/譲渡/公益/年収/出品/営利",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "デフレ",
+    "クレジットカード",
+    "コンサルティング",
+    "譲渡",
+    "公益",
+    "年収",
+    "出品",
+    "営利"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "こんにちは。経営コンサルティング会社さんからのご紹介で伺いました、卸の山田と申します。",
+      "en": "Hello. I'm Yamada from the wholesaler, referred by your management consulting firm.",
+      "style": "Polite business introduction with formal keigo, calm and measured tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ああ、お待ちしてました。前のオーナーから店の譲渡を受けたばかりで、いろいろ手探りなんです。",
+      "en": "Ah, I've been expecting you. I just took over the shop transfer from the previous owner, so I'm still finding my way.",
+      "style": "Warm, slightly self-deprecating new-owner voice, conversational and open."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事業譲渡直後は何かと大変ですよね。まずは取引条件のお話からさせていただければと思います。",
+      "en": "The period right after a business transfer is always tough. I'd like to start by going over the trading terms.",
+      "style": "Empathetic acknowledgment shifting smoothly into business mode."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。支払いはクレジットカード決済でも対応していただけますか。個人店なので現金管理が大変で。",
+      "en": "That helps. Would you accept credit card payment? Being an individual shop, cash management is a hassle.",
+      "style": "Candid practical question from a small-business owner, friendly and direct."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんカード払いで大丈夫ですよ。今のデフレ気味の状況だと、資金繰りを楽にしたい気持ちはよく分かります。",
+      "en": "Of course card payment is fine. Given the current somewhat deflationary climate, I completely understand wanting to ease the cash flow.",
+      "style": "Reassuring agreement weaving in economic context naturally, warm advisor tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当にそうなんです。正直、年収ベースで見ると去年より下がっていて、コスト面はかなりシビアで。",
+      "en": "Really, yes. Honestly, looking at it on an annual income basis, I'm down from last year, so I'm pretty strict about costs.",
+      "style": "Honest financial disclosure, slightly worried but trusting tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それでしたら、ネット出品向けの小口プランもございますので、無理のない範囲から始められますよ。",
+      "en": "In that case, we also have a small-lot plan for online listings, so you can start at a comfortable scale.",
+      "style": "Helpful sales suggestion offering flexibility, encouraging tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それはありがたいです。うちもオンラインで豆を出品してみたかったので、ちょうど良いタイミングかも。",
+      "en": "That's really appreciated. I'd been wanting to list our beans online too, so the timing might be perfect.",
+      "style": "Genuinely pleased, brightening tone with growing interest."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ぜひ。うちは営利の取引だけでなく、地域の公益法人にも豆を卸していて、非営利のイベントにも関わっているんです。",
+      "en": "Please do. We don't just handle for-profit transactions; we also wholesale to local public-interest organizations and get involved in non-profit events.",
+      "style": "Proud company pitch building rapport, sincere and grounded."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そういう姿勢の卸さんだと安心して任せられますね。長くお付き合いさせてください。",
+      "en": "With a wholesaler that has that kind of attitude, I can entrust things with peace of mind. Please let me work with you for the long term.",
+      "style": "Warm closing expression of trust, sincere and forward-looking."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_04806",
+  "context": "A boss reviews a vendor agreement with his manager",
+  "purpose": "Teach: 利子/就労/運輸/納め/間隔/有益/問合せ/外観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "利子",
+    "就労",
+    "運輸",
+    "納め",
+    "間隔",
+    "有益",
+    "問合せ",
+    "外観"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_242 workflow wj0528681)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この運輸会社との契約書、一見問題なさそうだが、外観だけでなく細かい条項まで確認したい。",
+      "en": "This contract with the shipping company looks fine at first glance, but I want to verify not just the appearance but the detailed clauses.",
+      "style": "Authoritative boss tone, measured and deliberate pace"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、特に支払いの間隔と利子の条項が気になりまして、先方に問合せをしておきました。",
+      "en": "Yes, I was particularly concerned about the payment intervals and interest clauses, so I sent an inquiry to them.",
+      "style": "Polite subordinate register with careful business diction"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良い判断だ。延滞した場合の利子率は、業界平均と比べてどうなんだ。",
+      "en": "Good judgment. How does the late payment interest rate compare to the industry average?",
+      "style": "Direct managerial questioning, firm and probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "やや高めですが、運輸業界の標準範囲内です。ドライバーの就労時間に関する条項も別途確認しました。",
+      "en": "Slightly high, but within the standard range for the shipping industry. I also separately checked the clauses regarding driver working hours.",
+      "style": "Detailed reporting style, factual and thorough delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "税金を納める時期と重なると、資金繰りが厳しくなる。間隔を空けて支払えるよう交渉してくれ。",
+      "en": "If it overlaps with tax payment season, cash flow will get tight. Negotiate so we can space out the payments.",
+      "style": "Strategic instruction with concerned undertone, signature delivery that holds the line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。担当者からの返信は非常に有益で、柔軟に対応してくれそうな感触です。",
+      "en": "Understood. The response from their representative was very useful, and they seem willing to be flexible.",
+      "style": "Confident reporting with optimistic professional tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは良かった。問合せの履歴は全て保存して、来週の役員会で報告してくれ。",
+      "en": "That's good to hear. Save all the inquiry records and report at next week's executive meeting.",
+      "style": "Closing instruction, decisive and authoritative finality"
+    }
+  ]
+}

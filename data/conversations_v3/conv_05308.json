@@ -1,0 +1,72 @@
+{
+  "id": "conv_05308",
+  "context": "A uni intern interviews a manager about compliance",
+  "purpose": "Teach: 主任/取り付け/採択/円滑/送付/法務省/官庁/査定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主任",
+    "取り付け",
+    "採択",
+    "円滑",
+    "送付",
+    "法務省",
+    "官庁",
+    "査定"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "業務の流れ、官庁との連携部分を教えていただけますか。",
+      "en": "Could you walk me through how the workflow coordinates with government agencies?",
+      "style": "Respectful, careful diction. Leaning slightly forward in posture—earnest note-taker mode. Steady pace, no rushing. Genuine curiosity without performance.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "主任が窓口になり、法務省への送付前に社内査定を通します。",
+      "en": "Our manager handles the contact point. We run everything through internal review before sending it to the Justice Ministry.",
+      "style": "Clear, methodical. Light emphasis on the procedural sequence—not lecturing, just clarifying the chain. Warm professional tone. Steady eye contact, inviting follow-up.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "採択率、企業によって差がありますよね。",
+      "en": "So adoption rates differ by company, don't they?",
+      "style": "Thoughtful, probing gently. Slight lilt upward on the question, testing Yuki's openness. Not challenging—genuinely wondering if she'll share more.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うちは円滑な調整に力を入れているので、比較的高いです。",
+      "en": "We do. We put real effort into smooth coordination, so our rates stay relatively high.",
+      "style": "Slight note of quiet pride, not boastful. A small deliberate pause before 'smooth coordination' to emphasize it's something deliberate. Confident but grounded.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "システムの取り付けも、官庁監修なんですか。",
+      "en": "And does the ministry supervise the system installation too?",
+      "style": "Precise, surgical follow-up. Ren homing in on the detail that matters. Not rushed. Respectful interest—he's building a map and wants the accurate piece.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。安全基準の確認まで含めて、徹底されています。",
+      "en": "Yes. Including safety-standard verification—it's all rigorous oversight.",
+      "style": "Finishing the explanation with clarity and finality. A note of professional assurance that this is serious business. Breath support to the end of the sentence, no trailing-off.",
+      "mood": "thorough"
+    }
+  ]
+}

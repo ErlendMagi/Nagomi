@@ -1,0 +1,62 @@
+{
+  "id": "conv_01184",
+  "context": "Yumiko visits Sachiko with sweets.",
+  "purpose": "mother-grandma sweets exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "感謝",
+    "美味しい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_059)",
+    "generated_at": "2026-05-27T04:17:09.033Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おばさん、お菓子、持ってきました。",
+      "en": "Auntie, I brought some sweets.",
+      "style": "Warm, natural opening. Voice soft and grounded. Offers the gesture without fanfare—this is what you do for family. Slight lift at the end, inviting her to receive.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "まあ、優しい、ね。",
+      "en": "Oh, how thoughtful of you.",
+      "style": "Delighted but understated. A small smile in the voice. Brief pause after the opening, as if registering the kindness. Warm and genuine, no performance.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、お茶、飲みましょう。",
+      "en": "Let's have some tea together.",
+      "style": "Gentle invitation, not a suggestion. Confident in the comfort of the moment. Pace is unhurried. The 'together' carries the real weight—presence, not just hospitality.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "美味しい、本当に。",
+      "en": "Delicious, really delicious.",
+      "style": "Contentment in the voice. The repetition is genuine appreciation, not uncertainty. Slow, savoring pace. Eyes probably closed or softened. This is a moment she's holding.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "楽しい、時間、ね。",
+      "en": "These moments are so nice, aren't they.",
+      "style": "Reflective, almost to herself but shared with her. Quieter, slower. A kind of closing warmth—she's noticing what this actually is. No urgency. The statement settles.",
+      "mood": "content_reflective"
+    }
+  ]
+}

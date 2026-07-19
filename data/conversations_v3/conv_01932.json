@@ -1,0 +1,61 @@
+{
+  "id": "conv_01932",
+  "context": "Kenji helps Hiroshi-elder buy a new umbrella; small autumn outing.",
+  "purpose": "Adult helping elder with practical small purchase.",
+  "ambient": "shop_low_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "傘",
+    "雨",
+    "選ぶ",
+    "丈夫"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "傘、新しい欲しい。",
+      "en": "I'm thinking I should get a new umbrella.",
+      "style": "Unhurried, patient delivery. Slight pause after the opening thought. Warm Kansai lilt. Self-aware and gentle—not demanding, just observing a small need aloud.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええで、丈夫なん選ぼか。",
+      "en": "Sure thing. Let's find you a sturdy one.",
+      "style": "Immediate, eager to help. Soft Kansai warmth. The tone of someone settling into a small errand with genuine care. No fuss—just action.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "これ、ちょっと小さいな。",
+      "en": "Hmm, this one's a bit small for me.",
+      "style": "Gentle, thoughtful. Testing the umbrella against his own measure. Quiet observation, not complaint. The courtesy of someone thinking aloud to his companion.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大きいの、こっちに。",
+      "en": "The bigger ones are over here.",
+      "style": "Soft, guiding. A slight gesture in his voice. Kansai ease and helpfulness—moving naturally toward the solution without making it a project.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、これにしよ。",
+      "en": "Yeah, this one feels right.",
+      "style": "Warm satisfaction. A light decisiveness after the consideration. Kansai acceptance. The comfort of settling on something good with someone you trust.",
+      "mood": "content"
+    }
+  ]
+}

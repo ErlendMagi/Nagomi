@@ -1,0 +1,75 @@
+{
+  "id": "conv_03024",
+  "context": "Sho tells Yumiko about a limited toy.",
+  "purpose": "Casual home register; vocabulary (死ん/限定/サイズ/詳しく/オープン) in natural home.",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "死ん",
+    "限定",
+    "サイズ",
+    "詳しく",
+    "オープン"
+  ],
+  "cast": [
+    "sho_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、限定のおもちゃがあるんだ!",
+      "en": "Mom, there's a limited-edition toy!",
+      "style": "excited small child voice, bright warm bouncing delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、どんなおもちゃ?詳しく教えて。",
+      "en": "Oh, what kind? Tell me in detail.",
+      "style": "gentle mother voice, soft warm caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "大きいサイズのロボットなんだ!",
+      "en": "It's a big-size robot!",
+      "style": "enthusiastic small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "新しいお店が、オープンしたのね。",
+      "en": "A new shop opened, then.",
+      "style": "warm mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん!でも、電池が死んでて動かなかった。",
+      "en": "Yeah! But the battery was dead, so it didn't move.",
+      "style": "pouty small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "電池を入れれば、動くわよ。",
+      "en": "If you put in batteries, it'll move.",
+      "style": "gentle mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "限定だから、欲しくなっちゃった。",
+      "en": "It's limited, so I really want it.",
+      "style": "longing small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "オープン日に、見に行きましょうね。",
+      "en": "Let's go look on the opening day.",
+      "style": "tender mother voice, soft warm affectionate closing delivery throughout"
+    }
+  ]
+}

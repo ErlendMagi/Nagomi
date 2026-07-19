@@ -1,0 +1,75 @@
+{
+  "id": "conv_01638",
+  "context": "Sakura interviews a young pastry chef for an article over coffee.",
+  "purpose": "Writer interviewing young culinary craftsman warmly.",
+  "ambient": "cafe_pastry_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "パン",
+    "焼く",
+    "こだわり",
+    "工夫"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_082)",
+    "generated_at": "2026-05-27T06:57:45.559Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "パン作り、何年されてますか?",
+      "en": "How long have you been baking bread?",
+      "style": "Warm, curious opening. Pen poised as if taking notes. Genuinely interested — the kind of interviewer who listens more than she speaks. Soft eye contact.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "七年です、まだ修行中で。",
+      "en": "Seven years now. Still learning, really.",
+      "style": "Quiet, modest. A small self-deprecating smile underneath. Not fishing for reassurance — just stating fact. Gentle down-turn at the end.",
+      "mood": "humble"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "こだわり、ありますか?",
+      "en": "Do you have any particular methods you care about?",
+      "style": "Leaning in slightly. Pen ready. The follow-up question of someone who's listening carefully, not just moving down a checklist. Warm curiosity.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "酵母、自家製にしています。",
+      "en": "I make my own yeast.",
+      "style": "A quiet note of pride underneath the softness. Simple statement, but the kind that matters. Slight lift on the word 'own' — this is the detail he wanted to share.",
+      "mood": "proud_modest"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "すごい工夫ですね。",
+      "en": "That's impressive work.",
+      "style": "Genuine admiration — not performing it. She means it. Warm recognition of something that takes patience. Nods slightly as she writes.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "時間かかるけど、味が違う。",
+      "en": "It takes time, but the flavor is completely different.",
+      "style": "Settling into the topic. Content, unhurried. Not defensive about the time investment — simply stating what he knows. Soft warmth in the delivery.",
+      "mood": "content"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "読者、喜びそうです。",
+      "en": "Your readers are going to love that detail.",
+      "style": "Professional warmth. She can already see how this will land on the page. Slight smile — the satisfaction of a writer who knows a good story when she's hearing one.",
+      "mood": "satisfied"
+    }
+  ]
+}

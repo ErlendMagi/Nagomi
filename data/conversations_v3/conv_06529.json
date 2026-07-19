@@ -1,0 +1,86 @@
+{
+  "id": "conv_06529",
+  "context": "A police officer briefs on coordination",
+  "purpose": "Teach: 外注/両社/差し支え/損ね/歯科医/部内/組立/伝票",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "外注",
+    "両社",
+    "差し支え",
+    "損ね",
+    "歯科医",
+    "部内",
+    "組立",
+    "伝票"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_328 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、特殊業務、外注、慎重に判断しています。",
+      "en": "Police special operations outsourcing — we're evaluating this carefully.",
+      "style": "Measured, official tone. Slight pause after 'Police' to mark the subject. Even pace, no rush. Authority without coldness. Grounded in procedure.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。両社、警察との連携、構築しています。",
+      "en": "Yes. We're building that partnership with the police on both fronts.",
+      "style": "Direct acknowledgment. Slight nod in the voice on 'both fronts.' Cooperative but not deferential. Steady, professional pace.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社業務に差し支え、ないことを願います。",
+      "en": "I'm hoping this won't create any operational disruption for your company.",
+      "style": "Polite, official phrasing. Gentle on the concern — not a threat, a genuine hope. Measured delivery. Slight weight on 'hoping' to show sincerity beneath procedure.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市民の感情を損ねないよう、慎重に対応します。",
+      "en": "Yes. We'll handle everything with care so we don't lose public confidence.",
+      "style": "Serious commitment. Definite on 'handle' — shows this is being taken seriously. Steady pace. Slightly formal register. Reassurance without overstatement.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者、歯科医での治療、保険、適用されました。",
+      "en": "The victim's dental treatment — the insurance claim went through.",
+      "style": "Factual update. Slight pause after the dash to separate information. Clinical but not cold. Even pacing. The tone of someone reporting a resolution.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。部内の警察出身者、相談相手として頼っています。",
+      "en": "Yes. We have people in my section with police backgrounds — they've been invaluable to consult.",
+      "style": "Confidence in this detail. Light emphasis on 'invaluable' — shows trust in the resource. Slightly warmer than the previous lines. Conversational but professional.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "組立工場、警備、強化中です。",
+      "en": "The assembly plant security is being upgraded as we speak.",
+      "style": "Active, present-tense delivery. Slight forward momentum in the phrasing. Shows ongoing action, not just intention. Measured but purposeful.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。伝票、警察開示要請、対応可能です。",
+      "en": "Yes. We can handle any disclosure requests from police regarding vouchers and documentation.",
+      "style": "Competent, closing statement. Clear and direct. Slight finality on the last phrase — shows readiness to move forward. No hesitation. Professional confidence.",
+      "mood": "capable"
+    }
+  ]
+}

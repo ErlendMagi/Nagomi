@@ -1,0 +1,79 @@
+{
+  "id": "conv_02039",
+  "context": "Aoi runs a customer-feedback session at the cafe with regular customers.",
+  "purpose": "Business owner gathering improvement ideas.",
+  "ambient": "cafe_low_meeting",
+  "sound_effects": [],
+  "target_vocab": [
+    "提案",
+    "改善",
+    "感想",
+    "対応",
+    "反応",
+    "サービス",
+    "工夫",
+    "皆さん"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_102)",
+    "generated_at": "2026-05-27T12:52:20.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "皆さん、ご提案、ありがとうございます。",
+      "en": "Thank you all so much for your suggestions.",
+      "style": "Gracious and genuine. Warm, measured pace. Slight lift at the acknowledgement — not performative, just real gratitude. Open posture.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感想、お客さんから、ようけ集まったな。",
+      "en": "We've gotten a lot of feedback from customers, haven't we.",
+      "style": "Soft Kansai warmth. Conspiratorial tone — shared appreciation. Slight smile in the voice. Relaxed, almost casual despite the formality of the moment.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "サービスの改善、すぐ対応します。",
+      "en": "I'll work on improving the service right away.",
+      "style": "Quiet resolve. Calm, measured delivery. Slight pause before the commitment — not hesitant, just deliberate. Taking it seriously but not heavy.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "反応、楽しみやな。",
+      "en": "I'm really looking forward to seeing how it goes.",
+      "style": "Kansai lilt at the end — genuine curiosity without pressure. Warm, engaged. Light pace. The sound of someone who actually means it.",
+      "mood": "hopeful_engaged"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "工夫、続けていきたい。",
+      "en": "I want to keep trying new things.",
+      "style": "Tender undertone. Soft, earnest. Slight vulnerability — admitting ambition without over-stating it. Gentle trailing-off, like she's speaking partly to herself.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お前の店、皆、応援してる。",
+      "en": "Everyone here is rooting for your shop.",
+      "style": "Warm Kansai directness. Firm but affectionate — the kind of reassurance that lands because it's not sugar-coated. Low, steady tone. Pride in the voice.",
+      "mood": "supportive_proud"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとう、心、温かい。",
+      "en": "Thank you. That really warms my heart.",
+      "style": "Soft, genuine relief. Voice opens slightly on the gratitude. Slow pace. Almost touched — the kind of moment where she lets her guard down just a fraction.",
+      "mood": "moved_grateful"
+    }
+  ]
+}

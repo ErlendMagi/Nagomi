@@ -1,0 +1,72 @@
+{
+  "id": "conv_03786",
+  "context": "A boss and manager review investment plans and quarterly results",
+  "purpose": "Teach: 総額/前年/出資/議事/モニター/ユニット/基づき/バックアップ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "総額",
+    "前年",
+    "出資",
+    "議事",
+    "モニター",
+    "ユニット",
+    "基づき",
+    "バックアップ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_190 w39oywsro)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "では、昨日の議事録に基づき、第三四半期の業績を確認しよう。",
+      "en": "Well then, based on yesterday's meeting minutes, let's review the third quarter performance.",
+      "style": "Authoritative boss opening the meeting with formal directive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、売上の総額は前年同期と比べて約一割増加しております。",
+      "en": "Yes, total sales increased by about ten percent compared to the same period last year.",
+      "style": "Polite middle-aged manager delivering numbers in measured business keigo."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、それは悪くないな。新規プロジェクトへの出資の件はどうなっている？",
+      "en": "Hmm, that's not bad at all. How are things going with the investment into the new project?",
+      "style": "Boss showing mild approval before pivoting sharply to next topic."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出資先の選定はほぼ完了し、新ユニットの立ち上げ準備も順調に進んでおります。",
+      "en": "Selection of investment partners is nearly complete, and preparations for launching the new unit are also progressing smoothly.",
+      "style": "Reassuring report from manager, careful word choice and humble polite form."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "結構だ。それから会議室のモニターが古いと聞いたが、買い替えたのか？",
+      "en": "Very good. Also, I heard the conference room monitor is old. Did you replace it?",
+      "style": "Boss shifting to a smaller operational concern with a slightly sharper tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来週新しいモニターが届きますし、データのバックアップ体制も同時に強化いたします。",
+      "en": "The new monitor arrives next week, and we'll strengthen the data backup system at the same time.",
+      "style": "Efficient manager confirming logistics with quiet professional confidence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よろしい。バックアップは何より大事だからな。引き続き頼むぞ。",
+      "en": "Good. Backups are more important than anything else. I'm counting on you going forward.",
+      "style": "Boss closing with gruff approval and a note of paternal trust."
+    }
+  ]
+}

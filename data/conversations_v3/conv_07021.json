@@ -1,0 +1,86 @@
+{
+  "id": "conv_07021",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 閉まっ/殴り/貰え/好ましく/金魚/嘆い/見上げる/なおす",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉まっ",
+    "殴り",
+    "貰え",
+    "好ましく",
+    "金魚",
+    "嘆い",
+    "見上げる",
+    "なおす"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_353 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、近所のお店、もう、閉まってたよ、買い物、明日にしようね。",
+      "en": "Mom, that shop near us was already closed. Let's do the shopping tomorrow instead.",
+      "style": "Quiet, matter-of-fact delivery. Small voice reporting an obstacle without complaint. Accepts the change of plans as simply as he states the fact.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お友達と、殴り合いの喧嘩、しないでね、約束よ、翔くん。",
+      "en": "Yes. And remember your promise to me — no fighting with your friends, okay?",
+      "style": "Gentle but anchored firmness. She's not lecturing; she's reminding him of something they've already agreed on. Direct eye contact implied, warm underneath the rule.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お小遣い、もう少し、貰えれば、お年玉、貯金できるんだけどな、ママ。",
+      "en": "If I got a little more allowance, I could save up my New Year's money, Mom.",
+      "style": "Wistful but not whiny. He's thinking out loud, testing the idea like he's genuinely curious what she'll say. A small, sincere question, not a negotiation.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "最近、ニュース、好ましくない事件、増えてるわね、心配だわ、本当に。",
+      "en": "The news these days — there are so many bad things happening. It really worries me.",
+      "style": "Quiet concern. She's speaking partly to herself, partly to him. The worry is real but controlled. She trails off slightly, as if checking whether she should have said it out loud.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "金魚、ぼく、お祭りで、もらったよ、ママ、お水替え、お願いね。",
+      "en": "I won a goldfish at the festival, Mom. Will you help me change its water?",
+      "style": "Bright, direct request. Eager without being demanding. He's already decided she'll say yes — not cocky, just trusting. A small pause before the ask, like he's presenting his discovery.",
+      "mood": "eager_trusting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん、雨で、洗濯物、ダメになっちゃって、嘆いたわよ、本当に、悲しいわ。",
+      "en": "My mother came by — the rain ruined all my laundry. I was so upset about it, truly.",
+      "style": "Wry acceptance of small disappointment. She's reporting the day's minor disaster with dry humor. Self-aware that she's venting a little, but not dwelling. Matter-of-fact with a thread of tenderness underneath.",
+      "mood": "wry_exasperated"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "空を見上げると、夜、お星さま、たくさん、見えるんだね、綺麗だよ、本当に。",
+      "en": "When you look up at the sky at night, there are so many stars. They're really beautiful.",
+      "style": "Wonder, held gently. His voice softens and opens. He's not performing amazement — he's actually seeing it for the first time or the hundredth, and it still lands. Breathe with the discovery.",
+      "mood": "awed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの腕時計、なおすために、業者さんに、頼んだから、心配しないでね、翔くん、安心して。",
+      "en": "Your father's watch is being fixed — I took it to the shop. You don't need to worry about it, Sho. Everything's taken care of.",
+      "style": "Warm reassurance, steady and certain. She's wrapping up his worry before it settles. Tender but not coddling. The kind of mother-voice that makes a child believe the world is being held carefully.",
+      "mood": "reassuring_tender"
+    }
+  ]
+}

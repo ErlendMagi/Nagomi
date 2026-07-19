@@ -1,0 +1,91 @@
+{
+  "id": "conv_00232",
+  "context": "Sho's small bird has escaped into the neighbor's tree. Yumiko called Officer Takeda for advice; he's come by to help calm everyone.",
+  "purpose": "civic kindness around small child crisis — adult professional and mother stabilizing a frightened child",
+  "ambient": "street_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "鳥",
+    "助かる",
+    "安心",
+    "親切",
+    "帰る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sho_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_012)",
+    "generated_at": "2026-05-26T20:02:12.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "すみません、わざわざ来ていただいて。",
+      "en": "Sorry, thank you for coming out specifically.",
+      "style": "Maternal warm formal apologetic gratitude, the soft real anxiety audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "formally-apologetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いえ、お子さんの心配ですから。",
+      "en": "No, it's about your child's worry.",
+      "style": "Officer warm gentle reassuring professional, the soft real public-servant care audible, gentle real warmth threading throughout delivery.",
+      "mood": "gently-reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…ピーちゃん、まだ木の上…。",
+      "en": "…Pii-chan, still in the tree…",
+      "style": "Tiny six-year-old wet wavering voice, the soft small heartbroken-worry audible, soft small distress threading throughout delivery throughout.",
+      "mood": "wateringly-worried"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "しょうくん、大丈夫。鳥はね、夕方になると、お腹空く。",
+      "en": "Sho-kun, it's okay. Birds, by evening, get hungry.",
+      "style": "Officer warm gentle child-tuned wisdom, the soft real expert-reassuring audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-wise"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お腹空いたら…帰ってくる？",
+      "en": "When hungry… will it come back?",
+      "style": "Tiny six-year-old soft tentative hope-rising, the gentle small wanting-to-believe audible, soft small fragile-hope throughout delivery.",
+      "mood": "fragilely-hopeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "帰ってくることが多い。お父さんのケージ、外に置いといて。",
+      "en": "Often, yes. Leave its cage outside.",
+      "style": "Officer warm gentle practical wisdom-instruction, the soft real careful-direction audible, gentle real warmth threading throughout delivery.",
+      "mood": "practically-gentle"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、ありがとうございます。",
+      "en": "Truly, thank you.",
+      "style": "Maternal warm deep sincere gratitude, the soft real relief-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "deeply-grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お巡りさん、優しい。",
+      "en": "Officer, kind.",
+      "style": "Tiny six-year-old soft genuine quiet acknowledgment, the gentle small touched-trust audible, soft small warmth threading throughout delivery.",
+      "mood": "softly-trusting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ピーちゃん帰ってきたら、教えてくださいね。",
+      "en": "When Pii-chan comes back, tell me, okay?",
+      "style": "Officer warm gentle closing extending care, the soft real continuation-of-care audible, gentle real warmth threading throughout delivery.",
+      "mood": "gently-extending"
+    }
+  ]
+}

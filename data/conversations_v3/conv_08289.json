@@ -1,0 +1,86 @@
+{
+  "id": "conv_08289",
+  "context": "Officer briefs",
+  "purpose": "Teach: 公債/渡航/出国/通院/含有/取り扱っ/照会/婚姻",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公債",
+    "渡航",
+    "出国",
+    "通院",
+    "含有",
+    "取り扱っ",
+    "照会",
+    "婚姻"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_416 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、公債絡みの詐欺を捜査しております",
+      "en": "We're investigating a case involving government bond fraud.",
+      "style": "Even, professional opening. Measured pace. The calm authority of someone who has said this many times. No performance—just fact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者の海外渡航を警察、阻止されたんですね",
+      "en": "Yes. So the police managed to prevent the suspect from leaving the country.",
+      "style": "Respectful acknowledgment with a slight uptick of interest. Following Officer Takeda's lead. Careful not to overstep—this is his domain.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、出国停止命令を発令いたしました",
+      "en": "We issued a departure ban order.",
+      "style": "Straightforward, procedural. No inflection needed—the action speaks for itself. Steady eye contact level.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害者の通院支援、警察、ありがたいです",
+      "en": "Yes. We really appreciate the support the police have provided for the victim's medical care.",
+      "style": "Genuine gratitude, not forced. Respectful nod of recognition in the voice. Warm but not overly familiar.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収品の含有物質を分析中です",
+      "en": "We're currently analyzing the chemical composition of the seized items.",
+      "style": "Methodical, unhurried. The tone of someone working through evidence with proper care. Slightly technical—detail matters here.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。証拠物を警察、慎重に取り扱っておられますね",
+      "en": "Yes. The police are handling the evidence with real care and precision.",
+      "style": "Observant respect. He's noticing the thoroughness. Quiet affirmation—not praise, but recognition of a job being done right.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民からの照会窓口を強化しました",
+      "en": "We've strengthened our inquiry desk for citizen reports.",
+      "style": "Brief, informative. The tone of an update being delivered efficiently. Professional but not cold.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。偽装婚姻の取り締まりも進めておられますね",
+      "en": "Yes. And you're moving forward on the sham marriage cases too, I see.",
+      "style": "Observant, slightly warmer. He's tracking multiple threads—shows he's been listening closely. Still deferential, but the comment carries an undertone of genuine interest.",
+      "mood": "engaged"
+    }
+  ]
+}

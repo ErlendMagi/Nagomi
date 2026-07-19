@@ -1,0 +1,61 @@
+{
+  "id": "conv_00003",
+  "context": "A busy sidewalk at midday in Tokyo. Two strangers bump into each other coming around a corner.",
+  "purpose": "transactional courtesy / micro-apology — brief encounter, polite recovery",
+  "ambient": "city_street_day",
+  "sound_effects": [],
+  "target_vocab": [
+    "すみません",
+    "大丈夫",
+    "急ぐ",
+    "本当に"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (hand-seeded reference)",
+    "generated_at": "2026-05-26T20:21:00Z",
+    "source_plan_row": "conv_011"
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "あっ、すみません！",
+      "en": "Oh, sorry!",
+      "style": "Startled, reflexive apology. Voice cracks slightly higher than usual. The whole sentence is one breath.",
+      "mood": "startled_apologetic"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いえ、こちらこそ。大丈夫ですか？",
+      "en": "No, my fault too. Are you okay?",
+      "style": "Composed teacher's tone, warm but unhurried. Quick scan with her eyes before asking. JP and EN: gentle steadying.",
+      "mood": "composed_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、急いでて、本当にすみません。",
+      "en": "Yes, I was hurrying, I'm really sorry.",
+      "style": "Slightly sheepish, half-bowing in the voice. The 「本当に」 carries the weight of someone who knows he was the one not looking.",
+      "mood": "sheepish"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いえいえ、お気をつけて。",
+      "en": "No, no. Please take care.",
+      "style": "Brief, warm, professional politeness. The 「お気をつけて」 lands like a small genuine wish, not just a sign-off.",
+      "mood": "warm_polite"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、本当にすみませんでした。",
+      "en": "Yes — I'm really sorry.",
+      "style": "Concluding apology, quieter than the first one. The kind of closing line that ends the encounter without dragging it.",
+      "mood": "closing"
+    }
+  ]
+}

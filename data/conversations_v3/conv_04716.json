@@ -1,0 +1,78 @@
+{
+  "id": "conv_04716",
+  "context": "A police officer briefs a teen reporter on a public case",
+  "purpose": "Teach: 暴露/罰金/原爆/仮面/陸軍/煙草/交際/県立",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暴露",
+    "罰金",
+    "原爆",
+    "仮面",
+    "陸軍",
+    "煙草",
+    "交際",
+    "県立"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご苦労さま。今日は県立図書館で起きた事件について、報道資料を渡しておくよ。",
+      "en": "Good work. Today I'll hand you press materials about the incident at the prefectural library.",
+      "style": "Formal officer tone, calm and businesslike with junior."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます!容疑者は本当に仮面を被って侵入したんですか?",
+      "en": "Thank you! Did the suspect really wear a mask when breaking in?",
+      "style": "Eager teen reporter, polite but visibly excited."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだ。防犯カメラに映っていた。容疑者は元陸軍の関係者だという情報もある。",
+      "en": "That's right. He was on the security camera. There's info he's a former army contact.",
+      "style": "Measured delivery, releasing facts piece by piece."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "陸軍?それって戦時中の資料を狙ったってことですか?原爆関連の文書とか…",
+      "en": "Army? So he targeted wartime documents? Like atomic bomb related papers?",
+      "style": "Sharp inference, voice rising with curiosity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "鋭いな。実は原爆投下に関する未公開資料を狙っていたらしい。動機は内部告発、つまり政府の隠蔽を暴露するためだと供述している。",
+      "en": "Sharp guess. He targeted unreleased atomic bomb files. He claims he wanted to expose a government cover-up.",
+      "style": "Impressed but professional, sharing more detail now."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "暴露が目的だったんですね。あと、彼の交際相手も関与しているって噂は本当ですか?",
+      "en": "So exposure was the goal. And is the rumor about his partner being involved true?",
+      "style": "Follow-up question, leaning into the scoop."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは捜査中だから書かないでくれ。ちなみに彼、敷地内で煙草を吸って軽犯罪の罰金も食らってる。",
+      "en": "That's still under investigation, don't print it. By the way, he was fined for smoking on the premises.",
+      "style": "Off-record warning followed by a wry aside."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "煙草の罰金まで…ちょっと間抜けですね。記事、ちゃんと事実だけ書きます!",
+      "en": "Fined even for cigarettes... a bit silly. I'll stick strictly to the facts in my article!",
+      "style": "Amused but reassuring, professional commitment to truth."
+    }
+  ]
+}

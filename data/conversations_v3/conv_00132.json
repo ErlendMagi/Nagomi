@@ -1,0 +1,105 @@
+{
+  "id": "conv_00132",
+  "context": "Friday evening, the Saito-Hayashi household. Sho's school friend has invited him to a sleepover. Sho is hesitant; Hina has opinions; Yumiko mediates.",
+  "purpose": "three-speaker family micro-decision — kid uncertainty, sister opinion, mom listening",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "一緒",
+    "少し",
+    "ありがとう",
+    "明日"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん…明日、ともだち、お泊まりって。",
+      "en": "Mom… tomorrow, a friend asked me to sleep over.",
+      "style": "Quiet, careful announcement. Sho gathers the courage to share something that matters. Voice steady but delicate, like he's testing whether it's safe to want this.",
+      "mood": "hesitant_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えっ、本当？嬉しいね、しょう。",
+      "en": "Oh — really? That's wonderful, Sho.",
+      "style": "Warm, immediate delight. Yumiko's brightness is genuine but calibrated — she hears the fragility under his announcement. She's celebrating him, not the event.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "しょうは、行く？行かない？",
+      "en": "Are you going? Or are you not?",
+      "style": "Direct, curious big-sister probe. Hina asks without performance — genuinely interested in what Sho will decide. No judgment in the tone, just simple attention.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…わかんない。ちょっと、こわい。",
+      "en": "…Don't know. Kind of… scared.",
+      "style": "Small, honest admission. Sho's voice doesn't hide it — fear sits right at the surface. A tiny pause before 'scared,' like he's letting himself feel it while saying it aloud.",
+      "mood": "uncertain_worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そっか。…どんなところが、こわい？",
+      "en": "I see. …What part scares you?",
+      "style": "Gentle inquiry without rushing. Yumiko creates space for him to name it. No comfort offered before the question — she's genuinely asking, giving him permission to be specific.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夜、お母さん、いない。",
+      "en": "At night — you won't be there.",
+      "style": "The core of it, said simply. Sho's voice is small but steady — he's naming the real thing. A slight drop on the final words, not dramatic, just true.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "でも、ともだちのお母さん、優しいよ。私、知ってる。",
+      "en": "But — their mom is really nice. I know her.",
+      "style": "Reassurance with certainty. Hina delivers this like she's passing along something she actually knows. No condescension — she's offering proof, not comfort.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に？お姉ちゃん、お友達、いるの？",
+      "en": "Really? You know them too, big sis?",
+      "style": "Genuine interest, a small note of hope underneath. Yumiko is checking, but also — this information helps. She's listening to what Hina knows, not just her daughter's tone.",
+      "mood": "interested_relieved"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん同士、知り合い。",
+      "en": "Our moms know each other.",
+      "style": "Matter-of-fact, confident. Hina states this like it's obvious support — she's connecting dots for Sho without making it dramatic. Simple, grounded fact.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…じゃ、ちょっと、行ってみる、かも。",
+      "en": "…Then — I might try going.",
+      "style": "A quiet shift. Sho's voice carries possibility now, still careful but leaning forward. The decision forms in real time. Not fully committed, but moving toward yes.",
+      "mood": "tentative_brave"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大丈夫だよ。途中で帰りたかったら、電話して。",
+      "en": "You'll be fine. If you want to come home partway through — just call me.",
+      "style": "Steady, grounded permission. Yumiko delivers this like it's an actual exit door — not a threat, just a fact. Her tone says she trusts him. No breathlessness, no worry in the voice.",
+      "mood": "calm_supportive"
+    }
+  ]
+}

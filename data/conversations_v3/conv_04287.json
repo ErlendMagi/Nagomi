@@ -1,0 +1,72 @@
+{
+  "id": "conv_04287",
+  "context": "A senior trains a new hire on data dashboards",
+  "purpose": "Teach: 指数/媒体/正規/相対/保持/バックナンバー/チャート/マクロ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "指数",
+    "媒体",
+    "正規",
+    "相対",
+    "保持",
+    "バックナンバー",
+    "チャート",
+    "マクロ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "このダッシュボードの主要指数を毎朝確認するのが君の最初の仕事だ。",
+      "en": "Checking the main indices on this dashboard every morning is your first job.",
+      "style": "Calm senior tone, slightly formal, instructive but welcoming, measured pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。媒体別の数字もここに出ているんですね。",
+      "en": "Yes. The numbers by media channel are shown here too, I see.",
+      "style": "Eager junior, curious rising intonation, polite but a bit nervous."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうだ。広告媒体ごとに分かれていて、正規のデータソースだけ繋いである。",
+      "en": "Right. It's split by ad channel, and only authorized data sources are connected.",
+      "style": "Patient explanation, steady, professional, clear enunciation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "相対的な伸びを見るには、このチャートを切り替えればいいんですか？",
+      "en": "To see relative growth, do I just switch over to this chart?",
+      "style": "Thoughtful, tentative, checking understanding, polite junior register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、その通り。マクロな傾向はそちらで掴める。過去分はバックナンバーのタブにある。",
+      "en": "Yes, exactly. You can grasp the macro trend there. Older reports are under the back-issues tab.",
+      "style": "Affirming, slightly warmer, mentor-like, even rhythm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、履歴も保持されているわけですね。安心しました。",
+      "en": "I see, so the history is retained as well. That's a relief.",
+      "style": "Relieved, mild smile in voice, nodding tone, more relaxed."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ただし数字を鵜呑みにせず、自分でも一度集計してみてくれ。それが一番の勉強だ。",
+      "en": "But don't take the numbers at face value—try aggregating once yourself. That's the best practice.",
+      "style": "Firm but kind closing advice, slower, emphasizing key words."
+    }
+  ]
+}

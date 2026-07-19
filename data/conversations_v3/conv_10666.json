@@ -1,0 +1,86 @@
+{
+  "id": "conv_10666",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 目黒/野中/渡部/三宅/酒井/武部/高野/久保田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "目黒",
+    "野中",
+    "渡部",
+    "三宅",
+    "酒井",
+    "武部",
+    "高野",
+    "久保田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_535 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、目黒オフィスの移転計画を進めろ",
+      "en": "Get the Meguro office relocation plan moving forward.",
+      "style": "Clipped, authoritative. Measured tempo. Slight pause after each clause. The tone of someone used to being obeyed without repetition.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の野中課長の出張日程を整えます",
+      "en": "Yes. I'll coordinate Sales Manager Nonaka's travel schedule.",
+      "style": "Brisk, efficient acknowledgment. Slight nod in the voice. Quick intake before the action items—showing readiness without overstepping.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、取締役の渡部様の交代を準備しろ",
+      "en": "Prepare the transition for our Director Watabe.",
+      "style": "Formal, deliberate. Measured weight on each word. The careful tone of someone discussing personnel changes—administrative but not cold.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の三宅様の新企画を採用します",
+      "en": "Yes. I'll implement PR Manager Miyake's new proposal.",
+      "style": "Confirming with a half-beat of emphasis. Slightly faster than before—showing initiative. Clean handoff, no hesitation.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、財務の酒井様に予算策定を依頼しろ",
+      "en": "Request that Finance Manager Sakai handle the budget planning.",
+      "style": "Steady, delegating. Slight rise on the name—making clear who this concerns. The tone of someone distributing responsibility with confidence.",
+      "mood": "delegating"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新任の武部部長を歓迎します",
+      "en": "Yes. I'll give a warm welcome to the new Department Head Takebe.",
+      "style": "Warmer than previous lines, but still professional. Gentle shift—showing that recognition matters here too. Light, welcoming on the final phrase.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の高野様に新人研修を任せろ",
+      "en": "Put HR Manager Takano in charge of the new employee training program.",
+      "style": "Clear and final. Slight emphasis on 'in charge'—making the delegation explicit. Composed, giving the instruction with full authority.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。技術の久保田主任にプロジェクトを任せます",
+      "en": "Yes. I'll assign the project to Senior Technician Kubota.",
+      "style": "Crisp closure. Quick, decisive. The 'yes' lands cleanly—showing understanding and readiness to execute. Slight finality on the end.",
+      "mood": "confirmatory"
+    }
+  ]
+}

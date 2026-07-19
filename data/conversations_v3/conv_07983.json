@@ -1,0 +1,86 @@
+{
+  "id": "conv_07983",
+  "context": "Elderly couple chats",
+  "purpose": "Teach: むかし/みち/帰ら/叩き/割っ/削り/好か/きらい",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "むかし",
+    "みち",
+    "帰ら",
+    "叩き",
+    "割っ",
+    "削り",
+    "好か",
+    "きらい"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、むかしの結婚式、覚えてるか?",
+      "en": "Gran — do you remember that old wedding?",
+      "style": "Soft, reaching backward in time. Gentle opening. Quiet pace, testing the memory gently. Slight pause before the question mark, as if half-expecting the answer he wants.",
+      "mood": "nostalgic"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、お祖父ちゃん、村の細いみちをよく歩かれたわよね、あなた?",
+      "en": "Yes — Grandpa, you used to walk down that narrow road in the village so often, didn't you?",
+      "style": "Warm and affectionate, slightly meandering. Voice finds its rhythm mid-sentence. Gentle correction-through-memory. The 'dear' lands with quiet certainty, not performed.",
+      "mood": "tender_present"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、戦時中、お父さんがなかなか帰らない時期があったぞ",
+      "en": "Gran — during the war, there was that long stretch when Father wouldn't come home.",
+      "style": "Voice darkens slightly. Slower now. Weight on the word 'war'. Not heavy-handed, but the pain is there, held carefully. Trailing off suggests he's checking whether to continue.",
+      "mood": "remembering_sorrow"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、お太鼓を叩きに祭りに行かれたわよね、あなた?",
+      "en": "Grandpa — you remember how you'd go to the festival to play the drum, didn't you?",
+      "style": "Gently redirecting, like turning his face toward light. Her voice steadies his. Soft brightness breaking through. The 'dear' is a quiet anchor.",
+      "mood": "gentle_redirect"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、よくお皿を割ってしまって泣いてたぞ、覚えてる?",
+      "en": "Gran — you'd cry so often when you broke a plate. You remember that?",
+      "style": "Tender but direct. Naming the small griefs. Voice stays level—not pitying, just witnessing. The question at the end is genuine, not rhetorical.",
+      "mood": "witnessing"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、ご鉛筆の削りカスをよく片付けられたわよね、あなた?",
+      "en": "Grandpa — you were always so careful about cleaning up the pencil shavings, weren't you?",
+      "style": "Warm, almost playful. Her memory of his kindnesses in small things. Voice lifts slightly. She's not contradicting him; she's completing the picture he's held all these years.",
+      "mood": "loving_detail"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ばあさん、お父さん、村中の人に好かれてたぞ",
+      "en": "Gran — Father was loved by everyone in the village.",
+      "style": "Quieter now, almost matter-of-fact. A statement of truth he needs to remind her of—or himself. Steady breath. No dramatization. Just fact.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お祖父ちゃん、虫がきらいなお方だったわよね、あなた?",
+      "en": "Grandpa — you were the one who hated bugs so much, weren't you dear?",
+      "style": "Close, intimate, almost conspiratorial. A small smile in the voice. She's teasing him gently with something only she knows. Breath is warm and near.",
+      "mood": "loving_mischief"
+    }
+  ]
+}

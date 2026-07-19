@@ -1,0 +1,70 @@
+{
+  "id": "conv_03231",
+  "context": "Building an online community platform",
+  "purpose": "Design a forum app; teach ソフトウェア/掲示板/コミュニケーション/方式/微妙/標準",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ソフトウェア",
+    "掲示板",
+    "コミュニケーション",
+    "方式",
+    "微妙",
+    "標準"
+  ],
+  "cast": [
+    "ren_uni",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_162)",
+    "generated_at": "2026-05-29T16:43:00.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "新しいソフトウェアの開発、進んでる？",
+      "en": "Is the new software development moving along?",
+      "style": "checking-in tech lead keeping things on track"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん、掲示板の機能を作ってるところ。",
+      "en": "Yeah, I’m building the message-board feature.",
+      "style": "focused junior dev reporting progress, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ユーザー同士のコミュニケーションが鍵だね。",
+      "en": "Communication between users is the key.",
+      "style": "product-minded lead naming the priority, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "投稿の表示方式、どっちがいいか微妙でさ。",
+      "en": "The post-display method, it’s hard to call.",
+      "style": "uncertain dev mulling a design tradeoff"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "業界の標準に合わせるのが無難だよ。",
+      "en": "Matching the industry standard is safest.",
+      "style": "pragmatic lead advising the safe path"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "標準仕様だと、後から拡張しやすいしね。",
+      "en": "A standard spec is easier to extend later.",
+      "style": "agreeing dev seeing the long-term benefit"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "掲示板って、運営のコミュニケーションも大事。",
+      "en": "For a board, moderator communication matters too.",
+      "style": "experienced lead flagging an overlooked angle"
+    }
+  ]
+}

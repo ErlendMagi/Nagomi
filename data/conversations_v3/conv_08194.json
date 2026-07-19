@@ -1,0 +1,86 @@
+{
+  "id": "conv_08194",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 糾弾/処刑/違憲/静止/議定/挑発/飢え/騎手",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "糾弾",
+    "処刑",
+    "違憲",
+    "静止",
+    "議定",
+    "挑発",
+    "飢え",
+    "騎手"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_411 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、医療ミスへの糾弾と医療チームの対応を考察しております",
+      "en": "Ren, we take medical errors and how our team responds to them very seriously.",
+      "style": "Measured, direct opening. Steady professional tone. Clear emphasis on 'we' and responsibility. No rush—she speaks like someone accustomed to difficult conversations. Composed authority without coldness.",
+      "mood": "professional_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歴史的な処刑記録の医学的観察、貴院、研究なさったんですね、先生",
+      "en": "So your hospital has actually researched medical observation and historical cases like that?",
+      "style": "Genuine curiosity, slightly deferential. Leans forward slightly into the question. Respectful of her expertise but not obsequious. A moment's hesitation before 'researched'—testing if he's understood her correctly.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療制度の違憲性も、貴院、議論されておられますね、先生",
+      "en": "And I understand your hospital also discusses the constitutional issues with how medical systems work?",
+      "style": "Thoughtful, measured pace. Soft on the opening—not accusatory. Seeking confirmation, not arguing. The tone of someone thinking out loud while talking to an authority who might correct him kindly.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんが静止できる検査時間を医療チームで確保します",
+      "en": "Yes—we make sure our team sets aside enough time for patients to stay still during examinations.",
+      "style": "Clear, practical. Matter-of-fact delivery. Slight firmness on 'enough time'—this is non-negotiable. Warm but not elaborate. The tone of someone stating what should be basic but often isn't.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療議定の遵守を、貴院、徹底されておられますね、先生",
+      "en": "So your hospital is thorough about following medical protocols?",
+      "style": "Quiet, almost tentative. Genuine question, not rhetorical. Slight upward lilt at the end—seeking her affirmation. Respectful distance in his voice. The careful phrasing of someone learning.",
+      "mood": "curious_deferential"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんへの挑発的な発言は医療チームで絶対許しません",
+      "en": "Yes—we absolutely do not tolerate any kind of provocative or dismissive language toward patients from anyone on the team.",
+      "style": "Firmer than before. A quiet steel underneath the professionalism. Deliberate pause before 'absolutely'—emphasis without shouting. This is where she draws the line. Still composed, but you hear her conviction.",
+      "mood": "firm_principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "飢えに苦しむ患者さんの栄養指導、貴院、なさるんですね、先生",
+      "en": "Does your hospital also provide nutritional guidance for patients who are malnourished?",
+      "style": "Respectful inquiry, steady pace. Genuine interest—not testing her. A slight softening on 'nutritional'—acknowledging the care implied. The tone of someone learning what a good hospital actually does.",
+      "mood": "thoughtful_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "騎手の負傷時の救急医療も、貴院、ご対応されたんですね、先生",
+      "en": "And I imagine you've handled emergency cases like injuries too, haven't you?",
+      "style": "Gentle, almost trailing. Not pushing—inviting her to confirm. Quieter than before, like he's satisfied with what he's learning. Soft fade on the final word. The tone of someone realizing the scope of her work.",
+      "mood": "understanding_quiet"
+    }
+  ]
+}

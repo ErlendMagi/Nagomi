@@ -1,0 +1,83 @@
+{
+  "id": "conv_00179",
+  "context": "Dr. Saito sees Hiroshi-elder for his regular checkup. They've known each other through these visits for years.",
+  "purpose": "long-term doctor-patient rapport — professional care that has become personal",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "調子",
+    "血圧",
+    "薬",
+    "続ける",
+    "無理"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日はお調子いかがですか。",
+      "en": "How are you feeling today?",
+      "style": "Doctor warm professional opener, the familiarity of years in the cadence, real attentive care threaded throughout.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "まあ、なんとかやってます。",
+      "en": "Well, somehow getting along.",
+      "style": "Elder honest understated voice, the slow cadence carrying the truth of slowing down, dignified humility throughout.",
+      "mood": "honestly-understated"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血圧、少し高めですね。",
+      "en": "Blood pressure is a bit on the higher side.",
+      "style": "Doctor clinical careful observation, no alarm just clarity, the professional reading delivered with gentle weight.",
+      "mood": "clinically-careful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "やっぱりか。最近、ちょっと無理しすぎたかな。",
+      "en": "As I thought. Maybe I overdid it a bit lately.",
+      "style": "Elder self-aware acknowledgment, the slow weighted admission, gentle ruefulness threaded through the recognition.",
+      "mood": "self-awarely-rueful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "薬は、ちゃんと続けてくださいね。",
+      "en": "Please keep taking your medication properly.",
+      "style": "Doctor gentle firm instruction, the care behind the directive audible, professional warmth holding the seriousness.",
+      "mood": "gentle-firm"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "はい、毎朝飲んでます。",
+      "en": "Yes, I take it every morning.",
+      "style": "Elder reassuring honest reply, the daily routine confirmed, gentle compliance held with dignity throughout response.",
+      "mood": "reassuringly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理しないことが、一番の薬ですから。",
+      "en": "Not overdoing it — that's the best medicine of all.",
+      "style": "Doctor warm wisdom delivered, the professional truth wrapped in personal care, soft real conviction throughout.",
+      "mood": "warmly-wise"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "心に留めときます。先生も気をつけて。",
+      "en": "I'll keep it in mind. You take care too, doctor.",
+      "style": "Elder warm closing reciprocity, the years-long acquaintance audible in the personal exchange of care extended.",
+      "mood": "warmly-reciprocal"
+    }
+  ]
+}

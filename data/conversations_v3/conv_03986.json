@@ -1,0 +1,78 @@
+{
+  "id": "conv_03986",
+  "context": "A police officer answers a teen reporter's questions after a storm",
+  "purpose": "Teach: 嵐/被災/消防/役所/解体/区域/警官/侵入",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "嵐",
+    "被災",
+    "消防",
+    "役所",
+    "解体",
+    "区域",
+    "警官",
+    "侵入"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "警官として、昨夜の嵐の被害をどう見ていますか？",
+      "en": "As a police officer, how do you see last night's storm damage?",
+      "style": "polite interview opener, slightly nervous teen reporter tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "正直、想像以上だ。被災された方も多くて、今も消防の救助活動が続いている。",
+      "en": "Honestly, worse than expected. Many were affected, and fire crews are still rescuing people.",
+      "style": "calm, weary authority voice, measured pacing, official tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "区役所には、もう相談に行った住民はいるんでしょうか？",
+      "en": "Have any residents already gone to the ward office to consult?",
+      "style": "curious follow-up question, polite formal register"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、朝から長い列だよ。倒れた家屋の解体工事についての問い合わせが特に多いね。",
+      "en": "Yeah, a long line since morning. Lots of questions about demolition work for collapsed houses.",
+      "style": "informative explanation with mild sigh, professional concern"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "危険区域への立ち入りは、まだ禁止されているんですか？",
+      "en": "Is entry into the danger zones still being prohibited?",
+      "style": "earnest probing question, notebook-in-hand reporter energy"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろんだ。許可なく入れば不法侵入になる。君も絶対に近づかないでくれよ。",
+      "en": "Of course. Entering without permission is trespassing. Don't go anywhere near it, please.",
+      "style": "firm warning, protective elder tone, direct eye-contact feel"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。最後に、町の皆さんへ一言お願いできますか？",
+      "en": "Understood. Lastly, could you say a word to the town's residents?",
+      "style": "respectful closing question, slightly softer voice"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "焦らず、無理せず。困ったら必ず役所か警察に連絡してほしい。",
+      "en": "Don't rush, don't push yourselves. If you're in trouble, contact the office or police.",
+      "style": "sincere closing message, warm but authoritative delivery"
+    }
+  ]
+}

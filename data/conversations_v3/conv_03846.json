@@ -1,0 +1,84 @@
+{
+  "id": "conv_03846",
+  "context": "A boss explains a new bonus policy to a manager",
+  "purpose": "Teach: 手当/シェア/工程/高額/明記/フロー/ボス/接し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "手当",
+    "シェア",
+    "工程",
+    "高額",
+    "明記",
+    "フロー",
+    "ボス",
+    "接し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_194 workflow weeyeokki)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健司くん、ちょっといいかな。ボスとして一言伝えておきたい話があるんだ。",
+      "en": "Kenji, got a minute? As the boss, there's something I want to tell you straight.",
+      "style": "Authoritative boss tone, measured pacing, slightly informal warmth toward subordinate."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "売上を社員に還元する特別手当でね、業務フローも少し変わるから共有しておきたい。",
+      "en": "It's a special bonus that returns sales to employees, and the workflow changes a bit, so I want to share it.",
+      "style": "Confident explanation, steady cadence, business-formal vocabulary with clarity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、社長。具体的にはどういう仕組みになるんでしょうか。",
+      "en": "Yes, sir. What kind of structure will it have specifically?",
+      "style": "Polite middle-manager register, respectful but direct, slight curiosity inflection."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まず売上の何パーセントを社員にシェアするか、契約書に明記してある。",
+      "en": "First, the percentage of sales shared with employees is clearly written in the contract.",
+      "style": "Confident explanation, steady cadence, business-formal vocabulary with clarity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。高額案件の場合も同じ割合で計算するんですか?",
+      "en": "I see. Will high-value projects be calculated at the same rate?",
+      "style": "Analytical tone, rising intonation on question, professional engagement."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いや、高額案件は別枠だ。工程ごとに評価して、貢献度に応じて配分する。",
+      "en": "No, high-value projects are separate. We evaluate by process stage and distribute by contribution.",
+      "style": "Decisive correction, structured delivery, leadership confidence with detail orientation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "工程ごとですか。現場のスタッフにはどう接して説明すればいいでしょうか。",
+      "en": "By process stage? How should I approach and explain this to the floor staff?",
+      "style": "Thoughtful concern, slower pace, seeking guidance from superior respectfully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "正直に、堂々と伝えればいい。みんな納得するはずだよ。",
+      "en": "Just tell them honestly and confidently. Everyone should understand.",
+      "style": "Reassuring boss energy, firm but warm, encouraging delivery with paternal undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかりました。今週中に資料をまとめて、月曜の朝礼で共有します。",
+      "en": "Understood. I'll prepare the materials this week and share them at Monday's morning meeting.",
+      "style": "Crisp commitment, professional closure, slight relief in tone, action-oriented."
+    }
+  ]
+}

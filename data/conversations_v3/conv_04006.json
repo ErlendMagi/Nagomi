@@ -1,0 +1,78 @@
+{
+  "id": "conv_04006",
+  "context": "A boss and his secretary discuss tomorrow's schedule with proper keigo",
+  "purpose": "Teach: 申し上げる/頂く/了承/何とも/該当/どなた/告知/加わっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げる",
+    "頂く",
+    "了承",
+    "何とも",
+    "該当",
+    "どなた",
+    "告知",
+    "加わっ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "社長、明日のご予定について一言申し上げることがございます。朝一番に役員会議が入っております。",
+      "en": "Sir, there is something I would like to say regarding tomorrow's schedule. The board meeting is first thing in the morning.",
+      "style": "Polite secretary opening with formal keigo throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ、了承した。それで、午後の予定はどうなっている?",
+      "en": "Mm, understood. So, what about the afternoon schedule?",
+      "style": "Gruff senior boss using casual masculine command speech"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "午後二時から取材が一件ございます。記者の方からメールを頂くことになっております。",
+      "en": "There is one interview at two in the afternoon. We are scheduled to receive an email from the reporter.",
+      "style": "Continuing humble keigo with deferential business tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取材? どなたが来られるんだ。事前の告知はあったのか。",
+      "en": "An interview? Who is coming? Was there any prior notice about it?",
+      "style": "Boss probing details with curt authoritative manner"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "日経新聞の田中様でございます。先方から該当する資料も送られてきました。",
+      "en": "It will be Mr. Tanaka from the Nikkei newspaper. The relevant materials have been sent over from his side.",
+      "style": "Formal name-checking response showing thorough preparation"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほどな。新しい広報担当も同席に加わってもらえ。",
+      "en": "I see. Have the new PR person join us at the table too.",
+      "style": "Decisive boss issuing instructions with brief authority"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。ただ、夕方の会食につきましては何とも申し上げられず…先方のご了承待ちです。",
+      "en": "Understood. However, regarding the evening dinner, I cannot say anything definite yet... we are awaiting their approval.",
+      "style": "Apologetic hedging with carefully layered humble language"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかった。連絡が入り次第すぐ知らせてくれ。",
+      "en": "Got it. Let me know the moment word comes in.",
+      "style": "Curt closing directive in masculine business register"
+    }
+  ]
+}

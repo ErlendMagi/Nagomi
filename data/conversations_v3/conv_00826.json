@@ -1,0 +1,76 @@
+{
+  "id": "conv_00826",
+  "context": "Hiroshi acknowledges Kenji's recent project success.",
+  "purpose": "boss-subordinate success recognition exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "成功",
+    "企業",
+    "評価",
+    "一緒",
+    "頑張る"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_042)",
+    "generated_at": "2026-05-27T02:11:35.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、今回の成功、よくやった。",
+      "en": "Kenji — you did well with this one.",
+      "style": "Measured approval. Weight lands on the acknowledgment without fanfare. Steady eye contact. The composure of someone who doesn't praise lightly, but means it.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます、チームのお陰です。",
+      "en": "Thank you, sir. That's the team's work.",
+      "style": "Respectful gratitude, genuine not performed. Slight warmth underneath the formality — deflecting credit with actual belief, not false modesty. Shoulders ease slightly.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "企業全体、評価、上がるぞ。",
+      "en": "This raises the company's standing. We'll see that reflected.",
+      "style": "Clear statement of fact. Calm confidence. No theatrics — just the authority of someone stating what he sees coming. Brief pause after 'standing' before the next thought.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、頑張った結果です。",
+      "en": "It's the result of all of us working together.",
+      "style": "Sincere, not deflecting further. Firm but not defensive. The warmth is in the direct eye contact, not in the tone. Standing solid.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "次の案件、任せる。",
+      "en": "The next project — I'm giving it to you.",
+      "style": "Direct handoff of trust. No ceremony needed. Said as fact, not negotiable. The kind of trust that lands heavier than praise.",
+      "mood": "trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "光栄です、全力で。",
+      "en": "I'm honored. I'll give it everything.",
+      "style": "Genuine gratitude, quietly firm commitment. No nervous energy. The words carry weight because he means them. Brief, direct back.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "期待してる。",
+      "en": "I'm counting on you.",
+      "style": "Final word. Quiet. Not a threat, not a performance — just stating what's real between them. Lets the moment sit.",
+      "mood": "expectant"
+    }
+  ]
+}

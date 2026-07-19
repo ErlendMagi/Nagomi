@@ -1,0 +1,86 @@
+{
+  "id": "conv_09747",
+  "context": "Two managers chat",
+  "purpose": "Teach: 市政/不正確/手引き/ライフサイクル/移設/定率/不払い/ファクス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市政",
+    "不正確",
+    "手引き",
+    "ライフサイクル",
+    "移設",
+    "定率",
+    "不払い",
+    "ファクス"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_489 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "市政との連携をしっかり取りましょう",
+      "en": "Let's make sure we coordinate properly with city government on this.",
+      "style": "Calm, professional opening. Matter-of-fact tone. Steady pace. No rush—this is standard procedure but important. Leader's voice, not harsh.",
+      "mood": "focused_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。不正確なデータは精査します",
+      "en": "Yes. I'll review the data for accuracy.",
+      "style": "Direct, capable. Slight nod in the voice on 'yes'—affirming without overthinking it. Quick, efficient. Straightforward commitment.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新人研修の手引きを更新しましょう",
+      "en": "We should update the onboarding materials.",
+      "style": "Measured instruction, leader's tone. Matter-of-fact delivery. Slight emphasis on 'update'—this is a task to delegate. No urgency, just clarity.",
+      "mood": "focused_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商品ライフサイクルの管理表を作ります",
+      "en": "Yes. I'll create the product lifecycle tracking table.",
+      "style": "Responsive, taking note. Quick acknowledgment, then the commitment lands clearly. Efficient, capable. Kenji is tracking what to do next.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "支社の移設先を選定しましょう",
+      "en": "Let's settle on a location for the branch relocation.",
+      "style": "Clear directional tone. Professional, methodical. Slight pause before the task—this is a bigger decision. Decisive but open to input.",
+      "mood": "focused_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。定率減税の影響を試算します",
+      "en": "Yes. I'll calculate the impact of the tax deduction.",
+      "style": "Affirming quickly. Kenji is absorbing—this one has numbers attached. Slight focus in the voice. Competent, ready to execute.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "不払い案件のリストアップをしましょう",
+      "en": "Let's compile a list of outstanding payment issues.",
+      "style": "Direct, businesslike. Slight gravity—this is about money owed. Clear instruction. Professional tone, no drama.",
+      "mood": "focused_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外向けファクス送信ルールを整えます",
+      "en": "Yes. I'll standardize the international fax transmission protocol.",
+      "style": "Final acknowledgment—this wraps up the list. Confident, capable. Kenji confirms the last task clearly. Professional close, no trailing.",
+      "mood": "cooperative"
+    }
+  ]
+}

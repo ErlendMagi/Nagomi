@@ -1,0 +1,72 @@
+{
+  "id": "conv_05443",
+  "context": "A mom hears about her young son's sports-day stress",
+  "purpose": "Teach: やむを得ない/何もかも/無理やり/うれしかっ/別々/つなぎ/余分/気付き",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "やむを得ない",
+    "何もかも",
+    "無理やり",
+    "うれしかっ",
+    "別々",
+    "つなぎ",
+    "余分",
+    "気付き"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_274 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日の練習、何もかもうまくいかなかった…。",
+      "en": "Mom, today's practice… nothing went right.",
+      "style": "Quiet, deflated opening. Small voice — not performing sadness, genuinely depleted. Trails off after the ellipsis like he's checking if it's okay to keep talking.",
+      "mood": "discouraged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あらら。やむを得ない日もあるよ。",
+      "en": "Oh dear. Some days are just like that.",
+      "style": "Soft, knowing acceptance. No false cheerfulness. Warm but grounded — the voice of someone who's seen this before and isn't alarmed.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "リレーで、別々のチームに分かれて、相手の方が強かったの。",
+      "en": "We split into different teams for the relay, and the other side was stronger.",
+      "style": "Matter-of-fact explanation, but underneath a small note of self-consciousness. Speaking carefully, like he's trying not to make excuses. Steady pace, slight dip in volume toward the end.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "無理やり頑張りすぎても疲れちゃうから、つなぎの休憩、ちゃんと取った?",
+      "en": "Pushing too hard just wears you out — did you take proper breaks between rounds?",
+      "style": "Gentle inquiry, not interrogation. Warm and practical. The tone of someone checking in without judgment. Slight pause before the question, like she's listening carefully.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。今日は余分な気付きがあったから、明日に活かす。",
+      "en": "Yeah. I noticed some things today I can use tomorrow.",
+      "style": "Quiet determination. Not forced cheerfulness — real shift from dejection to modest resolve. Small but solid. Slow delivery, like he's discovered something genuine.",
+      "mood": "thoughtful_resilient"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "頑張ってるね、お母さん、うれしかったよ。",
+      "en": "You're working hard, and that makes Mom happy.",
+      "style": "Tender, direct, and uncomplicated. Warm close to the voice. No performance — just genuine affection delivered simply. Slight softening on the last word.",
+      "mood": "proud_warm"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06321",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 負わ/乗ら/みせる/欠い/破れ/つっ/貼ら/吐く",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "負わ",
+    "乗ら",
+    "みせる",
+    "欠い",
+    "破れ",
+    "つっ",
+    "貼ら",
+    "吐く"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、転んで膝、傷を負わされた、と感じた。",
+      "en": "Mom, I fell and hurt my knee.",
+      "style": "Quiet, slightly hurt undertone. Soft opening. Hesitant delivery — reporting the fact gently, not complaining. Small pause after 'Mom.'",
+      "mood": "hurt_quiet"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "自転車に乗らないでね、しばらく。",
+      "en": "Don't ride your bike for a while, okay?",
+      "style": "Gentle but firm. Maternal care wrapped around clear direction. Warm, steady tone. No edge — pure concern expressed as practical boundary.",
+      "mood": "caring_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お友達、新しい靴をみせる、と言ってた。",
+      "en": "My friend wanted to show me his new shoes.",
+      "style": "Brightens noticeably. Shifts away from the hurt. Light curiosity in the voice. Simple, direct delivery — a child remembering something that made him interested.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お弁当、おかず、欠いた状態で持って行ったの?",
+      "en": "Did you bring your lunch without the side dishes?",
+      "style": "Gentle inquiry, not accusation. Thoughtful pause before asking. Warm, checking-in tone. The mother noticing a detail that might explain the day's chain of events.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。靴、底が破れてしまった。",
+      "en": "Yeah. The sole of the shoe broke.",
+      "style": "Quiet observation. Matter-of-fact but tinged with small wonder at how things connect. Careful, reflective pacing. Not distressed — just noticing.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "壁につっかい棒、しないでね。",
+      "en": "Don't prop sticks up against the wall, sweetheart.",
+      "style": "Soft but clear instruction. Warm and steady. The tone of a mother gently redirecting without making the child feel wrong. Minimal emphasis.",
+      "mood": "gentle_guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "シール、まだ貼らないでね、表紙に。",
+      "en": "Don't put stickers on the cover just yet.",
+      "style": "Bright, light tone. Playful restraint — not a scolding, more a shared understanding between them. Warm and encouraging without over-performing.",
+      "mood": "playful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "体調悪い時、無理に食事吐く前に、相談してね。",
+      "en": "When your stomach feels bad, talk to me before you get sick, alright?",
+      "style": "Close and tender. Serious care underneath a gentle delivery. Warm, unhurried. The reassurance that he can tell her things — establishing safe ground.",
+      "mood": "warm_protective"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_05055",
+  "context": "A boss and his manager dissect a long-form health policy article",
+  "purpose": "Teach: うつ病/生息/虚偽/発する/挫折/成り立つ/一角/掲げる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "うつ病",
+    "生息",
+    "虚偽",
+    "発する",
+    "挫折",
+    "成り立つ",
+    "一角",
+    "掲げる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、うつ病の患者数が過去最高だと大きく掲げる見出しだが、根拠が薄いと思わないか。",
+      "en": "This article boldly puts up a headline about record depression patient numbers, but don't you think the basis is thin?",
+      "style": "Authoritative boss tone, skeptical and probing, measured pace."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。統計の出典が業界の一角の団体だけで、議論として成り立つか怪しいですね。",
+      "en": "You're right. The statistics come from just one corner of the industry, so it's questionable whether the argument holds together.",
+      "style": "Polite middle-manager register, careful agreement, slightly cautious."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "しかも厚労省が虚偽だと警告を発する寸前まで行ったらしい。誰がこの数字を算出したんだ。",
+      "en": "Apparently the ministry was on the verge of issuing a warning calling it false. Who calculated these numbers?",
+      "style": "Sharp executive voice, demanding accountability, no nonsense."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "匿名の研究者だそうです。地方で野鳥の生息調査をしていた人物が、急に医療政策に転向したとか。",
+      "en": "Reportedly an anonymous researcher. Someone who was surveying wild bird habitats in the countryside suddenly switched to medical policy, supposedly.",
+      "style": "Briefing tone, dry reporting of odd facts, slight bewilderment."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "つまり専門外か。一度の挫折で分野を変える人間が、国の政策を論じるとはな。",
+      "en": "So outside their field. A person who switches disciplines after one setback is now discussing national policy, huh.",
+      "style": "Cynical, world-weary, slightly sarcastic boss commentary."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ただ、地域の若者支援についての部分は読ませますよ。現場の声をきちんと拾っています。",
+      "en": "Still, the section on regional youth support is worth reading. It properly picks up voices from the field.",
+      "style": "Fair-minded subordinate, offering a balanced counterpoint, respectful."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そこは認める。だが数字の信頼性がなければ、せっかくの提言も土台から崩れるぞ。",
+      "en": "I'll grant that. But without reliable numbers, even a fine proposal collapses from the foundation.",
+      "style": "Decisive senior voice, conceding partially then pressing the core issue."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "編集部に問い合わせて、出典の再確認を依頼しましょうか。社としての立場も整理しておくべきかと。",
+      "en": "Shall I contact the editorial department and request reconfirmation of the sources? We should also organize our company's position.",
+      "style": "Proactive proposal, deferential but action-oriented, professional closing."
+    }
+  ]
+}

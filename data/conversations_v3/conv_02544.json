@@ -1,0 +1,75 @@
+{
+  "id": "conv_02544",
+  "context": "Kenji helps Yuki send a team announcement.",
+  "purpose": "WIDENED SCENARIO: tech help; messaging vocabulary (クリック/メッセージ/開始/終了/無料) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "クリック",
+    "メッセージ",
+    "開始",
+    "終了",
+    "無料"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_128)",
+    "generated_at": "2026-05-29T13:08:48.299Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "全員に、メッセージを送りたいの。",
+      "en": "I want to send a message to everyone.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "このアプリは、無料で使えますよ。",
+      "en": "This app is free to use.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "どこを、クリックすればいい?",
+      "en": "Where do I click?",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "新規作成を、クリックして下さい。",
+      "en": "Click 'new message'.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "メッセージは、いつ送りましょうか?",
+      "en": "When should I send the message?",
+      "style": "thoughtful office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "イベントの開始前に、送りましょう。",
+      "en": "Let's send it before the event starts.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "終了後の連絡も、要りますか?",
+      "en": "Do we need a message after it ends too?",
+      "style": "curious office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "終了後にも、無料でお礼を送れます。",
+      "en": "After it ends, you can send free thanks too.",
+      "style": "reassuring office man voice, soft warm patient closing throughout"
+    }
+  ]
+}

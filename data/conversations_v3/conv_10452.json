@@ -1,0 +1,86 @@
+{
+  "id": "conv_10452",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 於け/探訪/無実/乞う/絶た/幾多/慶応/変調",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "於け",
+    "探訪",
+    "無実",
+    "乞う",
+    "絶た",
+    "幾多",
+    "慶応",
+    "変調"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_524 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、現場に於ける証拠の保全を、警察、徹底されますね",
+      "en": "The police will be thorough about preserving evidence at the scene, won't they?",
+      "style": "Measured, careful. Spoken as an observation, not a question—certainty wrapped in politeness. Slight pause before the final phrase, like he's testing the words' weight.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場周辺の探訪、つまり聞き込みもされますね",
+      "en": "The police will also be conducting interviews in and around the scene, won't they?",
+      "style": "Direct but collaborative. Professional tone, steady rhythm. Affirming what's already understood. No performance—just confirmation between people who know the work.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被疑者が無実を主張する局面を、警察、慎重に判断されますね",
+      "en": "In this case, the police will be careful to judge when the suspect claims innocence, won't they?",
+      "style": "Deliberate, almost analytical. Each clause lands with equal weight. Quiet gravity—he's naming something that matters. No rush.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、ご遺族の協力を乞う声明も発表されますね",
+      "en": "The police will also be issuing a statement asking for the family's cooperation, won't they?",
+      "style": "Professional and steady. Matter-of-fact delivery. Acknowledging a necessary step. Warm undertone—this is difficult for the family, and he knows it.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、連絡が絶たれた被害者の追跡を、警察、続けられますね",
+      "en": "The police will continue to track down the victim, whose contact has been lost, won't they?",
+      "style": "Quiet intensity. Slightly slower pace on 'contact has been lost'—he's naming the gap, the absence. No rush. This is the hard part.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、幾多の困難な事件を解決して来られましたね",
+      "en": "The police have solved many difficult cases over the years, haven't they?",
+      "style": "Steady affirmation. Slight warmth—acknowledging the track record without flattery. Professional respect. Brief pause after 'years,' like he's giving credit where it's due.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、慶応大学の専門家にも、警察、ご意見を仰がれますね",
+      "en": "The police will be consulting with experts at Keio University on this case, won't they?",
+      "style": "Thoughtful, deferential. Speaking of specialists as a necessary resource. Even tone—he's stating what's logical, what has to happen next.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者の体調変調を、医療と連携して確認されますね",
+      "en": "The police will be coordinating with medical professionals to assess changes in the victim's condition, won't they?",
+      "style": "Careful, precise. Clinical register but not cold—he understands the stakes. Even pacing. Slight warmth when naming the coordination between systems.",
+      "mood": "attentive"
+    }
+  ]
+}

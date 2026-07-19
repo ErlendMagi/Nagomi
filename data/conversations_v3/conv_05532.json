@@ -1,0 +1,72 @@
+{
+  "id": "conv_05532",
+  "context": "A boss and his manager discuss a food-industry article",
+  "purpose": "Teach: 肥料/農産物/発動/保安/勤労/教徒/陳述/軍人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥料",
+    "農産物",
+    "発動",
+    "保安",
+    "勤労",
+    "教徒",
+    "陳述",
+    "軍人"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、肥料コストの高騰と農産物価格、両面から扱ってるな。",
+      "en": "This piece handles both the fertilizer-cost spike and agricultural prices from multiple angles.",
+      "style": "Observant, methodical. Eyes tracking across the article. Brief pause after opening—noting the dual scope. Tone is measured, slightly impressed by the structure. No performance, just professional acknowledgment of competent reporting.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。安全保安基準の発動も、業界で議論になっています。",
+      "en": "Yes. Safety standards triggers have become a significant point of debate in the sector.",
+      "style": "Formal but not stiff. Respectful cadence—updating a superior who has already seen deeper. Steady gaze. Small breath before the second clause, showing he's thought about this context already.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "勤労人口が減ってる地域、どう支えるか。",
+      "en": "How do we support regions where the workforce is shrinking?",
+      "style": "Lean forward slightly on the question. Tone shifts from observational to genuinely probing—this is the problem that matters. Slower pace on the second half. The question hangs, searching for Kenji's angle.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "教徒コミュニティが運営する協同組合、注目です。",
+      "en": "Religious communities running their own cooperatives—that's catching attention for good reason.",
+      "style": "Quieter than before but pointed. Recognizing the insight. Slight emphasis on 「注目」—showing he sees why Kenji brought this up. Respectful nod in the voice, not just compliance.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "国会の陳述記録、参考になる。退役軍人の体験記も興味深い。",
+      "en": "The Diet's testimony records provide solid reference. And the retired soldiers' accounts are genuinely compelling.",
+      "style": "Shifting back to curator's mode. Broader view now, piecing together sources. Tone rises slightly at 「interesting」—he means it. Pacing opens up. The second sentence carries more weight because the first one cleared the ground.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Crisp, direct. No flourish. Final acknowledgment that the conversation's work is done. Not dismissive—professional closure. Brief inhale before the word, showing he's filing this discussion away to act on it.",
+      "mood": "resolved"
+    }
+  ]
+}

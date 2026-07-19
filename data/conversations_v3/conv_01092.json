@@ -1,0 +1,76 @@
+{
+  "id": "conv_01092",
+  "context": "Takeda farewells Ren as Takeda retires.",
+  "purpose": "officer-alum retirement farewell",
+  "ambient": "plaza_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "感謝",
+    "町",
+    "大切",
+    "頑張る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_055)",
+    "generated_at": "2026-05-27T03:49:30.426Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "レン君、来月、定年だ。",
+      "en": "Ren — next month, I'm retiring.",
+      "style": "Measured opening. Solid, composed tone — the weight of finality delivered without drama. Pause before the fact. Level eye contact steady throughout.",
+      "mood": "composed_weary"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "え、もう、そんなに。",
+      "en": "Already? That soon?",
+      "style": "Soft surprise — not disbelief, but the honest shock of time passing. Respectful hesitation. Warm underneath. Words come out smaller than expected.",
+      "mood": "surprised_respect"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "一緒に、町、守れた、感謝。",
+      "en": "We protected this town together. I'm grateful for that.",
+      "style": "Quiet conviction. Each phrase lands with care — deliberate, not rushed. The tenderness of someone looking back. A slight roughness in the voice, like this matters.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "こちらこそ、本当に。",
+      "en": "Me too. Truly.",
+      "style": "Simple, genuine. No reaching for more words than needed. Soft warmth. The kind of sincerity that only works because it's brief.",
+      "mood": "sincere_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大切な、思い出、忘れない。",
+      "en": "I won't forget what we've done here. What it meant.",
+      "style": "Quiet reflection. Slower pace. The voice carries the weight of memory. A slight catch, like holding something precious. Trails off gently on the final phrase.",
+      "mood": "reflective_tender"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "頑張ります、これからも、町、守る。",
+      "en": "I'll keep going. Keep protecting this town — from now on.",
+      "style": "Young voice gathering itself into resolve. Warm but serious. A small breath before the commitment. Steady through the promise, like he's meant every word.",
+      "mood": "determined_tender"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "頼んだぞ、本当に。",
+      "en": "I'm counting on you. Truly.",
+      "style": "Final statement — firm but not cold. A trust that's been earned. The voice quieter now, but the authority still there. Closing weight.",
+      "mood": "trusting_final"
+    }
+  ]
+}

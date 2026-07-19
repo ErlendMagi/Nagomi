@@ -1,0 +1,86 @@
+{
+  "id": "conv_08587",
+  "context": "Two managers chat",
+  "purpose": "Teach: 月収/出来高/同上/組合せ/既定/特約/あっせん/引き渡し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月収",
+    "出来高",
+    "同上",
+    "組合せ",
+    "既定",
+    "特約",
+    "あっせん",
+    "引き渡し"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "社員の月収を業界平均と比較しましょう",
+      "en": "Let's compare our staff's monthly salary against the industry average.",
+      "style": "Efficient, matter-of-fact. Slight forward momentum on the opening. Professional but not rigid. A task stated clearly, expecting prompt acknowledgment.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。出来高給の社員制度を見直しました",
+      "en": "Yes. I've reviewed our performance-based compensation system for staff.",
+      "style": "Alert, ready. Light emphasis on the completed work. Steady eye contact level. Delivering the update with quiet competence—no flourish, just done.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "別表の数値は同上で省略しましょう",
+      "en": "Let's leave the figures in the appendix as-is to avoid repetition.",
+      "style": "Clear directive. Measured pace. Slight nod-emphasis on the decision itself. Practical, efficient—moving the meeting forward without debate.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ご注文の組合せパターンを集計しました",
+      "en": "Yes. I've compiled a breakdown of order combination patterns.",
+      "style": "Steady report. Factual delivery. Slight pause before the detail—showing he's ready with specifics. Responsive, attentive to what was asked for.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "既定の手順を新人にも教えましょう",
+      "en": "We should teach the new hires the standard procedures too.",
+      "style": "Directive but collaborative in tone. Light emphasis on 'should.' Measured pace. Practical concern—making sure nothing falls through the cracks.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先との特約条項を一覧化しました",
+      "en": "Yes. I've created a full list of our special contractual terms with all partner companies.",
+      "style": "Detailed confirmation. Calm, methodical. Slight pride in the completeness—the work is solid. Steady delivery without rushing through the list.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "人材あっせん会社との契約を更新しましょう",
+      "en": "Let's renew our contract with the recruitment broker.",
+      "style": "Decisive proposal. Brisk but not rushed. Matter-of-fact opening. The kind of direction that expects action, not discussion.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商品の引き渡し場所を再確認します",
+      "en": "Yes. I'll double-check the product handover locations.",
+      "style": "Final confirmation. Slight closing energy—wrapping up. Clear and committed. The 'I'll' lands with quiet assurance that this will be done before the next meeting.",
+      "mood": "committed"
+    }
+  ]
+}

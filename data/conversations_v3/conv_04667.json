@@ -1,0 +1,84 @@
+{
+  "id": "conv_04667",
+  "context": "An office worker walks a barista through new equipment",
+  "purpose": "Teach: フラッシュ/メモリー/ラウンド/セブン/シャープ/連結/連想/簡易",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "フラッシュ",
+    "メモリー",
+    "ラウンド",
+    "セブン",
+    "シャープ",
+    "連結",
+    "連想",
+    "簡易"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_235 workflow wz4i8nuk5)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新しいエスプレッソマシンの簡易マニュアルを持ってきました。",
+      "en": "I brought the simplified manual for the new espresso machine.",
+      "style": "Polite office worker introducing a topic with professional courtesy."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。先ず電源の入れ方から教えてください。",
+      "en": "Thank you. First, please teach me how to turn it on.",
+      "style": "Warm and eager barista asking with friendly curiosity."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "電源を入れると、シャープな青いフラッシュが一度光ります。",
+      "en": "When you turn it on, a sharp blue flash lights up once.",
+      "style": "Clear instructional tone with patient technical guidance throughout."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "へえ、カメラのフラッシュを思い出しちゃいますね、自然と連想します。",
+      "en": "Oh, it reminds me of a camera flash, naturally comes to mind.",
+      "style": "Casual barista voice making a lighthearted everyday comparison."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "設定はこのメモリーカードに保存されていて、最大七種類のレシピを記録できます。",
+      "en": "Settings are saved on this memory card, storing up to seven recipes.",
+      "style": "Explaining specs methodically like a thorough product trainer would."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "七つも保存できるんですか、ラッキーセブンですね、助かります。",
+      "en": "Seven recipes? Lucky seven, that's really going to help us.",
+      "style": "Genuinely impressed barista showing real enthusiasm for the feature."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ミルクタンクとマシン本体はこのチューブで連結する仕組みです。",
+      "en": "The milk tank and main unit connect through this tube here.",
+      "style": "Pointing out components in a calm demonstrative explanatory voice."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど、抽出は連続で何杯までいけますか?最終ラウンドの目安が知りたいです。",
+      "en": "I see. How many cups in a row? Curious about the final round.",
+      "style": "Asking a practical workflow question with attentive professional focus."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "連続十杯まで大丈夫です。困ったら簡易チャットで聞いてくださいね。",
+      "en": "Up to ten cups straight is fine. Ask via chat if stuck.",
+      "style": "Wrapping up with reassuring supportive closing tone for the trainee."
+    }
+  ]
+}

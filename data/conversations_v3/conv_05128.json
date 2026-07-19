@@ -1,0 +1,78 @@
+{
+  "id": "conv_05128",
+  "context": "A uni intern interviews a manager about supplier vetting",
+  "purpose": "Teach: 携わる/撤回/合衆国/経常/在籍/厳選/法規/位置付け",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "携わる",
+    "撤回",
+    "合衆国",
+    "経常",
+    "在籍",
+    "厳選",
+    "法規",
+    "位置付け"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。御社のサプライヤー審査に長く携わるお立場として、まず全体像を伺えますか。",
+      "en": "Thank you for your time today. As someone long involved in supplier vetting, could you start with the overall picture?",
+      "style": "Polite university intern opening a formal interview"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、私はこの部署に在籍して八年になります。サプライヤー選定は当社の調達戦略の中核に位置付けていますので、かなり厳格にやっていますよ。",
+      "en": "Sure, I've been in this department for eight years. We position supplier selection at the core of our procurement strategy, so we run it quite strictly.",
+      "style": "Composed mid-career manager establishing her authority"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "中核という位置付けなんですね。具体的にはどんな基準で厳選されているのでしょうか。",
+      "en": "So it's positioned as core. Concretely, by what criteria are suppliers carefully selected?",
+      "style": "Eager intern probing deeper with follow-up question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "財務面では直近三期の経常利益を見ますし、コンプライアンス面では各国の法規に準拠しているかを必ず確認します。特にアメリカ合衆国向けに輸出する取引先は、規制が厳しいので念入りに。",
+      "en": "On the financial side we look at the last three years of recurring profit, and for compliance we always check that they conform to each country's regulations. Especially partners exporting to the United States, since the rules are strict there, we check very thoroughly.",
+      "style": "Detailed professional explanation citing concrete metrics"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、合衆国の輸出規制まで踏み込まれるんですね。もし審査後に問題が見つかった場合、契約を撤回することもあるんですか。",
+      "en": "I see, you go as far as US export regulations. If a problem turns up after vetting, do you ever withdraw the contract?",
+      "style": "Curious student pushing into edge-case territory"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありますよ。一度承認を撤回した案件もあります。法規違反が後から判明したケースで、迷わず取引を切りました。",
+      "en": "Yes, we have. There was a case where we revoked an approval after the fact, a regulatory violation surfaced later and we cut ties without hesitation.",
+      "style": "Frank manager candidly sharing a real precedent"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "厳しいご判断ですね。最後に、これからこの分野に携わる学生に一言いただけますか。",
+      "en": "That's a tough call. Lastly, could you offer a word to students hoping to enter this field?",
+      "style": "Intern gracefully closing the interview with reflective ask"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "数字と法規の両方を読める人が本当に重宝されます。地味ですが、会社の信頼を支える仕事だと胸を張れますよ。",
+      "en": "People who can read both the numbers and the regulations are genuinely valued. It's understated work, but you can be proud of it as something that underpins the company's trust.",
+      "style": "Warm encouraging close from a seasoned professional"
+    }
+  ]
+}

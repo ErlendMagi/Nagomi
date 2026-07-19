@@ -1,0 +1,68 @@
+{
+  "id": "conv_01688",
+  "context": "Daichi takes baby Hikari (use sho_child as toddler stand-in) to kindergarten first day.",
+  "purpose": "Father walking child to first school day.",
+  "ambient": "kindergarten_entry_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "幼稚園",
+    "初めて",
+    "友達",
+    "頑張る"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_085)",
+    "generated_at": "2026-05-27T07:18:47.434Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "今日、幼稚園、初めてやな。",
+      "en": "Today's your first day of kindergarten, then.",
+      "style": "Warm, unhurried opening. Kansai lilt on the affirmation. Soft undertone of pride and gentle nerves. Speaking down to a child's level without condescension—present and steady.",
+      "mood": "tender_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、ちょっと怖い。",
+      "en": "Dad, I'm a little scared.",
+      "style": "Small, quiet voice. The honesty comes out easily—he trusts this adult. Slight hesitation between the two thoughts, like he's admitting something. Eyes probably on his shoes.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "友達、できるで、大丈夫。",
+      "en": "You'll make friends, yeah. You'll be fine.",
+      "style": "Confident Kansai warmth with a light, reassuring lilt on 大丈夫. Not dismissing the fear—acknowledging it and speaking past it. Calm, steady rhythm. A hand on the shoulder kind of voice.",
+      "mood": "confident_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さんも来る?",
+      "en": "Are you coming too?",
+      "style": "Small, hopeful voice tilting up at the end. He needs the answer but is afraid to push for it. The question is really 'will you leave me?' Hidden under simple words.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お迎え、ちゃんと来るで。",
+      "en": "I'll come pick you up. I promise.",
+      "style": "Firm and gentle at once. Kansai warmth grounding the words. A small emphasis on the promise—he's making it matter. Speaking to the fear underneath, not just the question on top.",
+      "mood": "steadfast"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る!",
+      "en": "Yeah—I'm gonna do my best!",
+      "style": "A small child's determination breaking through. Sudden brightness after the worry. Quick, brave exhale. Not performed bravery—real resolve borrowed from trusting his dad.",
+      "mood": "brave_resolved"
+    }
+  ]
+}

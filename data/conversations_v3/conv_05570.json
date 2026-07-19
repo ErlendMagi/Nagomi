@@ -1,0 +1,65 @@
+{
+  "id": "conv_05570",
+  "context": "A police officer briefs a uni reporter about department reform",
+  "purpose": "Teach: 上級/入試/リサーチ/ミッション/やり取り/持参/拡充/リストラ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上級",
+    "入試",
+    "リサーチ",
+    "ミッション",
+    "やり取り",
+    "持参",
+    "拡充",
+    "リストラ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "最近のリサーチ、上級職員の業務時間も対象にしました。",
+      "en": "Our recent research also included work hours for senior staff members.",
+      "style": "Clear, measured opening. Neutral professional register. Even pacing. Slight pause after each clause, as though reviewing notes. No performance—just information.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "入試の警備計画にも反映されるんですか。",
+      "en": "That's going to factor into the entrance exam security plans, then?",
+      "style": "Genuinely curious but careful not to overstep. Soft question lift at the end. Respectful distance—not pushing, just following the logic aloud.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。組織拡充の議論、ミッション再定義として進めています。",
+      "en": "Yes. We're approaching it as part of a broader organizational restructuring and mission clarification.",
+      "style": "Patient, measured cadence. Slight formality—he's translating internal language for someone outside the organization. Reassuring without being warm. Professional clarity.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "住民とのやり取り、持参資料、改善されてますか。",
+      "en": "And community engagement—the materials you're sharing with residents—is that improving too?",
+      "style": "Tentative, thinking aloud. Building on what he's heard, not challenging. The slight hesitation of someone asking something he's genuinely unsure about. Respectful lean-in.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。リストラの噂は否定しています。",
+      "en": "Yes. We're addressing the layoff rumors directly and making it clear they're unfounded.",
+      "style": "Firm but not defensive. Direct statement with quiet weight. Slightly longer exhale at the end—end of subject, end of conversation. Professional close.",
+      "mood": "steady"
+    }
+  ]
+}

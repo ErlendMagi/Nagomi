@@ -1,0 +1,79 @@
+{
+  "id": "conv_02261",
+  "context": "Saito explains a patient case to Ren; describes complications.",
+  "purpose": "Doctor mentoring young man on clinical reasoning.",
+  "ambient": "clinic_office_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "厳重",
+    "標本",
+    "ケガ",
+    "介助",
+    "判る",
+    "症状",
+    "尽くし",
+    "気がつか"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_114)",
+    "generated_at": "2026-05-27T17:56:38.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮くん、厳重な観察、必要や。",
+      "en": "Ren, we need to keep careful watch on this.",
+      "style": "Even, measured tone. A statement of fact delivered with professional gentleness. No urgency, but absolute clarity. The warmth of someone who's seen this before.",
+      "mood": "steady_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "標本、ようけ見たんですね。",
+      "en": "You've looked at a lot of samples, haven't you.",
+      "style": "Quiet appreciation in the observation. Soft, genuine. A small smile in the voice — noticing effort without making a show of it. Genuine respect underneath.",
+      "mood": "impressed_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ケガ、介助、丁寧に対応します。",
+      "en": "We'll handle the injury with care. That's what I'm here for.",
+      "style": "Calm reassurance. Each phrase lands with quiet certainty. No hesitation. The voice of someone who has done this many times and means it every time.",
+      "mood": "capable_gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状、判るのに、時間かかりそう。",
+      "en": "It might take a little time to understand what we're seeing.",
+      "style": "Thoughtful pause before speaking. Honest, not rushed. A slight turn inward — working through the problem aloud with genuine uncertainty. Not reassurance, just truth.",
+      "mood": "thoughtful_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "気がつかないこと、ようけ、見るのが大事。",
+      "en": "The things we don't see at first — those matter most.",
+      "style": "Quiet wisdom. Slow delivery, like a thought settling into place. Not lecturing — offering perspective. Warmth in the pause between phrases.",
+      "mood": "philosophical_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "心、尽くして、患者に対応したいです。",
+      "en": "I want to give this patient everything I have.",
+      "style": "Earnest conviction without performance. Soft attack, steady middle. The voice of someone making a private promise out loud. Slight catch of sincerity underneath.",
+      "mood": "determined_earnest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ姿勢や、頑張ろう。",
+      "en": "That's good work. Keep going.",
+      "style": "Brief, warm affirmation. A small nod in the voice. Direct praise without excess — the kind that lands because it's sparse. Genuine encouragement.",
+      "mood": "approving"
+    }
+  ]
+}

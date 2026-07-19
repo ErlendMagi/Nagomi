@@ -1,0 +1,78 @@
+{
+  "id": "conv_04122",
+  "context": "A uni student interviews a rural local about regional resources",
+  "purpose": "Teach: 大陸/国土/海岸/天然/食料/衛星/輸送/循環",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "大陸",
+    "国土",
+    "海岸",
+    "天然",
+    "食料",
+    "衛星",
+    "輸送",
+    "循環"
+  ],
+  "cast": [
+    "ren_uni",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はインタビューのお時間をいただきありがとうございます。まず、この地域の天然資源について教えていただけますか?",
+      "en": "Thank you for your time today. First, could you tell me about this region's natural resources?",
+      "style": "Polite formal interviewer opening with respectful question."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、もちろんだよ。うちの村はね、山も海岸線も近くて、本当に恵まれた土地なんだ。",
+      "en": "Ah, of course. Our village is close to both the mountains and the coastline, truly a blessed land.",
+      "style": "Warm rural friendly tone with regional pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。日本は大陸から離れた島国ですが、国土の使い方には地域差があると感じています。",
+      "en": "I see. Japan is an island nation far from the continent, but I feel there are regional differences in how the land is used.",
+      "style": "Thoughtful academic observation with reflective phrasing."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "その通り。うちみたいな田舎は、食料自給率が高くてね。野菜も米も、ほとんど地元で作ってるんだ。",
+      "en": "Exactly. Rural areas like ours have high food self-sufficiency. Vegetables and rice are mostly grown locally.",
+      "style": "Proud informative explanation with practical examples."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素晴らしいですね。都市部への輸送機関や物流はどうなっているんですか?",
+      "en": "That's wonderful. How does the transportation infrastructure to urban areas work?",
+      "style": "Follow-up question showing engaged curiosity here."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "トラックで毎朝出てるよ。最近は気象衛星のデータで天気を見て、出荷の時間を決めてるんだ。",
+      "en": "Trucks leave every morning. Recently we use weather satellite data to check the forecast and decide shipping times.",
+      "style": "Casual practical answer mixing tradition and technology."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "衛星まで活用されているとは驚きました。資源循環の取り組みなども進んでいるんですか?",
+      "en": "I'm surprised you even utilize satellites. Are resource circulation efforts also advancing?",
+      "style": "Impressed academic response with deeper inquiry follow-up."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、生ごみは堆肥にして畑に戻すし、無駄にしないのが昔からのやり方さ。",
+      "en": "Yeah, we turn food waste into compost and return it to the fields. Wasting nothing is our traditional way.",
+      "style": "Reflective elder wisdom with gentle conclusive tone."
+    }
+  ]
+}

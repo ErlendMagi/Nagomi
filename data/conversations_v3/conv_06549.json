@@ -1,0 +1,86 @@
+{
+  "id": "conv_06549",
+  "context": "A police officer briefs a corp manager",
+  "purpose": "Teach: 年度末/社債/付け加える/構える/済ませる/終日/折っ/心がける",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "年度末",
+    "社債",
+    "付け加える",
+    "構える",
+    "済ませる",
+    "終日",
+    "折っ",
+    "心がける"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_329 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "年度末、防犯活動、強化期間です。",
+      "en": "We're in the year-end crime prevention strengthening period.",
+      "style": "Measured, official opening. Calm authority without warmth. Steady pace, slight weight on 「強化期間」. The tone of someone delivering routine procedure.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社債詐欺の手口、参考になりました。",
+      "en": "Yes. The corporate bond fraud methods you outlined were very helpful.",
+      "style": "Attentive, respectful. Slight nod in the voice. Acknowledging both the information and the officer's authority. Clear and earnest.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "注意喚起、防犯ポスターに、新事例を付け加える予定です。",
+      "en": "We'll be adding new case examples to the crime prevention posters for heightened awareness.",
+      "style": "Professional clarity. Matter-of-fact delivery of procedure. Slight emphasis on 「新事例」 — the concrete action step. No flourish, no apology.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内、警戒態勢を構える方針です。",
+      "en": "Understood. We're preparing an internal alert posture across the company.",
+      "style": "Formal but genuine commitment. Steady cadence. The register of someone in a professional meeting who takes the work seriously. Slight formality in the phrasing.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "現場調査、本日中に、済ませるよう、隊員に指示します。",
+      "en": "I'll instruct my team to complete the site survey before end of day.",
+      "style": "Decisive, directive. Light clip on 「指示」 — the moment of leadership. Rapid, efficient. No hesitation. The voice of someone giving orders they expect to be followed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。終日、警察への協力体制、整えております。",
+      "en": "Yes. We have our cooperation framework with the police in place for the entire day.",
+      "style": "Formal deference. Slight pause before 「協力体制」 — showing he's prepared. Respectful, professional tone. The voice of a colleague confirming readiness.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "書類、ここを折って、調書として保管します。",
+      "en": "I'll fold the documents here and file them as the official record.",
+      "style": "Practical instruction. Slight emphasis where he indicates physically — grounding the moment. Clinical, efficient. The tone of someone completing a task he's done many times.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市民の安全、心がけるよう、社員にも周知します。",
+      "en": "Yes. I'll make sure the staff understands that public safety is our priority.",
+      "style": "Earnest closing commitment. Slight warmth breaking through the formality — this is about something that matters. Steady, clear, sincere. A small note of genuine concern beneath the professional register.",
+      "mood": "sincere"
+    }
+  ]
+}

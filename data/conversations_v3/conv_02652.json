@@ -1,0 +1,75 @@
+{
+  "id": "conv_02652",
+  "context": "Yumiko and Sho cook dinner together.",
+  "purpose": "Casual home register; food/daily vocabulary (おいしい/カレー/鍵/送る/出かけ) in natural home.",
+  "ambient": "kitchen_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "おいしい",
+    "カレー",
+    "鍵",
+    "送る",
+    "出かけ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_133)",
+    "generated_at": "2026-05-29T13:34:50.662Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日は、おいしいカレーを作るわよ。",
+      "en": "Today I'll make delicious curry.",
+      "style": "gentle mother voice, soft warm caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった!カレー大好き!",
+      "en": "Yay! I love curry!",
+      "style": "excited small child voice, bright warm bouncing delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんを、駅まで迎えに行くわ。",
+      "en": "I'll go pick up Dad at the station.",
+      "style": "gentle mother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "鍵、忘れないでね!",
+      "en": "Don't forget the keys!",
+      "style": "earnest small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。鍵は、ちゃんと持ったわ。",
+      "en": "Thanks. I've got the keys.",
+      "style": "warm mother voice, soft warm affectionate delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "出かける前に、味見させて!",
+      "en": "Let me taste it before you leave!",
+      "style": "eager small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "出かけたら、すぐ戻るからね。",
+      "en": "Once I leave, I'll be right back.",
+      "style": "gentle mother voice, soft warm caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "カレーできたら、写真送ってね!",
+      "en": "Send a photo when the curry's done!",
+      "style": "playful small child voice, bright warm cheerful closing delivery throughout"
+    }
+  ]
+}

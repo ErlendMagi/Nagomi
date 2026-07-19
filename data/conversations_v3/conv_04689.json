@@ -1,0 +1,78 @@
+{
+  "id": "conv_04689",
+  "context": "A uni student debates a teacher on academic appointments",
+  "purpose": "Teach: 算定/暫定/安価/付与/除外/評議/総括/助教授",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "算定",
+    "暫定",
+    "安価",
+    "付与",
+    "除外",
+    "評議",
+    "総括",
+    "助教授"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_236 workflow wj5mdwm6v)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、来年度の助教授ポストの算定基準について伺いたいんですが。",
+      "en": "Professor, I'd like to ask about the calculation criteria for next year's assistant professor positions.",
+      "style": "Polite but assertive, formal university register, slightly challenging undergraduate tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ああ、あれは評議会でまだ暫定的に決めただけよ。正式じゃないの。",
+      "en": "Ah, the council has only decided that provisionally. It's not official yet.",
+      "style": "Measured, slightly weary teacher voice, deflecting politely with feminine sentence-final particles."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "でも、博士課程の学生を選考から除外したと聞きました。それはおかしくないですか。",
+      "en": "But I heard doctoral students were excluded from the selection. Isn't that strange?",
+      "style": "Pushing back firmly, respectful but openly disagreeing, student debating tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "除外じゃなくて、別枠なのよ。安価な労働力扱いされないように配慮したつもり。",
+      "en": "Not excluded, just a separate track. We tried to ensure they wouldn't be treated as cheap labor.",
+      "style": "Defensive but warm, explaining nuance with soft feminine speech, mid-career academic."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも、研究実績に応じて加点を付与するべきだと思います。透明性が足りません。",
+      "en": "Even so, points should be awarded based on research achievements. There isn't enough transparency.",
+      "style": "Sharp, articulate, formal critique with confident young male intonation."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭いわね。実は私も総括の席で同じことを主張したのよ。",
+      "en": "Sharp observation. Actually, I argued the same thing at the summary meeting.",
+      "style": "Slightly amused, conceding ground, warmer tone showing respect for the student."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか。じゃあ、次の評議で僕の意見書も読んでもらえますか。",
+      "en": "Really? Then could you have my position paper read at the next council?",
+      "style": "Eager, hopeful, shifting from confrontation to collaboration, earnest student voice."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいわよ。ただし、論理がしっかりしてないと総括の場では通らないからね。",
+      "en": "Sure. But unless the logic is solid, it won't pass at the summary session.",
+      "style": "Mentoring, slightly teasing warning, experienced teacher granting an opportunity."
+    }
+  ]
+}

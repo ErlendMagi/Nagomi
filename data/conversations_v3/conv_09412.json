@@ -1,0 +1,86 @@
+{
+  "id": "conv_09412",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 艦隊/傲慢/天体/ホームレス/天下り/君が代/樹木/爆撃",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "艦隊",
+    "傲慢",
+    "天体",
+    "ホームレス",
+    "天下り",
+    "君が代",
+    "樹木",
+    "爆撃"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_472 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、海上自衛隊艦隊の演習を、警察、把握されてますね",
+      "en": "So on this matter—the Maritime Self-Defence Force fleet exercises—the police are keeping track of it, aren't they?",
+      "style": "Measured, slightly tentative. Pause before the specific detail. Genuinely curious but not pushing. Tone lifts slightly at the end, inviting confirmation rather than demanding it.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の傲慢な態度を記録しております",
+      "en": "We're documenting the suspect's arrogant behaviour.",
+      "style": "Calm, official register. Direct eye contact. No inflection on the emotional word—just fact. Steady, unhurried delivery.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、天体観測サークルでの事件を、警察、捜査されてますね",
+      "en": "And then there's the incident at the astronomy club—the police are investigating that too, aren't they?",
+      "style": "Same measured pace as before. Slight tilt of genuine interest. The pattern is becoming apparent to him; he's checking his understanding without overstepping.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、ホームレス支援団体との連携を進めております",
+      "en": "We're also coordinating with homeless support organisations.",
+      "style": "Flat, informative tone. No defensiveness despite the shift in topic. States the fact with quiet competence, as if this too is expected work.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察OBの天下り問題を、警察、検証されてますね",
+      "en": "So the revolving-door issue with retired police officers—the police are looking into that as well, correct?",
+      "style": "Slightly more probing this time. Still respectful but with a note of subtle pressure. Waiting to see how far the officer will actually go.",
+      "mood": "testing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、式典では君が代斉唱の警備を担当しております",
+      "en": "We're also responsible for security at the ceremony—the national anthem and all of that.",
+      "style": "Returns to pure procedural tone. No apology, no expansion. Brief, solid, moving forward. The kind of statement that closes a line of questioning.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、街路樹木の倒壊事故を、警察、調査されてますね",
+      "en": "There's also the matter of the street tree collapse—is the police department investigating that?",
+      "style": "Quieter now. The questions are becoming smaller, more local. Still curious but with less urgency. Genuine interest in how the pieces connect.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、戦中の爆撃跡地の保護も担当しております",
+      "en": "We handle the protection and preservation of wartime bombing sites as well.",
+      "style": "Softer landing. A closing statement. Weight in the voice—acknowledging something that matters, something with history. Not defensive, but gentler. He's not just reciting duties anymore.",
+      "mood": "weary_grounded"
+    }
+  ]
+}

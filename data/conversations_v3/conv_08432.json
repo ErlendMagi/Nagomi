@@ -1,0 +1,86 @@
+{
+  "id": "conv_08432",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 伐採/急性/海峡/激怒/不条理/醸造/戦艦/着工",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "伐採",
+    "急性",
+    "海峡",
+    "激怒",
+    "不条理",
+    "醸造",
+    "戦艦",
+    "着工"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_423 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、不法伐採の現場を警察、押さえました",
+      "en": "We've secured the site of the illegal logging operation.",
+      "style": "Matter-of-fact, official but not cold. Steady pace. Ground the statement with the weight of procedure completed. Small pause before the close.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、急性中毒の事件を捜査しております",
+      "en": "We're currently investigating the acute poisoning case.",
+      "style": "Measured, procedural tone. Even cadence. Professional distance maintained. This is report, not emotion. Slight emphasis on 'currently' to signal ongoing work.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、海峡上の不審船を警察、追跡されたんですね",
+      "en": "So we tracked down that suspicious vessel in the strait, then?",
+      "style": "Quiet wonder underneath. Processing aloud, checking his understanding. Slightly deferential — speaking to an authority. Gentle curiosity, not challenge.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者ご家族の激怒に丁寧に対応します",
+      "en": "We're handling the victim's family's anger with all the care we can.",
+      "style": "Steady and grave. Acknowledge the emotional weight without flinching. Slower pace — this is delicate ground. Quiet conviction on 'care'.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、不条理な事件に警察、向き合っておられますね",
+      "en": "The police are really confronting some senseless situations, aren't they?",
+      "style": "Soft observation, almost to himself. Respectful acknowledgment of burden. Trailing rise on the question — inviting the officer to agree, not demanding. Slight tilt of admiration.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不法な醸造業者を摘発しました",
+      "en": "We've shut down the illegal brewing operation.",
+      "style": "Clipped, efficient. Action completed. Professional satisfaction without boasting. Crisp attack on the opening word. Brief and settled.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、戦艦遺物の盗難を警察、調査中ですね",
+      "en": "There was a theft of warship artifacts you're looking into, right?",
+      "style": "Careful phrasing — he's checking his facts. Deferential but engaged. Pace slightly uncertain, like he's making sure he has it right. Genuine interest underneath.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不法着工の工事を停止させました",
+      "en": "We've halted the illegal construction work.",
+      "style": "Direct and final. No elaboration needed. Firm but not harsh. The close of one task. Even breath, solid ground beneath each word.",
+      "mood": "resolved"
+    }
+  ]
+}

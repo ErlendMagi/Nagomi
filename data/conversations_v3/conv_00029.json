@@ -1,0 +1,91 @@
+{
+  "id": "conv_00029",
+  "context": "A quiet Tokyo side-street at 2 a.m. Officer Takeda has stopped to check on a young woman sitting on the curb. She isn't drunk, isn't hurt — just had one of those nights.",
+  "purpose": "professional kindness — late-night police care without paperwork energy",
+  "ambient": "city_street_night",
+  "target_vocab": [
+    "大丈夫",
+    "今",
+    "家",
+    "一人",
+    "帰る",
+    "本当に",
+    "ありがとう"
+  ],
+  "cast": [
+    "takeda_officer",
+    "aoi_barista"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんばんは。大丈夫ですか？",
+      "en": "Evening. You alright?",
+      "style": "Calm, professional, kind. Stops two metres away — doesn't loom.",
+      "mood": "professional_kind"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、はい…すみません。",
+      "en": "Oh — yes… sorry.",
+      "style": "Startled out of a long thought. Reflexive politeness; not actually sorry.",
+      "mood": "startled_polite"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご家族は近くに？",
+      "en": "Family nearby?",
+      "style": "Easy, neutral. The kind of question that's really asking a different one.",
+      "mood": "gentle_probe"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いえ、一人で住んでて。",
+      "en": "No — I live alone.",
+      "style": "Honest, soft. The 「一人で」 carries a small weight she doesn't hide.",
+      "mood": "honest_soft"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お家まで、お一人で帰れますか？",
+      "en": "Can you make it home okay on your own?",
+      "style": "Slight emphasis on 「お一人で」. The keigo is doing real work — keeping the encounter safe.",
+      "mood": "careful_polite"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "帰れます…たぶん。",
+      "en": "I can… probably.",
+      "style": "A small wobble inside the certainty. Half-laughs at her own honesty.",
+      "mood": "wobbling_honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "タクシーお呼びしますね。",
+      "en": "I'll call you a taxi, then.",
+      "style": "No question, just an offer in indicative form. Already pulling out the radio in the voice.",
+      "mood": "taking_action"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当に、ありがとうございます…。",
+      "en": "Really — thank you so much…",
+      "style": "Voice catches half a step. The whole night gathered into this one thank-you.",
+      "mood": "gathered_thanks"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お気をつけて。気にしないでください。",
+      "en": "Take care. Don't mind it.",
+      "style": "Closing, professional, warm. Walks her toward the taxi in the voice.",
+      "mood": "closing_warm"
+    }
+  ]
+}

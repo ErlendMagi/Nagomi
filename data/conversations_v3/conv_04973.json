@@ -1,0 +1,78 @@
+{
+  "id": "conv_04973",
+  "context": "A police archivist guides a uni reporter through old records",
+  "purpose": "Teach: 暦/酸化/復元/錯覚/混合/死後/政令/悪影響",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暦",
+    "酸化",
+    "復元",
+    "錯覚",
+    "混合",
+    "死後",
+    "政令",
+    "悪影響"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "この棚が戦前の記録でね、旧暦で日付が書かれているものも多いんだ。",
+      "en": "These shelves hold prewar records, and many of them are dated using the old lunar calendar.",
+      "style": "Calm archivist tone, measured pace, slight pride in showing the materials."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "紙が随分変色していますね。やはり酸化が進んでいるんですか？",
+      "en": "The paper has discolored quite a bit. Is oxidation really progressing that much?",
+      "style": "Curious young reporter, polite keigo, leaning in to examine the documents."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、湿気と光で悪影響が出るんだ。最近やっと一部をデータで復元できるようになってね。",
+      "en": "Yes, humidity and light cause damage. Recently we've finally been able to digitally restore some of it.",
+      "style": "Patient explanation, weathered voice of someone who's done this for decades."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "復元というと、文字が消えたところを推定するんでしょうか。",
+      "en": "When you say restore, do you mean estimating where the characters have faded away?",
+      "style": "Sharp follow-up question, journalist's instinct kicking in mid-sentence."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "推定もあるが、画像を混合して輪郭を浮かび上がらせる。一見読めるように見えるが、錯覚の場合もある。",
+      "en": "Some estimation, but we blend images to reveal the outlines. It may look readable, but sometimes it's an illusion.",
+      "style": "Cautious veteran, lowering voice slightly to stress the warning."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。ところで、戦後の政令で公開できなくなった資料もあると聞きました。",
+      "en": "I see. By the way, I heard some materials became unreleasable due to postwar cabinet ordinances.",
+      "style": "Probing gently, testing how far the archivist will open up."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よく調べてるな。当事者の死後五十年経たないと出せない書類もあるよ。",
+      "en": "You've done your homework. Some documents can't be released until fifty years after the person's death.",
+      "style": "Mildly impressed chuckle, then back to professional reserve."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それでも記録が残っているだけありがたいです。ぜひ記事で紹介させてください。",
+      "en": "Even so, I'm grateful the records remain at all. Please let me feature them in my article.",
+      "style": "Earnest closing, slight bow in voice, eager but respectful."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03432",
+  "context": "Discussing the migration plan with a colleague",
+  "purpose": "Plan the migration; teach データベース/現行/下記/確率/カット/個々/自主/活性",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "データベース",
+    "現行",
+    "下記",
+    "確率",
+    "カット",
+    "個々",
+    "自主",
+    "活性"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_172)",
+    "generated_at": "2026-05-31T21:41:10.917Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "新しいデータベースへの移行、進めています。",
+      "en": "I’m advancing the migration to the new database.",
+      "style": "engineer updating progress, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "現行システムとの並行運用は？",
+      "en": "What about running in parallel with the current system?",
+      "style": "assistant checking the strategy, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "下記のスケジュール通りに進めます。",
+      "en": "I’ll proceed per the schedule below.",
+      "style": "organized engineer confirming, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ダウンタイムの確率はどれくらい？",
+      "en": "What’s the probability of downtime?",
+      "style": "cautious assistant probing risk, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "不要な処理をカットして、最小化します。",
+      "en": "By cutting unneeded processes, we minimize it.",
+      "style": "engineer explaining the mitigation, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "個々のチームに、周知も徹底してください。",
+      "en": "Please thoroughly inform each team.",
+      "style": "assistant emphasizing coordination, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "各部署が自主的に確認できる手順書を配ります。",
+      "en": "I’ll distribute a self-check manual for each dept.",
+      "style": "engineer offering tools, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "移行後、業務の活性化が期待できますね。",
+      "en": "Post-migration, expect more lively operations.",
+      "style": "optimistic assistant projecting, delivery emotionally grounded and unforced"
+    }
+  ]
+}

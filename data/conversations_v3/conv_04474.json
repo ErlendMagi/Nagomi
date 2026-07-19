@@ -1,0 +1,78 @@
+{
+  "id": "conv_04474",
+  "context": "A uni reporter chats with a rural local about farm policy",
+  "purpose": "Teach: 豚/チョコレート/新書/農林/カ国/分離/人種/まさしく",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "豚",
+    "チョコレート",
+    "新書",
+    "農林",
+    "カ国",
+    "分離",
+    "人種",
+    "まさしく"
+  ],
+  "cast": [
+    "ren_uni",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_225 workflow wvvwn6tkp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "こんにちは、大学新聞の取材でして、農林水産省の新しい政策について地元の方のお話を伺いたいんです。",
+      "en": "Hello, I'm here on assignment for the university paper, and I'd like to hear local voices on the new Ministry of Agriculture, Forestry and Fisheries policy.",
+      "style": "Polite, journalistic opener with clear professional framing"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おう、構わんよ。最近の政策はまさしくその通り、現場の声を全然聞いとらんからな。",
+      "en": "Sure, no problem. Recent policies—exactly as you'd expect—don't listen to people on the ground at all.",
+      "style": "Gruff rural cadence with blunt grievance, sets tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。例えば豚肉の輸入自由化について、複数カ国との交渉が進んでいますが、現場への影響はいかがですか?",
+      "en": "I see. For instance, regarding pork import liberalization, talks with multiple countries are advancing—how is the impact on the ground?",
+      "style": "Follows up with a specific, properly framed policy question"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うちの子豚を育てとる農家は、もうやっていけん。価格と現場の事情を分離して語る議論ばっかりで、現実味がないんだ。",
+      "en": "The piglet-raising farms here just can't keep going. The debate only separates prices from on-the-ground realities, with no grounding in reality.",
+      "style": "Frustrated, earthy complaint about policy disconnect from reality"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "実は岩波新書でこの問題を扱った本を読んだのですが、人種や国籍に関わらず、農家が直面する課題は驚くほど似ていると書かれていました。",
+      "en": "Actually, I read an Iwanami paperback on this issue, and it said farmers face strikingly similar challenges regardless of race or nationality.",
+      "style": "Academic citation woven naturally into conversational follow-up"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "本ねぇ…机上の空論だよ。都会のもんは農業をチョコレートのCMみたいに甘く見とるけど、現実は泥まみれの重労働だ。",
+      "en": "Books, huh… armchair theory. City folks view farming as sweet as a chocolate commercial, but reality is muddy, hard labor.",
+      "style": "Sardonic country wisdom with a vivid, grounded media metaphor"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "おっしゃる通りですね。最後に、若い世代に伝えたいことはありますか?",
+      "en": "You're absolutely right. Lastly, is there anything you'd like to convey to the younger generation?",
+      "style": "Respectful closing question delivered in a soft, warm tone"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "一度でいいから田んぼに立ってみろ。それが農林業を考える出発点だ。記事、ちゃんと書けよ。",
+      "en": "Just once, stand in a rice paddy. That's the starting point for thinking about agriculture and forestry. Write your article properly, kid.",
+      "style": "Warm but firm parting advice with a clear directive to act"
+    }
+  ]
+}

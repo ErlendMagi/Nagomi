@@ -1,0 +1,86 @@
+{
+  "id": "conv_10100",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 練馬/ニンテンドー/ローリング/ヤフオク/ホモ/シャロン/スタミナ/チャンピオンズ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "練馬",
+    "ニンテンドー",
+    "ローリング",
+    "ヤフオク",
+    "ホモ",
+    "シャロン",
+    "スタミナ",
+    "チャンピオンズ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_506 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが練馬区のお仕事先にお出かけよ",
+      "en": "Sho, your dad has to go to work in Nerima today.",
+      "style": "Warm, matter-of-fact. A gentle reminder phrased as simple news. Slight lift at the end—inviting his attention without demand. Patient rhythm.",
+      "mood": "gentle_informative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとニンテンドーで遊んだよ",
+      "en": "Mom, I played Nintendo with Dad!",
+      "style": "Bright, immediate excitement. Quick attack on the opening word. Eager to share. Voice bounces slightly—he's already picturing it. Clean, unfiltered joy.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがローリング・ストーンズのコンサート観たいって",
+      "en": "Sho, your dad mentioned he'd like to see a Rolling Stones concert.",
+      "style": "Thoughtful, conversational tone. Slightly longer pause before the verb—she's considering this fact as she shares it. Warm observational quality, not lecturing.",
+      "mood": "musing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとヤフオクで時計買ったよ",
+      "en": "Mom, Dad and I bought a watch on Yahoo Auctions!",
+      "style": "Rapid, bubbling enthusiasm. Sharp onset on 'bought.' Words tumble slightly into each other. Voice rises on the object—the watch is the prize. Genuine six-year-old pride.",
+      "mood": "proud_excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがホモ・サピエンスの進化のお話して下さったわ",
+      "en": "Sho, your dad told us such an interesting story about human evolution.",
+      "style": "Warm with a touch of quiet amusement. Measured cadence—she's still half in that conversation herself. Slight emphasis on 'interesting,' genuine appreciation for his effort to share knowledge.",
+      "mood": "amused_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとシャロン元首相のドキュメンタリー観たよ",
+      "en": "Mom, Dad and I watched the Champions League final!",
+      "style": "Quick, energetic onset. Rushing slightly with excitement—he can barely contain it. Voice peaks on 'final.' Small pause before that word, letting anticipation build. Pure breathless joy.",
+      "mood": "thrilled"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「スタミナをつけろ」って仰ったわ",
+      "en": "Sho, your dad told you to build up your stamina.",
+      "style": "Light, practical tone. Small knowing warmth—she's relaying fatherly advice with gentle humor. Even pacing. Slight uptick on 'stamina,' as if she's quoting him gently.",
+      "mood": "affectionate_dry"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとチャンピオンズリーグ決勝観たよ",
+      "en": "Mom, Dad and I watched the Champions League final together!",
+      "style": "Warm, final-statement quality. Gentle enthusiasm—not manic, but satisfied and whole. Lingers slightly on 'together.' The full story is told. Soft, contented close.",
+      "mood": "contentment"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_04595",
+  "context": "A uni student interviews a retired bureaucrat about reforms",
+  "purpose": "Teach: 弾圧/路上/戦場/破産/検察官/審理/通産省/外相",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "弾圧",
+    "路上",
+    "戦場",
+    "破産",
+    "検察官",
+    "審理",
+    "通産省",
+    "外相"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_231 workflow wr0604mks)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。まず、旧通産省での改革について伺いたいのですが。",
+      "en": "Thank you for your time today. First, I'd like to ask about the reforms at the former MITI.",
+      "style": "Polite student opening, respectful and formal tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、懐かしいねえ。当時は労使の対立が激しくて、毎日が戦場のようだったよ。",
+      "en": "Ah, that brings back memories. Back then labor-management conflicts were fierce, every day felt like a battlefield.",
+      "style": "Nostalgic elder reflecting with warm gravitas."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦後の言論弾圧の名残もあった時代ですよね。デモ隊が路上に溢れたとも聞きました。",
+      "en": "It was an era still shadowed by postwar suppression of speech, right? I heard protesters flooded the streets.",
+      "style": "Curious student probing historical context carefully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうそう、連日のように抗議があってね。中小企業が次々と破産していくのを止められなかった。",
+      "en": "Yes, protests happened day after day. We couldn't stop small businesses from going bankrupt one after another.",
+      "style": "Somber recollection with measured regret throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時の外相とも調整されたと聞きますが、商法改正にも関わられたのですか?",
+      "en": "I heard you coordinated with the foreign minister at the time — were you also involved in commercial law reform?",
+      "style": "Focused follow-up question, academically inquisitive tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、検察官や裁判所の審理にまで及ぶ案件もあってね。任命された当初は本当に大変だった。",
+      "en": "Yes, some cases extended to prosecutors and court hearings. The early days after my appointment were truly tough.",
+      "style": "Weighty elder testimony, deliberate and reflective."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、本当にありがとうございます。後日、単行本にまとめさせていただければ幸いです。",
+      "en": "Thank you sincerely for these invaluable stories. I'd be honored to compile them into a book later.",
+      "style": "Grateful closing, humble and formally appreciative."
+    }
+  ]
+}

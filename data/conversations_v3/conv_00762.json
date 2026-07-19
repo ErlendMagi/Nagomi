@@ -1,0 +1,62 @@
+{
+  "id": "conv_00762",
+  "context": "Officer Takeda greets Sho walking home and reminds him to be safe.",
+  "purpose": "authority-child friendly safety reminder",
+  "ambient": "street_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "道",
+    "安全",
+    "注意",
+    "一緒",
+    "元気"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_038)",
+    "generated_at": "2026-05-27T01:43:54.066Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "しょうくん、こんにちは。元気か？",
+      "en": "Sho-kun, hello. How are you doing?",
+      "style": "Warm greeting from someone in uniform. Genuine interest in the child's wellbeing beneath the professional composure. Natural, easy pace—not performing authority, just holding it.",
+      "mood": "kind_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "こんにちは、おまわりさん。元気です。",
+      "en": "Hello, officer. I'm doing well.",
+      "style": "Small, careful voice with real brightness underneath. Respectful without stiffness. The genuine warmth of a child who trusts this person, naturally.",
+      "mood": "content_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "道、気を付けて。",
+      "en": "Mind yourself on the road.",
+      "style": "Quiet advisory, not a warning. The weight of genuine care in a few words. Steady, measured—the kind of advice that stays with you because it's delivered without fuss.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい、いつも、一緒に、歩く。",
+      "en": "Yes. I always walk with them.",
+      "style": "Soft certainty. A small reassurance offered back to the officer—I'm safe because I'm not alone. Bright but grounded, no need to persuade.",
+      "mood": "secure"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良し。安全、第一だ。",
+      "en": "Good. Safety first.",
+      "style": "Light affirmation on 'good.' Closing benediction, not command. The warmth of an elder's approval settling in. Measured, final, kind.",
+      "mood": "approving"
+    }
+  ]
+}

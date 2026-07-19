@@ -1,0 +1,72 @@
+{
+  "id": "conv_04294",
+  "context": "A uni student interviews a retired official about diplomatic gatherings",
+  "purpose": "Teach: 厚生省/秘書/開幕/食糧/原油/入国/懇談/刊行",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "厚生省",
+    "秘書",
+    "開幕",
+    "食糧",
+    "原油",
+    "入国",
+    "懇談",
+    "刊行"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただき、ありがとうございます。当時の懇談会の様子について、少し伺えますでしょうか。",
+      "en": "Thank you for your time today. May I ask a little about the informal discussion meetings back then?",
+      "style": "Respectful, slightly nervous university student opening an interview."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、構いませんよ。私はあの頃、厚生省の局長の秘書をしておりましてね、各国大使との会合にもよく同席したものです。",
+      "en": "Yes, that's fine. Back then I served as secretary to a bureau chief at the Ministry of Health, and often attended meetings with foreign ambassadors.",
+      "style": "Elderly, composed, measured reminiscence with formal register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。当時はちょうど原油価格の高騰や食糧問題が世界的な議題でしたよね。",
+      "en": "I see. At that time, soaring crude oil prices and food supply issues were major global topics, weren't they?",
+      "style": "Curious student steering conversation toward historical context."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通りです。サミットの開幕直前に、各国の代表者が入国してきましてね、空港から会場まで本当に慌ただしかった。",
+      "en": "Exactly. Right before the summit opened, representatives from each country arrived through immigration, and it was truly hectic from the airport to the venue.",
+      "style": "Nostalgic elder vividly recalling busy diplomatic preparations."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時の記録などは、何か残っているのでしょうか。論文の参考にしたいのですが。",
+      "en": "Are there any records from that time still preserved? I'd like to reference them for my thesis.",
+      "style": "Earnest student inquiring about archival sources for research."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "外務省が後年刊行した白書がありますよ。図書館で探せば、当時の議事録もある程度は閲覧できるはずです。",
+      "en": "There's a white paper the Foreign Ministry published in later years. If you search the library, you should be able to view some of the minutes from that period.",
+      "style": "Helpful elder offering concrete bibliographic guidance with authority."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。早速、大学の図書館で探してみます。今日は本当に勉強になりました。",
+      "en": "Thank you so much. I'll look for it right away at the university library. I learned a great deal today.",
+      "style": "Grateful, polite closing from the young interviewer."
+    }
+  ]
+}

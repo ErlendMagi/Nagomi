@@ -1,0 +1,79 @@
+{
+  "id": "conv_06069",
+  "context": "A police officer briefs on a corporate-IP case",
+  "purpose": "Teach: 毀損/百科/後編/運搬/ネック/選別/結びつける/招か",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "毀損",
+    "百科",
+    "後編",
+    "運搬",
+    "ネック",
+    "選別",
+    "結びつける",
+    "招か"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_305 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の知的財産、毀損リスク、警察も把握しています。",
+      "en": "Your company's intellectual property and the risks to it — we're tracking this closely.",
+      "style": "Professional, steady authority without coldness. Measured pace. Slight weight on 'tracking' — the reassurance that this is being taken seriously.",
+      "mood": "official_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。百科辞典級の社内資料、流出防止に努めます。",
+      "en": "Yes. We understand — those internal documents are sensitive. We're strengthening our leak-prevention protocols.",
+      "style": "Earnest, slightly formal. Nodding in the voice. Clear enunciation on 'preventing' — showing he's committed. Not defensive, but taking it as his responsibility.",
+      "mood": "compliant_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "シリーズの後編、ロゴ盗用、ご注意を。",
+      "en": "The second phase of the series especially — watch for logo counterfeiting. That's a common attack vector.",
+      "style": "Matter-of-fact, procedural tone. Light emphasis on 'watch' and 'logo' — flagging key points. Calm but attentive, like reading from experience.",
+      "mood": "cautious_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "運搬中の荷物、追跡システム、強化済みです。",
+      "en": "We've already upgraded the tracking systems on goods in transit. It's in place now.",
+      "style": "Steady, confident. Measured delivery — not rushing to reassure, just stating fact. Slight upward lift at the end, inviting acknowledgment.",
+      "mood": "capable_assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "発覚遅延がネック、初動の選別、迅速に。",
+      "en": "Detection lag is your real vulnerability right now. We need faster initial response — spotting problems before they spread.",
+      "style": "Gentle but direct. Leans forward slightly in tone. Specific weight on 'faster' — this matters. Not scolding, but clear about the priority.",
+      "mood": "frank_pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察と業界、引き続き結びつける場、設けます。",
+      "en": "We'll set up regular liaison meetings between police and your industry partners. Keep those channels open.",
+      "style": "Warm but formal. Measured, collaborative tone — building a bridge. Slight lift on 'open,' inviting partnership not surveillance.",
+      "mood": "cooperative_forward_looking"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "招かれて、来週講演します。",
+      "en": "I've been asked to give a talk next week on exactly this — IP protection frameworks.",
+      "style": "Understated. Small note of satisfaction but not self-promotion — just matter-of-fact. Slight pause before 'next week,' like he's checking his own schedule. Warm closer.",
+      "mood": "informed_matter_of_fact"
+    }
+  ]
+}

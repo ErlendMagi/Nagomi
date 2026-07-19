@@ -1,0 +1,86 @@
+{
+  "id": "conv_10289",
+  "context": "Officer briefs",
+  "purpose": "Teach: 州立/施主/廻っ/下層/席上/呼応/デマンド/無休",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "州立",
+    "施主",
+    "廻っ",
+    "下層",
+    "席上",
+    "呼応",
+    "デマンド",
+    "無休"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_516 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、州立大学での防犯講演もされますね",
+      "en": "You give crime prevention talks at state universities too, right?",
+      "style": "Steady, curious. Warm acknowledgment of the work being discussed. Light upward lilt on the question—seeking confirmation, not challenging. Respectful distance.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、建築現場の施主との連絡もされますね",
+      "en": "You also coordinate with site owners at construction projects, right?",
+      "style": "Same curious warmth. Slight nod in the voice—following along a list of responsibilities. Easy, conversational pace. Genuinely interested in the scope of the work.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、管轄区域を廻って巡回されますね",
+      "en": "You patrol around your jurisdiction area regularly, don't you?",
+      "style": "Continued steady rhythm. Warm but grounded—acknowledging practical, hands-on work. Slight emphasis on 'regularly' without judgment. The tone of someone learning.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、社会下層の防犯支援もされますね",
+      "en": "You provide crime prevention support to communities that need it most, right?",
+      "style": "Gentle acknowledgment of the social care aspect. Warm and sincere—the tone shifts slightly to honor the work's human dimension. Still questioning, but with quiet respect.",
+      "mood": "warm_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査会議の席上で報告されますね",
+      "en": "You report on findings at investigation meetings too?",
+      "style": "Moving back to procedural observations. Steady, matter-of-fact. The tone of someone tracking the full picture of police work. Alert but not skeptical.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、市民通報に呼応した出動もされますね",
+      "en": "You respond to citizen reports as they come in, of course.",
+      "style": "Simple acknowledgment. The recognition of the reactive, urgent side of the work. Tone straightens slightly—grounded, factual. Understanding the weight of that responsibility.",
+      "mood": "respectful_grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、防犯デマンドを分析されますね",
+      "en": "You analyze demand patterns for crime prevention measures?",
+      "style": "Data-oriented question. Curious about the analytical layer. Lighter tone than previous lines—intellectual interest. Still warm, still collaborative.",
+      "mood": "curious_analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、警察署は実質無休で対応されますね",
+      "en": "And your station really does operate essentially without a day off, doesn't it?",
+      "style": "Gentle landing—slight heaviness in recognition of the toll. Quieter, more measured. The voice that knows this is the reality of the work. Respectful, not pitying.",
+      "mood": "respectful_understanding"
+    }
+  ]
+}

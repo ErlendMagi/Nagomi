@@ -1,0 +1,86 @@
+{
+  "id": "conv_08007",
+  "context": "Two managers chat",
+  "purpose": "Teach: 授与/保健所/延命/即答/一辺倒/疲弊/病名/早けれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "授与",
+    "保健所",
+    "延命",
+    "即答",
+    "一辺倒",
+    "疲弊",
+    "病名",
+    "早けれ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、社員に新人賞の授与をいたしましょう",
+      "en": "Let's award our new employee with the newcomer prize.",
+      "style": "Measured, decisive. Clear opening attack on the proposal. Businesslike pace, no softening. Authority without coldness—a leader laying out what comes next.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。保健所への報告書、提出済みです",
+      "en": "Yes. The health department report has already been submitted.",
+      "style": "Clipped, efficient. Slight upward tick on confirmation—pride in having completed the task. Professional cadence, no elaboration needed.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、サービスは延命を視野に検討しましょう",
+      "en": "Let's explore extending the service lifespan as a strategic direction.",
+      "style": "Calm, forward-thinking. Opens with quiet conviction. Measured pace—this is a vision, not a rush. Slight emphasis on 'explore' to signal collaborative thinking, not mandate.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。即答できる窓口を増やしました",
+      "en": "Yes. I've expanded the number of counters that can provide immediate responses.",
+      "style": "Direct, competent. Quick rhythm on 'expanded'—showing initiative. Factual, light with accomplishment but not boastful. Steady eye-level tone.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "価格一辺倒のキャンペーンはやめましょう",
+      "en": "Let's move away from price-focused campaigns.",
+      "style": "Firm pivot. Sharp attack on the opening. Resolute but not harsh—this is a course correction the team needs. Slightly slower landing on the final word.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サポート要員、疲弊を防ぐローテーション組みます",
+      "en": "Yes. I'm setting up a rotation system to prevent burnout in the support team.",
+      "style": "Responsive and caring underneath the professionalism. Opens with quick acceptance, then settles into the detail with genuine concern for the staff. Warm but not sentimental.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お客様への病名告知ガイドラインを作りましょう",
+      "en": "Let's develop guidelines for communicating diagnoses to customers.",
+      "style": "Thoughtful, careful. Soft opening—this is delicate work. Deliberate pace, emphasis on 'communicating' to highlight the human element. Ending slightly open, inviting input.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。早ければ今月中にお披露目します",
+      "en": "Yes. We can have it ready to present as early as this month.",
+      "style": "Confident close. Quick acceptance, then a clear timeline. Light optimism in the tone—'as early as' suggests capability and momentum. Finishing solid, wrapping the exchange.",
+      "mood": "committed"
+    }
+  ]
+}

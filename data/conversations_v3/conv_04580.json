@@ -1,0 +1,72 @@
+{
+  "id": "conv_04580",
+  "context": "A uni student interviews a retired diplomat about postwar history",
+  "purpose": "Teach: 大都市/過激/騒音/核兵器/虐殺/性別/死ね/無関係",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大都市",
+    "過激",
+    "騒音",
+    "核兵器",
+    "虐殺",
+    "性別",
+    "死ね",
+    "無関係"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。戦後の大都市圏の復興について、外交官としてのご経験をお聞きしたく参りました。",
+      "en": "Thank you for your time today. I came to ask about your experiences as a diplomat regarding the postwar reconstruction of major metropolitan areas.",
+      "style": "Formal opening, polite student addressing a senior figure respectfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやはや、若い方が関心を持ってくださるのは嬉しいことです。当時はね、騒音規制どころか、瓦礫の処理だけで何年もかかった。",
+      "en": "Well, well, it makes me happy that young people take interest. Back then, forget noise regulations, just clearing the rubble took years.",
+      "style": "Warm elderly tone, reflective, slightly nostalgic with measured cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。冷戦期には核兵器保有を巡る議論も激しかったと伺いますが、現場ではどう感じておられましたか。",
+      "en": "I see. I've heard that during the Cold War, debates over nuclear weapons possession were intense — how did it feel on the ground?",
+      "style": "Probing but respectful, academic curiosity drives the follow-up question."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "怖かったですよ。一部の過激派は声を荒げて「死ねばいい」とまで叫んでいた。冷静な交渉が本当に難しい時代でした。",
+      "en": "It was frightening. Some radicals raised their voices, even shouting things like 'just drop dead.' Calm negotiation was truly difficult back then.",
+      "style": "Somber, reflective gravity, slight pause conveying weight of memory."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歴史的虐殺の記憶も、外交の席では避けて通れなかったと思います。性別を問わず多くの市民が犠牲になったわけですから。",
+      "en": "I imagine memories of historical massacres couldn't be avoided at the diplomatic table. Citizens of every gender suffered, after all.",
+      "style": "Earnest, thoughtful, weighing words carefully as a respectful student."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通り。被害者の声を「自分とは無関係だ」と切り捨てる外交官もいましたが、私はそれだけは許せなかった。",
+      "en": "Exactly so. Some diplomats dismissed victims' voices as 'unrelated to themselves,' but that was the one thing I could never accept.",
+      "style": "Firm conviction, slow emphatic delivery, moral clarity in elder's voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "胸に刻みます。本日のお話、卒業論文に活かさせていただきます。ありがとうございました。",
+      "en": "I'll take that to heart. I'll make use of today's discussion in my graduation thesis. Thank you so much.",
+      "style": "Sincere closing, gratitude tinged with thoughtful resolve and humility."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05794",
+  "context": "A police officer briefs a corporate manager about regional risk",
+  "purpose": "Teach: 暗殺/強盗/誘拐/人質/テロリスト/右翼/左翼/慶",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暗殺",
+    "強盗",
+    "誘拐",
+    "人質",
+    "テロリスト",
+    "右翼",
+    "左翼",
+    "慶"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本地域、過去に暗殺未遂や強盗の事例ありますが、最近は誘拐がゼロです。",
+      "en": "In this region, we've had assassination attempts and robberies in the past, but kidnappings have been zero lately.",
+      "style": "Measured, official tone. Delivers facts with even weight. Pauses slightly between clauses for clarity. No inflection—just information.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。人質を取る犯罪、強く警戒したい現実です。",
+      "en": "Yes. Hostage crimes are a real concern we want to stay vigilant about.",
+      "style": "Respectful agreement. Leans forward slightly on the commitment. Steady pace. Acknowledges the seriousness without dramatizing.",
+      "mood": "focused_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "テロリストではないが、右翼街宣車の活動、増えています。",
+      "en": "Not terrorists, but right-wing street activity has been increasing.",
+      "style": "Shifts to briefing mode. Crisp delivery on the distinction. Level, factual. No editorial tone—just the pattern.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "左翼系団体との関係、警察として把握してますか。",
+      "en": "Does the police department have visibility into connections with left-wing groups?",
+      "style": "Thoughtful question, genuinely seeking detail. Slight lean-in on the inquiry. Respectful—not pressing, but looking for the deeper picture.",
+      "mood": "probing_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。慶應大の専門家とも、共同で分析しています。",
+      "en": "Yes. We're doing joint analysis with specialists from Keio University on that.",
+      "style": "Confirming with quiet competence. Slight nod-in-voice on the collaboration. Closes the thought with understated confidence in the process.",
+      "mood": "informed_assured"
+    }
+  ]
+}

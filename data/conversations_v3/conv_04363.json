@@ -1,0 +1,78 @@
+{
+  "id": "conv_04363",
+  "context": "A teacher gives a uni student detailed essay feedback",
+  "purpose": "Teach: いざ/以後/雑感/事柄/したがい/によりまして/にあたって/というのも",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "いざ",
+    "以後",
+    "雑感",
+    "事柄",
+    "したがい",
+    "によりまして",
+    "にあたって",
+    "というのも"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "レンくん、エッセイ読みました。導入にあたって、もう少し論点を絞った方がいいですね。",
+      "en": "Ren, I read your essay. When it comes to the introduction, you should narrow your argument a bit more.",
+      "style": "Measured teacher tone, polite but direct feedback delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。いざ書き始めたら、話が広がりすぎてしまって…。",
+      "en": "Thank you. Once I actually started writing, the topic just kept expanding on me.",
+      "style": "Apologetic student admitting a common writing struggle honestly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "わかりますよ。それと、構成上の事柄ですが、第二段落の英文がやや不自然です。",
+      "en": "I understand. Also, regarding structural matters, the English in your second paragraph reads a bit unnaturally.",
+      "style": "Calm academic feedback identifying a specific weakness."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あそこ、自分でも欠点だと思っていました。というのも、辞書に頼りすぎたんです。",
+      "en": "I thought that part was a weak point myself. The reason being, I leaned too heavily on the dictionary.",
+      "style": "Self-aware confession with a reasoned explanation following."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。次回からは私の指示にしたがい、まず日本語で骨子を書いてみてください。",
+      "en": "I see. From next time, following my instructions, please first draft an outline in Japanese.",
+      "style": "Instructive guidance offering a concrete methodology change."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、以後そうします。評価基準の方は、どの事柄を重視されていますか？",
+      "en": "Yes, I will do that from now on. Regarding the grading criteria, which aspects do you emphasize?",
+      "style": "Compliant student asking a follow-up clarification question."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今回のテーマによりまして、論理の一貫性を最も重く見ています。雑感の羅列にならないように。",
+      "en": "Depending on this particular theme, I weight logical consistency most heavily. Try not to let it become a string of stray thoughts.",
+      "style": "Authoritative scholarly explanation with a pointed warning."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。書き直しにあたって、もう一度相談させていただいてもよろしいでしょうか。",
+      "en": "Understood. As I undertake the rewrite, would it be alright to consult with you once more?",
+      "style": "Polite formal request seeking continued mentorship respectfully."
+    }
+  ]
+}

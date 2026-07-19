@@ -1,0 +1,76 @@
+{
+  "id": "conv_01203",
+  "context": "Yumiko visits Sachiko for tea and conversation.",
+  "purpose": "mother-grandma tea exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "家族",
+    "感謝",
+    "大切"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_060)",
+    "generated_at": "2026-05-27T04:24:20.797Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おばさん、お元気で、本当に。",
+      "en": "Auntie, you're doing so well. Really.",
+      "style": "Warm opening, genuine affection in the voice. Soft, unhurried pace. Lands on 'really' with quiet certainty—not performative, just true. Breath carries the tenderness.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "優子ちゃん、ありがとう、いつも。",
+      "en": "Yumiko-chan, thank you. Always.",
+      "style": "Grateful and present. Slight lift on 'thank you'—the real kind, not polite. Trails on 'always' with a small, knowing smile in the voice. Comfortable silence lives in the pauses.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族、皆、近くで、嬉しい。",
+      "en": "Having the whole family close like this—it makes me happy.",
+      "style": "Thoughtful warmth. Settles into each phrase. The voice opens on 'family,' then softens toward the end. Not rushed—she's savoring the moment of saying it.",
+      "mood": "content_grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "一緒に、過ごせる、本当に、感謝。",
+      "en": "Being able to spend time together like this. I'm really grateful.",
+      "style": "Deep, genuine appreciation underneath. Deliberate pacing. Quiet conviction on 'grateful'—not effusive, just truthful. The voice carries the weight of years of cherished moments.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しい、おばさん、本当に。",
+      "en": "You're so kind, auntie. You really are.",
+      "style": "Sincere admiration, almost marveling. Gentle emphasis on the second 'are'—affirming something true she's known a long time. Breath is soft, unhurried.",
+      "mood": "loving_admiring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "大切な、家族、本当に。",
+      "en": "You're precious to this family. So precious.",
+      "style": "Quiet, philosophical weight. Settles on 'precious' like it's something weighty and true. The repetition isn't for emphasis—it's for letting the feeling breathe. Voice is steady, clear, certain.",
+      "mood": "tender_reverent"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "これからも、よろしく、本当に。",
+      "en": "I hope we can keep doing this. Keep being together.",
+      "style": "Gentle promise in the voice. Warm and forward-looking, but grounded in the present. A soft plea underneath—not desperate, just sincere. Trails off slightly, like she's making a quiet wish.",
+      "mood": "hopeful_tender"
+    }
+  ]
+}

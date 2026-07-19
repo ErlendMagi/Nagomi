@@ -1,0 +1,75 @@
+{
+  "id": "conv_02518",
+  "context": "Ren reports research findings to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: research report; analysis vocabulary (レポート/示し/得る/現状/強化) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "レポート",
+    "示し",
+    "得る",
+    "現状",
+    "強化"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_126)",
+    "generated_at": "2026-05-29T13:00:38.994Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "調査のレポートが、まとまりました。",
+      "en": "The research report is finished.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "何か、新しい発見はあったかね?",
+      "en": "Were there any new findings?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "データは、利用者の不満を示しています。",
+      "en": "The data indicates user dissatisfaction.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現状の弱点が、見えたわけだね。",
+      "en": "So the current weaknesses became visible.",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、改善のヒントも得られました。",
+      "en": "Yes, we also gained hints for improvement.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "では、対応を強化しよう。",
+      "en": "Then let's strengthen our response.",
+      "style": "decisive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "レポートを基に、体制を強化します。",
+      "en": "Based on the report, we'll strengthen the system.",
+      "style": "reliable young presenter voice, soft warm resolved throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この現状から、得るものは多いな。",
+      "en": "There's much to gain from this situation.",
+      "style": "satisfied boss voice, soft warm closing throughout"
+    }
+  ]
+}

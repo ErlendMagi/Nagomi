@@ -1,0 +1,86 @@
+{
+  "id": "conv_08001",
+  "context": "Mom and son chat",
+  "purpose": "Teach: こもり/思いがけない/片づけ/寝かせ/横顔/思い当たる/ホタル/育た",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "こもり",
+    "思いがけない",
+    "片づけ",
+    "寝かせ",
+    "横顔",
+    "思い当たる",
+    "ホタル",
+    "育た"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お部屋にこもりすぎないでね",
+      "en": "Sho, try not to spend all your time holed up in your room, okay?",
+      "style": "Gentle, warm reminder. Soft opening on his name. The tone of someone who's noticed but isn't worried—just checking in. No pressure underneath.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんから思いがけないプレゼントもらったよ",
+      "en": "Mom, Dad gave me the most amazing surprise gift!",
+      "style": "Bright, immediate excitement. Quick intake of breath before the rush of words. The kind of joy that can't quite contain itself. Eyes wide.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お部屋の片づけ、お願いね",
+      "en": "Sho, I need you to tidy up your room for me, sweetheart.",
+      "style": "Practical but warm. The word 'need' carries gentle weight—not demanding, but clear. Ends with softness on the endearment.",
+      "mood": "gentle_request"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖母ちゃんがぼくを寝かせてくれたよ",
+      "en": "Mom, Grandma tucked me in tonight.",
+      "style": "Quiet, content. The small detail offered like something precious. A note of safety and ease in his voice. Settling into the memory as he speaks.",
+      "mood": "peaceful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんの横顔、立派ね",
+      "en": "Sho, your father has such a dignified profile.",
+      "style": "Soft, observant. Speaking almost to herself—noticing something about him in that moment. Warm and a little distant, the way you sound thinking out loud.",
+      "mood": "wistful_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、思い当たる節があるよ",
+      "en": "Mom, I think I understand something now.",
+      "style": "Hesitant but thoughtful. A child working through something real. The words come slowly, like he's finding them as he speaks. Careful, sincere.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お庭にホタルが来てたわよ",
+      "en": "Sho, there were fireflies in the garden tonight!",
+      "style": "Warm, animated. A moment of delight shared. The kind of tone you use when you want someone to look up and see what you saw. Open and inviting.",
+      "mood": "enchanted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "野菜は太陽が当たれば、よく育たない子も育つよ。ママ、ぼくが育てたお花、大きく育ったよ",
+      "en": "Mom, even plants that don't get much sun can still grow strong with enough light—and look! The flowers I grew got so big!",
+      "style": "Quiet certainty underneath gentle excitement. The words build—starts observant, then brightens with pride at the end. A child sharing something he's learned and built.",
+      "mood": "proud_reflective"
+    }
+  ]
+}

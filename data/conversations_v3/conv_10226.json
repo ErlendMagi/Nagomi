@@ -1,0 +1,86 @@
+{
+  "id": "conv_10226",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: プログラマー/ユーティリティ/短大/本学/南側/伝送/陳列/懲戒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "プログラマー",
+    "ユーティリティ",
+    "短大",
+    "本学",
+    "南側",
+    "伝送",
+    "陳列",
+    "懲戒"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_513 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、プログラマーの採用を強化しろ",
+      "en": "Strengthen our programmer recruitment.",
+      "style": "Direct command, clipped delivery. Opens with authority. No room for negotiation. Measured pace, steady gaze.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバーのユーティリティ機能を整備します",
+      "en": "Understood. I'll upgrade the server utility infrastructure.",
+      "style": "Immediate, decisive affirmation. Slight forward lean on the response. Competent tone—showing he's already thinking through the implementation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、短大卒の人材も積極的に採用しろ",
+      "en": "Also actively recruit junior college graduates.",
+      "style": "Same commanding tone as the first line. Slightly softer gate on 'also'—adding to the directive without repetition. Still decisive.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本学卒の役員も増やしたいですね",
+      "en": "Understood. We should expand our executive ranks with alumni too.",
+      "style": "Slightly lighter than before—a small note of agreement or insight underneath the compliance. Still professional. A beat of genuine thinking.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社屋の南側に新しい入口を設けろ",
+      "en": "Install a new entrance on the south side of the building.",
+      "style": "Firm directive. Concrete, physical instruction. Same authoritative pace as previous commands. No inflection that invites discussion.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。データ伝送経路を冗長化します",
+      "en": "Understood. I'll implement redundancy in our data transmission routes.",
+      "style": "Brisk acknowledgment, professional cadence. The words come quickly—executing on instruction. No hesitation, no elaboration beyond necessity.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "陳列棚のレイアウトを変えろ",
+      "en": "Change the display shelf layout.",
+      "style": "Short, sharp directive. Opens with crisp attack. Business-like, no explanation needed. The tone of someone used to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員規程の懲戒事項を明確にします",
+      "en": "Understood. I'll clarify the disciplinary provisions in the employee handbook.",
+      "style": "Final affirmation—slightly weighted with closure. Professional, thorough. A touch of resolution, as if closing a section of the meeting.",
+      "mood": "resolute"
+    }
+  ]
+}

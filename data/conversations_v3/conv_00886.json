@@ -1,0 +1,76 @@
+{
+  "id": "conv_00886",
+  "context": "Hiroshi reviews Kenji's detailed budget analysis.",
+  "purpose": "boss-subordinate budget-analysis exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "分析",
+    "予算",
+    "詳細",
+    "一緒",
+    "考える"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_045)",
+    "generated_at": "2026-05-27T02:39:30.683Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、予算の分析、見せろ。",
+      "en": "Kenji, show me the budget analysis.",
+      "style": "Clipped, direct opening. Composed authority. No warmth, no softness—just the measured certainty of someone used to being listened to. Steady gaze.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、詳細、まとめました。",
+      "en": "Yes, I've compiled the details.",
+      "style": "Alert, respectful. Slight forward lean in the posture. Professional but not stiff—there's a hint of warmth underneath the formality, like he's grateful for the chance to present. Even pace.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人件費、思った以上だ。",
+      "en": "Labor costs are higher than I anticipated.",
+      "style": "Observant, measured. A slight pause before the remark lands. Not critical—just the quiet noting of something that requires attention. Breath steady, no judgment in the delivery.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、対策、考えてます。",
+      "en": "Yes, I'm already working on countermeasures.",
+      "style": "Engaged and responsive. Lean forward slightly. The ease of someone who has already been thinking ahead. Warm undertone—not defensive, just proactive. Light pace.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、見直そう。",
+      "en": "Let's go through it together.",
+      "style": "A softening. Still authoritative, but the word 'together' carries weight—an invitation, not a demand. Slight ease in the shoulders. The composure of someone secure enough to collaborate rather than direct.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "詳細、もっと、確認します。",
+      "en": "I'll confirm the details more thoroughly.",
+      "style": "Quick, assured nod in the voice. No hesitation. The commitment is clear without needing to prove it. Slight warmth—he's been heard and he's responding. Steady delivery.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よろしく頼む。",
+      "en": "I'm counting on you.",
+      "style": "Brief, genuine. The words sit with weight. No hurry. A quiet acknowledgment that lands like trust, not flattery. The door closes gently behind it.",
+      "mood": "trusting"
+    }
+  ]
+}

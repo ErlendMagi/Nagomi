@@ -1,0 +1,86 @@
+{
+  "id": "conv_08566",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 割高/協業/行程/必勝/品切れ/伝言/月給/当座",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "割高",
+    "協業",
+    "行程",
+    "必勝",
+    "品切れ",
+    "伝言",
+    "月給",
+    "当座"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_430 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、輸入品が割高になっている",
+      "en": "Our imported products are getting too expensive.",
+      "style": "Clipped, direct. No preamble. Matter-of-fact tone. Steady gaze. The statement of a problem that needs addressing.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先との協業案件を進めております",
+      "en": "Yes. We're moving forward on a joint project with our trading partners.",
+      "style": "Formal, measured acknowledgment. Slight formality in the posture — respectful distance. Clear articulation. Each phrase lands with professional precision.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品の開発行程を短縮しろ",
+      "en": "Cut the timeline for new product development.",
+      "style": "Firm command. Economical delivery — no softening. Weight on the verb. Expects compliance, not discussion. Direct eye contact.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業チームの必勝態勢を整えました",
+      "en": "Yes. I've prepared the sales team with a winning strategy.",
+      "style": "Confident briefing tone. A touch of pride — not boastful, just assured. Steady pace. Slight emphasis on 'winning' to signal readiness and competence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人気商品が品切れになっているぞ",
+      "en": "Our popular items are sold out.",
+      "style": "Sharp, factual delivery. Slight edge — frustration held steady beneath the surface. Not accusatory, just stating the problem that exists.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先への伝言を確実にお伝えします",
+      "en": "Yes. I'll make sure our trading partners receive the message clearly.",
+      "style": "Reassuring commitment. Slight lean forward — taking ownership. Calm certainty. Promises follow-through without overselling.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、月給制度を見直せ",
+      "en": "We need to revise the company's salary structure.",
+      "style": "Declarative, unhurried. The tone of someone identifying a necessary change. Composed. Expects this to be understood as a strategic move, not a complaint.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当座の予算を確保いたしました",
+      "en": "Yes. I've secured the immediate budget needed.",
+      "style": "Final affirmation. Calm closure — problem acknowledged, solution in place. Slight exhale of completion. Professional finality.",
+      "mood": "resolute"
+    }
+  ]
+}

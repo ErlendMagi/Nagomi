@@ -1,0 +1,76 @@
+{
+  "id": "conv_01381",
+  "context": "Saito and Ryosuke have a careful talk.",
+  "purpose": "doctor-patient careful-talk exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_069)",
+    "generated_at": "2026-05-27T05:26:46.126Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "亮介さん、健康、本当、保てる、ね。",
+      "en": "Ryosuke-san, you've really been able to maintain your health.",
+      "style": "Warm, measured opening. Gentle certainty—not reassurance, observation. Slight lift on his name. Composed professional voice with genuine care woven underneath.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当、感謝、本当に。",
+      "en": "I'm truly grateful. Really.",
+      "style": "Soft, sincere. The second repetition feels like it's catching something in his throat—real emotion, not performance. Warm but slightly vulnerable.",
+      "mood": "grateful_moved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、生活、本当に。",
+      "en": "Taking care of your life is what matters.",
+      "style": "Quiet, thoughtful. Not lecturing—almost philosophical, like she's saying something she's learned matters most. Steady breath. Genuine warmth underneath the professional composure.",
+      "mood": "warm_wise"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "相談、本当、いつでも。",
+      "en": "I can reach out anytime, then.",
+      "style": "Gentle question-statement, seeking reassurance and also offering it back. Grateful, slightly hesitant—checking that this door is really open. Warm and present.",
+      "mood": "tender_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、頑張りましょう。",
+      "en": "Let's keep working on this together.",
+      "style": "Warm, collaborative tone. Even weight throughout. Not a closing—an invitation. Her professional steadiness paired with genuine investment. Small pause before 'together.'",
+      "mood": "warm_collaborative"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "感謝、本当、ずっと。",
+      "en": "I'll be grateful to you for a long time.",
+      "style": "Quiet gratitude. Not effusive—deeper than that. The kind of simple statement that carries real weight. Warm, genuine, slightly tender.",
+      "mood": "grateful_deep"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ、本当に。",
+      "en": "The feeling is mutual, truly.",
+      "style": "Closing warmth that's real, not performed. Slight softness on the closing word. Meeting him at his level—not doctor to patient, but person to person.",
+      "mood": "warm_genuine"
+    }
+  ]
+}

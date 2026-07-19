@@ -1,0 +1,79 @@
+{
+  "id": "conv_03446",
+  "context": "A board meeting opens",
+  "purpose": "Open a board meeting; teach 取締役/幹部/当社/既存/民営/法的/解析/自立",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "取締役",
+    "幹部",
+    "当社",
+    "既存",
+    "民営",
+    "法的",
+    "解析",
+    "自立"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_173)",
+    "generated_at": "2026-05-31T21:52:14.762Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取締役会で、今後の方針を決める。",
+      "en": "At the board, we decide future direction.",
+      "style": "commanding boss opening, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "幹部のみなさん、準備はよろしいですか。",
+      "en": "Executives, are you all ready?",
+      "style": "organized manager calling order, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社の業績は、堅調です。",
+      "en": "Our company’s results are solid.",
+      "style": "assistant reporting cleanly, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "既存の事業を整理する必要もある。",
+      "en": "We must also tidy existing businesses.",
+      "style": "boss raising a tough call, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一部の部門の民営化も検討案にあります。",
+      "en": "Privatizing some divisions is in the proposals too.",
+      "style": "manager outlining options, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "法的な手続きは、慎重に進めよう。",
+      "en": "Let’s move carefully on the legal procedures.",
+      "style": "boss urging caution, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "数字の解析結果を、共有します。",
+      "en": "I’ll share the numerical analysis.",
+      "style": "assistant presenting data, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "自立した経営体制を目指しましょう。",
+      "en": "Let’s aim for self-sustaining management.",
+      "style": "manager rallying the vision, each word carrying genuine natural feeling"
+    }
+  ]
+}

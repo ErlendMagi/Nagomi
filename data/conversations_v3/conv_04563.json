@@ -1,0 +1,78 @@
+{
+  "id": "conv_04563",
+  "context": "A police officer briefs a teen reporter on a diplomatic case",
+  "purpose": "Teach: 領土/仲裁/参画/黒字/税率/閣僚/総長/奉仕",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "領土",
+    "仲裁",
+    "参画",
+    "黒字",
+    "税率",
+    "閣僚",
+    "総長",
+    "奉仕"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は記者クラブ向けの定例ブリーフィングだ。複数の話題があるから、順番に説明していくぞ。",
+      "en": "Today's the regular briefing for the press club. There are several topics, so I'll go through them in order.",
+      "style": "Formal officer tone, measured and authoritative opening voice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、よろしくお願いします!まず最初の議題は何ですか?",
+      "en": "Yes, thank you! What's the first topic on the agenda?",
+      "style": "Eager teenage reporter, polite but visibly engaged and curious."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "まず外務省関連だが、隣国との領土問題について、国際仲裁の手続きが正式に始まったそうだ。",
+      "en": "First, on Foreign Ministry matters: international arbitration procedures have officially begun regarding the territorial dispute with the neighboring country.",
+      "style": "Crisp professional explanation, slightly lowered voice for gravity."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "本当ですか?主要閣僚の方々も政策参画されているんでしょうか?",
+      "en": "Really? Are the key cabinet ministers also participating in the policy decisions?",
+      "style": "Surprised teen voice, rising pitch with genuine astonishment."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、官邸主導で動いている。次は財政の話で、地方自治体の予算が今年は黒字化する見込みらしい。",
+      "en": "Yes, it's being led by the PM's office. Next, on finance: local government budgets are expected to turn into the black this year.",
+      "style": "Steady briefing delivery, transitioning topics with practical calm."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、消費税率の引き上げの効果が出始めたんですね。家計にとっては厳しいですけど。",
+      "en": "Oh, so the effects of the consumption tax rate hike are starting to show. Though it's tough on household budgets.",
+      "style": "Thoughtful teen voice, mixing observation with mild personal concern."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだな。最後に我々警察庁の話だが、警察総長が新人研修で奉仕の精神を強調されたそうだ。",
+      "en": "Indeed. Lastly, regarding our National Police Agency: the police commissioner reportedly emphasized the spirit of public service during new recruit training.",
+      "style": "Warm proud tone, returning to home territory with measured pride."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "すごくいい記事になりそうです!三つの切り口で、政府全体の動きが見えてきました。",
+      "en": "This is going to make a great article! With these three angles, I can see the whole government's movements.",
+      "style": "Bright determined teen, ending with confident upward energy."
+    }
+  ]
+}

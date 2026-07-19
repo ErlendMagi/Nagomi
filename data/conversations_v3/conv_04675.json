@@ -1,0 +1,78 @@
+{
+  "id": "conv_04675",
+  "context": "A retired official talks to a uni reporter about civic life",
+  "purpose": "Teach: 増税/喪失/上陸/遺体/寺院/決着/住人/渡り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "増税",
+    "喪失",
+    "上陸",
+    "遺体",
+    "寺院",
+    "決着",
+    "住人",
+    "渡り"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_235 workflow wz4i8nuk5)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。市民生活について率直なお話を伺えればと思います。",
+      "en": "Thank you for your time today. I'd like to hear your honest thoughts on civic life.",
+      "style": "Polite student reporter opening the interview respectfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、構わんよ。最近の若い記者さんは熱心だね。何でも聞きなさい。",
+      "en": "Sure, I don't mind. Young reporters these days are dedicated. Ask me anything.",
+      "style": "Warm elderly tone, encouraging and slightly paternal in delivery."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "では早速ですが、来年予定されている増税について、町の住人の方々はどう受け止めているのでしょうか。",
+      "en": "Right away then, how are the town's residents taking the tax hike planned for next year?",
+      "style": "Direct journalistic question with formal sentence structure."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "正直に言えば、皆、行政への信頼の喪失を感じておる。十分な説明もなく決着をつけられた印象が強くてな。",
+      "en": "Honestly speaking, everyone feels a loss of trust in the administration. It feels like the matter was settled without enough explanation.",
+      "style": "Reflective elder speech with archaic verb endings like おる."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。先月、台風が上陸した際の避難所運営でも、行政への不満の声があったと聞きました。",
+      "en": "I see. I heard there were also complaints toward the administration over the shelter operations when the typhoon hit last month.",
+      "style": "Probing follow-up referencing recent local events thoughtfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、あの時は避難所が足りず、近所の寺院の渡り廊下まで毛布を並べてな。お年寄りが何人も体調を崩したよ。",
+      "en": "Ah, at that time the shelters weren't enough, so we lined blankets all the way down the connecting corridor of the nearby temple. Several elderly folks fell ill.",
+      "style": "Somber recollection delivered with quiet, weighted gravity."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうでしたか…。現場を知る方の言葉は、本当に重く響きます。遺体は出なかったとはいえ、紙一重の状況だったのですね。",
+      "en": "Was that so... The words of someone who knows the scene really carry weight. Although there were no fatalities, it sounds like it was a very close call.",
+      "style": "Subdued student reaction acknowledging the severity with care."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ、紙一重だった。だからこそ、君ら若い世代が声を上げてくれんとな。記事、しっかり書いてくれよ。",
+      "en": "Indeed, a close call. That's exactly why your younger generation needs to raise their voices. Write a solid article, alright?",
+      "style": "Encouraging closing remark with gentle generational appeal."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06143",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 腰痛/謝っ/微笑/寝よ/ほのか/凄かっ/冬場/軽やか",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "腰痛",
+    "謝っ",
+    "微笑",
+    "寝よ",
+    "ほのか",
+    "凄かっ",
+    "冬場",
+    "軽やか"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_309 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さん、腰痛で、運動会、来られないかも。",
+      "en": "Mom, Dad — his back is really hurting. He might not be able to come to sports day.",
+      "style": "Hesitant onset. Quiet, careful tone — worried about upsetting her. Slow delivery. Trails off slightly at the end, like he's checking her face as he speaks.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "明日、お友達に、ちゃんと謝っておいてね。",
+      "en": "Tomorrow, make sure you apologize to your friend properly, okay?",
+      "style": "Steady, gentle. No edge — just direct kindness. Slight maternal warmth on the reassurance. Short, clear phrasing.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママの微笑、温かいんだ。",
+      "en": "Your smile is so warm, Mom.",
+      "style": "Small, genuine wonder in the voice. Quiet observation rather than performance. Soft, sincere — he's noticing something true in this moment.",
+      "mood": "comforted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もう、寝ようかね、いい子だね。",
+      "en": "Come on, let's get you to bed. You're a good child.",
+      "style": "Soft, affectionate closing. No urgency. Slight sing-song lilt on 'good child' — the kind of phrase a mother uses that kids remember. Quiet fadeout.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お風呂、ほのかな桜の香りがしたよ。",
+      "en": "The bath smelled faintly of cherry blossoms.",
+      "style": "Small, genuine delight. Soft but alert — he's noticing sensory details. Light pace. Quiet appreciation, not exclamation.",
+      "mood": "contentment"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "昨日の花火、凄かったわね。",
+      "en": "Yesterday's fireworks were really something, weren't they?",
+      "style": "Reflective, slightly wistful. Warm tone but a bit distant — remembering. Gentle lilt on the question tag. No hurry.",
+      "mood": "nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "冬場、寒すぎて、雪、苦手。",
+      "en": "Winter's too cold. I'm not good with snow.",
+      "style": "Matter-of-fact with a thread of mild complaint. Light, self-aware humor underneath — not quite resigned. Steady pace.",
+      "mood": "reluctant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "軽やかな足取りで、明日、頑張ろうね。",
+      "en": "Light on your feet tomorrow — let's do our best together.",
+      "style": "Encouraging but not pushy. Warm, confident tone. Slight lift on 'our best' — including him, not pushing him alone. Gentle close.",
+      "mood": "supportive"
+    }
+  ]
+}

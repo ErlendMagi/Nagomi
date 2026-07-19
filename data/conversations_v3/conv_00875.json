@@ -1,0 +1,76 @@
+{
+  "id": "conv_00875",
+  "context": "Dr. Saito reassures Mei about Hikari's weight rate.",
+  "purpose": "doctor-mother baby-weight exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "率",
+    "健康",
+    "相談",
+    "一緒",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、ひかり、体重、心配です。",
+      "en": "Doctor, I'm worried about Hikari's weight.",
+      "style": "Soft opening, vulnerable and careful. Warm but underneath it, real concern. A slight pause before the weight concern — like she's gathering courage to voice it. Low register, intimate.",
+      "mood": "worried_tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "増加率、見ますね。",
+      "en": "Let me look at the rate of increase.",
+      "style": "Professional but unhurried. Steady, reassuring tone — the voice of someone who's heard this worry before and knows how to hold it gently. Clear-eyed, no false cheerfulness.",
+      "mood": "calm_professional"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "少ない、感じます。",
+      "en": "It feels so slight to me.",
+      "style": "Hesitant, self-doubting. The words come quietly, like she's admitting something she's been turning over in her own mind. Trailing into uncertainty — seeking confirmation.",
+      "mood": "anxious_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、問題ありません、安心して。",
+      "en": "There's no health concern. You can relax.",
+      "style": "Direct but warm. The reassurance lands firmly, but delivered without rush. Her composure is the message — this is not something to worry about. Gentle anchor in her voice.",
+      "mood": "reassuring_steady"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ああ、良かった。",
+      "en": "Oh — I'm so relieved.",
+      "style": "A genuine exhale. The tension breaks. A small, quiet sound of relief — not performative, just the truth of her shoulders lowering. Grateful warmth floods back in.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配なら、いつでも、相談してね。",
+      "en": "If you're ever worried again, come talk to me anytime.",
+      "style": "An open invitation, spoken with quiet generosity. No rush in the delivery. The kind of sentence that lets someone know they won't be a burden. Warm and steady.",
+      "mood": "kind_open"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとう、心強いです。",
+      "en": "Thank you. That's really reassuring.",
+      "style": "Sincere, warm close. Her voice settles — the reassurance has landed. Grateful but also quieter now, softer. Like she's storing this feeling away to return to later.",
+      "mood": "grateful_settled"
+    }
+  ]
+}

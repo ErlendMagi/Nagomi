@@ -1,0 +1,61 @@
+{
+  "id": "conv_01653",
+  "context": "Kenji takes Aoi shopping for new glasses; gentle banter at the optician.",
+  "purpose": "Couple sharing a small everyday errand together.",
+  "ambient": "optician_shop_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "眼鏡",
+    "形",
+    "顔",
+    "似合う"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "この眼鏡、変じゃない?",
+      "en": "Do these glasses look weird on me?",
+      "style": "Soft, self-conscious lift in the question. A hesitant smile in the voice. Looking to him without fully committing to the question. Warm but genuinely uncertain.",
+      "mood": "self_conscious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いや、ほんま似合ってる。",
+      "en": "No — they really suit you.",
+      "style": "Immediate and sincere reassurance. Warm Kansai lilt on 「ほんま」. Not flattering her — just stating a fact he sees clearly. Steady, unperformed.",
+      "mood": "genuine"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "形、もう少し丸い方がいい?",
+      "en": "Should I go rounder instead?",
+      "style": "Quiet testing. She's giving him another chance to be honest. Gentle uncertainty — not fishing for compliments but genuinely open to his opinion. Soft trailing lilt.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "顔に合ってるで、これで。",
+      "en": "They suit your face — stick with these.",
+      "style": "Warm conviction without being pushy. Light emphasis on 「これで」. The confidence of someone who means what he says. Still gentle, but grounded.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "じゃあ、これに決める。",
+      "en": "Okay — I'm going with these then.",
+      "style": "Quiet relief and gratitude. A small brightness at the end, like a decision settling into place. Warm finality without closure — this moment between them matters.",
+      "mood": "relieved"
+    }
+  ]
+}

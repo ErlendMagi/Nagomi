@@ -1,0 +1,127 @@
+{
+  "id": "conv_00030",
+  "context": "A community centre in Kobe. Sachiko (Tokyo, visiting her sister-in-law for the week) finds herself at the local elder coffee morning, sitting next to Yoshie Mori, who already runs the room.",
+  "purpose": "gossip + relationship maintenance — two elders comparing notes across regions",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "元気",
+    "今",
+    "家族",
+    "一人",
+    "時間",
+    "大変",
+    "嬉しい"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、東京の方やね？",
+      "en": "Oh — you're from Tokyo, are you?",
+      "style": "Immediate and loud, no warm-up. Kansai directness claiming territory through a question. Opening attack strikes fast.",
+      "mood": "curious_assertive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "はい、はじめまして…さちこと申します。",
+      "en": "Yes — pleased to meet you. I'm Sachiko.",
+      "style": "Soft, formal, the careful precision of older Tokyo speech. Internal bow in the voice, weight on each syllable.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "よしえや。座って座って。お茶飲み。",
+      "en": "Yoshie. Sit, sit. Have tea.",
+      "style": "Three commands wrapped as hospitality. Brisk, cheerful. Physically guiding — she's already pulling out the chair.",
+      "mood": "warm_commanding"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Gratitude lives in the voice like a bow. Touched but slightly swept up — a gentle steamroller at work.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ご家族で来とるんか？",
+      "en": "Your family come with you?",
+      "style": "No preamble, mid-pour. Straightforward, friendly. The intel-gathering begins without pretense.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いえ、義妹のところに、一人で。",
+      "en": "No — just to my sister-in-law's, on my own.",
+      "style": "Quiet, composed. The 「一人で」 lands with small but genuine weight — traveling alone at her age matters.",
+      "mood": "solitary_dignified"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "一人で偉いなあ。元気やん。",
+      "en": "On your own — that's impressive. You've got spirit.",
+      "style": "Genuine warmth, no calculation. Slight upward lift on the compliment. Recognition and approval in the same breath.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "あ、ありがとうございます…年取ったら、移動は大変で。",
+      "en": "Oh — thank you… once you get older, travel gets so hard.",
+      "style": "Small, real laugh threading through. Softens the formal register slightly. Drops a step toward companionship.",
+      "mood": "wry_grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ほんまほんま。膝な、もう。",
+      "en": "Tell me about it. The knees — finished.",
+      "style": "Taps her own knee in the voice. Two bodies recognizing each other instantly. Brisk Kansai humor.",
+      "mood": "commiserating"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "あ、私もです。階段がね…",
+      "en": "Oh, mine too. The stairs, you know…",
+      "style": "Trails into a small, shared laugh. Door fully open now. Warmth underneath, no walls left.",
+      "mood": "warm_relieved"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "やろ？でもな、家にこもっとっても、ろくなことないわ。",
+      "en": "Exactly. But sitting at home all day — nothing good comes of that.",
+      "style": "Philosophy delivered as gossip. Kansai briskness. Practical wisdom, not lecture.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に、その通りで。",
+      "en": "Truly — exactly right.",
+      "style": "Soft genuine agreement. The opening word unforced, natural. Two people understanding each other completely.",
+      "mood": "content"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "今度、また来た時、寄り。お茶あるで、いつでも。",
+      "en": "Next time you're here — stop by. Tea, anytime.",
+      "style": "An invitation that also plants a flag. Generous but territorial in the warmest way. A small claim of friendship.",
+      "mood": "warm_generous"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがとうございます。本当に、嬉しいです。",
+      "en": "Thank you. Really — I'm so glad.",
+      "style": "The closing word cracks the formal register open; sincere. Bow lives in the voice. Genuine relief at being welcomed.",
+      "mood": "moved_grateful"
+    }
+  ]
+}

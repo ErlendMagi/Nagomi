@@ -1,0 +1,67 @@
+{
+  "id": "conv_00041",
+  "context": "The apartment-building entrance, late afternoon. Mrs. Mori catches Riku coming home with a hair colour he very much didn't have yesterday.",
+  "purpose": "neighbourhood observation — affectionate prying that Riku can't escape",
+  "ambient": "apartment_hallway",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "見る",
+    "ない"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "riku_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、リクくん、髪、変わった？",
+      "en": "Oh — Riku-kun, did your hair change?",
+      "style": "Voice spikes. Mid-volume Kansai. Has been waiting at the gate.",
+      "mood": "pouncing_warm"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…あ、はい。",
+      "en": "…Oh, yeah.",
+      "style": "Caught in mid-step. Mumbled. Pulls his hood up half-instinctively in the voice.",
+      "mood": "caught_mumbled"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お母さん、見たんか、それ？",
+      "en": "Has your mom seen that yet?",
+      "style": "A question that is half a forecast. Eyes narrowed in the voice.",
+      "mood": "forecasting"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…まだ。",
+      "en": "…Not yet.",
+      "style": "One word. A whole near-future visible in it.",
+      "mood": "admitting_doom"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ。今日、覚悟しときや。",
+      "en": "Heh. Brace yourself for today.",
+      "style": "A small laugh. Affectionate, mock-warning to the kid.",
+      "mood": "affectionate_warning"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(half-laugh)はい。",
+      "en": "(half-laugh) Yeah.",
+      "style": "A real laugh, brief. The neighbourhood-aunt energy got him.",
+      "mood": "broken_briefly"
+    }
+  ]
+}

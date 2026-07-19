@@ -1,0 +1,86 @@
+{
+  "id": "conv_06541",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 左利き/つまん/シャイ/へー/かくして/戸惑っ/うっとり/噛む",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "左利き",
+    "つまん",
+    "シャイ",
+    "へー",
+    "かくして",
+    "戸惑っ",
+    "うっとり",
+    "噛む"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_329 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、左利きかなあ?",
+      "en": "Mom, am I left-handed?",
+      "style": "Small, genuine question. Unselfconscious curiosity. Looks up from what he's doing. No demand in it — just wondering out loud.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、つまんないとか言わずに、お絵描き、続けてね。",
+      "en": "Mmm, and don't say it's boring — just keep drawing.",
+      "style": "Gentle redirect. Not scolding. A soft anchor back to the task, said while she's watching him work. Warm with it.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、シャイで、声、小さいよね。",
+      "en": "Dad's kind of shy, isn't he. Has a quiet voice.",
+      "style": "Matter-of-fact observation, almost thoughtful. Not criticism — just noticing something about the way things are. Pause between the two parts, like he's checking his own words.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "へー、よく観察してるのね。",
+      "en": "Oh, you really do notice things, don't you.",
+      "style": "Pleased recognition. Said with genuine warmth, not patronising. A small smile in the voice — she likes being seen noticing him noticing.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お友達、引っ越して、かくして寂しくなったよ。",
+      "en": "My friend moved away, and now I feel sad.",
+      "style": "Quiet statement of fact. Vulnerability without performance. Simple, aching sincerity. Voice getting smaller toward the end.",
+      "mood": "lonely"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、初めての場所では、戸惑ったね、最初。",
+      "en": "Yes, and at the beginning, new places confused you, didn't they.",
+      "style": "Soft recognition. Not fixing it — just acknowledging he's been through this before. Patient, knowing. Voice stays steady and warm.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夜空の星、うっとりするね、ママ。",
+      "en": "Mom, the stars in the night sky — they make me feel so enchanted.",
+      "style": "Wonder-struck, almost breathless. Voice opens up toward the stars. Slow, savouring each word. Reaching for the feeling and finding it as he speaks.",
+      "mood": "awestruck"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "よく噛む子は、頭、よくなるんだって。",
+      "en": "Kids who chew well grow smarter, they say.",
+      "style": "Gentle, practical wisdom shared aloud. Not lecturing — just a thought she's passing along while they're together. Warm, almost conspiratorial, like a small secret about how the world works.",
+      "mood": "warm_knowing"
+    }
+  ]
+}

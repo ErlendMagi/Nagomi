@@ -1,0 +1,78 @@
+{
+  "id": "conv_04246",
+  "context": "A student journalist interviews a senior IT manager about user habits",
+  "purpose": "Teach: メカニズム/タッチ/回線/ドット/サブ/ロング/アップル/テクニック",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メカニズム",
+    "タッチ",
+    "回線",
+    "ドット",
+    "サブ",
+    "ロング",
+    "アップル",
+    "テクニック"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。最近のユーザー行動のメカニズムについて伺いたいのですが。",
+      "en": "Thank you for your time today. I'd like to ask about the mechanisms behind recent user behavior.",
+      "style": "Polite formal interview opening with respectful tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、どうぞ。最近はスマホのタッチ操作に慣れすぎて、PCを使えない若者が増えていますね。",
+      "en": "Yes, please go ahead. Lately more young people can't use PCs because they're too used to smartphone touch operations.",
+      "style": "Measured professional tone with slight concern about generational trends"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。光回線の普及で、常時接続が当たり前になった影響もあるのでしょうか。",
+      "en": "I see. Could this also be due to the spread of fiber-optic lines making constant connections the norm?",
+      "style": "Curious analytical follow-up question by journalist"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大いにあると思います。常時オンラインだからこそ、ドット絵の古いゲームより、サブスク型の動画サービスを選ぶ若者が多いんですよ。",
+      "en": "Very much so. Precisely because they're always online, many young people choose subscription video services over old pixel-art games.",
+      "style": "Thoughtful generational analysis bridging connectivity to consumption habits"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "アップル製品のユーザーは特にその傾向が強いと聞きますが、本当ですか。",
+      "en": "I've heard Apple product users especially show that tendency. Is that true?",
+      "style": "Probing follow-up referencing specific brand demographics"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね。彼らはロングスパンで同じエコシステムを使い続ける傾向があります。",
+      "en": "That's right. They tend to keep using the same ecosystem over a long span of time.",
+      "style": "Confirming professional answer with natural ecosystem terminology"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場で社員のITスキルを上げるための、何か特別なテクニックはありますか。",
+      "en": "Are there any special techniques you use to improve your employees' IT skills on the ground?",
+      "style": "Direct practical question seeking actionable managerial insight"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "小さな成功体験を積ませることですね。それが結局、一番確実な方法だと感じています。",
+      "en": "Letting them accumulate small successes. In the end, I feel that's the most reliable method.",
+      "style": "Reflective closing wisdom from experienced manager"
+    }
+  ]
+}

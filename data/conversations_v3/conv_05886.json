@@ -1,0 +1,65 @@
+{
+  "id": "conv_05886",
+  "context": "A boss reviews investor relations",
+  "purpose": "Teach: （株）/小生/亭/竹中/ニッポン放送/世田谷/キャピタル/人組",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "（株）",
+    "小生",
+    "亭",
+    "竹中",
+    "ニッポン放送",
+    "世田谷",
+    "キャピタル",
+    "人組"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_296 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "四半期報告、小生の名で送る前に、書類を確認させてくれ。",
+      "en": "Before I send the quarterly report under my name, let me review the documents.",
+      "style": "Measured, authoritative opening. Direct eye contact. Methodical pace without rush. The quiet expectation of compliance with no need to raise the voice.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。表紙、サムライ亭での懇親会写真、入れています。",
+      "en": "Yes. The cover includes a photo from the Samurai-tei reception.",
+      "style": "Steady, attentive delivery. No inflection of opinion — just confirmation of task completion. Slight forward lean showing readiness for the next instruction.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "竹中代議士のコメント、ニッポン放送で流れた音源も、参照しろ。",
+      "en": "Also reference MP Takenaka's comment and the Nippon Hoso audio clip.",
+      "style": "Crisp directive. Light emphasis on each item. No negotiation in the tone — ordering, not suggesting. Brief pause between elements for clarity.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本社（株）の世田谷オフィス、案内文に明記しました。",
+      "en": "The Setagaya office address is clearly noted in the invitation.",
+      "style": "Calm confirmation. Even delivery showing the task is done without drama. Slight nod embedded in the voice — moving forward.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "キャピタル経由の資金、3人組の役員でしっかり管理を。",
+      "en": "Funds routed through Capital — the three-officer team needs to keep a tight grip on the management of it.",
+      "style": "Firm, concluding weight. Deliberate pacing on the final instruction. Embedded warning without harshness. The tone of someone closing a door, not opening one.",
+      "mood": "resolute"
+    }
+  ]
+}

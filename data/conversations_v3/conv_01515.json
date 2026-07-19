@@ -1,0 +1,75 @@
+{
+  "id": "conv_01515",
+  "context": "Asuka brings her class to a small museum; explaining quietly to a student.",
+  "purpose": "Teacher patiently explaining cultural concept to curious student.",
+  "ambient": "museum_quiet_floor",
+  "sound_effects": [],
+  "target_vocab": [
+    "博物館",
+    "歴史",
+    "展示",
+    "解説"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "先生、この展示、何ですか?",
+      "en": "Teacher — what is this exhibit?",
+      "style": "Bright, curious opening. Quick uptake on the question. Eager to know but respectful of the setting. Eyes tracking the display, then back to the teacher's face.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "古い農具よ、明治時代のね。",
+      "en": "Old farm tools — from the Meiji era.",
+      "style": "Patient, informative. Gentle gaze toward the display. Warm authority without lecturing. Slight pause before 「明治時代」, letting Hina absorb the time frame.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "こんなで、農作業できたんですか?",
+      "en": "They could actually farm with these?",
+      "style": "Genuine surprise underneath. Leaning in slightly, examining the tools more closely now. Tone lifted with wonder, not disbelief — asking the question she already thinks she knows the answer to.",
+      "mood": "amazed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、解説の通り、工夫が見える。",
+      "en": "Yes — look how clever the design is, just like the label explains.",
+      "style": "Affirming nod. Pointing gently toward the caption. Warm confirmation that Hina's instinct is right. Steady, encouraging tone that invites her to look deeper.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "昔の人、すごいですね。",
+      "en": "People back then were really something.",
+      "style": "Soft reverence. Moment of genuine appreciation. Slower pace, almost thoughtful. The kind of small awe you feel standing in front of old things.",
+      "mood": "reverent"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、歴史から学べる。",
+      "en": "Mm — that's why history matters. We learn from them.",
+      "style": "Quiet wisdom. Reflective but not distant. Speaking to Hina as someone worth thinking alongside. Unhurried, genuine.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "もっと見たいです!",
+      "en": "Can we see more of it?",
+      "style": "Bright energy returning. Forward momentum. Genuine excitement but phrased as a request — she's been watching the teacher's lead all along. Eager but still polite.",
+      "mood": "eager"
+    }
+  ]
+}

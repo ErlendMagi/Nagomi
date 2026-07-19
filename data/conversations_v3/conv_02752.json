@@ -1,0 +1,75 @@
+{
+  "id": "conv_02752",
+  "context": "Hiroshi-boss reviews a schedule with Ren.",
+  "purpose": "WIDENED SCENARIO: business scheduling; vocabulary (先ほど/時刻/とおり/午前/前回) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "先ほど",
+    "時刻",
+    "とおり",
+    "午前",
+    "前回"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_138)",
+    "generated_at": "2026-05-29T14:04:51.307Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先ほどの件は、どうなったかね?",
+      "en": "How did the matter from earlier go?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "前回の予定どおり、進んでいます。",
+      "en": "It's going as last time's schedule.",
+      "style": "reliable young manager voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "訪問の時刻は、いつかね?",
+      "en": "When is the visit time?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "午前十一時の予定です。",
+      "en": "It's scheduled for 11 a.m.",
+      "style": "precise young manager voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先ほど、先方から連絡はあったかね?",
+      "en": "Did the other party contact us earlier?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、予定どおりだと先ほど確認しました。",
+      "en": "Yes, I confirmed just now it's as scheduled.",
+      "style": "confident young manager voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "前回より、早く着くようにな。",
+      "en": "Arrive earlier than last time.",
+      "style": "firm boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "午前のうちに、向かいます。",
+      "en": "I'll head over in the morning.",
+      "style": "resolved young manager voice, soft warm closing throughout"
+    }
+  ]
+}

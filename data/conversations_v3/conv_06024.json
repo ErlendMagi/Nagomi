@@ -1,0 +1,86 @@
+{
+  "id": "conv_06024",
+  "context": "A mom and son spend a quiet day",
+  "purpose": "Teach: まったり/でかけ/ご機嫌/困ら/頑固/恨み/不器用/留守番",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "まったり",
+    "でかけ",
+    "ご機嫌",
+    "困ら",
+    "頑固",
+    "恨み",
+    "不器用",
+    "留守番"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_303 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日は、家でまったりしたいな。",
+      "en": "Mom, today I want to just stay home and relax.",
+      "style": "Soft, hesitant opening. Quiet voice with gentle curiosity. Ends on a hopeful lilt, asking permission without demanding it.",
+      "mood": "gentle_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お父さん、でかけてるから、二人でね。",
+      "en": "Sure. Dad's out, so it'll be just us two.",
+      "style": "Warm reassurance, almost to herself. Slight nod in the voice. Steady and grounding, like she's already settling into the quiet.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "犬、ご機嫌で走り回ってる。",
+      "en": "The dog's running around everywhere super happy.",
+      "style": "Quick, bright observation. Light energy lifting on the word 'happy'. Alert tone like he's noticing something small and pleased by it.",
+      "mood": "observant_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達を困らせないこと、できた?",
+      "en": "You made sure not to cause trouble for your friends, right?",
+      "style": "Gentle check-in, not interrogation. Patient pause after the question, genuinely curious about the answer. Warm but attentive.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。でも、ある子、頑固で、譲ってくれなかった。",
+      "en": "Yeah. But there was one kid who was really stubborn — wouldn't share.",
+      "style": "Quiet deflation in the voice. Matter-of-fact about it, but with an edge of hurt underneath. Short sentences. Acceptance mixed with small disappointment.",
+      "mood": "resigned_slight_hurt"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "相手を恨みじゃなくて、優しく言葉で伝えてね。",
+      "en": "Next time, tell them kindly with your words — not anger.",
+      "style": "Gentle wisdom delivered without preaching. Soft emphasis on 'kindly' and 'words'. A mother's patience that knows he's trying. Tender but clear.",
+      "mood": "tender_guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "僕、ちょっと不器用で、すぐ言えなくて。",
+      "en": "I'm not really good at that — I can't say it fast enough.",
+      "style": "Self-conscious admission. Hesitant pace with a slight catch in his voice. Vulnerable without asking for pity. The quiet shame of six-year-old self-awareness.",
+      "mood": "vulnerable_self_doubt"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今度、留守番できたら、ご褒美ね。",
+      "en": "Next time you do a good job staying home — you'll get a special treat.",
+      "style": "Warm promise delivered with a smile in her voice. Encouraging lift at the end. A small reward tucked into future, not punishment for past.",
+      "mood": "warm_encouraging"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "conv_00292",
+  "context": "Ren stops at the koban to report a lost item from a friend who couldn't come.",
+  "purpose": "small civic kindness — young adult interfacing with the police on behalf of someone",
+  "ambient": "koban_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "届け",
+    "友達",
+    "なくす",
+    "時計",
+    "助かる"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_015)",
+    "generated_at": "2026-05-26T20:40:58.862Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すいません、友達が時計を失くしたみたいで。",
+      "en": "Excuse me, my friend lost a watch, it seems.",
+      "style": "University student warm casual civic-respectful opener, the soft real real-engagement audible, gentle real warmth throughout delivery.",
+      "mood": "casually-civic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どんな時計ですか。",
+      "en": "Yes, what kind of watch?",
+      "style": "Officer warm professional steady receiving inquiry, the soft real real-attention audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "銀色の、革ベルトのです。駅で失くしたって。",
+      "en": "Silver, with leather strap. Lost at the station.",
+      "style": "University student warm careful detailed sharing, the soft real real-helpful audible, gentle real warmth throughout delivery.",
+      "mood": "carefully-detailed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "一応、届け出しときます。届くこと多いですよ。",
+      "en": "I'll register it just in case. Often turns up.",
+      "style": "Officer warm professional gentle reassuring useful, the soft real real-public-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "マジ助かります。連絡先、書きます。",
+      "en": "Really saves us. I'll write contact info.",
+      "style": "University student warm sincere casual grateful committed, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "見つかったら、すぐご連絡しますね。",
+      "en": "If found, I'll contact you right away.",
+      "style": "Officer warm gentle generous extending closing, the soft real real-civic-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-extending"
+    }
+  ]
+}

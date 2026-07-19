@@ -1,0 +1,78 @@
+{
+  "id": "conv_03966",
+  "context": "A boss announces an office relocation plan to his manager",
+  "purpose": "Teach: 引越し/倉庫/拠点/敷地/保管/申告/在宅/移住",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引越し",
+    "倉庫",
+    "拠点",
+    "敷地",
+    "保管",
+    "申告",
+    "在宅",
+    "移住"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_200 workflow wgxyoqgbc)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は来月、本社の引越しを正式に進めることになった。",
+      "en": "Actually, next month we'll officially proceed with the head office relocation.",
+      "style": "Authoritative announcement, measured pace, deliberate tone with weight"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ついにですか。新しい拠点はどちらに構える予定でしょうか。",
+      "en": "At last. Where are we planning to establish the new base?",
+      "style": "Polite surprise with respectful upward register and slight excitement"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "横浜だ。敷地が今より三倍広くて、駐車場も十分ある。",
+      "en": "Yokohama. The premises are three times larger, with ample parking.",
+      "style": "Matter-of-fact delivery, confident, briefing-style cadence, tone matching the moment with quiet honesty"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは助かります。古い書類の保管場所にずっと困っていましたから。",
+      "en": "That's a relief. We've long struggled with storage for old documents.",
+      "style": "Genuine relief, conversational warmth, mid-level politeness"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。隣接する倉庫も借りられるから、資料は全部そこに移す。",
+      "en": "Right. We can lease the adjacent warehouse, so all materials go there.",
+      "style": "Crisp executive tone, practical, slight nod of satisfaction"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "税務申告の関係で、住所変更の手続きも早めに動きます。",
+      "en": "I'll start the address change paperwork early, due to tax filing concerns.",
+      "style": "Diligent middle-manager mode, businesslike, anticipating logistics"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。それから、希望者には在宅勤務の継続も認める方針だ。",
+      "en": "Please do. Also, employees who wish may continue working from home.",
+      "style": "Considerate leadership tone, slightly softer, policy-explaining register"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがたいです。遠方へ移住した社員も安心できますね。",
+      "en": "How thoughtful. Even staff who relocated far away can feel reassured.",
+      "style": "Warm appreciation, sincere, slightly relieved sigh in voice"
+    }
+  ]
+}

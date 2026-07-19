@@ -1,0 +1,86 @@
+{
+  "id": "conv_08554",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 講和/反米/布告/監禁/仮処分/歪曲/流布/招集",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "講和",
+    "反米",
+    "布告",
+    "監禁",
+    "仮処分",
+    "歪曲",
+    "流布",
+    "招集"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_429 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、戦後の講和条約後の医療復興史を医療チームで参考にしております",
+      "en": "Ren — we're using postwar medical recovery after the peace treaty as a reference point in our team's work.",
+      "style": "Clear, measured opening. Clinical but not cold. Speaking to a student with respect. Steady eye contact, deliberate pacing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、反米感情で医療支援が遅れた地域の研究を医療チームで参照しております",
+      "en": "Yes — we're studying regions where anti-American sentiment delayed medical aid. It's part of our team's research.",
+      "style": "Patient continuation. Slightly slower than the first line, allowing time for absorption. No condescension, just care in the delivery.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症の警告を医療チームから布告されたんですね、先生",
+      "en": "So the medical team issued warnings about infectious disease outbreaks, then?",
+      "style": "Quiet curiosity, not quite a question. Tentative, searching for confirmation. Respectful address with 'sensei.' Slightly hesitant onset.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、不当監禁による精神被害の治療を医療チームで担当します",
+      "en": "Yes — our team is handling the mental health treatment for those affected by wrongful detention.",
+      "style": "Steady and direct. A serious statement delivered without flourish. Compassion embedded in the clinical tone, not performed.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療訴訟の仮処分を、貴院、申請されたんですね、先生",
+      "en": "So your hospital filed for a preliminary injunction in the medical malpractice case?",
+      "style": "Reflective, piecing something together aloud. Respectful but more confident now. Checking understanding rather than asking permission to know.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、症例の歪曲報道に医療チームで反論します",
+      "en": "Yes — our team is preparing a formal rebuttal to the distorted reporting of the case details.",
+      "style": "Patient but with a thread of resolve. Not defensive, but steady. The voice of someone protecting her team's integrity without dramatizing it.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療情報の流布元の確認を、貴院、なさったんですね、先生",
+      "en": "Your hospital did trace the source of that leaked medical information, then?",
+      "style": "Reflective, grown more assured. Connecting dots with quiet certainty. Still respectful, but the dynamic has shifted slightly toward peer-level engagement.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、緊急医療チームの招集体制を強化しております",
+      "en": "Yes — we're strengthening the emergency response team's coordination and dispatch protocols.",
+      "style": "Quiet finality. The last piece of a measured explanation. Breath held briefly before 'strengthening,' then released with understated commitment.",
+      "mood": "determined"
+    }
+  ]
+}

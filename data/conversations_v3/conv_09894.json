@@ -1,0 +1,86 @@
+{
+  "id": "conv_09894",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 農政/国民党/生育/深層/重度/照射/同和/音程",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "農政",
+    "国民党",
+    "生育",
+    "深層",
+    "重度",
+    "照射",
+    "同和",
+    "音程"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_496 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、農政の地域医療への影響を医療チームで分析します",
+      "en": "Ren, we analyze the impact of agricultural policy on local healthcare delivery as a medical team.",
+      "style": "Clear, direct opening. Steady, informative tone. Professional but not distant. Even pacing, no hesitation — this is assured clinical ground.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、台湾の国民党時代の医療事情を医療チームで学びます",
+      "en": "Yes, we study healthcare during the KMT era in Taiwan as a medical team.",
+      "style": "Measured confirmation. Slight pause after the opening. Warm underlying patience — meeting him where he is. Clinical interest, not lecturing.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、子どもの生育健診を医療チームで担当します",
+      "en": "Ren, child development screening falls under our medical team's responsibility.",
+      "style": "Same clarity as the first line. Professional assertion delivered without weight or pressure. Straightforward, grounded.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、深層心理療法を医療チームで提供します",
+      "en": "Yes, we provide depth-oriented psychological therapy as part of our medical team's approach.",
+      "style": "Calm affirmation. Slight lift on 'depth-oriented' — precision matters here. Patient, not hastened. The kind of yes that invites follow-up.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "重度の認知症患者を、貴院、診られますね、先生",
+      "en": "You do see severe dementia patients here at your hospital, don't you, Doctor?",
+      "style": "Polite inquiry with a soft underlying question beneath it. Respectful distance maintained — 'your hospital' as gentle inquiry, not challenge. Thoughtful pacing.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、放射線照射量を医療チームで厳密管理します",
+      "en": "Yes, we manage radiation dose exposure with strict precision as a medical team.",
+      "style": "Firm on 'strict precision' — this is non-negotiable ground. Professional without coldness. Clarity and care holding equal weight.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "同和地区での医療巡回を、貴院、おこなわれますね、先生",
+      "en": "You do conduct mobile health clinics in Dowa-designated areas through your hospital, don't you, Doctor?",
+      "style": "Same polite structure as line 5. Gentle probing — testing whether they reach beyond the center. Respectful but genuinely seeking. Quiet attentiveness.",
+      "mood": "thoughtful_testing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、術中モニターの音程変化を医療チームで聞き分けます",
+      "en": "Yes, our medical team listens carefully to pitch changes in intraoperative monitoring equipment.",
+      "style": "Precise, almost technical. Close focus — like listening intently to something only the trained ear catches. Patient but sharp. The listening itself is the point.",
+      "mood": "attentive"
+    }
+  ]
+}

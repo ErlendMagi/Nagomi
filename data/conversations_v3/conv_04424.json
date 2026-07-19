@@ -1,0 +1,84 @@
+{
+  "id": "conv_04424",
+  "context": "A boss and his deputy read the morning sports section",
+  "purpose": "Teach: ジダン/ジーコ/サポーター/ベルリン/スコットランド/イングランド/ソウル/ワシントン",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ジダン",
+    "ジーコ",
+    "サポーター",
+    "ベルリン",
+    "スコットランド",
+    "イングランド",
+    "ソウル",
+    "ワシントン"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の一面、サッカー特集で情報満載だな。ベルリンの親善試合、見たか?",
+      "en": "The front page this morning is packed with soccer coverage. Did you catch the friendly in Berlin?",
+      "style": "Boss opening casually with newspaper in hand, relaxed tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、イングランド代表が二対零で勝ちましたね。サポーター席もかなり盛り上がっていたそうです。",
+      "en": "Yes, England won two to nil. The supporters' section was apparently quite lively too.",
+      "style": "Deputy responding with engaged interest, polite workplace register"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "監督の采配が勝利をもたらしたという要約だ。次のスコットランド戦も同じ調子でいけるかな。",
+      "en": "The summary says the manager's tactics brought about the victory. I wonder if they can keep it up against Scotland.",
+      "style": "Boss offering analytical comment, reflective and conversational"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今のイングランドのプレースタイルを見ていると、ジダンの伝説のような華やかさはないですが、堅実ですよね。",
+      "en": "Watching England's current style of play, it lacks the flair of a Zidane legend, but it's solid.",
+      "style": "Deputy musing comparatively, conversational and respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "同感だ。ああいう才能は数ヵ月で生まれる筈もない。私はソウル五輪の頃から欧州サッカーを追っているが、本物の天才は一世代に一人だな。",
+      "en": "I agree. That kind of talent can't possibly emerge in a few months. I've followed European football since the Seoul Olympics, but a true genius comes once a generation.",
+      "style": "Boss speaking with veteran's authority, slightly nostalgic and warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そういえば下の段に、ブラジル代表の特集も載っていますよ。ジーコの教えを受けた世代が、今度は指導者側で結果を生み出しているそうです。",
+      "en": "Speaking of which, there's a Brazil feature in the lower section. The generation taught by Zico is apparently now producing results as coaches themselves.",
+      "style": "Deputy pointing to another article, naturally bridging topics"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "面白いな。あと、こっちのワシントン発の記事、米国のクラブが監督交代の云々で公式謝罪を出したらしい。ファンのこころにかかわる問題だ。",
+      "en": "Interesting. Also, this article filed from Washington says an American club issued an official apology over the whole manager-replacement business. It really affects the fans' feelings.",
+      "style": "Boss shifting to another article naturally, businesslike but warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "違約金が数百万ポンド規模だとか。前者の試合の話より、実用的な経営の教訓としてはこっちが重いですね。",
+      "en": "The penalty is apparently in the millions of pounds. As a practical management lesson, this matters more than the earlier match story.",
+      "style": "Deputy offering professional assessment, businesslike and thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。今後の展望としては、各クラブが契約に係る規定をもっと整えるべきだろうな。",
+      "en": "Mm. Going forward, each club really ought to tighten up the regulations related to contracts.",
+      "style": "Boss concluding with measured strategic view, reflective close"
+    }
+  ]
+}

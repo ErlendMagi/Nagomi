@@ -1,0 +1,84 @@
+{
+  "id": "conv_05073",
+  "context": "A police officer briefs a uni reporter about a court history",
+  "purpose": "Teach: 浄化/鉱山/過酷/添加/ガード/租税/陪審/懲役",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "浄化",
+    "鉱山",
+    "過酷",
+    "添加",
+    "ガード",
+    "租税",
+    "陪審",
+    "懲役"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は先月の判決についてお話しします。被告は閉山した鉱山の跡地で違法な廃液処理をしていました。",
+      "en": "Today I'll talk about last month's verdict. The defendant was illegally processing wastewater at an abandoned mine site.",
+      "style": "Official briefing tone, polite and measured for an outside reporter"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "鉱山の跡地ですか。住民への健康被害はあったんでしょうか。",
+      "en": "An abandoned mine site? Were there any health impacts on local residents?",
+      "style": "Curious student reporter asking a careful follow-up question"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。本来は浄化装置を稼動させるべきでしたが、コスト削減で停止していたんです。水質基準を大きく超えていました。",
+      "en": "Yes. They should have been running the purification equipment, but shut it off to cut costs. Water quality far exceeded the limits.",
+      "style": "Steady polite delivery, slightly grim about the negligence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ひどいですね。下流の農家や子どもたちへの影響も心配です。",
+      "en": "That's awful. I'm worried about the impact on downstream farmers and children too.",
+      "style": "Empathetic reaction with civic concern from the reporter"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。さらに、現場の作業員にも過酷な労働をさせ、飲料水に違法な添加物まで混ぜていました。",
+      "en": "Exactly. On top of that, they forced harsh labor on the site workers and even mixed illegal additives into the drinking water.",
+      "style": "Disclosing damning details in a controlled professional manner"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "信じられません。会社のガードマンが内部告発を妨害していたという噂は本当ですか。",
+      "en": "Unbelievable. Is it true the company's security guards were obstructing whistleblowers?",
+      "style": "Pressing question driven by sharp journalistic instinct"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "事実です。過去の判例を見ても、租税関連の不正と併発するケースが多く、今回も例外ではありませんでした。",
+      "en": "It is. Looking at past cases, this kind of misconduct often coincides with tax-related fraud, and this one was no exception.",
+      "style": "Plain confirmation broadened to court history context"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "陪審員はどう判断したんですか。世論の関心も高かったと思いますが。",
+      "en": "How did the jury rule? Public interest was running pretty high, I'd imagine.",
+      "style": "Asking about verdict with civic awareness and care"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "全員一致で有罪。社長には懲役八年が言い渡されました。記事を書くなら、被害者の声も忘れないでください。",
+      "en": "Unanimous guilty verdict. The CEO got eight years in prison. When you write your article, please don't forget the victims' voices.",
+      "style": "Closing with weight and a sincere personal request"
+    }
+  ]
+}

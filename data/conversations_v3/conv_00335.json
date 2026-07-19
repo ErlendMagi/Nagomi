@@ -1,0 +1,76 @@
+{
+  "id": "conv_00335",
+  "context": "Yumiko comes alone to ask Dr. Saito about her aging mother's prognosis.",
+  "purpose": "adult-child consulting doctor about aging parent — careful difficult conversation",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "母",
+    "状態",
+    "正直",
+    "無理",
+    "見守る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_017)",
+    "generated_at": "2026-05-26T20:56:05.401Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、母の状態、正直に教えてください。",
+      "en": "Doctor, mother's condition — tell me honestly.",
+      "style": "Maternal warm soft careful brave-asking direct, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "bravely-direct"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、お母さんは、安定しています。でも、ゆっくり進行はしています。",
+      "en": "Yes, she's stable. But the condition slowly progresses.",
+      "style": "Doctor warm professional gentle honest-careful balanced, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "進行は、どのくらいの早さで？",
+      "en": "How quickly does it progress?",
+      "style": "Maternal warm soft brave careful-pushing-real, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "bravely-pushing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "個人差はありますが、数年単位で、変化が出てきます。",
+      "en": "There's variation, but over years, changes appear.",
+      "style": "Doctor warm professional gentle careful-honest specific-clinical, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "carefully-clinical"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "私たち家族で、どう支えたらいいでしょうか。",
+      "en": "How should we, the family, support her?",
+      "style": "Maternal warm soft sincere caring-asking-practical, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-practical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理させない、ゆっくり見守る、それが一番。",
+      "en": "Don't push her, watch slowly — that's best.",
+      "style": "Doctor warm gentle sincere wise-clear adviser-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-wise"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、ありがとうございます。何か変化あったら、すぐ連絡します。",
+      "en": "Truly, thank you. If anything changes, I'll contact immediately.",
+      "style": "Maternal warm sincere deep closing-grateful-committed, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    }
+  ]
+}

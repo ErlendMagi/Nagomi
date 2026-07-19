@@ -1,0 +1,79 @@
+{
+  "id": "conv_05843",
+  "context": "Two friends chat about a day trip",
+  "purpose": "Teach: 亀/坪/大橋/小山/舟/出掛け/手持ち/不愉快",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "亀",
+    "坪",
+    "大橋",
+    "小山",
+    "舟",
+    "出掛け",
+    "手持ち",
+    "不愉快"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_294 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨日、亀公園に行ってきた。",
+      "en": "I went to Turtle Park yesterday.",
+      "style": "Warm opening, genuine pleasure in the memory. Easy pace, slight lift on the place name. Present and unhurried.",
+      "mood": "contentful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "坪庭風のカフェも、その近くだよね。",
+      "en": "There's that tsubo-garden-style café nearby, isn't there?",
+      "style": "Gentle curiosity, the kind that invites sharing. Soft intonation, leaning in slightly. A question that means you're listening.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。大橋を渡って、向こうの小山まで歩いたの。",
+      "en": "Yeah. Crossed the big bridge and walked out to the little hill on the other side.",
+      "style": "Becoming more animated, the picture expanding as she speaks. Slight acceleration on the path description. Her body opens up.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "川下りの舟、空いてた?",
+      "en": "Were there boats out on the river?",
+      "style": "Genuine, interested follow-up. Pace steady, intimate. Not rushing — wanting the details of her day.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、ちょうど空いてた。気持ちよく出掛けた一日。",
+      "en": "Yeah, they were running. It was just a really good day out.",
+      "style": "Contentment in the voice, unforced. Slight glow of satisfaction. Warm but not effusive. The comfort of sharing something good.",
+      "mood": "warm_satisfied"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "手持ちのお金、足りた?",
+      "en": "Did your money hold out okay?",
+      "style": "Gentle, practical concern beneath the surface. Not prying — the kind of care that checks in without making it a big thing.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ぎりぎり。隣の客がうるさくて、ちょっと不愉快だったけど、それ以外は最高。",
+      "en": "Just barely made it. There was a loud guy next to us that kind of spoiled the moment, but otherwise it was perfect.",
+      "style": "Slight wry edge on the complaint — not dwelling. Quick recovery, genuine warmth returning. The honesty of someone secure enough to admit the flaw and move past it.",
+      "mood": "wry_content"
+    }
+  ]
+}

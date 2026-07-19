@@ -1,0 +1,78 @@
+{
+  "id": "conv_04975",
+  "context": "A doctor explains a chemistry-based health study to a teen",
+  "purpose": "Teach: 暦/酸化/復元/錯覚/混合/死後/政令/悪影響",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "暦",
+    "酸化",
+    "復元",
+    "錯覚",
+    "混合",
+    "死後",
+    "政令",
+    "悪影響"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "学校の課題で来てくれたんだね。体の中では絶えず酸化反応が起きていて、細胞が少しずつ傷ついているんだよ。",
+      "en": "You came in for your school assignment, right? Inside your body, oxidation reactions are constantly happening, and cells are gradually being damaged.",
+      "style": "Warm but informative, doctor easing a teen into a technical topic"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "酸化って、リンゴが茶色くなるあれですよね?体の中でも同じことが起きてるなんて、目の錯覚みたいで信じられないです。",
+      "en": "Oxidation, like when apples turn brown, right? It feels like an optical illusion that the same thing is happening inside our bodies — hard to believe.",
+      "style": "Curious teen connecting science to everyday observation, slightly playful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい例えだね。研究では、昔ながらの和食中心の食事と、洋食を多く混合した現代の食事を比較したんだ。",
+      "en": "Nice analogy. In our study, we compared traditional washoku-centered meals with modern diets that mix in a lot of Western food.",
+      "style": "Doctor praising student, transitioning smoothly into study methodology"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、昔の食事のほうが体にいいんですか?ファストフードばっかり食べてると、やっぱり悪影響が出るんでしょうか。",
+      "en": "Wow, so older diets are better for the body? If you only eat fast food, does it really have a bad effect?",
+      "style": "Teen showing genuine concern, asking practical follow-up question"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうなんだ。実は政令指定都市の保健データを分析すると、食生活の差が血管の状態にはっきり現れていてね。古い暦の時代から受け継がれてきた和食には、やっぱり理にかなった知恵があるんだよ。",
+      "en": "That's right. When we analyzed health data from designated cities under government ordinance, dietary differences showed up clearly in blood vessel condition. Washoku, passed down since the old calendar era, really does carry sensible wisdom.",
+      "style": "Doctor citing evidence with measured seriousness, weaving in cultural background"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど…じゃあ、もし血管が傷んじゃったら、死後はもちろん生きてるうちでも、もう完全には復元できないんですか?",
+      "en": "I see… so if blood vessels get damaged, not just after death but even while we're alive, can they no longer be completely restored?",
+      "style": "Teen reacting thoughtfully, pivoting to a serious biological question"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "完全な復元は難しいけれど、抗酸化作用のある野菜を毎日少しずつ取れば、進行はかなり抑えられるよ。",
+      "en": "Complete restoration is difficult, but if you eat a little bit of antioxidant-rich vegetables every day, you can significantly slow the progression.",
+      "style": "Doctor offering hopeful, actionable advice in a reassuring tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ今日からお母さんに、野菜多めでお願いしてみます。先生、わかりやすく教えてくれてありがとうございました!",
+      "en": "Then starting today, I'll ask my mom for more vegetables. Doctor, thank you so much for explaining it so clearly!",
+      "style": "Teen wrapping up cheerfully with concrete commitment and gratitude"
+    }
+  ]
+}

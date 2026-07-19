@@ -1,0 +1,86 @@
+{
+  "id": "conv_06129",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 被疑/面会/先送り/白紙/水質/非公式/たたき台/商事",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "被疑",
+    "面会",
+    "先送り",
+    "白紙",
+    "水質",
+    "非公式",
+    "たたき台",
+    "商事"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、被疑となる前の対応、企業の運命を左右する。",
+      "en": "Ren — how you handle things before suspicion arises determines the company's fate.",
+      "style": "Measured, direct. Sets the weight of the moment without drama. Slight pause after the name—making this personal, not abstract. Steady eye contact.",
+      "mood": "authoritative_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "弁護士との面会、若手も同席することがあるんですね。",
+      "en": "So juniors do get to sit in on counsel meetings?",
+      "style": "Curious but respectful. Slightly careful phrasing—testing whether this is a privilege or routine. Open, genuinely interested. Not performing eagerness.",
+      "mood": "curious_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "判断、先送りせず、即決を心がけろ。",
+      "en": "Make your decisions now. Don't defer them.",
+      "style": "Firm, economical. Each phrase lands separately. No softening—this is instruction, not suggestion. Brief, because the point is clear.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。白紙のページ、自分で埋める覚悟、必要ですね。",
+      "en": "Yes. I understand — I need to be ready to fill in the blanks myself.",
+      "style": "Quiet acknowledgment. Slight underbreath on the opening. Processing the weight of what was just said, not just agreeing. Sincere, a little self-aware about the commitment.",
+      "mood": "resolute_cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "水質や環境調査、外部委託も活用しろ。",
+      "en": "Outsource the water-quality and environmental surveys too.",
+      "style": "Practical addendum. Same measured pace as before—not hurried, not emphatic. The voice of someone used to delegating wisely.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "非公式な交流、人脈作りに、役立つんですね。",
+      "en": "Unofficial connections like that—they really do help build a network?",
+      "style": "Tentative question, framed carefully. Seeking confirmation more than information. Slightly deferential—asking permission to trust his own instinct about people.",
+      "mood": "cautiously_hopeful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "たたき台、毎日、自分で書いてみろ。",
+      "en": "Write a draft yourself every day.",
+      "style": "Direct instruction, no ceremony. The voice of someone who expects this will be done. Not harsh—just matter-of-fact, the way a mentor speaks when respect is already there.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "商事系の業務、勉強したいです。",
+      "en": "I'd like to develop expertise in trading-firm work.",
+      "style": "Sincere statement of intention, understated. Not performed enthusiasm. Quiet, a little tentative—putting forward what matters without overselling it.",
+      "mood": "earnest_ambition"
+    }
+  ]
+}

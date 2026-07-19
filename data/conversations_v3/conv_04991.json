@@ -1,0 +1,78 @@
+{
+  "id": "conv_04991",
+  "context": "A teacher walks a uni student through a history-of-tech paper",
+  "purpose": "Teach: 直径/潜水艦/機体/マスメディア/外科/刑法/栄光/団塊",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "直径",
+    "潜水艦",
+    "機体",
+    "マスメディア",
+    "外科",
+    "刑法",
+    "栄光",
+    "団塊"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日は技術史のレポートを一緒に見ていきましょう。テーマは戦後の発明でしたね。",
+      "en": "Today let's review your tech history paper together. The theme was postwar inventions, right?",
+      "style": "Warm, composed teacher voice, gentle academic tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。冒頭で団塊世代が支えた高度成長と、マスメディアの発達を結びつけて書きました。",
+      "en": "Yes. I opened by linking the boomer generation's growth era with the rise of mass media.",
+      "style": "Earnest student, slightly nervous, careful articulation throughout."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "良い視点です。ただ、第二章の航空機の節で、機体の直径の数値が出典なしになっていますよ。",
+      "en": "Good angle. But in chapter two on aircraft, the fuselage diameter figure has no citation.",
+      "style": "Gently corrective, pointing out concretely with polite teacher tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、本当だ……すみません。海上自衛隊の潜水艦の章と資料を取り違えたかもしれません。",
+      "en": "Oh, you're right, sorry. I might have mixed up the source with the chapter on submarines.",
+      "style": "Apologetic, flustered, self-correcting young man, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "落ち着いて。それと、医療技術の項で外科手術ロボットを扱うなら、刑法上の責任の議論も少し触れた方がいいですね。",
+      "en": "Calm down. Also, if you cover surgical robots in the medical section, briefly touch on criminal-law liability.",
+      "style": "Reassuring, then guiding with concrete advice at a measured pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。刑法の改正論議まで広げると、技術と法の関係が立体的になりますね。",
+      "en": "I see. Extending it to the criminal-law reform debate would give tech and law more depth.",
+      "style": "Curious, intellectually engaged, brightening up, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうです。結論では、技術者の栄光だけでなく、社会が背負う代償も書けると説得力が増しますよ。",
+      "en": "Exactly. In the conclusion, address not just engineers' glory but society's costs, for stronger persuasion.",
+      "style": "Encouraging mentor, thoughtful, drawing the lesson together."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。週末までに直して、もう一度見ていただけますか。",
+      "en": "Understood. I'll revise it by the weekend; could you look it over once more?",
+      "style": "Determined, respectful, ending on a polite request."
+    }
+  ]
+}

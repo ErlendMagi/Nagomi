@@ -1,0 +1,86 @@
+{
+  "id": "conv_08249",
+  "context": "Officer briefs",
+  "purpose": "Teach: 参事官/占有/便宜/納付/受託/公然/始動/散会",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参事官",
+    "占有",
+    "便宜",
+    "納付",
+    "受託",
+    "公然",
+    "始動",
+    "散会"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_414 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯参事官の制度をご紹介します",
+      "en": "I'd like to introduce the crime prevention counselor system we have in place.",
+      "style": "Measured, official tone. Clear articulation on key terms. Steady pace, no rush. The opening of a prepared explanation — respectful and direct, as if reading from careful notes.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、押収物の占有期間を明示されますね",
+      "en": "Yes. So the police do make the duration of held seized items clear to people.",
+      "style": "Attentive, confirming. Slight rise at the end — checking understanding, not challenging. Warmer than procedural — he's engaged, not just listening. Respectful distance.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民に便宜を図る制度を運用しております",
+      "en": "We operate systems designed to make things more convenient for citizens.",
+      "style": "Steady, official register. Even pace. Slight emphasis on 'designed' — pride in the framework. Not cold, but formal. The voice of institutional care.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。罰金の納付状況を警察、把握ですね",
+      "en": "Yes. So the police do keep track of fine payment status across the region.",
+      "style": "Following along, respectful confirmation. Light lift on the question — checking his own understanding aloud, not doubting. Warm but deferential to the officer's authority.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、受託捜査の体制を整えております",
+      "en": "We've put the infrastructure in place to handle commissioned investigations from other jurisdictions.",
+      "style": "Continuing the formal briefing tone. Slight emphasis on 'infrastructure' — showing substance behind the words. Steady delivery, confident without being boastful.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、公然たる発表が地域に安心感を与えますね",
+      "en": "Yes. Public announcements from the police really do give the community a sense of security.",
+      "style": "Warm agreement. Slight nod in the voice — he sees the value of what's being described. Not just tracking information; genuinely appreciating the reassurance it provides.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、新指揮系統を始動いたしました",
+      "en": "We've activated the new command structure as planned.",
+      "style": "Final statement of briefing. Slight closure — the 'as planned' delivered with quiet satisfaction. Professional but warmer than the opening; the briefing has landed.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議が無事散会して、ありがたいです",
+      "en": "Yes. I'm grateful the meeting concluded smoothly.",
+      "style": "Closing note of genuine thanks. Softer attack. The exhaustion of a long meeting lifting slightly. He means this — relief and appreciation in equal measure, delivered with quiet sincerity.",
+      "mood": "grateful"
+    }
+  ]
+}

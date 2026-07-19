@@ -1,0 +1,72 @@
+{
+  "id": "conv_05474",
+  "context": "A uni student interviews a retired engineer about high-rise design",
+  "purpose": "Teach: 落下/最高裁判所/拒絶/探求/力学/神学/高層/個体",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "落下",
+    "最高裁判所",
+    "拒絶",
+    "探求",
+    "力学",
+    "神学",
+    "高層",
+    "個体"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "高層建築の設計、長年携わってこられたんですよね。",
+      "en": "You've spent a long time designing high-rise buildings, haven't you.",
+      "style": "Respectful lean-in, genuinely curious. Soft opening. Slight hesitation before asking, like gathering courage to ask someone you admire. Even pace, warm delivery.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。落下試験のデータ、個体差を考慮した解析が要だった。",
+      "en": "Yes. The key was analyzing the falling-test data while accounting for individual variance.",
+      "style": "Clear, measured, the voice of someone who has turned decades of work into clarity. Slight emphasis on 「要だった」—not proud, just factual. Pauses between clauses as if retrieving memory.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "力学的な探求、終わりはあるんですか。",
+      "en": "Is there ever an end to mechanical inquiry?",
+      "style": "Genuine, searching question. Soft attack. Vulnerability showing through—not performing intellect but asking what he actually wonders. Slight lift at the end, inviting honesty.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いや。最高裁判所の判例が出ても、現場は続く。",
+      "en": "No. Even after Supreme Court rulings come down, the work in the field goes on.",
+      "style": "Unhurried, philosophical. A small pause after the negative—letting it sit. Then the explanation comes gently, like he's seen this cycle many times. Slight weariness underneath, not bitterness.",
+      "mood": "weathered_knowing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "規制側の拒絶反応、当時もあったんですか。",
+      "en": "Were there pushback from regulators even back then?",
+      "style": "Genuine interest, no edge. Inviting him to continue. Lighter tone than the mechanical questions—almost conversational. As if checking a detail in a longer story.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ。神学的な議論を持ち出す人すらいた。",
+      "en": "Yes. Some people even brought up theological arguments.",
+      "style": "Dry, almost gentle amusement beneath the surface. A small shake of the head audible in the voice. Finality and acceptance mixed together. Voice settling, like the conversation has found its place.",
+      "mood": "wry_acceptance"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06771",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 過失/匹敵/八木/出血/究明/受診/遮断/一刻",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "過失",
+    "匹敵",
+    "八木",
+    "出血",
+    "究明",
+    "受診",
+    "遮断",
+    "一刻"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、運転者の過失、明らかになりました。",
+      "en": "The driver's negligence in this case has been confirmed.",
+      "style": "Even, measured tone. Professional formality without stiffness. Clear authority delivered with quiet composure. No warmth, no coldness—just factual precision.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害規模、過去の大事件に、匹敵しますね。",
+      "en": "The scale of the damage matches past major incidents, doesn't it.",
+      "style": "Thoughtful, slightly tentative. Genuine intellectual curiosity mixed with awareness of the gravity. Leaning forward slightly in posture. Soft upward inflection on the particle, seeking confirmation.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。八木さん、被害者のご家族の代表者です。",
+      "en": "Yes. Yagi-san is the family representative for the victim.",
+      "style": "Neutral, procedural delivery. Slight formality shift when naming the family representative. Respectful pause before the role. No elaboration—just the necessary information stated clearly.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場、出血の跡、確認されたんですね。",
+      "en": "Blood traces at the scene have been confirmed, I understand.",
+      "style": "Careful, almost hesitant phrasing. Acknowledging the weight of what he's saying. Slower pace. A small breath before the key detail. Checking himself against the gravity of the evidence.",
+      "mood": "somber"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。事件の究明、警察、総力を挙げております。",
+      "en": "Yes. The police department is putting its full effort into investigating the case.",
+      "style": "Steady, resolute. Slight emphasis on 「総力」—conveying commitment without defensiveness. Professional reassurance. Even cadence, like a public statement made in private.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "目撃者、すぐ受診されて、無事だったそうですね。",
+      "en": "The witness was seen by a doctor right away and is safe, I've heard.",
+      "style": "Quiet relief underlying the statement. Genuinely searching for the silver lining in dark circumstances. Warm curiosity—wanting to confirm the one good outcome. Slight softening at the end.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。現場周辺、交通遮断、迅速に、行いました。",
+      "en": "Traffic around the site was blocked off swiftly.",
+      "style": "Factual, procedural. Brief and assured. No elaboration—the action speaks for itself. Professional pride in competent execution, stated without arrogance.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一刻も早く、事件の解明、進むといいですね。",
+      "en": "Hopefully the case can be resolved as quickly as possible.",
+      "style": "Quiet hopefulness tempered by realism. Slower pace. Leaning into the desire for resolution without naïveté. The closing statement of someone genuinely invested in the outcome. Slight trailing-off, like a wish placed gently.",
+      "mood": "hopeful"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08608",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 加筆/手直し/終点/公示/客室/税別/免税/効能",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "加筆",
+    "手直し",
+    "終点",
+    "公示",
+    "客室",
+    "税別",
+    "免税",
+    "効能"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文に加筆を加えて完成させろ",
+      "en": "Ren, add to that paper and get it finished.",
+      "style": "Clipped, direct. Not unkind but economical with words. A task stated as fact, not a request. Light weight on the period.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験装置の手直しを技術員に依頼します",
+      "en": "Yes. I'll ask the technician to adjust the experimental equipment.",
+      "style": "Quick, respectful nod in the voice. Alert and ready. No hesitation — he's already mentally moving to the next step.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究計画の終点設定を見直せ",
+      "en": "Ren, review the endpoint markers in your research plan.",
+      "style": "Measured instruction. Brief pause after the name — giving weight to what comes next. Firm but not sharp. Expects competence.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究募集の公示文を準備中です",
+      "en": "Yes. I'm preparing the recruitment notice for the study posting right now.",
+      "style": "Calm, attentive confirmation. The 'right now' carries quiet assurance — he's already on it. No over-promise, just steady action.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、学会客室の予約を確認しろ",
+      "en": "Ren, confirm the conference accommodation bookings.",
+      "style": "Direct task assignment. Slight stress on the verb — make sure this is done. Professional rhythm, no inflection at the end.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究予算は税別表記で記録します",
+      "en": "Yes. I'm recording the research budget with tax-exclusive notation.",
+      "style": "Precise and responsible. Each phrase lands cleanly. He's anticipating what accurate record-keeping looks like before being told.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究者の海外免税申請を支援しろ",
+      "en": "Ren, handle the overseas tax exemption paperwork for the researchers.",
+      "style": "Substantial task but delivered matter-of-factly. Ren is trusted with this. The verb sits heavy — this matters. No hedging.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。試料の効能を学会で発表いたします",
+      "en": "Yes. I'll present the sample efficacy data at the conference.",
+      "style": "Respectful closure. The commitment is firm and clear. Slight formality on the verb form — he's elevating the moment. Ends with quiet confidence.",
+      "mood": "committed"
+    }
+  ]
+}

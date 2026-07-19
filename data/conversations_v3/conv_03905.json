@@ -1,0 +1,78 @@
+{
+  "id": "conv_03905",
+  "context": "A doctor and a retired medical board member talk research ethics",
+  "purpose": "Teach: 臨床/介入/助成/拘束/学術/生成/振動/苦しみ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "臨床",
+    "介入",
+    "助成",
+    "拘束",
+    "学術",
+    "生成",
+    "振動",
+    "苦しみ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "先生、今度の臨床試験のことで少しご相談したいのですが、よろしいでしょうか。",
+      "en": "Sir, I'd like to consult you briefly about the upcoming clinical trial, if you have a moment.",
+      "style": "Polite, deferential tone with measured professional pacing throughout."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろんだ。研究助成の話か、それとも被験者への医療介入の範囲についてかね。",
+      "en": "Of course. Is it about the research grant, or the scope of medical intervention for the subjects?",
+      "style": "Calm elder authority, slightly probing with old-school formality intact."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "後者です。同意書の段階で患者さんが苦しみを訴える場合、どこまで続行すべきか判断に迷っております。",
+      "en": "The latter. When patients express suffering at the consent stage, I struggle to judge how far we should proceed.",
+      "style": "Earnest, troubled tone showing genuine ethical hesitation and humility."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それは身体拘束の判断と同じくらい重い問題だ。学術論文の体裁よりも、まず人としての尊厳を優先しなさい。",
+      "en": "That weighs as heavily as decisions on physical restraint. Put human dignity ahead of how an academic paper looks.",
+      "style": "Firm, paternal advice delivered with grave moral conviction and clarity."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おっしゃる通りです。ただ、データの自動生成ツールの導入で、報告の正確さは以前より格段に上がっています。",
+      "en": "You're absolutely right. Still, with our new automatic data generation tool, reporting accuracy has improved dramatically.",
+      "style": "Slightly defensive but respectful, balancing pragmatism against the elder's caution."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "技術は道具に過ぎん。心電図の微弱な振動を読み違えれば、機械がいくら賢くても命は守れんよ。",
+      "en": "Technology is merely a tool. If you misread the faint oscillations of an ECG, no clever machine can protect a life.",
+      "style": "Stern, sage-like warning with old-fashioned masculine sentence endings."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "肝に銘じます。倫理委員会への報告書、来週までに仕上げて先生にもお目通しいただきたいのですが。",
+      "en": "I'll take that to heart. I'd like to finish the ethics committee report by next week and have you review it as well.",
+      "style": "Renewed humble resolve, requesting mentorship in formal business Japanese."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "構わんよ。私も古い学術団体の伝手があるから、必要なら相談に乗ろう。",
+      "en": "That's fine by me. I still have connections with old academic societies, so I can advise if you need it.",
+      "style": "Warm, generous offer wrapping up with avuncular elder reassurance."
+    }
+  ]
+}

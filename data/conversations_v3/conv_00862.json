@@ -1,0 +1,62 @@
+{
+  "id": "conv_00862",
+  "context": "Sho shows Sachiko his first drawing of her.",
+  "purpose": "child-grandma special-art exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "特別",
+    "一緒",
+    "優しい",
+    "楽しい",
+    "絵"
+  ],
+  "cast": [
+    "sho_child",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_043)",
+    "generated_at": "2026-05-27T02:25:25.643Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、特別な絵、作った。",
+      "en": "Grandma, I made a special picture.",
+      "style": "Soft, small voice. Barely contained pride — not loudly showing off, but the quiet certainty of a six-year-old who made something he cares about. Tender throughout. Slight pause before 'special' like he's savoring the word.",
+      "mood": "proud_tender"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "わあ、見せて。",
+      "en": "Oh — let me see.",
+      "style": "Immediate warm delight. Leans forward genuinely curious, not performing interest. Gentle, open tone. The voice of someone who always has time for her grandson.",
+      "mood": "warm_delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "これ、おばあちゃん、優しい笑顔。",
+      "en": "This one — it's your kind smile, Grandma.",
+      "style": "Earnest, explaining-voice. Small and clear. Watching her face as he says it. No shyness, but the careful sincerity of showing her something he sees in her.",
+      "mood": "sincere_gentle"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に嬉しい。一生、大切にする。",
+      "en": "I'm truly happy. I'll treasure this forever.",
+      "style": "Voice catches slightly with genuine emotion — not overdone, but real. Quiet depth. Pacing slows on 'forever' like she's making a promise to herself and him both.",
+      "mood": "moved_grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "また、一緒に、絵、描こう。",
+      "en": "Can we draw together again?",
+      "style": "Hopeful, small voice. Not demanding — asking gently. The thread of something he wants to keep doing together. Soft trailing upward, like a small question looking for 'yes.'",
+      "mood": "hopeful_tender"
+    }
+  ]
+}

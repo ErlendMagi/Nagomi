@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "severity": "minimal",
+    "title": "New customer: one-time TTS batch job billed 3x expected due to SSML character counting - requesting goodwill adjustment",
+    "description": "I am a first-time Azure customer (account created June 25, 2026). I ran a one-time Text-to-Speech batch job (Azure Speech, Neural HD voices) on July 2-3 to generate audio for a language-learning app I am building. I budgeted based on the documented $22 per 1M characters rate and counted my spoken-text characters (~9.8M). I did not realize SSML markup characters (voice/prosody/break tags) are also billable, which roughly tripled the billed volume to ~28M characters gross. My $200 sign-up credit was consumed (credit lot closed 2026-07-03T13:41Z) and my upcoming final invoice shows NOK 4,134.85 (18.93M characters billed post-credit at $22/1M). This is far beyond what I could afford or intended - I am a student. I upgraded from free trial to pay-as-you-go mid-job believing the remaining cost was ~$60, and cancelled the subscription (now disabled) the same day once I saw the actual charges. Requests: (1) a goodwill credit/adjustment on the NOK 4,134.85 final invoice given this is a new-customer misunderstanding of SSML billing on a one-time job, with the subscription already cancelled and no further usage possible; (2) confirmation of the final invoice amount including any VAT before it is charged on ~July 9. Thank you.",
+    "problemClassificationId": "/providers/Microsoft.Support/services/517f2da6-78fd-0498-4e22-ad26996b1dfc/problemClassifications/68765ad3-2cfe-920b-18b5-9ca977df1471",
+    "serviceId": "/providers/Microsoft.Support/services/517f2da6-78fd-0498-4e22-ad26996b1dfc",
+    "advancedDiagnosticConsent": "No",
+    "contactDetails": {
+      "firstName": "Erlend",
+      "lastName": "Ellingsen",
+      "preferredContactMethod": "email",
+      "primaryEmailAddress": "totalramsay@gmail.com",
+      "preferredTimeZone": "W. Europe Standard Time",
+      "country": "NOR",
+      "preferredSupportLanguage": "en-US"
+    }
+  }
+}

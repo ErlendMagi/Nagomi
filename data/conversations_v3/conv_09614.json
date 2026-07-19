@@ -1,0 +1,86 @@
+{
+  "id": "conv_09614",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 部首/肉食/賢者/胃腸/貧富/剰余/分娩/既知",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "部首",
+    "肉食",
+    "賢者",
+    "胃腸",
+    "貧富",
+    "剰余",
+    "分娩",
+    "既知"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_482 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、漢方の部首的分類を医療チームで参考にします",
+      "en": "Ren, we reference kampo herbal classification within the medical team's framework.",
+      "style": "Clear, professional opening. Steady eye contact. Measured pace that conveys competence without coldness. The tone of someone sharing clinical practice, not lecturing.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "肉食偏重の食生活を、貴院、指導されますね、先生",
+      "en": "Your hospital really does guide patients away from meat-heavy diets, doesn't it, Doctor?",
+      "style": "Genuine curiosity with underlying respect. Slight pause before the question tag — he's truly listening, not performing. Soft but engaged.",
+      "mood": "thoughtful_admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療現場で賢者になる事より謙虚さを医療チームで重視します",
+      "en": "Yes. In the medical setting, we prioritize humility over the appearance of expertise within the team.",
+      "style": "Patient, unhurried delivery. Slight emphasis on 'humility' — not defensive, but making a quiet point. The tone of someone who has thought about this carefully.",
+      "mood": "composed_thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "胃腸疾患の患者を、貴院、丁寧に診られますね、先生",
+      "en": "Your hospital really does examine gastric patients with such care, doesn't it, Doctor?",
+      "style": "Admiration tempered with genuine question. Deliberate pace. He's noticing something real and checking his own observation. Not flattering — witnessing.",
+      "mood": "respectful_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、貧富に関わらず平等な医療を医療チームで提供します",
+      "en": "Yes. We provide equal medical care regardless of patients' economic circumstances within our team.",
+      "style": "Steady, unadorned statement. No inflection that suggests pride. The matter-of-factness of someone stating principle, not performance. Clear finish.",
+      "mood": "principled_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "剰余在庫の医薬品を、貴院、適切に管理されてますね、先生",
+      "en": "Your hospital really does manage surplus medication inventory properly, doesn't it, Doctor?",
+      "style": "Curious but genuinely asking. Lighter touch than the previous questions. He's moved from observing care to observing operations. Slightly more open, less formal.",
+      "mood": "curious_genuine"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、無痛分娩を医療チームで安全に提供します",
+      "en": "Yes. We provide pain-free childbirth safely within the medical team's protocols.",
+      "style": "Clear, clinical. A slight warmth on 'safely' — acknowledging the human stakes without sentimentality. Composed finish. Professional but human.",
+      "mood": "composed_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "既知の合併症を、貴院、患者に説明されますね、先生",
+      "en": "Your hospital really does explain known complications to patients beforehand, doesn't it, Doctor?",
+      "style": "Quieter here — almost trailing into reflection. The final question feels more introspective. Still respectful, but like he's reaching the limit of what he came to ask. Gentler attack.",
+      "mood": "thoughtful_introspective"
+    }
+  ]
+}

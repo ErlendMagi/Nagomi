@@ -1,0 +1,72 @@
+{
+  "id": "conv_05388",
+  "context": "A uni intern interviews a manager about supply-chain practices",
+  "purpose": "Teach: 数量/要領/対談/補佐/試行錯誤/フォーマット/一昨年/当分",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "数量",
+    "要領",
+    "対談",
+    "補佐",
+    "試行錯誤",
+    "フォーマット",
+    "一昨年",
+    "当分"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "発注数量、何を基準に決めるんですか。",
+      "en": "How do you decide on the order quantities?",
+      "style": "Curious, respectful question from a younger person learning. Open and eager, not stiff. Slight upward lilt at the end.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "要領良くまとめれば、一昨年のデータと、補佐の予測モデルを併用します。",
+      "en": "In short, we use historical data from two years ago alongside our assistant's forecasting model.",
+      "style": "Clear and patient explanation from someone experienced. Steady pace, precise but warm. Not lecturing—inviting him into the logic.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "仕入先との対談、頻度はどうですか。",
+      "en": "How often do you meet with suppliers?",
+      "style": "Focused follow-up question. Engaged, taking notes mentally. Quick, direct, but still respectful of her time.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "毎月、フォーマット化された議事録を共有しています。",
+      "en": "We share formatted meeting minutes with them once a month.",
+      "style": "Matter-of-fact, routine answer. Steady delivery. She's moved into territory she knows by heart. No inflection needed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当分の課題は、何ですか。",
+      "en": "What's the main challenge right now?",
+      "style": "Leaning in slightly. This is the question he's been building toward. Respectful but genuinely interested in the harder part.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "試行錯誤しながら、需要予測の精度を上げることです。",
+      "en": "Improving the accuracy of our demand forecasts—through trial and error, mostly.",
+      "style": "Honest, slight rueful smile in the voice. She's admitting the ongoing nature of the work. Warm and unguarded for the first time in this exchange.",
+      "mood": "honest_wry"
+    }
+  ]
+}

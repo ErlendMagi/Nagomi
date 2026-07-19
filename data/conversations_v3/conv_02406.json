@@ -1,0 +1,70 @@
+{
+  "id": "conv_02406",
+  "context": "Saito explains how a disorder can develop to a worried Mei.",
+  "purpose": "WIDENED SCENARIO: doctor explaining condition; medical vocabulary in natural home.",
+  "ambient": "clinic_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "発生",
+    "障害",
+    "認識",
+    "精神",
+    "程度",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_121)",
+    "generated_at": "2026-05-29T12:37:21.496Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、どうして、こんな症状が発生するんですか?",
+      "en": "Doctor, why do these symptoms develop?",
+      "style": "soft worried young mother voice, warm honest delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いくつかの原因が、関わっています。",
+      "en": "Several causes are involved.",
+      "style": "measured doctor voice, soft warm informative delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "精神的な負担も、関係しますか?",
+      "en": "Does mental strain relate to it too?",
+      "style": "gentle young woman voice, soft warm engaged delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。程度によって、対応が変わります。",
+      "en": "Yes — the response varies by severity.",
+      "style": "gentle doctor voice, soft warm clear delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "早く認識できて、よかったです。",
+      "en": "I'm glad we recognized it early.",
+      "style": "soft young woman voice, warm warm grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつでも、相談してくださいね。",
+      "en": "Please consult me anytime.",
+      "style": "warm doctor voice, soft warm supportive delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます、安心しました。",
+      "en": "Thank you — I feel relieved.",
+      "style": "tender young woman voice, soft warm grateful delivery carefully"
+    }
+  ]
+}

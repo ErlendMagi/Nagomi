@@ -1,0 +1,78 @@
+{
+  "id": "conv_05015",
+  "context": "A doctor explains a sleep study to a curious teen",
+  "purpose": "Teach: 重力/家畜/罠/西日本/情報処理/共同通信/良質/建前",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "重力",
+    "家畜",
+    "罠",
+    "西日本",
+    "情報処理",
+    "共同通信",
+    "良質",
+    "建前"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、最近ぜんぜん眠れなくて。良質な睡眠が取れないと、頭がぼーっとしちゃうんです。",
+      "en": "Doctor, I can't sleep well lately. Without good quality sleep, my head feels foggy.",
+      "style": "Curious teen voice, slightly tired and casually polite tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。脳の情報処理は寝ている間にまとめて行われるから、睡眠不足は学習にも響くんだよ。",
+      "en": "I see. The brain's information processing happens during sleep, so lack of sleep affects learning too.",
+      "style": "Warm clinical voice, calm and measured pace explaining gently."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "それで今日、ちゃんと検査を受けたくて来ました。重力で体が引っ張られるみたいに、夜だけ重くて辛いんです。",
+      "en": "That's why I came for a proper exam today. At night my body feels heavy, like gravity is pulling me down.",
+      "style": "Earnest teen voice, mixing complaint with hope for answers."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "じゃあ今日の睡眠検査で原因を探ろう。眠りを妨げる隠れた罠が見つかるかもしれないからね。",
+      "en": "Then let's find the cause with today's sleep test. Hidden traps disturbing your sleep may turn up.",
+      "style": "Reassuring teaching tone, framing the study as a discovery process."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "検査ってどんなことするんですか?この前、共同通信のニュースで睡眠検査の話を見たんですけど、難しそうで。",
+      "en": "What does the test involve? I saw a Kyodo News piece about sleep tests recently, and it looked complex.",
+      "style": "Inquisitive teen voice, slightly nervous but genuinely interested."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配ないよ。センサーを付けて一晩寝るだけ。建前は『精密検査』だけど、本人はぐっすり眠るだけだから。",
+      "en": "Don't worry. You just sleep one night with sensors. Officially a 'detailed exam,' but you just sleep through it.",
+      "style": "Confiding adult tone, gently humorous to ease the teen's worry."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、安心しました。あ、うちの祖父が西日本に住んでて、家畜の世話で早起きなのに元気なんですよ。",
+      "en": "Oh, that's a relief. My grandpa lives in western Japan and tends livestock — he wakes early but stays energetic.",
+      "style": "Brightening teen voice, sharing a personal anecdote naturally."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "規則正しい生活が一番だね。じゃあ検査の予約を入れて、結果を見ながら一緒に改善していこう。",
+      "en": "A regular routine is best. Let's book the test, then improve things together based on the results.",
+      "style": "Reassuring professional close, transitioning smoothly to practical next steps."
+    }
+  ]
+}

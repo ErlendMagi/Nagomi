@@ -1,0 +1,79 @@
+{
+  "id": "conv_05435",
+  "context": "A doctor explains immunity & disinformation to a teen",
+  "purpose": "Teach: 引き起こし/妨げ/党首/幕府/中傷/ワクチン/肺/上空",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き起こし",
+    "妨げ",
+    "党首",
+    "幕府",
+    "中傷",
+    "ワクチン",
+    "肺",
+    "上空"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、ワクチンの仕組み、簡単に説明しますね。",
+      "en": "Sakura, I'll walk you through how vaccines work.",
+      "style": "Warm, unhurried opening. Lean forward slightly. Clear cadence—each phrase deliberate but not stiff. The ease of someone who's explained this many times and means every word.",
+      "mood": "steady_kind"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お願いします!最近、肺の話と一緒にネットで色々言われてて。",
+      "en": "Please do. I've been seeing all kinds of stuff online lately mixed in with lung stuff.",
+      "style": "Eager but slightly uncertain. Quick-paced, almost tumbling over her own words. Genuine question underneath the rush. A beat of vulnerability at the mention of what she's been reading.",
+      "mood": "curious_overwhelmed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "デマや中傷が治療を妨げる例もあります。情報源を見極めて。",
+      "en": "Misinformation and slurs can actually get in the way of treatment. You need to think critically about where things are coming from.",
+      "style": "Firm without hardening. Quiet conviction. She's not scolding—she's sharing something she's seen cause real harm. Slight weight on 「vet your sources.」 Eye contact steady.",
+      "mood": "serious_protective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "政治家、特に党首発言の影響、大きいですよね。",
+      "en": "Politicians' words hit different though, don't they? Especially when it's party leadership saying it.",
+      "style": "Thoughtful, tracking her own realization as she speaks. Not surface-level curiosity—she's testing the idea. Slight pause between clauses, like she's working through it in real time.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。歴史的に幕府の指示で混乱を引き起こした例も学べます。",
+      "en": "Absolutely. History shows us examples—even during the shogunate, official directives created real confusion and harm.",
+      "style": "Educator's breath. Gentle but grave. She's placing this in a larger pattern, not making it abstract. Soft weight on the historical reference—teaching, not lecturing.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "上空から俯瞰する目線、大事にします。",
+      "en": "I'm going to keep that wider perspective in mind.",
+      "style": "Quieter than before. Settled, not defeated. She's made a choice and stated it. Small smile underneath—relief of being taken seriously by an adult.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それで十分です。",
+      "en": "That's exactly what I needed to hear.",
+      "style": "Warm close with real warmth. Brief. A small nod in her voice. Not dismissive—affirming. The doctor recognizing the moment when explanation becomes trust.",
+      "mood": "warm_affirmed"
+    }
+  ]
+}

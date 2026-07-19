@@ -1,0 +1,75 @@
+{
+  "id": "conv_02456",
+  "context": "Asuka guides children through a museum exhibit.",
+  "purpose": "WIDENED SCENARIO: museum guiding; attribution vocabulary (による/その他) in natural home.",
+  "ambient": "museum_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "による",
+    "その他",
+    "下さい",
+    "ほか",
+    "登場"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_123)",
+    "generated_at": "2026-05-29T12:47:34.257Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "先生、この絵、誰が描いたの?",
+      "en": "Teacher, who painted this picture?",
+      "style": "bright small child voice, warm curious bouncing delivery throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "有名な作家による作品ですよ。",
+      "en": "It's a work by a famous artist.",
+      "style": "gentle teacher voice, soft warm patient kind clarity throughout"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ほかにも、絵はあるの?",
+      "en": "Are there other paintings too?",
+      "style": "eager small child voice, warm curious delivery throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、その他の部屋にもありますよ。",
+      "en": "Yes, there are some in the other rooms.",
+      "style": "gentle teacher voice, soft warm patient kind clarity throughout"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "この人、絵の中に登場してる!",
+      "en": "This person appears inside the painting!",
+      "style": "delighted small child voice, warm excited delivery throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本当ね。触らないで、見て下さい。",
+      "en": "You're right. Please look without touching.",
+      "style": "gentle teacher voice, soft warm patient caring clarity throughout"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい!ほかの部屋も見たい!",
+      "en": "Okay! I want to see the other rooms!",
+      "style": "excited small child voice, warm eager bouncing delivery throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では、静かについて来て下さい。",
+      "en": "Then please follow me quietly.",
+      "style": "warm teacher voice, soft warm patient guiding clarity throughout"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04300",
+  "context": "A doctor and a teacher plan a school health awareness talk",
+  "purpose": "Teach: 癌/消化/合成/究極/及ぼす/取り出し/適宜/示唆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "癌",
+    "消化",
+    "合成",
+    "究極",
+    "及ぼす",
+    "取り出し",
+    "適宜",
+    "示唆"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "先生、来月の校内健康講話ですが、テーマは生活習慣と癌予防でいかがでしょう。",
+      "en": "Sensei, for next month's school health talk, how about lifestyle habits and cancer prevention as the theme?",
+      "style": "Calm professional tone, slightly formal medical advisor register."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいですね。中学生にも消化のしくみから話していただけると、身近に感じられると思います。",
+      "en": "That sounds good. If you start from how digestion works, I think the middle schoolers will find it relatable.",
+      "style": "Warm teacher voice, thoughtful and encouraging delivery."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "了解しました。加工食品に含まれる合成保存料が体に及ぼす影響にも軽く触れましょう。",
+      "en": "Understood. I'll also touch lightly on the effects synthetic preservatives in processed foods have on the body.",
+      "style": "Measured explanatory tone, careful not to alarm."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ぜひお願いします。生徒たちには、究極の健康法なんて存在しないことも知ってほしくて。",
+      "en": "Please do. I'd really like the students to understand that no ultimate health method actually exists.",
+      "style": "Sincere educator gently emphasizing a key point."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "同感です。最近の研究でも、極端な食事制限はかえって逆効果だという示唆が出ています。",
+      "en": "I agree. Recent research has even suggested that extreme dietary restrictions can actually backfire.",
+      "style": "Evidence-based doctor citing studies at a neutral pace."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では当日、資料を鞄から取り出して配る形でよろしいですか。途中で適宜休憩も入れましょう。",
+      "en": "So on the day, would taking the handouts out of my bag and distributing them work? Let's also take breaks as appropriate.",
+      "style": "Practical planner politely checking logistical details together."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、それで結構です。質疑応答の時間も少し長めに取っていただけると助かります。",
+      "en": "Yes, that's fine. It would help if you could set aside a slightly longer time for questions and answers too.",
+      "style": "Cooperative and appreciative, making a polite request."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "承知しました。当日は子どもたちが安心して聞ける雰囲気を作っておきますね。",
+      "en": "Understood. I'll make sure to create an atmosphere where the children can listen without anxiety on the day.",
+      "style": "Reassuring closing remark, soft and dependable tone."
+    }
+  ]
+}

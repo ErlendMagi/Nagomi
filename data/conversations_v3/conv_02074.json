@@ -1,0 +1,78 @@
+{
+  "id": "conv_02074",
+  "context": "Riku-teen helps Sho-young memorize multiplication tables.",
+  "purpose": "Older teen tutoring younger child math.",
+  "ambient": "living_room_evening_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "数学",
+    "計算",
+    "繰り返し",
+    "間違い",
+    "正解",
+    "練習",
+    "確実"
+  ],
+  "cast": [
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_104)",
+    "generated_at": "2026-05-27T13:06:31.755Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "陸くん、数学、九九、覚えられない!",
+      "en": "Riku, I can't memorize my multiplication tables!",
+      "style": "Urgent, slightly strained whisper-shout. Opens with a little catch in the voice. Quiet intensity — frustration without sulking. Stays grounded, looking for help.",
+      "mood": "frustrated_seeking"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "繰り返しが大事、毎日やろ。",
+      "en": "Repetition's the thing. Let's do it every day.",
+      "style": "Calm, unhurried. Opens soft. Steady rhythm — no urgency in the tone, just quiet certainty. Leans slightly forward, the voice of someone who's done hard things before.",
+      "mood": "patient_steady"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "間違い、ようけしてしまう。",
+      "en": "I make so many mistakes though.",
+      "style": "Small voice, hurt underneath. Hesitant attack on the opening word. Breath catching slightly. Not crying yet, but close — the kind of admission that costs something small.",
+      "mood": "discouraged_vulnerable"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "計算、ゆっくりで、ええで。",
+      "en": "Slow math is still good math.",
+      "style": "Warm reassurance. Soft emphasis on 'slow' — turning it from shame into permission. Gentle but not coddling. The tone of someone older defending the younger one's pace.",
+      "mood": "gentle_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "正解、出たら、嬉しい!",
+      "en": "When I get it right, I feel so happy!",
+      "style": "Sudden brightness. Sharp, genuine smile in the voice. Energetic without being performed. The natural excitement of a child who just remembered why this matters.",
+      "mood": "joyful_hopeful"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "練習、確実、覚えられるで。",
+      "en": "With practice, you'll get it. For sure.",
+      "style": "Quiet conviction. Small pause before the second sentence — a beat that lands like a promise. Warm, steady. The kind of certainty that's earned, not given.",
+      "mood": "confident_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、頑張る!",
+      "en": "Thank you. I'm going to try.",
+      "style": "Soft, determined. Opens with gratitude — genuine relief. Closes with a small tighten in the jaw, like resolve settling in. No performance. Just a child who's decided.",
+      "mood": "grateful_determined"
+    }
+  ]
+}

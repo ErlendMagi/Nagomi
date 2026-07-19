@@ -1,0 +1,84 @@
+{
+  "id": "conv_04154",
+  "context": "Two coworkers chat about an office book club they joined",
+  "purpose": "Teach: 著書/書評/購読/補足/創設/学科/学年/知人",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "著書",
+    "書評",
+    "購読",
+    "補足",
+    "創設",
+    "学科",
+    "学年",
+    "知人"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "ねえ、社内の読書会に入ったって本当？知人から聞いたんだけど。",
+      "en": "Hey, is it true you joined the company book club? I heard it from an acquaintance.",
+      "style": "Friendly curious tone, slightly leaning in"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、先週から。実は私が創設メンバーの一人なの。",
+      "en": "Yeah, since last week. Actually, I'm one of the founding members.",
+      "style": "Casual proud tone, light smile in voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えっ、すごいじゃん。今は誰の著書を読んでるの？",
+      "en": "Wow, that's impressive. Whose book are you reading right now?",
+      "style": "Surprised and impressed, voice rising slightly with genuine interest"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "村上春樹の新作。新聞の書評で絶賛されてたから選んだの。",
+      "en": "Murakami's new one. It got rave reviews in the newspaper, so we picked it.",
+      "style": "Explanatory tone, calm and informative, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "へえ。私もその新聞、定期購読してるよ。あの書評欄、面白いよね。",
+      "en": "Oh really? I subscribe to that newspaper too. The book review section is great.",
+      "style": "Engaged and warm, sharing common interest"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "でしょ？あと、読書会の後にリーダーが補足の解説をしてくれるの。",
+      "en": "Right? Plus after each meeting the leader gives us extra commentary.",
+      "style": "Enthusiastic and animated, gesturing with hands while speaking"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいなあ。実はうちの息子の学年でも、文学の学科で似たことやってるらしいよ。",
+      "en": "Sounds nice. Apparently my son's grade does something similar in their literature class.",
+      "style": "Reflective and slightly nostalgic parental tone, voice softening"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "へえ、最近の学校って進んでるんだね。よかったら今度ユキも来てみる？",
+      "en": "Wow, schools these days are really progressive. Want to come along sometime, Yuki?",
+      "style": "Inviting and warm, extending a friendly genuine offer"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、行ってみたい。来週の予定、後で送ってくれる？",
+      "en": "Yeah, I'd love to. Can you send me next week's schedule later?",
+      "style": "Eager but composed, decision-making tone, personal cadence that sets them apart"
+    }
+  ]
+}

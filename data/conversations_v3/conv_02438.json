@@ -1,0 +1,75 @@
+{
+  "id": "conv_02438",
+  "context": "Data discussion: Kenji and Ren review a dashboard.",
+  "purpose": "WIDENED SCENARIO: data-analysis chat; UI/metrics vocabulary in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ポイント",
+    "センター",
+    "グループ",
+    "検索",
+    "リンク"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_122)",
+    "generated_at": "2026-05-29T12:42:34.293Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "この画面の数字、どう読むんですか?",
+      "en": "How do I read the numbers on this screen?",
+      "style": "curious young colleague voice, soft warm engaged earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "各グループの数字が、並んでいます。",
+      "en": "Each group's figures are lined up.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "どこが、注目のポイントですか?",
+      "en": "Where's the point to watch?",
+      "style": "focused young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "このグループのポイントが、急に伸びています。",
+      "en": "This group's points jumped suddenly.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "原因を、検索で調べられますか?",
+      "en": "Can I look up the cause by searching?",
+      "style": "engaged young colleague voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、検索すると、リンクが出ます。",
+      "en": "Yes — search and a link appears.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "リンク先は、支援センターですか?",
+      "en": "Does the link lead to the support center?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、センターの資料に、つながります。",
+      "en": "Yes, it connects to the center's documents.",
+      "style": "reassuring office man voice, soft warm patient closing throughout"
+    }
+  ]
+}

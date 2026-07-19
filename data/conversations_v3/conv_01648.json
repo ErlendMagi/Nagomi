@@ -1,0 +1,61 @@
+{
+  "id": "conv_01648",
+  "context": "Yumiko sews a button back on for Sho-young after school.",
+  "purpose": "Grandmother figure quietly mending for child.",
+  "ambient": "living_room_lamp_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボタン",
+    "針",
+    "糸",
+    "直し"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、ボタン取れた!",
+      "en": "Grandma, my button fell off!",
+      "style": "Urgent but controlled — a small boy's honest alarm without panic. Quick intake of breath before speaking. Voice bright and a little high, seeking immediate reassurance.",
+      "mood": "concerned_trusting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、針と糸、持ってきて。",
+      "en": "Oh — bring me the needle and thread.",
+      "style": "Immediate, practical response. Warm and unsurprised — she's done this before. Soft command, not sharp. The ease of a parent who knows exactly what comes next.",
+      "mood": "capable_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい、これで合ってる?",
+      "en": "Here — is this the right kind?",
+      "style": "Careful, slightly tentative. He's watching her face, wanting to do this correctly. Gentle questioning lilt at the end. The voice of a child attending to something important.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、すぐ繕うわね。",
+      "en": "Mmm, I'll fix it right away for you.",
+      "style": "Reassuring and steady. She threads the needle as she speaks — the words settle him. Soft, unhurried tempo. The tone that says: this is nothing, I've got you.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、助かる!",
+      "en": "Thank you — that really helped!",
+      "style": "Genuine relief and gratitude, bright but not loud. A small boy's sincerity. Warm exhale at the end, like a problem solved.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

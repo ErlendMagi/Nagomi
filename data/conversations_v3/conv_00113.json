@@ -1,0 +1,98 @@
+{
+  "id": "conv_00113",
+  "context": "Daichi has come to Osaka for the weekend. He's sitting in his aunt Naoko's shop after closing. A coworker just quit; he needs to think out loud.",
+  "purpose": "adult nephew, Kansai aunt — workplace gossip + small life-advice",
+  "ambient": "busy_restaurant",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "大変",
+    "仕事",
+    "大丈夫",
+    "言う"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おばちゃん、ちょっと聞いてくれる？",
+      "en": "Auntie—can I ask you something?",
+      "style": "Soft Kansai warmth on the opener. Reaches out without performing vulnerability. A small pause after the name—checking if she's listening before continuing.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "聞く聞く。ビールも飲み。",
+      "en": "I'm listening, I'm listening. Come on, have a beer too.",
+      "style": "Already moving to pull a bottle before the sentence finishes. Bright, immediate Kansai energy. Matter-of-fact generosity without making a show of it.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "同期がな、辞めた。本当に、突然。",
+      "en": "So a colleague of mine—quit. Just like that. Out of nowhere.",
+      "style": "Small bewildered dip in tone. Voice lower, slightly slower. The disbelief lands soft, not performed. Pause before \"out of nowhere\" like he's still processing it.",
+      "mood": "confused"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ほうー。理由、言うてたか。",
+      "en": "Huh. Did they give you a reason?",
+      "style": "Genuine Kansai curiosity—the kind that's actually asking, not fishing. Warm and unforced. Leans in slightly, giving him space to answer.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "上司と合わんって。本当に、それだけで辞めるか？",
+      "en": "Said they didn't get along with the boss. Just like that—actually quit over that?",
+      "style": "Quieter, more introspective. A soft puzzle in the voice—not judgment, genuine wondering. Lets the question sit, with steady presence underneath.",
+      "mood": "puzzled"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "辞めるで、人。仕事って、本当にそういうもの。",
+      "en": "People quit, Daichi. Work is really just like that sometimes.",
+      "style": "Grounded Kansai philosophy—no edge, no judgment. Voice settles into something practical and knowing. Light as air but heavy with truth.",
+      "mood": "resigned_wise"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "…俺、なんか、ちょっと、揺れてる。",
+      "en": "I'm…kind of…a little shaken by it.",
+      "style": "Unexpected vulnerability. Voice drops, becomes quieter. Each pause feels genuine—not a speech pattern but actual thinking. The admission arrives without fanfare.",
+      "mood": "unsettled"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うん。それは、自然や。今、無理に決めんでええ。",
+      "en": "Yeah. That makes sense. You don't need to decide anything right now.",
+      "style": "Steady, grounded. Voice carries permission without softness. Clear-eyed and practical—the reassurance of someone who won't rush him.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "…時間、要るな。",
+      "en": "I need time with this.",
+      "style": "Quiet, honest admission. No rush, no apology underneath. Sits in the statement like it's the whole answer. Steady breath.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "時間、いつでもある。考え。…ええよ、ゆっくり。",
+      "en": "Time's always there. Think it through. …Take your time with it.",
+      "style": "Generous Kansai wisdom—voice carries the full weight of permission. Each phrase lands separately, generous and unhurried. The final line trails slightly, like a benediction.",
+      "mood": "protective_calm"
+    }
+  ]
+}

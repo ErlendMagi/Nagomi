@@ -1,0 +1,75 @@
+{
+  "id": "conv_03095",
+  "context": "Kenji helps Yuki convert a file format.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (変換/本体/アドレス/コンピューター/させる) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "変換",
+    "本体",
+    "アドレス",
+    "コンピューター",
+    "させる"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_155)",
+    "generated_at": "2026-05-29T15:49:33.455Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "このファイル、形式を変換したいの。",
+      "en": "I want to convert this file's format.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピューターに、ソフトを入れましょう。",
+      "en": "Let's install software on the computer.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本体に、入れるんですか?",
+      "en": "Do I install it on the main unit?",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、本体に入れて変換します。",
+      "en": "Yes, install it on the unit and convert.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "送り先のアドレスも、要りますか?",
+      "en": "Do I need the destination address too?",
+      "style": "curious office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "アドレスを入れて、自動で送らせます。",
+      "en": "Enter the address and have it send automatically.",
+      "style": "measured office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "変換したら、軽くなりました!",
+      "en": "After converting, it got lighter!",
+      "style": "relieved office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピューターに、任せれば楽ですよ。",
+      "en": "Letting the computer handle it is easy.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

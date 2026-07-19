@@ -1,0 +1,86 @@
+{
+  "id": "conv_06688",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 後援/図表/台数/ターミナル/コーディネーター/歴代/三井/近況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "後援",
+    "図表",
+    "台数",
+    "ターミナル",
+    "コーディネーター",
+    "歴代",
+    "三井",
+    "近況"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_336 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、地域イベント、後援する企業、調べておけ。",
+      "en": "Ren — research the companies backing the local event.",
+      "style": "Direct, economical phrasing. Measured tempo. The tone of someone assigning work to someone capable. A single beat of eye contact.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の図表、できる限り、視覚的に作ります。",
+      "en": "Yes. I'll make the charts for my paper as visually clear as possible.",
+      "style": "Attentive and responsive. Slight eagerness underneath. Speaks at moderate pace, careful not to overcommit. Slight nod as confirmation.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "参考文献の台数、十分か、確認しろ。",
+      "en": "Check that you have enough references — verify the count.",
+      "style": "Calm, checking-in tone. Not interrogative, more like reviewing a mental checklist together. Steady breath, no urgency.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。空港ターミナルで、研究調査、実施しました。",
+      "en": "Yes. I've already conducted research interviews at the airport terminal.",
+      "style": "Matter-of-fact, almost proud-quiet. Not boasting — just reporting completion. Straightforward delivery, even pacing.",
+      "mood": "accomplished"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "学会のコーディネーターと、関係、築け。",
+      "en": "Build a relationship with the conference coordinator.",
+      "style": "Advice delivered without weight. Brief pause before the clause. The sureness of someone who has built many such relationships himself.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。歴代の博士論文、図書館で、確認しました。",
+      "en": "Yes. I've reviewed previous PhD dissertations in the library.",
+      "style": "Steady affirmation. Slight warmth in having done the work already. Measured delivery, no strain. A small beat at the end, ready for the next task.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "三井財閥の歴史、論文に、参考になるぞ。",
+      "en": "The Mitsui zaibatsu history will serve your paper well as a reference point.",
+      "style": "Offering insight as a gift, not a correction. Unhurried pace. Slight warmth — mentoring mode. Settles the information gently.",
+      "mood": "mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。先輩方の近況、ゼミで共有していただいています。",
+      "en": "Yes. My senior colleagues have been sharing updates in our seminar meetings.",
+      "style": "Appreciative and grounded. Calm closing. The satisfaction of being held in a community of scholars. Even breath, no trailing-off — a natural end.",
+      "mood": "grateful_grounded"
+    }
+  ]
+}

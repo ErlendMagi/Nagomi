@@ -1,0 +1,86 @@
+{
+  "id": "conv_10986",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 河上/金田/稲本/厚木/江崎/宇野/久留米/青葉",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "河上",
+    "金田",
+    "稲本",
+    "厚木",
+    "江崎",
+    "宇野",
+    "久留米",
+    "青葉"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_551 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の河上部長を歓迎しろ",
+      "en": "I want you to welcome our new department head, Kawakami.",
+      "style": "Authoritative opening. Measured pace, clear diction. Each directive lands with quiet weight. Not raised, but unmistakably in command.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の金田課長の出張日程を整えます",
+      "en": "Understood. I'll coordinate Sales Manager Kaneda's travel schedule.",
+      "style": "Brisk, efficient acknowledgment. Clipped slightly at the edges—showing immediate mental engagement with the task. Professional, no flourish.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、技術担当の稲本主任にプロジェクトを任せろ",
+      "en": "I'm assigning the project to Inamoto, our lead technical coordinator.",
+      "style": "Steady, declarative. No inflection for persuasion—it's already decided. Direct eye contact implied. Speaks as though writing it into the record.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。神奈川県厚木市の工場を強化します",
+      "en": "Understood. I'll strengthen our factory operations in Atsugi, Kanagawa.",
+      "style": "Quick confirmation, moving into action. Slight upturn at the end—absorbing and already planning the next step. Efficient, grounded.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、菓子のお取引で江崎グリコ系列と連携しろ",
+      "en": "We're going to coordinate with the Ezaki Glico group on confectionery contracts.",
+      "style": "Calm authority. Slight emphasis on the partnership aspect—this is strategic, not routine. Speaks as though laying out the board.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の宇野様の戦略を採用します",
+      "en": "Understood. I'll implement the PR strategy Uno has prepared.",
+      "style": "Swift acknowledgment. Minimal pause—this fits into the flow of directives. Professional, ready for the next item.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、福岡県久留米の支店を強化しろ",
+      "en": "Strengthen our branch operations in Kurume, Fukuoka.",
+      "style": "Same steady command as before. Clipped, final. No room for questions. The tone of someone accustomed to being obeyed.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。研究所の青葉キャンパスの予算を確認します",
+      "en": "Understood. I'll review the budget allocation for our Aoba research campus.",
+      "style": "Final confirmation, slightly fuller than before—this is the last directive and he gives it the weight it deserves. Grounded, ready to execute.",
+      "mood": "committed"
+    }
+  ]
+}

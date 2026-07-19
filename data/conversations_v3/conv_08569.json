@@ -1,0 +1,86 @@
+{
+  "id": "conv_08569",
+  "context": "Officer briefs",
+  "purpose": "Teach: 割高/協業/行程/必勝/品切れ/伝言/月給/当座",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "割高",
+    "協業",
+    "行程",
+    "必勝",
+    "品切れ",
+    "伝言",
+    "月給",
+    "当座"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_430 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯機材が割高で困っております",
+      "en": "We're having trouble with the cost of crime prevention equipment.",
+      "style": "Professional, measured. Slight pause before speaking—careful word choice. Calm exhale. Speaking as an institution, not personally, but with quiet weight beneath.",
+      "mood": "concerned_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、民間との協業強化、ありがたいです",
+      "en": "Yes. We're grateful for the strengthened collaboration between police and private sectors.",
+      "style": "Warm, responsive. Gentle agreement that lands solidly. Respectful but not stiff—the tone of someone who means what he says. Steady eye contact.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、捜査の行程をご家族にもご説明します",
+      "en": "We'll make sure to explain the investigation process clearly to your family.",
+      "style": "Reassuring but official. Firm on the promise. Slightly slower pace—each word deliberate. The kindness underneath the procedure.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、年末防犯キャンペーンの必勝態勢ですね",
+      "en": "Yes—so this year-end crime prevention campaign is in full gear, then.",
+      "style": "Engaged, conversational. Light nod in the voice. Not performing agreement, but genuinely following along. Slightly brighter energy.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、防犯グッズの品切れに、警察、お困りなんですね",
+      "en": "So the crime prevention supplies are running out—that's adding to the strain, isn't it.",
+      "style": "Reflective, gently testing what he's hearing. Thoughtful pause. Soft concern showing through. Checking in—not asking for confirmation, but offering understanding.",
+      "mood": "sympathetic_thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民への伝言は、確実にお伝えします",
+      "en": "We'll make sure any messages for the public get delivered clearly and directly.",
+      "style": "Steady, reassuring. Quiet conviction. Professional but human—not robotic. A promise wrapped in procedure.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、若手警察官の月給改善が課題ですね",
+      "en": "The salary situation for younger officers is something that needs attention, isn't it.",
+      "style": "Thoughtful observation. Gentle but pointed—he's not asking, he's acknowledging. Slight concern underneath. Collaborative tone, not accusatory.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、当座の捜査費用を確保しております",
+      "en": "We've secured the funds we need for the immediate investigation.",
+      "style": "Quiet confidence. Not triumphant—factual and grounded. The relief of having logistics handled. Warm closure to the conversation.",
+      "mood": "assured"
+    }
+  ]
+}

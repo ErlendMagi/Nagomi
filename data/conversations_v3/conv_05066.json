@@ -1,0 +1,78 @@
+{
+  "id": "conv_05066",
+  "context": "A boss briefs his manager on a launch-day rollout plan",
+  "purpose": "Teach: 撤去/法定/スローガン/任期/速やか/命名/デフォルト/稼動",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "撤去",
+    "法定",
+    "スローガン",
+    "任期",
+    "速やか",
+    "命名",
+    "デフォルト",
+    "稼動"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ローンチ当日の段取りを伝える。まず七時に旧ブースを撤去させる。",
+      "en": "Let me brief you on launch day. First, we tear down the old booth at seven.",
+      "style": "Crisp boss tone, opening a briefing decisively"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。法定の安全基準もクリアしてから入れ替える流れですね。",
+      "en": "Understood. We swap them in after clearing the statutory safety standards, right?",
+      "style": "Polite manager confirming logistics with care"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだ。新しいスローガンの横断幕は九時までに掲げる。私の任期中の最大の案件だ。",
+      "en": "Correct. The new slogan banner goes up by nine. This is the biggest project of my tenure.",
+      "style": "Boss adding weight and emphasizing his personal stake in the rollout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "重く受け止めます。トラブルがあれば速やかにご報告いたします。",
+      "en": "I take that seriously. If anything goes wrong I'll report it promptly.",
+      "style": "Subordinate sounding earnest, steady, and committed to swift communication"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。それから新商品の命名だが、社長承認は今朝下りた。",
+      "en": "Please do. About naming the new product — the president signed off this morning.",
+      "style": "Boss delivering good news in a matter-of-fact manner"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良かったです。POSのデフォルト価格はもう反映済みです。",
+      "en": "That's a relief. The default price in the POS system is already updated.",
+      "style": "Manager reassuring with concrete detail, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "完璧だ。十時に全レジをフル稼動させて、客足を逃すな。",
+      "en": "Perfect. Get every register running at full capacity by ten — don't lose any customers.",
+      "style": "Boss closing the briefing with firm command"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "全力で対応いたします。現場に戻ります。",
+      "en": "I'll give it everything. I'm heading back to the floor.",
+      "style": "Manager wrapping up, ready to execute"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_05011",
+  "context": "A teacher walks a uni student through a biology paper",
+  "purpose": "Teach: 重力/家畜/罠/西日本/情報処理/共同通信/良質/建前",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "重力",
+    "家畜",
+    "罠",
+    "西日本",
+    "情報処理",
+    "共同通信",
+    "良質",
+    "建前"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 manual repair conv_05011)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "先週送った論文、目を通してくれた？西日本の山林で家畜の被害を追跡した研究なんだけど。",
+      "en": "Did you read the paper I sent last week? It's a study tracking livestock damage in the mountains of West Japan.",
+      "style": "Measured academic tone, easing into a seminar discussion with friendly precision."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。著者がGPS首輪のデータを情報処理して、罠の設置場所と動物の移動経路を関連付けた手法が斬新でした。",
+      "en": "Yes. The author's method of using data processing on GPS collars to link trap locations with animal movement paths was novel.",
+      "style": "Earnest student voice, careful to articulate technical points cleanly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そこに着目できるのは良いですね。共同通信が一般向けに紹介した記事も読みましたか？",
+      "en": "Good that you focused there. Did you also read the article that Kyodo News summarized for the general public?",
+      "style": "Encouraging teacher cadence, pivoting to a related media angle smoothly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "読みました。ただ、報道側は「動物の福祉のため」と建前を強調しすぎていて、研究の本筋がぼやけて見えました。",
+      "en": "I did. But the media kept emphasizing the 'for animal welfare' official line, which blurred the actual thrust of the research.",
+      "style": "Critical but respectful student observation, voice firming up on the analysis."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭い指摘です。論文では重力センサーで個体の姿勢変化を捉えていて、そこが実は一番のポイントなんですよ。",
+      "en": "Sharp observation. In the paper they actually capture posture changes with gravity sensors, and that's truly the central point.",
+      "style": "Teacher voice warming with genuine engagement at the student's insight."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。姿勢が変わる瞬間こそ、罠への警戒の表れだと。良質なデータがあるからこそ言える結論ですね。",
+      "en": "I see. The moment posture changes is itself the sign of wariness toward traps. A conclusion only possible because of high-quality data.",
+      "style": "Slow, dawning realization in the student's tone, pleased to make the connection."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "その通り。来週までに、この手法を自分の研究にどう生かせるかメモにまとめてきてください。",
+      "en": "Exactly. By next week, please prepare notes on how you could apply this method to your own research.",
+      "style": "Closing-out instructor warmth, setting a clear next step without pressure."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。ありがとうございました、来週までに考えをまとめておきます。",
+      "en": "Understood. Thank you very much, I'll have my thoughts ready by next week.",
+      "style": "Respectful student close, voice carrying renewed motivation forward."
+    }
+  ]
+}

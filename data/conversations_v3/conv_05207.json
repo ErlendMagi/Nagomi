@@ -1,0 +1,78 @@
+{
+  "id": "conv_05207",
+  "context": "Two managers prep an official press-release timeline",
+  "purpose": "Teach: 稼い/及ば/導く/禁じ/新着/実在/事典/オフィシャル",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "稼い",
+    "及ば",
+    "導く",
+    "禁じ",
+    "新着",
+    "実在",
+    "事典",
+    "オフィシャル"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_262 workflow whl5d27bi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "オフィシャル発表のタイムライン、もう新着情報として出していい段階ですか？",
+      "en": "Can we already put out the official announcement timeline as breaking news?",
+      "style": "Polite but slightly pressing, checking with a peer manager before committing."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いや、まだ数字が確定に及ばないから、社外への共有は禁じておこう。",
+      "en": "No, the numbers haven't reached final form yet, so let's prohibit external sharing.",
+      "style": "Calm and measured, drawing a clear professional line with quiet authority."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解です。広報のタイミングを正しい順序に導くのは、やっぱり私たちの役目ですね。",
+      "en": "Understood. Steering the PR timing into the right order really is our job.",
+      "style": "Agreeable and reflective, acknowledging shared managerial responsibility."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。去年はそこで稼いだ信頼を、一度の勇み足で失いかけたからね。",
+      "en": "Right. Last year one hasty move nearly cost us the trust we'd earned.",
+      "style": "Reminiscent and cautionary, speaking from experience as a senior colleague."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では文面の固有名詞は、社内の人名事典で実在の部署名と必ず照合します。",
+      "en": "Then I'll cross-check every proper noun against our internal name directory.",
+      "style": "Practical and detail-oriented, proposing a concrete verification step."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かる。実在しない肩書きが一つでも混じれば、オフィシャルサイトの信用が崩れる。",
+      "en": "That helps. One fake title slips in and the official site's credibility crumbles.",
+      "style": "Grateful yet sober, emphasizing the high stakes of small errors."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それと配信予約は十六時、新着順で上位固定にしておきますね。",
+      "en": "Also I'll schedule the release for four, pinned at the top of new posts.",
+      "style": "Efficient and forward-looking, locking in operational logistics."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいね。じゃあ最終確認は十五時半、それに合わせて原稿を仕上げておいてくれ。",
+      "en": "Good. Final check at three thirty, please have the draft polished by then.",
+      "style": "Decisive and directive, closing the meeting with clear next steps."
+    }
+  ]
+}

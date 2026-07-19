@@ -1,0 +1,78 @@
+{
+  "id": "conv_03632",
+  "context": "A barista and a customer chat about a new product at a local cafe",
+  "purpose": "Teach: 苦しい/運ん/現時点/新作/聞こえる/ローカル/蔵/冷蔵庫",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "苦しい",
+    "運ん",
+    "現時点",
+    "新作",
+    "聞こえる",
+    "ローカル",
+    "蔵",
+    "冷蔵庫"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_182 workflow w1xr4xf66)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "こんにちは。あの、店内に流れている音楽がすごく心地よくて、外まで聞こえるんですよ。",
+      "en": "Hello. The music playing inside is so soothing, you can even hear it from outside.",
+      "style": "Soft, warm tone with a gentle, romantic lilt and lingering pauses."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。ローカルのアーティストさんの曲なんです。実は今日、新作のドリンクも出したんですよ。",
+      "en": "Thank you. It's by a local artist. Actually, we also launched a new drink today.",
+      "style": "Bright, professional barista voice with a friendly, welcoming cadence."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "新作ですか?気になります。どんな味なんですか?",
+      "en": "A new product? I'm curious. What does it taste like?",
+      "style": "Curious, lightly excited delivery with rising intonation on questions."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "古い蔵で熟成させた抹茶を使っていて、現時点では数量限定なんです。冷蔵庫で冷やしたミルクと合わせます。",
+      "en": "We use matcha aged in an old storehouse; for now it's limited in quantity. We pair it with milk chilled in the fridge.",
+      "style": "Informative, slightly proud tone with measured pacing as she explains ingredients."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "蔵で熟成って素敵ですね。わざわざここまで運んでくるのは大変だったんじゃないですか?",
+      "en": "Aged in a storehouse, how lovely. Wasn't it hard to transport it all the way here?",
+      "style": "Empathetic, dreamy reaction with a soft sigh of admiration."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんです。山道を運んできた農家さんが、暑くて苦しい思いをしたって笑ってました。",
+      "en": "Yes, the farmer who carried it down the mountain road laughed that it was painfully hot work.",
+      "style": "Conversational and amused, sharing an anecdote with light laughter in her voice."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "それは頭が下がりますね。じゃあ、ぜひその新作をいただきます。",
+      "en": "That's truly humbling. Then I'd love to try that new drink, please.",
+      "style": "Sincere, gently enthusiastic order with a warm closing smile in her voice."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます!すぐにお作りしますね。お席までお運びします。",
+      "en": "Thank you so much! I'll make it right away and bring it to your table.",
+      "style": "Cheerful, polished service voice with a clear, upbeat finish."
+    }
+  ]
+}

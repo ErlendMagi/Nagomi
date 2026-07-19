@@ -1,0 +1,83 @@
+{
+  "id": "conv_00386",
+  "context": "Kenji has become a regular at Aoi's cafe. They have a small conversation about her wedding planning.",
+  "purpose": "small adult café friendship — barista-customer evolved into warm acquaintance",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "結婚式",
+    "準備",
+    "楽しい",
+    "おめでとう",
+    "一緒"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_020)",
+    "generated_at": "2026-05-26T22:35:10.029Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "あおいさん、こんにちは。今日もいつもので。",
+      "en": "Aoi-san, hello. The usual today.",
+      "style": "Salaryman warm soft sincere casual-familiar-warm opening, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-familiar"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、田中さん。あ、結婚式、来月だっけ？",
+      "en": "Yes, Tanaka-san. Oh, wedding's next month?",
+      "style": "Soft dreamy barista warm gentle bright friendly-asking-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "brightly-friendly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "違う違う、私じゃなくて、あおいさんが。",
+      "en": "No no — not me, you, Aoi-san.",
+      "style": "Salaryman warm soft laughing-correcting friendly-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "warmly-laughing"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ふふ、そうだった。準備、ちょっとずつ進めてます。",
+      "en": "Hehe, that's right. Preparation — bit by bit progressing.",
+      "style": "Soft dreamy barista warm soft laughing sincere-sharing-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-laughing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おめでとうございます。本当に。",
+      "en": "Congratulations. Truly.",
+      "style": "Salaryman warm soft sincere deep-warm formal-congratulating, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。準備、楽しいんですけど、ちょっと疲れる。",
+      "en": "Thank you. The prep is fun, but a bit tiring.",
+      "style": "Soft dreamy barista warm soft sincere honest-balanced-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-honest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一生に一度ですからね。あおいさん、無理しないで。",
+      "en": "It's once in a lifetime. Don't push yourself.",
+      "style": "Salaryman warm soft sincere gentle-care-warm closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-caring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、ありがとうございます。元気もらえました。",
+      "en": "Yes, thank you. I got energy from you.",
+      "style": "Soft dreamy barista warm soft sincere touched-warm closing-grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-touched"
+    }
+  ]
+}

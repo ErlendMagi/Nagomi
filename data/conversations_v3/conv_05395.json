@@ -1,0 +1,72 @@
+{
+  "id": "conv_05395",
+  "context": "A doctor explains body autoregulation to a teen",
+  "purpose": "Teach: 麻痺/朝鮮半島/自律/均衡/過度/引っ張っ/木材/機内",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻痺",
+    "朝鮮半島",
+    "自律",
+    "均衡",
+    "過度",
+    "引っ張っ",
+    "木材",
+    "機内"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、体の自律神経のバランス、過度なストレスで崩れます。",
+      "en": "Sakura, your autonomic nervous system gets thrown off balance by excessive stress.",
+      "style": "Clear, clinical but not cold. Gentle opening. Steady, informative pace. The tone of someone who explains without oversimplifying, speaking to you as someone capable of understanding.",
+      "mood": "clinical_gentle"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強を引っ張って続けると、頭が麻痺するみたいで…。",
+      "en": "When I keep pushing my studying harder and harder, it's like my mind just goes numb.",
+      "style": "Quiet admission. Voice gets smaller on the words describing the paralysis. Hesitant phrasing — testing whether this is even the right way to describe it. Vulnerable without performing vulnerability.",
+      "mood": "exhausted_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "休息と均衡が大事です。長距離の機内のような乾燥環境も影響します。",
+      "en": "Rest and balance are really important. Dry environments like long airplane cabins affect your system too.",
+      "style": "Warm, unhurried delivery. Light emphasis on 'really important' — not lecturing, just marking what matters. Soft, conversational pacing. The reassurance of being heard and taken seriously.",
+      "mood": "steady_caring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "木材の家、ってリラックスに効くって本当ですか?",
+      "en": "Is it really true that wood-built houses help with relaxation?",
+      "style": "Genuine curiosity with a slight lift at the end. Leaning forward slightly in tone. No cynicism, no performance — just a real question to someone she trusts.",
+      "mood": "curious_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "湿度調整に効いて、自律神経も整いやすいです。朝鮮半島の伝統建築でも、同じ知恵が活きているそうですよ。",
+      "en": "Wood naturally regulates humidity, which makes it easier for your autonomic system to settle. Traditional architecture in Korea uses the same principle, actually.",
+      "style": "Warm, slightly animated. A small note of genuine interest in the knowledge itself — she's sharing something she finds meaningful. Conversational but precise. The rhythm of someone who loves explaining when she sees genuine interest.",
+      "mood": "engaged_knowledgeable"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強になりました!",
+      "en": "I learned so much from this!",
+      "style": "Genuine brightness — not forced cheerfulness but real relief and appreciation. Open, warm ending. The natural exhale of someone feeling both heard and helped.",
+      "mood": "grateful_lighter"
+    }
+  ]
+}

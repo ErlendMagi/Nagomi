@@ -1,0 +1,72 @@
+{
+  "id": "conv_05335",
+  "context": "A doctor explains nutrition and exercise basics to a teen",
+  "purpose": "Teach: 重量/有害/摂取/歩行/多発/救助/連発/体感",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "重量",
+    "有害",
+    "摂取",
+    "歩行",
+    "多発",
+    "救助",
+    "連発",
+    "体感"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、ビタミンの摂取と、軽い歩行運動が要なんですよ。",
+      "en": "Sakura, the keys here are getting enough vitamin intake and doing some light walking exercise.",
+      "style": "Steady, clear, and measured. Lean slightly forward—this is important information. Warm but professional; she's talking to a teenager, not down to one. Deliberate pace on the advice.",
+      "mood": "caring_clear"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "最近、急に動くと頭痛が連発するんです。",
+      "en": "Lately when I move too fast, I get these headaches one after another.",
+      "style": "Hesitant opening—she's describing something that worries her. Quieter than before, but direct. Small pause after 'move too fast,' like she's waiting to see if the doctor thinks she's being dramatic.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "重量物を持ち上げないこと、有害な栄養補助剤を避けることも大事です。",
+      "en": "Don't lift anything heavy, and steer clear of supplements you're not sure about—those matter too.",
+      "style": "Methodical, not lecturing. She's checking off practical points. Slight emphasis on 'steer clear' like she's seen this problem before. Eye contact steady; this is preventative care, not scolding.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "救助講習も学校でやってます。体感を覚えるためですよね。",
+      "en": "We actually do rescue training at school—that's to build up how our bodies feel in those situations, right?",
+      "style": "Energetic but searching for confirmation. Sakura's testing whether her training connects to what the doctor said. Slight lift at the end—genuine question, not just filling air. Leans in slightly, engaged.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いいことです。ちょっとしたコツで多発する不調、減らせます。",
+      "en": "That's excellent. These small adjustments can really cut down how often these problems come back.",
+      "style": "Warm approval, genuine encouragement. Slight nod in the voice—she means this. Not rushed; she's giving Sakura space to feel heard. Calm, confident tone that settles things.",
+      "mood": "warm_assured"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実践してみます。ありがとうございました!",
+      "en": "I'll try these out. Thank you so much for explaining everything.",
+      "style": "Genuine gratitude, sincere but not effusive. Sakura's respectful without being stiff. Slight energy lift—she's leaving the appointment feeling better than she came in. Natural close, not performed.",
+      "mood": "grateful_hopeful"
+    }
+  ]
+}

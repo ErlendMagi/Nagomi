@@ -1,0 +1,81 @@
+{
+  "id": "conv_02425",
+  "context": "Tech support: Kenji helps Yuki with new software at work.",
+  "purpose": "WIDENED SCENARIO: workplace tech-help; UI/device vocabulary in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "検索",
+    "リンク",
+    "表示",
+    "使用",
+    "携帯"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_122)",
+    "generated_at": "2026-05-29T12:42:34.293Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "このソフト、使い方が分からなくて。",
+      "en": "I can't figure out how to use this software.",
+      "style": "slightly stuck office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、上の検索欄に入力してください。",
+      "en": "First, type into the search bar at the top.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "検索したら、結果が出ました。",
+      "en": "I searched and got results.",
+      "style": "relieved office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そのリンクを、押してみてください。",
+      "en": "Try pressing that link.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "リンクを押すと、画面が変わりますね。",
+      "en": "Pressing the link changes the screen.",
+      "style": "observant office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、そこに情報が表示されます。",
+      "en": "Yes, the information is displayed there.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "携帯からも、使用できますか?",
+      "en": "Can I use it from my phone too?",
+      "style": "curious office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、携帯でも同じ画面が表示されます。",
+      "en": "Yes, the same screen displays on your phone.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "これで使用できそうです。ありがとう。",
+      "en": "I think I can use it now. Thanks.",
+      "style": "grateful office woman voice, soft warm relieved appreciative throughout"
+    }
+  ]
+}

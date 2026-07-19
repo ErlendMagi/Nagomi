@@ -1,0 +1,105 @@
+{
+  "id": "conv_00058",
+  "context": "After-school office at the language/career school. Riku is sitting across from Asuka. He needs help preparing for his first part-time job interview.",
+  "purpose": "mentor preparation — gentle teacher, anxious teen",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "今",
+    "時間",
+    "言う",
+    "どう",
+    "少し"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "じゃ、リクくん、座って。緊張してる？",
+      "en": "Right — Riku-kun, sit down. Are you nervous?",
+      "style": "Sits at his eye level across the table. Steady, unhurried tone. Opening her voice with gentle permission, not interrogation.",
+      "mood": "calm_inviting"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…めっちゃ。",
+      "en": "…Yeah, really.",
+      "style": "Mumbled, barely audible. Words drop like stones. Eyes fixed on the desk. The admission costs him.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫。本当に、誰でも緊張する。",
+      "en": "It's okay. Really — everyone gets nervous before something like this.",
+      "style": "Warm normalising tone. Slides a glass of water across the table midway through speaking — the gesture matters more than the words.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "何、言えばいい？",
+      "en": "What am I supposed to say?",
+      "style": "Quietly helpless. Glances up at her face for the first time, then back down. The question carries real uncertainty.",
+      "mood": "lost"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "まず、名前と、学校と、なぜ働きたいか。",
+      "en": "Start with your name, what school you're in, and why you want this job.",
+      "style": "Practical and clear. Counts on her fingers as she speaks — not condescending, just organizing his thoughts aloud with him.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "なぜ…本当のこと言っていい？",
+      "en": "Why — can I give you the actual reason?",
+      "style": "Small, hopeful question. Voice lifts a half-step at the end, searching for permission. Vulnerability barely concealed.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。むしろ、本当のことの方が伝わるから。",
+      "en": "Yes — honestly, it's the real reasons that actually land.",
+      "style": "Patient, matter-of-fact. This is the moment she genuinely means it. Voice carries the weight of her own experience.",
+      "mood": "honest_encouraging"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お金、欲しい。本当に。新しいギター、買いたくて。",
+      "en": "I want money. Honestly. I want to buy a new guitar.",
+      "style": "Truth spills out faster than he expected. Surprised at his own honesty. Breath catches slightly after 'money' — the first word costs something.",
+      "mood": "relieved_urgent"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいね。それ、すごくいい理由。",
+      "en": "That's good. That's actually a really solid reason.",
+      "style": "Genuine warmth without performance. Not the teacher-voice — the person-voice. Affirms with real weight, not hollow reassurance.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "え、本当に？",
+      "en": "Really?",
+      "style": "Eyes fully up on her now. Voice lifts with genuine surprise. The word carries relief and disbelief in equal measure.",
+      "mood": "surprised_hopeful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。じゃ、少し練習しよう。時間、まだある。",
+      "en": "Yes. Let's run through it a few times. We've got time.",
+      "style": "Hand settles on the table between them — close enough to feel present, not close enough to crowd. Voice settles into mentor-mode: steady, present, in.",
+      "mood": "warm_present"
+    }
+  ]
+}

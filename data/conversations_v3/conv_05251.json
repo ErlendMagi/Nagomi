@@ -1,0 +1,78 @@
+{
+  "id": "conv_05251",
+  "context": "A teacher walks a uni student through an oceanography paper",
+  "purpose": "Teach: 海水/ウラン/洞窟/引き上げる/余儀なく/転じ/ストライキ/初級",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "海水",
+    "ウラン",
+    "洞窟",
+    "引き上げる",
+    "余儀なく",
+    "転じ",
+    "ストライキ",
+    "初級"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "レンくん、論文の章立て、海水中のウラン抽出の話に絞ったんですね。",
+      "en": "Ren, you narrowed your chapter to uranium extraction from seawater.",
+      "style": "Calm seminar opener, professorial cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。コスト面で実用化を断念せざるを得ない研究が多く、本筋は撤退を余儀なくされてきました。",
+      "en": "Yes. Many studies had to withdraw because the cost made commercialization unfeasible.",
+      "style": "Earnest student briefing."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "最近、研究の流れが転じて、海底洞窟付近の濃度差を利用する案が出ています。",
+      "en": "Recently the field has turned, and proposals are using concentration gradients near undersea caves.",
+      "style": "Engaged teacher tone, sliding a figure across the desk."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その手法だと、抽出効率を大きく引き上げることが可能だそうです。",
+      "en": "With that method, extraction efficiency can apparently be raised substantially.",
+      "style": "Animated student insight."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "初級の教科書では触れられない領域ですが、政策面では重要です。",
+      "en": "It's not covered in beginner textbooks, but it matters at the policy level.",
+      "style": "Patient teacher explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "港湾労働者のストライキが起きた地域では、研究施設の運営にも影響が出ていますね。",
+      "en": "In regions where port-worker strikes happened, research facility operations are also affected.",
+      "style": "Thoughtful student observation."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうした文脈も入れると、論文の説得力が増しますよ。",
+      "en": "Bringing in that context will strengthen your paper's persuasiveness.",
+      "style": "Encouraging mentor close."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。第三章でその点、丁寧に書きます。",
+      "en": "Thank you. I'll handle that point carefully in chapter three.",
+      "style": "Respectful student close."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07846",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 招聘/来賓/一報/区役所/登用/譲り/心掛け/御礼",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "招聘",
+    "来賓",
+    "一報",
+    "区役所",
+    "登用",
+    "譲り",
+    "心掛け",
+    "御礼"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_394 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、本気で、絶対、有識者、絶対、招聘、絶対、進めろ、本気で、頼んだぞ",
+      "en": "I want you to bring in expert consultants. I'm serious about this. Move on it now.",
+      "style": "Steady, commanding opening. Direct eye contact. Each clause lands with clear weight. No pause for negotiation. Firm close on 頼んだぞ.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。式典、本気で、絶対、来賓、絶対、ご案内、絶対、進めております、本気で、感謝",
+      "en": "Understood. We're actively coordinating the ceremony invitations for all key guests. Thank you for the clear direction.",
+      "style": "Respectful but assured. Even pace, measured delivery. Shows competence without overcomplaining. Warm acknowledgement at the close, not obsequious.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約成立、本気で、絶対、一報、絶対、入れろ、本気で、頼んだぞ",
+      "en": "Once the contract is signed, get me word immediately. Don't wait.",
+      "style": "Sharp, clipped. Slight pause after 'signed' to let the urgency land. Lower register on the final clause. This is non-negotiable.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本気で、絶対、区役所、絶対、への、絶対、申請、絶対、完了しました、本気で、感謝",
+      "en": "Yes. The ward office paperwork went through as of today. I wanted to make sure you knew right away.",
+      "style": "Clear and direct. Paced to show completion. Slight lift on the final phrase—pride in execution. Not overeager, just factual confidence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手、本気で、絶対、登用、絶対、進めろ、本気で、頼んだぞ",
+      "en": "Promote the younger staff. Build that pipeline now.",
+      "style": "Decisive, no filler. Short sentences. Lean forward slightly on 'promote.' This is strategy, not request. Weight lands on the action verb.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。先代から、本気で、絶対、譲り、絶対、受けた、絶対、社風、絶対、大事にしております、本気for、感謝",
+      "en": "Understood. We honor the company culture that's been passed down to us, and that's something I hold very seriously.",
+      "style": "Thoughtful and sincere. Slightly slower pace here—this matters to him personally. Solid ground beneath the words. Genuine respect in the delivery, not performed.",
+      "mood": "reverent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員、本気で、絶対、心掛け、絶対、いつも、絶対、ほめろ、本気で、頼んだぞ",
+      "en": "Staff deserve recognition. Make sure you're acknowledging their work consistently.",
+      "style": "Softer register than before. Still commanding, but the undertone is human now. Slight warmth on 'acknowledgement.' This is values-driven, not a bark.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様への、本気で、絶対、御礼、絶対、状、絶対、お送りいたしました、本気で、感謝",
+      "en": "Yes. I sent thank-you letters to our clients today. It felt important to reach out personally.",
+      "style": "Calm completion. Warm at the edges. The final phrase has gentle pride—small gesture, done with intention. Quiet confidence in follow-through.",
+      "mood": "thoughtful"
+    }
+  ]
+}

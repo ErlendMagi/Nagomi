@@ -1,0 +1,86 @@
+{
+  "id": "conv_08609",
+  "context": "Officer briefs",
+  "purpose": "Teach: 加筆/手直し/終点/公示/客室/税別/免税/効能",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "加筆",
+    "手直し",
+    "終点",
+    "公示",
+    "客室",
+    "税別",
+    "免税",
+    "効能"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、捜査報告書に加筆を加えました",
+      "en": "I've added supplementary notes to the investigation report.",
+      "style": "Professional and measured. Even tone, no rush. The delivery of someone who has done this work many times before. Clear enunciation on the verb, gentle on the conclusion.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、防犯機材の手直しをご依頼されたんですね",
+      "en": "Yes. So you've asked us to service the security equipment.",
+      "style": "Attentive and straightforward. Light nod in the voice—acknowledgment without over-performing. Competent, not obsequious. Steady eye contact level.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、長期捜査の終点を見据えております",
+      "en": "We're looking toward the closure of this long-running investigation.",
+      "style": "Formal but not stiff. Slight weight on 「終点」—the sense of something nearing its end. Quiet conviction. Professional distance maintained, but there's gravity underneath.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、お尋ね者の公示も継続されてますね",
+      "en": "Yes. The public wanted notice is still being circulated.",
+      "style": "Confirming, tracking. Quick verbal check-in—keeping pace with the officer. No hesitation. The tone of someone who knows the protocol and has already processed it.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、署の客室で被害者面接を行います",
+      "en": "We'll be conducting victim interviews here at the station.",
+      "style": "Matter-of-fact statement of procedure. Slight pause before the location detail—giving weight to the space where this will happen. Professional neutrality. No apology in the tone.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、税別の予算管理、ご苦労様です",
+      "en": "Understood. I appreciate your diligent budget management on our end.",
+      "style": "Respectful, genuine. A small acknowledgment of the work behind the work. Warm but professional—not deferential, collaborative. Slight bow in the voice.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、空港での免税品不正持ち出しを警戒します",
+      "en": "We're being vigilant about illegal smuggling of duty-free goods through the airport.",
+      "style": "Alert and precise. Slight emphasis on 「警戒」—active watchfulness. Measured pace, no alarm in the delivery. The tone of someone managing a real concern with steady competence.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、薬物の効能を悪用する事件もご捜査ですね",
+      "en": "Right. You're also investigating cases where medications are being misused.",
+      "style": "Recognition tinged with concern. Quieter than before—this hits closer. The shift is subtle but present. Still professional, but the human element shows a little. Lean-in intimacy without losing the formal frame.",
+      "mood": "concerned"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04336",
+  "context": "A boss reviews quarterly finances with his manager",
+  "purpose": "Teach: 控除/アイディア/任意/幸運/配当/開業/相続/軌道",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "控除",
+    "アイディア",
+    "任意",
+    "幸運",
+    "配当",
+    "開業",
+    "相続",
+    "軌道"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_218 workflow w4455pikw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の決算だが、おかげさまで事業がようやく軌道に乗ってきたな。",
+      "en": "About this quarter's results — thankfully, the business has finally gotten on track.",
+      "style": "Authoritative, satisfied tone with paternal warmth from a senior executive."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、株主配当も前年比で十二パーセント増やせる見込みです。",
+      "en": "Yes, we project a twelve percent increase in shareholder dividends year-over-year.",
+      "style": "Crisp, professional reporting voice with measured confidence and respect."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは幸運だった。控除の見直しで節税できた分も大きいんじゃないか?",
+      "en": "That was fortunate. Wasn't the deduction review also a significant tax saving for us?",
+      "style": "Probing yet collaborative, testing the manager's grasp of the details."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。新しい所得控除の枠組みを早めに導入したのが効きました。",
+      "en": "Exactly as you say. Adopting the new income deduction framework early really paid off.",
+      "style": "Affirming and analytical, providing crisp justification with deference."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それで、来期に向けて何か面白いアイディアはあるのか?",
+      "en": "So then, do you have any interesting ideas for the coming quarter?",
+      "style": "Curious, opening up the discussion with a relaxed but expectant tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "二つございます。一つは関西支店の開業、もう一つは任意団体との共同研究です。",
+      "en": "I have two. One is opening the Kansai branch, the other is joint research with a voluntary organization.",
+      "style": "Organized and structured, ticking off proposals with quiet enthusiasm."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。ただ、私の引退後の相続問題もそろそろ整理しておきたいんだ。",
+      "en": "I see. That said, I'd like to start sorting out my own succession issues after retirement too.",
+      "style": "Reflective and slightly softer, hinting at long-term personal planning."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。会計士と相続税の試算を進めておきます。",
+      "en": "Understood. I'll have the accountant move forward with inheritance tax projections.",
+      "style": "Reassuring and dutiful, signaling readiness to handle sensitive matters discreetly."
+    }
+  ]
+}

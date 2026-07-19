@@ -1,0 +1,86 @@
+{
+  "id": "conv_08374",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 変態/下痢/淘汰/封鎖/犯す/駆除/悟り/生ずる",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "変態",
+    "下痢",
+    "淘汰",
+    "封鎖",
+    "犯す",
+    "駆除",
+    "悟り",
+    "生ずる"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_420 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、変態反応を示す患者さんを医療チームで丁寧に診ます",
+      "en": "Ren — we handle patients with allergic reactions with careful attention from the whole medical team.",
+      "style": "Clear, measured opening. Steady professional tone. Slight emphasis on 'careful'—this matters to her. Unhurried delivery. The composure of someone used to being heard.",
+      "mood": "measured_professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、下痢の患者さんに脱水対策を医療チームで行います",
+      "en": "Yes — for patients with diarrhea, we implement dehydration management as a team across the hospital.",
+      "style": "Same steady baseline. A touch more concrete now, moving into the practical. Still calm. The kind of reassurance that comes from having done this many times.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療資源の淘汰を、貴院、見ておられますね、先生",
+      "en": "I see your hospital pays close attention to how medical resources are allocated, doesn't it, sensei?",
+      "style": "Respectful, genuinely curious. Slightly tentative—he's testing whether this question is appropriate. Soft rise at the end. The politeness of someone still figuring out how the room works.",
+      "mood": "respectfully_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、感染拡大時の病棟封鎖を医療チームで備えております",
+      "en": "Yes — we prepare our ward closure protocols for infection control situations across the medical team.",
+      "style": "Unchanged rhythm. Professional clarity. She's answering his observation with equal clarity. No defensiveness, just fact. Still measured.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療ミスを犯す医師の処分を、貴院、厳しく対応されておられますね、先生",
+      "en": "Your hospital takes quite a strict approach to how you handle physician errors, doesn't it, sensei?",
+      "style": "Slower now, more deliberate. He's thinking as he speaks. Respectful but probing deeper. The slight hesitation of someone asking something he knows matters. Eye contact implicit in the tone.",
+      "mood": "thoughtfully_probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、院内のゴキブリ駆除を業者と連携して進めます",
+      "en": "Yes — we partner with pest control vendors to manage in-hospital pest issues as part of our ongoing operations.",
+      "style": "Back to steady. No change in register—she treats every answer with equal weight. Professional, complete. The kind of doctor who answers every question as if it deserves the same care.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "終末期医療の悟りに、貴院、医療チームで寄り添われますね、先生",
+      "en": "I notice your hospital walks alongside patients in end-of-life care with real compassion from the medical team, don't you?",
+      "style": "Quieter, more thoughtful. He's moved to something that touches him. Slower pace. Respect in every word. The slight tremor of someone asking about something real.",
+      "mood": "tender_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、薬の副作用から生ずる症状を医療チームで丁寧に診ます",
+      "en": "Yes — we carefully assess and manage symptoms that arise from medication side effects as a coordinated team.",
+      "style": "Warm close. Slight softening in her tone now, matching the depth of his last question. Still professional but noticeably present. The care in her voice matches the care she's describing.",
+      "mood": "attentive_warm"
+    }
+  ]
+}

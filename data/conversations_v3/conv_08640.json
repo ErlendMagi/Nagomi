@@ -1,0 +1,86 @@
+{
+  "id": "conv_08640",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 製剤/仏像/床屋/駅伝/あご/観音/水銀/スマイル",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "製剤",
+    "仏像",
+    "床屋",
+    "駅伝",
+    "あご",
+    "観音",
+    "水銀",
+    "スマイル"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_433 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが新製剤のお仕事してらっしゃるのよ",
+      "en": "Sho, your dad's been working on a new pharmaceutical compound.",
+      "style": "Conversational but slightly distant, as if sharing information from another part of the day. Warm but matter-of-fact. The cadence of a mother updating her son on the household.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんと仏像を拝んできたよ",
+      "en": "Mom, I went to pray at the temple with Grandma today.",
+      "style": "Bright, eager to share. Quick delivery, almost tumbling the words out. Small-boy pride in having done something grown-up. Looking up at her for recognition.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが近所の床屋さんへ行かれるそうよ",
+      "en": "Sho, your dad's heading to the barber shop down the street.",
+      "style": "Same gentle, informational tone. Slightly more present than the first line, noticing him. The rhythm of a mother sharing small household updates.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、駅伝でお兄ちゃんたちの応援をしたよ",
+      "en": "Mom, I cheered for the older boys at the relay race.",
+      "style": "Immediate, excited. The words come faster. Real pride in having been part of something bigger. Seeking her approval, almost breathless with wanting her to understand how important it was.",
+      "mood": "excited_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんはあごひげをそりに行かれたわ",
+      "en": "Sho, your grandfather went to shave his beard.",
+      "style": "Same warm, observational tone. Slightly amused by the domestic detail. Not lecturing, just sharing what happened in the family's day.",
+      "mood": "amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お母さんと観音様にお参りしたよ",
+      "en": "Mom, I went to pray at the Kannon temple with you.",
+      "style": "Soft correction, gentle. He's correcting her gently — it was with her, not someone else. Still eager, but with a small note of wanting her to remember correctly.",
+      "mood": "gentle_reminder"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが古い水銀の体温計を片付けてらしたわ",
+      "en": "Sho, your dad was cleaning out some old mercury thermometers.",
+      "style": "Practical, careful tone. A mother noting something that required handling. Not alarmed, but present with the detail. The weight of household management in her voice.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんのスマイルが大好きだよ",
+      "en": "Mom, I really love Grandpa's smile.",
+      "style": "Soft, sincere, unprompted affection. The words come slower, more tender. No performance — just a genuine observation about someone he adores. A moment of real feeling.",
+      "mood": "tender_genuine"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_05313",
+  "context": "A police officer briefs a uni reporter about emergency drills",
+  "purpose": "Teach: 分裂/火災/津波/飛躍/流動/機動/抑圧/繁栄",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "分裂",
+    "火災",
+    "津波",
+    "飛躍",
+    "流動",
+    "機動",
+    "抑圧",
+    "繁栄"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "昨年の防災訓練、津波と火災の同時想定で行いました。",
+      "en": "Last year we ran a disaster drill—tsunami and fire happening at the same time.",
+      "style": "Steady, procedural tone. Speaking from practiced experience. Clear enunciation on the key details without rushing. Slight pause before listing the scenarios, as if confirming the facts.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "機動隊の派遣、流動的な対応が求められますね。",
+      "en": "So that means rapid-response teams need to be flexible, doesn't it?",
+      "style": "Genuine intellectual curiosity. Leaning forward slightly in the voice. Not challenging—testing his own understanding. Respectful but engaged, like he's thinking through the problem alongside the officer.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。情報の分裂を防ぐため、指揮系統は単一化しています。",
+      "en": "Right. We keep the chain of command unified to prevent information getting scattered.",
+      "style": "Clear, matter-of-fact. The voice of someone explaining procedure he knows by heart. Professional but not stiff. Steady eye contact through the explanation.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "抑圧的にならない伝達方法、工夫があるんですか。",
+      "en": "But there must be ways to communicate orders without that feeling authoritarian, right?",
+      "style": "Thoughtful probe, not confrontational. Slight tentativeness—he's asking something that matters to him. Careful not to presume, but genuine in the question. Tone lifts slightly at the end, inviting honesty.",
+      "mood": "thoughtful_searching"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "住民の繁栄を守るのが本義ですから、説明を尽くします。",
+      "en": "Protecting the community is what this is really about, so we make sure people understand the reasoning behind what we're asking.",
+      "style": "Quiet conviction. Speaking from principle rather than protocol. Warmer than before—this is something he genuinely believes. Deliberate pace, as if each word is chosen. Calm authority without coldness.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "技術的にも飛躍したシステム、導入されてるんですね。",
+      "en": "The technology side has advanced a lot too—you've implemented some impressive new systems.",
+      "style": "Acknowledging recognition, almost respectfully. Voice carries a note of genuine respect for the advancement. Not sycophantic, but genuinely impressed. Slight upward inflection showing he's learned something.",
+      "mood": "respectful_impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。記事用に資料、後ほどお送りします。",
+      "en": "Yes. I'll get those materials to you for the article once we're done here.",
+      "style": "Warm closing note. Not curt or dismissive—genuinely helpful. Professional boundary being set kindly. The small courtesy of someone who respects the person he's speaking to and will follow through.",
+      "mood": "cooperative"
+    }
+  ]
+}

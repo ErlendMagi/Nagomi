@@ -1,0 +1,65 @@
+{
+  "id": "conv_05510",
+  "context": "A police officer briefs a uni reporter about administrative reform",
+  "purpose": "Teach: 原案/本業/都度/縛ら/検事/集客/文言/網羅",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原案",
+    "本業",
+    "都度",
+    "縛ら",
+    "検事",
+    "集客",
+    "文言",
+    "網羅"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本業の警備に加え、集客イベントの安全管理も担当しています。",
+      "en": "In addition to core security work, we also manage safety for customer events and promotional activities.",
+      "style": "Even, measured opening. Professional clarity without stiffness. Steady eye contact level. Informational but not lecturing—the tone of someone used to explaining their role.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "原案づくり、検事と協議されるんですか。",
+      "en": "When you're drafting those plans, do you coordinate with prosecutors?",
+      "style": "Genuine curiosity, slight lean forward. Not defensive—testing to understand. Respectful pause before the question, as if he's thought about whether to ask it.",
+      "mood": "attentive_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、都度確認しています。文言の網羅性が重要です。",
+      "en": "Yes—we confirm each time. The comprehensiveness of the wording is crucial.",
+      "style": "Direct acknowledgement on 「はい」. Shift to technical register. Slight emphasis on 「網羅性」 without sounding pedantic. Clinical but not cold.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去の事案に縛られず、柔軟に対応していらっしゃるんですね。",
+      "en": "So you don't get locked into past precedents—you stay flexible with how you approach each situation.",
+      "style": "Warm recognition in the voice. Small smile underneath the words. Genuinely impressed, not flattering. Slower pace on the observation, giving him room to hear himself reflected back.",
+      "mood": "appreciative_realizing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。それが安全につながります。",
+      "en": "Yes. That's what leads to real safety.",
+      "style": "Quiet conviction. Not defensive—affirming. Brief, weighted pause before the final word. The quiet confidence of someone who's seen how flexibility saves lives.",
+      "mood": "grounded_assured"
+    }
+  ]
+}

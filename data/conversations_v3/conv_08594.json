@@ -1,0 +1,86 @@
+{
+  "id": "conv_08594",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 養育/全滅/大佐/私学/プロパガンダ/痴漢/偽善/処方箋",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "養育",
+    "全滅",
+    "大佐",
+    "私学",
+    "プロパガンダ",
+    "痴漢",
+    "偽善",
+    "処方箋"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、養育不全による発達障害の研究を医療チームで参照しております",
+      "en": "Ren, we're consulting on developmental disorders related to nutritional neglect as a medical team.",
+      "style": "Clear, clinical tone without coldness. Even breath. Direct eye contact level. The precision of someone who has explained this before, many times, to many people.",
+      "mood": "professional_clear"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、感染で病棟が全滅状態になる事態を医療チームで防ぎます",
+      "en": "Yes — and our medical team is working to prevent the ward from reaching a critical infection situation.",
+      "style": "Steady, reassuring without being falsely warm. Slight emphasis on 'prevent' — the weight of responsibility sits lightly in her voice, not defensively.",
+      "mood": "focused_responsible"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "退役大佐の医療相談を、貴院、ご担当されたんですね、先生",
+      "en": "So your hospital handled the medical consultation for the retired colonel, then, Doctor?",
+      "style": "Genuinely curious, respectful. Leans slightly forward — not pushing, just interested. The tone of someone asking to understand, not to test.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、私学病院との連携を医療チームで強化しております",
+      "en": "Yes — we're strengthening our coordination with private hospitals through our medical team.",
+      "style": "Matter-of-fact, no apology in it. Breath steady. The slight pause before 'strengthening' suggests this is ongoing work, not finished.",
+      "mood": "composed_deliberate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療プロパガンダに惑わされぬよう、貴院、患者にご指導されてますね、先生",
+      "en": "Your hospital guides patients so they aren't misled by medical propaganda, then, Doctor?",
+      "style": "Thoughtful, probing gently. The cadence of someone thinking aloud, not accusing. Quiet respect underneath the question.",
+      "mood": "thoughtful_earnest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、痴漢被害者の心のケアを医療チームで担当します",
+      "en": "Yes — we handle the emotional care for victims of harassment as part of our medical team's work.",
+      "style": "No lightness. Grounded, serious tone. The words land with care. A pause before 'emotional care' — acknowledging the weight of what that means.",
+      "mood": "serious_compassionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療慈善と偽善の線引きを、貴院、なさっておられますね、先生",
+      "en": "Your hospital draws a clear line between medical charity and mere appearance of it, then, Doctor?",
+      "style": "Slower pace. Thoughtful, searching for understanding. The tone of someone wrestling with something important, inviting the doctor to meet him there.",
+      "mood": "philosophical_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、処方箋の電子化を医療チームで導入いたしました",
+      "en": "Yes — we've implemented electronic prescriptions across our medical team.",
+      "style": "Factual closure. Breath slightly settled, like reaching the end of a list. Quieter on the final word, as if it's the small, solid thing that matters after the bigger questions.",
+      "mood": "pragmatic_settled"
+    }
+  ]
+}

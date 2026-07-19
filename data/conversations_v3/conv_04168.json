@@ -1,0 +1,84 @@
+{
+  "id": "conv_04168",
+  "context": "A mom consults a doctor about general family health concerns",
+  "purpose": "Teach: インフルエンザ/アルコール/脂肪/推定/進展/重点/喫煙/美しく",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インフルエンザ",
+    "アルコール",
+    "脂肪",
+    "推定",
+    "進展",
+    "重点",
+    "喫煙",
+    "美しく"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_210 workflow w7ku8aw67)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、今年もインフルエンザの流行が心配で、家族全員の健康診断をお願いしたいんです。",
+      "en": "Doctor, I'm worried about this year's flu outbreak, so I'd like a health check for the whole family.",
+      "style": "Concerned mother opening with polite consultative tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。まずはご主人のことから伺いましょうか。喫煙やお酒の習慣はいかがですか。",
+      "en": "Of course. Let's start with your husband. How are his smoking and drinking habits?",
+      "style": "Calm professional doctor inviting detailed background"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "それが悩みで、夫の喫煙は全然減らず、毎晩アルコールの強いお酒ばかり飲んでいて…。",
+      "en": "That's my worry — his smoking hasn't decreased at all, and every night he drinks only strong alcoholic drinks.",
+      "style": "Sighing wife confiding domestic health concern naturally"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。前回の数値から推定すると、中性脂肪がかなり上昇している可能性が高いですね。",
+      "en": "I see. Estimating from his last numbers, his triglycerides are likely climbing significantly.",
+      "style": "Measured doctor delivering clinical inference carefully"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "やっぱり…。生活改善の話は何度もしたのですが、なかなか進展しなくて。",
+      "en": "I knew it... We've talked about lifestyle changes many times, but there's been little progress.",
+      "style": "Resigned mother expressing prolonged household frustration clearly"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "では今回は食事と運動の二点に重点を置いて、ご家族で取り組むプランを立てましょう。",
+      "en": "Then this time let's focus on diet and exercise, building a plan the whole family follows together.",
+      "style": "Encouraging doctor pivoting toward actionable strategy"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血管も美しく保つには、奥様やお子様の食習慣も一緒に見直すのが一番効果的ですよ。",
+      "en": "To keep the blood vessels healthy and clean too, reviewing your and your child's eating habits together is most effective.",
+      "style": "Doctor broadening scope to whole-family habits warmly"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがたいです。家族みんなで取り組めば、夫も少しは本気になってくれそうな気がします。",
+      "en": "I appreciate that. If we all work on it as a family, I feel my husband might finally take it seriously.",
+      "style": "Hopeful mother finding renewed motivation together"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは何よりです。では来週、ご家族そろってお越しください。詳しい検査をご案内します。",
+      "en": "That's wonderful. Please come together as a family next week, and I'll guide you through the detailed exams.",
+      "style": "Warm doctor closing with reassuring next steps"
+    }
+  ]
+}

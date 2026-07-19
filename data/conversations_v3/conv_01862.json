@@ -1,0 +1,61 @@
+{
+  "id": "conv_01862",
+  "context": "Sho-young proudly shows Ren a book he finished reading.",
+  "purpose": "Child showing reading achievement to mentor.",
+  "ambient": "living_room_evening_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "読む",
+    "感想",
+    "面白い"
+  ],
+  "cast": [
+    "sho_child",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_093)",
+    "generated_at": "2026-05-27T08:15:56.289Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "蓮にいちゃん、本、読み終えた!",
+      "en": "Ren, I finished the book!",
+      "style": "Bright, unguarded pride in the accomplishment. Quick attack — he wants to share this news immediately. Warm, seeking approval but already half-confident he'll get it. Natural child energy, no self-consciousness.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごいね!感想は?",
+      "en": "That's amazing! What did you think?",
+      "style": "Genuine delight in Sho's excitement. Soft, genuinely curious — not performing interest but actually wanting to hear. Leans in slightly. Warm elder-brother tone without condescension.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "すごく、面白かった!",
+      "en": "It was really fun!",
+      "style": "Pure enthusiasm without filter. Quick, light delivery. The simplicity is honest — he's not reaching for bigger words, just expressing the feeling directly. Slight breathlessness from excitement.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "主人公、好きになった?",
+      "en": "Did you like the main character?",
+      "style": "Gentle follow-up question. Soft, patient pace — genuinely curious about what resonated with him. Warm and attentive, creating space for him to think and answer fully.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、大好き!",
+      "en": "Yeah, I love him!",
+      "style": "Emphatic, unselfconscious declaration. Quick, bright delivery. The 「大好き」 lands with full conviction — no modulation, just pure feeling expressed directly.",
+      "mood": "enamored"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00923",
+  "context": "Saito gives Yumiko a quick checkup result.",
+  "purpose": "doctor-patient routine checkup",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "大切",
+    "相談",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_046)",
+    "generated_at": "2026-05-27T02:46:28.251Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "優子さん、健康、問題ありません。",
+      "en": "Your health is fine, Yumiko-san.",
+      "style": "Steady, clear delivery with genuine warmth. Opens with quiet confidence. Slight pause before the reassurance lands. Professional composure with human kindness underneath—the kind of doctor who has delivered good news a hundred times and means it every time.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ああ、安心しました。",
+      "en": "Ah, that's a relief.",
+      "style": "Soft exhale on the opening syllable. The tension visibly leaves her shoulders mid-sentence. Genuine gratitude, not performed—a mother who has been carrying worry and can finally set it down, even if just for this moment.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、生活習慣、見ていきましょう。",
+      "en": "Let's keep an eye on your lifestyle habits together.",
+      "style": "Warm, collaborative invitation. Not prescriptive—she's offering partnership, not orders. Measured pace, slight lean forward. The 'together' carries real weight: I'm not just handing you a list.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "相談、いつでも、来ます。",
+      "en": "I'll come in whenever you think I should—anytime at all.",
+      "style": "Earnest commitment without overselling it. Steady, practical tone. No hesitation—she's already decided this matters. Respectful toward the doctor's expertise, but fully present in her own choice to follow through.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、また、来年。",
+      "en": "Take care of yourself. I'll see you next year.",
+      "style": "Warm closing benediction. Gentle, unhurried. The finality of a good ending—not abrupt, but complete. Real affection for the patient underneath the professional boundary. A small smile audible in the voice.",
+      "mood": "warm_closure"
+    }
+  ]
+}

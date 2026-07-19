@@ -1,0 +1,84 @@
+{
+  "id": "conv_04763",
+  "context": "A police archivist guides a uni student through old records",
+  "purpose": "Teach: 東西/南北/に際して/にわたり/東海/本土/中期/大和",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "東西",
+    "南北",
+    "に際して",
+    "にわたり",
+    "東海",
+    "本土",
+    "中期",
+    "大和"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ようこそ。閲覧に際して、いくつかご留意いただきたい点があります。",
+      "en": "Welcome. Before viewing, there are a few things I'd like you to keep in mind.",
+      "style": "Formal, measured tone with archival gravity and gentle authority."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。大和朝廷の頃の古い資料を探しているんですが。",
+      "en": "Yes, thank you. I'm looking for old materials from around the Yamato court period.",
+      "style": "Polite student register, slightly nervous but genuinely curious throughout."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、それでしたらここでは難しいですね。当館の所蔵は江戸中期以降のものに限られていまして。",
+      "en": "Ah, in that case it'll be difficult here. Our holdings are limited to materials from mid-Edo onward.",
+      "style": "Patient correction, professional clarification with quiet pride in collection."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうですか…ええと、では時代を変えて、東海地方の治安史でも大丈夫ですか?",
+      "en": "I see... um, then changing the era, would Tokai-region public-order history be okay?",
+      "style": "Quickly recalibrating, mildly disappointed but adapting on the spot."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、その辺なら豊富ですよ。江戸後期から明治初期までの長きにわたり、東西の街道沿いに事件が集中していまして。",
+      "en": "Yes, that area we have plenty of. Over a long stretch from late Edo through early Meiji, incidents were concentrated along the east-west highways.",
+      "style": "Warming up, sharing expert knowledge with growing enthusiasm and detail."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "南北の往来はどうだったんですか?本土の山間部を抜ける裏道なんかの記録も残っていますか?",
+      "en": "What about north-south travel? Are there records of back routes cutting through the mainland mountains?",
+      "style": "Academic curiosity sharpening into focus, leaning into the new angle."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "山越えの古文書も何点かあったはずです。ただ私も先月人事異動で来たばかりでして。",
+      "en": "There should be several old documents on the mountain crossings. Though I only transferred here last month.",
+      "style": "Apologetic honesty, humble admission of limits despite the uniform."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、そうだったんですね。お忙しいところ、本当にすみません。",
+      "en": "Oh, I see. I'm really sorry to trouble you when you're so busy.",
+      "style": "Grateful and accommodating, eager not to be a burden on staff."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いえいえ、では閲覧申請のテンプレートをお渡ししますので、ご記入をお願いします。",
+      "en": "Not at all. Then I'll hand you the viewing request template, so please fill it in.",
+      "style": "Returning to procedural mode, kind but firm about bureaucratic steps."
+    }
+  ]
+}

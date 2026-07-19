@@ -1,0 +1,61 @@
+{
+  "id": "conv_01928",
+  "context": "Naoko shops for new curtains for the ramen shop with Aoi advising.",
+  "purpose": "Two women advising on interior choice.",
+  "ambient": "shop_low_fabric",
+  "sound_effects": [],
+  "target_vocab": [
+    "カーテン",
+    "色",
+    "部屋",
+    "雰囲気"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "カーテン、何色がええ?",
+      "en": "What color should the curtains be?",
+      "style": "Bright, energetic Kansai accent. Quick attack on the question, warm and engaged. Leans forward with genuine interest. The comfortable loudness of someone who knows she'll be heard and answered honestly.",
+      "mood": "bright_engaged"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "店の雰囲気、明るくしたいね。",
+      "en": "I want to make the shop feel brighter, you know?",
+      "style": "Thoughtful, soft-spoken. Pauses slightly before 'brighter' — she's picturing it. Warm and collaborative, not directive. The tone of someone testing an idea with someone whose taste she trusts.",
+      "mood": "thoughtful_hopeful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "黄色、どうやろか?",
+      "en": "What about yellow?",
+      "style": "Warm, encouraging lilt on 'yellow'. Kansai inflection gentle this time, almost affectionate. She's floating the idea to see if it lands. Inviting, not pushing.",
+      "mood": "warm_suggesting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、温かい感じになる!",
+      "en": "Yes! That would make it feel so warm!",
+      "style": "Bright, genuine enthusiasm. Quick nod in the voice on 'Yes'. Warm approval without over-selling. She's picturing it now and liking what she sees. Conversational energy, not performance.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "よっしゃ、これに決めや!",
+      "en": "Alright, we're going with that!",
+      "style": "Decisive, brassy Kansai warmth. Sharp attack on 'Alright'. Confident and loud in the way that makes people move. The voice of someone who gets things done and enjoys the process. Claps her hands together in the voice.",
+      "mood": "decisive_pleased"
+    }
+  ]
+}

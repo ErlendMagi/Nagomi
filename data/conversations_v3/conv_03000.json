@@ -1,0 +1,75 @@
+{
+  "id": "conv_03000",
+  "context": "Ren interviews a scholar on critical thinking.",
+  "purpose": "WIDENED SCENARIO: expert interview; vocabulary (権力/常識/真実/発想/要因) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "権力",
+    "常識",
+    "真実",
+    "発想",
+    "要因"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_150)",
+    "generated_at": "2026-05-29T15:08:22.180Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "真実を見抜くには、何が大切ですか?",
+      "en": "What matters for seeing through to the truth?",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "常識を、一度疑う発想です。",
+      "en": "An idea that doubts common sense once.",
+      "style": "composed scholar voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "権力が、判断を歪めることは?",
+      "en": "Can power distort judgment?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "権力は、しばしば真実を覆います。",
+      "en": "Power often masks the truth.",
+      "style": "patient scholar voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "誤りの主な要因は、何でしょう?",
+      "en": "What's the main factor in errors?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "思い込みが、大きな要因です。",
+      "en": "Preconceptions are a major factor.",
+      "style": "composed scholar voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "新しい発想を、どう育てますか?",
+      "en": "How do you cultivate new ideas?",
+      "style": "thoughtful young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "常識を問い、真実を探す習慣です。",
+      "en": "It's the habit of questioning common sense and seeking truth.",
+      "style": "warm scholar voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

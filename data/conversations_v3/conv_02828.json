@@ -1,0 +1,75 @@
+{
+  "id": "conv_02828",
+  "context": "Saito advises Yuki on managing an illness alone.",
+  "purpose": "WIDENED SCENARIO: medical advice; vocabulary (電気/病気/ひとり/普段/両親) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "電気",
+    "病気",
+    "ひとり",
+    "普段",
+    "両親"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_142)",
+    "generated_at": "2026-05-29T14:30:17.368Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この病気は、重いんでしょうか?",
+      "en": "Is this illness serious?",
+      "style": "worried office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "普段の生活で、十分管理できますよ。",
+      "en": "It can be managed well in daily life.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ひとり暮らしでも、大丈夫ですか?",
+      "en": "Is it okay even living alone?",
+      "style": "concerned office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ひとりでも、普段から気をつければ平気です。",
+      "en": "Even alone, you're fine if you're careful daily.",
+      "style": "gentle doctor voice, soft warm reassuring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "両親にも、伝えた方がいいですか?",
+      "en": "Should I tell my parents too?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご両親に話せば、心強いですよ。",
+      "en": "Telling your parents would be reassuring.",
+      "style": "warm doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "夜は、電気を消して早く休みます。",
+      "en": "At night I'll turn off the light and rest early.",
+      "style": "resolved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "普段の休息が、病気を遠ざけますよ。",
+      "en": "Daily rest keeps illness at bay.",
+      "style": "gentle doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

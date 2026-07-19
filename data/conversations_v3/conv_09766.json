@@ -1,0 +1,86 @@
+{
+  "id": "conv_09766",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 開通/見出す/最優秀/難易/パケット/初版/定数/休止",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "開通",
+    "見出す",
+    "最優秀",
+    "難易",
+    "パケット",
+    "初版",
+    "定数",
+    "休止"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_490 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新道路の開通で物流が良くなったな",
+      "en": "The new road opening has really improved our logistics.",
+      "style": "Measured observation. Slight nod of satisfaction in the tone. Clear diction on the final clause. Not boasting — factual acknowledgment of a positive change.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。データの中に新たな価値を見出す努力をします",
+      "en": "Yes. We'll make sure to find new value within the data we have.",
+      "style": "Respectful affirmation. Lean forward slightly on the commitment. Steady pace, no hesitation. The tone of someone ready to act on what's been said.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、最優秀社員を表彰する制度を整えろ",
+      "en": "We need to establish a system for recognizing top performers.",
+      "style": "Direct command, but not sharp. Weight on 'establish.' Expectant pause after — waiting for understanding to land. The tone of someone used to being listened to.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。難易の高い案件は若手の研鑽機会にします",
+      "en": "Understood. We'll use the harder cases as learning opportunities for junior staff.",
+      "style": "Quick acknowledgment on 'Understood.' Then a slight rise in energy when explaining the strategy. Confident without overstepping. The tone of someone who has thought this through.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、サーバーのパケット解析を強化しろ",
+      "en": "We need to strengthen our server packet analysis capabilities.",
+      "style": "Clipped, purposeful. Each word deliberate. Not loud but commanding attention through precision. The tone of a directive that doesn't invite debate.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社史初版本を保管します",
+      "en": "Yes. We'll also keep an eye on whether to pause any legacy operations.",
+      "style": "Respectful intake of the task. Slight weight on 'also' — showing he's thinking beyond the immediate instruction. Calm and measured. The tone of someone integrating feedback in real time.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、利益の定数的な成長を目指せ",
+      "en": "We should aim for consistent, sustainable profit growth.",
+      "style": "Deliberate pacing on 'consistent' — emphasizing the word. Calm authority. Not rushed. The tone of someone stating a principle rather than a preference.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。古い事業の休止判断も視野に入れます",
+      "en": "Understood. We'll also consider whether to shut down older divisions.",
+      "style": "Final acknowledgment, slightly quieter than before. A hint of closure in the tone. Steady and grounded. The tone of someone absorbing the full weight of the conversation and ready to execute.",
+      "mood": "resolved"
+    }
+  ]
+}

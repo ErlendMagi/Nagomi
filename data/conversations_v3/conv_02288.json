@@ -1,0 +1,79 @@
+{
+  "id": "conv_02288",
+  "context": "Daichi reads news of a sports match's draw; tells Sho.",
+  "purpose": "Father sharing match result with son.",
+  "ambient": "living_room_tv_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き分け",
+    "勝負",
+    "応援",
+    "残ら",
+    "がんばる",
+    "熱心",
+    "よくよく",
+    "焦っ"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_115)",
+    "generated_at": "2026-05-27T18:52:31.248Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "翔、試合、引き分けやって!",
+      "en": "Sho — the match ended in a draw!",
+      "style": "Warm, unhurried Kansai lilt. The pride of a father who's watched his son try hard. Matter-of-fact kindness, no sugar-coating, no disappointment leaking through.",
+      "mood": "proud_accepting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ええ、勝負、決まらんかった?",
+      "en": "Huh? — the match didn't get decided?",
+      "style": "Small, disappointed. A child's immediate confusion mixed with quiet letdown. Soft questioning at the end, checking with his father if he understood right.",
+      "mood": "disappointed_confused"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "皆、よくよく、頑張ってたな。",
+      "en": "Everyone played really well though.",
+      "style": "Gentle, philosophical. Slow speech — letting the point land. Warm Kansai cadence. Speaking as much to himself as to Sho, like this is something he's learned.",
+      "mood": "reassuring_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "熱心に、応援しとったのに!",
+      "en": "But I cheered so hard!",
+      "style": "Genuine frustration — a child who gave everything and wanted a different result. Breathless, urgent at the peak, then slightly trailing off at the end. Real, not performed.",
+      "mood": "frustrated_earnest"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "焦らず、次の試合、待とうな。",
+      "en": "Don't rush it — let's just wait for the next one, yeah?",
+      "style": "Patient, tender father-voice. The Kansai warmth is grounding. Speaks like he's given this advice before, without a trace of lecturing. Slow and steady.",
+      "mood": "patient_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、残らないように、また応援する!",
+      "en": "Yeah — I'm gonna cheer even harder next time!",
+      "style": "Small, determined voice lifting. The disappointment hasn't left but resolve is quietly settling in. Earnest, no bravado. A child making his own promise.",
+      "mood": "determined_earnest"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お前の応援、ええ気持ち。",
+      "en": "Your cheering — that's a good feeling.",
+      "style": "Tender, almost private. A father noticing what matters: not the outcome, but his son's heart. Warm, proud, simple. Kansai gentleness at full warmth.",
+      "mood": "proud_tender"
+    }
+  ]
+}

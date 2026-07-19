@@ -1,0 +1,72 @@
+{
+  "id": "conv_05433",
+  "context": "A police officer briefs a uni reporter about online smear cases",
+  "purpose": "Teach: 引き起こし/妨げ/党首/幕府/中傷/ワクチン/肺/上空",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き起こし",
+    "妨げ",
+    "党首",
+    "幕府",
+    "中傷",
+    "ワクチン",
+    "肺",
+    "上空"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "中傷事案、ワクチン関連で多発しています。",
+      "en": "We're seeing a surge in defamation cases tied to vaccine misinformation.",
+      "style": "Measured, professional opening. Even tone, steady pace. The voice of someone accustomed to explaining difficult subjects clearly without dramatizing them.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "肺疾患の患者さんへの誹謗中傷、深刻ですよね。",
+      "en": "The abuse targeting lung-disease patients is particularly serious, isn't it?",
+      "style": "Genuine inquiry beneath the question. Slight lean-in in the voice, seeking confirmation rather than challenging. Thoughtful, not defensive.",
+      "mood": "concerned_earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。デマの拡散が、患者さんの治療を妨げた例もあります。歴史的にも、幕府期から続く課題ですね。",
+      "en": "Yes. We've documented cases where disinformation actively delayed patients' treatment. This isn't new—it goes back centuries in Japan.",
+      "style": "Steady, informative. Each clause measured and grounded. A slight reflective pause before the historical reference, as if connecting a visible line to deeper time.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "党首発言の引用も、誤って引き起こした事例ですか。",
+      "en": "Has misquoting public figures—political leaders, for instance—been another vector?",
+      "style": "Careful phrasing, genuine curiosity. Not challenging his credibility, but probing deeper. Slight tentativeness that shows this is new ground for him.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。上空のドローン撮影による証拠も活用しています。",
+      "en": "Yes, definitely. We've also begun using drone footage as evidence—captures things that wouldn't be visible otherwise.",
+      "style": "Concrete, forward-focused. A slight shift in energy here, moving toward the procedural. Professional pride in method without showing off.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記事に反映させていただきます。",
+      "en": "I'll make sure to include this in my piece.",
+      "style": "Quiet gratitude beneath the words. Respectful close—not rushed, not overstaying. The tone of someone who came to learn and is leaving with clarity.",
+      "mood": "respectful_resolved"
+    }
+  ]
+}

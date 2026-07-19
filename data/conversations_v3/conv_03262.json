@@ -1,0 +1,84 @@
+{
+  "id": "conv_03262",
+  "context": "Reviewing the loan paperwork together",
+  "purpose": "Walk through a loan; teach 金利/供給/請求/保証/所有/不動産/証券/兆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "金利",
+    "供給",
+    "請求",
+    "保証",
+    "所有",
+    "不動産",
+    "証券",
+    "兆"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらが金利の説明資料です。",
+      "en": "Here’s the material explaining the interest rates.",
+      "style": "methodical advisor presenting documents, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "固定と変動、どちらの金利が得ですか？",
+      "en": "Fixed or variable — which rate is better?",
+      "style": "deliberating client comparing choices, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "将来の供給と需要を読むのは難しいですね。",
+      "en": "Reading future supply and demand is hard.",
+      "style": "honest advisor admitting uncertainty, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "毎月の請求額はいくらになりますか？",
+      "en": "What will the monthly bill be?",
+      "style": "budget-focused client asking directly, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "約十万円です。保証料も含まれています。",
+      "en": "About 100,000 yen. The guarantee fee is included.",
+      "style": "advisor giving a precise figure, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "物件の所有名義は妻と共同でも？",
+      "en": "Can the ownership be joint with my wife?",
+      "style": "client clarifying a personal detail, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "可能です。不動産の登記も手続きします。",
+      "en": "Yes. We’ll handle the real-estate registration too.",
+      "style": "helpful advisor confirming the steps, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "余った資金は証券で運用しようかな。",
+      "en": "Maybe I’ll invest spare funds in securities.",
+      "style": "forward-thinking client planning ahead, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "国の予算が何兆円という時代、賢い選択です。",
+      "en": "In an era of trillion-yen budgets, a wise choice.",
+      "style": "advisor affirming with perspective, voice clear and distinctly their own"
+    }
+  ]
+}

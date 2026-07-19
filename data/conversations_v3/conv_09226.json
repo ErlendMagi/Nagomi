@@ -1,0 +1,86 @@
+{
+  "id": "conv_09226",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 邦訳/自由民主党/自由党/角川書店/講じる/可用性/外為/用水",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "邦訳",
+    "自由民主党",
+    "自由党",
+    "角川書店",
+    "講じる",
+    "可用性",
+    "外為",
+    "用水"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_463 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、海外作品の邦訳出版を企画しろ",
+      "en": "I want you to plan a Japanese translation and publication deal for overseas works.",
+      "style": "Direct, measured. Lean into the weight of the command. Pause after the opening clause. No room for negotiation. Confident authority that doesn't need to raise volume.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。自由民主党の議員との懇談を予定しております",
+      "en": "Yes, understood. We have a meeting scheduled with a Diet member from the LDP.",
+      "style": "Formal, clipped acknowledgment. Slight bow in the voice on the opening word. Professional distance. Reporting back with precision, no embellishment.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、自由党の動向にも注意しろ",
+      "en": "And keep watch on the Liberal Party's movements as well.",
+      "style": "Crisp follow-up, a secondary instruction. Firm but not harsh. The addition lands as addendum—important but expected.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。角川書店の編集者と協力します",
+      "en": "Understood. I'm coordinating with an editor at Kadokawa Publishing.",
+      "style": "Quick confirmation. Eager to demonstrate readiness. Flat delivery—showing he's already moving on the task. Efficient, not urgent.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、契約改善策を講じる時期だ",
+      "en": "It's time we implement contract improvement measures.",
+      "style": "Measured pronouncement. Finality on the word 'time.' Hiroshi isn't asking, he's declaring readiness to act. Slight emphasis on the decision itself.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバーの可用性を強化しました",
+      "en": "Yes, sir. I've already upgraded our server redundancy and capacity.",
+      "style": "Rapid-fire answer showing initiative. Slight pride in having already done the work. Keep pace tight. Confidence without overstepping.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、外為の動向を毎日確認しろ",
+      "en": "Make sure you check foreign exchange movements every single day.",
+      "style": "Specific, demanding instruction. Emphasis on 'every single day'—the routine matters here. Calm but non-negotiable. The kind of order that sticks.",
+      "mood": "demanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。工場の用水確保を進めております",
+      "en": "Understood. We're making progress on securing water supply for the factory.",
+      "style": "Final acknowledgment, slightly slower cadence. Wrapping up the exchange. Professional and steady. The end of a meeting—he's moving to execute.",
+      "mood": "resolved"
+    }
+  ]
+}

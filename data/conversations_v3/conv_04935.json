@@ -1,0 +1,78 @@
+{
+  "id": "conv_04935",
+  "context": "A doctor explains an adolescent psychology study to a teen",
+  "purpose": "Teach: 情緒/カリスマ/一族/推理/調停/活字/イデオロギー/頭脳",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "情緒",
+    "カリスマ",
+    "一族",
+    "推理",
+    "調停",
+    "活字",
+    "イデオロギー",
+    "頭脳"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_248 workflow wae9tniwh)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は思春期の情緒不安定について、ある研究の話をしましょうか。",
+      "en": "Today let's talk about a study on adolescent emotional instability.",
+      "style": "Calm clinical opener, warm professional tone, gently inviting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、それ気になります。クラスにカリスマ性のある子がいて、なんかみんな振り回されてるんですよね。",
+      "en": "Oh, I'm curious about that. There's a kid with charisma in class and everyone gets swayed.",
+      "style": "Eager teen response, slightly gossipy tone, curious lean-in"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。研究によれば、ああいう子の家庭は昔ながらの一族意識が強く、その力関係が外でも出やすいそうです。",
+      "en": "I see. The research suggests such kids often come from families with strong clan-like dynamics that surface outside too.",
+      "style": "Measured explanation, professorial cadence, evidence-based delivery"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、なんか先生、推理してるみたいで面白いですね。じゃあ親と喧嘩ばっかしてる私はどうなんですか?",
+      "en": "Huh, the way you reason it out is kind of fun. So what about me, always fighting with my parents?",
+      "style": "Half-joking teen self-deprecation, playful curiosity, light worry"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心配いりませんよ。ぶつかり合いも大事です。学校でも先生が間に入って調停するだけで、関係はずいぶん落ち着きますからね。",
+      "en": "No need to worry. Even at school, a teacher stepping in to mediate calms relationships down a lot.",
+      "style": "Reassuring professional tone, measured kindness, mild authority"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うちの親、最近活字離れがひどくて、本も読まないのに政治のイデオロギーの話だけは妙に熱くなるんですよ。",
+      "en": "My parents barely read anything lately, but they still get oddly heated about political ideology.",
+      "style": "Exasperated teen venting, mixing humor and frustration, conversational"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ははは、よくある話です。頭脳明晰な人ほど、自分の感情の整理は苦手だったりするんですよ。",
+      "en": "Haha, that's quite common. Even sharp-minded people often struggle to manage their own emotions.",
+      "style": "Gentle laugh, knowing observation, softened doctor humor"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なんか、ちょっと安心しました。今度親と喧嘩したら、先生の話思い出します。",
+      "en": "I feel a bit relieved actually. Next time I fight with my parents I'll remember what you said.",
+      "style": "Soft sincere closer, teenage gratitude, slightly shy warmth"
+    }
+  ]
+}

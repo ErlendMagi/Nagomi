@@ -1,0 +1,78 @@
+{
+  "id": "conv_04666",
+  "context": "A uni student interviews a tech engineer about devices",
+  "purpose": "Teach: フラッシュ/メモリー/ラウンド/セブン/シャープ/連結/連想/簡易",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "フラッシュ",
+    "メモリー",
+    "ラウンド",
+    "セブン",
+    "シャープ",
+    "連結",
+    "連想",
+    "簡易"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_235 workflow wz4i8nuk5)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日は最新のデバイスについて伺いたくて、まず簡易な質問から始めてもいいですか？",
+      "en": "I'd like to ask about the latest devices today, may I start with a simple question?",
+      "style": "Polite university student opening the interview respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん、どうぞ。フラッシュメモリーの進化について話せると嬉しいですね。",
+      "en": "Of course, go ahead. I'd be glad to discuss the evolution of flash memory.",
+      "style": "Friendly engineer eager to share technical knowledge clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ちょうど聞きたかったテーマです。シャープ製の新型ストレージって、容量はどのくらいなんですか？",
+      "en": "That's exactly the topic I wanted to ask about. How much capacity does the new Sharp storage have?",
+      "style": "Curious student leaning in with genuine interest."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現行モデルは一テラを超えていて、内部は複数のチップを連結する設計になっています。",
+      "en": "The current model exceeds one terabyte, and internally it links multiple chips together.",
+      "style": "Engineer explaining hardware architecture in measured tones."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。セブンナノの製造プロセスって聞くと、つい未来的なイメージを連想してしまいます。",
+      "en": "I see. When I hear about the seven-nanometer process, I can't help imagining something futuristic.",
+      "style": "Student musing thoughtfully with a slight smile."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "面白い表現ですね。実は次のラウンドの試作機では、さらに微細化を進める予定なんですよ。",
+      "en": "That's an interesting way to put it. Actually, in the next round of prototypes we plan to miniaturize further.",
+      "style": "Engineer sharing insider info with quiet enthusiasm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごい。最後に、学生向けに何かアドバイスを頂けますか？",
+      "en": "Amazing. Lastly, could you give some advice for students?",
+      "style": "Student wrapping up with humble closing question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基礎をしっかり、ですね。難しい本も、まずは要点を絞った簡易版から読むのがおすすめです。",
+      "en": "Master the fundamentals. Even for difficult books, I recommend starting with a condensed simple version.",
+      "style": "Engineer giving warm, practical mentorship advice sincerely."
+    }
+  ]
+}

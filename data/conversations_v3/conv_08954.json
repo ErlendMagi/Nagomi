@@ -1,0 +1,86 @@
+{
+  "id": "conv_08954",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 見え隠れ/王位/財投/先立ち/国務省/血縁/検疫/受難",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "見え隠れ",
+    "王位",
+    "財投",
+    "先立ち",
+    "国務省",
+    "血縁",
+    "検疫",
+    "受難"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_449 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者さんの体調変化の兆候を見え隠れする段階で察知します",
+      "en": "Ren — we catch the early signs of patient deterioration before they become obvious.",
+      "style": "Direct, steady certainty. Clinical but not cold. Speaks with the quiet authority of someone who has seen this pattern hundreds of times. Level eye contact.",
+      "mood": "clinical_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、王位を継承するような重圧の研究を医療チームで参照しております",
+      "en": "Yes, we reference research on the psychological weight that our medical team handles carefully.",
+      "style": "Measured and thoughtful. A slight pause before continuing, as if choosing words that carry responsibility. Warm but professional. The tone of someone who takes the question seriously.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療財投に関する貴院のお考え、聞かせて下さい、先生",
+      "en": "Doctor, could you tell me how the hospital approaches medical resource allocation?",
+      "style": "Respectful, genuinely interested. Leans forward slightly. Not performing deference—actual curiosity. Slight hesitation at the start, testing whether the question is welcome.",
+      "mood": "earnest_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、診察に先立ち問診を医療チームで丁寧に行います",
+      "en": "Yes, we conduct thorough intake interviews with our medical team before any examination.",
+      "style": "Clear procedural statement. Not rigid—there's care in the methodicalness. Slightly slower pace, as if explaining something important. Reassuring without being condescending.",
+      "mood": "careful_thorough"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "米国国務省主催の医療会議に貴院、招かれたんですね、先生",
+      "en": "Doctor, the hospital was invited to that international medical conference, wasn't it?",
+      "style": "Tentative admiration underneath. Not quite asking a question—more like confirming something he's picked up on. Respectful. A note of genuine interest in what that means for the hospital.",
+      "mood": "impressed_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、血縁ドナーによる移植を医療チームで扱います",
+      "en": "Yes, our medical team handles blood-related donor transplants with appropriate protocols.",
+      "style": "Factual, precise. The words chosen with clinical care. Not detached—there's weight in how seriously this is taken. Measured breathing, calm delivery.",
+      "mood": "clinical_responsible"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症の検疫体制を貴院、ご強化されてますね、先生",
+      "en": "Doctor, the hospital has really strengthened its infectious disease protocols lately, hasn't it?",
+      "style": "Observant, reflective tone. Not questioning competence—noting it with quiet respect. Thoughtful pacing. The careful voice of someone noticing something important and wondering what it means.",
+      "mood": "thoughtful_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、受難中の患者さんに寄り添う医療を医療チームで提供します",
+      "en": "Yes, we provide compassionate care that walks alongside our patients through difficult treatment.",
+      "style": "Tender certainty. Slower pace on 'alongside.' The voice softens slightly—this is what matters most to her. Not tired, but carrying the weight of what that means. Genuine.",
+      "mood": "compassionate_resolute"
+    }
+  ]
+}

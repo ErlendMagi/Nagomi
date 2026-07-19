@@ -1,0 +1,72 @@
+{
+  "id": "conv_05814",
+  "context": "A uni reporter interviews an exec about CSR / history education",
+  "purpose": "Teach: 戦犯/爆破/暴動/ナチス/部落/慰安/暴行/売春",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "戦犯",
+    "爆破",
+    "暴動",
+    "ナチス",
+    "部落",
+    "慰安",
+    "暴行",
+    "売春"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "御社、戦犯時代の企業史も、公開する方針と聞きました。",
+      "en": "I heard your company is planning to release records from the war years—including the difficult parts of that history.",
+      "style": "Respectful but direct. Measured pace. Leaning forward slightly with genuine interest, not performing curiosity. Clear, without pressure.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。当時の労務環境、暴行や強制労働の事例にも触れます。",
+      "en": "Yes. We're documenting the labor conditions of that period—including cases of assault and forced labor.",
+      "style": "Steady, deliberate. Each phrase carries equal weight. No rush. The posture of someone who has thought about this carefully and is committed to saying it plainly.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ナチス支配下の協力企業、当時の労働者暴動の事例も、参考にされてますか。",
+      "en": "Are you drawing on examples from other countries—companies that cooperated with occupation forces, labor unrest during wartime?",
+      "style": "Thoughtful, building on what he's heard. Slightly faster pace now, engaged. Not challenging, but pressing deeper with respect. The second question feels like genuine follow-up thinking, not prepared material.",
+      "mood": "thoughtfully_probing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。部落単位の労働実態、慰安と称された施設の話も、史料として保存します。",
+      "en": "Yes. We're preserving records of labor practices at the local level—including the facilities euphemistically called 'comfort stations'—as historical documents.",
+      "style": "Calm, unflinching. No softening of language. The tone of someone naming something difficult because it matters to name it correctly. Breath steady. No apology in the delivery.",
+      "mood": "unflinching_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦時下の売春強要、それに伴う爆破事件、公開可能ですか。",
+      "en": "And the coerced sexual labor itself, along with incidents of violence tied to that system—those can be made public?",
+      "style": "Quieter now, more careful. Still respectful, but the question is heavier. Checking whether the boundary of disclosure has limits. Not accusatory—genuinely wondering where responsibility ends.",
+      "mood": "serious_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "歴史家と慎重に進めます。",
+      "en": "We'll proceed carefully, working with historians.",
+      "style": "Quiet conviction. Not defensive, but closed. The tone of someone drawing a boundary while remaining open. Breath slightly held at the end, like a full stop.",
+      "mood": "firm_measured"
+    }
+  ]
+}

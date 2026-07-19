@@ -1,0 +1,61 @@
+{
+  "id": "conv_01521",
+  "context": "Yuki-office and Kenji discuss a stressful project deadline at work.",
+  "purpose": "Two coworkers commiserating about deadlines; gentle solidarity.",
+  "ambient": "office_evening_keyboards",
+  "sound_effects": [],
+  "target_vocab": [
+    "期限",
+    "残業",
+    "疲れる",
+    "頑張る"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今夜も残業ですか?",
+      "en": "Overtime again tonight?",
+      "style": "Gentle question with a thread of concern underneath. Soft opening, sympathetic tone. Pace is measured—she's checking in, not prying. Slight lift at the end, inviting him to share if he wants to.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、期限がな、来週やし。",
+      "en": "Yeah — deadline's next week.",
+      "style": "Resigned but matter-of-fact. Light Kansai lilt on the explanation. Warm but tired—he's not complaining, just stating fact. Relaxed posture in the voice, like he's accepted it.",
+      "mood": "tired"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お疲れさまです、無理しないで。",
+      "en": "Take care — don't push yourself too hard.",
+      "style": "Soft, steady encouragement. The concern is genuine but not hovering. Warm professional register. Slight emphasis on the care itself, then lets the sentence fade gently—she trusts him to listen.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おおきに、お前も帰り。",
+      "en": "Thanks — you get home safe too.",
+      "style": "Grateful, warm, and genuinely reciprocal. Light Kansai warmth. No false cheerfulness—just the honest brotherly concern of someone who means what he says. Easy pace, steady.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、また明日。",
+      "en": "Yes — see you tomorrow.",
+      "style": "Final, gentle closing. Soft warmth with finality. Simple and unrushed. Slight nod in the voice—acknowledgment and goodbye wrapped into one quiet moment.",
+      "mood": "gentle"
+    }
+  ]
+}

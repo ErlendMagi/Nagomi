@@ -1,0 +1,78 @@
+{
+  "id": "conv_05035",
+  "context": "A teacher coaches a teen for a science essay competition",
+  "purpose": "Teach: 方程式/レーザー/電流/波動/同氏/最良/死去/国歌",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "方程式",
+    "レーザー",
+    "電流",
+    "波動",
+    "同氏",
+    "最良",
+    "死去",
+    "国歌"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "さくらさん、今回の懸賞論文は、物理の波動をテーマにしてみたらどうかしら。",
+      "en": "Sakura, how about choosing wave physics as your theme for this essay contest?",
+      "style": "Warm and encouraging teacher tone, gentle pacing, inviting but professional."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "波動ですか。式の立て方が難しそうで、方程式が解けるか不安です。",
+      "en": "Waves? The way you set up the formulas looks hard, I'm worried I can't solve the equations.",
+      "style": "Eager teen voice, slightly nervous, polite but honest about her doubts."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫よ。波の話を電流の振る舞いと結びつけると、ぐっと面白くなるわ。",
+      "en": "It'll be fine. If you tie waves to how electric current behaves, it gets much more interesting.",
+      "style": "Thoughtful coaching tone, measured and intellectual, supportive guidance for an ambitious student."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。応用例として、レーザーの仕組みも少し触れていいですか?",
+      "en": "I see. Can I also touch a little on how lasers work as an applied example?",
+      "style": "Curious teen brightening up, leaning forward, sounding more confident than before."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ぜひ。レーザー研究の第一人者だった田中博士が去年死去されてね、同氏の論文は今でも最良の入門書なのよ。",
+      "en": "Please do. Doctor Tanaka, a leading laser researcher, passed away last year, and his papers are still the best introduction.",
+      "style": "Reflective and respectful, slightly somber when mentioning the death, then warming with admiration."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そうなんですね…じゃあ同氏の研究を引用しながら、丁寧に書いてみます。",
+      "en": "I see... then I'll write carefully, citing his research as I go.",
+      "style": "Sincere teen voice, softer and a little moved, settling into resolve."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいわね。発表会では国歌斉唱のあとすぐ登壇だから、堂々と読み上げましょうね。",
+      "en": "Good. At the ceremony you'll go on stage right after the national anthem, so read it out with confidence.",
+      "style": "Warm closing tone, motherly encouragement, light practical reminder about the event."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、締め切りまで頑張ります。先生、ご指導よろしくお願いします。",
+      "en": "Yes, I'll do my best until the deadline. Thank you for your guidance, teacher.",
+      "style": "Grateful and determined teen voice, polite closing bow energy, sincere and bright."
+    }
+  ]
+}

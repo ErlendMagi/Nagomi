@@ -1,0 +1,78 @@
+{
+  "id": "conv_04266",
+  "context": "A police officer briefs a teen reporter on a stadium incident",
+  "purpose": "Teach: 連盟/指名/辞任/遭遇/克服/寿命/メジャー/アイルランド",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "連盟",
+    "指名",
+    "辞任",
+    "遭遇",
+    "克服",
+    "寿命",
+    "メジャー",
+    "アイルランド"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_215 workflow wcx5zhi55)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "諸君、これから事件の概要を説明する。昨夜、スタジアムで観客が将棋倒しに巻き込まれた。",
+      "en": "Listen up. I'll explain the incident outline. Last night, spectators got caught in a crowd crush at the stadium.",
+      "style": "Formal officer tone addressing a group, clipped and authoritative briefing register."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、被害に遭ったのは確かアイルランド代表との親善試合の観客ですよね?",
+      "en": "Um, the victims were spectators at the friendly match against the Ireland national team, right?",
+      "style": "Polite teen reporter, slightly nervous but eager, using soft confirmation."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通り。日本サッカー連盟主催の試合で、メジャーな国際イベントだった。",
+      "en": "Correct. It was a match hosted by the Japan Football Association, a major international event.",
+      "style": "Clipped confirmation, professional briefing cadence, factual delivery."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "連盟の警備責任者が辞任表明したと聞きました。後任は指名されたんですか?",
+      "en": "I heard the association's head of security announced his resignation. Has a successor been named?",
+      "style": "Inquisitive teen pressing for facts, polite but pointed journalism."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "後任の指名は今朝決まった。我々は現在、現場の混乱の収拾に全力を尽くしている。",
+      "en": "The successor was named this morning. We're now doing everything to bring the chaos at the scene under control.",
+      "style": "Steady, reassuring authority figure, measured pace with formal verb endings."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、現場で重傷者との遭遇はありましたか。命に関わる方はいらっしゃるんでしょうか?",
+      "en": "Um, did you encounter any seriously injured victims at the scene? Are there any in life-threatening condition?",
+      "style": "Cautious, respectful inquiry using humble keigo for a sensitive question."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "幸い、寿命に関わるような重症者はいない。諸君のような若い記者の冷静な報道が、不安の克服に繋がる。",
+      "en": "Fortunately, there are no injuries that threaten anyone's life. Calm reporting by young journalists like you helps overcome public anxiety.",
+      "style": "Warm pivot from formal to mentoring, encouraging the young reporter."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。正確な記事を書けるよう、直ちに編集部に戻ります。",
+      "en": "Thank you very much. I'll head back to the editorial office immediately to write an accurate article.",
+      "style": "Grateful, determined teen closing the interview with resolve and respect."
+    }
+  ]
+}

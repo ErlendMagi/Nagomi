@@ -1,0 +1,62 @@
+{
+  "id": "conv_00374",
+  "context": "A weekly check-in call between officer Takeda and doctor Saito about the elderly community member they've been watching.",
+  "purpose": "professional civic check-in — coordinated care",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "訪問",
+    "安心",
+    "協力",
+    "感謝"
+  ],
+  "cast": [
+    "takeda_officer",
+    "saito_doctor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_019)",
+    "generated_at": "2026-05-26T21:13:47.044Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "斎藤先生、山田さん、今日も訪問してきました。",
+      "en": "Dr. Saito, today I visited Yamada-san too.",
+      "style": "Officer warm professional brief sincere-reporting-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ありがとうございます。お元気でしたか？",
+      "en": "Thank you. Was he well?",
+      "style": "Doctor warm professional gentle care-asking-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-caring"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "少し疲れた様子でしたが、安定してました。",
+      "en": "A bit tired, but stable.",
+      "style": "Officer warm professional gentle reporting-honest-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "安心しました。協力、本当に助かります。",
+      "en": "Relieved. The cooperation truly helps.",
+      "style": "Doctor warm gentle sincere grateful-warm civic-closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。お互い様、ですから。",
+      "en": "Same. Mutual, after all.",
+      "style": "Officer warm gentle sincere humble-reciprocal-warm closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "humbly-warm"
+    }
+  ]
+}

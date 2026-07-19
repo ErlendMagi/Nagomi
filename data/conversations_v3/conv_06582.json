@@ -1,0 +1,86 @@
+{
+  "id": "conv_06582",
+  "context": "Two friends chat",
+  "purpose": "Teach: この方/にくかっ/歩か/外さ/謝る/ムカ/トシ/探り",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "この方",
+    "にくかっ",
+    "歩か",
+    "外さ",
+    "謝る",
+    "ムカ",
+    "トシ",
+    "探り"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、この方、紹介させてね、彼の同僚なの。",
+      "en": "Aoi — I'd like to introduce you to this person. He's a colleague of mine.",
+      "style": "Warm and easy, like she's connecting two people she cares about. A small lift in her voice on the introduction itself. No rush.",
+      "mood": "warm_open"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。新しいパン、ちょっと食べにくかったかな、固くて。",
+      "en": "Yeah. The new bread was a bit difficult to eat — it was firmer than I expected.",
+      "style": "Thoughtful, not quite present. Speaking to herself as much as to Mei. Soft, turning a small observation over in her mind.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "今日、ヒールで、長く歩かない方がいいよ、足、痛くなるよ。",
+      "en": "Wearing heels today — you shouldn't walk around too much. Your feet will start to hurt.",
+      "style": "Gentle concern wrapped in practical advice. She's noticing something Mei might not be paying attention to. Warm but direct.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "指輪、なんで外さないの、メイちゃん。",
+      "en": "Why haven't you taken your ring off, Mei?",
+      "style": "Curious and careful, like she's noticed something that matters. A question that reaches for understanding, not judgment. Quiet attention.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "今朝、彼に、ちゃんと謝るつもりなの。",
+      "en": "This morning — I'm going to properly apologize to him about it.",
+      "style": "Steady resolve underneath. She's decided something. Not defensive, but grounded. A pause before she speaks, like she's gathering herself.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "仕事のお客さん、たまにムカつく時、あるよね。",
+      "en": "Sometimes with customers at work, there are moments when you just get frustrated, you know?",
+      "style": "Dry warmth, a shared knowing. She's offering solidarity without making a big deal of it. Light, companionable.",
+      "mood": "wry_understanding"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "幼馴染のトシちゃん、結婚するんだって。",
+      "en": "My childhood friend Toshi — apparently he's getting married.",
+      "style": "Surprised brightness, like she's just processed something she wasn't expecting. Energy picks up. A beat of genuine feeling under the news.",
+      "mood": "surprised_moved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "彼の本音、ずっと探りに、入れずにいるの。",
+      "en": "I've been trying for a long time to figure out what he's really thinking, but I haven't been able to.",
+      "style": "Reflective and a little weary. The admission of something she's carried quietly. Trailing off slightly, like she's not sure if she should have said it aloud.",
+      "mood": "uncertain_searching"
+    }
+  ]
+}

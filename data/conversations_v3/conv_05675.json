@@ -1,0 +1,65 @@
+{
+  "id": "conv_05675",
+  "context": "A doctor explains medical research to a reporter",
+  "purpose": "Teach: 文化財/水面/悪質/脅迫/製薬/地価/告げる/変容",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "文化財",
+    "水面",
+    "悪質",
+    "脅迫",
+    "製薬",
+    "地価",
+    "告げる",
+    "変容"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、製薬業界、研究現場は急速に変容しています。",
+      "en": "Ren, the pharmaceutical research world is changing faster than it used to.",
+      "style": "Clear, measured opening. Steady eye contact. Matter-of-fact but not unkind. The tone of someone delivering information she's given many times before.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "臨床試験を告げる手続き、規制が厳しくなってますね。",
+      "en": "The regulatory requirements for trial notifications have gotten stricter, haven't they?",
+      "style": "Tentative, searching. Ren forming the thought aloud as he speaks. Respectful question-seeking from someone still learning the landscape. Slight upturn at the end.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。悪質な研究不正、患者への脅迫的事案もありました。",
+      "en": "Yes. There have been serious cases of research misconduct—even cases where patients were coerced.",
+      "style": "Steady delivery with weight. Pause before the second clause, acknowledging the gravity. Clear-eyed, not sugar-coating. The voice of someone who has seen the harm firsthand.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "文化財医学博物館も、水面下で資料を整えていると伺いました。",
+      "en": "I've heard the cultural medicine museum has been quietly preparing their records for all of this.",
+      "style": "Genuine curiosity beneath the careful phrasing. Ren gathering pieces of a larger picture. Slightly deferential but not timid—testing whether he's understood correctly.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "地価上昇で施設の維持も厳しい現実ですが、続けます。",
+      "en": "Land prices make it harder to maintain the facilities. But we keep going anyway.",
+      "style": "Quiet, resolute. A small exhale—acknowledgment of difficulty without complaint. Trailing thought that settles into gentle determination. She's said this before, to herself.",
+      "mood": "weary_resolute"
+    }
+  ]
+}

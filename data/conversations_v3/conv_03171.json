@@ -1,0 +1,75 @@
+{
+  "id": "conv_03171",
+  "context": "Kenji helps Ren organize a data list.",
+  "purpose": "WIDENED SCENARIO: tech/office; vocabulary (一定/形式/内部/諸/一覧) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "一定",
+    "形式",
+    "内部",
+    "諸",
+    "一覧"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_159)",
+    "generated_at": "2026-05-29T16:14:00.843Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "データを、一覧にまとめたいんです。",
+      "en": "I want to compile the data into a list.",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一定の形式に、そろえましょう。",
+      "en": "Let's align it to a fixed format.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "内部のデータも、含めますか?",
+      "en": "Do we include internal data too?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "内部のデータは、別の一覧にしましょう。",
+      "en": "Let's put internal data in a separate list.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "諸条件も、書き込みますか?",
+      "en": "Do we write in the various conditions too?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "諸条件を、形式に沿って入れましょう。",
+      "en": "Let's enter the various conditions per the format.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一覧になると、見やすいですね。",
+      "en": "As a list, it's easy to view.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一定の形式が、内部の混乱を防ぎます。",
+      "en": "A fixed format prevents internal confusion.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

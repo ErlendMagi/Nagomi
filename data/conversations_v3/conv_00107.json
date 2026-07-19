@@ -1,0 +1,67 @@
+{
+  "id": "conv_00107",
+  "context": "A small konbini, after dinner. Sho is buying snacks alone for the first time. Goro, in town visiting, is at the counter ahead of him.",
+  "purpose": "tiny incidental encounter — old man notices small boy",
+  "ambient": "shop_store",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "ありがとう",
+    "見る"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "お、君、一人で偉いな。",
+      "en": "Oh — alone, are you? Impressive.",
+      "style": "A slow Kyushu line of recognition. Half-smile audible.",
+      "mood": "kyushu_recognition"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…はい。",
+      "en": "…Yes.",
+      "style": "A careful one-word answer. Eyes on the snacks.",
+      "mood": "careful_one"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "お金、足りるか。本当に大丈夫か。",
+      "en": "You got enough money? Truly alright?",
+      "style": "A small kind check. Voice low and gentle.",
+      "mood": "small_check"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "足ります。お母さんが、ちゃんと。",
+      "en": "I have enough. Mom — gave it to me properly.",
+      "style": "A small proud full sentence. Eight-year-old dignity.",
+      "mood": "small_dignity"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ええな。気ぃつけて帰りなさい。",
+      "en": "Good. Take care getting home.",
+      "style": "A small grandfather-line, no fuss — voice carries the moment fully.",
+      "mood": "grandfatherly"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "A small full keigo bow. Real for a five-year-old.",
+      "mood": "real_keigo_kid"
+    }
+  ]
+}

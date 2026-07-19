@@ -1,0 +1,79 @@
+{
+  "id": "conv_02086",
+  "context": "Naoko writes a small letter; reads aloud to Mrs. Mori.",
+  "purpose": "Aunt sharing personal correspondence with neighbor.",
+  "ambient": "tatami_lamp_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "素直",
+    "送信",
+    "いただけれ",
+    "取ら",
+    "会っ",
+    "がち",
+    "当日",
+    "すっかり"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_105)",
+    "generated_at": "2026-05-27T13:24:30.752Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "森さん、この手紙、聞いてくれる?",
+      "en": "Mori-san, would you listen to this letter for me?",
+      "style": "Warm, generous opening. Kansai lilt on the question. Slightly hesitant—seeking permission and blessing before sharing something personal. Lean-in closeness.",
+      "mood": "warm_vulnerable"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "もちろん、何の手紙?",
+      "en": "Of course. What's the letter about?",
+      "style": "Immediate, genuine readiness. Soft, curious. The tone of someone already giving full attention. A gentle reassurance before even hearing the content.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "昔会った友達に、当日、書いとってん。",
+      "en": "An old friend I hadn't seen in ages—I wrote it to them today.",
+      "style": "Tender, slightly wistful. Kansai softness. Pace slows on 'hadn't seen in ages.' Small breath before the admission of writing. Nostalgic but earnest.",
+      "mood": "nostalgic_earnest"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "素直な気持ち、ちゃんと書いてあるかしら。",
+      "en": "I wonder if you've written down what you really feel.",
+      "style": "Gentle probe, not accusation. Warm curiosity underneath. The tone of someone who knows Naoko well enough to ask the real question. Slight rise at the end—inviting honesty.",
+      "mood": "gently_probing"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "気がち、なって書いた、いつも以上に。",
+      "en": "I did. I put more heart into it than I usually do.",
+      "style": "Quieter, more vulnerable. Kansai warmth. Small pause before admitting 'more than usual'—a moment of self-awareness. Soft conviction underneath.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "すっかり、温かい手紙ね。",
+      "en": "It really is a warm letter, isn't it.",
+      "style": "Soft affirmation, not questioning. Warm appreciation. The gentle recognition of something good and true. Slight trailing warmth—validating the effort and honesty.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "いただければ、送信、する予定や。",
+      "en": "If you think it sounds okay, I'm going to send it.",
+      "style": "Grounded, decided. Kansai lilt. Seeks approval but carries quiet conviction. Not tentative—committed. The tone of someone ready to follow through.",
+      "mood": "resolved"
+    }
+  ]
+}

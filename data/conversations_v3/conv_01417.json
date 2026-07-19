@@ -1,0 +1,76 @@
+{
+  "id": "conv_01417",
+  "context": "Saito gives Mei a positive baby checkup.",
+  "purpose": "doctor-mother baby checkup exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "家族",
+    "感謝"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_071)",
+    "generated_at": "2026-05-27T05:41:20.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、本当、子ども、健康、ね。",
+      "en": "Mei-san, your child is truly healthy.",
+      "style": "Warm opening, gentle delivery of reassurance. Soft composure threading through. The kind doctor letting relief land. Measured pace, steady eye contact conveyed in the voice.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本当、感謝、本当に。",
+      "en": "I'm truly grateful. So grateful.",
+      "style": "Quiet relief washing over her. Tender undercurrent of released tension. Words come slowly, sincere. Slight tremor of genuine emotion held close but audible.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "家族、本当、立派、ね。",
+      "en": "You've done a wonderful job with your family.",
+      "style": "Appreciative pause before speaking. Genuine admiration in her tone. Professional warmth that feels earned, not performed. Careful emphasis on what she means.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "相談、本当、いつでも。",
+      "en": "You can call anytime you need to talk.",
+      "style": "Soft intake of breath, then the words tender and immediate. Not a formality—a real offer. Warmth opening the door. Small pause before the end, letting it sink in.",
+      "mood": "warm_offer"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、見守ろう。",
+      "en": "Let's keep watching over him together.",
+      "style": "Closing warmth, collaborative tone. The 'together' lands with real care. Slight slowdown on the final phrase, a promise more than a statement. Composure holding gentle certainty.",
+      "mood": "steady_caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本当、嬉しい、本当に。",
+      "en": "I'm truly happy for you. Truly.",
+      "style": "Emotion surfaces but stays grounded. The repetition of 'truly' is unrushed, deliberate. Tender vulnerability underneath professional reserve. Voice softens on the final word.",
+      "mood": "tender_joyful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、本当に、ね。",
+      "en": "Take care of yourself.",
+      "style": "Closing benediction, warm and unhurried. Gentle firmness underneath—not quite goodbye, more like a promise to continue. Voice steady, holding care in its simplicity.",
+      "mood": "warm_steady"
+    }
+  ]
+}

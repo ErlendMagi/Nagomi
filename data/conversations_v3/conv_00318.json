@@ -1,0 +1,83 @@
+{
+  "id": "conv_00318",
+  "context": "Mrs. Mori knocks at Yumiko's door urgently — she heard a strange sound and wants help looking.",
+  "purpose": "small civic emergency — adult-to-adult quick helping response",
+  "ambient": "apartment_lobby_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "緊急",
+    "音",
+    "一緒",
+    "確認",
+    "心配"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_016)",
+    "generated_at": "2026-05-26T20:48:29.338Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ゆみこさん、ちょっと、お願いがあって。",
+      "en": "Yumiko-san, I have a small favor.",
+      "style": "Neighbor warm careful urgent-controlled opening, the soft real real-anxiety audible, gentle real warmth throughout delivery.",
+      "mood": "urgently-careful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "森さん、どうしました？",
+      "en": "Mori-san, what happened?",
+      "style": "Maternal warm careful gentle concerned-receiving, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-concerned"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "隣の家から、変な音、するの。",
+      "en": "From the next house — a strange sound.",
+      "style": "Neighbor warm careful soft worried-sharing, the soft real real-concern audible, gentle real warmth throughout delivery.",
+      "mood": "softly-worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に見に行きましょうか？",
+      "en": "Shall we go look together?",
+      "style": "Maternal warm gentle practical immediate-helping, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "practically-helping"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お願いできる？一人だと、心配で。",
+      "en": "Could you? Alone, I'm worried.",
+      "style": "Neighbor warm soft gentle relieved-grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もちろん。緊急なら、警察にも連絡しましょう。",
+      "en": "Of course. If urgent, let's contact police.",
+      "style": "Maternal warm gentle practical careful-thorough, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "practically-careful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "まずは、確認だけ。すぐ近くだから。",
+      "en": "First, just confirming. It's right nearby.",
+      "style": "Neighbor warm gentle softer-pulling-back careful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-softer"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、行きましょう。一緒なら、安心。",
+      "en": "Yes, let's go. Together is reassuring.",
+      "style": "Maternal warm gentle warm committed-closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-committed"
+    }
+  ]
+}

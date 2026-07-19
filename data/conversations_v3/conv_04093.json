@@ -1,0 +1,84 @@
+{
+  "id": "conv_04093",
+  "context": "A police officer briefs a neighborhood dad on local welfare programs",
+  "purpose": "Teach: 農民/在住/支部/救済/双方/開放/不可欠/国籍",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "農民",
+    "在住",
+    "支部",
+    "救済",
+    "双方",
+    "開放",
+    "不可欠",
+    "国籍"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "佐藤さん、この地区在住の方向けに、市の福祉プログラムを少しご説明させてください。",
+      "en": "Mr. Sato, let me briefly explain the city's welfare programs for residents of this district.",
+      "style": "Polite officer tone, calm and informative delivery."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、お願いします。最近、近所の救済制度のことを全然知らなくて、恥ずかしいんですよ。",
+      "en": "Ah, please do. I honestly don't know anything about the local relief programs lately, it's embarrassing.",
+      "style": "Friendly dad voice, slightly sheepish and casual neighborhood manner."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "まず、町内会の支部が窓口になっていて、子育て世帯と高齢者の双方を対象にしています。",
+      "en": "First, the neighborhood association branch acts as the contact point, covering both child-rearing households and elderly residents.",
+      "style": "Structured explanation delivered in a professional and clear manner."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "へえ、双方ともですか。うちは小さい子もいるし、義父も同居なので助かります。",
+      "en": "Oh, both of them? That helps a lot since we've got little kids and my father-in-law lives with us too.",
+      "style": "Warm fatherly reply, genuinely relieved and grateful in tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それから、市の公園や集会所は週末に無料で開放していますので、ぜひ使ってください。",
+      "en": "Also, the city parks and community halls are opened free of charge on weekends, so please make use of them.",
+      "style": "Encouraging public-service tone, inviting and welcoming."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ちなみに、外国国籍の方も同じ制度を使えるんですか？隣のご家族が気にしていて。",
+      "en": "By the way, can people of foreign nationality use the same programs? The family next door has been wondering.",
+      "style": "Curious and considerate inquiry made on a neighbor's behalf."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろんです。国籍を問わず利用可能で、地域の支え合いには多様な参加が不可欠なんですよ。",
+      "en": "Of course. They're available regardless of nationality, and diverse participation is indispensable for community support.",
+      "style": "Reassuring civic message delivered firmly but kindly to the resident."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほど。昔この辺りは農民の集落だったって聞きますし、助け合いの文化が根付いてるんですね。",
+      "en": "I see. I've heard this area used to be a farming village long ago, so the spirit of mutual aid is really rooted here.",
+      "style": "Reflective and appreciative observation from a neighborhood dad."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おっしゃる通りです。詳しい資料をお渡ししますので、奥様とご一緒に目を通してみてください。",
+      "en": "Exactly. I'll hand you the detailed materials, so please look through them together with your wife.",
+      "style": "Polite closing remark with a warm professional handoff."
+    }
+  ]
+}

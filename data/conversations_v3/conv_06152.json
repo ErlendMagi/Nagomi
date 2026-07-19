@@ -1,0 +1,79 @@
+{
+  "id": "conv_06152",
+  "context": "A police officer briefs about a regional incident",
+  "purpose": "Teach: 波紋/強める/独学/民意/隆盛/不規則/収拾/山手線",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "波紋",
+    "強める",
+    "独学",
+    "民意",
+    "隆盛",
+    "不規則",
+    "収拾",
+    "山手線"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_309 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "事件、波紋が広がっています。",
+      "en": "The incident is spreading ripples through the community.",
+      "style": "Even, professional delivery. No theatrical pause. State fact cleanly, like reading a briefing. Slight weight on 'spreading' — it matters. Eyes steady.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、捜査を強める方針ですか。",
+      "en": "So the police are planning to intensify the investigation?",
+      "style": "Gentle curiosity, not challenge. Lean in slightly with the question. Voice rises just enough at the end to invite confirmation. He's following along, not testing.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域の協力者、独学で防犯を勉強しています。",
+      "en": "Yes. Community volunteers are studying crime prevention on their own.",
+      "style": "Informative but warm. Brief pause before 'volunteers' — acknowledging the good faith. Matter-of-fact on the self-study part. Professional but not cold.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "民意の反映、警察の対応にも、影響しますね。",
+      "en": "Public concern like this — it influences how the police respond too, doesn't it?",
+      "style": "Thoughtful, not quite a statement. Voice carries the weight of the connection he's making. Gentle rise on the question-tag. He's thinking out loud with Takeda, not at him.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域犯罪の隆盛、避けたい。",
+      "en": "Yes. We want to prevent local crime from escalating.",
+      "style": "Resolved tone. Light emphasis on 'prevent' — that's the mission. Steady pace. Not defensive, just clear about what matters. Ends with quiet conviction.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "不規則な動き、容疑者の挙動、収拾が肝心ですね。",
+      "en": "The suspect's irregular movements — it's crucial we contain this quickly.",
+      "style": "Urgent but controlled. Quick rhythm on 'irregular movements' — that's the problem. Slight tension on 'crucial.' He understands the stakes and names them clearly.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "山手線駅構内の監視カメラ、活用しています。",
+      "en": "We're using the surveillance cameras in the Yamanote Line stations to monitor the situation.",
+      "style": "Procedural close-out. Factual, no embellishment. Slight downward inflection on 'stations' — he's wrapped up this point. Professional distance returning.",
+      "mood": "procedural"
+    }
+  ]
+}

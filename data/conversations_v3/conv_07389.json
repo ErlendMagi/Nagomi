@@ -1,0 +1,86 @@
+{
+  "id": "conv_07389",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 一式/公文書/リーク/プロファイル/新旧/未完成/偏向/覆す",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "一式",
+    "公文書",
+    "リーク",
+    "プロファイル",
+    "新旧",
+    "未完成",
+    "偏向",
+    "覆す"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_371 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、捜査資料、絶対、一式、絶対、ご用意、絶対、いただきました、本気で、感謝",
+      "en": "The police have prepared the full investigation materials. We truly appreciate your cooperation.",
+      "style": "Measured, official tone. Precise articulation on key words. Slight pause between clauses. Professional warmth — acknowledging partnership without losing formality.",
+      "mood": "professional_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察様の、本気で、絶対、公文書、絶対、要請、絶対、対応、絶対、いたします、本気で、感謝",
+      "en": "Of course. We'll handle any official documents the police request with top priority. Thank you for your thorough work.",
+      "style": "Respectful, slightly formal. Clear enunciation. Steady pace. Attentive — meeting the officer's tone without overstepping. Genuine gratitude under the protocol.",
+      "mood": "cooperative_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "関係者の、本気で、絶対、リーク、絶対、行為、絶対、警察、絶対、注視しております、本気で、感謝",
+      "en": "We're closely monitoring any unauthorized disclosures from related parties. It's important we maintain the integrity of this investigation.",
+      "style": "Calm, procedural. Even emphasis. Slight weight on 'monitoring.' No urgency, but clear seriousness. The voice of someone who has seen leaks before.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者の、本気で、絶対、プロファイル、絶対、警察様、絶対、ご提供、絶対、いたします、本気で、感謝",
+      "en": "Understood. We'll provide you with a full profile of the suspect. Whatever you need from us.",
+      "style": "Prompt, assured. Slightly quicker tempo than before — eager to be helpful. Respectful but not hesitant. The tone of someone committing to action.",
+      "mood": "obliging"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠の、本気で、絶対、新旧、絶対、比較、絶対、警察、絶対、進めております、本気で、感謝",
+      "en": "We're comparing old and new evidence now. The investigation is moving forward steadily.",
+      "style": "Methodical, steady. Slight emphasis on 'comparing.' Quiet confidence — not rushed. The voice of someone in the middle of careful work, reporting progress without overselling it.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本件、本気で、絶対、未完成、絶対、捜査資料、絶対、警察様、絶対、最優先で、絶対、お渡しいたします、本気で、感謝",
+      "en": "Yes. We still have incomplete materials from the case. I want to get everything to you as soon as possible.",
+      "style": "Earnest, slightly urgent. Leaning forward slightly in the voice. Genuine concern — not about burden, but about getting the police what they need. Finishing with quiet resolve.",
+      "mood": "concerned_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "報道の、本気で、絶対、偏向、絶対、市民に、絶対、誤解、絶対、与えない、絶対、よう、絶対、警察、絶対、対応しております、本気で、感謝",
+      "en": "The media has been spreading misleading information. We're working to make sure the public understands what actually happened.",
+      "style": "Firm but measured. Slight hardening on 'misleading.' Not angry — weary of the burden of correction. Professional resolve. The officer protecting the investigation from outside noise.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本件、本気で、絶対、警察の捜査が、絶対、これまでの推測を、絶対、覆す、絶対、可能性、絶対、あるそうですね、本気で、感謝",
+      "en": "I understand. The police investigation might actually overturn some of our earlier assumptions. That's important to know.",
+      "style": "Thoughtful, slightly surprised. Pause before 'might overturn' — real consideration. Measured pace. Not defensive — genuinely registering the weight of what the officer is implying.",
+      "mood": "contemplative"
+    }
+  ]
+}

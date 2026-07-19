@@ -1,0 +1,86 @@
+{
+  "id": "conv_08012",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 隠そ/見渡し/励ん/史跡/貧しく/苦境/途絶え/撃ち",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "隠そ",
+    "見渡し",
+    "励ん",
+    "史跡",
+    "貧しく",
+    "苦境",
+    "途絶え",
+    "撃ち"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者は証拠を隠そうとしておりました",
+      "en": "In this case, the suspect was attempting to conceal evidence.",
+      "style": "Professional, measured delivery. Steady eye contact. The weight of facts stated plainly without drama. Voice level, slightly formal register.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、上空から町を見渡して捜索ですね",
+      "en": "So the police conducted an aerial search of the town, then?",
+      "style": "Genuine curiosity in the question. Slight uptick on the question mark. Leaning forward slightly. Processing what he's hearing — not doubting, understanding.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域防犯に励んでおります",
+      "en": "The police department is actively engaged in regional crime prevention.",
+      "style": "Official tone, measured. Each phrase lands with quiet authority. Not rushed. The cadence of someone who has said this before and means it each time.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察が史跡の被害も調査されたんですね",
+      "en": "So the police investigated the damage to the historic sites as well?",
+      "style": "Careful, connecting-the-dots tone. Thoughtful pause before speaking. Not accusatory — genuinely piecing together the scope. Soft, attentive.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、貧しく困った家庭への支援も行います",
+      "en": "The police also provide support to families in difficult economic circumstances.",
+      "style": "Firm but not cold. A statement of purpose. Steady pace. The implicit: this is what we do, beyond the headlines. Grounded authority.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者は苦境にあったそうですね",
+      "en": "The victim was in a difficult situation, I understand.",
+      "style": "Quiet recognition. A small pause before speaking, as if acknowledging the weight of that. Gentle but not soft. The voice of someone registering human cost.",
+      "mood": "somber_understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯人との連絡が途絶えたそうですね",
+      "en": "Contact with the suspect was lost at some point.",
+      "style": "Matter-of-fact delivery. A shift to briefer information. Clinical but not unkind. The slight lift of a statement closing a chapter.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、容疑者の撃ち方、警察、解析されたんですね",
+      "en": "The police analysed the suspect's actions in detail, then.",
+      "style": "Quiet conclusion. Recognition of technical precision. Soft at the end, like a period on a sentence. Respectful of the work done, without fanfare.",
+      "mood": "contemplative_closure"
+    }
+  ]
+}

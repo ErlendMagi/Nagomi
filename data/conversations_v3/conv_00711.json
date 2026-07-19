@@ -1,0 +1,62 @@
+{
+  "id": "conv_00711",
+  "context": "Officer Takeda warns Ren about a dangerous intersection.",
+  "purpose": "authority-citizen traffic safety advisory",
+  "ambient": "street_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "状況",
+    "注意",
+    "安全",
+    "道",
+    "重要"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "君、ここの道、状況、結構危ない。",
+      "en": "You — this road, the situation here, it's fairly dangerous.",
+      "style": "Measured, protective opening. Steady voice with the weight of professional experience. Calm but clear — not alarming, informative. Authority that doesn't perform.",
+      "mood": "concerned_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうですか。気を付けます、ありがとう。",
+      "en": "I see. I'll be more careful. Thank you.",
+      "style": "Respectful and genuine. Soft intake, like he's absorbing the warning. Warm acknowledgment without defensiveness. The tone of someone who listens to people who know.",
+      "mood": "grateful_attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "夜、特に、注意。重要だぞ。",
+      "en": "Night especially — be careful then. That's when it matters.",
+      "style": "Firmer here, slight emphasis on 「夜」. Still composed but the urgency underneath is visible. A real warning, not a formality. Eye contact level steady, weight on the importance.",
+      "mood": "serious_protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解。安全、一番、大切ですね。",
+      "en": "Understood. Safety is — that's what matters most.",
+      "style": "Quiet conviction. He's internalising it, not just agreeing. Slight pause before the affirmation, like he's really taking it in. Sincere, grounded, respectful.",
+      "mood": "earnest_resolved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よし、気を付けて。",
+      "en": "Good. Take care of yourself out there.",
+      "style": "Brief, warm closer. The formality softens just slightly — not unprofessional, but human. A final note of genuine care underneath the authority. Dismissal that means something.",
+      "mood": "kind_firm"
+    }
+  ]
+}

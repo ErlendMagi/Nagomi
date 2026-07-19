@@ -1,0 +1,118 @@
+{
+  "id": "conv_00038",
+  "context": "A village fishing event in Iwate. Goro is visiting from Kyushu; Tatsuya is the local. They've ended up at the same spot by accident. Most of the conversation is silence.",
+  "purpose": "incidental old-men camaraderie — companionship punctuated by tiny exchanges",
+  "ambient": "park_morning",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "大丈夫",
+    "見る",
+    "一緒"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…(long silence, then)寒いな。",
+      "en": "(long silence) …Cold.",
+      "style": "A whole comfortable silence before this line. Then two syllables.",
+      "mood": "silence_breaking"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ。",
+      "en": "Ah.",
+      "style": "Single syllable acknowledgement. Doesn't look over.",
+      "mood": "acknowledging"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "九州、もっと暖こうて。",
+      "en": "Kyushu — warmer.",
+      "style": "Three slow clauses. Kyushu inflection. A small geography lesson without lifting his head.",
+      "mood": "geographic_calm"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "だろうな。",
+      "en": "Reckon so.",
+      "style": "Tohoku softness. Spoken like he has thought about Kyushu before.",
+      "mood": "tohoku_acknowledging"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…釣れんけど、ええわ。",
+      "en": "…Not biting — but it's fine.",
+      "style": "A small philosophical line. Said toward the water.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ええわな。",
+      "en": "Fine indeed.",
+      "style": "The fewest words a man can use to agree. The 「な」 carries everything.",
+      "mood": "minimal_agreement"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "(silence, then)息子、東京におるんよ。",
+      "en": "(silence) Son's in Tokyo.",
+      "style": "Volunteered out of nothing. The shape of a real offering.",
+      "mood": "small_offering"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うちの娘も、東京。",
+      "en": "My daughter too — Tokyo.",
+      "style": "Returns the offering at the same tempo. Recognition without ceremony.",
+      "mood": "returning_offering"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ふん。",
+      "en": "Hm.",
+      "style": "Single voiced consonant. Acknowledges the connection.",
+      "mood": "acknowledging_minimal"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "会えるか、年に一回。",
+      "en": "See her about once a year.",
+      "style": "Plain fact, no complaint inside the words.",
+      "mood": "plain_fact"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "俺は、二回や。今年は。",
+      "en": "Twice for me. This year.",
+      "style": "A small offering of luck — said quietly, not boastfully.",
+      "mood": "quietly_lucky"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いいな。",
+      "en": "Good.",
+      "style": "No envy, no sarcasm. Genuinely meant agreement.",
+      "mood": "genuine_good"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "The smallest sufficient answer. Both men return to the water.",
+      "mood": "sufficient"
+    }
+  ]
+}

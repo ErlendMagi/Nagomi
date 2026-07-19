@@ -1,0 +1,76 @@
+{
+  "id": "conv_00904",
+  "context": "Saito advises Sakura about sleep before exams.",
+  "purpose": "doctor-student sleep-health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "睡眠",
+    "健康",
+    "相談",
+    "大切",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_045)",
+    "generated_at": "2026-05-27T02:39:30.683Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、睡眠、ちゃんと、取れてる？",
+      "en": "Sakura, are you getting enough sleep?",
+      "style": "Steady, caring inquiry. Slight softening on her name. Direct but not clinical—the reassurance of a doctor who sees the person first. Even pace, warm underneath the professionalism.",
+      "mood": "caring_direct"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "少し、足りない、かもしれません。",
+      "en": "Not quite as much as I should, I think.",
+      "style": "Hesitant admission. Quiet self-awareness underneath. Soft start, trailing off slightly on 'maybe'—checking if it's safe to be honest about struggling.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、勉強より、大切。",
+      "en": "Health matters more than studying.",
+      "style": "Quiet conviction. Not lecturing—stating what she knows to be true with the weight of experience. Slow enough that it lands. Tender but firm.",
+      "mood": "wise_firm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、気を付けます。",
+      "en": "I'll be more careful.",
+      "style": "Quick, respectful affirmation. Not defensive, but earnest. The immediate agreement of someone who trusts the person speaking to her.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、来てね。",
+      "en": "Come talk to me anytime you need to. Okay?",
+      "style": "Warm invitation, almost a promise. Soft open at the start, slight rise of reassurance on 'anytime.' Genuine permission, not an obligation.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、頑張ります。",
+      "en": "Thank you so much. I'll do my best.",
+      "style": "Grateful and determined. Slight bow in the voice. Respectful but genuine—not performing gratitude, actually meaning it. Energy from the commitment.",
+      "mood": "grateful_resolved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理せず、ね。",
+      "en": "Just don't push yourself too hard.",
+      "style": "Gentle closing reminder. Almost maternal softness without condescension. Slow, deliberate. The last thing she wants you to hold onto.",
+      "mood": "tender"
+    }
+  ]
+}

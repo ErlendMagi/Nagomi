@@ -1,0 +1,78 @@
+{
+  "id": "conv_03203",
+  "context": "Bath day: washing a wriggly puppy at the shop",
+  "purpose": "Bathe the puppy; teach ワン/我慢/垢/とれ/だめ/匹/在庫/もつ",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "垢",
+    "とれ",
+    "ワン",
+    "我慢",
+    "在庫",
+    "もつ",
+    "匹",
+    "だめ"
+  ],
+  "cast": [
+    "sho_child",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ワンちゃん、お風呂やだって暴れる！",
+      "en": "The puppy hates the bath and is thrashing!",
+      "style": "flustered child struggling with the wet pup"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "我慢して、すぐ終わるからね。",
+      "en": "Hang in there, it will be over soon.",
+      "style": "soothing helper calming both child and dog"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "体の垢、いっぱいとれてきた！",
+      "en": "Lots of grime is coming off its body!",
+      "style": "gleeful child fascinated by the dirty water"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そう、垢をきれいに落とすと毛がふわふわ。",
+      "en": "Right, scrub the grime off and the fur goes fluffy.",
+      "style": "cheerful helper teaching a fun fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "名前を呼んだら、じっとしてくれた。",
+      "en": "When I called its name, it held still.",
+      "style": "proud child delighted by the small success"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "えらいね。暴れちゃだめだもんね。",
+      "en": "Good boy. Thrashing is a no-no, right?",
+      "style": "praising helper reinforcing the gentle rule"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "何匹も洗うの、大変だね。",
+      "en": "Washing several of them is hard work.",
+      "style": "tired but engaged child appreciating the effort"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "シャンプーの在庫、まだもつかな。",
+      "en": "I wonder if the shampoo stock will hold out.",
+      "style": "practical helper glancing at the supplies"
+    }
+  ]
+}

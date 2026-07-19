@@ -1,0 +1,83 @@
+{
+  "id": "conv_00326",
+  "context": "Dr. Saito sits down with Hiroshi-elder for a deeper consultation — the patient's health has been declining slowly.",
+  "purpose": "aging-patient careful disclosure — doctor honest with long-time patient",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "体調",
+    "状況",
+    "無理",
+    "生活",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_017)",
+    "generated_at": "2026-05-26T20:56:05.401Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、今日は少しゆっくりお話しできれば。",
+      "en": "Tanaka-san, today if we can talk slowly.",
+      "style": "Doctor warm professional gentle careful opening-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-careful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、なんか心配なことでも？",
+      "en": "Yeah, something worrying?",
+      "style": "Slow elder warm gentle honest-receiving direct, the soft real real-elder audible, gentle real warmth throughout delivery.",
+      "mood": "gently-direct"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体調、少しずつですが、変化が見られます。",
+      "en": "Health — gradually, changes are visible.",
+      "style": "Doctor warm professional gentle honest-careful disclosure, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-honest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "自分でも、感じてる。",
+      "en": "I sense it myself too.",
+      "style": "Slow elder warm gentle honest-acknowledging quiet, the soft real real-elder audible, gentle real warmth throughout delivery.",
+      "mood": "gently-acknowledging"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理は禁物です。生活、少し見直しましょう。",
+      "en": "No overdoing. Let's review your routine.",
+      "style": "Doctor warm gentle firm careful-direction, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "firmly-careful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、何を変えたらええ？",
+      "en": "Yes, what should I change?",
+      "style": "Slow elder warm gentle cooperative-receiving, the soft real real-elder audible, gentle real warmth throughout delivery.",
+      "mood": "cooperatively-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "塩分を控えて、ゆっくり歩く時間を、毎日。",
+      "en": "Reduce salt, slow walking time — every day.",
+      "style": "Doctor warm gentle specific careful-instructing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-specific"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "心がけてみるよ。相談してくれて、ありがたい。",
+      "en": "I'll try. Thank you for consulting with me.",
+      "style": "Slow elder warm gentle sincere closing-grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-grateful"
+    }
+  ]
+}

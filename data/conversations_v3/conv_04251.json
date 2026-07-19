@@ -1,0 +1,78 @@
+{
+  "id": "conv_04251",
+  "context": "A boss and his manager debate the morning political headlines",
+  "purpose": "Teach: 参議院/法令/地裁/担保/信託/国鉄/防衛庁/外資",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参議院",
+    "法令",
+    "地裁",
+    "担保",
+    "信託",
+    "国鉄",
+    "防衛庁",
+    "外資"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、見たか？参議院でまた揉めてるらしいぞ。",
+      "en": "Did you see this morning's paper? They're arguing in the upper house again.",
+      "style": "Gruff boss tone, casual familiarity, slightly exasperated morning weariness"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、新しい法令の改正案ですよね。野党が猛反対しているみたいで。",
+      "en": "Yes, the new legislation amendment, right? Looks like the opposition is fiercely against it.",
+      "style": "Polite subordinate register, measured neutral delivery, careful not to overstep"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "東京地裁の判決もひっくり返されたしな。司法も政治も、最近どうなってるんだ。",
+      "en": "And the Tokyo district court ruling got overturned too. What's happening to the judiciary and politics lately.",
+      "style": "Older man venting frustration, rhetorical question, world-weary cynicism"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "信託銀行の知人が言うには、土地担保の融資基準も見直されるかもって。",
+      "en": "A contact at a trust bank told me the land collateral lending criteria might be revised too.",
+      "style": "Sharing insider information cautiously, lowered conversational tone, professional aside"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "また外資系がうるさく言ってくるんだろう。旧国鉄の民営化の時もそうだった。",
+      "en": "Foreign capital firms will complain again, no doubt. Same thing happened during the old JNR privatization.",
+      "style": "Bitter veteran recalling past, dismissive grumble, generational perspective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それと、防衛庁長官の発言も波紋を呼んでますね。閣議でも揉めたとか。",
+      "en": "Also, the defense agency chief's remarks are causing ripples. Apparently it got heated in cabinet too.",
+      "style": "Steering topic carefully, neutral reportage voice, hedged with information particles"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まったく、朝から胃が痛くなる話ばかりだ。コーヒー、もう一杯頼むよ。",
+      "en": "Honestly, nothing but stomach-churning news first thing in the morning. Get me another coffee, will you.",
+      "style": "Resigned grumbling, shifting to mundane request, dismissive close to topic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、すぐお持ちします。社長、新聞、置いておきますね。",
+      "en": "Yes, I'll bring it right away. I'll leave the paper here for you, sir.",
+      "style": "Crisp deferential reply, smooth service register, polite withdrawal"
+    }
+  ]
+}

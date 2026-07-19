@@ -1,0 +1,79 @@
+{
+  "id": "conv_05475",
+  "context": "A doctor explains body mechanics to a teen",
+  "purpose": "Teach: 落下/最高裁判所/拒絶/探求/力学/神学/高層/個体",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "落下",
+    "最高裁判所",
+    "拒絶",
+    "探求",
+    "力学",
+    "神学",
+    "高層",
+    "個体"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、人体の力学、知れば知るほど興味深いですよ。",
+      "en": "Sakura, the more you understand about human biomechanics, the more fascinating it becomes.",
+      "style": "Warm, inviting tone. A gentle opening that draws her in. Speaking with the unhurried clarity of someone who genuinely enjoys teaching. Steady, measured pace.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "例えば、高所からの落下時、骨格はどう動くんですか?",
+      "en": "Like, what happens to the skeleton during a fall from a high place?",
+      "style": "Direct, unselfconscious curiosity. Leans forward slightly in the question. Not afraid to ask the hard thing. Clear, focused delivery with slight lift at the end.",
+      "mood": "genuinely_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "個体差はありますが、最高裁判所の医学鑑定書も参考にされます。",
+      "en": "There's variation between individuals, but even Supreme Court medical reports reference the patterns we see.",
+      "style": "Educational but not lecturing. Matter-of-fact precision. Speaking with the authority that comes from experience, not performance. Slight pause before the second clause, like connecting pieces.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "神学的な議論には立ち入らないんですか。",
+      "en": "You don't get into the philosophical side of things?",
+      "style": "Testing slightly. A small probe to see where the boundary is. Respectful but not deferential. Genuine question beneath the surface.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "臨床では拒絶しています。探求は科学に絞ります。",
+      "en": "Clinically, we stay out of it. My inquiry stays within science.",
+      "style": "Clear boundary set with quiet firmness. Not dismissive — principled. A moment of reflection before speaking. Steady eye contact implied. Confident in the distinction being made.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "高層階の患者さん、緊急対応も大変ですよね。",
+      "en": "Patients on high floors — emergency response must be a real challenge.",
+      "style": "Shifting to practical ground. Acknowledging his work with respect. Soft observation rather than questioning. Slight pause between the setup and the reflection.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、訓練しています。",
+      "en": "Yes — we're trained for it.",
+      "style": "Short, grounded answer. Not boasting, just fact. A small nod in the words. Warm acknowledgment that she understands the weight of what he does.",
+      "mood": "grounded"
+    }
+  ]
+}

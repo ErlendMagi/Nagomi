@@ -1,0 +1,78 @@
+{
+  "id": "conv_04773",
+  "context": "A doctor explains a teen patient's symptoms at a check-up",
+  "purpose": "Teach: 丼/宴会/唇/食物/爪/昨晩/汚い/症候群",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "丼",
+    "宴会",
+    "唇",
+    "食物",
+    "爪",
+    "昨晩",
+    "汚い",
+    "症候群"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、昨晩はよく眠れましたか？顔色があまり良くないですね。",
+      "en": "Sakura, did you sleep well last night? Your complexion doesn't look very good.",
+      "style": "Calm professional doctor tone, gentle but probing concern."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実は学校の宴会みたいな打ち上げがあって、夜中まで起きてました。",
+      "en": "Actually there was a party-like gathering at school, and I stayed up until midnight.",
+      "style": "Slightly embarrassed teen voice, casual and apologetic tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。唇が少し乾いていますね。水分は足りていますか？",
+      "en": "I see. Your lips look a bit dry. Are you getting enough fluids?",
+      "style": "Observant clinical voice, soft and methodical examination tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あんまり飲んでないかも。お昼は牛丼だけで済ませちゃいました。",
+      "en": "Maybe not really. For lunch I just had a beef bowl and called it done.",
+      "style": "Sheepish teenage admission, casual shrugging vocal quality."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それはいけません。食物のバランスが崩れると、疲労症候群のような症状が出やすくなります。",
+      "en": "That won't do. When your food balance breaks down, fatigue-syndrome-like symptoms appear easily.",
+      "style": "Slightly firmer educational tone, doctor delivering important advice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、それで爪も最近すごく割れやすいんです。関係ありますか？",
+      "en": "Oh, that's why my nails have been breaking really easily lately. Is it related?",
+      "style": "Curious teen realization, voice lifting with sudden understanding."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大いに関係ありますよ。それと、手はちゃんと洗っていますか？汚い手で目をこすると感染症の原因になります。",
+      "en": "Very much related. Also, are you washing your hands properly? Rubbing your eyes with dirty hands causes infections.",
+      "style": "Warm but instructive parental-doctor cadence, deliberate pacing."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "気をつけます。今日からちゃんと食べて、早く寝るようにします。",
+      "en": "I'll be careful. Starting today I'll eat properly and try to sleep early.",
+      "style": "Resolved teenage promise, voice slightly more mature and earnest."
+    }
+  ]
+}

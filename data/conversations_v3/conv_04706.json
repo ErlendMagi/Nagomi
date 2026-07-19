@@ -1,0 +1,72 @@
+{
+  "id": "conv_04706",
+  "context": "A boss reviews a policy paper with his deputy",
+  "purpose": "Teach: 全文/方策/単一/抜本/内外/明示/明白/さらなる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "全文",
+    "方策",
+    "単一",
+    "抜本",
+    "内外",
+    "明示",
+    "明白",
+    "さらなる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この政策文書の全文に目を通したが、提案された方策はどうも具体性に欠けるな。",
+      "en": "I've read through the entire policy document, but the proposed measures lack specificity.",
+      "style": "Authoritative boss tone, measured and slightly critical delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。単一の視点からしか書かれていないので、内外の状況を反映できていません。",
+      "en": "You're absolutely right. It's written from a single perspective and doesn't reflect domestic and foreign conditions.",
+      "style": "Respectful deputy tone, agreeing while contributing analytical observation calmly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ここはもう抜本的に書き直す必要があるだろう。中途半端な修正では通用しない。",
+      "en": "We'll need to fundamentally rewrite this section. Half-measures won't pass muster.",
+      "style": "Firm decisive boss tone, slightly frustrated but professional throughout."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。各部署の責任範囲も明示すべきかと存じます。",
+      "en": "Understood. I believe we should also explicitly state each department's scope of responsibility.",
+      "style": "Polite deferential deputy speech, formal business Japanese with suggestion."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだな。財源の問題も明白だし、誰が見ても分かるように書かないと。",
+      "en": "Indeed. The funding issue is obvious too, and it must be written so anyone can understand.",
+      "style": "Thoughtful boss tone, slightly softening as agreement is reached."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では、来週までに改訂版を準備いたします。さらなるご指導をお願いいたします。",
+      "en": "Then I'll prepare a revised version by next week. I'd appreciate your further guidance.",
+      "style": "Respectful closing tone, formal humble Japanese with bow-like deference."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。月曜の朝一番に私の机に置いておいてくれ。",
+      "en": "I'm counting on you. Put it on my desk first thing Monday morning.",
+      "style": "Authoritative but trusting boss tone, concluding the meeting decisively."
+    }
+  ]
+}

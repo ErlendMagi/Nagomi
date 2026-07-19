@@ -1,0 +1,78 @@
+{
+  "id": "conv_04298",
+  "context": "A doctor walks a dad through screening results",
+  "purpose": "Teach: 癌/消化/合成/究極/及ぼす/取り出し/適宜/示唆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "癌",
+    "消化",
+    "合成",
+    "究極",
+    "及ぼす",
+    "取り出し",
+    "適宜",
+    "示唆"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "良介さん、今日は癌検診の結果についてお話しします。落ち着いて聞いてくださいね。",
+      "en": "Ryosuke-san, today I'll explain the results of your cancer screening. Please listen calmly.",
+      "style": "Doctor speaking gently but professionally to patient by name."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、覚悟はできています。結果は何か悪いことを示唆していますか。",
+      "en": "Yes, I'm prepared. Do the results suggest something bad?",
+      "style": "Father trying to stay composed despite his anxiety."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "胃の消化器に小さな影が見つかりました。組織を取り出して詳しく調べる必要があります。",
+      "en": "We found a small shadow in your stomach's digestive area. We need to extract tissue to examine it closely.",
+      "style": "Doctor explaining findings clearly and directly to patient."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうですか。家族にも影響を及ぼすかもしれないので、心配です。",
+      "en": "I see. It might affect my family too, so I'm worried.",
+      "style": "Father expressing natural worry about his loved ones."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "焦らないでください。今は究極の答えを求めるより、まず正確な診断が大切ですよ。",
+      "en": "Please don't rush. Right now, rather than seeking the ultimate answer, an accurate diagnosis comes first.",
+      "style": "Doctor reassuring patient with a measured, calm tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "新しい合成の薬とか、治療の選択肢もあるんでしょうか。",
+      "en": "Are there options like new synthetic medications or treatments?",
+      "style": "Father seeking hope through practical, simple questions."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。生検の結果を見て、適宜方針を決めていきましょう。一緒に進めますよ。",
+      "en": "Of course. We'll review the biopsy results and decide our approach as appropriate. We'll proceed together.",
+      "style": "Doctor offering partnership and steady professional support."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "先生、ありがとうございます。少し気持ちが楽になりました。",
+      "en": "Doctor, thank you. I feel a little lighter now.",
+      "style": "Father expressing genuine relief and quiet gratitude."
+    }
+  ]
+}

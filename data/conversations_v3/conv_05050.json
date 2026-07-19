@@ -1,0 +1,84 @@
+{
+  "id": "conv_05050",
+  "context": "A police officer briefs a uni reporter about a procurement audit",
+  "purpose": "Teach: 解約/非公開/算出/教職員/公安/国益/ディレクトリ/費やし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "解約",
+    "非公開",
+    "算出",
+    "教職員",
+    "公安",
+    "国益",
+    "ディレクトリ",
+    "費やし"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日の説明は一部非公開とさせていただきます。録音は控えてください。",
+      "en": "Today's briefing will be partly off the record. Please refrain from recording.",
+      "style": "Formal, measured police briefing tone with controlled authority."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。調達契約の解約が相次いだ件、何があったんですか。",
+      "en": "Understood. About the string of cancelled procurement contracts, what happened?",
+      "style": "Eager student reporter pressing politely but firmly for facts."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大学側が水増し請求に気づき、業者との契約を解約しました。損害額の算出はこれからです。",
+      "en": "The university spotted inflated invoices and terminated the vendor contracts. Damage calculations are pending.",
+      "style": "Crisp, factual delivery with deliberate pacing on key terms."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "教職員の方々からも内部告発があったと聞きましたが、本当でしょうか。",
+      "en": "I heard faculty and staff also filed internal whistleblower reports — is that true?",
+      "style": "Probing follow-up question, respectful but persistent journalistic instinct."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。教職員組合の協力で、不正なディレクトリに隠されていた裏帳簿が見つかりました。",
+      "en": "Yes. With the staff union's help, hidden ledgers were found in an illicit directory.",
+      "style": "Confirming with quiet satisfaction, releasing carefully chosen detail."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。公安が動くほどの規模だったということですか。",
+      "en": "I see. Does that mean it was large enough for public-security involvement?",
+      "style": "Surprised but composed, raising the stakes of the question."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "防衛関連の発注も絡んでおり、国益にも関わる事案と判断されました。",
+      "en": "Defense-related orders were involved, so it was judged to touch on national interest.",
+      "style": "Gravely measured, choosing words like a seasoned spokesperson."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "捜査にはかなりの時間を費やしてきたんですね。記事化の許可はいつ頃に。",
+      "en": "You've spent considerable time on the investigation. When may I publish?",
+      "style": "Appreciative tone shifting toward practical reporter logistics."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "起訴後に改めて会見を設定します。それまでは慎重に願います。",
+      "en": "We'll hold a formal press conference after indictment. Until then, please tread carefully.",
+      "style": "Closing the briefing with a firm but courteous warning."
+    }
+  ]
+}

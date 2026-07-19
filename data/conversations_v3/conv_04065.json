@@ -1,0 +1,84 @@
+{
+  "id": "conv_04065",
+  "context": "A police officer briefs an HR manager on compliance changes",
+  "purpose": "Teach: 支給/引き上げ/就業/収支/不十分/金銭/増し/マネージャー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支給",
+    "引き上げ",
+    "就業",
+    "収支",
+    "不十分",
+    "金銭",
+    "増し",
+    "マネージャー"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_205 workflow w8myi0hd3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お忙しいところありがとうございます。本日は就業規則とコンプライアンス周りでご相談がありまして。",
+      "en": "Thank you for coming despite being busy. Today I have some consultations regarding work regulations and compliance.",
+      "style": "Professional HR manager opening, polite and businesslike with measured warmth"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "こちらこそ。最近、従業員の金銭トラブルに絡む被害届が増えておりまして、注意喚起に伺いました。",
+      "en": "Likewise. Recently, damage reports involving employee monetary troubles have increased, so I've come to raise awareness.",
+      "style": "Authoritative police officer explaining context in clear measured tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。先日の最低賃金の引き上げ以降、給与支給の変更で混乱した社員もいたと聞いています。",
+      "en": "I see. Since the recent minimum wage hike, I've heard some employees were confused by changes in salary payment.",
+      "style": "Thoughtful HR manager connecting context, professional and reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうした時期は特に詐欺の標的になりやすいんです。残業の割増し分や手当の支給日を狙った手口も確認されています。",
+      "en": "Such periods are especially prone to becoming fraud targets. We've confirmed tactics targeting overtime premium rates and allowance payment dates.",
+      "style": "Officer giving practical warning with quiet steady authority"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "怖いですね。マネージャーとして、社内の相談窓口を強化する必要がありそうです。",
+      "en": "That's frightening. As a manager, it seems we need to strengthen our internal consultation desk.",
+      "style": "Concerned HR manager noting practical implications in professional voice"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "現状の窓口では不十分ということでしたら、匿名で相談できる仕組みを整えることをお勧めします。",
+      "en": "If your current desk is insufficient, I'd recommend setting up a system that allows anonymous consultation.",
+      "style": "Officer offering concrete recommendation with calm professional cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "匿名性は重要ですね。各部署の収支報告とは別に、相談件数だけ集計する形を検討します。",
+      "en": "Anonymity is important. Separate from each department's financial reports, I'll consider a format that only tallies consultation counts.",
+      "style": "Decisive HR manager proposing concrete approach in thoughtful tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは良いお考えです。早期発見できれば被害も最小限で済みますから。",
+      "en": "That's a good idea. If we can catch things early, the damage can be kept to a minimum.",
+      "style": "Officer affirming with reassuring measured professional warmth"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。社内通知を出して、来月から運用を始めます。本日はありがとうございました。",
+      "en": "Understood. I'll issue an internal notice and begin operation from next month. Thank you for today.",
+      "style": "Decisive HR manager closing with confirmation and gratitude, professional tone"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04404",
+  "context": "A mom and her young son look for a lost item together",
+  "purpose": "Teach: しまえ/下さっ/除い/見つから/去っ/あけ/行なう/曰く",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "しまえ",
+    "下さっ",
+    "除い",
+    "見つから",
+    "去っ",
+    "あけ",
+    "行なう",
+    "曰く"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_222 workflow wo8apf8ix)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくのロボットがどこにも見つからないよ。",
+      "en": "Mom, my robot can't be found anywhere.",
+      "style": "Worried young child speaking with rising panic to his mother"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "落ち着いて翔。一緒に探そう。まずおもちゃ箱をあけてみようね。",
+      "en": "Calm down, Sho. Let's look together. First let's open the toy box, okay?",
+      "style": "Gentle reassuring mother using a calm soothing voice"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "もう見たよ!ちゃんと探したもん!もう忘れてしまえばいいや。",
+      "en": "I already looked! I really searched! Maybe I should just forget about it.",
+      "style": "Frustrated child whining with a stomping foot energy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "こら、すぐ諦めちゃダメ。ソファの下も覗いてみた？障害物を除いてちゃんと見た？昨日そこで遊んでたでしょう。",
+      "en": "Hey, don't give up so quickly. Did you peek under the sofa too? Did you move stuff aside and really look? You played there yesterday.",
+      "style": "Thoughtful mom recalling information with a problem-solving tone"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "見たよ。あ、お兄ちゃんがさっき公園に行っちゃった。あと、おじいちゃんも家を去っちゃったよね。ロボット、持っていったのかなぁ？",
+      "en": "I checked. Oh, big brother just went to the park. And grandpa left the house too. Maybe one of them took the robot?",
+      "style": "Suspicious child with growing alarm in his voice"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "それはないわよ。お兄ちゃん曰く「弟のおもちゃは触らない」って約束してくれたし、おじいちゃんも「気をつけてね」って言って下さったでしょう？",
+      "en": "That's not it. Your brother said 'I won't touch my little brother's toys,' and grandpa told you 'be careful,' remember?",
+      "style": "Warm dependable mother making a reassuring playful explanation"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、そうだった。じゃあ朝になってからまた探したほうがいいかな？",
+      "en": "Yeah, that's true. Then maybe I should search again once morning comes?",
+      "style": "Tired child suggesting postponing with hopeful negotiating tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ダメダメ、今ちゃんと捜索を行なうわよ。あ、見て！クッションの後ろ！",
+      "en": "No way, we'll do a proper search right now. Oh, look! Behind the cushion!",
+      "style": "Excited triumphant mother making a joyful discovery announcement"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ロボットだ！ママありがとう！もう絶対無くさないよ！",
+      "en": "It's my robot! Thanks Mom! I'll never lose it again!",
+      "style": "Overjoyed child shouting with pure relief and happiness"
+    }
+  ]
+}

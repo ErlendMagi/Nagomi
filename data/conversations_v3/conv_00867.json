@@ -1,0 +1,62 @@
+{
+  "id": "conv_00867",
+  "context": "Sho and Hina describe their feelings of the day.",
+  "purpose": "children mood-state exchange",
+  "ambient": "living_room_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "状態",
+    "一緒",
+    "楽しい",
+    "元気",
+    "気持ち"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、今日の状態、どう？",
+      "en": "Sho, how are you feeling today?",
+      "style": "Bright, curious opening. Warm and genuine. Speaking down slightly in register but never condescending—the way an older kid naturally adjusts for a younger sibling. Soft emphasis on his name, drawing him in.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "元気いっぱい、ぼく。",
+      "en": "I'm full of energy!",
+      "style": "Small, clear voice. Pride in the declaration but without showing off. Genuine warmth. A little catch of sincerity—he means it, and he's offering it to her.",
+      "mood": "bright_sincere"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ひなも、楽しい気持ち。",
+      "en": "Hina feels happy too.",
+      "style": "Quick, bright response. She's matching his energy and offering it back. Slight lift on the opening word—she's connecting with him, not just echoing. Real childish warmth threading through.",
+      "mood": "joyful_connected"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、遊ぼう、ずっと。",
+      "en": "Let's play together—always.",
+      "style": "Soft, serious-tender for a six-year-old. Not demanding, inviting. He's offering something that matters to him. Small voice, but the words carry weight. A gentle catch at the end—he really means always.",
+      "mood": "tender_earnest"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、絶対！",
+      "en": "Yes—absolutely!",
+      "style": "Bright, immediate affirmation. No hesitation. Her voice rises slightly with conviction. Real childish warmth, genuine without performance. The exclamation lands as pure agreement and promise.",
+      "mood": "enthusiastic_devoted"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03985",
+  "context": "A police officer briefs a journalism student about a financial fraud case",
+  "purpose": "Teach: 債務/日銀/インフレ/詐欺/独占/レート/マネー/倒産",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "債務",
+    "日銀",
+    "インフレ",
+    "詐欺",
+    "独占",
+    "レート",
+    "マネー",
+    "倒産"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の詐欺事件は、被害総額が十億円を超える大規模なものでしてね。",
+      "en": "This fraud case involves damages exceeding one billion yen, a truly large-scale incident.",
+      "style": "Formal police briefing tone, measured and authoritative delivery throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "十億ですか…容疑者は具体的にどんな手口を用いたんでしょうか?",
+      "en": "One billion? What specific methods did the suspects use, exactly?",
+      "style": "Curious student voice, slightly nervous but eager to learn details."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "架空の投資商品を売りつけ、為替レートの変動で必ず儲かると謳っていました。実際は集めたマネーをそのまま私的に流用していたんです。",
+      "en": "They sold fictitious investments, claiming guaranteed profits from exchange rate movements. The collected money was simply diverted for personal use.",
+      "style": "Patient explanatory tone, professional officer guiding a novice through facts."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それって、日銀の利上げ報道に便乗した手口ですよね?急激なインフレを不安に思う高齢者が狙われたと聞きました。",
+      "en": "So they exploited the Bank of Japan rate-hike news? I heard elderly people worried about rapid inflation were targeted.",
+      "style": "Intellectually engaged student, demonstrating prior research with hesitant confidence."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。さらに関連会社が市場独占に近い形で囲い込みをしており、独占禁止法違反の疑いもあります。",
+      "en": "Exactly right. Affiliated companies also engaged in near-monopolistic practices, raising suspicions of antitrust law violations.",
+      "style": "Confirming nod in voice, building on student's correct hypothesis carefully."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "仮定の話で恐縮ですが、もし主犯格の会社が債務超過で企業倒産した場合、被害者への返金はどうなるんですか?",
+      "en": "Hypothetically speaking, if the main company collapses due to insolvency, how are victims reimbursed?",
+      "style": "Carefully framed question, journalism-student precision with polite hedging language."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "率直に申しますと、ほぼ戻りません。だからこそ、君のような学生が記事で警鐘を鳴らすことが大事なんですよ。",
+      "en": "Frankly speaking, almost nothing comes back. That's why students like you sounding alarms through articles matters greatly.",
+      "style": "Earnest mentor tone, blunt honesty softened by encouragement at the end."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "抽象的な経済の話を、読者に分かりやすく伝えられるよう頑張ります。本日はありがとうございました。",
+      "en": "I'll work hard to convey these abstract economic issues clearly to readers. Thank you very much today.",
+      "style": "Respectful closing bow in voice, determined and grateful junior addressing senior."
+    }
+  ]
+}

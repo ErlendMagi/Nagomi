@@ -1,0 +1,86 @@
+{
+  "id": "conv_11172",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 市中/汝/減退/ゴシップ/小声/快挙/真田/悪戯",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市中",
+    "汝",
+    "減退",
+    "ゴシップ",
+    "小声",
+    "快挙",
+    "真田",
+    "悪戯"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_560 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、市中、つまり市中の不審物情報を、警察、把握されますね",
+      "en": "So on this case, the police keep track of reports of suspicious objects around town, is that right?",
+      "style": "Careful student's question, tentative but precise, rising politely at the end, notebook-ready earnestness.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者が「汝の罪を悔いよ」と言ったお話、慎重に聴かれますね",
+      "en": "We do — and if a suspect says something like 'repent thy sins,' we listen to that account very carefully.",
+      "style": "Measured professional calm, even pace, a beat of gravity around the quoted words.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者の記憶減退を、警察、医師と確認されますね",
+      "en": "And if the victim's memory is declining, you confirm that together with a doctor, don't you?",
+      "style": "Quiet, respectful follow-up, slightly hushed on 'memory,' careful not to overstep.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、ゴシップ的な根拠不明情報には、警察、慎重に対応されますね",
+      "en": "That's right. With gossip — information with no clear basis — we respond very cautiously.",
+      "style": "Firm, reassuring cadence, slight emphasis on 'cautiously,' the practiced patience of a briefing.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、目撃者の小声の証言を、警察、丁寧に拾われますね",
+      "en": "Even a witness's whispered testimony — you make sure to pick that up carefully, right?",
+      "style": "Voice dropping softer to mirror 'whispered,' genuine curiosity, gentle rising close.",
+      "mood": "intent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯人検挙の快挙を、警察、控えめに発表されますね",
+      "en": "We do. And even when an arrest is a real triumph, we announce it modestly.",
+      "style": "Understated pride, dry half-smile audible, deliberately modest delivery matching the words.",
+      "mood": "quietly_proud"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、容疑者真田の前科を、警察、確認されますね",
+      "en": "And in this case, you'd check whether the suspect, Sanada, has any prior record?",
+      "style": "Leaning-in seriousness, crisp on the name, the cadence of ticking off a final checklist item.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、子供のいたずら、つまり悪戯通報にも、警察、丁寧に対応されますね",
+      "en": "We would. And even a report of a child's prank gets handled with the same care as anything else.",
+      "style": "Warm professional close, softening on 'child's prank,' unhurried, wrapping up the exchange kindly.",
+      "mood": "warm_professional"
+    }
+  ]
+}

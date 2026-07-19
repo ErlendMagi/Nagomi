@@ -1,0 +1,76 @@
+{
+  "id": "conv_01188",
+  "context": "Saito gives Kenji a yearly health checkup.",
+  "purpose": "doctor-patient yearly checkup",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "体",
+    "相談",
+    "一緒",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_060)",
+    "generated_at": "2026-05-27T04:24:20.797Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "健次さん、健康診断、結果、良好。",
+      "en": "Kenji-san, your health check came back with good results.",
+      "style": "Gentle opening, voice pitched low and steady. Warm professional composure. Let the good news land softly—not triumphant, just clear and honest. Steady eye-contact tone.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます、安心。",
+      "en": "Thank you so much. That's a relief.",
+      "style": "Sincere gratitude, a small exhale of tension releasing. Warm and genuine without overperforming. The relief is real but contained—respectful toward the doctor's time.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体、ちゃんと、休めてる？",
+      "en": "Is your body getting proper rest?",
+      "style": "Shift to gentle concern. Slower pace, lower register. The question carries real care underneath professional boundaries. A brief pause before speaking—she's already noticed something.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社長、忙しい、けど、気を付けます。",
+      "en": "The company keeps me busy, but I'll be careful about it.",
+      "style": "Earnest, a touch self-aware. Admits the pressure without complaint. Light firmness on the promise—he means it. Slight apologetic undercurrent, like he wishes the answer could be easier.",
+      "mood": "honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、ね。",
+      "en": "You can talk to me anytime about this, all right?",
+      "style": "Warm reassurance, an open door held deliberately open. Not rushed. The promise is real and unguarded. Ends on a note of genuine availability.",
+      "mood": "warm_supportive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、長く、お元気で。",
+      "en": "Let's both stay healthy for a long time together.",
+      "style": "Quiet, sincere wish offered carefully. Not demanding, not self-pitying. A genuine hope—for her health as much as his own. Slight trailing softness at the end.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、お体、ね。",
+      "en": "Your health matters deeply to me.",
+      "style": "Closes with quiet philosophical weight. Composed but genuine. The statement carries accumulated care—not sudden or performative, just honest truth. Breath at the end, like settling in.",
+      "mood": "warm_conviction"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05646",
+  "context": "A boss and his manager discuss city planning issues",
+  "purpose": "Teach: 支障/通行/務める/打ち出し/最善/適度/応える/相次い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支障",
+    "通行",
+    "務める",
+    "打ち出し",
+    "最善",
+    "適度",
+    "応える",
+    "相次い"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "再開発で、通行止めが業務に支障を来している。",
+      "en": "The redevelopment closures are creating serious disruptions to our operations.",
+      "style": "Calm, measured opening. Even tempo. Authority that doesn't need volume. Eyes on the problem, not the people. Slight pause between phrases.",
+      "mood": "composed_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。物流担当を務める部署と、対応を相次いで打ち出しています。",
+      "en": "Yes, sir. We're coordinating with the logistics division and rolling out responses as we go.",
+      "style": "Professional acknowledgment without defensiveness. Steady cadence, showing competence through tone. Respectful but not deferential. Brief eye contact, then back to the work.",
+      "mood": "attentive_capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "適度な迂回路を市に求める。最善策を取らせろ。",
+      "en": "Push the city to provide reasonable alternate routes. Make sure they implement the best options.",
+      "style": "Directive, not harsh. Clipped sentences with intention behind each. Matter-of-fact — this is what happens next. No room for hesitation, but not unkind.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "要望書、明朝に応えると役所から連絡が来ました。",
+      "en": "The city's office just confirmed they'll respond to our formal request by tomorrow morning.",
+      "style": "Factual, concise. Light uplift at the confirmation — progress is moving. Lean forward slightly. No flourish, just the information.",
+      "mood": "efficient_reassuring"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、迅速に。",
+      "en": "Good. Keep moving on this.",
+      "style": "Affirmation and closure. Brisk, final. Nod or small gesture of dismissal. Tone says 'case understood, execute'.",
+      "mood": "satisfied_commanding"
+    }
+  ]
+}

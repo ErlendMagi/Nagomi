@@ -1,0 +1,86 @@
+{
+  "id": "conv_08032",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 内戦/銃撃/ラテン語/追い出さ/置き去り/煽っ/潰さ/吸い込ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "内戦",
+    "銃撃",
+    "ラテン語",
+    "追い出さ",
+    "置き去り",
+    "煽っ",
+    "潰さ",
+    "吸い込ま"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、海外内戦の関係者かと警察、調査中です",
+      "en": "We're currently investigating whether this case is connected to overseas civil conflict actors.",
+      "style": "Professional, measured briefing tone. Even cadence. Opens with quiet authority. Clinical precision—no dramatization. The voice of someone who has delivered difficult information many times.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、銃撃事件の発生時刻、警察、特定されたんですね",
+      "en": "So the time of the shooting has been pinpointed by the investigation, then?",
+      "style": "Thoughtful inquiry, leaning forward slightly. Genuine curiosity—not challenging. A pause after the opening before the question lands. The tone of someone piecing something together.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、ラテン語の暗号を解読中です",
+      "en": "The investigation is currently working on deciphering a Latin cipher left at the scene.",
+      "style": "Steady, factual delivery. Slight emphasis on the unusual detail—'Latin'—with clinical interest. No speculation, just the facts. Measured pace throughout.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、容疑者が組織を追い出された経緯、警察、把握ですね",
+      "en": "So the background on how the suspect was expelled from the organization has been established?",
+      "style": "Quieter, connecting the threads aloud. Thoughtful pacing. A hint of recognition—understanding the motive now. Slightly hesitant, like he's checking his own deduction.",
+      "mood": "reflective_connecting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場に置き去りにされた被害者を救助しました",
+      "en": "The team recovered a victim who had been left at the scene.",
+      "style": "Factual, measured. A slight weight on 'recovered'—acknowledgment of what was saved. Even tone, but the words themselves carry the gravity. No embellishment.",
+      "mood": "factual_relief"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、SNSで群衆を煽った投稿、警察、調査中ですね",
+      "en": "There were social media posts inciting the crowd that are currently under investigation.",
+      "style": "Steady, methodical. Connecting another thread. Slight emphasis on 'social media' as a vector. Professional, but the implication of coordinated manipulation hangs in the air.",
+      "mood": "reflective_appalled"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪組織を潰さねばなりません",
+      "en": "The investigation must dismantle this criminal organization.",
+      "style": "Firmer resolve here. A lift on 'must'—conviction entering the measured tone. Still professional, but this is a statement of necessary action, not mere reporting. Eye-contact steady.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、排水溝に吸い込まれた証拠物を警察、回収されたんですね",
+      "en": "Evidence that was drawn into the drainage system has been recovered by the investigation, then?",
+      "style": "Quiet synthesis of the investigation's persistence. Trailing slightly on the final particle—trailing thought becoming affirmation. A final piece clicking into place. Slight awe at thoroughness.",
+      "mood": "thoughtful_resolved"
+    }
+  ]
+}

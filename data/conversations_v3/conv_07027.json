@@ -1,0 +1,86 @@
+{
+  "id": "conv_07027",
+  "context": "Two managers chat",
+  "purpose": "Teach: 宅地/本数/常々/急行/チャージ/有給/待ち時間/少額",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "宅地",
+    "本数",
+    "常々",
+    "急行",
+    "チャージ",
+    "有給",
+    "待ち時間",
+    "少額"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_353 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "宅地造成の工事、近隣の方々への、説明会、設けましょうね、丁寧に。",
+      "en": "Let's set up a proper information session for the neighbors about the residential construction project. We need to be thorough.",
+      "style": "Measured, professional opening. Clear enunciation on key points. Steady pace, deliberate. The tone of someone outlining expectations — not rushing, but organized. Slight pause before 'thorough' to emphasize care.",
+      "mood": "composed_directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商品の本数、生産計画、来期、見直す予定です、慎重に。",
+      "en": "Understood. We're planning to review our product output numbers for next term — we'll need to be cautious about it.",
+      "style": "Respectful, attentive tone. Lean slightly forward. Acknowledge the direction without overstatement. Measured cadence. The 'yes' of someone ready to execute, not performing eagerness.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "常々、お客様の声、社員に、共有していきましょうね、本当に、大事よ。",
+      "en": "Going forward, let's keep sharing customer feedback with the staff. That's genuinely important — it really is.",
+      "style": "Warm conviction underneath the instruction. Slight lean toward sincerity on 'genuinely important.' Not lecturing — affirming something she and Kenji both know matters. Steady eye level.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。今日は、急行電車で、お得意様、お見送り、いたします。",
+      "en": "Yes. Today I'll be seeing off an important client — they're taking the express train.",
+      "style": "Simple factual update. Warm but businesslike. No flourish. The tone of someone reporting a detail that matters in context — efficient and clear.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "業務用カード、チャージの上限、見直しましょうね、コスト意識、大事よ。",
+      "en": "Let's review the spending limits on the business cards. Cost awareness is genuinely crucial here.",
+      "style": "Direct and focused. Slight weight on 'genuinely crucial' — not scolding, but making sure this registers. Professional tempo. The careful tone of someone who thinks about money responsibly.",
+      "mood": "practical_firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、有給、取得率、年々、上がっております、本当に、嬉しいですね。",
+      "en": "Yes. I'm pleased to see our staff's paid leave usage rate has been climbing year over year.",
+      "style": "Genuine warmth, not performative. A small smile in the voice. Slow enough to let the good news land. The satisfaction of someone noticing something work is doing right.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お客様の待ち時間、お電話、すぐに、出るよう、徹底してね、本当に、急務よ。",
+      "en": "Customers shouldn't be waiting on hold. Make sure we're answering the phone promptly — this is urgent.",
+      "style": "Sharper edge here, but not harsh. The tone of someone who has noticed this matters and needs fixing now. Crisp diction. Slight tension under the surface, but controlled.",
+      "mood": "concerned_urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。少額決済、最近、増えております、自動化、進めてまいります、絶対。",
+      "en": "Yes. Small-value transactions have been increasing lately. We're moving forward with automation — that's non-negotiable.",
+      "style": "Confident, forward-looking. Firmer resolve on 'non-negotiable.' Not defensive — certain. The tone of someone committing to a direction and owning it.",
+      "mood": "resolute"
+    }
+  ]
+}

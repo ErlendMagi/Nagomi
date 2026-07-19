@@ -1,0 +1,78 @@
+{
+  "id": "conv_03958",
+  "context": "A boss briefs a new hire on the company information security policy",
+  "purpose": "Teach: ウェブサイト/暗号/転送/無効/流出/用途/任務/通用",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウェブサイト",
+    "暗号",
+    "転送",
+    "無効",
+    "流出",
+    "用途",
+    "任務",
+    "通用"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日は情報セキュリティの任務について簡単に説明するぞ。",
+      "en": "Today I'll briefly explain your information security duties.",
+      "style": "Authoritative manager opening a formal briefing session."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。重要な任務だと伺っています。",
+      "en": "Yes, thank you. I've heard it's an important responsibility.",
+      "style": "Polite new hire showing respectful attentive eagerness."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まず社外への情報流出は絶対に防がねばならん。過去の事例では会社の信用が一瞬で失われた。",
+      "en": "First, leaks to outsiders must absolutely be prevented. In past cases, trust was lost in an instant.",
+      "style": "Serious senior tone emphasizing gravity of risks involved."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メールの転送についても何か決まりがあるんでしょうか。",
+      "en": "Are there also rules about forwarding emails?",
+      "style": "Curious junior asking a thoughtful clarifying follow-up question."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "もちろんだ。社外への転送は原則禁止。やむを得ない場合は必ず暗号化したファイルで送ること。",
+      "en": "Of course. External forwarding is prohibited as a rule. If unavoidable, always send encrypted files.",
+      "style": "Crisp instructional delivery laying down strict practical rules."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "暗号化のソフトはどれを使えば良いですか。会社のウェブサイトに案内はありますか。",
+      "en": "Which encryption software should I use? Is there guidance on the company website?",
+      "style": "Practical question seeking concrete tooling and reference information."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社内ウェブサイトのポータルに用途別マニュアルが置いてある。私用のクラウドは一切無効にしてあるから注意しろ。",
+      "en": "There's a manual by use-case on the intranet portal. Personal cloud services are all disabled, so be careful.",
+      "style": "Directive tone pointing to resources while warning about restrictions."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。大学時代の感覚は通用しないと心得て、慎重に行動します。",
+      "en": "Understood. I'll remember that my university habits won't apply here and act carefully.",
+      "style": "Humble acknowledgment showing mature self-awareness and commitment."
+    }
+  ]
+}

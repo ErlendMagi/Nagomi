@@ -1,0 +1,78 @@
+{
+  "id": "conv_05048",
+  "context": "A uni intern interviews a manager about data governance",
+  "purpose": "Teach: 解約/非公開/算出/教職員/公安/国益/ディレクトリ/費やし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "解約",
+    "非公開",
+    "算出",
+    "教職員",
+    "公安",
+    "国益",
+    "ディレクトリ",
+    "費やし"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。インターンの研究で、御社のデータガバナンスについて伺いたく、特に非公開情報の扱いに関心があります。",
+      "en": "Thank you for your time today. For my internship research I'd like to ask about your data governance, especially how non-public information is handled.",
+      "style": "Polite, slightly nervous student opening a formal interview."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こちらこそ。まずうちでは、社内ディレクトリに置く資料と外部公開資料を厳密に分けています。アクセス権限のミスが一番怖いんですよ。",
+      "en": "My pleasure. To start, we strictly separate documents kept in the internal directory from publicly released ones. Access permission mistakes scare us most.",
+      "style": "Calm, professional manager easing into the topic."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。リスクの大きさはどのように算出されているのでしょうか。たとえば顧客が解約した後の個人データの保持期間など、基準はありますか。",
+      "en": "I see. How is the magnitude of risk calculated? For example, are there clear standards for retention of personal data after a customer cancels?",
+      "style": "Curious follow-up framing a technical, concrete question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "解約後は六か月以内に匿名化、というのが社内ルールです。漏えい時の想定損害額もシナリオごとに算出して、年に一度見直しています。",
+      "en": "Internal rule: anonymize within six months of cancellation. We also calculate projected damages per leak scenario and review them yearly.",
+      "style": "Confident, fact-driven response with concrete numbers."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "教職員向けの研修プログラムを大学側と作る話も伺いました。学術機関との連携では、国益に関わる研究データの扱いが難しそうですね。",
+      "en": "I heard you're also building a training program with universities aimed at faculty staff. Collaborating with academia must be tricky when research data touches national interest.",
+      "style": "Bridging question linking corporate practice to broader social context."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、特に公安関連の問い合わせが来た場合の対応フローを整えるのに、法務と半年ほど費やしました。判断を現場任せにはできませんから。",
+      "en": "Yes. We spent about half a year with legal building the response flow for inquiries tied to public security. Such judgments can't be left to frontline staff.",
+      "style": "Reflective, slightly weary acknowledgment of regulatory complexity."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、ありがとうございます。最後に、これからインターンとして気をつけるべきことを一つだけ教えていただけますか。",
+      "en": "Thank you for these valuable insights. Lastly, could you tell me just one thing I should be careful about as an intern?",
+      "style": "Respectful closing request for practical advice."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "迷ったら必ず上司に確認すること。それだけで事故の大半は防げます。インターン期間、頑張ってください。",
+      "en": "When in doubt, always check with your supervisor. That alone prevents most incidents. Good luck during your internship.",
+      "style": "Warm, encouraging final advice closing the interview."
+    }
+  ]
+}

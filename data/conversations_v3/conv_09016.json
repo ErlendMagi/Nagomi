@@ -1,0 +1,86 @@
+{
+  "id": "conv_09016",
+  "context": "Two friends chat",
+  "purpose": "Teach: 惣菜/祇園/ビリヤード/ツバメ/炭水化物/クールビズ/高島屋/芸者",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "惣菜",
+    "祇園",
+    "ビリヤード",
+    "ツバメ",
+    "炭水化物",
+    "クールビズ",
+    "高島屋",
+    "芸者"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_452 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニューに惣菜のお弁当も加えましょう、メイちゃん",
+      "en": "Aoi, let's add a bento box with side dishes to the new menu.",
+      "style": "Clear, direct proposal. Warm but businesslike. Matter-of-fact delivery, like presenting an idea to a trusted colleague.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、京都の祇園に旅行されたんだって、メイちゃん",
+      "en": "Our customer took a trip to Gion in Kyoto, apparently.",
+      "style": "Gentle curiosity, noticing something small. Speaking to Mei with quiet warmth. A soft smile in the voice—sharing something that delighted her.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、ビリヤード大会で優勝されたって、メイちゃん",
+      "en": "One of our customers won a billiards competition, can you believe it?",
+      "style": "Pleasant surprise, genuine delight. A slight lift in energy. Like she's sharing something that caught her attention and warmed her day.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、ツバメの巣を見守ってるって、メイちゃん",
+      "en": "Our customer's been watching over a swallow's nest.",
+      "style": "Tender, almost reverent. Slow, gentle pace. Like she's holding something fragile in her voice—moved by the quiet care in it.",
+      "mood": "tender_moved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニュー、低炭水化物のサラダを加えましょう、メイちゃん",
+      "en": "Aoi, let's add a low-carbohydrate salad option to the new menu.",
+      "style": "Clear, thoughtful proposal. Practical but attentive—considering what customers might need. Calm and direct.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、夏はクールビズで爽やかなスタッフ姿にしましょう、メイちゃん",
+      "en": "For summer, let's have the staff wear cool biz outfits—keep things fresh and clean.",
+      "style": "Light, forward-thinking suggestion. A touch of brightness. Professional but not stiff—imagining how it will feel and look.",
+      "mood": "practical_bright"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、高島屋で買い物されたって、メイちゃん",
+      "en": "Our customer went shopping at Takashimaya.",
+      "style": "Gentle sharing, noticing the detail. Quiet warmth. Like she's collecting these small moments about people she cares about.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、京都で芸者さんを見られたって、メイちゃん",
+      "en": "And another customer saw a geisha in Kyoto.",
+      "style": "Soft, wistful close. Trailing slightly, like she's lingering on the image. Tender and contemplative—the end of a gentle conversation.",
+      "mood": "tender_wistful"
+    }
+  ]
+}

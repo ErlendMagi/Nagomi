@@ -1,0 +1,65 @@
+{
+  "id": "conv_05730",
+  "context": "A boss explains plant operations to a uni intern",
+  "purpose": "Teach: 山下/バグ/フィルター/耐久/清掃/日数/リットル/アナログ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "山下",
+    "バグ",
+    "フィルター",
+    "耐久",
+    "清掃",
+    "日数",
+    "リットル",
+    "アナログ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、山下工場、耐久試験で名高い。",
+      "en": "Ren, the Yamashita plant is renowned for its endurance testing protocols.",
+      "style": "Measured, authoritative opening. Direct eye contact. Clear enunciation on key terms. The tone of someone sharing institutional knowledge, not lecturing—steady pacing, slight emphasis on 'endurance.'",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "バグの早期発見、フィルター層が肝ですか。",
+      "en": "So early bug detection comes down to the filter layer being crucial?",
+      "style": "Leaning forward slightly, genuine curiosity. Soft questioning lilt at the end. Quick, almost searching tone—he's testing his understanding and hoping to land it right.",
+      "mood": "attentive_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そう。アナログ計器とデジタル、両方使う。",
+      "en": "Exactly. You monitor with both analog instruments and digital readouts.",
+      "style": "Calm confirmation. Light nod implied in the delivery. Warm but precise—no wasted words. The voice of someone who knows this matters and trusts the listener to grasp why.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "清掃の作業、日数で換算するんですね。",
+      "en": "So you measure cleaning cycles in days, not just tasks?",
+      "style": "Gentle realization dawning. Slight rise in pitch on the question—he's putting pieces together aloud, checking his logic. Not tentative, but genuinely discovering the system.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "微小なリットル変動も見逃すな、と教えてる。",
+      "en": "That's the principle I pass on: don't overlook even the smallest liter variations. They're the early warning.",
+      "style": "Quiet conviction. Slight lean forward on the core point. Patient but firm—this is wisdom earned through years. Slow pace, letting the weight of experience sit in each phrase.",
+      "mood": "seasoned_protective"
+    }
+  ]
+}

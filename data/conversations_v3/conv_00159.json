@@ -1,0 +1,82 @@
+{
+  "id": "conv_00159",
+  "context": "A small police box in the evening. Ren has lost his wallet on the train and is filing a report with Officer Takeda.",
+  "purpose": "small civic interaction — institutional kindness meeting a student's minor crisis",
+  "ambient": "koban_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "財布",
+    "電車",
+    "届け",
+    "かも"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、財布なくしちゃって。",
+      "en": "Excuse me, I lost my wallet.",
+      "style": "Apologetic worn university voice, slight stress audible underneath the casual reporting, real concern present.",
+      "mood": "apologetically-stressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。落ち着いて、どこでですか。",
+      "en": "Yes. Stay calm — where was it?",
+      "style": "Steady officer cadence, professional calm with real human warmth underneath, the calming directive gentle.",
+      "mood": "professionally-calm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "電車の中だと思います、たぶん。",
+      "en": "On the train, I think. Maybe.",
+      "style": "University student uncertain voice, second-guessing himself, the 「たぶん」 trailing with worried hesitation.",
+      "mood": "uncertain-worried"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "何線ですか。時間も覚えてますか。",
+      "en": "Which line? Do you remember the time too?",
+      "style": "Officer practical sequence of questions, no judgment, just efficient gentle information gathering throughout.",
+      "mood": "efficiently-gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "山手線、たぶん七時ぐらいです。",
+      "en": "Yamanote line, around seven probably.",
+      "style": "University student steadying answer, gaining traction as he provides concrete information, voice less shaky.",
+      "mood": "steadying"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "届け出しときましょう。届く可能性ありますよ。",
+      "en": "Let's file a report. There's a chance it'll turn up.",
+      "style": "Officer practical reassurance, real hope offered with experience behind it, calming confidence throughout.",
+      "mood": "practically-reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ほんとですか。良かった…。",
+      "en": "Really? Oh good…",
+      "style": "University student visible relief audible, the breath releasing, the trailing-off acknowledging emotional shift.",
+      "mood": "visibly-relieved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "よくあることですから。書類記入してください。",
+      "en": "It happens often. Please fill out this form.",
+      "style": "Officer warm normalization, removing shame from the situation, gentle routine instruction delivered carefully.",
+      "mood": "normalizing-warm"
+    }
+  ]
+}

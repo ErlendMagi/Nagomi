@@ -1,0 +1,78 @@
+{
+  "id": "conv_04788",
+  "context": "A uni intern interviews a manager about HR policies",
+  "purpose": "Teach: にあたる/氏名/もとより/に関しまして/均等/奨励/分配/遺憾",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にあたる",
+    "氏名",
+    "もとより",
+    "に関しまして",
+    "均等",
+    "奨励",
+    "分配",
+    "遺憾"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_241 workflow wgk0fq4be)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はインターン取材にあたる時間をいただき、ありがとうございます。まず氏名をお伺いしてもよろしいでしょうか。",
+      "en": "Thank you for taking the time today for the intern interview. May I first ask your name?",
+      "style": "Polite university intern opening a formal interview"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "人事部の佐藤と申します。氏名の公開はもとより構いませんので、どうぞ自由にお書きください。",
+      "en": "I'm Sato from HR. Publishing my name is of course fine, so please write freely.",
+      "style": "Calm professional HR manager, welcoming but measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。では、評価制度に関しまして、社員の方からどのような声が届いていますか。",
+      "en": "Thank you. Then, regarding the evaluation system, what kinds of voices reach you from employees?",
+      "style": "Curious researcher asking a probing follow-up question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "機会の均等を最重視しており、賞与の分配についても透明性を保つよう努めております。",
+      "en": "We prioritize equal opportunity, and we strive to maintain transparency in bonus distribution.",
+      "style": "Corporate HR explaining policy with practiced precision"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。学習や資格取得への奨励制度はございますか。",
+      "en": "I see. Do you have any incentive programs for studying or obtaining qualifications?",
+      "style": "Student showing genuine interest in development opportunities"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、語学や簿記の資格には奨励金を支給しています。社員の成長を後押しする制度です。",
+      "en": "Yes, we provide incentive payments for language and bookkeeping qualifications. It supports employee growth.",
+      "style": "HR manager proudly outlining a concrete benefit program"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素晴らしいですね。最後に、過去に制度上で改善が必要だった点はありますか。",
+      "en": "That's wonderful. Lastly, were there any points in the system that needed improvement in the past?",
+      "style": "Intern carefully steering toward a sensitive closing question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "残業管理が甘かった時期があり、誠に遺憾に思っております。現在は厳格に運用しています。",
+      "en": "There was a period when overtime management was lax, which we truly regret. We now operate strictly.",
+      "style": "Manager acknowledging past failures with formal contrition"
+    }
+  ]
+}

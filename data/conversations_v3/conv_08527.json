@@ -1,0 +1,86 @@
+{
+  "id": "conv_08527",
+  "context": "Two managers chat",
+  "purpose": "Teach: 集結/論評/開館/取り込む/愛称/利率/換金/代弁",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "集結",
+    "論評",
+    "開館",
+    "取り込む",
+    "愛称",
+    "利率",
+    "換金",
+    "代弁"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_428 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "全部署を会議室に集結させましょう",
+      "en": "Let's get all departments into the conference room.",
+      "style": "Brisk, efficient opening. Short breath before launching into the directive. Forward momentum. No pause for discussion—this is a proposal already decided.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先からの論評をまとめました",
+      "en": "Yes. I've compiled the feedback from our partner.",
+      "style": "Clean, responsive tone. Light emphasis on the completion—work done, ready to report. Respectful but matter-of-fact. No elaboration needed.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新ショールームの開館式を準備しましょう",
+      "en": "Let's prepare for the new showroom's opening ceremony.",
+      "style": "Clear directive, same register as the first. Slightly slower than the opening—giving room for the magnitude of the event to land. Purposeful, not rushed.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様の声を商品開発に取り込む方針です",
+      "en": "Yes. Our approach is to incorporate customer feedback into product development.",
+      "style": "Explanatory, but not defensive. Steady delivery of policy. Voice slightly elevated—he's outlining the reasoning, not just confirming receipt. Warm competence.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社内サークルに愛称をつけましょう",
+      "en": "Let's give the in-house circles nicknames.",
+      "style": "Same forward momentum as before. Slightly lighter here—a smaller, more human initiative. Still directive, but with a touch of levity underneath.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。取引銀行の利率改定の案内が届きました",
+      "en": "Yes. We've received notice of a rate revision from our bank.",
+      "style": "Factual report. Calm delivery of important information. No urgency in the tone, but clear respect for the content. Straightforward.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "海外通貨の換金手続を簡略化しましょう",
+      "en": "Let's simplify the foreign currency exchange procedures.",
+      "style": "Operational directive, matching the cadence of earlier proposals. Matter-of-fact efficiency. The practical manager thinking through processes.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様の懸念を経営陣に代弁いたします",
+      "en": "Yes. I will represent our valued clients' concerns to the management team.",
+      "style": "Formal closure. Slightly more formal register here—he's speaking of representation and advocacy. Warm but dignified. Breath of commitment at the end.",
+      "mood": "committed"
+    }
+  ]
+}

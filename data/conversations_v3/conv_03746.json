@@ -1,0 +1,78 @@
+{
+  "id": "conv_03746",
+  "context": "A manager reviews an internal error and lessons learned",
+  "purpose": "Teach: 労働省/メイド/誤り/感性/気づき/間接/分散/各社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "労働省",
+    "メイド",
+    "誤り",
+    "感性",
+    "気づき",
+    "間接",
+    "分散",
+    "各社"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_188 wdyqj1q3f)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今回の障害について、まず誤りがどこにあったか整理したい。",
+      "en": "Regarding this incident, I'd first like to organize where the error occurred.",
+      "style": "Calm managerial opening, measured pace, slightly formal tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、原因は設定ファイルの間接的な参照ミスでした。",
+      "en": "Yes, the cause was an indirect reference mistake in the configuration file.",
+      "style": "Concise factual report, slight tension, professional delivery"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど、各社でも似た事例が報告されているらしいな。",
+      "en": "I see, apparently various companies have reported similar cases too.",
+      "style": "Thoughtful, connecting dots, reflective managerial tone overall"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "負荷を分散できていなかった点も、大きな反省材料です。",
+      "en": "The fact that we couldn't distribute the load is also a major point of reflection.",
+      "style": "Honest self-critique, slightly subdued, willing to own faults"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "復旧対応で残業も増えたから、労働省の指針も気をつけよう。",
+      "en": "Overtime increased due to the recovery work, so let's be mindful of the Ministry of Labor's guidelines too.",
+      "style": "Practical managerial concern, balancing tech and welfare considerations"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "顧客のメイド喫茶チェーンからも、予約画面の不具合で苦情が来ていました。",
+      "en": "We also got complaints from our maid cafe chain client about reservation screen issues.",
+      "style": "Sharing concrete client feedback, professional yet slightly apologetic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あの違和感を早めに拾えたら、もっと早く気づきにつながったはずだ。",
+      "en": "If we'd picked up on that sense of unease earlier, it should have led to insight sooner.",
+      "style": "Reflective coaching tone, gently pointing out learning opportunity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "申し訳ありません。技術だけでなく、現場の感性も磨きます。",
+      "en": "I'm sorry. I'll sharpen not just my tech skills, but my on-the-ground sensitivity too.",
+      "style": "Sincere apology, growth-oriented commitment, humble closing tone"
+    }
+  ]
+}

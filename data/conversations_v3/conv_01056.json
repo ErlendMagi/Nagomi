@@ -1,0 +1,76 @@
+{
+  "id": "conv_01056",
+  "context": "Saito confirms Mei is pregnant with a second baby.",
+  "purpose": "doctor-mother pregnancy-confirmation exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "家族",
+    "幸せ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、検査、結果、出ました。",
+      "en": "Mei-san, your exam results are in.",
+      "style": "Gentle, steady opening. Warm professional composure. Soft eye contact. The tone of someone who delivers important news with care, not fanfare. Slight pause after the name—respect and readiness.",
+      "mood": "gentle_professional"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、お願いします。",
+      "en": "Yes, please.",
+      "style": "Quiet readiness. Soft intake of breath. Vulnerable but composed—she's been waiting for this. No performance, just present. Eyes toward the doctor, steady.",
+      "mood": "tender_ready"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おめでとう、ご懐妊、です。",
+      "en": "Congratulations—you're pregnant.",
+      "style": "Warm announcement, but delivered with restraint. The words themselves are joyful; the voice keeps the joy grounded and real. A small smile audible. Pause before the final word to let it land.",
+      "mood": "warm_announcing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "え、本当！嬉しい。",
+      "en": "Really? That's wonderful.",
+      "style": "Surprise blooms into relief and joy. Breath catches slightly on the first word. Then warmth floods in—genuine, unguarded. Voice softens and lifts at once. Small laugh underneath.",
+      "mood": "joyful_relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、ちゃんと、見ていきましょう。",
+      "en": "We'll monitor your health carefully throughout.",
+      "style": "Professional reassurance. Steady, measured pace. The confidence of expertise offered without arrogance. Warm but grounded. A promise embedded in the practicality.",
+      "mood": "assured_caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家族、増える、幸せ。",
+      "en": "A growing family. I'm so happy.",
+      "style": "Soft, almost to herself but shared. Wonder and gratitude layered together. Quiet depth—she's imagining forward. Voice trails slightly, caught in the moment. Real and undefended.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、ね。",
+      "en": "Come talk to me anytime you need to.",
+      "style": "Warm closing. Quiet authority—the kind that comes from competence and care. Unhurried. The door stays open. Voice lands on 'anytime' with gentle emphasis. A promise, not a formality.",
+      "mood": "warm_reassuring"
+    }
+  ]
+}

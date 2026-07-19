@@ -1,0 +1,90 @@
+{
+  "id": "conv_04568",
+  "context": "A doctor walks a dad through his checkup results",
+  "purpose": "Teach: 菌/酸素/ホルモン/歯科/薬物/修復/看護婦/適合",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "菌",
+    "酸素",
+    "ホルモン",
+    "歯科",
+    "薬物",
+    "修復",
+    "看護婦",
+    "適合"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "良坂さん、健康診断の結果が出ましたので、一緒に確認していきましょう。",
+      "en": "Mr. Ryosaka, your checkup results are in, so let's go through them together.",
+      "style": "Doctor speaking in calm, measured, professional tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、お願いします。最近、階段を上るだけで息切れがひどくて気になっていました。",
+      "en": "Yes, please. Lately I've been getting badly out of breath just climbing stairs, and it's been worrying me.",
+      "style": "Worried dad voice, slightly tense but polite, sincere."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。実は血中の酸素濃度が基準より少し低めに出ているんです。原因を探っていきましょう。",
+      "en": "I see. Actually your blood oxygen level came out a bit below the standard. Let's look into the cause.",
+      "style": "Doctor explaining a clinical finding in patient, careful manner."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "酸素が足りていないんですね。タバコはやめたのですが、他に何か原因があるんでしょうか。",
+      "en": "So I'm not getting enough oxygen. I quit smoking, but could there be some other cause?",
+      "style": "Cautious dad asking sincere medical follow-up question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "炎症の数値も高めで、腸内の細菌のバランスも乱れています。これがホルモンバランスにも影響している可能性があります。",
+      "en": "Your inflammation numbers are also elevated, and your gut bacteria balance is disrupted. This may be affecting your hormone balance too.",
+      "style": "Doctor connecting findings in a structured, clinical explanation."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そんなに色々絡んでいるんですね。治療はどう進めていくんでしょうか。",
+      "en": "So many things are connected, huh. How will we proceed with treatment?",
+      "style": "Dad expressing concerned curiosity, looking for guidance."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まずは薬物療法で炎症を抑えます。それと並行して、近くの歯科医院で歯周病の検査も受けてください。口内の状態が全身に響くことがあるんです。",
+      "en": "First we'll suppress the inflammation with medication. In parallel, please get screened for gum disease at a local dental clinic. Oral health can affect the whole body.",
+      "style": "Doctor giving a structured, reassuring treatment plan in detail."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "薬が私の体質に適合するか少し心配です。以前、別の薬で副作用が出たことがあって。",
+      "en": "I'm a bit worried about whether the medication will suit my constitution. I had side effects from a different drug before.",
+      "style": "Cautious dad voicing a sincere medical concern politely."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "事前に適合性試験を行いますのでご安心ください。投薬中は担当の看護婦が定期的に経過を確認します。",
+      "en": "We'll run a compatibility test beforehand, so please don't worry. During medication, the assigned nurse will regularly check your progress.",
+      "style": "Doctor providing thorough, calm professional reassurance throughout."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "それを聞いて安心しました。少しずつ体調を修復して、家族のためにも元気を取り戻したいです。",
+      "en": "I'm relieved to hear that. I want to slowly restore my health and get my energy back for my family's sake.",
+      "style": "Determined, warm dad voice ending the visit optimistically."
+    }
+  ]
+}

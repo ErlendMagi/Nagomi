@@ -1,0 +1,72 @@
+{
+  "id": "conv_03882",
+  "context": "Two news editors discuss a press release that needs a correction",
+  "purpose": "Teach: 警告/証言/証人/言及/通過/評論/訂正/反発",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "警告",
+    "証言",
+    "証人",
+    "言及",
+    "通過",
+    "評論",
+    "訂正",
+    "反発"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先輩、昨日のプレスリリース、裁判の証人の名前が間違ってました。すぐに訂正を出すべきだと思います。",
+      "en": "Senior, yesterday's press release had the wrong name for the trial witness. I think we should issue a correction right away.",
+      "style": "Junior male news editor, polite but urgent tone, slightly anxious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当?どの部分?もし政策に関する言及だったら、業界の反発を招くかもしれないわよ。",
+      "en": "Really? Which part? If it referenced policy, it could provoke industry backlash.",
+      "style": "Female senior editor, measured professional tone with calm concern"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "議会を通過した法案の関連裁判です。匿名の情報源から、証人の証言を取り違えていると警告を受けました。",
+      "en": "It's the trial linked to the bill that passed the assembly. An anonymous source warned me we mixed up the witness's testimony.",
+      "style": "Junior male editor, factual delivery with a hint of nervous formality"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "情報源が匿名なのは仕方ないけど、せめて裁判所の公式コメントが一つ取れないと、評論家にまた叩かれる。",
+      "en": "An anonymous source can't be helped, but without an official court comment, the commentators will tear into us again.",
+      "style": "Female senior editor, slightly tense and pragmatic, weighing professional risk"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "裁判所の広報担当が、午後三時に正式なコメントをくれると約束してくれました。",
+      "en": "The court's PR officer promised to give us an official comment at three this afternoon.",
+      "style": "Junior male editor, regaining confidence, reporting in slightly relieved tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "よし。じゃあ三時を過ぎたら、訂正記事を上に通して、夕刊に間に合わせましょう。",
+      "en": "Good. Once three passes, let's push the correction article upstairs and make the evening edition.",
+      "style": "Female senior editor, decisive and brisk, taking command of the situation"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。評論欄の担当にも、この件に言及があるかもしれないと伝えておきます。",
+      "en": "Understood. I'll let the opinion column staff know there may be a mention of this matter too.",
+      "style": "Junior male editor, businesslike and cooperative, wrapping up the plan"
+    }
+  ]
+}

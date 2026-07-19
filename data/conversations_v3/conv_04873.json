@@ -1,0 +1,78 @@
+{
+  "id": "conv_04873",
+  "context": "A police officer briefs a uni reporter about a courthouse story",
+  "purpose": "Teach: 公判/判事/ノーベル/飼育/曲線/半数/根底/療養",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公判",
+    "判事",
+    "ノーベル",
+    "飼育",
+    "曲線",
+    "半数",
+    "根底",
+    "療養"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_245 workflow w5gqr173i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日の初公判の件で来てもらったんだ。記者証は持ってきたかい？",
+      "en": "I called you in about today's first hearing. Did you bring your press pass?",
+      "style": "Calm, professional officer briefing a young reporter with measured authority."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、ちゃんと持ってきました。担当の判事はどなたになるんですか？",
+      "en": "Yes, I brought it with me. Who will be the presiding judge on this?",
+      "style": "Eager university student speaking politely with notebook in hand, slightly nervous."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "山下判事だ。経歴は長くて、確かノーベル賞候補の研究者の遺産訴訟も扱ったことがある。",
+      "en": "Judge Yamashita. He's experienced, and once handled an inheritance suit involving a Nobel candidate.",
+      "style": "Matter-of-fact officer sharing background detail with quiet confidence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、すごい方なんですね。今回の事件って、動物の飼育施設が関係してるって本当ですか？",
+      "en": "Wow, that's impressive. Is it true this case involves an animal breeding facility?",
+      "style": "Curious student leaning forward, genuinely interested and asking follow-up questions."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだ。経営状態は悪化の一途で、業績の曲線を見れば一目瞭然だった。被害者は半数以上が高齢者でね。",
+      "en": "Correct. The business was sinking — the revenue curve made that obvious. Over half the victims were elderly.",
+      "style": "Officer speaking factually but with a hint of weariness about the case."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "半数以上ですか…根底にあるのは経営者の倫理観の欠如ってことでしょうか。",
+      "en": "More than half? So fundamentally, this comes down to the owner's lack of ethics?",
+      "style": "Reporter pressing thoughtfully, trying to grasp the deeper angle of the story."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "君の見立てはまっとうだよ。ただ書く時は慎重に。被告は今、自宅療養中だ。",
+      "en": "Your read on it is sound. But write carefully — the defendant is currently recuperating at home.",
+      "style": "Officer offering a gentle but firm warning, mentoring tone toward the young reporter."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。療養中だという点も配慮して、丁寧にまとめます。ありがとうございました。",
+      "en": "Understood. I'll factor in his recovery and write it carefully. Thank you very much.",
+      "style": "Respectful student bowing slightly, grateful for the guidance and trust."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05875",
+  "context": "A doctor discusses regional medicine with a reporter",
+  "purpose": "Teach: 宮城/大島/荒川/金子/今井/市川/片山/熊谷",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "宮城",
+    "大島",
+    "荒川",
+    "金子",
+    "今井",
+    "市川",
+    "片山",
+    "熊谷"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_295 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "地域医療、宮城と大島で、人員配置に差があります。",
+      "en": "There are staffing disparities in regional medicine between Miyagi and Oshima.",
+      "style": "Clear, measured delivery. Clinical without coldness. Slight breath before the key distinction—she's laying groundwork. Steady eye contact, posture steady.",
+      "mood": "clinical_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "荒川沿いの病院、金子先生が中核を担っているそうですね。",
+      "en": "I understand Prof. Kaneko is carrying the core responsibilities at the Arakawa hospital.",
+      "style": "Gentle lean forward. Thoughtful, not rushed. Testing the thread to see where it leads. Voice lifts slightly at the end—genuinely curious, not performing curiosity.",
+      "mood": "attentive_probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。今井先生は、市川の小児科で評判です。",
+      "en": "Yes. Imai-sensei has a strong reputation in Ichikawa pediatrics.",
+      "style": "Confirming nod in the voice. Warm but spare. No elaboration—she trusts him to understand. Deliberate pace, each name weighted.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "片山先生も、熊谷の高齢者医療で長年活躍。",
+      "en": "And Katayama-sensei has worked in Kumagaya elderly care for many years.",
+      "style": "Recognition in the voice—not surprised, building a picture. Steady, collaborative tone. Pause before 'many years' to let it settle. Still probing gently.",
+      "mood": "connected_understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "地域連携、丁寧に続けます。",
+      "en": "We'll continue that regional cooperation carefully and thoroughly.",
+      "style": "Quiet resolution. Slow, intentional close. Each word deliberate. Slight exhale after 'cooperation'—commitment settling into place. Looking ahead, not away.",
+      "mood": "resolved_committed"
+    }
+  ]
+}

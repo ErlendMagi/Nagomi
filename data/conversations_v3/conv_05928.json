@@ -1,0 +1,72 @@
+{
+  "id": "conv_05928",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 出費/税関/駆けつけ/散々/利息/定時/月間/多忙",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出費",
+    "税関",
+    "駆けつけ",
+    "散々",
+    "利息",
+    "定時",
+    "月間",
+    "多忙"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、企業経営、出費と収入のバランスが命だ。",
+      "en": "Ren, in business management, the balance between spending and income is everything.",
+      "style": "Measured, professorial tone. Leans forward slightly. Opens with weight—not lecturing, but drawing a line under something essential. Calm conviction.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "税関対応、複雑なんですね。",
+      "en": "So customs handling is complicated, then.",
+      "style": "Tentative, seeking confirmation. Quiet intake of breath before speaking. Not quite meeting his eye yet—processing what he's hearing. Respectful hesitation.",
+      "mood": "intent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現場に駆けつける機動性、組織にとって重要だ。",
+      "en": "The agility to mobilize and get out to the field—that's what the organization needs.",
+      "style": "Clear, declarative. Settles back slightly. A touch of emphasis on 「機動性」—the word itself matters. Not unkind, but unmistakable.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "散々な状況、過去にもあったんですか。",
+      "en": "Have there been... brutal situations like that before?",
+      "style": "Careful phrasing. Soft curiosity beneath—he's asking permission to understand the weight of what he's hearing. Lean in slightly. No rush to the question.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。利息負担、月間で数億円規模だった時期もある。",
+      "en": "Yes. There were periods when interest burdens alone ran into the hundreds of millions each month.",
+      "style": "Distant, reflective. Eyes not quite on Ren—looking past into memory. Quiet, almost matter-of-fact delivery, which makes it heavier. Breath measured.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "多忙な毎日、定時で帰る難しさ、現場で学びます。",
+      "en": "On days like that, leaving on time isn't really possible. I understand that now—I see it every day at the front.",
+      "style": "Soft but steady resolution. No self-pity, just acknowledgment. Slower pace on the second half. Trails slightly—like he's speaking something he's just decided to accept.",
+      "mood": "resolved"
+    }
+  ]
+}

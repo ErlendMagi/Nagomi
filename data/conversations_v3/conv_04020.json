@@ -1,0 +1,72 @@
+{
+  "id": "conv_04020",
+  "context": "A film student presents his analysis to a teacher for feedback",
+  "purpose": "Teach: シナリオ/闇/王子/視線/浮かん/叫ん/庶民/パネル",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "シナリオ",
+    "闇",
+    "王子",
+    "視線",
+    "浮かん",
+    "叫ん",
+    "庶民",
+    "パネル"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、こちらが卒業制作のシナリオです。中世の王子が主人公の物語です。",
+      "en": "Professor, here's the screenplay for my graduation project. It's about a medieval prince.",
+      "style": "Polite student tone, slightly nervous but eager."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。冒頭で王子が闇の森を歩く場面、視線の動きがよく描けていますね。",
+      "en": "I see. The opening scene where the prince walks through the dark forest captures his eye movements well.",
+      "style": "Calm professorial tone, encouraging but sharply analytical throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。撮影の途中で急に新しいアイデアが浮かんで、構成を変えました。",
+      "en": "Thank you. Halfway through filming, a new idea suddenly came to me and I changed the structure.",
+      "style": "Earnest, slightly hesitant academic register with humility."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ただ、村人が突然叫んだ場面は唐突すぎませんか。庶民の暮らしの描写がもう少し欲しいです。",
+      "en": "However, isn't the scene where the villager suddenly screams too abrupt? I want more depiction of commoners' lives.",
+      "style": "Constructive critical feedback delivered at measured pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに、そこは私も悩んでいました。背景にパネルで時代設定を説明する案もあったんですが…",
+      "en": "Indeed, I was struggling with that part too. I considered using a panel in the background to explain the era, but…",
+      "style": "Reflective student voice, thinking aloud, signature delivery that holds the line"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "パネル表示は安易です。映像で見せる工夫を考えてみてください。次の試写が楽しみですよ。",
+      "en": "Using a display panel is too easy. Try to find ways to show it through visuals. I look forward to your next screening.",
+      "style": "Firm guidance with warm closing encouragement."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、もう一度書き直してみます。ご指導ありがとうございました。",
+      "en": "Yes, I'll try rewriting it once more. Thank you for your guidance.",
+      "style": "Formal student closing, grateful and determined."
+    }
+  ]
+}

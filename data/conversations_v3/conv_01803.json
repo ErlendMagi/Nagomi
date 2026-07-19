@@ -1,0 +1,61 @@
+{
+  "id": "conv_01803",
+  "context": "Riku-teen visits a small shrine alone for new year prayer; Asuka happens by.",
+  "purpose": "Teacher running into student at quiet spiritual moment.",
+  "ambient": "shrine_grounds_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "神社",
+    "祈り",
+    "願い",
+    "新年"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_090)",
+    "generated_at": "2026-05-27T07:54:50.847Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "陸くん、初詣?",
+      "en": "Riku — did you come for first visit of the year?",
+      "style": "Warm, genuinely interested. Soft opening. The casual familiarity of a teacher noticing a student outside school. Not prying, just welcoming.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、新年の祈り、しに来ました。",
+      "en": "Yes, I came to pray.",
+      "style": "Quiet, earnest. A small breath before answering. Respectful but natural — not performed politeness. Looking slightly upward, grounded.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "何を、祈ったの?",
+      "en": "What did you pray for?",
+      "style": "Gentle follow-up. Leans in slightly with real attention. The kind of listening that makes a student feel safe telling the truth.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "受験、合格、ですね。",
+      "en": "To pass my entrance exams.",
+      "style": "Brief, honest. A small pause before the word 「合格」— letting the weight of it sit for a moment. Vulnerable but steady.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "叶うわよ、努力してるから。",
+      "en": "It will. You're putting in the work.",
+      "style": "Firm certainty wrapped in warmth. Not flattery — a teacher stating what she observes as fact. Steady eye contact. The reassurance that lands because it's earned.",
+      "mood": "encouraging"
+    }
+  ]
+}

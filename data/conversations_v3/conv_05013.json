@@ -1,0 +1,78 @@
+{
+  "id": "conv_05013",
+  "context": "A police officer briefs a uni reporter about a regional incident",
+  "purpose": "Teach: 重力/家畜/罠/西日本/情報処理/共同通信/良質/建前",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "重力",
+    "家畜",
+    "罠",
+    "西日本",
+    "情報処理",
+    "共同通信",
+    "良質",
+    "建前"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今朝、西日本各地で家畜が逃げ出した事案について、共同通信社からも問い合わせが来ています。",
+      "en": "This morning we've received inquiries from Kyodo News about a case where livestock escaped across western Japan.",
+      "style": "Formal officer briefing, measured procedural tone delivering facts."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うちのゼミでも取材させてもらいたくて。原因について、何かわかっていることはありますか?",
+      "en": "Our seminar would like to cover this too. Is there anything known about the cause?",
+      "style": "Polite student reporter, deferential but clearly probing for information."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "柵の一部が壊れていたんですが、どうやら何者かが罠を仕掛けた形跡もありまして。",
+      "en": "Part of the fence was broken, and there are also signs someone set a trap.",
+      "style": "Careful disclosure, slightly guarded but cooperative police register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "罠ですか…どんな仕組みのものだったんでしょうか?",
+      "en": "A trap? What kind of mechanism was it?",
+      "style": "Curious natural follow-up, brief and genuinely interested."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "餌で誘い込んで、重力で扉が落ちる単純な作りでした。データは情報処理課のほうで分析を進めていて、随時公表する予定です。",
+      "en": "It lured them with bait, and the door fell by gravity—a simple design. The data is being analyzed by our Information Processing Division, and we'll release updates as available.",
+      "style": "Concrete technical detail then bureaucratic deflection back to procedure."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど…記事を書く立場として、建前の発表だけだと読者に伝わりにくくて。もう少し現場の温度感を教えていただけませんか?",
+      "en": "I see... As someone writing the article, the official line alone is hard to convey to readers. Could you share a bit more of the feel on the ground?",
+      "style": "Tactful journalistic appeal, framed as serving readers rather than prying."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうですね…良質な記事を書いてもらえるなら、書ける範囲でお話ししますよ。",
+      "en": "Well, if you'll write a quality article, I'll share what I can within limits.",
+      "style": "Officer softens, conditional cooperation with professional boundary."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます!共同通信さんに負けない記事、必ず書きます。",
+      "en": "Thank you! I'll write a piece that won't lose to Kyodo News.",
+      "style": "Bright, determined sign-off from the young reporter."
+    }
+  ]
+}

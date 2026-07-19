@@ -1,0 +1,72 @@
+{
+  "id": "conv_04100",
+  "context": "A police officer reviews disclosure compliance with an office manager",
+  "purpose": "Teach: メールアドレス/開示/閲覧/オプション/機種/無線/等々/目次",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メールアドレス",
+    "開示",
+    "閲覧",
+    "オプション",
+    "機種",
+    "無線",
+    "等々",
+    "目次"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日は情報開示の対応状況について確認させていただきます。社員のメールアドレスや閲覧履歴の管理体制はいかがですか。",
+      "en": "Today I'd like to verify your information disclosure compliance. How are you managing employee email addresses and access logs?",
+      "style": "Formal, official police tone with measured cadence and slight authoritative weight."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、社内の規定に従って管理しております。各部署ごとに閲覧権限を分けて、機種ごとのログも残しています。",
+      "en": "Yes, we manage everything according to internal regulations. We separate viewing permissions by department and keep logs per device model.",
+      "style": "Polite professional office worker, careful and cooperative answering style."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "無線ネットワーク経由のアクセスについてはどうですか。社外からの接続オプションは制限していますか。",
+      "en": "What about access via the wireless network? Are external connection options restricted?",
+      "style": "Probing follow-up question, calm but firm investigative manner."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "無線LANは社内専用で、外部からはVPN経由のみとなっております。オプション機能の追加には申請が必要です。",
+      "en": "Wireless LAN is internal only, and external access requires VPN. Adding any optional features requires a formal request.",
+      "style": "Detailed technical explanation in polite business Japanese, slightly nervous."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。開示請求があった場合のフローを教えてください。マニュアルの目次だけでも見せていただけますか。",
+      "en": "I see. Could you walk me through the procedure when a disclosure request arrives? May I see the manual's table of contents?",
+      "style": "Methodical request, neutral tone with documented procedural focus."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。受付、本人確認、対象データの抽出、上長承認等々の手順がございます。すぐにお持ちします。",
+      "en": "Of course. The steps include reception, identity verification, data extraction, supervisor approval, and so on. I'll bring it right away.",
+      "style": "Helpful, slightly relieved tone, demonstrating preparedness and competence."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ありがとうございます。社員の個人情報、特にメールアドレスの取り扱いは慎重にお願いします。",
+      "en": "Thank you. Please continue to handle employee personal information, especially email addresses, with great care.",
+      "style": "Concluding advisory remark, courteous but with a clear cautionary undertone."
+    }
+  ]
+}

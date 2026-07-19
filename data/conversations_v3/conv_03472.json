@@ -1,0 +1,78 @@
+{
+  "id": "conv_03472",
+  "context": "Student (sakura) interviews a doctor (saito) about a powerful new treatment",
+  "purpose": "Teach: 療法/強力/圧倒的/振興/大衆/勢力/動向/報酬",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "療法",
+    "強力",
+    "圧倒的",
+    "振興",
+    "大衆",
+    "勢力",
+    "動向",
+    "報酬"
+  ],
+  "cast": [
+    "sakura_teen",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "斎藤先生、今日はインタビューに応じてくださって、本当にありがとうございます。新しい療法について教えていただきたいんです。",
+      "en": "Dr. Saito, thank you so much for agreeing to this interview today. I'd love to hear about the new treatment.",
+      "style": "earnest high schooler opening politely with notebook ready"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、構いませんよ。この治療法は従来のものより強力で、患者さんへの効果も大きいんです。",
+      "en": "Yes, of course. This treatment is more powerful than conventional ones, and the effect on patients is significant.",
+      "style": "calm physician explaining with measured professional warmth"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "圧倒的に効くって本当ですか?学校の友達も病気のお母さんがいて、すごく気になってるんです。",
+      "en": "Is it really overwhelmingly effective? A friend at school has a sick mother, so I'm really curious.",
+      "style": "leaning forward with genuine personal concern for friend"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "圧倒的という言葉は慎重に使うべきですが、臨床試験では既存の主流な治療を明らかに上回る結果が出ていて、業界の勢力図も変わりつつあります。",
+      "en": "We should use the word 'overwhelming' carefully, but in clinical trials it clearly outperforms the mainstream existing treatments, and the balance of power in the industry is shifting too.",
+      "style": "doctor measuring words with cautious scientific precision"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "国もこの分野の振興に力を入れているって聞きました。大衆の関心も高まってますよね?",
+      "en": "I heard the government is putting effort into promoting this field. Public interest is rising too, right?",
+      "style": "informed teen showing she did her homework beforehand"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね。最近の業界の動向を見ると、製薬会社も研究者への報酬を大幅に上げて、優秀な人材を集めようとしています。",
+      "en": "That's right. Looking at recent industry trends, pharma companies are sharply raising researcher compensation to attract top talent.",
+      "style": "seasoned expert sharing insider observations thoughtfully"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わあ、勉強になります!最後に、私たち高校生にもできることって何かありますか?",
+      "en": "Wow, I'm learning so much! Lastly, is there anything we high schoolers can do?",
+      "style": "bright closing question with sincere youthful enthusiasm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "正しい情報を学び、周りに伝えてくれるだけで十分ですよ。君のような若い人の関心が、医療を前に進めるんです。",
+      "en": "Just learning accurate information and sharing it with those around you is enough. Curiosity from young people like you moves medicine forward.",
+      "style": "warm mentor encouragement closing the interview gently"
+    }
+  ]
+}

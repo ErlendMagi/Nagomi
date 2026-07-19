@@ -1,0 +1,61 @@
+{
+  "id": "conv_01705",
+  "context": "Kenji takes baby news quietly to his old mentor Hiroshi-elder.",
+  "purpose": "Adult sharing big personal joy with elder figure.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤ちゃん",
+    "父",
+    "心",
+    "伝える"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_085)",
+    "generated_at": "2026-05-27T07:18:47.434Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おとうさん、報告がありますわ。",
+      "en": "Father, I have something to tell you.",
+      "style": "Soft opening. Warm but formal — respect threaded through. Gentle pace, settling into the moment. Like he's been holding this and is finally letting it breathe.",
+      "mood": "tender_earnest"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、何や?",
+      "en": "Yeah? What is it?",
+      "style": "Immediate, inviting. The warmth of a father who means it. Slight lean-forward in the voice. Open and ready, not rushing.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "蒼が、妊娠したんです。",
+      "en": "Aoi is pregnant.",
+      "style": "Soft, clear announcement. Weight on the news itself, not the delivery. Warm underneath — this is good news he's sharing. Slight pause before the words, like stepping carefully.",
+      "mood": "joyful_tender"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ほんまか!めでたいで!",
+      "en": "Really? That's wonderful!",
+      "style": "Bright immediate joy. Energized but not loud — genuine delight. Quick catch of breath like he's absorbing the news with his whole body. Warmth that fills the space.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "心、温い言葉、ありがとうございます。",
+      "en": "Thank you for such kind words.",
+      "style": "Quiet gratitude, sincerely meant. Soft, almost formal politeness that comes from real feeling. Trailing slightly — not closing the moment, just letting it settle between them.",
+      "mood": "grateful_moved"
+    }
+  ]
+}

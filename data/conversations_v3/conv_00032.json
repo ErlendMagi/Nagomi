@@ -1,0 +1,91 @@
+{
+  "id": "conv_00032",
+  "context": "A pediatric exam room. Ryosuke's son has a fever; Dr. Saito has just finished the exam. Ryosuke is gripping the edge of the chair.",
+  "purpose": "medical reassurance — calm authority delivered to a worried parent",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "大丈夫",
+    "本当に",
+    "今",
+    "少し",
+    "時間",
+    "心配",
+    "元気"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お父さん、結果出ました。",
+      "en": "Dad — the results are in.",
+      "style": "Sits down before speaking. Measured, steady cadence. Clinical warmth layered beneath the formality. Opens space for what comes next.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、お願いします…。",
+      "en": "Yes — please…",
+      "style": "Breath caught in the throat. Hands clenched in the voice. Each word lands separately, held. The intake of someone bracing for impact.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ただの風邪ですね。心配いらないです。",
+      "en": "It's just a cold. Nothing to worry about.",
+      "style": "Slight lift on 'just' — the turning point. Lets the relief breathe. Warm enough to land but still professional. The voice of someone releasing tension on behalf of another.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "あ…本当に？",
+      "en": "Oh… really?",
+      "style": "First real exhale. Voice catches fractionally on 'really' — half-laugh, half-disbelief. The audible drop of shoulders. Permission to feel something.",
+      "mood": "relieved_astonished"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に。三日ほど、家でゆっくり。",
+      "en": "Really. Three days at home, rest up.",
+      "style": "Doubles down with quiet warmth. Clinical but not cold — the tone of someone who has delivered this exact reassurance a hundred times and means it each time.",
+      "mood": "steady_kind"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "よかった…ありがとうございます。",
+      "en": "Thank god… thank you.",
+      "style": "Whole body releases in the voice. Genuine gratitude underneath, mixed with a thread of embarrassment at his own worry. Almost surprised by his own relief.",
+      "mood": "grateful_humbled"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お薬、少しだけ出します。今日と明日、お熱見てあげて。",
+      "en": "I'll write you a prescription. Check his temperature today and tomorrow.",
+      "style": "Shifts back to logistics, no loss of warmth. Clear, instructional, practical. The voice of someone moving from crisis to care.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、必ず。本当に、ご心配おかけして…",
+      "en": "Yes — absolutely. Sorry for taking up your time with this…",
+      "style": "Reflexive politeness coloring the words. Half-bow inside his throat. Apologizing for existing in her schedule. Quiet, self-conscious gratitude.",
+      "mood": "grateful_deferential"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえ、いつでも来てください。お大事に。",
+      "en": "Not at all. Come in any time if you need to. Take care.",
+      "style": "Closing gesture — unhurried, warm, final. The reassurance is in the door left open. Not dismissive. The kind of doctor who means it.",
+      "mood": "warm_unhurried"
+    }
+  ]
+}

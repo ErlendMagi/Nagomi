@@ -1,0 +1,65 @@
+{
+  "id": "conv_05915",
+  "context": "A boss reviews a corporate medical-CSR program",
+  "purpose": "Teach: 麻酔/化石/慢性/申し立て/賞賛/予期/偏っ/迄",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻酔",
+    "化石",
+    "慢性",
+    "申し立て",
+    "賞賛",
+    "予期",
+    "偏っ",
+    "迄"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員健康診断、麻酔含む手術歴のフォローを徹底させろ。",
+      "en": "Staff health screenings — I want strict follow-up on any surgical history involving anesthesia.",
+      "style": "Measured, authoritative opening. Crisp cadence on key terms. No room for interpretation. Embedded expectation that this will be done.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。慢性疾患の対象者、化石的なシステムからリニューアル中です。",
+      "en": "Understood. We're transitioning the chronic-disease tracking out of the old system now.",
+      "style": "Respectful confirmation with subtle confidence. Steady, procedural rhythm. Shows progress already underway without overselling.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "労災申し立て、過去の事例、適切に処理しろ。",
+      "en": "Workplace-injury claims — make sure past cases are handled correctly.",
+      "style": "Firm but not harsh. Slight weight on 「properly」— not accusing, but clarifying the standard. Expects alignment.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "制度改正への賞賛、メディアからも届いています。",
+      "en": "The reforms have actually gotten media attention — positive coverage.",
+      "style": "Slightly warmer than before. Brings good news with understated pride. Tone lifts slightly as he shares success without seeking praise.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予期せぬ事象、データが偏った時期の検証も、年度末迄に。",
+      "en": "Any anomalies, data audits from periods with skewed results — all wrapped up by year-end.",
+      "style": "Final directive. Deliberate, unhurried. Each clause lands with quiet weight. No negotiation. Closes the conversation with composed certainty.",
+      "mood": "resolute"
+    }
+  ]
+}

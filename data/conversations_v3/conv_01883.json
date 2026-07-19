@@ -1,0 +1,61 @@
+{
+  "id": "conv_01883",
+  "context": "Aoi attends Sho-young's little league soccer match; cheering supportively.",
+  "purpose": "Adult mentor cheering child athlete.",
+  "ambient": "soccer_field_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "サッカー",
+    "試合",
+    "走る",
+    "応援"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_094)",
+    "generated_at": "2026-05-27T08:24:49.810Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "蒼さん、緊張する!",
+      "en": "Aoi, I'm so nervous!",
+      "style": "Quiet, trembling voice on the opening. A small boy's worry breaking through — earnest, not performed. Soft pace, seeking reassurance. Slight catch before the final word.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "練習の力、信じて。",
+      "en": "Trust what you've practiced.",
+      "style": "Warm, steady voice that settles him. Gentle conviction — not dismissing his worry but anchoring him. Slow, deliberate pace. Eyes soft on him.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る!",
+      "en": "Yeah, I'll do my best!",
+      "style": "Small voice but firmer now. A child gathering himself. Energy shifting from worry to resolve. Quick, decisive attack on the affirmation. Still young, but determined.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "走って、楽しんで!",
+      "en": "Go run and have fun!",
+      "style": "Bright, encouraging, pushing him forward. Light lift in the voice — permission to stop worrying and start enjoying. Quick pace, almost bouncing. Genuine cheer, not hollow cheerleading.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "いってきます!",
+      "en": "I'm going!",
+      "style": "Sudden energy — the worry burned off. Bright, urgent, a boy ready to run. Quick, almost breathless delivery. Joy underneath the excitement. Off he goes.",
+      "mood": "excited_determined"
+    }
+  ]
+}

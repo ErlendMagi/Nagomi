@@ -1,0 +1,86 @@
+{
+  "id": "conv_11072",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 本校/（財）/先ごろ/片っ端/遅ればせながら/討ち/新報/追いつめ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本校",
+    "（財）",
+    "先ごろ",
+    "片っ端",
+    "遅ればせながら",
+    "討ち",
+    "新報",
+    "追いつめ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_555 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、本校、つまり本校の生徒関連事案を、警察、慎重に対応されますね",
+      "en": "Regarding this case—involving students from this school—the police are handling it carefully, aren't they?",
+      "style": "Measured, searching tone. Ren is testing the officer's awareness and patience. Slight pause before the parenthetical clarification. Genuinely curious underneath the formal phrasing.",
+      "mood": "cautious_inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、（財）法人、つまり（財）系の不正経理事案も担当されますね",
+      "en": "The police also handle fraud cases involving foundations and corporate misconduct, don't they?",
+      "style": "Professional acknowledgment. Officer Takeda matches Ren's register without condescension. Even, competent delivery. A small nod in the voice—recognizing the question's legitimacy.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、先ごろ報道された事件を、警察、再調査されますね",
+      "en": "Regarding this case—the incident that was reported recently—the police are reinvestigating it, aren't they?",
+      "style": "Slight pressure now. Ren's phrasing becomes more pointed, less deferential. Still respectful, but testing whether the officer will acknowledge the full scope. Lean slightly forward in tone.",
+      "mood": "pressing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場周辺を片っ端から聞き込みされますね",
+      "en": "The police conduct thorough canvassing around the scene, interviewing anyone and everyone nearby, don't they?",
+      "style": "Calm, methodical. Officer Takeda's voice settles into explanation mode—not defensive, simply laying out procedure. Each phrase gets equal weight. Reassuring in its thoroughness.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、遅ればせながら証拠を提出した参考人を、警察、慎重に聴かれますね",
+      "en": "Regarding this case—the witness who submitted evidence belatedly—the police would question them carefully, wouldn't they?",
+      "style": "Ren's tone hardens slightly. The repeated structure is becoming rhythmic, almost formal. He's building toward something. Breathe before 'witness.' Steady but with quiet insistence underneath.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、暴力事案で「討ち取った」、つまり制圧した容疑者の聴取もされますね",
+      "en": "The police also interrogate suspects in cases of violence—those who were, shall we say, subdued during arrest—don't they?",
+      "style": "Officer Takeda's response grows cooler, more guarded. The euphemism lands deliberately. No apology in the delivery, but a shift: he's aware Ren is circling something specific. Measured, slightly tighter.",
+      "mood": "reserved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、新報、つまり新報社からの取材対応もされますね",
+      "en": "Regarding this case—the police also handle media inquiries from news organizations, don't they?",
+      "style": "Ren broadens back out, but the damage is done. He's acknowledged the scope. Quieter attack on this one—he's shifting tone. Less confrontational, more observational. Testing if the officer will relax.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者を追いつめ、つまり追い詰めて自供させる捜査もされますね",
+      "en": "The police also conduct investigations where they corner suspects—corner them, that is—to elicit confessions, don't they?",
+      "style": "Officer Takeda's voice drops and hardens. The repeated word is no longer explanation; it's accusation, gentle but unmistakable. He's not answering anymore—he's acknowledging what Ren has been circling. Brief, final, the tone of someone who will not be pushed further.",
+      "mood": "cornered_resolute"
+    }
+  ]
+}

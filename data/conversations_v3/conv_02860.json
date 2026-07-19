@@ -1,0 +1,75 @@
+{
+  "id": "conv_02860",
+  "context": "Sho tells Grandma about a funny, sad day.",
+  "purpose": "Casual home register; vocabulary (涙/笑い/弱い/面倒/気づい) in natural home.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "涙",
+    "笑い",
+    "弱い",
+    "面倒",
+    "気づい"
+  ],
+  "cast": [
+    "sho_child",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_143)",
+    "generated_at": "2026-05-29T14:34:54.432Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃん、今日転んで泣いちゃった。",
+      "en": "Grandma, I fell and cried today.",
+      "style": "pouty small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "あら、涙が出たのね。痛かった?",
+      "en": "Oh, you shed tears. Did it hurt?",
+      "style": "tender grandmother voice, soft warm gentle delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "でも、友達の笑い話で元気出たよ。",
+      "en": "But my friend's funny story cheered me up.",
+      "style": "brightening small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "泣くのは、弱いことじゃないのよ。",
+      "en": "Crying isn't a weakness.",
+      "style": "tender grandmother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "片付けが、面倒だったんだもん。",
+      "en": "Cleaning up was such a hassle.",
+      "style": "whiny small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "面倒でも、やり遂げたのね。えらいわ。",
+      "en": "Even if it was a hassle, you finished. Good boy.",
+      "style": "gentle grandmother voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "笑ったら、涙が乾いたって気づいた!",
+      "en": "When I laughed, I noticed my tears dried!",
+      "style": "happy small child voice, bright warm delivery throughout"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "良いことに、気づいたわね。",
+      "en": "You noticed something good.",
+      "style": "tender grandmother voice, soft warm affectionate closing delivery throughout"
+    }
+  ]
+}

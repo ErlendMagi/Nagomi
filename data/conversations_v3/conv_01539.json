@@ -1,0 +1,75 @@
+{
+  "id": "conv_01539",
+  "context": "Takeda-officer briefs Daichi on neighborhood safety after a small incident.",
+  "purpose": "Officer informing resident professionally about local awareness.",
+  "ambient": "street_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "警察",
+    "注意",
+    "近所",
+    "事件"
+  ],
+  "cast": [
+    "takeda_officer",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_077)",
+    "generated_at": "2026-05-27T06:22:53.509Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "最近、近所で小さい事件が。",
+      "en": "There've been a couple of break-ins in the area lately.",
+      "style": "Even, professional opener. No alarm — just facts. Clear and steady. Slight pause before the next thought, giving weight to the information.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "え、何があったんですか?",
+      "en": "Oh — what happened?",
+      "style": "Immediate concern, but not panic. Warm Kansai lilt on the question. Leans forward slightly, genuine attention. Waiting to understand.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "空き巣ですね、注意してください。",
+      "en": "Break-ins. I'd ask you to be careful — lock up well.",
+      "style": "Slight emphasis on 「空き巣」 — the word that matters. Not grave, but serious. The cadence of someone who's given this warning before and means it.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "了解しました、戸締まり気をつけます。",
+      "en": "Got it — I'll keep an eye on the locks.",
+      "style": "Respectful acceptance, no bravado. Warm Kansai warmth underneath the formality. Shows he's heard and will act. Grounded and reliable.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "何かあれば、すぐ連絡を。",
+      "en": "If you notice anything odd, call us right away. Don't wait.",
+      "style": "Firmer than before — this is the directive that matters. Professional but not cold. The voice of someone who needs people to actually follow through.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "はい、ありがとうございます。",
+      "en": "Yes, thank you — I appreciate it.",
+      "style": "Genuine gratitude, no performance. Kansai warmth coming through naturally. Quick, sincere, shows respect for the officer's time and concern.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "失礼します。",
+      "en": "Take care.",
+      "style": "Polite closing, composed but human. Not stiff — the natural cadence of someone stepping back. Brief nod in the voice.",
+      "mood": "courteous"
+    }
+  ]
+}

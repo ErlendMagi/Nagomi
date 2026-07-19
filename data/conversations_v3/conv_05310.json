@@ -1,0 +1,72 @@
+{
+  "id": "conv_05310",
+  "context": "A police officer briefs a uni reporter about an investigation procedure",
+  "purpose": "Teach: 主任/取り付け/採択/円滑/送付/法務省/官庁/査定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主任",
+    "取り付け",
+    "採択",
+    "円滑",
+    "送付",
+    "法務省",
+    "官庁",
+    "査定"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件の経過、まず関係資料を法務省に送付した段階です。",
+      "en": "The status on this case is that we've just sent the relevant materials to the Justice Ministry.",
+      "style": "Professional and measured. Even pace, no hurry. Direct eye contact. The tone of someone who has given this briefing before and will give it again.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "査定の結果は、いつ頃出るんでしょうか。",
+      "en": "When do you expect the evaluation results to come back?",
+      "style": "Respectful but steady. Pen poised. No hesitation in the question — genuine curiosity from someone taking notes, not nervousness.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "官庁の事務がいま立て込んでいて、採択まで一ヶ月程度かかりそうです。",
+      "en": "The ministry's workload is heavy at the moment, so it'll likely take about a month before we see a decision.",
+      "style": "Matter-of-fact, almost apologetic in tone but not in manner. A slight pause before the estimate, as if checking his memory. No embellishment.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "担当主任の方からは、追加情報はありそうですか。",
+      "en": "Is the chief manager in charge likely to have any additional information for you?",
+      "style": "Lean forward slightly. Practical question from someone who knows what will help his reporting. Clear, purposeful.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "明日の打合せで、円滑な情報共有を取り付けます。",
+      "en": "We'll work to secure a smooth flow of information at tomorrow's meeting.",
+      "style": "Steady commitment. A small nod of assurance. Professional but warm — not stiff. This is what he does: follow through.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。記事用にメモさせていただきます。",
+      "en": "Thank you. I'll make sure to note that down for the article.",
+      "style": "Genuine gratitude, not performative. A small bow of thanks. Settling back with notepad in hand, ready to move on. Respectful close.",
+      "mood": "grateful"
+    }
+  ]
+}

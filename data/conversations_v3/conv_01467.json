@@ -1,0 +1,56 @@
+{
+  "id": "conv_01467",
+  "context": "Yumiko helps Hina with a small cold; checking her temperature at home.",
+  "purpose": "Caring elder woman tending to a sick younger family member.",
+  "ambient": "bedroom_quiet_clock",
+  "sound_effects": [],
+  "target_vocab": [
+    "風邪",
+    "薬",
+    "病院",
+    "熱"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_074)",
+    "generated_at": "2026-05-27T06:02:47.221Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、風邪ひいたみたいね。",
+      "en": "Hina, seems you've caught a cold.",
+      "style": "gentle older mother voice, soft worry threading through kindness"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ちょっと熱っぽい。",
+      "en": "Yeah, I feel a bit feverish.",
+      "style": "soft sick teen girl, slight croaky tired delivery"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "薬と水、持ってくるね。",
+      "en": "I'll bring medicine and water.",
+      "style": "maternal woman voice, brisk gentle competence audible warmth"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "病院、行かなくて大丈夫?",
+      "en": "Will I be alright without the hospital?",
+      "style": "worried teen voice, soft small question hesitant tone"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今夜様子見て、明日決めよう。",
+      "en": "Let's watch tonight and decide tomorrow.",
+      "style": "wise older mother, calm careful decision-making warmth delivered"
+    }
+  ]
+}

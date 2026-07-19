@@ -1,0 +1,86 @@
+{
+  "id": "conv_06506",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: オピニオン/図解/読み込み/終電/賃料/昇給/良品/単品",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "オピニオン",
+    "図解",
+    "読み込み",
+    "終電",
+    "賃料",
+    "昇給",
+    "良品",
+    "単品"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_327 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界紙、オピニオン欄、注視しろ。",
+      "en": "Watch the trade press opinion columns.",
+      "style": "Clipped, matter-of-fact. Sharp attack on the opening word. No room for questions. Eyes up, brief enough that it lands and moves on.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製品仕様、図解で、わかりやすく示します。",
+      "en": "Yes. I'll make the product specs clear with diagrams.",
+      "style": "Steady, absorbing the instruction without defensiveness. Flat, professional pace. Voice lands on the commitment—no flourish, just competence being offered.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書の読み込み、ダブルチェック、徹底。",
+      "en": "Contract review—double-check everything. Rigorously.",
+      "style": "Command-weight delivered quietly. Stress on 「ダブルチェック」 with mild emphasis. No room for interpretation. The tone of someone who's seen what happens when this step gets rushed.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。終電過ぎる残業、減らしていきます。",
+      "en": "Yes. I'll start cutting back on the overtime past last train.",
+      "style": "Accepting without excuse-making. Slight relief underneath—he's been noting this himself. Straightforward, almost grateful for permission to name it.",
+      "mood": "relieved_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "店舗の賃料、再交渉できるか。",
+      "en": "Can we renegotiate the store rent?",
+      "style": "Practical question, testing feasibility without judgment. Even pace. Genuine curiosity about options, not criticism. The tone of someone thinking through the numbers.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の昇給、計画的に進めます。",
+      "en": "Yes. I'll move forward with staff raises strategically.",
+      "style": "Steady confirmation. Slight warmth on the word 「昇給」—he notices this matters. Professional but not robotic. The pace of someone who's thought this through.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良品率、引き上げ、目標だ。",
+      "en": "Raising the quality rate is the target.",
+      "style": "Clear statement of priority. Delivered without urgency but with weight. Slight pause before 「目標」. The tone of someone setting the bar and expecting it to be met.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。単品売り、戦略的に進めます。",
+      "en": "Yes. I'll push single-item sales forward strategically.",
+      "style": "Final confirmation, matching the meeting's arc. Voice steady and closing. No new energy, just acknowledgment and commitment. The natural end of the exchange.",
+      "mood": "committed"
+    }
+  ]
+}

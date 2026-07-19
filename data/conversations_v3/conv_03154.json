@@ -1,0 +1,75 @@
+{
+  "id": "conv_03154",
+  "context": "Kenji helps Yuki with a messaging tool.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (返信/音声/ツール/教材/ダウン) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返信",
+    "音声",
+    "ツール",
+    "教材",
+    "ダウン"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_158)",
+    "generated_at": "2026-05-29T16:08:12.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "このツール、返信が遅いんです。",
+      "en": "This tool is slow to reply.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "サーバーが、ダウンしているようですね。",
+      "en": "The server seems to be down.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "音声のメッセージも、送れますか?",
+      "en": "Can I send voice messages too?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、音声も、このツールで送れます。",
+      "en": "Yes, you can send voice with this tool too.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "研修の教材も、ここに置けますか?",
+      "en": "Can I put the training materials here too?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "教材を、ツールで共有しましょう。",
+      "en": "Let's share the materials via the tool.",
+      "style": "measured office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "復旧したら、返信が来ました!",
+      "en": "Once it recovered, the reply came!",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ダウンが直れば、音声もスムーズですよ。",
+      "en": "Once the downtime's fixed, voice is smooth too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

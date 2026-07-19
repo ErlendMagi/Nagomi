@@ -1,0 +1,75 @@
+{
+  "id": "conv_02927",
+  "context": "Kenji helps Ren set up a workspace at home.",
+  "purpose": "WIDENED SCENARIO: home-office setup; vocabulary (かける/置か/残さ/我が家/以内) in natural home.",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "かける",
+    "置か",
+    "残さ",
+    "我が家",
+    "以内"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_147)",
+    "generated_at": "2026-05-29T14:53:31.330Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "我が家に、作業机を置きたいんです。",
+      "en": "I want to put a work desk in my home.",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "机は、窓際に置くといいですよ。",
+      "en": "It's good to put the desk by the window.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ケーブルは、壁にかけますか?",
+      "en": "Do I hang the cables on the wall?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、かけておくと、すっきりします。",
+      "en": "Yes, hanging them keeps it tidy.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "配線を、残さず束ねたいです。",
+      "en": "I want to bundle the wiring without leaving any loose.",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一時間以内に、終わりそうですね。",
+      "en": "It seems we'll finish within an hour.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "我が家が、仕事場になりますね。",
+      "en": "My home becomes a workplace.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "物を置く場所を、決めておきましょう。",
+      "en": "Let's decide where to put things.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

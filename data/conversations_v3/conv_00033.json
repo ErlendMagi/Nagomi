@@ -1,0 +1,133 @@
+{
+  "id": "conv_00033",
+  "context": "A weathered fishing pier in Kyushu, early morning. Hina is visiting Grandpa Goro. She has been holding a rod for an hour and caught nothing.",
+  "purpose": "cross-generational instruction — patience as a small life lesson, mostly through silence",
+  "ambient": "park_morning",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "一緒",
+    "少し",
+    "見る",
+    "ない",
+    "何"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おじいちゃん、まだ、なんも来ない…",
+      "en": "Grandpa — nothing's come yet…",
+      "style": "Half-whine, half-genuine. Bouncing a little on the pier.",
+      "mood": "restless_kid"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "Two letters. Doesn't look up. Kyushu drawl.",
+      "mood": "unhurried"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ねえ、本当に魚いる？",
+      "en": "Hey — are there really fish?",
+      "style": "Tries doubt as a strategy. Lifts the rod doubtfully.",
+      "mood": "doubting_strategy"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "おる。",
+      "en": "They're there.",
+      "style": "One word. Total certainty. Doesn't elaborate.",
+      "mood": "certain"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "じゃあ、なんで来ないの？",
+      "en": "Then why aren't they coming?",
+      "style": "Genuine kid-logic question. Sits down on the pier in the voice.",
+      "mood": "genuinely_asking"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "魚の時間や、こっちの時間ちゃう。",
+      "en": "Fish-time and our-time are different.",
+      "style": "Slow, considered. Kyushu inflection. A small offered truth.",
+      "mood": "gentle_teaching"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…(thinking)",
+      "en": "(quiet thinking)",
+      "style": "A real beat. The kid is actually considering it. Tilts her head in the voice.",
+      "mood": "thinking"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ひな。少し、静かに。",
+      "en": "Hina. Quiet a little.",
+      "style": "Even softer than the previous line. An invitation, not a scolding.",
+      "mood": "inviting_quiet"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "(holds breath)",
+      "en": "(holds her breath)",
+      "style": "A whole-body listening. No words, just attention focused.",
+      "mood": "listening"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "見てみ。あそこ、丸い波。",
+      "en": "Look there. The round ripple.",
+      "style": "Points without lifting his arm much. The first new information of the morning.",
+      "mood": "pointing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん…うん！見える！",
+      "en": "Yeah… yeah! I see it!",
+      "style": "A breath of discovery. Voice almost a whisper, then louder on the second 「うん」.",
+      "mood": "discovering"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "あそこに、魚おる。",
+      "en": "A fish, right there.",
+      "style": "Slightly proud — not of the fish, of her seeing. Voice low.",
+      "mood": "quietly_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "本当に？",
+      "en": "Really?",
+      "style": "Smaller than her earlier doubt. A whole different word.",
+      "mood": "softened_doubt"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほんま。一緒に待とう。",
+      "en": "Really. Let's wait — together.",
+      "style": "The most words he'll say today. Settles back in the voice.",
+      "mood": "settling_together"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん。一緒に。",
+      "en": "Yeah. Together.",
+      "style": "Quietest line in the conversation. She gets it now.",
+      "mood": "quiet_understanding"
+    }
+  ]
+}

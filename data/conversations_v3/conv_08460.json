@@ -1,0 +1,86 @@
+{
+  "id": "conv_08460",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 温室/鶏肉/ダイニング/ガレージ/ライブラリー/エレクトロニクス/モノクロ/矢印",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "温室",
+    "鶏肉",
+    "ダイニング",
+    "ガレージ",
+    "ライブラリー",
+    "エレクトロニクス",
+    "モノクロ",
+    "矢印"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが温室で野菜を育ててらっしゃるわ",
+      "en": "Sho, your father has been growing vegetables in the greenhouse.",
+      "style": "Warm, informative tone. Gentle cadence introducing an observation about the household. Not performing knowledge—simply sharing what she's noticed. Voice sits at a natural conversational height.",
+      "mood": "observant_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、鶏肉のから揚げ大好きだよ",
+      "en": "Mom, I really love fried chicken.",
+      "style": "Sudden bright shift—child's thought arriving without preamble. Quick, earnest delivery. Small voice but full attention on what he's saying. No filter between thought and words.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ダイニングテーブルでお勉強しなさい",
+      "en": "Sho, study at the dining table, please.",
+      "style": "Matter-of-fact instruction delivered without edge. The voice of a parent who's said this before and will say it again. Gentle but final. Not a question.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんがガレージで日曜大工してたよ",
+      "en": "Mom, Dad was doing some carpentry work in the garage.",
+      "style": "Excited to report back—like he's been waiting to share this detail. Voice quick and observant, the small pride of noticing what grown-ups do. Wanting approval for the observation itself.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと近所のライブラリーへ行きましょうね",
+      "en": "Sho, why don't you and Dad go to the library nearby together?",
+      "style": "Gentle suggestion wrapped as invitation. Warm underlying current—she's thinking of both of them. Slight lift at the end, encouraging without pushing. The voice of someone creating a small moment for her family.",
+      "mood": "tender_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんのお仕事は、エレクトロニクスのお仕事だね",
+      "en": "Mom, Dad's job is in electronics, isn't it?",
+      "style": "Thoughtful observation delivered as gentle confirmation-seeking. Small voice, but the question carries weight—he's piecing something together. Quiet pride underneath. Seeking her agreement.",
+      "mood": "thoughtful_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんの古いモノクロ写真、見せてあげるね",
+      "en": "Sho, I'm going to show you some of Grandma's old black-and-white photographs.",
+      "style": "Warm, slightly conspiratorial tone—like she's been waiting for this moment. Voice soft and unhurried. The cadence of sharing something precious. Small smile audible underneath.",
+      "mood": "tender_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、地図に矢印描いて宝探し作ったよ",
+      "en": "Mom, I drew a map with arrows and made a treasure hunt game!",
+      "style": "Bright, triumphant declaration. Voice climbing with excitement and pride in his creation. Words tumble out faster toward the end. The joy of showing someone what he's made and wanting her to understand how clever it is.",
+      "mood": "proud_excited"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_01181",
+  "context": "Saito confirms Mei's third pregnancy.",
+  "purpose": "doctor-relative pregnancy-news exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "家族",
+    "大切",
+    "幸せ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_059)",
+    "generated_at": "2026-05-27T04:17:09.033Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、結果、確認、しました。",
+      "en": "Mei-san, I've confirmed your results.",
+      "style": "Steady, clear opening. Warm but professional composure—this is a moment to hold space for. Gentle dip in pace before the news. Breath underneath the words, not forced.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、お願いします。",
+      "en": "Yes, please.",
+      "style": "Soft, attentive. A breath held slightly. Respectful but genuinely present—not performing deference, but meeting this moment with openness.",
+      "mood": "tender_anticipation"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おめでとう、三人目、確実、です。",
+      "en": "Congratulations—you're expecting your third. That's confirmed.",
+      "style": "Warm announcement with real joy threaded through. A light lift on the news itself, then settling into the weight of it. Genuine, not theatrical.",
+      "mood": "warm_joy"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ああ、本当、嬉しい。",
+      "en": "Ah—truly, I'm so happy.",
+      "style": "Quiet relief breaking through. The exhale of someone who needed to hear it confirmed. Tender, genuine warmth—not performed, but deeply felt and allowed.",
+      "mood": "relieved_tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、十分、注意、して。",
+      "en": "Take good care of your health. That's important now.",
+      "style": "Caring firmness—not stern, but clear-eyed. The voice of someone who has seen what matters. Professional warmth with real conviction underneath.",
+      "mood": "caring_serious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家族、皆で、見守る。",
+      "en": "Our whole family will be watching over you.",
+      "style": "Quiet gratitude and resolve. Present tense—this is happening, we are here. Soft but certain. The voice of someone who has found her people.",
+      "mood": "grateful_certain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "幸せ、本当に、ね。",
+      "en": "It's truly happiness, isn't it.",
+      "style": "Quiet reflection. A small smile in the voice. The composure of a doctor who still remembers this wonder. Gentle acknowledgment—not ending the moment, just letting it breathe.",
+      "mood": "warm_wonder"
+    }
+  ]
+}

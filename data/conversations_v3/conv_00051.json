@@ -1,0 +1,127 @@
+{
+  "id": "conv_00051",
+  "context": "A small inn in Iwate. A retired Tokyo professor (Hiroshi Kato) and a local farmer (Tatsuya Endo) end up at adjacent low tables in the dining room. They start a conversation slowly.",
+  "purpose": "two retirees meet over dinner — city scholar and country man recognising each other",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "一緒",
+    "元気",
+    "大変",
+    "ない",
+    "見る",
+    "子供"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "こんばんは。少し、いいですか。",
+      "en": "Good evening. May I have a moment?",
+      "style": "Slow, courteous, seeking permission to join. A small respectful bow lives inside the voice.",
+      "mood": "polite_tentative"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、どうぞ。",
+      "en": "Ah — please, sit.",
+      "style": "Two unhurried words with Tohoku warmth. The gesture of the cushion is in his tone.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "お一人で、ご旅行ですか。",
+      "en": "Traveling alone, are you?",
+      "style": "Gentle conversational probe. Measured pace. The question lands soft, not probing.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いや、ここに住んどる。",
+      "en": "No — I live here.",
+      "style": "A smile underneath. Quiet local pride. Matter-of-fact correction without edge.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、これは失礼を。…本当にいい場所ですね。",
+      "en": "Ah — forgive me. …It truly is a lovely place.",
+      "style": "The apology bows in his voice. 「本当に」lands without strain, genuine admiration.",
+      "mood": "gracious"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "東京の方ですか。",
+      "en": "You're from Tokyo?",
+      "style": "Simple question, eyes on his bowl, full attention in his ears.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "はい。退職してから、こうして時々。",
+      "en": "Yes. Since retiring — I travel like this from time to time now.",
+      "style": "A compressed life-chapter. Complete sentences. Slow. The contentment of earned time.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いいなあ。うちの娘も、東京。",
+      "en": "That's something. My daughter's in Tokyo too.",
+      "style": "A small offering, carefully placed. Equal parts pride and the distance of it.",
+      "mood": "wistful_proud"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうですか。お元気で？",
+      "en": "Is that so. How is she doing?",
+      "style": "Genuine care. His chopsticks pause. The question actually wants an answer.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "元気らしい。会えるか、年に一回。",
+      "en": "Doing well, I hear. See her once a year, maybe.",
+      "style": "No embellishment. The plainspoken report of a Tohoku father who's made peace with the distance.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "…私の息子も、似たような感じです。",
+      "en": "…My son is much the same.",
+      "style": "Quiet nod of recognition. The small unexpected kinship between two fathers of distant children.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "(small nod) 子供は、子供なりに、大変なんやろな。",
+      "en": "(small nod) Children carry their own kind of difficult, I imagine.",
+      "style": "Philosophy gently offered, not imposed. Tohoku cadence—soft, complete.",
+      "mood": "philosophical"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "本当に。…一緒に飲みませんか、少し。",
+      "en": "Indeed. …Would you share a drink with me? Just a little.",
+      "style": "A small bridge extended. The 「少し」softens the ask, makes it modest, a small moment between strangers.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ええなあ。じゃ、一杯だけ。",
+      "en": "That would be nice. One cup then.",
+      "style": "A genuine small smile surfaces. Unhurried. He slides a cup across with quiet generosity.",
+      "mood": "warm_agreeable"
+    }
+  ]
+}

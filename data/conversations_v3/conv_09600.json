@@ -1,0 +1,86 @@
+{
+  "id": "conv_09600",
+  "context": "Mom and son chat",
+  "purpose": "Teach: タックル/浪人/飛鳥/ピカソ/ボンド/リンカーン/フットサル/ヤクルト",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "タックル",
+    "浪人",
+    "飛鳥",
+    "ピカソ",
+    "ボンド",
+    "リンカーン",
+    "フットサル",
+    "ヤクルト"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_481 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがラグビーのタックルを教えて下さるそうよ",
+      "en": "Sho, your father says he'll teach you rugby tackles.",
+      "style": "Warm, matter-of-fact announcement. Light smile in the voice. Sharing good news without making a fuss of it. Slight lift on his name — attentive, not theatrical.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと浪人生のお話聞いたよ",
+      "en": "Mom, I talked with Dad about ronin students.",
+      "style": "Bright, eager to share. Quick tempo. Slight breathlessness — proud to report something he learned. Natural child enthusiasm, not performed.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが飛鳥の遺跡に連れて行って下さるそうよ",
+      "en": "Sho, your father says he'll take you to the Asuka ruins.",
+      "style": "Gentle, thoughtful delivery. Slower pace than before. Lingers slightly on the activity — savoring it. The tone of someone noticing something tender happening.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとピカソの本見たよ",
+      "en": "Mom, I looked at a Picasso book with Dad.",
+      "style": "Bright report, genuine delight. Quick, clear. Slight pause after 'Dad' — letting the moment land. The small pride of having done something grown-up.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがボンドの新作を観てらしたわ",
+      "en": "Sho, your father's been watching the new Bond film.",
+      "style": "Casual observation, faintly amused. Conversational rhythm. Slight warmth — noticing what he's doing, not commenting. The tone of someone who sees and accepts his interests gently.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとリンカーンのドキュメンタリー観たよ",
+      "en": "Mom, I want to watch the Yakult game with Dad.",
+      "style": "Eager, direct request. Open, hopeful quality. Slight lift at the end — not demanding, asking. Child's natural enthusiasm, unguarded.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがフットサルの大会に出られるそうよ",
+      "en": "Sho, your father says he'll compete in the futsal tournament.",
+      "style": "Thoughtful, slightly amused delivery. Warm but measured. Noticing something — her awareness that his life is full, that he's doing things. Tender without sentimentality.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとヤクルトの試合観たいよ",
+      "en": "Mom, I really want to watch the Yakult game with Dad.",
+      "style": "Eager, slightly more insistent than before. Open, hopeful quality — wanting something and unafraid to ask. Genuine child emotion, trailing slightly upward on the request.",
+      "mood": "eager_hopeful"
+    }
+  ]
+}

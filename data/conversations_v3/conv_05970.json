@@ -1,0 +1,65 @@
+{
+  "id": "conv_05970",
+  "context": "A retired exec mentors",
+  "purpose": "Teach: 工務/自給/話し合う/書き換え/増設/換気/量販/退社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工務",
+    "自給",
+    "話し合う",
+    "書き換え",
+    "増設",
+    "換気",
+    "量販",
+    "退社"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "昔の工務店、皆顔なじみだった。",
+      "en": "The contractors back then — they were all people we knew.",
+      "style": "Measured, reflective opening. Soft nostalgia in the voice. Unhurried pace, letting the memory settle. Steady eye contact, speaking from accumulated experience rather than emotion.",
+      "mood": "nostalgic_steady"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。自給自足の食堂、伝統復活させたい。",
+      "en": "Yes. We want to bring back the self-sufficient cafeteria model.",
+      "style": "Lean forward slightly. Quieter intensity — not urgent, but genuinely committed. Each phrase lands with intention. Respectful toward the elder's view, speaking as someone who's thought this through.",
+      "mood": "determined_respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "地元と話し合う姿勢、続けろ。書き換え時の文面、慎重に。",
+      "en": "Keep that approach — talking with the local community. But be careful when you draft any changes in writing.",
+      "style": "Shift to advisor mode. Firmer than before, not lecturing but clearly offering earned wisdom. Slight weight on 「慎重に」 — caution delivered as care, not criticism. Patient clarity.",
+      "mood": "protective_clear"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "倉庫を増設し、換気も最新型に更新中です。",
+      "en": "We're expanding the warehouse space and currently upgrading the ventilation systems to the latest models.",
+      "style": "Factual, grounded tone. Speaking with quiet competence about concrete progress. Not boastful — reporting what's being done. Steady rhythm, as if ticking through a thoughtful plan.",
+      "mood": "capable_measured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "量販店化、急ぐな。社員の退社時間、守れ。",
+      "en": "Don't rush into becoming a volume retailer. And make sure your people can actually leave on time.",
+      "style": "Final wisdom, delivered with quietness and weight. No urgency in the voice, but the words carry consequence. Two separate thoughts, each given space to land. Slight pause between them. The voice of someone who's seen what happens when companies don't listen.",
+      "mood": "cautious_grounded"
+    }
+  ]
+}

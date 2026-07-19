@@ -1,0 +1,86 @@
+{
+  "id": "conv_06734",
+  "context": "A boss reviews corp strategy",
+  "purpose": "Teach: 執着/標的/浅草/鋼/富ん/気圧/献金/炭鉱",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "執着",
+    "標的",
+    "浅草",
+    "鋼",
+    "富ん",
+    "気圧",
+    "献金",
+    "炭鉱"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去の成功への執着、新事業には、害になる。",
+      "en": "Attachment to past successes will only damage the new venture.",
+      "style": "Measured and direct. Slight weight on 「執着」. No meandering — each phrase lands. Cold clarity without coldness.",
+      "mood": "clear_directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、業界の競争で、標的にされやすい立場です。",
+      "en": "Yes. We're in a vulnerable position within the industry's competitive landscape.",
+      "style": "Steady affirmation. Quick nod-beat on 「はい」. Controlled pace, acknowledging the difficulty without defensiveness.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "浅草の支店、観光客対応、強化しろ。",
+      "en": "Strengthen the Asakusa branch's capacity to serve tourist clientele.",
+      "style": "Firm instruction with no room for question. Crisp edge on the verb. Expects immediate understanding and execution.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。鋼材の調達、海外取引先と、契約済みです。",
+      "en": "Yes. We've already secured contracts with overseas steel suppliers.",
+      "style": "Clipped, professional update. Small pride in the groundwork already done. Efficient — no elaboration needed.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界経験に富んだ人材、積極的に、採用しろ。",
+      "en": "Hire experienced industry talent aggressively. Don't hesitate.",
+      "style": "Authoritative, almost urgent without raising volume. Emphasis on action now. The tone of someone who sees the window closing.",
+      "mood": "pressing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外市場、気圧の変化に強い製品、開発中です。",
+      "en": "Yes. We're developing products that can withstand pressure fluctuations for the overseas market.",
+      "style": "Progress report delivered with quiet competence. Slight lift on the achievement — they're ahead. Professional precision.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "政治献金、当社、ガイドラインに沿って、行っています。",
+      "en": "Political contributions are conducted according to our corporate guidelines.",
+      "style": "Formal and measured. The tone of someone placing a marker for the record. No defensiveness, but deliberate clarity.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。炭鉱跡地の活用、再エネプロジェクト、進めております。",
+      "en": "Yes. We're moving forward with renewable energy projects on former mining sites.",
+      "style": "Final statement with weight. Quiet pride in the pivot — old industry becoming new. Closes with certainty.",
+      "mood": "resolved"
+    }
+  ]
+}

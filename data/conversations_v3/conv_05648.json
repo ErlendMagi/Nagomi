@@ -1,0 +1,65 @@
+{
+  "id": "conv_05648",
+  "context": "A police officer briefs a manager about traffic enforcement",
+  "purpose": "Teach: 支障/通行/務める/打ち出し/最善/適度/応える/相次い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支障",
+    "通行",
+    "務める",
+    "打ち出し",
+    "最善",
+    "適度",
+    "応える",
+    "相次い"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "通行規制、御社の物流に支障を来していますね。",
+      "en": "The road closures are creating real pressure on your logistics operations.",
+      "style": "Measured, professional opening. Direct eye contact. Calm authority without coldness. Acknowledging the burden as genuine, not dismissive. Steady pace.",
+      "mood": "measured_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。安全を最優先で務めるという方針で動いています。",
+      "en": "Yes. We're operating under a safety-first policy across the board.",
+      "style": "Respectful but grounded. Not obsequious — speaking from a position of competence. Small pause before the affirmation, gathering himself. Clear, deliberate emphasis on 'safety first.'",
+      "mood": "earnest_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "迂回案、相次いで打ち出しを進めていますが、適度な選択を。",
+      "en": "We're rolling out detour options continuously. Choose the ones that actually work for you.",
+      "style": "Practical, slightly matter-of-fact. A hint of permission underneath — he's giving Kenji agency, not just directives. Steady, efficient pacing. Professional warmth at the edges.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "住民の声に応える形で、最善策を選びます。",
+      "en": "We'll choose the best option — one that actually listens to what the residents need.",
+      "style": "Quiet commitment. No performance. Weight settling on the words 'residents' and 'best.' Slower pace here — this is sincere, not procedural. Steady gaze.",
+      "mood": "determined_sincere"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察も協力します。",
+      "en": "The department will work with you on this.",
+      "style": "Firm but not cold. A small nod of reassurance — moving from procedural to partnership. Warm undertone. Slightly softer attack than the first line, but still measured.",
+      "mood": "supportive"
+    }
+  ]
+}

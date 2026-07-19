@@ -1,0 +1,61 @@
+{
+  "id": "conv_01920",
+  "context": "Daichi takes Sho-young to a small post office to mail birthday card.",
+  "purpose": "Father teaching child practical postal task.",
+  "ambient": "post_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "郵便",
+    "切手",
+    "封筒",
+    "送る"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、切手、貼る?",
+      "en": "Dad, do I put the stamp here?",
+      "style": "Soft, hesitant question. Seeks reassurance rather than information. Warm and focused—watching his father's face for approval. Small, genuine curiosity.",
+      "mood": "uncertain_trusting"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おう、ここに、貼ってみ。",
+      "en": "Yeah, go ahead and stick it right there.",
+      "style": "Encouragement wrapped in warmth. Kansai lilt on the ending. Relaxed and present—the voice of a father who knows this moment matters to his son.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "封筒、これでいい?",
+      "en": "Is the envelope okay like this?",
+      "style": "Checking again—not from doubt but from wanting to do it right. Quiet, careful attention. The slight uptick at the end waits for confirmation.",
+      "mood": "careful_seeking"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "うん、ばっちりや!",
+      "en": "Yeah, perfect!",
+      "style": "Affirmation that lands. Kansai warmth on the second word. Genuine pride—not over-performing, just delighted his son got it exactly right.",
+      "mood": "proud_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おばあちゃんに、届くね!",
+      "en": "Grandma's going to get it!",
+      "style": "Brightness breaks through—small wonder at the magic of mail. Soft excitement, no performance. The joy of understanding something real is about to happen.",
+      "mood": "delighted_realized"
+    }
+  ]
+}

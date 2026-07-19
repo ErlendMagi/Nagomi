@@ -1,0 +1,72 @@
+{
+  "id": "conv_05413",
+  "context": "A police officer briefs a uni reporter about community-health initiatives",
+  "purpose": "Teach: 干渉/内面/摩擦/葛藤/量的/見地/末期/糖尿",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "干渉",
+    "内面",
+    "摩擦",
+    "葛藤",
+    "量的",
+    "見地",
+    "末期",
+    "糖尿"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_272 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の糖尿予防施策、住民との摩擦も多いです。",
+      "en": "We're seeing quite a bit of pushback from residents over our local diabetes-prevention initiatives.",
+      "style": "Measured, professional opening. Slight pause before 'pushback'—acknowledging the difficulty without defensiveness. Steady, unbothered tone. The voice of someone accustomed to complicated policy work.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "内面に葛藤を抱える方も、相談に来ますか。",
+      "en": "Do people come to you carrying personal conflicts about it too?",
+      "style": "Thoughtful, genuine inquiry. Lean slightly forward in tone. Not probing aggressively—searching for understanding. A student truly listening, not performing interest.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。量的に見ると、相談件数は増えています。",
+      "en": "Yes. In terms of numbers, the consultation requests have been increasing.",
+      "style": "Shift to factual briefing. Flat, informative delivery—the evidence matters more than emotion. Clinical precision. A slight breath before the number to ground it.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "外部の干渉、押し付けにならないようにする見地、大事ですよね。",
+      "en": "That balance—between helping early and not overstepping—that's what makes it so important, isn't it?",
+      "style": "Quiet recognition dawning. Respectful, almost tentative phrasing. Not lecturing back—confirming something Takeda already understands. Warm but humble.",
+      "mood": "respectful_recognition"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "末期になる前に手を打つ。協力を仰ぐ姿勢です。",
+      "en": "Exactly. We act before things become critical. The stance is always to request partnership, not impose.",
+      "style": "Firm nod in the voice. The operating philosophy crystallized into one sentence. Quiet authority—this is what guides the work. Slight emphasis on 'partnership'.",
+      "mood": "grounded_principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you for taking the time.",
+      "style": "Respectful close. Small, genuine. Not effusive—a quiet bow in the voice. The gratitude of someone who's learned something.",
+      "mood": "grateful"
+    }
+  ]
+}

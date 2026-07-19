@@ -1,0 +1,65 @@
+{
+  "id": "conv_03237",
+  "context": "Browsing the brand store during the sale",
+  "purpose": "Shop the sale; teach ブランド/キャンペーン/スタイル/妙/勝手/集合",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "ブランド",
+    "キャンペーン",
+    "スタイル",
+    "妙",
+    "勝手",
+    "集合"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sakura_teen",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_162)",
+    "generated_at": "2026-05-29T16:43:00.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。今、ブランド全品キャンペーン中です。",
+      "en": "Welcome. All brand items are on promotion now.",
+      "style": "bright shop clerk greeting cheerfully, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わあ、お得！ このコート、スタイルよく見える。",
+      "en": "Wow, a steal! This coat makes the figure look good.",
+      "style": "delighted shopper admiring herself, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "色が妙に派手かな…でも素敵。",
+      "en": "The color’s oddly bold… but lovely.",
+      "style": "considering friend weighing it aloud, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勝手に似合うって決めつけないでよ。",
+      "en": "Don’t just decide it suits me on your own.",
+      "style": "playfully protesting friend teasing back, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "集合のお時間まで、ごゆっくりどうぞ。",
+      "en": "Take your time until your meet-up.",
+      "style": "gracious clerk inviting them to linger"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとう。じっくり選ぶね。",
+      "en": "Thanks. We’ll choose carefully.",
+      "style": "appreciative friend settling in to browse"
+    }
+  ]
+}

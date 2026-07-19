@@ -1,0 +1,61 @@
+{
+  "id": "conv_01771",
+  "context": "Yumiko shows Hina-young her vegetable garden.",
+  "purpose": "Grandmother sharing gardening with teen niece.",
+  "ambient": "garden_summer_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "畑",
+    "野菜",
+    "土",
+    "収穫"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_089)",
+    "generated_at": "2026-05-27T07:46:48.868Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひな、見て、トマト赤くなった!",
+      "en": "Hina, look — the tomatoes have turned red!",
+      "style": "Warm opening, almost conspiratorial delight. Soft proud tone. Inviting her to share the moment. Slight lift on the exclamation, like she's been waiting to show her this.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "わあ、本当に綺麗!",
+      "en": "Wow, they're really beautiful!",
+      "style": "Genuine awe, unguarded. Bright and open. The voice of a child who has just seen something grow and connected it to her own hands. Small gasp of wonder on the opening.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "土、いいから、よく育つの。",
+      "en": "The soil here is good — that's why they grow so well.",
+      "style": "Quiet teacher's voice, not lecturing. Pride in the care she's taken. Matter-of-fact kindness. Pause before the second clause, letting Hina land on the cause and effect herself.",
+      "mood": "satisfied_teaching"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "収穫、手伝う?",
+      "en": "Will you help me harvest them?",
+      "style": "Eager and reaching. Brightens on the question. The voice asking not just for hands but for continued attention and togetherness. Open, hopeful.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう、嬉しいわ。",
+      "en": "Thank you — that makes me really happy.",
+      "style": "Tender, genuine gratitude. Soft and steady. The voice of someone who feels seen. Not performing emotion, but letting it settle in the space between them. Slight warmth on the final word.",
+      "mood": "deeply_grateful"
+    }
+  ]
+}

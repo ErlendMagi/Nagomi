@@ -1,0 +1,78 @@
+{
+  "id": "conv_04286",
+  "context": "A boss reviews quarterly metrics with his manager",
+  "purpose": "Teach: 指数/媒体/正規/相対/保持/バックナンバー/チャート/マクロ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "指数",
+    "媒体",
+    "正規",
+    "相対",
+    "保持",
+    "バックナンバー",
+    "チャート",
+    "マクロ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の売上チャートを見ると、主要指数が前期比で明らかに落ち込んでいるな。",
+      "en": "Looking at this quarter's sales chart, the main index has clearly dropped compared to last quarter.",
+      "style": "Authoritative boss opening, slightly stern and analytical tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、特に広告媒体への支出が膨らんだ割に、効果は弱かったように思います。",
+      "en": "Yes, despite the swollen spending on advertising media, the effect seems to have been weak.",
+      "style": "Polite manager replying with measured, formal business Japanese."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "正規の販売ルートと外注ルートの相対的な伸び率はどうなっている?",
+      "en": "How do the relative growth rates of our regular sales channels and outsourced channels compare?",
+      "style": "Direct probing question, expecting a concrete numerical answer."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "正規ルートは現状保持といったところですが、外注側はおよそ三割減でして、厳しい数字です。",
+      "en": "The regular route is holding steady, but the outsourced side is down roughly thirty percent, which is harsh.",
+      "style": "Cautious, slightly apologetic delivery softening bad news."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去のバックナンバーの報告書も取り出して、傾向を改めて確認してくれ。",
+      "en": "Pull out the back numbers of the past reports too, and re-check the overall trend.",
+      "style": "Issuing a clear, concise instruction with quiet authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。三年分を並べて、適宜要点を抜粋した資料をご用意いたします。",
+      "en": "Understood. I'll prepare materials covering three years, with key points appropriately extracted.",
+      "style": "Crisp acknowledgment, dutiful subordinate confirming the task."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それと、市場全体のマクロな動きが分かる指数もあれば一緒に添えてくれ。",
+      "en": "Also, if there are indices that show overall macro market movements, attach those as well.",
+      "style": "Adding follow-up requirement, deliberate and forward-looking tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。来週の懇談会までに、見やすいチャート形式でまとめてご提出いたします。",
+      "en": "Certainly. I will compile it in an easy-to-read chart format before next week's meeting.",
+      "style": "Formal closing commitment with humble keigo register."
+    }
+  ]
+}

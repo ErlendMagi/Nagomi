@@ -1,0 +1,78 @@
+{
+  "id": "conv_04030",
+  "context": "Two coworkers spec out lab gear for a new project",
+  "purpose": "Teach: メモリ/スピーカー/計測/走行/適応/バイオ/有機/コア",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリ",
+    "スピーカー",
+    "計測",
+    "走行",
+    "適応",
+    "バイオ",
+    "有機",
+    "コア"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "新プロジェクトのラボ機材、ざっと洗い出してみたんだけど、まず計測装置は最新型を入れたい。",
+      "en": "I roughly listed the lab gear for the new project — first, I want to get the latest measurement devices.",
+      "style": "Workplace planning tone, casual but focused with a colleague."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "賛成。あと解析用PCもコア数の多いやつにしないと、シミュレーションが回らないと思う。",
+      "en": "Agreed. And the analysis PCs need lots of cores, otherwise the simulations won't run.",
+      "style": "Collaborative female office voice offering technical input pragmatically."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かに。メモリも64GB以上積んでおこう。前のプロジェクトで足りなくて泣いたから。",
+      "en": "True. Let's load them with at least 64GB of memory — last project we suffered from not having enough.",
+      "style": "Recalling past pain points, slightly self-deprecating workplace humor."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それから走行試験用の小型ロボット、適応制御のテストに使いたいから二台欲しい。",
+      "en": "Also, two small robots for driving tests — I want to use them for adaptive control experiments.",
+      "style": "Listing concrete requests with technical justification, even cadence."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "二台ね。バイオ系のサンプルも扱うって聞いたけど、有機溶媒対応のドラフトもいる？",
+      "en": "Two units, got it. I heard we're handling biological samples — do we need a fume hood rated for organic solvents?",
+      "style": "Checking scope by asking a clarifying technical question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、必須。あとミーティング用にBluetoothスピーカーも一個欲しい、リモート会議で聞こえないって苦情多くて。",
+      "en": "Yes, absolutely necessary. And I want one Bluetooth speaker for meetings — people keep complaining they can't hear on remote calls.",
+      "style": "Adding practical workplace concerns alongside research equipment."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解。じゃあ今挙げたのを見積もり依頼に回すよ。予算オーバーしたら相談しよう。",
+      "en": "Got it. I'll send what we listed to procurement for quotes. If we go over budget we'll regroup.",
+      "style": "Wrapping up with clear next step, decisive but open."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとう、助かる。来週までに揃えば理想だね。",
+      "en": "Thanks, that helps. Ideally everything's lined up by next week.",
+      "style": "Closing the conversation politely with a soft deadline."
+    }
+  ]
+}

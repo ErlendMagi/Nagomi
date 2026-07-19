@@ -1,0 +1,75 @@
+{
+  "id": "conv_02651",
+  "context": "Saito explains a treatment to a patient.",
+  "purpose": "WIDENED SCENARIO: medical explanation; clinical vocabulary (医師/配慮/下げ/上げる/終わる) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "医師",
+    "配慮",
+    "下げ",
+    "上げる",
+    "終わる"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_133)",
+    "generated_at": "2026-05-29T13:34:50.662Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "先生、血圧が高いんです。",
+      "en": "Doctor, my blood pressure is high.",
+      "style": "worried office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医師として、少し下げたいですね。",
+      "en": "As your doctor, I'd like to lower it a bit.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "薬で、下げるんですか?",
+      "en": "Do you lower it with medicine?",
+      "style": "curious office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まず、運動で下げてみましょう。",
+      "en": "First, let's try lowering it with exercise.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "効果が上がるまで、どのくらい?",
+      "en": "How long until the effect rises?",
+      "style": "attentive office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "効果が上がるには、数週間かかります。",
+      "en": "It takes a few weeks for the effect to rise.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "治療は、いつ終わるんですか?",
+      "en": "When does the treatment end?",
+      "style": "concerned office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医師として、丁寧に配慮しながら進めます。",
+      "en": "As your doctor, I'll proceed with careful consideration.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

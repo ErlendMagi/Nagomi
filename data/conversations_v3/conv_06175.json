@@ -1,0 +1,86 @@
+{
+  "id": "conv_06175",
+  "context": "A doctor discusses regional health",
+  "purpose": "Teach: 鳴き声/獲物/一手/一等/部材/校庭/自販機/大河",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "鳴き声",
+    "獲物",
+    "一手",
+    "一等",
+    "部材",
+    "校庭",
+    "自販機",
+    "大河"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_310 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者の咳の鳴き声、診断の参考になります。",
+      "en": "Ren, the way a patient coughs tells us a lot. It helps with the diagnosis.",
+      "style": "Clear, steady delivery. No rush. Warm professorial tone—sharing knowledge with someone genuinely interested. Light emphasis on 'cough' as a diagnostic tool. Clinical but human.",
+      "mood": "instructive_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染源を獲物のように追跡、興味深いです。",
+      "en": "So you're hunting down the infection source like tracking prey. That's interesting.",
+      "style": "Quiet enthusiasm. Slight lean forward. Noticing Ren's framing and appreciating it. Half-amused, half-genuine intellectual interest. Not performing—thinking aloud.",
+      "mood": "intrigued"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。治療の一手目、迅速に。",
+      "en": "Yes. And the treatment starts right away—no hesitation.",
+      "style": "Firm but not harsh. Conviction on 'starts right away.' Steady eye contact. The voice of someone who has seen delays cost time. Direct and grounded.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一等地の医院、地域密着型ですね。",
+      "en": "Being in a central location like this, you're really embedded in the community.",
+      "style": "Observation more than question. Thoughtful pause before 'embedded.' Ren testing his understanding. Respectful curiosity—sensing there's something deliberate in her choice of placement.",
+      "mood": "thoughtful_probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療機器の部材、品質管理、徹底しています。",
+      "en": "Equipment materials, quality control—we don't cut corners on any of it.",
+      "style": "Matter-of-fact. Quiet pride underneath. Each phrase lands with weight. No need to oversell. Someone who believes standards keep people safe.",
+      "mood": "rigorous"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "校庭周辺の小児医療、需要、ありますか。",
+      "en": "There's real demand for pediatric care in this area, especially around the schools.",
+      "style": "Acknowledging the question seriously. Slight warmth—Ren is asking the right things. Natural pace, no hesitation. The answer of someone who has thought about what the neighborhood needs.",
+      "mood": "grounded_practical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。自販機の飲料、子供への糖分問題、注意喚起しています。",
+      "en": "And the vending machines—the sugar content in what kids drink—we make sure parents are aware of that.",
+      "style": "Shift to concern, but delivered calmly. Not preachy. A detail she cares about but doesn't dramatize. Steady, almost conversational. The weight is in the care, not the voice.",
+      "mood": "attentive_caring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大河の流域、水質医療連携、別章で扱いますね。",
+      "en": "The water quality in the river basin and how that connects to health—that's a separate conversation. We'll get to that.",
+      "style": "Closing thought, reflective. Slight trailing off. Ren is learning she thinks in layers. Gentle, reassuring—there's room for complexity. The voice of someone with depth still untested.",
+      "mood": "contemplative_expansive"
+    }
+  ]
+}

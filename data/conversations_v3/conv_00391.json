@@ -1,0 +1,83 @@
+{
+  "id": "conv_00391",
+  "context": "Tatsuya visits city to see Dr. Saito about a small persistent back pain. Country uncle meets city doctor.",
+  "purpose": "medical visit — rural patient and city professional",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "腰",
+    "痛い",
+    "農業",
+    "無理",
+    "注意"
+  ],
+  "cast": [
+    "saito_doctor",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_020)",
+    "generated_at": "2026-05-26T22:35:10.029Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "達也さん、今日はどうされましたか。",
+      "en": "Tatsuya-san, what brings you in today?",
+      "style": "Doctor warm professional gentle careful-opening-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-gentle"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "腰がな、最近、ずっと痛うてな。",
+      "en": "Back, lately, has been hurting.",
+      "style": "Country gruff warm honest direct-rural-warm sharing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gruffly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "農作業、ずっとされてますもんね。",
+      "en": "You've been farming all this time, after all.",
+      "style": "Doctor warm professional gentle understanding-warm acknowledging, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-understanding"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん、もう、若くないわ。",
+      "en": "Yeah, not young anymore.",
+      "style": "Country gruff warm sincere honest-laughing-warm self-aware, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "self-aware-laughing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理しないことが大事。今日、ちゃんと、診察しますね。",
+      "en": "Not pushing matters. Today, I'll examine you properly.",
+      "style": "Doctor warm gentle firm careful-professional-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "firmly-careful"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "すまんな、こんなとこまで来てもろて。",
+      "en": "Sorry — for coming all the way here.",
+      "style": "Country gruff warm humble apologetic-warm grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "humbly-grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえいえ。お薬と、生活の注意点、ちゃんとお伝えします。",
+      "en": "No, no. Medicine and lifestyle tips — I'll tell you properly.",
+      "style": "Doctor warm professional gentle generous-warm closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-professional"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "気を付けるわ。先生、ほんま助かります。",
+      "en": "I'll be careful. Doctor, truly saves me.",
+      "style": "Country gruff warm sincere closing-grateful-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-grateful"
+    }
+  ]
+}

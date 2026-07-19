@@ -1,0 +1,84 @@
+{
+  "id": "conv_04166",
+  "context": "A doctor walks a dad through his annual physical results",
+  "purpose": "Teach: インフルエンザ/アルコール/脂肪/推定/進展/重点/喫煙/美しく",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インフルエンザ",
+    "アルコール",
+    "脂肪",
+    "推定",
+    "進展",
+    "重点",
+    "喫煙",
+    "美しく"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_210 workflow w7ku8aw67)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "佐藤さん、今年の健康診断の結果ですが、まず体脂肪率が少し高めに出ていますね。",
+      "en": "Mr. Sato, regarding this year's physical results, first, your body fat percentage came out a bit on the high side.",
+      "style": "Calm professional doctor easing into the consultation gently."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "やっぱりですか…去年から進展がないどころか、悪化してる感じですね。",
+      "en": "I figured as much... not only is there no progress since last year, it feels like it's gotten worse.",
+      "style": "Sheepish middle-aged father acknowledging his slipping health habits."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、推定では内臓脂肪も標準値を超えています。今回は生活習慣の見直しに重点を置きましょう。",
+      "en": "Yes, by our estimates your visceral fat also exceeds the standard range. This time let's place emphasis on reviewing your lifestyle habits.",
+      "style": "Methodical doctor framing concrete priorities with measured authority."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "やっぱりアルコールですよね。週に何度かは晩酌してしまって…",
+      "en": "It's the alcohol, isn't it. I end up having a drink with dinner several times a week...",
+      "style": "Tired dad confessing his evening drinking habit with mild regret."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それと喫煙のほうも、できれば本数を減らしていただきたいですね。血管への負担が大きいので。",
+      "en": "And as for smoking too, I'd like you to cut down the number if possible. The burden on your blood vessels is significant.",
+      "style": "Gentle but firm doctor delivering necessary lifestyle warnings clearly."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかりました。妻にもとうとう怒られましたし、今年こそ本気で減らします。",
+      "en": "Understood. My wife finally got angry with me too, so this year I'll seriously cut back.",
+      "style": "Resigned husband admitting domestic pressure pushed him toward change."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ぜひお願いします。あと、そろそろ寒くなるのでインフルエンザの予防接種も受けておいてください。",
+      "en": "Please do. Also, it's getting cold soon, so please go ahead and get your influenza vaccination as well.",
+      "style": "Doctor pivoting smoothly to seasonal preventive care reminders."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、家族みんなで受けに来ます。娘が最近、健康になって肌も美しくなったって自慢してて。",
+      "en": "Yes, the whole family will come get it. My daughter's been bragging lately that she's gotten healthier and her skin has become beautiful.",
+      "style": "Warm father shifting tone, proud of his daughter's wellness journey."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは何よりです。お父さんも娘さんに負けないように、半年後の再検査を楽しみにしていますよ。",
+      "en": "That's wonderful to hear. Dad, so as not to lose to your daughter, I'll look forward to your follow-up exam in six months.",
+      "style": "Encouraging doctor closing with light humor and a clear next step."
+    }
+  ]
+}

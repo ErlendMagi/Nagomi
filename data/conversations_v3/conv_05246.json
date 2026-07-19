@@ -1,0 +1,78 @@
+{
+  "id": "conv_05246",
+  "context": "A boss reviews a regulatory-strategy proposal with his manager",
+  "purpose": "Teach: 多用/却下/零細/撤廃/利権/啓蒙/弾力/類型",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "多用",
+    "却下",
+    "零細",
+    "撤廃",
+    "利権",
+    "啓蒙",
+    "弾力",
+    "類型"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジくん、新しい規制改革の提案、概要を聞かせてくれ。",
+      "en": "Kenji, run me through the gist of the new regulatory reform proposal.",
+      "style": "Crisp boss opener, leafing through a binder."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。零細企業向けの優遇税制を撤廃するか、弾力運用に切り替えるかが争点です。",
+      "en": "Yes. The fight is over whether to abolish the tax break for small firms, or shift to flexible application.",
+      "style": "Polished manager briefing, structured cadence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "撤廃案、過去にも検討されたが利権絡みで却下されてきた。",
+      "en": "The abolition plan was reviewed before but kept getting shot down over vested interests.",
+      "style": "Veteran boss recalling history, measured tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今回は過去の類型を整理して、啓蒙資料として現場に配布する予定です。",
+      "en": "This time we're sorting the past patterns and distributing them as educational materials to the field.",
+      "style": "Confident proposal pitch."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "専門用語を多用しすぎると、現場が読まないぞ。",
+      "en": "If you overuse jargon, the field just won't read it.",
+      "style": "Stern boss correction, leaning back."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。図解中心にして、弾力的な表現に書き直します。",
+      "en": "Understood. We'll make it figure-centric and rewrite with more flexible phrasing.",
+      "style": "Receptive nod, jotting notes."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それでいい。零細事業者の声を直接拾う場も併設しよう。",
+      "en": "Good. Let's also set up a forum to gather small-business voices directly.",
+      "style": "Decisive closing direction, taps the table."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。来週上旬までに修正版をお持ちします。",
+      "en": "Got it. I'll bring the revised version by early next week.",
+      "style": "Crisp respectful sign-off."
+    }
+  ]
+}

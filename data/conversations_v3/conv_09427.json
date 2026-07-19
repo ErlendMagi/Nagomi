@@ -1,0 +1,86 @@
+{
+  "id": "conv_09427",
+  "context": "Two managers chat",
+  "purpose": "Teach: 取りまとめ/ファックス/激励/主査/次官/母体/個室/衣服",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "取りまとめ",
+    "ファックス",
+    "激励",
+    "主査",
+    "次官",
+    "母体",
+    "個室",
+    "衣服"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_473 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "プロジェクトの意見の取りまとめを今日中にお願いね",
+      "en": "Could you pull together the project feedback by end of day?",
+      "style": "Efficient, matter-of-fact. Light rising inflection on the question—delegating, not commanding. Quick tempo. Assumes competence.",
+      "mood": "business_efficient"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地方支社にはファックスでも報告致します",
+      "en": "Yes—I'll collect it and send a report to the regional offices by fax as well.",
+      "style": "Prompt, reassuring. Slight emphasis on 「fax」showing he's already planning ahead. Measured, professional. A nod in his voice.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "新人への激励のメッセージを書きましょう",
+      "en": "And let's write an encouragement message for the new hire.",
+      "style": "Warm shift in tone. Inclusive—「let's」, not command. Gentle opening, slightly slower than the first task. Personal concern beneath the business.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。主査クラスの定例会を準備します",
+      "en": "Understood—I'll get the regular managers' meeting set up.",
+      "style": "Steady, responsive. No hesitation. Professional but not stiff. The rhythm of someone keeping several plates spinning.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "元次官の講演会の招待状を発送しましょう",
+      "en": "We should send out invitations for the former vice minister's lecture.",
+      "style": "Slightly formal register—recognizing the importance of the event. Measured pace. Collaborative tone with 「we」. Clear but not hurried.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会社母体の組織図を更新します",
+      "en": "Yes—I'll also update the organizational chart for the parent company.",
+      "style": "Efficient acknowledgment. Quick, organized. Shows he's tracking multiple threads. Professional and thorough. No strain in the delivery.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "役員用の個室を予約しましょう",
+      "en": "Let's reserve the executive conference room.",
+      "style": "Direct but collaborative. Calm, efficient tempo. The tone of someone confident in execution. No flourish—just necessary.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員衣服のクリーニング契約を結びます",
+      "en": "Got it—I'll finalize the staff uniform cleaning contract.",
+      "style": "Closing note—slightly conclusive in tone. Affirming, organized. A touch of professional satisfaction. Clear and complete.",
+      "mood": "settled"
+    }
+  ]
+}

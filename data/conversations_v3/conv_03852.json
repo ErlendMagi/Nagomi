@@ -1,0 +1,78 @@
+{
+  "id": "conv_03852",
+  "context": "A couple plans a road trip and discusses gas prices",
+  "purpose": "Teach: まずい/済む/貼り/カタログ/デート/ガソリン/返す/願う",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "まずい",
+    "済む",
+    "貼り",
+    "カタログ",
+    "デート",
+    "ガソリン",
+    "返す",
+    "願う"
+  ],
+  "cast": [
+    "mei_romantic",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_194 workflow weeyeokki)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "ねえお父さん、彼と来週デートで海までドライブしたいんだけど、車貸してくれない?",
+      "en": "Hey Dad, I want to drive to the ocean with him on our date next week — can I borrow the car?",
+      "style": "Sweet coaxing daughter voice, slightly playful, rising hopeful tone at the end."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "海までか。最近ガソリン代が高くて、ちょっとまずいんだよなあ。",
+      "en": "All the way to the ocean, huh. Gas prices have been high lately — it's a bit rough.",
+      "style": "Warm fatherly tone with a thoughtful sigh, mild concern, slightly lower register."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えー、満タンで済むくらいなら出すよ?どれくらいかかるの?",
+      "en": "Eh, if one full tank is enough I'll cover it — about how much would it cost?",
+      "style": "Surprised girlish reaction, leaning in with genuine curiosity, slight pleading lilt."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "片道なら一回の給油で済むけど、往復だと二回は入れないと足りないな。",
+      "en": "One way's enough on a single fill-up, but round trip you'll need to refuel twice.",
+      "style": "Calm calculating voice, practical and measured, gentle and instructive."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あ、冷蔵庫に貼ってあった燃費のいい車のカタログ、あれ参考になるかな?",
+      "en": "Oh, that car catalog with good mileage you stuck on the fridge — would that help?",
+      "style": "Bright problem-solving tone, cheerful and cooperative, brightening mid-sentence."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ああ、あのカタログな。次の車の参考にしようと貼り付けといたんだ。",
+      "en": "Ah, that catalog. I stuck it up there for reference when we get the next car.",
+      "style": "Nostalgic relaxed dad voice, slight chuckle, warm and reminiscent."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "じゃあ給油代はちゃんと返すから、貸してくれるとすごく嬉しいな。",
+      "en": "Then I'll pay you back for the gas properly, so I'd be really happy if you'd lend it to me.",
+      "style": "Tender coaxing tone, soft and sincere, affectionate daughter charm throughout."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかったよ。安全運転で、無事に帰ってきてくれることを願うばかりだ。",
+      "en": "Alright. I just hope you drive safely and come back home in one piece.",
+      "style": "Resolved fatherly voice, gentle smile audible, reassuring and protective tone."
+    }
+  ]
+}

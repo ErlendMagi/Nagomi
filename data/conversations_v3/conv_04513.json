@@ -1,0 +1,78 @@
+{
+  "id": "conv_04513",
+  "context": "A boss reviews an IT upgrade plan with his manager",
+  "purpose": "Teach: リフォーム/アップデート/グーグル/ウィンドウ/ビット/スタンダード/フォト/識別",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リフォーム",
+    "アップデート",
+    "グーグル",
+    "ウィンドウ",
+    "ビット",
+    "スタンダード",
+    "フォト",
+    "識別"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期のIT予算だが、社内システムのリフォームを本格的に検討したい。",
+      "en": "About this term's IT budget, I want to seriously consider a full overhaul of our internal systems.",
+      "style": "Authoritative boss opening a serious budget discussion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、まず各端末のOSを最新版にアップデートする必要があります。",
+      "en": "Yes, first we need to update each terminal's OS to the latest version.",
+      "style": "Respectful subordinate presenting the first agenda item."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現在使っているグーグルのサービスとの互換性は大丈夫なのか?",
+      "en": "Is compatibility with the Google services we currently use going to be fine?",
+      "style": "Boss probing for technical risk with a direct question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "問題ありません。ただ、古いウィンドウズ機は32ビット版なので入れ替えが必要です。",
+      "en": "No problem. However, the old Windows machines are 32-bit, so replacement is required.",
+      "style": "Engineer calmly flagging a hardware limitation with specifics."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。業界スタンダードに合わせて統一した方が後々楽だな。",
+      "en": "I see. Aligning with industry standard will make things easier down the road.",
+      "style": "Boss thinking aloud and endorsing standardization."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それから、営業部から要望のあったフォト編集ソフトの導入も検討しています。",
+      "en": "Also, we're considering introducing the photo editing software requested by the sales department.",
+      "style": "Manager smoothly transitioning to a secondary department request."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは助かる。あと、入館時の社員識別システムも一緒に刷新できないか?",
+      "en": "That'll be a help. Also, can we renew the employee identification system for entry at the same time?",
+      "style": "Boss adding a related scope item with practical motivation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "可能です。来週までに概算見積もりをまとめてご報告いたします。",
+      "en": "It's possible. I'll put together a rough estimate and report back by next week.",
+      "style": "Subordinate closing the meeting with a clear deliverable commitment."
+    }
+  ]
+}

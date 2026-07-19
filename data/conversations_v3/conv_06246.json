@@ -1,0 +1,86 @@
+{
+  "id": "conv_06246",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: リポート/フェーズ/読み取り/近づける/停め/遣っ/戻さ/増えれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リポート",
+    "フェーズ",
+    "読み取り",
+    "近づける",
+    "停め",
+    "遣っ",
+    "戻さ",
+    "増えれ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_314 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "週次リポート、明日午前中に。",
+      "en": "Weekly report by tomorrow morning.",
+      "style": "Clipped, direct. Quiet authority—no volume needed. The tone of someone who expects compliance without having to enforce it. Eyes stay level.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。プロジェクト、第二フェーズ突入です。",
+      "en": "Understood. We're moving into the project's second phase.",
+      "style": "Steady, efficient. The rhythm of a report delivered to someone listening carefully. No apology, no elaboration—just the facts, clearly. Slight forward lean.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "数字の読み取り、丁寧にしろ。",
+      "en": "Read those numbers carefully.",
+      "style": "Firm but not raised. The emphasis lands on the care required, not blame. A brief pause before the instruction—giving weight to what's being asked. Shoulders stay settled.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。顧客に近づける広告手法、検討中です。",
+      "en": "Understood. We're currently exploring advertising approaches that bring us closer to the customer.",
+      "style": "Steady delivery of progress. The tone of someone who has done the work and wants to show it. No hesitation—confidence in what's being reported. Slight dip at the end of the sentence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員、配送遅延を停めないよう、急がせろ。",
+      "en": "Keep the team moving so we don't fall behind on delivery.",
+      "style": "Direct instruction wrapped in pragmatism. Not harsh—the tone of someone stating what needs to happen. A beat before the second part, letting it land. Measured breath.",
+      "mood": "urgent_controlled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。判断、若手にも遣ってもらいます。",
+      "en": "Understood. We'll have the junior staff take on some of the decision-making too.",
+      "style": "Responsive and forward-thinking. The tone of someone who has already thought ahead. A slight lift on the second part—showing initiative beyond just executing orders. Engaged posture.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去案件、白紙に戻さず、修正、進めろ。",
+      "en": "Don't scrap past work. Revise it and move forward.",
+      "style": "Pragmatic authority. The instruction carries the weight of experience—don't waste what's already been done. A deliberate pause between the two parts. Voice stays level and even.",
+      "mood": "seasoned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事業が増えれば、人員も増やします。",
+      "en": "Understood. As business grows, we'll grow the team to match.",
+      "style": "Confident closing statement. The tone of someone wrapping up with a forward-looking commitment. Steady rhythm, no hesitation. A slight settling into the chair at the end.",
+      "mood": "committed"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01536",
+  "context": "Kenji and Ren go to the music store; Kenji buys a small guitar.",
+  "purpose": "Mentor and protégé shopping for an instrument.",
+  "ambient": "music_store_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "楽器",
+    "ギター",
+    "音色",
+    "弾く"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_077)",
+    "generated_at": "2026-05-27T06:22:53.509Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "このギターの音色、ええなぁ。",
+      "en": "This guitar has a really nice tone to it.",
+      "style": "Warm, unhurried appreciation. Soft attack on the opening. Kansai lilt throughout — not theatrical, just natural. Lingers gently on the sound quality, like he's discovering it as he speaks.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、温かい音ですね。",
+      "en": "Yes — it really does have a warm quality.",
+      "style": "Quiet agreement, not performing. Soft, genuine. Small nod in the voice. He's observing alongside Kenji, not trying to impress — just noticing the same thing.",
+      "mood": "agreeing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もう一回、弾いてみよか。",
+      "en": "Let me play it one more time.",
+      "style": "Gentle, almost to himself. Kansai warmth without showiness. Quiet focus settling in. Hands already moving — the words are almost afterthought to the action.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "健司さん、上手ですね。",
+      "en": "You're really good at this, Kenji-san.",
+      "style": "Soft, sincere admiration. No flattery in it — just straight observation from someone not used to compliments. Small pause before the name, like he's being careful to respect the moment.",
+      "mood": "genuine_impressed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ぼちぼちや、趣味やから。",
+      "en": "So-so — it's just a hobby for me.",
+      "style": "Kansai self-deprecation without apology. Light, warm deflection. The modesty is real but not weighty. Eyes probably down on the guitar, fingers moving gently.",
+      "mood": "humble"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "楽器、買うんですか?",
+      "en": "Are you thinking of buying it?",
+      "style": "Curious, open question. Soft, no pressure. Like he's genuinely wondering what Kenji's next move is — not probing, just asking.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、これに決めた。",
+      "en": "Yeah — I've made up my mind on this one.",
+      "style": "Decisive but unhurried. Kansai warmth carrying quiet certainty. The decision is settled. Small smile in the voice — contentment at having found the right thing.",
+      "mood": "content_decided"
+    }
+  ]
+}

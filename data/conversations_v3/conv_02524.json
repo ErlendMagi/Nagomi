@@ -1,0 +1,75 @@
+{
+  "id": "conv_02524",
+  "context": "Kenji helps Yuki navigate a company web portal.",
+  "purpose": "WIDENED SCENARIO: web help; internet vocabulary (アクセス/アップ/クリック/ホームページ/トップ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "アクセス",
+    "アップ",
+    "クリック",
+    "ホームページ",
+    "トップ"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_127)",
+    "generated_at": "2026-05-29T13:04:43.282Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "社内のホームページに、入れないの。",
+      "en": "I can't get into the internal homepage.",
+      "style": "puzzled office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ここから、アクセスしてみて下さい。",
+      "en": "Try accessing from here.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "アクセスしたら、トップが開きました。",
+      "en": "After accessing, the top page opened.",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "トップのメニューを、クリックして下さい。",
+      "en": "Click the menu on the top page.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "クリックしたら、書類が出ました。",
+      "en": "When I clicked, the documents appeared.",
+      "style": "engaged office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "新しい書類は、ここにアップして下さい。",
+      "en": "Upload new documents here.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "アップしたら、ホームページに反映された。",
+      "en": "After uploading, it showed on the homepage.",
+      "style": "satisfied office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "これで、トップから何でも探せますよ。",
+      "en": "Now you can find anything from the top page.",
+      "style": "reassuring office man voice, soft warm closing throughout"
+    }
+  ]
+}

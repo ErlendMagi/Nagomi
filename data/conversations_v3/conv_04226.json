@@ -1,0 +1,84 @@
+{
+  "id": "conv_04226",
+  "context": "A senior trains a new hire on internal CMS rules",
+  "purpose": "Teach: ペーパー/ポリシー/フレーム/ドライバー/転載/改行/文字数/全角",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ペーパー",
+    "ポリシー",
+    "フレーム",
+    "ドライバー",
+    "転載",
+    "改行",
+    "文字数",
+    "全角"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "これがうちのCMSの編集ポリシーをまとめた資料だ。最初に目を通しておいてくれ。",
+      "en": "This is the document summarizing our CMS editorial policy. Go through it first.",
+      "style": "Calm senior tone, instructive but not condescending, professional workplace register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ええと…基本はペーパーレスで、紙の資料は配らない方針なんですね。",
+      "en": "Yes. Um... so basically it's paperless, and we don't hand out printed materials, right?",
+      "style": "Slightly hesitant new hire, polite, processing information aloud carefully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。あと外部記事の無断転載は絶対NGだから、引用元は必ず明記して。",
+      "en": "Right. And unauthorized reposting of external articles is absolutely forbidden, so always cite sources.",
+      "style": "Firm warning tone, matter-of-fact, emphasizing the rule without sounding harsh."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。本文の文字数って、何か制限ありますか?",
+      "en": "Understood. Is there any limit on the body text's character count?",
+      "style": "Curious question from junior, businesslike and practical inquiry."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "見出しは三十字以内。本文は改行を入れて、一段落あたり長くなりすぎないようにね。",
+      "en": "Headlines within thirty characters. For the body, insert line breaks so paragraphs don't get too long.",
+      "style": "Clear instructional delivery, breaking rules down step by step for the trainee."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "数字とかアルファベットは半角ですか?それとも全角?",
+      "en": "Should numbers and alphabet letters be half-width? Or full-width?",
+      "style": "Detail-oriented follow-up question, eager to clarify formatting standards."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "原則半角。ただし固有名詞だけ全角を使う例外もある。あとデザインのフレームはテンプレから外さないこと。",
+      "en": "Half-width as a rule. But proper nouns are an exception where full-width is used. Also, don't deviate from the template frame.",
+      "style": "Layered explanation with caveat, senior conveying nuanced internal conventions."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。画像のアップロード用ドライバーって、もう僕のPCに入ってますか?",
+      "en": "Got it. Is the driver for image uploads already installed on my PC?",
+      "style": "Practical logistics question, mildly concerned about tool readiness for tasks."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "入れといた。困ったら俺か田中さんに聞けばいい。最初は誰でも戸惑うから、焦らず慣れていこう。",
+      "en": "I installed it for you. If you get stuck, just ask me or Tanaka-san. Everyone struggles at first, so take your time getting used to it.",
+      "style": "Warm reassuring closer, senior shifting from strict to supportive mentor mode."
+    }
+  ]
+}

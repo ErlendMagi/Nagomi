@@ -1,0 +1,72 @@
+{
+  "id": "conv_05488",
+  "context": "A uni intern interviews a manager about hiring",
+  "purpose": "Teach: 申込み/選抜/院長/アナリスト/アドバイザー/部数/直行/配備",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込み",
+    "選抜",
+    "院長",
+    "アナリスト",
+    "アドバイザー",
+    "部数",
+    "直行",
+    "配備"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "貴社の申込みプロセス、教えていただけますか。",
+      "en": "Could you walk me through your application process?",
+      "style": "Careful, respectful opening. Slight lean-in. Quiet pace—not rushed, genuinely interested in the answer. A touch of nervous energy held back.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。書類選抜、面接、最後にアドバイザー面談です。",
+      "en": "Of course. Document review, an interview, and then a final advisor meeting.",
+      "style": "Clear and organized. Light emphasis on each stage like she's done this before. Warm but professional—answering well-prepared questions with practiced ease.",
+      "mood": "composed_helpful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "院長経験者も、アナリストとして関わっているんですか。",
+      "en": "So former directors also work as analysts in this process?",
+      "style": "Thoughtful pause before the question. Lean forward slightly. Sharp focus—he's testing to see if there's depth here. Genuine curiosity, not skepticism.",
+      "mood": "curious_probing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。新店舗の直行配備、彼らの助言で決まります。",
+      "en": "Yes. They advise on staffing decisions for new locations—who goes where matters.",
+      "style": "Direct, with quiet conviction. A small breath before the explanation. Matter-of-fact tone that suggests this is how things actually work, not theory.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ガイドブックの部数、限定ですか。",
+      "en": "Is there a limited print run for the guidebook?",
+      "style": "Question tilts slightly upward—genuine wondering, not testing. Steady eye contact. He's asking because he wants to know, not to probe further.",
+      "mood": "practical_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、毎期見直しています。",
+      "en": "Yes. We review and adjust it each period based on what we learn.",
+      "style": "Confident and measured. A small nod of recognition—like she appreciates the specificity of the question. Warm but not effusive.",
+      "mood": "assured"
+    }
+  ]
+}

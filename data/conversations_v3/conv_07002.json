@@ -1,0 +1,86 @@
+{
+  "id": "conv_07002",
+  "context": "Two friends chat",
+  "purpose": "Teach: コック/小鳥/泳ぎ/電球/病室/好き嫌い/真っ直ぐ/昼飯",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "コック",
+    "小鳥",
+    "泳ぎ",
+    "電球",
+    "病室",
+    "好き嫌い",
+    "真っ直ぐ",
+    "昼飯"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_352 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新しいコックさん、本当に、頼りに、なるみたいね、お客様、ご好評よ、最近、味、本当に、変わったって、皆、褒めてるよ、葵で。",
+      "en": "Aoi, the new chef is really proving to be dependable—customers have been saying such good things. They're all praising how much the flavors have changed lately.",
+      "style": "Warm, observant opening. Voice bright but grounded. Admiration underneath—noticing something good someone else did. Steady pace, genuine.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。お庭に、小鳥、来てくれるテラス席、お客様に、本当に、好評よ、メイちゃん、葵で、いつも、自然、感じられるって、皆、言ってる、本当に。",
+      "en": "Yeah. The terrace with the garden where the little birds come by—customers really love it. Everyone says they feel like they're in nature when they're there, Mei.",
+      "style": "Quiet recognition. Thoughtful, almost musing. Slight smile in the voice without forcing it. Pauses like she's remembering the feeling herself. Gentle, unhurried.",
+      "mood": "content"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "最近、ジムで、私、泳ぎを、習い始めたの、葵、結構、楽しいわよ、メイちゃんも、興味、ある?一緒に、行ってみる?本当に、おすすめ。",
+      "en": "I've started taking swimming lessons at the gym lately, and it's actually really fun. Are you interested in trying it? We could go together sometime.",
+      "style": "Invitation extended warmly, genuine excitement without overselling. Light, encouraging rhythm. Hopeful undertone—offering something she likes to someone she cares about.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "店内の電球、ちょっと、暗く、感じるようになってきたわよね、メイちゃん、私、葵で、新しいの、注文しないとね、本当に、急務、なってきたわよ。",
+      "en": "The light bulbs in the shop have been looking a bit dim lately, haven't they? I need to order new ones—it's getting pretty urgent, actually.",
+      "style": "Practical concern, but softly expressed. Not complaining, observing. Light problem-solving tone. A little tired at the edges but still warm in delivery.",
+      "mood": "mildly_concerned"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "いとこ、入院してて、病室、お見舞い、葵から、お花、持って行ってあげたいの、私、本当に、心配だから、優しい色のお花、選んでもらえる?",
+      "en": "My cousin's in the hospital and I want to bring flowers to her room when I visit. Could you help me pick something in a gentle color? I'm really worried about her.",
+      "style": "Tender, underlying worry carefully held. Quiet but direct request. Slight catch on the word 'cousin'—real care shows through. Unhurried, asking for help as an act of trust.",
+      "mood": "tender_worried"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵のお客様、好き嫌い、本当に、いろいろよね、メイちゃん、葵としても、メニュー、調整、結構、悩んでるわよ、お客様、皆、満足、頂きたい、本気。",
+      "en": "Our customers' tastes are all over the place, and I've been thinking a lot about how to adjust the menu to make sure everyone's happy. It matters to me that they all feel satisfied.",
+      "style": "Reflective, professional but heartfelt. Weighing considerations thoughtfully. Not stressed, just genuinely engaged in the problem. Steady, conscientious.",
+      "mood": "thoughtful_dedicated"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、今日、真っ直ぐ、帰れる?ちょっと、相談、乗ってほしいことが、あるんだ、本当に、お願い、なるべく、早めに、帰って、お話、しよう、ね、絶対。",
+      "en": "Can you make it home straight from work today? There's something I'd like to talk through with you. Could you come back a bit early if you can? I really need this.",
+      "style": "Earnest, almost vulnerable underneath the calm. Direct without being demanding. Quiet urgency—this matters. Slight softening on the request, like she knows she's asking for something.",
+      "mood": "earnest_needing"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お昼飯、メイちゃんと、葵で、たまには、ゆっくり、一緒に、食べたいわよね、本当に、最近、忙しすぎたから、また、約束、絶対に、しようね。",
+      "en": "I'd love if we could take time to sit down and have lunch together sometimes, just the two of us. We've been so busy lately. Let's make a real plan to do it soon.",
+      "style": "Warm, tender longing underneath. Not wistful—genuine expression of want. Soft but steady. The close comfort of someone you trust. Slight resolution at the end—making a commitment to each other.",
+      "mood": "warm_tender"
+    }
+  ]
+}

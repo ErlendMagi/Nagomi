@@ -1,0 +1,75 @@
+{
+  "id": "conv_03096",
+  "context": "Ren profiles a computer engineer for an article.",
+  "purpose": "WIDENED SCENARIO: tech interview; vocabulary (変換/本体/アドレス/コンピューター/させる) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "変換",
+    "本体",
+    "アドレス",
+    "コンピューター",
+    "させる"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_155)",
+    "generated_at": "2026-05-29T15:49:33.455Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "このコンピューター、何ができるんですか?",
+      "en": "What can this computer do?",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "データを、瞬時に変換させます。",
+      "en": "It converts data instantly.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本体は、大きいんですか?",
+      "en": "Is the main unit large?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本体は小さく、性能は高いです。",
+      "en": "The unit is small but high-performance.",
+      "style": "clear engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "遠くからも、操作させられますか?",
+      "en": "Can it be operated from afar too?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "アドレスを指定し、遠隔で動作させます。",
+      "en": "You specify an address and run it remotely.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "変換の速さが、強みですね。",
+      "en": "Conversion speed is its strength.",
+      "style": "thoughtful young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピューターに、賢く働かせる時代です。",
+      "en": "It's an age of making computers work smartly.",
+      "style": "warm engineer voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

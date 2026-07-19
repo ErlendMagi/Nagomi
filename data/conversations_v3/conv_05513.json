@@ -1,0 +1,65 @@
+{
+  "id": "conv_05513",
+  "context": "A police officer briefs a uni reporter about traffic regulation",
+  "purpose": "Teach: 交通省/官邸/直線/遠隔/無関心/団地/下降/上流",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "交通省",
+    "官邸",
+    "直線",
+    "遠隔",
+    "無関心",
+    "団地",
+    "下降",
+    "上流"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "交通省と連携した安全策、新直線道路で試行中です。",
+      "en": "Safety measures coordinated with the transport ministry are currently being tested on the new highway.",
+      "style": "Measured, professional opening. Steady pacing, clear diction. The tone of someone briefing a colleague—informative without performance. Slight weight on 'being tested' to ground the reality.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "官邸主導の重点政策ですか。",
+      "en": "Is this a cabinet-level priority initiative?",
+      "style": "Genuine intellectual curiosity. Slight lean forward in the question. Not challenging, but wanting to understand the scope. A pause before asking, as if placing the pieces.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地方団地の住民は無関心になりがちで、説明会も遠隔形式に。",
+      "en": "Yes. Residents in these complexes tend to check out, so we've shifted the briefings to remote format.",
+      "style": "Measured explanation, slight undertone of resignation. Matter-of-fact about the apathy. Not blaming, just stating operational reality. Pace steady, almost bureaucratic in its acceptance.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "参加率の下降は、上流の自治体でも見られますか。",
+      "en": "Do you see the same drop-off in participation at higher administrative levels?",
+      "style": "Thoughtful, exploratory. Ren working through the implications as he speaks. A slight pause before 'higher levels,' checking his own framing. Intellectually engaged.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、共通課題です。",
+      "en": "Yes—it's a shared problem everywhere.",
+      "style": "Brief, conclusive. A small nod in the voice. Recognition passing between them—the understanding that some things transcend location. Warm but not effusive.",
+      "mood": "weary_understanding"
+    }
+  ]
+}

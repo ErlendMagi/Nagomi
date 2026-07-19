@@ -1,0 +1,84 @@
+{
+  "id": "conv_04103",
+  "context": "A police officer briefs a neighborhood mom on welfare benefits",
+  "purpose": "Teach: 課税/税制/立法/給付/提言/制約/妥当/保全",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "課税",
+    "税制",
+    "立法",
+    "給付",
+    "提言",
+    "制約",
+    "妥当",
+    "保全"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お母さん、こんにちは。地域の見守りで、給付金のご案内に回っているんです。",
+      "en": "Hello, ma'am. I'm going around the neighborhood to tell people about the benefit payments.",
+      "style": "Friendly approachable officer tone with warm community-minded greeting."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、わざわざありがとうございます。最近の税制って難しくて、よく分からなかったんです。",
+      "en": "Oh, thank you for coming all this way. The recent tax system is so hard, I really didn't understand it.",
+      "style": "Warm motherly voice with genuine relief and friendly openness."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ですよね。今年は立法のほうで見直しがあって、課税のルールも少し変わったんですよ。",
+      "en": "Right? This year there were revisions on the legislative side, and the taxation rules changed a bit too.",
+      "style": "Conversational explanatory tone with gentle approachable pacing throughout."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そうなんですね。でも申請って、締め切りの制約があるんですよね?子育てで毎日バタバタで。",
+      "en": "I see. But applications have a deadline restriction, don't they? I'm rushing around every day with the kids.",
+      "style": "Slightly anxious motherly voice with concerned undertone and warmth."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "実は専門家の提言を受けて、期限がぐっと延びたんです。",
+      "en": "Actually, following experts' recommendations, the deadline was extended quite a bit.",
+      "style": "Reassuring gentle officer tone with friendly clarifying warmth."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お母さんのご家庭なら、申請内容も妥当だと思いますよ。",
+      "en": "For your household, I think the application would be perfectly reasonable.",
+      "style": "Encouraging supportive tone with gentle community-minded warmth."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当ですか。書類は何か気をつけることありますか?",
+      "en": "Really? Is there anything I should be careful about with the documents?",
+      "style": "Eager curious motherly voice with attentive listening engagement."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "受給証明書は「保全期間」って欄に五年って書いてあるので、それまで大切に保管してくださいね。",
+      "en": "Your benefit certificate has 'preservation period' written as five years on it, so please keep it safe until then.",
+      "style": "Helpful instructive officer tone with friendly explanatory warmth."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "分かりました。本当に助かりました、ありがとうございます。",
+      "en": "Understood. You've really helped me out, thank you so much.",
+      "style": "Grateful warm motherly voice with sincere appreciation and relief."
+    }
+  ]
+}

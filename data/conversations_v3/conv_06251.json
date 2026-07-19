@@ -1,0 +1,86 @@
+{
+  "id": "conv_06251",
+  "context": "A police officer briefs about an unsolved case",
+  "purpose": "Teach: 未解決/裏切る/見せかけ/煽る/争わ/退け/減らさ/鈍い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "未解決",
+    "裏切る",
+    "見せかけ",
+    "煽る",
+    "争わ",
+    "退け",
+    "減らさ",
+    "鈍い"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_314 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、未解決のまま、20年経ちました。",
+      "en": "This case has remained unsolved for twenty years.",
+      "style": "Measured, factual opening. Even breath. No inflection that seeks sympathy. The weight of time stated plainly, as routine.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者を裏切る形になった事案、残っていますか。",
+      "en": "Are there still cases where the victim was essentially abandoned?",
+      "style": "Genuine inquiry, not accusation. Slight lean forward in the voice. Testing whether the officer will acknowledge the human cost beneath procedure.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。表面上は無関係に見せかける手口、巧妙でした。",
+      "en": "Yes. The perpetrator was skilled at making everything look unrelated on the surface.",
+      "style": "Clinical precision. Each phrase lands separately. Not defensive — just laying out facts as evidence. Steady eye contact in the voice.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メディアが煽る報道、二次被害も生みます。",
+      "en": "Media coverage that sensationalizes cases — it creates secondary harm too.",
+      "style": "Quiet conviction. Building on what the officer just said, not arguing. Slight pause before the dash, as if working through the thought aloud.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "関係者と争わずに、対話で解決を目指します。",
+      "en": "We aim to resolve things through dialogue rather than confrontation with the parties involved.",
+      "style": "Gentle firmness. This is stated as principle, not apology. Slow, intentional pacing. The voice of someone who has learned what works.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "退ける証拠も、書類、慎重に扱いますね。",
+      "en": "Evidence that exonerates someone — those documents need care too.",
+      "style": "Perceptive observation. Not a question but an agreement. Slight nod in the tone. He's seeing what the officer is doing.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。冤罪を減らさず、リスクを高めない運用です。",
+      "en": "Exactly. Our operation is designed to reduce false accusations, not to increase risk.",
+      "style": "Affirmation that carries weight. Direct and clear. A small moment of connection — the officer confirming that Ren has understood the real cost.",
+      "mood": "steadfast"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感覚が鈍い人、捜査対象から外れがちですよね。",
+      "en": "People with quieter personalities tend to fall off suspect lists, don't they?",
+      "style": "Soft, almost to himself. Not accusatory — observant of a painful gap in how systems work. Trailing slightly into uncertainty, inviting the officer to fill it.",
+      "mood": "reflective"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10646",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 谷口/柳沢/奥田/新井/荒木/浅野/村山/大田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "谷口",
+    "柳沢",
+    "奥田",
+    "新井",
+    "荒木",
+    "浅野",
+    "村山",
+    "大田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_534 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の谷口部長を歓迎しろ",
+      "en": "Welcome our new department head, Taniguchi.",
+      "style": "Clipped authority. Measured pace, no softening. Each phrase lands distinct. The tone of someone used to being heard the first time.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の柳沢課長の出張日程を整えます",
+      "en": "Understood. I'll arrange Sales Manager Yanagisawa's travel schedule.",
+      "style": "Quiet competence. Steady, responsive. No flourish — just the next item confirmed and filed. Brief, efficient.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、技術担当の奥田主任にプロジェクトを任せろ",
+      "en": "Assign the new project to Okuda in Technical.",
+      "style": "Direct command, no hesitation. Slightly faster than the first — momentum building. Confident in the instruction.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新井広報の戦略を採用します",
+      "en": "Understood. I'll adopt Arai's PR strategy.",
+      "style": "Brisk acknowledgment. Clipped at the edges. Moving to the next task — efficient, unsentimental.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の荒木様の昇格を進めろ",
+      "en": "Move forward with Araki's promotion in HR.",
+      "style": "Command tone, unflinching. Slight pause before the final phrase — weight on the decision itself. Not asking, deciding.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の浅野様に予算策定を依頼します",
+      "en": "Understood. I'll request Budget Planning from Asano in Accounting.",
+      "style": "Steady, methodical reply. The rhythm of tasks being checked off. Quiet competence underscoring each name.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、海外担当の村山部長と連携しろ",
+      "en": "Coordinate with Murayama, our Overseas department head.",
+      "style": "Clear directive, slightly formal. Even cadence. The word 'coordinate' lands with intent — partnership, not subordination.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の大田様に契約書確認を依頼します",
+      "en": "Understood. I'll request contract review from Ota in Legal.",
+      "style": "Final confirmation. Calm, settled. Slightly slower — wrapping up the briefing. Concluding without ceremony.",
+      "mood": "complete"
+    }
+  ]
+}

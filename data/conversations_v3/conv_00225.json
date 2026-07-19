@@ -1,0 +1,83 @@
+{
+  "id": "conv_00225",
+  "context": "Ren is Kenji's younger cousin. He drops by Kenji's apartment after a long absence.",
+  "purpose": "older-cousin / younger-cousin warmth — workplace adult and college kid easy talk",
+  "ambient": "apartment_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "久しぶり",
+    "大学",
+    "部屋",
+    "元気",
+    "飲む"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_012)",
+    "generated_at": "2026-05-26T20:02:12.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おう、れん、久しぶり。元気だった？",
+      "en": "Hey, Ren, long time. You been well?",
+      "style": "Salaryman warm familial cousin-greeting, the casual older-cousin warmth audible, soft real care threading throughout delivery.",
+      "mood": "familially-warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ケンジ兄、お邪魔します。部屋、相変わらず綺麗っすね。",
+      "en": "Kenji-nii, sorry to intrude. The room's as tidy as ever.",
+      "style": "University student warm respectful casual cousin-cadence, the gentle observation audible, soft real warmth threading throughout delivery.",
+      "mood": "respectfully-casual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大学はどう？忙しいんだろう。",
+      "en": "How's university? Probably busy.",
+      "style": "Salaryman warm older-cousin caring inquiry, the soft real protective-curiosity audible, gentle real warmth threading throughout delivery.",
+      "mood": "caringly-curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "相変わらず。レポートの締め切り、毎週来る。",
+      "en": "Same as ever. Report deadlines come every week.",
+      "style": "University student warm wry casual complaint, the gentle worn humor audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "wryly-worn"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お疲れさん。今日は飲んでけ。ビールあるぞ。",
+      "en": "Hard work. Drink something tonight. There's beer.",
+      "style": "Salaryman warm generous casual older-cousin offer, the gentle hospitality audible, soft real warmth threading throughout delivery.",
+      "mood": "generously-warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "やった！ケンジ兄の家、落ち着くわ。",
+      "en": "Yay! Kenji-nii's place is calming.",
+      "style": "University student warm bright happy acceptance, the soft real comfort-disclosure audible, gentle real warmth throughout delivery.",
+      "mood": "brightly-comforted"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いつでも来いよ。連絡してくれれば。",
+      "en": "Come anytime. If you give me a heads-up.",
+      "style": "Salaryman warm casual generous closing, the gentle real older-cousin warmth audible, soft real warmth throughout delivery.",
+      "mood": "casually-generous"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "マジ助かる。ありがとうございます。",
+      "en": "Really, that saves me. Thank you.",
+      "style": "University student warm sincere informal-formal blend, the soft real grateful-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-grateful"
+    }
+  ]
+}

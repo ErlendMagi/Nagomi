@@ -1,0 +1,86 @@
+{
+  "id": "conv_09108",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 本紙/減速/同市/出馬/課せ/部類/大綱/適性",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本紙",
+    "減速",
+    "同市",
+    "出馬",
+    "課せ",
+    "部類",
+    "大綱",
+    "適性"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_457 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、本紙の論評を参考にしろ",
+      "en": "Ren — use our paper's editorial as a reference point.",
+      "style": "Measured, direct instruction. Slight pause before the task. Steady gaze. The tone of someone who trusts you and expects you to rise to it.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究の進度を減速して見直します",
+      "en": "Yes. I'll slow down the research pace and review it carefully.",
+      "style": "Quick, respectful confirmation. Slight catch of breath before committing to the plan. Earnest — not performative. The voice of someone already taking mental notes.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、同市内の他研究機関とも連携しろ",
+      "en": "Ren — coordinate with other research institutions in the same city.",
+      "style": "Clear directive, slightly firmer than before. No room for ambiguity. Professional but not cold. A senior who expects compliance because it matters.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学会の理事に出馬を勧められました",
+      "en": "Yes. A board member at the conference actually recommended I run for election.",
+      "style": "Quiet, almost hesitant — offering information he wasn't directly asked for. Slightly proud underneath but checked. Testing the waters to see if this is something he should pursue.",
+      "mood": "cautious_proud"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、学生に過度の課題を課せないよう注意しろ",
+      "en": "Ren — be careful not to overload your students with assignments.",
+      "style": "Shift to gentler concern. Still authoritative, but the instruction carries care underneath. This matters to him as a person, not just a supervisor. Eye contact softens slightly.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。優秀な論文の部類に入る研究をします",
+      "en": "Yes. I'll make sure my research reaches the standard of excellent work.",
+      "style": "Immediate, steady reassurance. No defensiveness — just quiet commitment. The breath is centered, grounded. He's already thinking about how to execute this.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、博士論文の大綱を作成しろ",
+      "en": "Ren — create an outline for your doctoral dissertation.",
+      "style": "Final instruction, slightly more expansive. Leaning back slightly — giving him room to think. The confidence of someone who believes this person can do it.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究テーマと自分の適性を見極めます",
+      "en": "Yes. I need to clarify my research theme and make sure it aligns with my strengths.",
+      "style": "Thoughtful close. Deeper breath — this one carries weight. Not rushing the answer. The tone of someone examining himself honestly, gathering resolve for the longer journey ahead.",
+      "mood": "introspective_resolved"
+    }
+  ]
+}

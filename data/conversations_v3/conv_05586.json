@@ -1,0 +1,65 @@
+{
+  "id": "conv_05586",
+  "context": "A boss reviews a project shortlist",
+  "purpose": "Teach: 指針/区分/補正/集約/選考/単価/助手/裁量",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "指針",
+    "区分",
+    "補正",
+    "集約",
+    "選考",
+    "単価",
+    "助手",
+    "裁量"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の指針、集約の方向で確定したか?",
+      "en": "Have we confirmed this term's direction on consolidation?",
+      "style": "Clipped, businesslike. Clean attack on the opening word. Level, measured pace—no warmth, no drag. Eyes steady on the recipient. The tone of someone already three steps ahead.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。区分ごとの選考、補正を加えました。",
+      "en": "Yes. I've incorporated adjustments to the screening by category.",
+      "style": "Respectful but not deferential. Steady rhythm, even emphasis. Precise word placement—he's thought this through. Slight nod of the head mid-sentence, reinforcing competence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "単価交渉、助手にも任せていいか?",
+      "en": "Unit-price negotiations—is it okay to hand that to the assistant?",
+      "style": "Measured probe. Slight pause before the dash, as if weighing the question itself. Mild curiosity underneath—testing readiness, not doubting capability. Eyes tracking for the answer.",
+      "mood": "evaluative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "裁量権を限定的に持たせます。",
+      "en": "I'll give them limited discretion on it.",
+      "style": "Direct, confident. Light emphasis on 「限定的に」—he's already thought through the guardrails. No hedging, no overexplaining. Tone of someone comfortable taking the responsibility.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on you.",
+      "style": "Quiet, weighted. Slow release on the two syllables. Not effusive—economical, almost tender in its directness. A statement that carries trust.",
+      "mood": "assured_trust"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02581",
+  "context": "Court news: Sakura and Ren report on a ruling.",
+  "purpose": "WIDENED SCENARIO: legal news; court vocabulary (裁判/訴訟/弁護士/犯罪/措置) in natural home.",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "裁判",
+    "訴訟",
+    "弁護士",
+    "犯罪",
+    "措置"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "今日、注目の裁判で判決が出ました。",
+      "en": "A ruling came in a closely watched trial today.",
+      "style": "crisp adult anchor voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "どんな訴訟だったんですか?",
+      "en": "What kind of lawsuit was it?",
+      "style": "measured young commentator voice, soft warm analytical calm throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "企業を相手取った、長い訴訟でした。",
+      "en": "It was a long lawsuit against a company.",
+      "style": "clear adult anchor voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "弁護士は、何と述べましたか?",
+      "en": "What did the lawyer state?",
+      "style": "curious young commentator voice, soft warm analytical calm throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "弁護士は、判決を評価しました。",
+      "en": "The lawyer praised the ruling.",
+      "style": "professional adult anchor voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "犯罪の防止にも、つながりますか?",
+      "en": "Will it help prevent crime too?",
+      "style": "analytical young commentator voice, soft warm calm throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ええ、再発を防ぐ措置も示されました。",
+      "en": "Yes, measures to prevent recurrence were shown.",
+      "style": "measured adult anchor voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "この裁判が、社会を変えるかもしれませんね。",
+      "en": "This trial may change society.",
+      "style": "earnest young commentator voice, soft warm calm closing throughout"
+    }
+  ]
+}

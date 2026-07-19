@@ -1,0 +1,119 @@
+{
+  "id": "conv_00028",
+  "context": "Saturday morning, a friend's kitchen. Riku slept over and is sitting alone at the counter at 7 a.m. His friend's dad — Ryosuke — comes in, sees him, and pours coffee for both of them.",
+  "purpose": "incidental confessional — adult listens without solving, just makes coffee",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今",
+    "何",
+    "ない",
+    "言う",
+    "時間",
+    "大丈夫",
+    "本当に"
+  ],
+  "cast": [
+    "ryosuke_dad",
+    "riku_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "お、おはよう。早いな。",
+      "en": "Oh — morning. You're up early.",
+      "style": "Warm, unsurprised. The voice of someone who has lived with kids long enough not to read into things.",
+      "mood": "easy_warm"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…おはようございます。",
+      "en": "…Morning.",
+      "style": "Mumbled, fully polite. Surprised to be greeted; doesn't look up.",
+      "mood": "mumbled"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "コーヒー飲む？砂糖いる？",
+      "en": "Want coffee? Sugar?",
+      "style": "Already pouring. Two questions, no pressure on either one.",
+      "mood": "serving"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…ブラックでいいです。",
+      "en": "…Black is fine.",
+      "style": "Small, half-defensive. Wants to seem older than he is.",
+      "mood": "performing_older"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "大人ぶってるな。",
+      "en": "Acting grown-up, huh.",
+      "style": "Said with a smile in the voice, not a barb. Slides the mug over.",
+      "mood": "gentle_tease"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "(half-laugh)",
+      "en": "(small laugh)",
+      "style": "A real laugh, surprising himself. A beat of unguarded.",
+      "mood": "unguarded_beat"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "最近、調子はどう？",
+      "en": "How've you been lately?",
+      "style": "Easy and open. The question of someone who genuinely wants the answer but won't mind if he doesn't get one.",
+      "mood": "open_question"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "まあ…ふつう。",
+      "en": "Yeah… normal.",
+      "style": "Reflexive teen-armour. Looks at the coffee.",
+      "mood": "armour"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ふつうって、本当のふつう？",
+      "en": "Normal — like, really normal?",
+      "style": "No edge. A small follow-up someone could brush off if they wanted.",
+      "mood": "gentle_probe"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…別に、なんもないけど。",
+      "en": "…I mean, nothing really.",
+      "style": "Quieter than the last line. A door inches open.",
+      "mood": "inching_open"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん。なんもなくても、話したかったら話していいよ。",
+      "en": "Mm. Even if there's nothing — you can talk if you want.",
+      "style": "Slow, plain. The whole sentence delivered as a small chair pulled out for him.",
+      "mood": "door_offered"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…ありがとうございます。",
+      "en": "…Thank you.",
+      "style": "Smaller than the other lines. The full keigo from a 15-year-old to an adult who has noticed.",
+      "mood": "small_thanks"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いいよ。コーヒー、ゆっくり。",
+      "en": "No worries. Take your coffee slow.",
+      "style": "Closing line. Turns to the stove. Quietly leaving the door open.",
+      "mood": "closing_open"
+    }
+  ]
+}

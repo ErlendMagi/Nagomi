@@ -1,0 +1,78 @@
+{
+  "id": "conv_04097",
+  "context": "An office helpdesk worker guides a barista through device setup",
+  "purpose": "Teach: メールアドレス/開示/閲覧/オプション/機種/無線/等々/目次",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メールアドレス",
+    "開示",
+    "閲覧",
+    "オプション",
+    "機種",
+    "無線",
+    "等々",
+    "目次"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "セットアップのお手伝いに来ました。まず目次に沿って進めていきますね。",
+      "en": "I'm here to help with the setup. Let's go through the table of contents first.",
+      "style": "Calm, professional helpdesk tone with reassuring guidance."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。実は機種が変わってから、何も触れていなくて。",
+      "en": "Thank you so much. Honestly, since the model changed I haven't touched anything.",
+      "style": "Apologetic and slightly nervous barista voice, soft register."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫ですよ。最初に会社のメールアドレスを入力してログインしてください。",
+      "en": "No worries. First, please enter your company email address and log in.",
+      "style": "Patient and instructional, gentle step-by-step delivery."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "入力しました。あ、無線のネットワークを選ぶ画面になりました。",
+      "en": "I've entered it. Oh, now it's asking me to choose a wireless network.",
+      "style": "Curious and engaged, voice rising at discovery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "店舗用のものを選んで、追加オプションは全部オフのままで構いません。",
+      "en": "Pick the store one, and leave all the additional options turned off.",
+      "style": "Confident technical directions, clear and concise."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "シフト表や売上、研修資料等々は、ここから閲覧できるんですか?",
+      "en": "Can I view things like shift sheets, sales, training materials, and so on from here?",
+      "style": "Inquisitive and a bit excited about the new tool."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。ただし給与情報の開示には、店長の承認が必要になります。",
+      "en": "Yes. However, disclosure of salary information requires the manager's approval.",
+      "style": "Polite but firm, emphasizing policy boundaries."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど、安心しました。丁寧に教えてくださって助かります。",
+      "en": "I see, that's reassuring. I really appreciate you explaining things so carefully.",
+      "style": "Warm gratitude, relieved and friendly closing tone."
+    }
+  ]
+}

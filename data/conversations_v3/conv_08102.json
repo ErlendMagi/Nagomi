@@ -1,0 +1,86 @@
+{
+  "id": "conv_08102",
+  "context": "Two friends chat",
+  "purpose": "Teach: 貰い/こんど/赤ん坊/終り/ゴメン/歌わ/ここら/行進",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "貰い",
+    "こんど",
+    "赤ん坊",
+    "終り",
+    "ゴメン",
+    "歌わ",
+    "ここら",
+    "行進"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_407 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様からお花の貰いものがあったよ、メイちゃん",
+      "en": "Aoi, a customer brought us flowers as a gift today.",
+      "style": "Warm, unhurried delivery. Slight lift on 'brought'—sharing something small and pleasant. Gentle eye contact, the tone of someone offering a quiet moment to someone she trusts.",
+      "mood": "warm_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、こんど、新メニューを試食してみない?メイちゃん",
+      "en": "Next time, would you want to try the new menu items with me?",
+      "style": "Soft curiosity, not pushing. Inviting rather than insisting. A small pause before 'new menu' like she's thought about this. Hopeful but grounded.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、赤ん坊を連れて来てくれたよ、メイちゃん",
+      "en": "A customer came by today—she brought her baby with her.",
+      "style": "Tender observation, slight wonder in the voice. Slower pace on the second clause. The tone of noticing something that touched her.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お店の閉店時間、もうすぐ終りね、メイちゃん",
+      "en": "The shop's closing time is coming up soon.",
+      "style": "Quiet reflection, almost thinking aloud. Slight exhale of ease—the familiar rhythm of the day winding down. Matter-of-fact but not rushed.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、配膳ミスのお客様に、ゴメンって謝ったわ、メイちゃん",
+      "en": "I apologized to a customer for the mix-up with their order.",
+      "style": "Steady, accepting. No defensiveness. Brief pause after 'apologized'—the weight of having done what needed doing. Quiet maturity.",
+      "mood": "responsible"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お店のBGMでお客様も歌わせてくれたよ、メイちゃん",
+      "en": "The store music got a customer singing along today.",
+      "style": "Delighted, almost surprised warmth. Brighter tempo. The pleased realization that something small made someone happy. Genuine smile in the voice.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、ここらでお茶しましょう、メイちゃん",
+      "en": "Should we take a tea break here?",
+      "style": "Practical warmth, a gentle proposal. Steady and present. Not a question seeking permission, but an invitation to pause together.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お祭りの行進、お店の前を通ったわよ、メイちゃん",
+      "en": "The festival parade passed right by the shop earlier.",
+      "style": "Animated with nostalgic pleasure. Bright opening on 'parade.' Quick pace. The tone of someone sharing something she watched—present, almost like she's seeing it again.",
+      "mood": "animated_nostalgic"
+    }
+  ]
+}

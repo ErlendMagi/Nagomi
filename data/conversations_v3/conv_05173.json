@@ -1,0 +1,84 @@
+{
+  "id": "conv_05173",
+  "context": "A police officer briefs a uni reporter about a regional culture story",
+  "purpose": "Teach: 祖国/敵対/全日本/肖像/風水/ハンガリー/鳥取/徳島",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "祖国",
+    "敵対",
+    "全日本",
+    "肖像",
+    "風水",
+    "ハンガリー",
+    "鳥取",
+    "徳島"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_260 workflow wk8azix73)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は鳥取と徳島の合同文化祭の警備について、少し話しておきたい。",
+      "en": "Today I'd like to brief you on security for the joint Tottori-Tokushima culture festival.",
+      "style": "Formal officer briefing tone, measured and direct delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。鳥取砂丘の近くで開催される件ですよね？",
+      "en": "Thank you. It's the event being held near the Tottori Sand Dunes, right?",
+      "style": "Polite student reporter, slightly eager and respectful tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだ。徳島の阿波踊り保存会も参加するし、全日本郷土芸能連盟からも代表が来る。",
+      "en": "Correct. The Tokushima Awa-Odori preservation group will join, and the All-Japan Folk Arts Federation is sending representatives.",
+      "style": "Informative officer, listing facts steadily and clearly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。会場の入口に大きな肖像画が飾られると聞きましたが、あれは何ですか？",
+      "en": "I see. I heard a large portrait painting will be displayed at the venue entrance, what is that?",
+      "style": "Curious journalist asking a clarifying follow-up question"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "明治時代の地元の名士の肖像だ。風水的に良いとされる位置に設置するらしい。",
+      "en": "It's a portrait of a local notable from the Meiji era. They're placing it in a spot considered good by feng shui.",
+      "style": "Officer sharing cultural detail with quiet professional interest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "面白いですね。ハンガリー出身の研究者が来るという話も本当ですか？",
+      "en": "Fascinating. Is it also true that a researcher from Hungary is coming?",
+      "style": "Engaged reporter probing further with genuine intellectual curiosity"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当だ。彼にとって日本は第二の祖国だそうだ。地域の伝統に深い敬意を持っている。",
+      "en": "It's true. He apparently considers Japan his second homeland. He holds deep respect for regional traditions.",
+      "style": "Warm but measured tone, sharing background respectfully"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "敵対的な抗議活動などの心配はないんでしょうか？",
+      "en": "Are there any concerns about hostile protest activity or anything similar?",
+      "style": "Serious journalistic question, lowered voice and careful phrasing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今のところ報告はない。ただ、念のため警備は強化する予定だ。記事には冷静に書いてくれ。",
+      "en": "No reports so far. Still, as a precaution we'll strengthen security. Please report on this calmly.",
+      "style": "Closing officer remark, authoritative but trusting in tone"
+    }
+  ]
+}

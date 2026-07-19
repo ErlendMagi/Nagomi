@@ -1,0 +1,65 @@
+{
+  "id": "conv_05673",
+  "context": "A boss and manager review a CSR/news topic",
+  "purpose": "Teach: 文化財/水面/悪質/脅迫/製薬/地価/告げる/変容",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "文化財",
+    "水面",
+    "悪質",
+    "脅迫",
+    "製薬",
+    "地価",
+    "告げる",
+    "変容"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "記事に、わが社の地価評価が変容したと告げる文があった。",
+      "en": "The article mentioned that our company's land valuation has changed.",
+      "style": "Measured, deliberate opening. Tone drops slightly on the valuation concern. Pause before the final clause — choosing words carefully, not alarmed but registering weight.",
+      "mood": "measured_concern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製薬部門の用地、文化財との隣接で注目です。",
+      "en": "Yes. The pharma division's property is drawing attention because of its proximity to the cultural heritage site.",
+      "style": "Quiet, competent delivery. Direct factual tone, no embellishment. Steady eye contact — reporting what's known. Slight lift at the end, inviting his next thought.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "水面下で、悪質な仲介業者が動いているとも。",
+      "en": "And there are reports of unscrupulous brokers moving behind the scenes.",
+      "style": "Lower register, more deliberate. Weight on 'unscrupulous.' Slight lean forward — this is the harder part. Not alarmed, but grave. Controlled.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "脅迫まがいの問い合わせ、社内でも記録しています。",
+      "en": "We've already been logging inquiries internally that border on coercive.",
+      "style": "Steady, almost clinical precision. Professional distance maintained. Slight emphasis on 'logging' — documenting, protecting. No defensiveness, just fact.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警察と速やかに連携を。",
+      "en": "Contact the police immediately.",
+      "style": "Quiet authority. Each word lands. No room for interpretation. Not loud — the firmness comes from absolute clarity and conviction.",
+      "mood": "commanding"
+    }
+  ]
+}

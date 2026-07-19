@@ -1,0 +1,65 @@
+{
+  "id": "conv_05774",
+  "context": "A boss reviews a press response",
+  "purpose": "Teach: 澤/藩/狂っ/秘め/消極/格段/懇親/突っ込み",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "澤",
+    "藩",
+    "狂っ",
+    "秘め",
+    "消極",
+    "格段",
+    "懇親",
+    "突っ込み"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_290 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の報道、澤社長時代の旧藩発祥のグループ会社にまで及んでいる。",
+      "en": "The press coverage reaches beyond Sawa's tenure—it's touching the old subsidiary groups too.",
+      "style": "Measured concern. Leans back, eyes narrowing slightly. Deliberate pacing on the important words. Not alarmed, but weighing the scope of the problem with precision.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。狂った数字、と書かれた表現、秘めた背景があります。",
+      "en": "Yes. They're framing it as 'irrational numbers'—there's context underneath that we need to address.",
+      "style": "Quiet, focused energy. Leaning forward slightly. Each phrase lands with clarity and purpose. Steady eye contact. Building toward the practical next step.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "消極的な姿勢が、格段に誤解を生んでいる。",
+      "en": "Our hesitation is only feeding the misunderstanding—that's what's making this worse.",
+      "style": "Sharp observation, almost clinical. Slight pause before 'hesitation.' The cadence tightens. Not angry, but cutting through to the core of the issue.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "記者懇親会で、突っ込みを正面から受けます。",
+      "en": "We'll address it directly at the press briefing—take the questions head-on.",
+      "style": "Firm resolve. Voice drops slightly lower. A small nod embedded in the delivery. Confident without arrogance. This is the move that settles it.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、進めよう。",
+      "en": "Good. Let's move forward with that.",
+      "style": "Brief, final. Slight exhale—decision made. Straightens forward, closing the discussion with calm authority. One beat of silence after.",
+      "mood": "decisive"
+    }
+  ]
+}

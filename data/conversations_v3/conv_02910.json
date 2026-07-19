@@ -1,0 +1,75 @@
+{
+  "id": "conv_02910",
+  "context": "Kenji and Yuki set up a disaster alert app.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (地震/出来事/発信/引き続き/方面) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "地震",
+    "出来事",
+    "発信",
+    "引き続き",
+    "方面"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_146)",
+    "generated_at": "2026-05-29T14:48:14.344Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "このアプリ、地震の通知が来るの?",
+      "en": "Does this app send earthquake alerts?",
+      "style": "curious office woman voice, soft warm engaged delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、すぐに発信されますよ。",
+      "en": "Yes, they're transmitted instantly.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "どの方面の情報も、来ますか?",
+      "en": "Does it bring info for every area?",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "住んでいる方面を、登録できます。",
+      "en": "You can register your area.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大きな出来事も、知らせてくれる?",
+      "en": "Will it notify me of major events too?",
+      "style": "engaged office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、出来事を引き続き発信します。",
+      "en": "Yes, it keeps transmitting events.",
+      "style": "reassuring office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "引き続き、更新されるんですね。",
+      "en": "It keeps updating, then.",
+      "style": "understanding office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "地震の時、きっと役立ちますよ。",
+      "en": "It'll surely help during an earthquake.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

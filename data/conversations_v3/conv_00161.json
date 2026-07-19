@@ -1,0 +1,91 @@
+{
+  "id": "conv_00161",
+  "context": "Mei is at the café. Asuka the teacher comes in and recognizes Mei from a school event. Aoi serves them while they catch up briefly.",
+  "purpose": "small social bridge — three different female voices crossing in a third place",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "久しぶり",
+    "いらっしゃい",
+    "何",
+    "注文",
+    "同じ"
+  ],
+  "cast": [
+    "aoi_barista",
+    "asuka_teacher",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。",
+      "en": "Welcome.",
+      "style": "Soft dreamy barista greeting, warm professional artist-soft tone landing gently as customers enter.",
+      "mood": "dreamy-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "あ、メイさん？お久しぶり！",
+      "en": "Oh, Mei-san? Long time no see!",
+      "style": "Bright teacher recognition surfacing, voice lifting with genuine pleasure at the unexpected encounter.",
+      "mood": "pleasantly-surprised"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あすか先生、こんにちは！偶然ですね。",
+      "en": "Asuka-sensei, hello! What a coincidence.",
+      "style": "Romantic feminine warmth quickening with delight, soft pleased recognition extending the moment naturally.",
+      "mood": "delighted-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ここよく来るんですか？",
+      "en": "Do you come here often?",
+      "style": "Teacher easy curiosity, the question light and friendly, real interest threading through the casual delivery.",
+      "mood": "casually-curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "週末はだいたい。コーヒー美味しくて。",
+      "en": "Pretty much every weekend. The coffee's good.",
+      "style": "Soft romantic recommend, the praise sincere, voice warming with genuine appreciation for the small place.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ご注文、お決まりですか？",
+      "en": "Have you decided on your order?",
+      "style": "Dreamy barista soft prompt, careful not to interrupt, warm patient question floating gently into the pause.",
+      "mood": "gently-prompting"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "メイさんと同じものを。",
+      "en": "I'll have the same as Mei-san.",
+      "style": "Bright teacher easy decision, the casual following lifting the moment, genuine warmth extending toward Mei.",
+      "mood": "easily-following"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えへへ、嬉しい。お席空いてますよ。",
+      "en": "Heehee, I'm happy. There's a seat free.",
+      "style": "Soft romantic shy laugh, voice lifting with quiet pleasure, then warm invitation extending naturally.",
+      "mood": "shyly-pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お持ちしますね。少々お待ちください。",
+      "en": "I'll bring it over. Just a moment, please.",
+      "style": "Soft barista closing, dreamy warm professional voice extending the service in gentle careful cadence.",
+      "mood": "softly-serving"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03953",
+  "context": "A boss and his manager read morning legal news with strong opinions",
+  "purpose": "Teach: 検察/最高裁/警察官/制裁/疑惑/不当/警戒/衝突",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "検察",
+    "最高裁",
+    "警察官",
+    "制裁",
+    "疑惑",
+    "不当",
+    "警戒",
+    "衝突"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、見たか？あの汚職疑惑、ついに検察が動いたらしいぞ。",
+      "en": "Did you see this morning's paper? Apparently the prosecutors finally moved on that corruption suspicion.",
+      "style": "Gruff senior boss, clipped sentences, leans forward over his coffee with intensity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、私も読みました。現役の警察官まで関与しているなんて、信じられませんね。",
+      "en": "Yes, I read it too. I can't believe even active-duty police officers are involved.",
+      "style": "Polished manager tone, measured pacing, shakes head while folding the newspaper neatly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "こういうのはな、最高裁まで行ってもらわんと困る。中途半端な判決じゃ示しがつかん。",
+      "en": "Cases like this have to go all the way to the Supreme Court. A half-measure ruling sets a bad example.",
+      "style": "Old-school boss bluster, drops polite endings, jabs finger toward the article emphatically."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同感です。それに海外では既に経済制裁の話まで出ているそうですよ。",
+      "en": "I agree completely. On top of that, overseas they're reportedly already discussing economic sanctions.",
+      "style": "Diplomatic agreement, soft-spoken but informed, glances at his phone to confirm the source."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "不当な扱いを受けた被害者だって大勢いるんだ。警戒を強めるのは当然だろう。",
+      "en": "There are loads of victims who got unfair treatment too. Of course they're tightening their guard.",
+      "style": "Indignant grumble, voice rising slightly, slaps the desk for emphasis on each point."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "国会でも与野党の意見の衝突が激しくなっているようですね。",
+      "en": "It seems the clash of opinions between ruling and opposition parties is intensifying in the Diet as well.",
+      "style": "Analytical observation, calm and even, adjusts glasses while summarizing the political landscape."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふん、政治家どもは口先ばかりだ。我々は仕事に戻るぞ、コーヒー飲み終わったら。",
+      "en": "Hmph, politicians are all talk. We're getting back to work as soon as I finish this coffee.",
+      "style": "Dismissive snort, abruptly pivots back to business, drains his mug with finality."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。九時の会議資料、机に置いておきます。",
+      "en": "Understood. I'll leave the materials for the nine o'clock meeting on your desk.",
+      "style": "Crisp professional sign-off, slight bow, gathers the paper and steps away briskly."
+    }
+  ]
+}

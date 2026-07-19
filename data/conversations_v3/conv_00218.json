@@ -1,0 +1,69 @@
+{
+  "id": "conv_00218",
+  "context": "Sho is at his great-uncle Hiroshi-elder's house. The two quietest people in the family sit together looking at a picture book.",
+  "purpose": "quiet child + quiet elder — companionship without much talk",
+  "ambient": "tatami_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "静か",
+    "本",
+    "一緒",
+    "見る",
+    "楽しい"
+  ],
+  "cast": [
+    "sho_child",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "しょう、この本、好きか？",
+      "en": "Sho, do you like this book?",
+      "style": "Slow elder warm gentle child-tuned question, the soft real grandfatherly-warmth audible, gentle real care throughout delivery.",
+      "mood": "gently-curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん…好き。",
+      "en": "Mm… I like it.",
+      "style": "Tiny six-year-old soft careful answer, the small earnest agreement audible, soft small warmth threading throughout delivery throughout.",
+      "mood": "softly-careful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "この絵、見てごらん。きれいだろう。",
+      "en": "Look at this picture. Pretty, isn't it.",
+      "style": "Slow elder warm gentle showing, the soft real teaching-warmth audible, gentle real care threading throughout delivery throughout.",
+      "mood": "gently-showing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん、きれい。",
+      "en": "…Yeah, pretty.",
+      "style": "Tiny six-year-old soft warm appreciation, the small careful agreement audible, soft small warmth threading throughout delivery throughout.",
+      "mood": "softly-appreciating"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "一緒に静かに見てるの、いいなあ。",
+      "en": "Looking together quietly — it's nice.",
+      "style": "Slow elder warm gentle shared-appreciation, the soft real grandfatherly-love audible, gentle real warmth threading throughout delivery.",
+      "mood": "gently-appreciating"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、楽しい。",
+      "en": "Yeah, it's fun.",
+      "style": "Tiny six-year-old soft warming agreement, the small real warmth audible, soft small joy threading throughout delivery throughout.",
+      "mood": "softly-joyful"
+    }
+  ]
+}

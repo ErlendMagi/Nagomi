@@ -1,0 +1,86 @@
+{
+  "id": "conv_10906",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 神浦/杉村/野坂/荒井/北野/日高/牛尾/広瀬",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "神浦",
+    "杉村",
+    "野坂",
+    "荒井",
+    "北野",
+    "日高",
+    "牛尾",
+    "広瀬"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_547 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の神浦部長を歓迎しろ",
+      "en": "I want you to welcome our new department head, Kamiura.",
+      "style": "Crisp, commanding tone. Measured cadence. No room for negotiation. The voice of someone accustomed to being heard and obeyed.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の杉村課長の出張日程を整えます",
+      "en": "Yes. I'll arrange the travel schedule for Sugimura, our sales manager.",
+      "style": "Efficient, businesslike. No hesitation. Kenji is already translating the directive into action—rapid-fire mental organization. Brisk delivery.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、技術担当の野坂主任にプロジェクトを任せろ",
+      "en": "Assign the project to Nozaka, our technical lead.",
+      "style": "Direct command. Slightly sharper than the opening—no buffer. Hiroshi is moving through his list with purpose. Clipped phrasing.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の荒井様の戦略を採用します",
+      "en": "Understood. I'll adopt Arai's strategy from the PR department.",
+      "style": "Quick acknowledgment. Kenji's voice is steady and responsive—he's keeping pace with Hiroshi's rhythm. Confirming each task before moving to the next.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、顧問の北野様にご助言を仰げ",
+      "en": "Get advice from Kitano, our corporate advisor.",
+      "style": "Same command register as before. Hiroshi is in full directive mode—efficient, unbothered by the frequency of instructions. Minimal inflection.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の日高様の決算スケジュールを整えます",
+      "en": "Yes. I'll coordinate the closing schedule with Hidaka from accounting.",
+      "style": "Echo of Kenji's earlier pacing. He's absorbed the pattern now—absorbing directives and converting them to action items without thinking. Smooth handoff.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の牛尾様に新人研修を任せろ",
+      "en": "Put the new-hire training program in Ushio's hands from HR.",
+      "style": "Penultimate instruction. Hiroshi's delivery is still sharp but there's a slight breath—he's nearing the end of his list. Same authority, same economy of language.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の広瀬様に契約書確認を依頼します",
+      "en": "Understood. I'll have Hirose from legal review the contracts.",
+      "style": "Final confirmation. Kenji's delivery closes with a sense of completion—all items logged, all next steps clear. Solid, settled tone. The interview is over.",
+      "mood": "resolute"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03890",
+  "context": "A teacher walks a student through securing a web account at the school PC",
+  "purpose": "Teach: パスワード/電源/キーボード/ディスク/端末/ウェブ/ケーブル/自動的",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "パスワード",
+    "電源",
+    "キーボード",
+    "ディスク",
+    "端末",
+    "ウェブ",
+    "ケーブル",
+    "自動的"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "まずこの端末の電源を入れてみて。",
+      "en": "First, try turning on the power of this terminal.",
+      "style": "Calm teacher voice, instructive and patient tone guiding a student."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、ケーブルがちゃんと刺さってなかったみたいです。",
+      "en": "Oh, it looks like the cable wasn't plugged in properly.",
+      "style": "Teenage girl, slightly embarrassed but cooperative classroom tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫よ。起動したらキーボードでログイン画面を開いてね。",
+      "en": "It's fine. Once it boots up, open the login screen with the keyboard.",
+      "style": "Reassuring teacher, warm and instructive guidance for a learner."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "開きました。パスワードはどう決めればいいですか?",
+      "en": "It's open. How should I decide on a password?",
+      "style": "Curious teenager asking earnestly, slightly hesitant student voice."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "英数字を混ぜて、他のウェブサービスと違うものにしてね。",
+      "en": "Mix letters and numbers, and make it different from other web services.",
+      "style": "Teacher giving careful advice, measured and clear instructional tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "保存先はこのディスクで合ってますか?",
+      "en": "Is this disk the right place to save it?",
+      "style": "Polite teenage student checking with her teacher, mildly uncertain."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう。十分経つと自動的にログアウトされるから安心して。",
+      "en": "Yes. After ten minutes it automatically logs out, so don't worry.",
+      "style": "Confident teacher wrapping up explanation, kind and supportive tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、先生。なんとかできそうです。",
+      "en": "Thank you, teacher. I think I can manage it now.",
+      "style": "Grateful teenage student, relieved and slightly cheerful closing tone."
+    }
+  ]
+}

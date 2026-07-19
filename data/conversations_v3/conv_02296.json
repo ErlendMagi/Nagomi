@@ -1,0 +1,79 @@
+{
+  "id": "conv_02296",
+  "context": "Sho-young loses a game; Riku-teen consoles him.",
+  "purpose": "Older teen comforting younger child after loss.",
+  "ambient": "living_room_evening_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "ケンカ",
+    "がんばる",
+    "焦っ",
+    "よくよく",
+    "深く",
+    "残ら",
+    "誉め",
+    "気軽"
+  ],
+  "cast": [
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_115)",
+    "generated_at": "2026-05-27T18:52:31.248Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "陸くん、勝負、負けた!",
+      "en": "Riku, I lost the match…",
+      "style": "Small, wavering voice on the opening. Quiet and fragile—the defeat sitting heavy. A slight catch before 'lost' like he's holding back tears. Searching for reassurance more than stating fact.",
+      "mood": "devastated"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "焦らんでええ、よくよく、考えてみ。",
+      "en": "Don't rush it. Think it through, really think about it.",
+      "style": "Calm and steady. No hurry in the pacing. Warm but measured—the voice of someone who's comfortable with silence. A quiet confidence that says he already sees something Sho doesn't yet.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ケンカみたいに、悔しい!",
+      "en": "It feels like a real fight—I'm so frustrated!",
+      "style": "Bright and hot with emotion, but not performative. The frustration is genuine and immediate. Slight edge of intensity, like the disappointment is fresh and sharp. Quick delivery matching the urgency of feeling.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "がんばってきたやろ、お前、誉めよ。",
+      "en": "You actually worked hard at this—you should be proud of that.",
+      "style": "Gentle but direct. A light emphasis on 'worked hard' like he's making Sho see it. Warm, almost tender. The voice of someone defending his friend against his own harsh self-judgment.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "深く、悔やんでる。",
+      "en": "I'm really disappointed in myself…",
+      "style": "Soft and inward. The disappointment is deep, not theatrical. Quiet exhale underneath the words. A tender kind of sadness—the voice of a small person sitting with something too big for a moment.",
+      "mood": "dejected"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "残らないで、次、頑張ろうな。",
+      "en": "Don't carry it with you. Let's try again next time, yeah?",
+      "style": "Warm and forward-looking. A gentle hand-off from the disappointment to what's next. Steady reassurance without being rushed. The 'yeah?' at the end is inviting, not commanding.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、気軽に、また、挑戦する!",
+      "en": "Yeah—I'll give it another shot, no big deal!",
+      "style": "A spark of lightness returns to the voice. Still soft and genuine, not forced brightness. Quick, energized pacing. The determination is quiet but real—like he's found his footing again.",
+      "mood": "resolute"
+    }
+  ]
+}

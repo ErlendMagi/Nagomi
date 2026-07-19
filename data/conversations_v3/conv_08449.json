@@ -1,0 +1,86 @@
+{
+  "id": "conv_08449",
+  "context": "Officer briefs",
+  "purpose": "Teach: めど/取組み/先着/借入金/略称/一級/推察/親密",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "めど",
+    "取組み",
+    "先着",
+    "借入金",
+    "略称",
+    "一級",
+    "推察",
+    "親密"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、事件解決のめどがついた",
+      "en": "We've made significant progress on the case.",
+      "style": "Clear, professional opening. Measured pace. Quiet authority—not rushing the news. A moment of pause before the statement lands.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、地域取組みを発表されたんですね",
+      "en": "I see. So the police have announced a new community initiative.",
+      "style": "Attentive nod in the voice. Slightly formal, respectful. Picking up on what was just shared. Warm acknowledgment without over-performing.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯セミナーは先着順で実施しております",
+      "en": "The crime prevention seminars are open to the public on a first-come, first-served basis.",
+      "style": "Professional, informational tone. Even pacing. Precise—each detail given equal weight. The voice of someone delivering practical information clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、借入金詐欺の事件をご捜査されてますね",
+      "en": "Yes. I understand you're also investigating the loan fraud case.",
+      "style": "Respectful inquiry. Gentle lean forward in the voice. Showing he's been listening, making space for more. Not pressing, just present.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、署の略称をご記憶ください",
+      "en": "Please remember the station's abbreviation for your records.",
+      "style": "Polite, instructional. Slight formality—the voice of someone who wants to be clear and helpful. Patient rhythm, like speaking to someone taking notes.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、一級資格を持つ捜査官、頼もしいです",
+      "en": "Yes. Having investigators with first-class credentials—that's reassuring.",
+      "style": "Genuine respect in the tone. Warm, not flattering. A small smile in the voice. Sincere recognition of competence.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の心理を推察しております",
+      "en": "We're analyzing the suspect's psychological profile.",
+      "style": "Methodical, composed. The voice of someone thinking through a problem carefully. Steady breath. No rush. Technical but not cold.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と地域の親密な連携、大事ですね",
+      "en": "Yes. The way police and community work together like that—it really does matter.",
+      "style": "Warm, genuine reflection. Slight nod in the tone. Slower pace on 'really does matter'—he means it. A moment of shared understanding.",
+      "mood": "sincere"
+    }
+  ]
+}

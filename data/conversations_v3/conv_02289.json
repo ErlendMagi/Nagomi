@@ -1,0 +1,79 @@
+{
+  "id": "conv_02289",
+  "context": "Yumiko reads about new tea trends; recommends one to Hina-young.",
+  "purpose": "Grandmother sharing tea wisdom with teen.",
+  "ambient": "tatami_lamp_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "折角",
+    "本家",
+    "父母",
+    "伝統",
+    "老舗",
+    "深く",
+    "尊重",
+    "飲む"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_115)",
+    "generated_at": "2026-05-27T18:52:31.248Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひな、本家の老舗、お茶屋さん、知ってる?",
+      "en": "Hina, do you know about that old tea shop near the main house?",
+      "style": "Warm, conversational opening. Gentle lift on the question mark. Unhurried pace. The tone of someone sharing something she cares about, inviting curiosity rather than demanding it.",
+      "mood": "warm_nostalgic"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "父母から、聞いたことあるかも。",
+      "en": "Maybe… I've heard Mom and Dad mention it before.",
+      "style": "Thoughtful, hesitant. Slight upward tilt — genuine searching her memory. Soft, eager to show she's listening. Small brightness when she lands on the memory.",
+      "mood": "curious_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "折角、伝統、深く感じる場所よ。",
+      "en": "It's a place where you can really feel the depth of that tradition.",
+      "style": "Reverent, almost hushed. Slow, deliberate pace on 「tradition」. No rush — she's painting a picture. Warmth underneath, like she's handing something precious across the table.",
+      "mood": "tender_reverent"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "尊重したい、お茶の文化。",
+      "en": "I want to respect tea culture like they do.",
+      "style": "Earnest, sincere. Soft voice but no uncertainty — this lands as genuine conviction. Slight pause before speaking, like she's choosing her words carefully. Young voice thinking like an older soul.",
+      "mood": "thoughtful_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "皆さん、ようけ尽くしてはるのよ。",
+      "en": "And all those people there have dedicated themselves to keeping it alive.",
+      "style": "Warm admiration woven through. Gentle emphasis on 「devoted」. Soft pride in her voice — not bragging, just appreciating. The pace is unhurried, reverent.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "今度、一緒に、飲みに行きたい!",
+      "en": "Can we go together sometime soon? I want to go!",
+      "style": "Bright, eager, the openness of a child who wants to share something with someone she loves. Quick pace on the first part, then slight softening on the request — not demanding, inviting.",
+      "mood": "excited_hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、約束ね。",
+      "en": "Of course. That's a promise.",
+      "style": "Soft, certain. A quiet yes that settles like a gift placed in open hands. Slight warmth on 「promise」 — this is something she will keep. Tender, final, complete.",
+      "mood": "warm_assured"
+    }
+  ]
+}

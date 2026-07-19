@@ -1,0 +1,62 @@
+{
+  "id": "conv_00702",
+  "context": "Asuka shares a recipe with Ren over text.",
+  "purpose": "small civil tip-sharing",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "料理",
+    "一緒",
+    "おすすめ",
+    "ありがとう",
+    "美味しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "れんさん、こないだ、お話したレシピ、持ってきました。",
+      "en": "Ren, I brought that recipe we talked about the other day.",
+      "style": "Warm, genuinely pleased. Soft opening, steady pace. The satisfaction of having remembered and followed through. Gentle inflection on the offering itself—this is a gift, given without fanfare.",
+      "mood": "warm_thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うわ、ありがとうございます。あおいに、教えたい。",
+      "en": "Wow, thank you so much. I want to show Aoi.",
+      "style": "Genuine surprise that softens into gratitude. Light energy on the opening exclamation. Then thoughtful—the idea of sharing this with someone else lands while he's speaking. Sincere, not performing.",
+      "mood": "grateful_eager"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "簡単で、美味しいですよ。",
+      "en": "It's simple and delicious.",
+      "style": "Reassuring and encouraging. Matter-of-fact about the quality—this will work, he'll be happy with it. Slight emphasis on the simplicity, as if to say: you can do this. Warm but not overselling.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "皆で、一緒に、作ってみますね。",
+      "en": "We'll make it together with everyone.",
+      "style": "Quiet commitment in the voice. Thoughtful pace—he's already picturing it. Gentle, not performative. The word 'together' carries the weight of what this means to him. Soft close.",
+      "mood": "warm_resolved"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "感想、聞かせてくださいね。",
+      "en": "Please tell me what you all think of it.",
+      "style": "Warm curiosity. Leaning slightly forward in the voice—genuinely interested in how this will land with them. Inviting rather than demanding. The close is open, leaving space for the moment after.",
+      "mood": "warm_curious"
+    }
+  ]
+}

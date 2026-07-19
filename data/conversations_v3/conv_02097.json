@@ -1,0 +1,79 @@
+{
+  "id": "conv_02097",
+  "context": "Kenji opens a small staff recruiting drive; Aoi asks questions.",
+  "purpose": "Boss-spouse explaining hiring process.",
+  "ambient": "office_low_meeting",
+  "sound_effects": [],
+  "target_vocab": [
+    "募集",
+    "人材",
+    "会場",
+    "案内",
+    "採用",
+    "社員",
+    "研修",
+    "誌"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_105)",
+    "generated_at": "2026-05-27T13:24:30.752Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "けんちゃん、社員募集、始まったの?",
+      "en": "Ken-chan — the staff recruitment is starting, then?",
+      "style": "Warm, attentive curiosity. Leans in slightly on the question. Gentle lift at the end — genuinely interested in what he's been working on. The tone of someone who remembers details about people she likes.",
+      "mood": "warm_interested"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おう、人材確保、急務やねん。",
+      "en": "Yeah — we really need to get people on board. It's urgent right now.",
+      "style": "Easy Kansai cadence, matter-of-fact but not stressed. Slight weight on 「急務」 to convey real need without drama. The practiced tone of someone talking shop with someone he trusts.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "会場、どこで?",
+      "en": "Where's the venue going to be?",
+      "style": "Natural follow-up question, attentive but not probing. Slight tilt forward — she's tracking what he's saying. No performance, just genuine interest.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本社の案内ホール、使うで。",
+      "en": "We're using the main office reception hall.",
+      "style": "Informative, straightforward delivery. Kansai rhythm on 「使うで」 feels matter-of-fact and honest. Not rushing, giving her the information she asked for.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "誌に、広告載せるの?",
+      "en": "Are you running an ad in a magazine for it?",
+      "style": "Thoughtful strategic question — she's already thinking ahead about reach. Quiet confidence in her tone, like she's offering input without being asked. Slight pause before the question, weighing it.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、来月の号や。",
+      "en": "Yeah, it'll be in next month's issue.",
+      "style": "Confirming nod in the voice. Straightforward, professional. Slight warmth underneath — she's asking good questions and he's letting her see that he's noticed.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "採用後、研修、しっかりね。",
+      "en": "Make sure you do the training properly after you hire them, yeah?",
+      "style": "Gentle but firm underneath. Not lecturing — the tone of someone who cares about his team succeeding. Warm attention on 「しっかり」 with quiet conviction that this matters.",
+      "mood": "caring_insistent"
+    }
+  ]
+}

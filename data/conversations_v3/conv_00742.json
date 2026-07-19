@@ -1,0 +1,76 @@
+{
+  "id": "conv_00742",
+  "context": "Kenji visits Aoi's café and orders a regular drink.",
+  "purpose": "salaryman-barista regular customer exchange",
+  "ambient": "cafe_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "普通",
+    "注文",
+    "おすすめ",
+    "一緒",
+    "美味しい"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "あおいさん、おはようございます。",
+      "en": "Good morning, Aoi-san.",
+      "style": "Warm, genuine greeting. Relaxed formality — he knows her well enough that the politeness is affectionate, not stiff. Open, easy tone. The kind of natural that comes from repeat ritual.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "健次さん、おはよう。普通の注文？",
+      "en": "Morning, Kenji-san. The usual?",
+      "style": "Bright recognition. She's already reaching for the rhythm of his order before he asks. Warmth without effort — the tone of someone who remembers and likes doing so.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、コーヒー、お願いします。",
+      "en": "Yes, coffee please.",
+      "style": "Easy confirmation. No hesitation. The comfort of predictability in his voice — he trusts her judgment. Polite but unguarded.",
+      "mood": "content"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今日の、おすすめ、新しい豆。",
+      "en": "Today's recommendation — new bean.",
+      "style": "Soft offering, not a hard sell. She's inviting him into something small and good. Slight uplift at the end — curiosity about whether he'll bite. Genuine enthusiasm underneath.",
+      "mood": "warm_eager"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おお、試させてください。",
+      "en": "Oh — let me try it.",
+      "style": "Quick interest, no hesitation. There's a small delight in his voice — he likes being surprised by her. Engaged, open. The speed suggests trust.",
+      "mood": "curious_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。きっと、美味しい、いつも一緒の味。",
+      "en": "Yes. It'll be delicious — the same good taste you always get.",
+      "style": "Quiet reassurance. She's not promising the bean is perfect; she's promising that whatever she gives him will be right. Soft confidence. A small promise kept daily.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "楽しみ。ありがとう、いつも。",
+      "en": "Looking forward to it. Thanks — always.",
+      "style": "Gratitude that reaches beyond the coffee. He's thanking her for the ritual, the consistency, the care. Quiet sincerity. Slight trailing-off on the final word, like the thanks extends into unsaid territory.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

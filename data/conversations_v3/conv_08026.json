@@ -1,0 +1,86 @@
+{
+  "id": "conv_08026",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: にもかかわらず/おっしゃら/あげれ/仰っ/当てはめ/まとまら/違わ/無き",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にもかかわらず",
+    "おっしゃら",
+    "あげれ",
+    "仰っ",
+    "当てはめ",
+    "まとまら",
+    "違わ",
+    "無き"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業績悪化にもかかわらず、社員を守れ",
+      "en": "Protect our staff, even as performance declines.",
+      "style": "Clear, measured authority. Open with quiet conviction. Even pacing—no rush. The tone of someone stating principle, not preference. Slight pause weight on the key responsibility.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。先方、おっしゃらない条件があるかもしれません",
+      "en": "Yes. There may be conditions the other side hasn't mentioned yet.",
+      "style": "Careful, attentive phrasing. Lean slightly forward—bringing information forward. Steady pace, businesslike. The hesitation is professional caution, not uncertainty.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員にも昇給をあげればよかった",
+      "en": "I should have given the staff a raise, too.",
+      "style": "Quieter, reflective. A moment of self-examination. Slower pace—genuinely thinking aloud. Not regret performed for effect, but genuine reconsideration of past choice.",
+      "mood": "regretful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社長が仰った戦略、進めております",
+      "en": "Yes. We're implementing the strategy you outlined.",
+      "style": "Respectful but not deferential. Direct. Confirms action underway with steady eye contact. Professional warmth—showing he's heard and is acting on it.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、データを当てはめての分析を続けろ",
+      "en": "Our company will continue to analyze data against real results.",
+      "style": "Directive, measured. Lean back slightly—authority in composure. Even tone across the instruction. Deliberate, not rushed. The weight falls on 'continue'—this is ongoing work.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。意見がまとまらない会議を改善します",
+      "en": "Yes. I'll work to improve how we run those meetings—too many conflicting opinions aren't getting resolved.",
+      "style": "Acknowledgment with a plan. Moderate pace. The tone shows he's taken the implicit feedback and is committing to action. Not defensive—constructive.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社の方針は、業界平均と違わない",
+      "en": "Our approach aligns with industry standards.",
+      "style": "Steady, assuring. Even rhythm. This is positioning—a statement of fact offered to provide context or reassurance. Not defensive, but clear on footing.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様無きの月もあるかもしれません",
+      "en": "Yes. We may see months where there are no major accounts ordering.",
+      "style": "Pragmatic concern. Measured delivery of a difficult truth. Slight brace in the shoulders—readiness for the reality he's naming. Not alarmist, but honest about risk.",
+      "mood": "realistic"
+    }
+  ]
+}

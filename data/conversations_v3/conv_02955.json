@@ -1,0 +1,75 @@
+{
+  "id": "conv_02955",
+  "context": "Kenji and Yuki fix a connection problem.",
+  "purpose": "WIDENED SCENARIO: tech troubleshooting; vocabulary (コード/接続/操作/構築/装置) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コード",
+    "接続",
+    "操作",
+    "構築",
+    "装置"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "装置が、急に止まったんです。",
+      "en": "The device suddenly stopped.",
+      "style": "worried office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コードの接続を、確認しましょう。",
+      "en": "Let's check the cord connection.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "コードは、抜けていませんね。",
+      "en": "The cord isn't unplugged.",
+      "style": "attentive office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "操作の手順を、もう一度やりましょう。",
+      "en": "Let's redo the operation steps.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "操作したら、接続が戻りました!",
+      "en": "After operating it, the connection returned!",
+      "style": "relieved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "仕組みを、もっと丈夫に構築しますね。",
+      "en": "I'll build the system more robustly.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "装置の操作、覚えられました。",
+      "en": "I learned how to operate the device.",
+      "style": "satisfied office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "接続が安定すれば、もう安心です。",
+      "en": "Once the connection's stable, you're fine.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

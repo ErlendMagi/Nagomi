@@ -1,0 +1,75 @@
+{
+  "id": "conv_03037",
+  "context": "Saito advises Yuki on managing stress.",
+  "purpose": "WIDENED SCENARIO: medical advice; vocabulary (ストレス/思える/恐れ/すばらしい/早速) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ストレス",
+    "思える",
+    "恐れ",
+    "すばらしい",
+    "早速"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "最近、ストレスが溜まっているんです。",
+      "en": "Lately I've built up stress.",
+      "style": "tired office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ストレスは、誰にでもあるものです。",
+      "en": "Stress is something everyone has.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "休むのが、怖いように思えるんです。",
+      "en": "Resting feels frightening to me.",
+      "style": "vulnerable office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "恐れず、少しずつ休みましょう。",
+      "en": "Without fear, let's rest little by little.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "散歩は、ストレスに効きますか?",
+      "en": "Is walking effective against stress?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "散歩は、すばらしい効果がありますよ。",
+      "en": "Walking has a wonderful effect.",
+      "style": "warm doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では、早速、始めてみます。",
+      "en": "Then I'll start right away.",
+      "style": "resolved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "休む勇気も、すばらしいと思えますよ。",
+      "en": "The courage to rest seems wonderful too.",
+      "style": "gentle doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

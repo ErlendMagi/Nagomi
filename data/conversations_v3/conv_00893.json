@@ -1,0 +1,76 @@
+{
+  "id": "conv_00893",
+  "context": "Sakura asks Asuka about a recent popular novel.",
+  "purpose": "student-teacher book-recommend exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "人気",
+    "映画",
+    "本",
+    "一緒",
+    "考える"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_045)",
+    "generated_at": "2026-05-27T02:39:30.683Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、最近、人気の本、ありますか？",
+      "en": "Teacher, have you heard of any popular books lately?",
+      "style": "Genuine curiosity leaning forward. Warm and direct but not pushy — testing whether this teacher is someone who really listens. The intonation rises slightly at the end, inviting.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、新人作家、注目してる。",
+      "en": "Yeah, I've been following this new author.",
+      "style": "Encouraging and genuine, as if she's been waiting for Sakura to ask. Unhurried. A small smile in the voice — the kind of teacher who actually reads.",
+      "mood": "engaged_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "映画にも、なった、聞きました。",
+      "en": "I heard it got adapted into a movie.",
+      "style": "Thoughtful, still engaged. A light note of recognition — she's done her research a little. Not boasting, just sharing. Soft uptick at the end.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう、本、先に読むの、おすすめ。",
+      "en": "Yeah, I'd actually recommend reading the book first.",
+      "style": "Gentle advice-giving, not lecturing. The kind of suggestion that comes from experience. Warm but clear. A small pause before the recommendation lands.",
+      "mood": "advising_genuine"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一緒に、感想、話せる？",
+      "en": "Could we talk about what we think of it afterward? Together?",
+      "style": "Hopeful but not desperate. A real question, not performed enthusiasm. She's asking if this matters to the teacher. The 'together' carries weight.",
+      "mood": "hopeful_reaching"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん、楽しみ。",
+      "en": "Of course. I'm really looking forward to it.",
+      "style": "Warm and immediate. No hesitation. A small softness comes through — she means it. The kind of promise that makes you feel seen.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "すぐ、買ってみます。",
+      "en": "I'll go get it right away.",
+      "style": "Bright resolution. Energy up slightly from the vulnerable question just before. A small note of excitement — she's decided. Ends on forward momentum.",
+      "mood": "determined_bright"
+    }
+  ]
+}

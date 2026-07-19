@@ -1,0 +1,83 @@
+{
+  "id": "conv_00085",
+  "context": "A koban afternoon. Takeda is showing a new officer (placeholder: Ren, here as the trainee) how to handle a lost-item intake.",
+  "purpose": "mentor + trainee — workplace patience, tiny instruction",
+  "ambient": "police_box",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "見る",
+    "大丈夫",
+    "今",
+    "少し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "まず、これ、見て。",
+      "en": "First — look at this.",
+      "style": "Slides a form across the desk. Calm professional pacing.",
+      "mood": "instructional_calm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "…はい。",
+      "en": "…Yes.",
+      "style": "Mumbled focus. Pen already in hand.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "記入は三カ所だけ。本当に簡単。",
+      "en": "Only three fields to fill. Truly — simple.",
+      "style": "A small reassuring tone. Eye-contact in the voice.",
+      "mood": "reassuring_pro"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に簡単ですか？",
+      "en": "Truly simple?",
+      "style": "Half-laugh of nervous trainee. Doubting himself.",
+      "mood": "nervous_trainee"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当に。最初は、誰でも緊張する。",
+      "en": "Truly. Everyone is nervous at first.",
+      "style": "A normalising kindness. Slow, even — with steady attentive presence.",
+      "mood": "normalising"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "時間、もう少しください、念のため。",
+      "en": "Just to be safe — a little more time, please.",
+      "style": "A small polite request. Voice careful.",
+      "mood": "polite_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫。今日は、お客さん少ないから。",
+      "en": "It's fine. Few visitors today.",
+      "style": "A small reassurance with a small joke audible.",
+      "mood": "reassuring_joke"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "A small bow inside the voice. Settles into the desk.",
+      "mood": "settling"
+    }
+  ]
+}

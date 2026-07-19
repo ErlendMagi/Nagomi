@@ -1,0 +1,70 @@
+{
+  "id": "conv_00105",
+  "context": "Sunday morning at home. Yumiko is trying to take a family photo for the holiday card. Hina is unwilling; Ryosuke is patient.",
+  "purpose": "three-speaker domestic comedy — small parental negotiation with a kid",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "今",
+    "ありがとう",
+    "一緒",
+    "時間"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひな、こっち向いて。一枚だけ、お願い。",
+      "en": "Hina — face this way. Just one photo, please.",
+      "style": "Gentle, patient request. Camera already in hand—slight lift in the voice as she positions it. Warm, not hurried.",
+      "mood": "patient_warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えー、もう撮ったでしょ。",
+      "en": "Ugh, come on — you already took one.",
+      "style": "Full eight-year-old protest, half-laughing and winding up. Voice bright with exasperation but not unkind. Eyes flicking between her parents.",
+      "mood": "playful_resistant"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ひな、本当に、最後の一枚だけ。",
+      "en": "Hina — truly, just the very last one.",
+      "style": "Soft dad-mediator voice. Light, genuine warmth beneath the gentle insistence. Almost conspiratorial—he's on her side, gently steering.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…本当に最後？",
+      "en": "…Really the last one?",
+      "style": "Skeptical little voice, testing them. Small pause before speaking. Head tilting slightly, eyes narrowing with mock suspicion but ready to be convinced.",
+      "mood": "doubtful_testing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に最後。約束。一緒に、はい。",
+      "en": "Really the last. I promise. Come on — say cheese.",
+      "style": "Firm-warm closer. Camera lifted with finality. A small solemn promise in her voice, then a shift toward playfulness to seal the deal.",
+      "mood": "firm_affectionate"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "(grins)はい！",
+      "en": "(grins) Okay!",
+      "style": "A real, bright grin floods the voice—the moment won. Small and genuine, relief and delight mixed. The shoot is saved.",
+      "mood": "bright_compliant"
+    }
+  ]
+}

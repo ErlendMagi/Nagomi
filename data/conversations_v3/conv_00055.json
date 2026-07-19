@@ -1,0 +1,68 @@
+{
+  "id": "conv_00055",
+  "context": "Monday morning, office cafeteria. Daichi is hungover; Kenji is unreasonably cheerful.",
+  "purpose": "morning-after banter — friend solidarity through teasing",
+  "ambient": "office_open_plan",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "大丈夫",
+    "時間",
+    "水"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おはよう。…生きてる？",
+      "en": "Morning. You hanging in there?",
+      "style": "Light, knowing tone. Gentle ribbing wrapped in real concern. Sets a cup of water down with a soft clink—casual care.",
+      "mood": "warm_amused"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "生きとらん。本当に、生きとらん。",
+      "en": "Not really. Honestly—I'm running on fumes.",
+      "style": "Flat, defeated. Head drops onto the table in the voice. Heavy Kansai dialect, the words dragging with exhaustion and theatrical despair.",
+      "mood": "exhausted_dramatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "水、飲み。今日、午後会議やで。",
+      "en": "Drink that water. You've got an afternoon meeting, remember.",
+      "style": "Half-suppressed laugh underneath. Switches to rough Kansai for the last phrase—playful imitation, clearly teasing him.",
+      "mood": "playful_sympathetic"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "やめてや、お前。本当に、やめてや。",
+      "en": "Come on, don't do this. I'm serious—don't.",
+      "style": "Wounded performance, voice cracking theatrically on the protest. Mock-suffering with genuine affection buried underneath.",
+      "mood": "playful_pleading"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大丈夫やって、時間あるから。寝とき、少し。",
+      "en": "You'll survive—you've got time. Just grab a few minutes of sleep.",
+      "style": "Warm and steady, like a real hand on the shoulder. Underneath the humor: genuine friendship. Matter-of-fact reassurance.",
+      "mood": "caring_grounded"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "…ありがと。本当に。",
+      "en": "…Thanks. Seriously.",
+      "style": "Quiet, mumbled, stripped of all the earlier performance. Real gratitude breaking through. The softest moment he's allowed himself all morning.",
+      "mood": "grateful_sincere"
+    }
+  ]
+}

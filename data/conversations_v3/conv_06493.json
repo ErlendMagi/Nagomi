@@ -1,0 +1,86 @@
+{
+  "id": "conv_06493",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 名声/攻める/前身/模試/近世/廃案/本州/鎖国",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "名声",
+    "攻める",
+    "前身",
+    "模試",
+    "近世",
+    "廃案",
+    "本州",
+    "鎖国"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_326 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、名声ある専門医、近年、地方にも増えました。",
+      "en": "Ren, well-regarded specialists have been appearing more frequently in regional areas in recent years.",
+      "style": "Clear, measured delivery. Opening with his name acknowledges him directly. Steady pace, informative but not lecturing. Slight emphasis on 'regional' — noting a trend she's observed.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療、攻める方針と、保守的方針、両論あるんですね。",
+      "en": "So there are different schools of thought — aggressive treatment versus a more conservative approach.",
+      "style": "Leaning forward slightly with interest. Genuine curiosity, not performing knowledge. Soft upward inflection on the question. Processing what she's said.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。当院の前身、明治の診療所です。",
+      "en": "Yes. This hospital traces back to a Meiji-era clinic — our predecessor.",
+      "style": "Matter-of-fact, grounded in institutional history. Slight pause after 'Yes' — she's anchoring the conversation in what she knows. Calm authority without weight.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医学生、模試で、実力測りますか。",
+      "en": "Do medical students take mock exams to assess their level?",
+      "style": "Hesitant phrasing, testing whether this is a reasonable question. Respectful but earnest. No performance — he's genuinely trying to understand how preparation works.",
+      "mood": "earnest_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。近世の医療史、教養として大切です。",
+      "en": "Yes. Early-modern medical history is an important part of their foundational education.",
+      "style": "Slightly warmer than before — she recognizes the genuine question. Clear, direct. A small affirmation that he's on the right track. Educational but not condescending.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承認、廃案になった薬、ありましたね。",
+      "en": "There have been drugs that were rejected in the approval process.",
+      "style": "Tentative, testing whether he's asking the right thing. Quiet confidence underneath — she knows this territory. Slight trailing-off, inviting him to push further.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。本州医療連携、強化中です。",
+      "en": "Yes. We're currently strengthening our medical coordination network across Honshu.",
+      "style": "Shift to procedural clarity. More structured, less personal. She's moving into institutional context — this is how systems work now. Steady, factual.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "鎖国期の医療制限、現代との対比、研究、興味深いですね。",
+      "en": "The medical restrictions during the Sakoku period compared to modern practice — that's genuinely fascinating research.",
+      "style": "Soft, almost surprised recognition. He's arrived somewhere real. Slow, contemplative pace. This lands differently than the earlier questions. A small smile in the voice.",
+      "mood": "warm_intrigued"
+    }
+  ]
+}

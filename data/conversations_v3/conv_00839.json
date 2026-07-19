@@ -1,0 +1,76 @@
+{
+  "id": "conv_00839",
+  "context": "Yuki visits the clinic with a recurring headache.",
+  "purpose": "doctor-patient headache exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "頭痛",
+    "病院",
+    "診察",
+    "相談",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_042)",
+    "generated_at": "2026-05-27T02:11:35.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "先生、頭痛、最近、続いてます。",
+      "en": "Doctor, I've been getting persistent headaches lately.",
+      "style": "Gentle opener with a slight breath before the complaint. Earnest tone — not dramatizing, but being honest about what's brought her in. Soft pace. The vulnerability of someone admitting she's not fine.",
+      "mood": "concerned_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつから、ですか？",
+      "en": "How long has this been going on?",
+      "style": "Steady, professional inquiry delivered with genuine care. Lean forward slightly — this is her listening moment. Warm but measured. The composure of someone who has heard this many times and takes it seriously.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "二週間、くらい。仕事、忙しくて。",
+      "en": "About two weeks. Work's been pretty intense.",
+      "style": "Hesitant connection between the timeline and the reason. She's explaining, maybe apologizing a little for her own exhaustion. Soft trailing-off on 'intense' — acknowledging it sounds like an excuse even as she speaks it.",
+      "mood": "tired_apologetic"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "診察、しますね。リラックスして。",
+      "en": "I'm going to examine you. Just relax, okay?",
+      "style": "Reassuring and clear. A shift into action — the doctor moving from listening to doing. Warm but clinical efficiency. The kind of directive that's meant to settle nerves, not heighten them.",
+      "mood": "professional_kind"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、お願いします。",
+      "en": "Yes, thank you.",
+      "style": "Small, yielding response. Trust in her voice. The relief of handing her worry over to someone who knows what to do. Quiet compliance.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "緊張、原因かも。休む事、大切ですよ。",
+      "en": "It's likely stress-related. Getting proper rest is really important.",
+      "style": "Gentle conclusion with weight behind it. Not scolding — advising. A slight emphasis on 'rest' that suggests she's heard this before from other patients. Warm closure.",
+      "mood": "caring_direct"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "気を付けます、相談、また、来ます。",
+      "en": "I'll be careful. I'll come back for a follow-up appointment.",
+      "style": "Respectful acceptance. A small promise in her voice — she's heard the advice and she's taking it. Quiet gratitude for the care. The closing courtesy of someone leaving a doctor's office.",
+      "mood": "resolved"
+    }
+  ]
+}

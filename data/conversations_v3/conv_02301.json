@@ -1,0 +1,79 @@
+{
+  "id": "conv_02301",
+  "context": "Sho-young hurts his hand; Mei tends to it gently.",
+  "purpose": "Mother caring for child injury.",
+  "ambient": "kitchen_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "手首",
+    "ケガ",
+    "優しい",
+    "直ぐに",
+    "小児",
+    "心配",
+    "冷却",
+    "安心"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_116)",
+    "generated_at": "2026-05-27T19:03:11.195Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、手首、痛い!",
+      "en": "Mom, my wrist hurts!",
+      "style": "Sharp pain-cry opening with immediate rush to reassurance-seeking. Breathless, slightly gasping quality. Small voice reaching for safety, not performing the hurt but living it.",
+      "mood": "hurt_urgent"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "まあ、ケガしたの?見せて。",
+      "en": "Oh — you're hurt? Let me see it.",
+      "style": "Instant alert shift into caring focus. No hesitation. Gentle but present — moving toward action, not away. The quiet authority of someone who knows how to help.",
+      "mood": "concerned_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ちょっと、しか、ない。",
+      "en": "It's only a little sore.",
+      "style": "Small voice downplaying, checking her face for how worried to be. Quiet hope underlying the minimization — wanting reassurance but not quite believing it yet.",
+      "mood": "small_worried"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "優しく、冷却しようね。",
+      "en": "Let's cool it gently, okay?",
+      "style": "Slow, deliberate pace. Each word carries intention and reassurance. Soft hands in the voice — the exact opposite of rushed. Meeting him exactly where his fear is.",
+      "mood": "tender_protecting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "直ぐに、治る?",
+      "en": "Will it get better soon?",
+      "style": "Quiet question with hope rising at the end. Not quite believing it will, but wanting to. The smallest voice — checking if he's allowed to feel better.",
+      "mood": "anxious_hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "小児だから、すぐ回復するよ、安心して。",
+      "en": "Kids heal fast, sweetheart. You're going to be fine.",
+      "style": "Warm, knowing certainty without condescension. Matter-of-fact reassurance — the kind that comes from having seen this before. Hand on his shoulder in her voice.",
+      "mood": "confident_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、お母さん。",
+      "en": "Thank you, Mom.",
+      "style": "Small, exhausted relief. The softness of being believed, being held. Trailing into quiet gratitude — no energy left but the feeling of being safe.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

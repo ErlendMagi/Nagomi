@@ -1,0 +1,78 @@
+{
+  "id": "conv_04988",
+  "context": "A uni intern interviews a manager about public sector partnerships",
+  "purpose": "Teach: 公募/補強/常任/衆院/本店/頂点/市立/乗車",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公募",
+    "補強",
+    "常任",
+    "衆院",
+    "本店",
+    "頂点",
+    "市立",
+    "乗車"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。早速ですが、御社の公募型パートナーシップ事業について伺ってもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask right away about your company's open-bid partnership projects?",
+      "style": "Polite intern opening with formal keigo register"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんです。去年から自治体との連携を補強する方針でして、市立の図書館や病院との共同プロジェクトを増やしているんですよ。",
+      "en": "Of course. Since last year we've been strengthening ties with local governments, expanding joint projects with city libraries and hospitals.",
+      "style": "Friendly office manager explaining business direction clearly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。常任の担当部署が本店に置かれているとお聞きしました。意思決定はそこが頂点になるんですか。",
+      "en": "I see. I heard the standing department is based at headquarters. Is that the top of the decision-making structure?",
+      "style": "Curious intern asking structural follow-up question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうですね、最終判断は本店の常任委員会で行います。ただ現場の声を反映する仕組みも整えています。",
+      "en": "Yes, final decisions are made by the standing committee at headquarters. But we also have systems to reflect on-site voices.",
+      "style": "Manager balancing authority with grassroots responsiveness"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "衆院での法改正の影響はいかがでしょうか。公共調達のルールが変わったと報道されていますが。",
+      "en": "How has the legal revision in the lower house affected things? The news reported public procurement rules have changed.",
+      "style": "Intern raising policy awareness gleaned from recent media"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "鋭いご指摘ですね。実は衆院通過後、入札の透明性要件が厳しくなったので、書類作成の負担はかなり増えました。",
+      "en": "Sharp observation. Actually after it passed the lower house, bidding transparency requirements tightened, so paperwork burdens grew considerably.",
+      "style": "Manager candidly acknowledging regulatory burden, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。最後に、現場視察に同行する際は乗車券などは自分で手配する形でしょうか。",
+      "en": "Very educational. Lastly, when accompanying site visits, should I arrange train tickets and such myself?",
+      "style": "Polite intern wrapping up with practical question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえいえ、乗車にかかる費用はこちらで負担しますので、ご安心ください。来週の自治体訪問、楽しみにしていますね。",
+      "en": "No no, we cover transportation costs, so please don't worry. I'm looking forward to next week's municipal visit.",
+      "style": "Reassuring manager closing with warm encouragement"
+    }
+  ]
+}

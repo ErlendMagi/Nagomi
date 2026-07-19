@@ -1,0 +1,72 @@
+{
+  "id": "conv_05629",
+  "context": "A police officer interviews a manager about a fraud case",
+  "purpose": "Teach: 残高/納税/人件/同行/職種/命じ/多額/持ち出し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "残高",
+    "納税",
+    "人件",
+    "同行",
+    "職種",
+    "命じ",
+    "多額",
+    "持ち出し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の口座残高、急激に動いた時期がありますね。",
+      "en": "Your account balance showed some sharp movements during a particular period.",
+      "style": "Professional, measured opening. Even pace. Phrases it as observation, not accusation. Steady eye contact implied through the voice.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。納税還付の入金時期と重なっています。",
+      "en": "Yes — that coincides with when the tax refunds came through.",
+      "style": "Straightforward, cooperative. No defensiveness. Offers the explanation directly, almost relieved to have a clear reason ready.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "多額の出金、社員の持ち出し記録はありますか。",
+      "en": "And for the larger withdrawals — do you have any records of employees handling those amounts personally?",
+      "style": "Shifts slightly more formal. Not accusatory, but the question is precise. Pauses before the final clause to let it land. Professional distance maintained.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "監査同行で確認します。",
+      "en": "I'll confirm that during the audit review.",
+      "style": "Clipped, efficient. Not evasive—just businesslike. He knows what he needs to do and is ready to do it.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "職種別の人件費、出張規程と合わせて拝見できますか。",
+      "en": "Could I also see the salary breakdown by role and the travel allowance guidelines?",
+      "style": "Slightly softer than the previous questions. Thorough but not pressing. Phrases it as a request, not a demand. Methodical in tone.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、上司に命じられています、全て開示するよう。",
+      "en": "Of course. My supervisor has instructed me to disclose everything.",
+      "style": "Firm, compliant finality. The mention of the supervisor's directive adds weight. No hesitation. Closes the topic with quiet certainty.",
+      "mood": "resolute"
+    }
+  ]
+}

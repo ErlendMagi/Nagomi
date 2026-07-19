@@ -1,0 +1,75 @@
+{
+  "id": "conv_02954",
+  "context": "Ren profiles a software engineer for an article.",
+  "purpose": "WIDENED SCENARIO: tech interview; vocabulary (コード/接続/操作/構築/装置) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コード",
+    "接続",
+    "操作",
+    "構築",
+    "装置"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "どんなシステムを、構築したんですか?",
+      "en": "What kind of system did you build?",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "装置をつなぐ、大きな仕組みを構築しました。",
+      "en": "I built a large system that connects devices.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "コードは、どれくらい書いたんですか?",
+      "en": "How much code did you write?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大量のコードを、書きました。",
+      "en": "I wrote a great deal of code.",
+      "style": "clear engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "装置同士の接続は、難しいですか?",
+      "en": "Is connecting devices difficult?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "接続の安定が、一番の課題でした。",
+      "en": "Connection stability was the biggest challenge.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "操作は、誰でもできますか?",
+      "en": "Can anyone operate it?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "操作は簡単に、構築したつもりです。",
+      "en": "I built the operation to be simple.",
+      "style": "warm engineer voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

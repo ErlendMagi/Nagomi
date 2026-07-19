@@ -1,0 +1,75 @@
+{
+  "id": "conv_03022",
+  "context": "Mei and Aoi shop for a limited-edition item.",
+  "purpose": "Casual register; vocabulary (死ん/限定/サイズ/詳しく/探す) in natural home.",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "死ん",
+    "限定",
+    "サイズ",
+    "詳しく",
+    "探す"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "限定のバッグを、探しているの。",
+      "en": "I'm searching for a limited-edition bag.",
+      "style": "soft warm woman voice, gentle engaged delivery throughout"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "どんなサイズが、いいの?",
+      "en": "What size are you after?",
+      "style": "bright barista voice, soft warm cheerful delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "小さめのサイズを、探してるの。",
+      "en": "I'm looking for a smallish size.",
+      "style": "gentle woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ネットで、詳しく調べてみようか。",
+      "en": "Shall we look it up in detail online?",
+      "style": "helpful barista voice, soft warm cheerful delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あ、スマホが死んじゃった。",
+      "en": "Oh, my phone died.",
+      "style": "rueful woman voice, gentle warm delivery throughout"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "私のスマホで、詳しく見ようよ。",
+      "en": "Let's look at it in detail on mine.",
+      "style": "cheerful barista voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "限定だから、急いで探さなきゃ。",
+      "en": "It's limited, so I have to search fast.",
+      "style": "soft woman voice, gentle warm delivery throughout"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "サイズが合うの、見つかるといいね!",
+      "en": "I hope you find one in your size!",
+      "style": "bubbly barista voice, soft warm cheerful closing delivery throughout"
+    }
+  ]
+}

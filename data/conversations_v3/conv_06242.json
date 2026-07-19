@@ -1,0 +1,86 @@
+{
+  "id": "conv_06242",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 応対/兆候/日にち/一軒/足音/数え切れ/無性に/レシート",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "応対",
+    "兆候",
+    "日にち",
+    "一軒",
+    "足音",
+    "数え切れ",
+    "無性に",
+    "レシート"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_314 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、電話の応対、上手だね。",
+      "en": "Mom, you're really good at answering the phone.",
+      "style": "Bright, admiring observation. Simple directness. Slight wonder in his voice — noticing something he respects about her.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、ありがとう。最近、何か病気の兆候、感じてない?",
+      "en": "Hehe, thank you. Have you been feeling okay? Any signs of getting sick?",
+      "style": "Warm, gentle laugh. Soft worry underneath — the practical question of a mother who checks in quietly. Not anxious, just attentive.",
+      "mood": "tender_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん!運動会の日にち、楽しみ。",
+      "en": "Yeah! I'm really looking forward to the sports day.",
+      "style": "Genuine enthusiasm. Simple, unperformed. The energy of a child who's genuinely excited about something concrete and close.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "近所の一軒家、新しく建ったね。",
+      "en": "A new house went up on our street.",
+      "style": "Gentle observation. Conversational, not quite connecting to his excitement — a mother's mind noting something small. Soft, almost to herself.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "パパの足音、玄関で聞こえた。",
+      "en": "I heard Dad's footsteps at the entrance.",
+      "style": "Alert, quick noticing. The precision of a quietly observant child — registering a small detail with certainty. Anticipatory tone.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達からのお手紙、数え切れないくらい届いたね。",
+      "en": "You got so many letters from your friends.",
+      "style": "Warm appreciation. Slight wonder at the pile. Not condescending — genuine delight in how many people care about him.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "無性に外で走り回りたい!",
+      "en": "I just feel like running around outside!",
+      "style": "Sudden, energetic burst. The urgency of restless joy. Quick pace, breathless. The need to move right now.",
+      "mood": "restless_joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お小遣い用、レシート、大事に取って。",
+      "en": "Keep those receipts from your allowance. They're important.",
+      "style": "Practical, warm close. The quiet lesson of a mother who teaches through small things. Not stern — gentle guidance. Closing note of care.",
+      "mood": "warm_practical"
+    }
+  ]
+}

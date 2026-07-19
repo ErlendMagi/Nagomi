@@ -1,0 +1,83 @@
+{
+  "id": "conv_00011",
+  "context": "Examination room. Mei has come in worried about a recurring symptom. Dr. Saito sits down before speaking.",
+  "purpose": "medical reassurance — clinical care delivered with warmth",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "大丈夫",
+    "心配",
+    "本当に",
+    "時間",
+    "少し",
+    "どう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お待たせしました。今日はどうされましたか？",
+      "en": "Thank you for waiting. What brings you in today?",
+      "style": "Sits down on the question — physically lowering the stakes. Even, professional, kind.",
+      "mood": "professional_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あの…最近、ちょっと心配なことがあって。",
+      "en": "Um… recently, there's been something I've been a bit worried about.",
+      "style": "Soft, careful opener. The 「あの」 is half a breath. Looks at her hands during the line.",
+      "mood": "careful_open"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ゆっくりで大丈夫ですよ。どんなことですか？",
+      "en": "Take your time. What is it?",
+      "style": "Slower than the previous line. The reassurance is given by pace, not by words alone.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "少し前から、夜、眠れない日が続いていて…",
+      "en": "Since a little while back, there have been nights I can't sleep — it's been going on…",
+      "style": "Trails into the second clause. Honest but small. Looks up briefly at the end.",
+      "mood": "admitting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。それは本当につらいですね。",
+      "en": "I see. That's genuinely difficult.",
+      "style": "The 「なるほど」 is brief, then the warmth lands on 「本当に」. No false pity — recognition.",
+      "mood": "recognising"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい…どうしたらいいか、わからなくて。",
+      "en": "Yes… and I don't know what I should do.",
+      "style": "A small inhale before the second half. The admission is the heaviest line so far.",
+      "mood": "lost"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "少し時間を取って、一緒に整理しましょう。大丈夫。",
+      "en": "Let's take a bit of time and sort through this together. It'll be okay.",
+      "style": "Quiet authority. The 「大丈夫」 is offered like a small object placed carefully on the desk. JP and EN: same steady kindness.",
+      "mood": "taking_charge_kind"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、お願いします。",
+      "en": "Yes — please.",
+      "style": "A small, real relief. Quieter than the previous lines but stronger.",
+      "mood": "relieved_yielding"
+    }
+  ]
+}

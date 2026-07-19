@@ -1,0 +1,183 @@
+{
+  "id": "conv_00062",
+  "context": "A late-night wine bar after work. Yuki has been carrying something for months. Yumiko — her senior, now her friend — has noticed. Tonight she sits Yuki down.",
+  "purpose": "deferred confessional — junior to senior, woman to woman",
+  "ambient": "bar_evening",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大丈夫",
+    "今",
+    "言う",
+    "大変",
+    "友達",
+    "心配"
+  ],
+  "cast": [
+    "yuki_office",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Extended (21-30)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ねえ、ゆきちゃん。…ちょっと、聞いていい？",
+      "en": "Hey, Yuki-chan. …Can I ask you something?",
+      "style": "Sets her glass down deliberately. Voice softer than usual.",
+      "mood": "deliberate_soft"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい…どうぞ。",
+      "en": "Yes — please.",
+      "style": "Quiet. Already knows what kind of question it will be.",
+      "mood": "already_knowing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "最近、ちょっと元気ない気がして。本当に、大丈夫？",
+      "en": "Lately — you've seemed a bit off. Really — are you okay?",
+      "style": "The line she has been holding for two weeks. Direct but warm.",
+      "mood": "long_held_question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…そんなに、わかりやすいですか？",
+      "en": "…Is it that obvious?",
+      "style": "Quiet. Already knows what kind of question this is.",
+      "mood": "caught_seen"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。先輩、伊達じゃないからね。",
+      "en": "Mm. I'm a senior for a reason.",
+      "style": "A small joke to soften the moment. Warm.",
+      "mood": "gentle_joke"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…本当は、ずっと、悩んでて。",
+      "en": "…Truthfully — I've been struggling for a while.",
+      "style": "A quiet release. A breath before each clause.",
+      "mood": "quiet_release"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "One syllable. All listening. Hands on the glass.",
+      "mood": "listening"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "今の仕事…向いてない気がして。",
+      "en": "This job… I don't think I'm suited for it.",
+      "style": "The sentence she hasn't said out loud yet.",
+      "mood": "releasing_truth"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "なるほど。…どのくらい、考えてた？",
+      "en": "I see. …How long have you been thinking about it?",
+      "style": "No reaction yet. Pure listening tone.",
+      "mood": "pure_listening"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "半年くらい…毎日。",
+      "en": "About six months… every day.",
+      "style": "A small relieved exhale. The weight measured out.",
+      "mood": "naming_weight"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "半年か…それは、本当に大変だったね。",
+      "en": "Six months… that's genuinely been rough.",
+      "style": "Real recognition. Not pity — recognition.",
+      "mood": "recognising"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…誰にも言えなくて。",
+      "en": "…Couldn't tell anyone.",
+      "style": "The quietest line so far. Voice catches half a step.",
+      "mood": "quietest_yet"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "私には、いつでも言っていいから。本当に。",
+      "en": "You can tell me anytime. Really.",
+      "style": "Firm warmth. The 「本当に」 carries the weight of years of office friendship.",
+      "mood": "firm_warmth"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます…でも、心配かけたくなくて。",
+      "en": "Thank you… but I didn't want to worry you.",
+      "style": "Classic Yuki self-effacement. Voice goes very small.",
+      "mood": "self_effacing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "心配かけてくれていいの。それが友達。",
+      "en": "Worrying me is allowed. That's what friends do.",
+      "style": "A firm sentence said gently. The pivot of the conversation.",
+      "mood": "pivot_firm"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…(small breath, eyes wet)",
+      "en": "(small breath, eyes wet)",
+      "style": "A real beat. Doesn't need to speak. The whole weight resettling.",
+      "mood": "resettling"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "で。次、何したい？少しでも、思ってること、ある？",
+      "en": "So — what do you want next? Even a little — anything you've thought about?",
+      "style": "Pivoting toward action without rushing her.",
+      "mood": "pivoting_forward"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…まだ、わからない。でも、考えてもいいって思えただけで、楽になった。",
+      "en": "…I don't know yet. But just being allowed to think about it — it's easier.",
+      "style": "A real small relief audible. The conversation's actual purpose.",
+      "mood": "real_relief"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "それで十分。時間、ちゃんとかけてね。",
+      "en": "That's enough. Take the time, properly.",
+      "style": "Closing-but-not-closing. The mentorship offered without taking over.",
+      "mood": "mentor_closing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "…本当に、ありがとうございます。",
+      "en": "…Truly — thank you.",
+      "style": "The night condensed into one line. Voice steady now.",
+      "mood": "condensed_thanks"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もう一杯飲も。話、変えていいよ。",
+      "en": "Let's have another. Change the topic if you want.",
+      "style": "A practical kindness — releasing the weight of the conversation by lifting it.",
+      "mood": "practical_release"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい…ぜひ。",
+      "en": "Yes… please.",
+      "style": "A small grateful exhale. The night softens.",
+      "mood": "grateful_exhale"
+    }
+  ]
+}

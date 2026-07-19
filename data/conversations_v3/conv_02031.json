@@ -1,0 +1,79 @@
+{
+  "id": "conv_02031",
+  "context": "Naoko reads an old recipe diary aloud with Mei.",
+  "purpose": "Aunt sharing personal cooking history.",
+  "ambient": "ramen_shop_evening_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "日記",
+    "おり",
+    "使っ",
+    "探し",
+    "昔",
+    "実際",
+    "思い出",
+    "違っ"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_102)",
+    "generated_at": "2026-05-27T12:52:20.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おばあちゃんの日記、見つけたで。",
+      "en": "I found Grandma's diary.",
+      "style": "Warm, unhurried Kansai drawl. Soft opening, like sharing something precious. The 'found' lands with quiet satisfaction—not a big announcement, but unmistakably tender.",
+      "mood": "nostalgic_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "昔の料理、書いてあるの?",
+      "en": "Does it have her old recipes in it?",
+      "style": "Gentle curiosity, leaning in slightly. Soft and attentive—genuinely interested in what this means to Naoko. No rush in the pacing.",
+      "mood": "curious_gentle"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おう、当時、ようけ使ってた材料、書いとる。",
+      "en": "Yeah, all the ingredients she used to stock back then—she wrote them all down.",
+      "style": "Proud, fond Kansai lilt. Slightly slower on 'stock back then'—savoring the memory. Warm throughout, like remembering something she loved about her mother.",
+      "mood": "affectionate_proud"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "実際、今と違ってましたか?",
+      "en": "Were they different from what you use now?",
+      "style": "Thoughtful and engaged, genuinely wondering. Soft tone, no performance—asking because she wants to understand what made those recipes hers.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うん、探した苦労が、書いてある。",
+      "en": "Yeah, she wrote about how hard it was to find some of them back then.",
+      "style": "Quieter now, more reflective. A small pause before 'wrote'—honoring the effort her mother put in. Voice lingers tenderly on 'hard it was.'",
+      "mood": "tender_moved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "おばあちゃんの思い出、嬉しいですね。",
+      "en": "These memories of your grandma—they're really precious.",
+      "style": "Warm and genuine, no sentimentality. Soft certainty in the voice—she's understood something real about what Naoko is feeling. Steady and present.",
+      "mood": "warm_understanding"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ふふ、私にとって、宝物や。",
+      "en": "Heh—for me, it's a treasure.",
+      "style": "Small, genuine laugh on the opening. Kansai warmth throughout. Voice settles into something quiet and sure on 'treasure'—not dramatic, but absolutely sincere.",
+      "mood": "tender_cherishing"
+    }
+  ]
+}

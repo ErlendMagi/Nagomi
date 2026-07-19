@@ -1,0 +1,84 @@
+{
+  "id": "conv_03773",
+  "context": "A doctor explains skincare and household products to a parent",
+  "purpose": "Teach: 美容/成分/用品/焦点/脇/思わず/現れる/湖",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "美容",
+    "成分",
+    "用品",
+    "焦点",
+    "脇",
+    "思わず",
+    "現れる",
+    "湖"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_189 wc87o7is0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生、最近娘の腕に赤い発疹が現れるんです。思わず声を上げてしまって。",
+      "en": "Doctor, recently a red rash has been appearing on my daughter's arm. I couldn't help crying out.",
+      "style": "Worried mother speaking softly with genuine maternal concern in clinic"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。まず今使っている美容クリームや日用品の成分を確認させてください。",
+      "en": "I see. First, let me check the ingredients of the beauty cream and household products you're using.",
+      "style": "Calm professional doctor speaking methodically with clinical patience"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "これが普段使っている美容用品なんですけど、どうでしょうか。",
+      "en": "These are the beauty products we usually use. What do you think?",
+      "style": "Hesitant mother holding up bottle, seeking expert reassurance"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、この香料の成分が刺激になっている可能性が高いですね。",
+      "en": "Ah, this fragrance ingredient is likely the source of the irritation.",
+      "style": "Doctor examining label with focused diagnostic certainty and care"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そうなんですか。先日、湖のほとりに旅行へ行った後から悪化した気がします。",
+      "en": "Really? It seems to have worsened after our trip to the lakeside the other day.",
+      "style": "Mother recalling timeline with thoughtful, slightly anxious tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "日焼けも重なったのでしょう。今は治療の焦点を保湿に絞りましょう。",
+      "en": "Sun exposure probably compounded it. Let's narrow our treatment focus to moisturizing for now.",
+      "style": "Reassuring doctor outlining clear plan with steady authoritative voice"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "強い塗り薬はいったん脇に置いておいたほうがいいですか?",
+      "en": "Should we set the stronger topical medications aside for the time being?",
+      "style": "Mother asking practical follow-up question with cautious deference"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、低刺激の製品に変えて、一週間様子を見てください。",
+      "en": "Yes, please switch to low-irritation products and observe for one week.",
+      "style": "Doctor closing consultation professionally with clear instructional keigo"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "丁寧に教えてくださって、本当にありがとうございます。",
+      "en": "Thank you so much for explaining everything so carefully.",
+      "style": "Grateful mother bowing slightly with relieved sincere appreciation"
+    }
+  ]
+}

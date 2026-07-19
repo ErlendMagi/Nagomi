@@ -1,0 +1,83 @@
+{
+  "id": "conv_00724",
+  "context": "Hiroshi reviews Kenji's market analysis report.",
+  "purpose": "boss-subordinate market analysis N3 vocabulary",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "市場",
+    "商品",
+    "価格",
+    "状況",
+    "対策"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、市場の動き、どう見ている。",
+      "en": "Kenji — how are you reading the market movements?",
+      "style": "Clipped, authoritative opening. No warmth — purely transactional. Sharp eye contact. Expects a prepared answer. The tone of someone who knows the answer before asking.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "商品の価格、徐々に、上がっています。",
+      "en": "Product prices are rising gradually.",
+      "style": "Measured, respectful report. Slight formal distance maintained. Even pacing — not rushed, not hesitant. The voice of someone presenting facts clearly without editorializing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この状況、対策、必要だ。",
+      "en": "This situation calls for countermeasures.",
+      "style": "Declarative, matter-of-fact. No inflection at the end — statement of fact, not question. Lean forward slightly in posture. The weight of decision-making in each word.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、三つ、案を、用意しました。",
+      "en": "Yes — I've prepared three options.",
+      "style": "Prompt, attentive response. Slight lift in tone — readiness to present. Calm confidence underneath. The professionalism of someone who anticipated this direction.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし。一番、現実的なもの、選べ。",
+      "en": "Good. Choose the most realistic one.",
+      "style": "Curt approval followed by direct instruction. No elaboration needed. Quiet finality in the period. The confidence of delegating to someone you trust.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "価格を、徐々に、見直す案、推薦します。",
+      "en": "I'd recommend the gradual price adjustment plan.",
+      "style": "Thoughtful but assured delivery. Slight emphasis on 'gradual' — the strategic choice articulated. Voice steady, offering this as the clear solution without hesitation.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "了解。来週、市場、再確認しろ。",
+      "en": "Understood. Re-check the market next week.",
+      "style": "Brief, conclusive. The tone of wrapping up a successful meeting. Final instruction delivered with quiet finality — no room for questions.",
+      "mood": "settled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。",
+      "en": "Understood, sir.",
+      "style": "Quiet, respectful closing. One beat of pause before the word. The voice of someone dismissing themselves — brief, deferential, professional to the last.",
+      "mood": "compliant"
+    }
+  ]
+}

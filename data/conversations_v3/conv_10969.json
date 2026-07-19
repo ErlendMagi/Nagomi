@@ -1,0 +1,86 @@
+{
+  "id": "conv_10969",
+  "context": "Officer briefs",
+  "purpose": "Teach: 門真/三谷/上村/奥山/二宮/坂田/西岡/西山",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "門真",
+    "三谷",
+    "上村",
+    "奥山",
+    "二宮",
+    "坂田",
+    "西岡",
+    "西山"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_550 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、門真署と合同捜査されますね",
+      "en": "The police are conducting a joint investigation with Kadoma Station, aren't they?",
+      "style": "Matter-of-fact confirmation. Steady, collaborative tone. No judgment. Speaking as someone on the inside of the process, familiar with procedure.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、参考人三谷氏から、警察、事情を伺われますね",
+      "en": "The police will be interviewing witness Mitani, I imagine, to get his statement?",
+      "style": "Calm, conversational observation. Light lift on the tag question — checking in rather than challenging. Professional but not stiff.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、被害者上村氏のご家族にも、警察、配慮されますね",
+      "en": "And I'm sure the police are being considerate toward the victim Uemura's family as well?",
+      "style": "Gentle assumption. Warm underneath the procedural language. Acknowledges the human weight of the case without dwelling on it.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、目撃者奥山氏の供述を、警察、整えられますね",
+      "en": "The police will be organizing the testimony from eyewitness Okuyama, then?",
+      "style": "Logical next step in the sequence. Even-paced, slightly administrative. Nods along with the process as it unfolds.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、容疑者二宮の前科を、警察、確認されますね",
+      "en": "The police will be confirming the suspect Ninomiya's criminal history, I take it?",
+      "style": "Matter-of-fact procedural point. No surprise in the voice. Straightforward confirmation of standard investigative work.",
+      "mood": "routine"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、署内の鑑識坂田主任と現場検証されますね",
+      "en": "And you'll be doing a scene verification with Sakata, the forensics supervisor at the station?",
+      "style": "Acknowledging the on-the-ground work. Practical, knowing. Slightly more direct than the previous questions — moving into hands-on investigation.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、心理士西岡様にご助言を仰がれますね",
+      "en": "Will you also be seeking advice from psychologist Nishi-oka?",
+      "style": "Thoughtful addition. Recognizes the complexity. Slower on the intake — a moment of genuine consideration before naming the specialist.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、検事の西山様と公判前協議もされますね",
+      "en": "And I suppose you'll be holding pre-trial conferences with prosecutor Nishiyama as well?",
+      "style": "Shift to closer, slightly more knowing tone. Acknowledges the legal machinery. Warmer — speaking with someone who knows how these things actually work.",
+      "mood": "knowing"
+    }
+  ]
+}

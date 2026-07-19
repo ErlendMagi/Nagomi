@@ -1,0 +1,75 @@
+{
+  "id": "conv_02494",
+  "context": "Ren reports operational steps to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; operations vocabulary (行う/実施/施設/作成/等) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "行う",
+    "実施",
+    "施設",
+    "作成",
+    "等"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_125)",
+    "generated_at": "2026-05-29T12:55:54.386Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "点検は、来週に実施いたします。",
+      "en": "We'll carry out the inspection next week.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "どの施設から、行うのかね?",
+      "en": "Which facility do we start with?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本社の施設から、順に行います。",
+      "en": "We'll proceed in order from the headquarters facility.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "報告書等は、誰が作成するのかね?",
+      "en": "Who creates the reports and such?",
+      "style": "engaged boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "担当者が、書類等を作成します。",
+      "en": "The person in charge creates the documents and so on.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実施の前に、確認を行ってくれ。",
+      "en": "Carry out a check before implementation.",
+      "style": "firm boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "各施設で、事前確認を行います。",
+      "en": "We'll do prior checks at each facility.",
+      "style": "confident young presenter voice, soft warm resolved throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "計画通り、実施してくれたまえ。",
+      "en": "Carry it out as planned.",
+      "style": "satisfied boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

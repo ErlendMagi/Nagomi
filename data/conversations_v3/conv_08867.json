@@ -1,0 +1,86 @@
+{
+  "id": "conv_08867",
+  "context": "Two managers chat",
+  "purpose": "Teach: 電信/依拠/手がける/内地/買い換え/受取/田舎町/廃業",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "電信",
+    "依拠",
+    "手がける",
+    "内地",
+    "買い換え",
+    "受取",
+    "田舎町",
+    "廃業"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_445 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "遠隔通信は古くは電信に頼ったって、研修で扱いましたね",
+      "en": "We covered it in training—how remote communication used to rely on telegraph systems, remember?",
+      "style": "Thoughtful, drawing on a shared memory. Conversational pace, warm recall. Light emphasis on the training reference, trailing upward slightly as she invites his agreement.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市場予測は最新統計に依拠して立てます",
+      "en": "Right. We base our market forecasts on the latest available statistics.",
+      "style": "Attentive and affirmative. Steady, professional tone without stiffness. Clear delivery, measured pace. Shows he's following and adding substance to the conversation.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "複雑な案件は専門部署が手がけるべきね",
+      "en": "Complex cases should be handled by the specialist department, don't you think?",
+      "style": "Directive but not commanding. Measured, thoughtful. Slight upward lilt on the question—inviting his input rather than deciding alone. Professional and considered.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。内地と海外の販売割合を見直しました",
+      "en": "Yes. I've reviewed the domestic and overseas sales ratio.",
+      "style": "Straightforward progress update. Clear, efficient delivery. Slight emphasis on the completion—'reviewed'—showing initiative. Respectful professional tone.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社用パソコンの買い換えを進めましょう",
+      "en": "Let's move forward with replacing the company computers.",
+      "style": "Collaborative directive. Warm but purposeful. Uses 'let's' genuinely—inviting partnership. Steady pace, clear priority. Not demanding, but decided.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先からの受取書類を整理しました",
+      "en": "Understood. I've organized the receipt documents from our business partners.",
+      "style": "Reliable report. Calm, systematic. Even pace, professional courtesy. Shows preparation and follow-through without overstatement.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "田舎町への配送ルートを最適化しましょう",
+      "en": "We should optimize our delivery routes to the rural areas.",
+      "style": "Measured strategic thinking. Slightly slower pace as she works through the logic. Calm, collaborative 'we'—inviting his input on the approach. Professional but open.",
+      "mood": "planning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。廃業届の事務処理を支援しております",
+      "en": "Yes. I'm providing administrative support for the business closure filing.",
+      "style": "Formal, closing-statement delivery. Steady, respectful tone. Slightly increased formality reflects the gravity of the closure process. Clear and composed.",
+      "mood": "formal"
+    }
+  ]
+}

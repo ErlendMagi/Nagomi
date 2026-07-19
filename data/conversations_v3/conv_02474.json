@@ -1,0 +1,75 @@
+{
+  "id": "conv_02474",
+  "context": "Saito explains a mental-health checkup to a patient.",
+  "purpose": "WIDENED SCENARIO: medical explanation; clinical vocabulary (精神/男性/障害/御) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "精神",
+    "男性",
+    "障害",
+    "御",
+    "自己"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_124)",
+    "generated_at": "2026-05-29T12:51:41.976Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "最近、よく眠れないんです。",
+      "en": "Lately I can't sleep well.",
+      "style": "tired office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "精神的な疲れが、出ているようですね。",
+      "en": "It seems mental fatigue is showing.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "これは、何かの障害でしょうか?",
+      "en": "Is this some kind of disorder?",
+      "style": "worried office man voice, soft warm anxious delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "重い障害ではありません。御安心下さい。",
+      "en": "It's not a serious disorder. Please rest assured.",
+      "style": "gentle doctor voice, soft warm reassuring compassionate clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同年代の男性にも、多いんですか?",
+      "en": "Is it common among men my age too?",
+      "style": "curious office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "働く男性に、よく見られます。",
+      "en": "It's often seen in working men.",
+      "style": "informative doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "自己流で、休んでも大丈夫ですか?",
+      "en": "Is it okay to rest in my own way?",
+      "style": "earnest office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "自己判断より、御相談下さいね。",
+      "en": "Rather than self-judgment, please consult me.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

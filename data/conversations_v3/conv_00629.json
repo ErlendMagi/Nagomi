@@ -1,0 +1,62 @@
+{
+  "id": "conv_00629",
+  "context": "Yumiko visits Saito briefly for routine. Small update.",
+  "purpose": "small ongoing doctor-patient familiarity",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "家族",
+    "一緒",
+    "感謝",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_032)",
+    "generated_at": "2026-05-27T01:02:00.770Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "ゆみこさん、お元気そうで、安心。",
+      "en": "Yumiko-san, you're looking well. That's reassuring.",
+      "style": "Warm, unhurried opening. Clinical eye softens into genuine care. Steady, measured pace. A doctor who remembers the person, not just the chart.",
+      "mood": "warm_reassured"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます。家族、皆、元気で、本当に。",
+      "en": "Thank you so much. The whole family is doing well, truly.",
+      "style": "Quiet pride in the words. Grateful exhale. Slower on 'truly' — not just reporting facts, but savoring them. The warmth of someone tending something precious.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ひかりちゃんも、すくすく育ってるって、メイさんから。",
+      "en": "Hikari-chan is thriving, or so Mei-san tells me.",
+      "style": "Warm nod in the voice. A light touch — knowing this news matters. Not rushing the words. The gentle pleasure of sharing good news about someone you both care for.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、嬉しいニュースばかり。",
+      "en": "Nothing but good news — it's wonderful.",
+      "style": "Reflective, almost soft wonder. The pace slows slightly, holding the moment. A mother savoring how right things have become. Not quite to herself, but nearly.",
+      "mood": "content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "皆さんで、ずっと、ご家族、繋がっていけますね。",
+      "en": "Your family will stay bound together like this, always.",
+      "style": "Gentle finality. A quiet conviction without heaviness. Steady eye contact in the voice. Not a promise, but an observation of something already true.",
+      "mood": "warm_certain"
+    }
+  ]
+}

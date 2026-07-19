@@ -1,0 +1,86 @@
+{
+  "id": "conv_08369",
+  "context": "Officer briefs",
+  "purpose": "Teach: インストラクター/障壁/離職/測量/バリアフリー/粉飾/生計/ステータス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インストラクター",
+    "障壁",
+    "離職",
+    "測量",
+    "バリアフリー",
+    "粉飾",
+    "生計",
+    "ステータス"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_420 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯インストラクターを学校に派遣しております",
+      "en": "We dispatch crime prevention instructors to schools.",
+      "style": "Even, professional tone. Measured cadence. Opens with quiet authority—no rush. States the fact as established policy, neither defensive nor proud.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、入国障壁の引き上げに関与されておられますね",
+      "en": "Yes. So police are involved in strengthening entry barriers.",
+      "style": "Attentive nod in the voice. Slight uptick on the affirmation. Checking understanding without questioning—the tone of someone taking notes and confirming the record.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察官の離職を減らすため待遇改善を進めております",
+      "en": "We're working to improve conditions for officers to reduce turnover.",
+      "style": "Steady, matter-of-fact delivery. No inflection seeking sympathy. The tone of someone reading from an internal report—thorough, plain, professional.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。現場の測量を警察、迅速に完了されたんですね",
+      "en": "Yes. And scene surveys were completed promptly by your team.",
+      "style": "Light affirmation. Slight warmth entering—not friendliness, but recognition of efficiency. The tone of someone noting a job well done in passing.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、バリアフリー対応のパトロールを進めております",
+      "en": "We're also advancing barrier-free accessibility in patrol operations.",
+      "style": "Steady continuation. No performance in the delivery. Matter-of-fact as the previous statement—these are initiatives, stated as fact, without emphasis seeking credit.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。粉飾決算事件を警察、捜査中ですね",
+      "en": "Yes. And you're investigating the accounting fraud case.",
+      "style": "Confirmation with a slight lean forward in attention. The tone sharpens slightly—this is important, concrete work. Respectful acknowledgment of active investigation.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者の生計復旧支援も行います",
+      "en": "We also provide support to help victims restore their livelihoods.",
+      "style": "Quiet conviction entering the voice. Still formal, but something more human beneath—care that doesn't need to announce itself. Steady pace, slight weight on 'restore.'",
+      "mood": "committed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察のステータスは地域の安心の要ですね",
+      "en": "Yes. Police integrity really is the foundation of community safety.",
+      "style": "Warmer now, but still measured. A moment of genuine recognition—not flattery, but sincere acknowledgment. The tone of someone who has moved from procedure to meaning.",
+      "mood": "respectful"
+    }
+  ]
+}

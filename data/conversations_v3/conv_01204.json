@@ -1,0 +1,62 @@
+{
+  "id": "conv_01204",
+  "context": "Sakura tells Sho a small bedtime story.",
+  "purpose": "older-younger bedtime-story exchange",
+  "ambient": "bedroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "本",
+    "優しい",
+    "楽しい",
+    "優しい"
+  ],
+  "cast": [
+    "sakura_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_060)",
+    "generated_at": "2026-05-27T04:24:20.797Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "さくらお姉ちゃん、本、読んで。",
+      "en": "Sakura… will you read to me?",
+      "style": "Quiet, tentative request. Soft opening on her name. Small hopeful lift at the end—not demanding, just asking. The warmth of trust threading through his voice.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、優しい話、ね。",
+      "en": "Yeah. A kind story.",
+      "style": "Warm acceptance. Gentle nod in her voice. Soft agreement with no hesitation—she's already settling in beside him, already decided.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、聞ける、嬉しい。",
+      "en": "Together... I'm happy.",
+      "style": "Quiet wonder at the simple fact of it. Small pause between the words like he's noticing the happiness as he says it. Trailing-off softly into contentment.",
+      "mood": "content"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お話、楽しい、ね。",
+      "en": "Stories are nice, aren't they.",
+      "style": "Soft, reflective. Not a question—a gentle observation shared aloud. The tone of someone settling deeper into the moment with him.",
+      "mood": "peaceful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おやすみ、お姉ちゃん。",
+      "en": "Good night, sister.",
+      "style": "Drowsy, small voice. The affection in 'sister' is clear and unguarded. Trailing into sleep, trusting, held by her presence.",
+      "mood": "sleepy_secure"
+    }
+  ]
+}

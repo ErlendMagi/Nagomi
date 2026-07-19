@@ -1,0 +1,75 @@
+{
+  "id": "conv_01579",
+  "context": "Ryosuke-dad helps Mei plan a small surprise birthday for Daichi.",
+  "purpose": "Father supporting daughter in spousal-celebration planning.",
+  "ambient": "kitchen_planning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "誕生",
+    "プレゼント",
+    "計画",
+    "驚く"
+  ],
+  "cast": [
+    "ryosuke_dad",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "お父さん、大ちゃんの誕生日、計画してる。",
+      "en": "Dad, I'm planning Daichi's birthday party.",
+      "style": "Soft opening, a hint of excitement breaking through. Conspiratorial—like she's bringing him in on a secret. Warm and intimate. Eyes bright.",
+      "mood": "warm_conspiratorial"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ええなぁ、プレゼントは?",
+      "en": "That's wonderful. What are you thinking for a gift?",
+      "style": "Leaning in with genuine interest. Tender but not hovering. The ease of a parent who trusts his daughter's judgment. Light, encouraging tone.",
+      "mood": "warmly_curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "手作りのアルバムを。",
+      "en": "A handmade photo album.",
+      "style": "Quiet pride underneath. Small, tender smile in the voice. She's offering something personal. Slight lift on the final word—waiting for his reaction.",
+      "mood": "tender_proud"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "それは、喜ぶで。",
+      "en": "He's going to love that.",
+      "style": "Certain and warm. Not flowery—just a quiet conviction. The voice of someone who knows his friend well. Steady, affirming.",
+      "mood": "warmly_certain"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "驚かせたいの、絶対に。",
+      "en": "I really want to surprise him.",
+      "style": "Eager, with a spark of mischief. Soft conspiratorial energy. The urgency of someone excited about keeping a secret. Leaning forward slightly in the delivery.",
+      "mood": "eager_scheming"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "俺も、手伝うで。",
+      "en": "I'll help you with it.",
+      "style": "Gentle offer, no fanfare. Warm and steady. The kind of help that asks nothing in return. Slight nod in the voice—a simple commitment.",
+      "mood": "supportive_tender"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとう、お父さん!",
+      "en": "Thank you, Dad!",
+      "style": "Genuine gratitude, bright and warm. The relief and joy of being understood and supported. Open-hearted. Slight brightness at the end—like a smile you can hear.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09201",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 横目/廻り/突きつけ/交わす/悟っ/総て/浅く/喜ばしい",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "横目",
+    "廻り",
+    "突きつけ",
+    "交わす",
+    "悟っ",
+    "総て",
+    "浅く",
+    "喜ばしい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_462 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが横目でこちらを見てらしたわ",
+      "en": "Sho, your father was watching us with that sidelong look.",
+      "style": "Dry, observant tone. A small smile in the voice — noticing something she finds wryly amusing. Matter-of-fact delivery, like she's sharing a small confidence with her son.",
+      "mood": "wry_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お家の廻りを散歩したよ",
+      "en": "Mom, I took a walk around the house today.",
+      "style": "Bright, eager opening. A child eager to report something small he did. Slight lift in pitch on the main word. Direct eye-contact tone — wanting her to know he did something.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがニュースを突きつけて怒ってらしたわ",
+      "en": "Sho, your father was pushing that news at us, wasn't he — looking angry about it.",
+      "style": "Thoughtful, slightly weighted tone. Not critical — more observing something she's noticed quietly. Steady pace. The voice of someone reflecting on family dynamics she's seen before.",
+      "mood": "observant_concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんと挨拶を交わすのが好きだよ",
+      "en": "Mom, I really like when I get to greet Grandpa — when we say hello to each other.",
+      "style": "Gentle enthusiasm. Quiet certainty in his voice — not showing off, just stating something true. Soft on the word 'greet.' A child expressing something real he's noticed about himself.",
+      "mood": "content_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんがこの世の真理を悟ってらしたわね",
+      "en": "Sho, your grandfather — he's grasped something true about the world, hasn't he.",
+      "style": "Reflective, warm. A mother noticing her son's perception of his grandfather. Slow, deliberate pace. Slight trailing lift at the end — like she's affirming something she's seen too.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんの言葉を総て覚えてるよ",
+      "en": "Mom, I remember everything Grandpa says — all of it.",
+      "style": "Quiet intensity. A child stating something he knows to be true about himself. No boasting — just certainty. Firm on 'remember,' soft fadeout after.",
+      "mood": "proud_serious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、傷は浅くて済んで良かったわね",
+      "en": "Sho, I'm glad the wound was shallow — that it wasn't worse.",
+      "style": "Soft, tender relief. A mother who has been worried and is now letting that worry ease. Gentle breath on the opening. Warm, protective tone underneath.",
+      "mood": "relieved_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんの合格、喜ばしいニュースだったよ",
+      "en": "Mom, Grandpa passing — that was such joyful news for everyone.",
+      "style": "Bright, earnest happiness. A child expressing genuine joy about good news. Warm lift on 'Grandpa passing.' Eager to share in the family's happiness.",
+      "mood": "joyful_eager"
+    }
+  ]
+}

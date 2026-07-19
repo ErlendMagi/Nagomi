@@ -1,0 +1,65 @@
+{
+  "id": "conv_05826",
+  "context": "A boss reviews a manufacturing-team roster",
+  "purpose": "Teach: 長谷川/戸田/松下/原田/小島/大野/吉川/柴田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長谷川",
+    "戸田",
+    "松下",
+    "原田",
+    "小島",
+    "大野",
+    "吉川",
+    "柴田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "製造部、長谷川部長と戸田課長で、引き続き。",
+      "en": "Manufacturing — Hasegawa and Toda continue in their current roles.",
+      "style": "Steady, even cadence. Clear articulation on each name. No warmth, no harshness — the tone of someone distributing information. Brief pause after the department name, then forward momentum.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。松下さん、原田さん、現場主任のままです。",
+      "en": "Yes. Matsushita and Harada remain as line foremen.",
+      "style": "Attentive, efficient. Slight nod in the voice on each name — confirming what was heard. No embellishment. The tone of someone following orders and relaying them accurately.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "小島さんと大野さんは、海外生産拠点へ転勤。",
+      "en": "Kojima and Ono are being transferred to our overseas production facilities.",
+      "style": "Measured, matter-of-fact. No apology in the delivery — this is business, stated clearly. Slight weight on the verb 'transferred,' as if the decision is final and settled.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "吉川さんが品質管理、柴田さんが調達担当です。",
+      "en": "Yoshikawa takes over quality control. Shibata handles procurement.",
+      "style": "Crisp, informative. Light emphasis on each role — delineating responsibility. No elaboration, no pause for reaction. The rhythm of someone moving through a checklist efficiently.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、各員に通達を。",
+      "en": "Understood. I'll notify everyone.",
+      "style": "Brief, decisive. Slight rise in energy — moving from listening to action. The tone of someone ready to execute. No hesitation.",
+      "mood": "resolved"
+    }
+  ]
+}

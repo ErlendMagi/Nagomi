@@ -1,0 +1,67 @@
+{
+  "id": "conv_00040",
+  "context": "A train platform on a quiet afternoon. Six-year-old Sho has dropped his train pass; a high school girl picks it up.",
+  "purpose": "kindness micro-encounter — older girl gives a kid grace, both walk away brighter",
+  "ambient": "train_station_day",
+  "target_vocab": [
+    "ありがとう",
+    "大丈夫",
+    "見る",
+    "もう"
+  ],
+  "cast": [
+    "sakura_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、これ、君の？",
+      "en": "Oh — is this yours?",
+      "style": "Already kneeling in the voice. Kansai cadence softened for a kid.",
+      "mood": "kneeling_kind"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…はい。",
+      "en": "…Yes.",
+      "style": "Tiny voice. Surprised to have an older girl talking to him.",
+      "mood": "startled_small"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "気をつけよ。電車、もうすぐ来るで。",
+      "en": "Be careful. Train's coming soon.",
+      "style": "Big-sister tone, Kansai. Warm, brisk, useful.",
+      "mood": "big_sister"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Full keigo from a six-year-old. A real little bow in the voice.",
+      "mood": "formal_polite_kid"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "(grins)真面目やな。じゃあな。",
+      "en": "(grins) You're a serious one. See ya.",
+      "style": "A real grin in the voice. Standing up. Affectionate.",
+      "mood": "affectionate_grin"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…(small wave)",
+      "en": "(small wave)",
+      "style": "No words. The smallest hand-lift in the universe.",
+      "mood": "small_wave"
+    }
+  ]
+}

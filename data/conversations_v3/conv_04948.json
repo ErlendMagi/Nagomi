@@ -1,0 +1,84 @@
+{
+  "id": "conv_04948",
+  "context": "A uni intern interviews a manager about corporate compliance",
+  "purpose": "Teach: 可決/敗訴/先制/紳士/長所/民法/所持/負債",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "可決",
+    "敗訴",
+    "先制",
+    "紳士",
+    "長所",
+    "民法",
+    "所持",
+    "負債"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_249b workflow wwwp084s6)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はお時間いただきありがとうございます。御社のコンプライアンス体制について、いくつか伺ってもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask a few questions about your company's compliance system?",
+      "style": "Polite, slightly nervous intern opening an interview formally."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。先月の取締役会で新しい行動規範が可決されたばかりなので、ちょうどいいタイミングですよ。",
+      "en": "Of course. The new code of conduct was just passed at last month's board meeting, so it's perfect timing.",
+      "style": "Warm, professional manager easing the intern into the conversation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。実は同業他社が民法上の契約違反で敗訴したというニュースを読んで、すごく気になっていたんです。",
+      "en": "I see. Actually, I read news that a competitor lost a civil law contract violation case, and it caught my attention.",
+      "style": "Curious student showing he prepared, citing recent news."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "よく勉強されていますね。だからこそ、問題が起きる前に先制して内部統制を強化するのが大事なんです。",
+      "en": "You've done your homework. That's exactly why preemptively strengthening internal controls before problems arise is so important.",
+      "style": "Impressed mentor praising preparation, explaining proactive philosophy."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。御社の長所はどこにあると、社員の方々は感じていらっしゃるんでしょうか。",
+      "en": "I see. Where do your employees feel the company's strengths lie?",
+      "style": "Probing question, shifting from risk to positive aspects."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "紳士的に取引先と向き合う風土、ですかね。短期の利益より信頼を優先する空気が根づいています。",
+      "en": "A culture of dealing with partners like gentlemen, I'd say. The atmosphere of prioritizing trust over short-term profit runs deep.",
+      "style": "Reflective, proud, describing culture with quiet conviction."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "素敵ですね。ちなみに、たとえば社員が業務外で違法な物を所持していた場合、会社としてはどう対応されるんですか。",
+      "en": "That's wonderful. By the way, if an employee were caught possessing something illegal outside of work, how would the company respond?",
+      "style": "Sharper follow-up, testing the company's stated values."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "厳しい質問ですね。基本は本人と面談し、隠れた負債のような問題がないかも含めて全体を見ます。",
+      "en": "That's a tough question. Basically we'd meet with them personally and look at the whole picture, including any hidden liabilities or issues.",
+      "style": "Honest, measured answer acknowledging the difficulty of the question."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。今日伺ったお話、レポートに丁寧にまとめさせていただきます。",
+      "en": "I've learned a lot. I'll carefully summarize today's discussion in my report.",
+      "style": "Grateful, professional closing from the intern wrapping up."
+    }
+  ]
+}

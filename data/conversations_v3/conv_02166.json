@@ -1,0 +1,79 @@
+{
+  "id": "conv_02166",
+  "context": "Aoi tries on new clothes; Kenji gives honest opinion.",
+  "purpose": "Couple in casual clothing shopping.",
+  "ambient": "shop_evening_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "服装",
+    "黒い",
+    "薄い",
+    "濃い",
+    "帯",
+    "太い",
+    "細い",
+    "気軽"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "けんちゃん、この服装、どう?",
+      "en": "Ken-chan, what do you think of this outfit?",
+      "style": "Soft, hopeful opening. Gentle question, seeking real feedback, not flattery. Warm tone with a thread of vulnerability underneath — she genuinely wants to know.",
+      "mood": "thoughtful_seeking"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "黒いの、似合うで、ようけ。",
+      "en": "The black one suits you really well.",
+      "style": "Affirming and genuine. Kansai warmth in the tone — not overstated, just solid conviction. Light emphasis on the compliment, then a soft settle into it, like he's sure.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "薄い色の方が、夏らしいかな。",
+      "en": "But maybe the lighter color feels more summery?",
+      "style": "Thinking out loud, not quite settled. Gentle hedging — she's testing ideas aloud, inviting him to think alongside her. Soft, exploratory pace.",
+      "mood": "considering"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "帯、ちょっと太いとこ、気になる?",
+      "en": "What about with a darker sash — would that bother you?",
+      "style": "Genuine curiosity, not leading. Kansai ease in the delivery. He's checking her intuition, not imposing his own. Warm and attentive.",
+      "mood": "engaged_attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "濃い色、合わせるとどう?",
+      "en": "How would it look if I paired it with a darker obi?",
+      "style": "Actively problem-solving now. Engaged and focused. Warm tone with a hint of confidence emerging — she's finding her own answer while he listens.",
+      "mood": "engaged_thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "気軽に、決められるな、お前!",
+      "en": "You just decide these things so easily!",
+      "style": "Admiring, gentle laugh in the voice. Kansai affection without performance. A touch of wonder — noticing something he likes about her. Warm pride.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、これにする!",
+      "en": "Yeah, I'm going with this one.",
+      "style": "Quiet decisiveness. She's landed on it. Warm and settled, almost a small smile in the tone. Soft but sure — no doubt, no apology.",
+      "mood": "decided_content"
+    }
+  ]
+}

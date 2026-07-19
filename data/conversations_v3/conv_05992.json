@@ -1,0 +1,79 @@
+{
+  "id": "conv_05992",
+  "context": "A police officer briefs a reporter about a regional incident",
+  "purpose": "Teach: 唱える/全域/山頂/代償/盛況/訳者/塗料/無謀",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "唱える",
+    "全域",
+    "山頂",
+    "代償",
+    "盛況",
+    "訳者",
+    "塗料",
+    "無謀"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_301 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者団体が安全を唱える集会、平和的に進みました。",
+      "en": "The victim advocacy assembly proceeded peacefully.",
+      "style": "Even, professional opening. Slight pause after the statement, as if confirming the facts. Measured delivery—the quiet satisfaction of a difficult event managed well.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "集会、市内全域に告知されたんですね。",
+      "en": "The assembly was announced across the whole city, then?",
+      "style": "Genuine curiosity, leaning forward slightly. Thoughtful pause before the question—he's connecting pieces. Not challenging, asking to understand.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。会場は山頂近くの公園、警備に注力しました。",
+      "en": "Yes. We positioned security carefully around the venue near the mountain park.",
+      "style": "Factual but not cold. Brief nod of acknowledgment in the voice. Professional rhythm—each detail placed with intention, not rushed.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地元経済への代償も、議題になりましたか。",
+      "en": "Was the impact on the local economy part of the discussion?",
+      "style": "Soft probe—not accusatory, genuinely wondering. Slight lift at the end, inviting him to expand. The tone of someone piecing together what mattered to people.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。出店も盛況、登壇の訳者の解説もありました。",
+      "en": "Yes. The local vendors did well, and the translator gave detailed explanations from the platform.",
+      "style": "Warming slightly—there's something positive to report. Clear enunciation on the main facts. A hint of approval beneath the professional tone.",
+      "mood": "measured_satisfied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去の事故、塗料関連の調査結果、参照されましたね。",
+      "en": "References were made to the past accidents—the paint-related investigation findings?",
+      "style": "Patient confirmation, not interrogation. He's checking the narrative. Quiet weight on the phrase, as if the findings matter deeply to him.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "無謀な開発、再発させない決意です。",
+      "en": "That's right. There's a firm commitment now—reckless development won't happen again.",
+      "style": "Steady conviction. Slight emphasis on the resolve without raising volume. The tone closes the conversation with quiet, earned certainty.",
+      "mood": "resolved"
+    }
+  ]
+}

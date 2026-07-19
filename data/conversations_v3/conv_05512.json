@@ -1,0 +1,72 @@
+{
+  "id": "conv_05512",
+  "context": "A boss and his manager discuss a transport-policy article",
+  "purpose": "Teach: 交通省/官邸/直線/遠隔/無関心/団地/下降/上流",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "交通省",
+    "官邸",
+    "直線",
+    "遠隔",
+    "無関心",
+    "団地",
+    "下降",
+    "上流"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、交通省の方針が官邸主導で変わった話だな。",
+      "en": "This article—it's about how MLIT policy shifted under cabinet direction.",
+      "style": "Measured, analytical opening. Light tap of recognition on 'This article.' Leans back slightly, reading tone. Pulls back to observe the broader pattern. No rush.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新直線高速の予算、上流の供給網にも波及しています。",
+      "en": "Yes. The new highway budget is already affecting upstream supply chains.",
+      "style": "Attentive, precise. Delivers the connection with quiet certainty—no hedging. Maintains professional eye contact. Clean, efficient pacing. The confidence of someone who has done the legwork.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地方団地の住民、無関心傾向が顕著だな。",
+      "en": "What strikes me is how indifferent the residents in those housing complexes have become.",
+      "style": "Observational, almost concerned. Slight pause before 'indifferent'—letting the word land. Quiet conviction underneath. Reading people as much as policy. Measured, not alarmed.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "遠隔会議で住民説明を進める案も出ています。",
+      "en": "They're considering remote town-hall meetings to engage them.",
+      "style": "Clear, informational delivery. Steady tone—offering solution-side context. No apology in the phrasing. Professional precision. Slight forward lean, like presenting evidence.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "参加率が下降してるからな、対策必須だ。",
+      "en": "Participation's already dropping. So we need to act.",
+      "style": "Firmer edge now. Light weight on 'already'—emphasis that time matters. Not harsh, but decisive. This is directive, not suggestion. Sits forward slightly.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Crisp, clean closure. Single nod in the voice. No elaboration—just confirmation of receipt and readiness. Professional boundary, clean exit.",
+      "mood": "compliant"
+    }
+  ]
+}

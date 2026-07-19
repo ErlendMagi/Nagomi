@@ -1,0 +1,65 @@
+{
+  "id": "conv_05633",
+  "context": "A doctor explains public health to a teen",
+  "purpose": "Teach: 分布/良心/防御/加害/捜索/河川/大震災/楽観",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "分布",
+    "良心",
+    "防御",
+    "加害",
+    "捜索",
+    "河川",
+    "大震災",
+    "楽観"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、感染症の分布、河川沿いの集落に注目してる。",
+      "en": "Sakura, I'm seeing a cluster of infectious-disease cases concentrated along the river settlements.",
+      "style": "Measured, professional opening. Direct eye contact. Calm authority without coldness. The tone of someone who has delivered difficult information many times and does it clearly.",
+      "mood": "focused_direct"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "住民の良心に頼るだけじゃ、防御は弱いですね。",
+      "en": "Just relying on residents' own good judgment won't be enough protection, will it.",
+      "style": "Thoughtful, almost asking-aloud. Not challenging — working through the problem alongside her. Quiet recognition of a gap between ideal and reality.",
+      "mood": "sobering_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。大震災後の保健ネットワーク、再構築中です。",
+      "en": "That's right. The health network from after the earthquake is still in the middle of being rebuilt.",
+      "style": "Steady affirmation. Brief pause before 「健康ネットワーク」 — acknowledging the weight of that work. Clear but not rushed. The patience of someone explaining something difficult to someone worth taking time for.",
+      "mood": "serious_patient"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "加害源を、まだ捜索中なんですね。",
+      "en": "So we're still searching for the source of this.",
+      "style": "Quiet realization settling in. Not defeated — analytical. The voice of someone piecing something together and not quite liking where it leads. Slight trailing pause.",
+      "mood": "uncertain_determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "楽観してはいけない。地味な地道さが要る。",
+      "en": "We can't afford to be optimistic. We need steady, unglamorous work.",
+      "style": "Firmer now. Weight on 「楽観」 — a quiet warning. Not harsh, but clear. The voice of experience speaking to someone she respects. Close with conviction but without drama.",
+      "mood": "resolute_grave"
+    }
+  ]
+}

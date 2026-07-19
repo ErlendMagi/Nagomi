@@ -1,0 +1,78 @@
+{
+  "id": "conv_03797",
+  "context": "A doctor and patient discuss a skin rash from last night",
+  "purpose": "Teach: 昨夜/皮膚/棒/手前/即/文法/留学生/毒",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "昨夜",
+    "皮膚",
+    "棒",
+    "手前",
+    "即",
+    "文法",
+    "留学生",
+    "毒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_190 w39oywsro)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "こんにちは、メイさん。昨夜から皮膚に発疹が出たとカルテにありますね。",
+      "en": "Hello Mei. The chart says a rash appeared on your skin from last night.",
+      "style": "Calm professional greeting with a measured clinical tone."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、昨夜遅くに急に痒くなって…うちの手前にある薬局で軟膏を買ったんですけど、全然効かなくて。",
+      "en": "Yes, late last night it suddenly itched, and the ointment I bought at the pharmacy just in front of my place didn't work at all.",
+      "style": "Worried softly anxious patient voice with gentle pleading undertone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。腕に棒状の赤い線が走っていますね。これは典型的な接触性皮膚炎の症状です。",
+      "en": "I see. There's a rod-shaped red line running along your arm — this is a typical contact dermatitis symptom.",
+      "style": "Focused clinical observation delivered in steady reassuring physician cadence."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "接触…? あ、もしかして庭の植物かも。同居してる留学生の友達が、新しい鉢植えを持ち込んだんです。",
+      "en": "Contact…? Oh, maybe it's a garden plant — the exchange student friend living with me brought in new potted plants.",
+      "style": "Realisation dawning gently with light embarrassed self-discovery tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それでしょう。植物の中には毒性のある成分を含むものもあるので、葉には触れないようにしてください。",
+      "en": "That's likely it. Some plants contain toxic components, so please avoid touching the leaves.",
+      "style": "Firm authoritative medical instruction with caring underlying warmth throughout."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "わかりました。友達はまだ日本語の文法に慣れてなくて、ラベルが読めないから私が世話してたんです…",
+      "en": "Understood. My friend isn't used to Japanese grammar yet and can't read the labels, so I'd been caring for them…",
+      "style": "Sheepish confessional explanation with mildly apologetic softness throughout."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "では強めのステロイド軟膏を出しますね。一週間で治らなければ、即、再診にいらしてください。",
+      "en": "Then I'll prescribe a stronger steroid ointment. If it doesn't heal in a week, please come back for a follow-up right away.",
+      "style": "Reassuring closing instruction delivered with kind professional decisiveness throughout."
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます、先生。本当に助かりました。",
+      "en": "Thank you so much, doctor. You've really been a lifesaver.",
+      "style": "Relieved heartfelt gratitude with soft warm sincere closing tone."
+    }
+  ]
+}

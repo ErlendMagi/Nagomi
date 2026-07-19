@@ -1,0 +1,79 @@
+{
+  "id": "conv_06229",
+  "context": "A police officer briefs on a publication-safety topic",
+  "purpose": "Teach: 校正/無条件/専属/協賛/巻頭/研修生/組み込む/見越し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "校正",
+    "無条件",
+    "専属",
+    "協賛",
+    "巻頭",
+    "研修生",
+    "組み込む",
+    "見越し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_313 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "記事の校正、警察関連の表現、慎重に。",
+      "en": "When you proofread articles with police-related content, please be careful with how you phrase things.",
+      "style": "Professional but not stiff. Measured opening. A gentle directive, not an order. Even weight on each clause—this is routine guidance between collaborators who understand the stakes.",
+      "mood": "professional_cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。無条件公開する記事、避けています。",
+      "en": "Understood. We're avoiding articles that would go out without proper consideration.",
+      "style": "Attentive, reassuring without being overeager. Shows he's taking this seriously. Steady pace, no defensive edge—just confirming alignment.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "専属の警察記者、社内で養成中ですか。",
+      "en": "Are you developing a dedicated police correspondent in-house?",
+      "style": "Straightforward inquiry. Slight uplift at the end—a genuine question, not skepticism. Professional but warm. The tone of someone checking a box and actually wanting to know the answer.",
+      "mood": "inquiring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。協賛キャンペーン、防犯啓発、進めます。",
+      "en": "Yes. We're moving forward with a sponsorship campaign focused on crime prevention awareness.",
+      "style": "Confident, forward-looking. Light emphasis on 'moving forward'—shows momentum and commitment. Clear, no hedging. The tone of someone giving a status update they're proud of.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "巻頭、警察関連のメッセージ、入れていただけますか。",
+      "en": "Would you be able to include a message from the police in the opening section?",
+      "style": "Polite request framed as a question. Respectful but not deferential. Slight lean forward in the voice—this matters to him. Professional courtesy.",
+      "mood": "respectful_requesting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。研修生にも、警察取材を組み込む方針です。",
+      "en": "Yes. It's our policy to include police reporting training for our trainees as well.",
+      "style": "Firm and clear. Shows structural thinking—this isn't just one conversation, it's baked in. Even pace. Quiet confidence that this is the right approach.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の治安、見越した運用、共有させてください。",
+      "en": "I'd like to share how we're thinking about community safety operations going forward, if that's helpful.",
+      "style": "Thoughtful close. Genuine offer, not a demand. Slight softening at 'if that's helpful'—deferential but not weak. Opens a door rather than closing one.",
+      "mood": "collaborative"
+    }
+  ]
+}

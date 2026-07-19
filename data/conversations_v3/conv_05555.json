@@ -1,0 +1,79 @@
+{
+  "id": "conv_05555",
+  "context": "A doctor explains crisis-response medicine to a teen",
+  "purpose": "Teach: 襲わ/サミット/襲撃/欠席/尊厳/盗難/扶助/濃厚",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "襲わ",
+    "サミット",
+    "襲撃",
+    "欠席",
+    "尊厳",
+    "盗難",
+    "扶助",
+    "濃厚"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、災害や襲撃時の医療対応、聞いておきますか。",
+      "en": "Sakura, would you like to learn about medical response during disasters or attacks?",
+      "style": "Warm, straightforward opening. Clear but not clinical. The tone of a teacher checking if you're ready to listen. Even pacing, inviting.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい!急に襲われる時、何が大事ですか。",
+      "en": "Yes! In sudden attacks, what matters most?",
+      "style": "Bright, eager. Slight lean forward in the voice. Fast enough to show genuine interest, but not rushed. The enthusiasm of wanting to understand something real.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まず安全確保。そして被害者の尊厳を守ること。",
+      "en": "First, ensure safety. Then, protect the victims' dignity.",
+      "style": "Steady, measured cadence. Weight on each phrase — not hurried. The voice of someone who has thought about this carefully. Calm conviction without solemnity.",
+      "mood": "grave_steady"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "扶助制度や、医療の欠席対応も、行政が支えるんですよね。",
+      "en": "So relief programs and medical coverage gaps are supported by government systems, right?",
+      "style": "Thoughtful pause before speaking. Connecting the dots aloud. Respectful, wanting confirmation. Underneath: the awareness that systems matter in crisis.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。盗難に絡む被害も濃厚な場合、心身ケアも入念に。",
+      "en": "Yes. When theft compounds the trauma, we pay special attention to psychological and physical recovery.",
+      "style": "Direct, professional detail. No softening — clarity over gentleness. The voice of experience. A slight slowdown on the key point, making sure it lands.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "サミットでの議論が現場に反映される時代ですね。",
+      "en": "We're in an age where discussions at the policy level actually reach the people in the field.",
+      "style": "Quiet recognition. A note of quiet satisfaction — maybe even relief. Not triumphant, but grounded. The recognition of something hard-won.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうです。",
+      "en": "Yes, that's true.",
+      "style": "Brief, warm affirmation. A small smile in the voice. Not perfunctory — genuine agreement. The comfort of shared understanding.",
+      "mood": "affirming"
+    }
+  ]
+}

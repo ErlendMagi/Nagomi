@@ -1,0 +1,78 @@
+{
+  "id": "conv_04151",
+  "context": "A teacher gives a uni student a reading list for next semester",
+  "purpose": "Teach: 著書/書評/購読/補足/創設/学科/学年/知人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "著書",
+    "書評",
+    "購読",
+    "補足",
+    "創設",
+    "学科",
+    "学年",
+    "知人"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "来学期の読書リストですが、今年は学科全体で少し方針を変えました。",
+      "en": "About next semester's reading list — this year we changed the approach a bit for the whole department.",
+      "style": "Calm professorial tone, measured pacing, slightly formal classroom register."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。学年が上がると内容も難しくなりますよね。",
+      "en": "I see. As the grade level goes up, the content gets harder too, right?",
+      "style": "Polite student voice, slightly nervous, rising intonation at the end."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。まず中村先生の最新著書を読んでもらいます。学科の創設者ですから、基礎として大切です。",
+      "en": "Yes. First I want you to read Professor Nakamura's latest book. He's the founder of the department, so it's important as a foundation.",
+      "style": "Authoritative but warm, careful enunciation, teacher explaining significance."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "創設者の本ですか。新聞の書評欄でも紹介されていた気がします。",
+      "en": "The founder's book? I feel like I saw it introduced in the newspaper's book review section.",
+      "style": "Curious and engaged, leaning forward slightly, recalling something."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "よく気づきましたね。私もその学術誌を定期購読していて、毎号目を通しています。",
+      "en": "Good of you to notice. I subscribe to that academic journal regularly and read every issue.",
+      "style": "Pleased tone, light praise, gentle smile in voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、もし内容が難しかったら、補足資料などはありますか。",
+      "en": "Professor, if the content is difficult, are there any supplementary materials?",
+      "style": "Hesitant but earnest, asking carefully, polite student register."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん用意してあります。それから、著者の知人を介して講演会も予定していますよ。",
+      "en": "Of course, I have them prepared. And through an acquaintance of the author, we're also planning a lecture.",
+      "style": "Reassuring and confident, dropping in good news, teacherly warmth."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは楽しみです。今学年のうちにしっかり読み込んでおきます。",
+      "en": "I'm looking forward to it. I'll make sure to read it thoroughly during this academic year.",
+      "style": "Brightened, motivated, sincere commitment with a smile."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_05070",
+  "context": "A police officer briefs a uni reporter about an enforcement campaign",
+  "purpose": "Teach: 撤去/法定/スローガン/任期/速やか/命名/デフォルト/稼動",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "撤去",
+    "法定",
+    "スローガン",
+    "任期",
+    "速やか",
+    "命名",
+    "デフォルト",
+    "稼動"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の取り締まりは違法駐輪の撤去が主な目的です。",
+      "en": "This crackdown's main goal is removing illegally parked bicycles.",
+      "style": "Calm formal officer voice with measured authority"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、法定の手続きに沿って行うわけですね。",
+      "en": "I see, so you'll proceed according to legal procedure.",
+      "style": "Polite student reporter tone slightly nervous and curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、「街をきれいに」というスローガンを掲げています。",
+      "en": "Yes, we're using the slogan 'Keep the streets clean.'",
+      "style": "Proud and steady like reciting an official statement"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あの、署長の任期中もずっと続ける予定ですか?",
+      "en": "Um, will this continue throughout the chief's term too?",
+      "style": "Hesitant polite student question with careful word choice"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、違反車両は速やかに撤去し、所有者には連絡します。",
+      "en": "Yes, violating vehicles are promptly removed and owners contacted.",
+      "style": "Brisk procedural explanation with practiced efficiency tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "この作戦には何か命名されているんですか?",
+      "en": "Does this operation have an official name attached to it?",
+      "style": "Curious follow-up leaning in with notebook ready"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "正式には「クリーン作戦」と命名し、年中稼動しております。",
+      "en": "Officially we've named it 'Operation Clean,' operating year-round.",
+      "style": "Matter-of-fact formal tone with bureaucratic precision delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、デフォルトの体制として定着しているんですね。",
+      "en": "I see, so it's settled in as your default arrangement.",
+      "style": "Understanding nod softly summarizing the officer's explanation"
+    }
+  ]
+}

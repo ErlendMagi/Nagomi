@@ -1,0 +1,75 @@
+{
+  "id": "conv_02743",
+  "context": "Sakura interviews an award-winning author.",
+  "purpose": "WIDENED SCENARIO: author interview; vocabulary (著作/参照/疑問/賞/与える) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "著作",
+    "参照",
+    "疑問",
+    "賞",
+    "与える"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_138)",
+    "generated_at": "2026-05-29T14:04:51.307Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "ご著作が、賞を受けられたそうですね。",
+      "en": "I hear your work received an award.",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、思いがけず賞を与えられました。",
+      "en": "Yes, I was unexpectedly given an award.",
+      "style": "modest author voice, soft warm gentle clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "執筆中、疑問は多かったですか?",
+      "en": "Were there many questions while writing?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "疑問のたびに、古い著作を参照しました。",
+      "en": "With each question, I referenced old works.",
+      "style": "reflective author voice, soft warm gentle clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "参照した本は、多かったんですか?",
+      "en": "Did you reference many books?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "数えきれない著作を、参照しました。",
+      "en": "I referenced countless works.",
+      "style": "warm author voice, soft warm gentle clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "読者に、何を与えたいですか?",
+      "en": "What do you want to give readers?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "小さな疑問を、与えたいですね。",
+      "en": "I'd like to give them small questions.",
+      "style": "gentle author voice, soft warm reflective closing clarity throughout"
+    }
+  ]
+}

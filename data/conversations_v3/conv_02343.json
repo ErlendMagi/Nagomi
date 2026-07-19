@@ -1,0 +1,62 @@
+{
+  "id": "conv_02343",
+  "context": "Sho-young goes horseback riding for the first time with Tatsuya.",
+  "purpose": "Elder guiding child on first riding experience.",
+  "ambient": "ranch_outdoor_breeze",
+  "sound_effects": [],
+  "target_vocab": [
+    "馬",
+    "スタート",
+    "怖い",
+    "優しい"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_118)",
+    "generated_at": "2026-05-29T11:54:33.020Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おじさん、馬、大きいね!",
+      "en": "Mister, the horse is so big!",
+      "style": "awed child boy voice, bright warm honest delivery carefully"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おう、優しい馬やから、怖がらんでええ。",
+      "en": "Yeah, it's a gentle horse, no need to be scared.",
+      "style": "slow Tohoku farmer voice, warm reassuring delivery carefully"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ちょっと、怖いけど、乗ってみる!",
+      "en": "I'm a little scared, but I'll try riding!",
+      "style": "soft brave child boy voice, warm determined delivery carefully"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ゆっくり、スタートしような。",
+      "en": "Let's start off slowly.",
+      "style": "gentle Tohoku voice, soft warm patient delivery carefully"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うわ、揺れる、楽しい!",
+      "en": "Whoa, it sways — this is fun!",
+      "style": "thrilled child boy voice, bright warm cheerful delivery carefully"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ええ笑顔やな、その調子や。",
+      "en": "Nice smile — that's the spirit.",
+      "style": "tender Tohoku farmer voice, soft warm proud delivery carefully"
+    }
+  ]
+}

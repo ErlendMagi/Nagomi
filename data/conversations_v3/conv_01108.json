@@ -1,0 +1,76 @@
+{
+  "id": "conv_01108",
+  "context": "Asuka invites Sakura to a writing workshop.",
+  "purpose": "teacher-alum workshop invitation",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "作品",
+    "指導",
+    "頑張る",
+    "感謝"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_056)",
+    "generated_at": "2026-05-27T03:56:14.987Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "さくらさん、書く教室、講師、お願い。",
+      "en": "Sakura-san, would you be the instructor for the writing class?",
+      "style": "Warm, measured opening. Genuine respect in the ask—not performative, but real. Soft eye contact. A genuine offer, not a test.",
+      "mood": "warm_sincere"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "え、私でいいですか？",
+      "en": "Me? Really?",
+      "style": "Surprised, immediate. Soft self-doubt beneath the question—checking she heard right. A small breath between the words. Genuine, unguarded.",
+      "mood": "surprised_humble"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん、最適、本当に。",
+      "en": "Of course. You're the right person for this.",
+      "style": "Quiet certainty. No inflation, no flattery—just steady conviction. A slight lean forward. This is true and she means it.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "光栄、本当に、感謝。",
+      "en": "I'm really honored. Thank you.",
+      "style": "Sincere and grounded. No performance. A pause before 'thank you'—she means it fully. Soft gratitude, not gushing.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "生徒、お前の指導、楽しみに、してる。",
+      "en": "I'm looking forward to seeing how your students respond to your teaching.",
+      "style": "Warm encouragement, slightly conspiratorial—like sharing confidence in her. Unhurried. A small smile audible in the voice.",
+      "mood": "warm_trusting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一緒に、若い人、応援、する。",
+      "en": "I want to support them together with you.",
+      "style": "Committed and genuine. 'Together' lands softly but firmly. No hesitation—she's in. Quiet determination underneath the warmth.",
+      "mood": "committed_tender"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "頑張ろう、ね。",
+      "en": "Let's do our best together.",
+      "style": "Closing warmth. Gentle, settled. A small beat of pause before 'ね'—companionable, not prescriptive. Soft touch of promise.",
+      "mood": "warm_resolute"
+    }
+  ]
+}

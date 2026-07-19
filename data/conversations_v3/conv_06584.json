@@ -1,0 +1,86 @@
+{
+  "id": "conv_06584",
+  "context": "An elderly couple chats",
+  "purpose": "Teach: この方/にくかっ/歩か/外さ/謝る/ムカ/トシ/探り",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "この方",
+    "にくかっ",
+    "歩か",
+    "外さ",
+    "謝る",
+    "ムカ",
+    "トシ",
+    "探り"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "昨日、訪ねてきたこの方、近所の方かな。",
+      "en": "That visitor who came yesterday—was he from the neighbourhood, do you think?",
+      "style": "Thoughtful, unhurried. Warm curiosity in the question. Gentle rise on 「かな」—genuinely wondering, not pressing. The tone of someone with time and interest in the answer.",
+      "mood": "curious_gentle"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。新しいお菓子、固くて、食べにくかったわね、私。",
+      "en": "Yes. Those new sweets were hard though—difficult to eat, they were.",
+      "style": "Dry, affectionate complaint. Matter-of-fact about the teeth and the sweets. A small laugh underneath, like she's used to things not being quite how they used to be.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "寒い日、無理に歩かないようにな、お互い。",
+      "en": "On a cold day like that, let's both be careful not to push ourselves too hard walking.",
+      "style": "Quiet concern wrapped as a suggestion. Slow, steady rhythm. Light touch on 「無理に」—not lecturing, just reminding. The care of someone who knows her well.",
+      "mood": "gentle_protective"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "眼鏡、外さないで寝ちゃったわ、昨日。",
+      "en": "I fell asleep yesterday without taking my glasses off.",
+      "style": "Self-amused complaint. Conversational, like she's halfway laughing at herself. Matter-of-fact about the small indignity of getting older.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "息子に、勘違い、ちゃんと謝るよ、私。",
+      "en": "I need to apologize to our son properly—I think I misunderstood something.",
+      "style": "Quiet resolve. No performance, just clarity. A pause before the commitment. The steadiness of someone who knows what's right and will do it.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "最近のニュース、たまにムカつくものが、多いわね。",
+      "en": "These days the news gets infuriating sometimes. There's so much of it.",
+      "style": "Slight edge to the opening. The tone of someone watching the world and not always liking what she sees. Conversational complaint, not bitterness—practical frustration.",
+      "mood": "exasperated"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "孫のトシちゃん、来週、遊びに来るらしいぞ。",
+      "en": "Our grandson Toshi-chan is supposed to come visit next week.",
+      "style": "Warmth surfaces in the voice. A lift on the opening. Genuinely pleased. The small brightness of something to look forward to—not performative, just real.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "昔の写真、引き出しを探り、見つけたわよ。",
+      "en": "I was looking through the drawer and found some old photos.",
+      "style": "Nostalgic, touching. Soft entry. A pause like she's seeing them again as she speaks. Warmth and a hint of wistfulness—the particular feeling of old things found.",
+      "mood": "nostalgic_touched"
+    }
+  ]
+}

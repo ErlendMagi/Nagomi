@@ -1,0 +1,86 @@
+{
+  "id": "conv_08349",
+  "context": "Officer briefs",
+  "purpose": "Teach: セッティング/余剰/履行/教委/当人/民放/窃盗/終値",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セッティング",
+    "余剰",
+    "履行",
+    "教委",
+    "当人",
+    "民放",
+    "窃盗",
+    "終値"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_419 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場のセッティングを再現しております",
+      "en": "We're reconstructing the scene as it was found.",
+      "style": "Professional, measured opening. Even tone with no inflection. Methodical pace. The voice of someone stating fact without editorializing. Direct eye contact maintained.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、余剰の証拠も整理されているとのこと",
+      "en": "Yes. I understand the evidence has been catalogued and organized.",
+      "style": "Respectful acknowledgment with slight formal distance. Clear, steady delivery. Light pause before the second clause, showing attentiveness to what's being said. Collaborative but not presumptuous.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、約束の履行を市民に求めております",
+      "en": "We're asking citizens to uphold their part of the agreement.",
+      "style": "Firm but not harsh. Weight on the word 'asking'—it carries both expectation and respect. Measured pace. The tone of someone whose authority comes from clarity, not volume.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、教委と連携防犯活動、ありがたいです",
+      "en": "Yes. We're grateful for the police coordination with the school board on crime prevention.",
+      "style": "Sincere appreciation in the voice. Slight warmth breaking through formality. Steady delivery that shows genuine relief at institutional cooperation. Not flattering—genuine respect.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑当人と直接対話されました",
+      "en": "We've spoken directly with the suspect.",
+      "style": "Factual, slightly weighted on the past tense. No emotion attached to the statement itself. Clinical precision. Brief and complete—nothing more needed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、民放での発信も効果的ですね",
+      "en": "Yes. The media coverage has been quite effective in getting the word out.",
+      "style": "Agreement that understands the strategy. Light lift at 'effective'—acknowledging a successful tactic. Warm but professional. The tone of someone who sees how the pieces fit together.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、窃盗事件を集中捜査しております",
+      "en": "We're conducting an intensive investigation into the theft.",
+      "style": "Steady resolve. Weight on 'intensive'—showing the seriousness of the effort. No hurried pace, but urgent undertone. The voice of someone committed to resolution.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事件の終値推移を警察、確認されているそうですね",
+      "en": "Yes. I understand you've verified the timeline of the case as it developed.",
+      "style": "Quiet precision. Shows Kenji has been listening carefully. Slight leaning-in quality, showing engagement with the procedural details. Respectful closure—the voice of someone who trusts what's been done.",
+      "mood": "attentive"
+    }
+  ]
+}

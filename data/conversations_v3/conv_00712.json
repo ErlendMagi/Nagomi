@@ -1,0 +1,83 @@
+{
+  "id": "conv_00712",
+  "context": "Dr. Saito explains a routine health check result to Naoko.",
+  "purpose": "doctor-patient health result exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "検査",
+    "説明",
+    "結果",
+    "重要"
+  ],
+  "cast": [
+    "saito_doctor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "直子さん、検査の結果、お伝えします。",
+      "en": "Naoko-san, I have your exam results to share with you.",
+      "style": "Gentle opening with calm professional clarity. Warm composure in the voice, measured pace. The kind of tone that steadies someone before news—not rushed, completely present.",
+      "mood": "compassionate_professional"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "はい、お願いします。少し、緊張します。",
+      "en": "Yes, please. I'm a little nervous.",
+      "style": "Breath held slightly at the start. Quiet, vulnerable admission. Soft on the trailing phrase—not asking for reassurance yet, just naming the feeling.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "全体的に、健康、問題、ありません。",
+      "en": "Overall, your health looks good. No significant problems.",
+      "style": "Clear, direct statement with warmth underneath. Slight emphasis on 「good」—not overdoing it, but letting the relief land. Steady, confident tone.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ああ、良かった。安心しました。",
+      "en": "Ah, that's a relief. I'm so glad.",
+      "style": "Exhale of tension releasing. Warm, genuine gratitude in the voice. Lighter than before—the anxiety lifting. Small smile audible.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一つだけ、生活、注意点、説明しますね。",
+      "en": "There is one thing I'd like to mention about your daily habits.",
+      "style": "Gentle pivot—not alarming, but attentive. Slower pace on the key phrase. Professional kindness: this matters, and she should listen, but it's not serious.",
+      "mood": "caring_practical"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "はい、伺います。重要な事、教えてください。",
+      "en": "Yes, I'm listening. Please tell me what's important.",
+      "style": "Fully present now. Respectful attention. Leaning in slightly with her voice—engaged, ready to hear and act on what comes next.",
+      "mood": "attentive_receptive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "水、しっかり、毎日、飲んでください。",
+      "en": "Make sure you're drinking plenty of water every day.",
+      "style": "Direct, practical advice with warmth. Slight emphasis on 「water」 and 「every day」—concrete and actionable. Not stern, just clear.",
+      "mood": "practical_caring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "分かりました。気を付けます。ありがとうございました。",
+      "en": "I understand. I'll be careful about that. Thank you so much, Doctor.",
+      "style": "Respectful closing with genuine warmth. Gratitude in the voice—not performative, real. The relief has settled into her. Composed but kind.",
+      "mood": "grateful_reassured"
+    }
+  ]
+}

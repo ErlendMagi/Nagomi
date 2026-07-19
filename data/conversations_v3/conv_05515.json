@@ -1,0 +1,79 @@
+{
+  "id": "conv_05515",
+  "context": "A doctor explains environmental health to a teen",
+  "purpose": "Teach: 交通省/官邸/直線/遠隔/無関心/団地/下降/上流",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "交通省",
+    "官邸",
+    "直線",
+    "遠隔",
+    "無関心",
+    "団地",
+    "下降",
+    "上流"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_277 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、交通省が出してる大気汚染データ、見たことある?",
+      "en": "Sakura, have you ever come across the air-pollution data the transport ministry publishes?",
+      "style": "Warm, conversational opening. Leans in slightly as if sharing something relevant to her. Steady pace, genuinely curious about her answer.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "いえ、官邸のサイトに集まってるんですか。",
+      "en": "No — is it compiled on the cabinet office's website?",
+      "style": "Genuine curiosity, not defensive. Quick uptake — she's thinking through the bureaucratic structure. Slight rise at the end, searching for confirmation.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。直線道路沿いの団地は影響を受けやすいです。",
+      "en": "Yes. Apartment complexes along major highways tend to be more vulnerable to it.",
+      "style": "Clear, clinical but not cold. The tone of someone explaining something she's observed many times. Measured pace, steady eye contact.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "住民が無関心だと、改善が下降していくんですよね。",
+      "en": "So when residents don't pay attention to it, the air quality just keeps getting worse, right?",
+      "style": "Thoughtful pause before speaking. Connecting the dots aloud. Slight concern underneath — she understands the pattern. Unhurried delivery.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。遠隔診療でも、生活環境のヒアリングを重視しています。",
+      "en": "Exactly. Even with telemedicine, I make sure to ask carefully about patients' living environments.",
+      "style": "Affirming her insight. A little warmer here — approving of her thinking. Emphasis on 'carefully.' Deliberate, measured.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "上流の風向きまで考えるんですね。",
+      "en": "So you're factoring in wind patterns from further upstream too.",
+      "style": "Recognition in her voice. Not a question, more of an impressed statement. Slight acceleration as she grasps the scope of what he's doing.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうです。",
+      "en": "That's right.",
+      "style": "Quiet confirmation. A beat of acknowledgment. Gentle finality without closing the conversation.",
+      "mood": "steady"
+    }
+  ]
+}

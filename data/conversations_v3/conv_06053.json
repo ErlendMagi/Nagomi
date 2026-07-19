@@ -1,0 +1,79 @@
+{
+  "id": "conv_06053",
+  "context": "A doctor briefs a reporter about ethics",
+  "purpose": "Teach: 儀礼/貫く/浮き彫り/造船/応じる/騙し/辞退/モニタリング",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "儀礼",
+    "貫く",
+    "浮き彫り",
+    "造船",
+    "応じる",
+    "騙し",
+    "辞退",
+    "モニタリング"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療現場の儀礼、患者との信頼に直結します。",
+      "en": "Medical protocols and ceremony—they're inseparable from patient trust.",
+      "style": "Clear, measured opening. Slight weight on the connection between the two concepts. Steady voice, no hurry. Clinical precision softened by evident care.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "公平な治療を貫く姿勢、医師の使命ですね。",
+      "en": "So maintaining that fairness in treatment—that's the core of a doctor's responsibility.",
+      "style": "Genuine curiosity, not performative. Leaning slightly forward in thought. Testing the logic aloud, collaborative. Respectful but engaged, not deferential.",
+      "mood": "engaged_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。誤診の構造、過去の事例で浮き彫りになりました。",
+      "en": "Yes. The patterns behind misdiagnosis—they became clear through reviewing past cases.",
+      "style": "Patient but precise. Each phrase lands deliberately. Quiet weight of accumulated experience. Not explaining down, but acknowledging something sobering.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "造船業健康診断のように、特殊な専門医も必要ですか。",
+      "en": "So specialists for specific industries—like occupational health for shipyards—that's where that comes in?",
+      "style": "Genuine inquiry, building on what was said. Thoughtful pause before the example. Collaborative tone, checking understanding rather than testing knowledge.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。患者の希望に応じる柔軟な体制も大切です。",
+      "en": "Yes. And having the flexibility to respond to what patients actually need—that matters just as much.",
+      "style": "Affirming but grounded. Measured pace. Slight emphasis on 'flexibility' and 'actually need'—these are the human parts. Warm underneath the clinical language.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "騙し型の自費診療、規制はありますか。",
+      "en": "Are there regulations around deceptive private treatment practices?",
+      "style": "Direct question, genuinely searching for the answer. No edge or accusation—just asking what safeguards exist. Serious but not heavy.",
+      "mood": "searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。承諾を辞退した患者、丁寧にモニタリングします。",
+      "en": "Yes. Patients who decline consent—we monitor them carefully, make sure they're supported.",
+      "style": "Reflective close. Quiet conviction in the word 'carefully.' Slight trailing-off that suggests both the weight of responsibility and its quiet continuity. Closes the conversation with steadiness.",
+      "mood": "resolute_careful"
+    }
+  ]
+}

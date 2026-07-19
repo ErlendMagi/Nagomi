@@ -1,0 +1,65 @@
+{
+  "id": "conv_05652",
+  "context": "A police officer briefs a uni reporter about a fraud case",
+  "purpose": "Teach: 犯行/孤立/敗北/臓器/発症/投与/危惧/及ぼし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "犯行",
+    "孤立",
+    "敗北",
+    "臓器",
+    "発症",
+    "投与",
+    "危惧",
+    "及ぼし"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者の多くは、孤立した高齢者です。",
+      "en": "Most of the victims are isolated elderly people.",
+      "style": "Measured, factual opening. Professional register — Officer Takeda delivering information clearly without emotional charge. Steady eye contact. The cadence of someone presenting documented cases.",
+      "mood": "clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "犯行手口、敗北宣言を取らせるパターンですね。",
+      "en": "So the pattern is forcing them into making some kind of confession or admission of defeat.",
+      "style": "Thoughtful, slightly tentative. Ren working through the logic aloud — not quite a question, more checking his understanding. Quiet intensity. The speech of someone connecting dots.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。心身に深刻な影響を及ぼし、健康への危惧もあります。",
+      "en": "Yes. It causes serious damage — both psychological and physical. We're also concerned about the health complications that follow.",
+      "style": "Formal but not cold. Takeda confirming with added weight. Measured pace. Slight emphasis on 「深刻」—this is the core issue. Professional concern beneath the official tone.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去には、薬の不正投与で発症した方も。",
+      "en": "There have been cases in the past where victims developed symptoms after being given medication without their knowledge.",
+      "style": "Ren pressing deeper, voice quieter. Academic precision mixed with something harder underneath — this matters to him. No rush. The deliberate pace of someone who has thought about this before speaking.",
+      "mood": "troubled"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "臓器が弱った高齢者、特に守らねば。",
+      "en": "Elderly patients with compromised organs especially — they're the ones we have to protect.",
+      "style": "Firmer. Takeda's conviction surfaces. Not harsh, but the protective urgency beneath protocol. A single steady beat of emphasis. The voice of someone for whom this is not abstract.",
+      "mood": "protective"
+    }
+  ]
+}

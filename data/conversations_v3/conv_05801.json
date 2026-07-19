@@ -1,0 +1,65 @@
+{
+  "id": "conv_05801",
+  "context": "A boss reviews staff assignments",
+  "purpose": "Teach: 和田/小野/阿部/内田/西村/太田/前田/永田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "和田",
+    "小野",
+    "阿部",
+    "内田",
+    "西村",
+    "太田",
+    "前田",
+    "永田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新体制、和田部長と小野課長、営業の二枚看板。",
+      "en": "New structure: Director Wada and Section Chief Ono as the twin pillars of sales.",
+      "style": "Even, measured announcement. Brief pause after the colon — organizational clarity matters. Each name lands with equal weight. No flourish, no hesitation. The voice of someone stating facts that have already been decided.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。阿部さん、内田さんは、サポート役で固めます。",
+      "en": "Yes. Abe and Uchida will anchor the support side.",
+      "style": "Calm confirmation. Methodical, as if checking off a list he's already internalized. Professional courtesy to his superior — responsive but not deferential. Slight focus on the word 'anchor.'",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "西村さん、太田さんは、海外拠点へ。",
+      "en": "Nishimura and Ota — they're heading to the overseas offices.",
+      "style": "Direct, matter-of-fact delivery. A small beat before the dash — he's moving to the next assignment without drama. The tone of someone distributing important news without needing to perform the importance.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前田さん、永田さんは、研修担当として残します。",
+      "en": "Maeda and Nagata stay on as training leads.",
+      "style": "Clear and even. The word 'stay' carries slight emphasis — continuity matters. Still methodical, still responsive. No apology in the voice, just precision.",
+      "mood": "clear"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、各位に通達を。",
+      "en": "Understood. I'll notify everyone.",
+      "style": "Crisp close. The word 'notify' is efficient, final. A breath that settles the meeting. Hiroshi speaks like someone who knows his words have weight, so he doesn't need to add pressure.",
+      "mood": "resolved"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04888",
+  "context": "A uni intern interviews a manager about candidate evaluations",
+  "purpose": "Teach: カリキュラム/端的/低迷/探索/活力/値する/自称/称し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "カリキュラム",
+    "端的",
+    "低迷",
+    "探索",
+    "活力",
+    "値する",
+    "自称",
+    "称し"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_246 workflow wgbt2o3e0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。端的に伺いますが、最近の採用基準について教えていただけますか。",
+      "en": "Thank you for your time today. To put it bluntly, could you tell me about your recent hiring criteria?",
+      "style": "Polite, formal intern voice opening the interview respectfully."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。実は去年あたりから応募者の質が低迷していてね、評価方法を見直しているところなの。",
+      "en": "Of course. Actually, since around last year applicant quality has been slumping, so we're rethinking our evaluation methods.",
+      "style": "Warm office manager voice sharing a candid concern with a junior."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。大学のカリキュラムが時代に合っていないという声も聞きますが、影響はありますか。",
+      "en": "I see. Some people say university curricula aren't keeping up with the times—does that affect things?",
+      "style": "Curious student tone asking a thoughtful follow-up question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、少なからずね。だから私たちは候補者の活力や、自分で課題を探索する姿勢を重視しているの。",
+      "en": "Yes, to no small degree. That's why we focus on a candidate's vitality and their willingness to explore problems on their own.",
+      "style": "Reflective managerial tone explaining hiring philosophy clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "つまり、自称リーダーよりも実際に行動してきた人を評価するということでしょうか。",
+      "en": "So you mean you value people who have actually acted, rather than self-proclaimed leaders?",
+      "style": "Sharp intern voice paraphrasing to confirm understanding."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "その通り。「天才と称している人より、地道に努力してきた人こそ評価に値する」というのが私の持論よ。",
+      "en": "Exactly. My personal belief is that someone who has worked steadily deserves recognition more than someone calling themselves a genius.",
+      "style": "Confident, principled manager voice stating a core conviction."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。最後に、学生が今から準備しておくべきことを一つ挙げるとしたら何でしょうか。",
+      "en": "That's really insightful. Finally, if you had to name one thing students should prepare now, what would it be?",
+      "style": "Earnest closing question from a grateful interviewer."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうね、好奇心を絶やさないこと。それが社会人になってからの一番の活力源になるわ。",
+      "en": "Well, never letting your curiosity fade. That becomes the greatest source of energy once you enter working life.",
+      "style": "Encouraging, mentor-like advice given with a gentle smile."
+    }
+  ]
+}

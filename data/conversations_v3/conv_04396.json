@@ -1,0 +1,78 @@
+{
+  "id": "conv_04396",
+  "context": "A boss reviews quarterly sales with his manager",
+  "purpose": "Teach: 工作/発送/送料/到達/定価/稼ぎ/先物/付属",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工作",
+    "発送",
+    "送料",
+    "到達",
+    "定価",
+    "稼ぎ",
+    "先物",
+    "付属"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の数字を見たが、目標到達には少し届かなかったな。",
+      "en": "I looked at this quarter's numbers, but we fell a bit short of reaching the target.",
+      "style": "Firm executive tone, measured and slightly disappointed but professional."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "申し訳ありません。定価販売の比率を上げる施策を進めたのですが、思うように伸びませんでした。",
+      "en": "I apologize. We pushed measures to raise the ratio of full-price sales, but it didn't grow as we hoped.",
+      "style": "Deferential middle-manager voice, apologetic with formal business register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "送料無料キャンペーンの効果はどうだった?",
+      "en": "How effective was the free shipping campaign?",
+      "style": "Direct probing question, businesslike and concise inquiry."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "発送件数は二割ほど伸びましたが、利益率は逆に下がっています。",
+      "en": "The number of shipments grew about twenty percent, but the profit margin actually declined.",
+      "style": "Reporting facts neutrally, slight hesitation conveying bad news carefully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "付属品の単価をもう一度見直す必要があるかもしれない。原材料の先物価格も上がっているしな。",
+      "en": "We may need to review the unit prices of accessories again. The futures prices of raw materials are also rising.",
+      "style": "Strategic thinking aloud, weighing options with seasoned business judgment."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。工作機械部門の見直しも含め、法人向けでしっかり稼ぎを伸ばしたいと考えております。",
+      "en": "You're absolutely right. Including a review of the machine tool division, we'd like to firmly grow earnings from corporate clients.",
+      "style": "Eager agreement followed by forward-looking proposal, respectful but assertive."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いいだろう。ただし、現場の声をしっかり聞いてから動いてくれ。",
+      "en": "Very well. However, make sure to listen carefully to the field staff before acting.",
+      "style": "Approving but cautionary, paternal mentorship blended with executive authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。来週までに詳細な計画書をお持ちします。",
+      "en": "Understood. I'll bring you a detailed plan by next week.",
+      "style": "Crisp closing commitment, polished business Japanese with formal closure."
+    }
+  ]
+}

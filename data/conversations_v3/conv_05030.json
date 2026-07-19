@@ -1,0 +1,78 @@
+{
+  "id": "conv_05030",
+  "context": "A police officer briefs a uni reporter about a corporate dispute",
+  "purpose": "Teach: 提訴/凍結/国外/来店/労力/模倣/セカンド/ダイレクト",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "提訴",
+    "凍結",
+    "国外",
+    "来店",
+    "労力",
+    "模倣",
+    "セカンド",
+    "ダイレクト"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "よく来てくれた。今日は来店客の事件じゃなく、企業同士の話だ。座ってくれ。",
+      "en": "Glad you came. Today isn't about shop visitors but about companies. Have a seat.",
+      "style": "Gruff officer humor with formal yet welcoming briefing tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。例の会社が相手企業を裁判所に提訴したと聞きましたが、本当ですか?",
+      "en": "Thank you. I heard that company filed a lawsuit against the rival firm — is it true?",
+      "style": "Eager student reporter with polite questioning cadence"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "事実だ。理由は模倣品の大量流通でな、被害額がかなり大きいんだよ。",
+      "en": "It's true. The reason is mass circulation of counterfeit goods, and damages are substantial.",
+      "style": "Clipped factual delivery in official briefing register"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "となると、相手側の資産凍結の手続きも今まさに進んでいるんでしょうか?",
+      "en": "In that case, are the asset freeze procedures against the other side also progressing right now?",
+      "style": "Probing follow-up question with journalist sharpness"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ。容疑者の一部は国外に逃亡した可能性があるから、こちらも急いでいる。",
+      "en": "Yes. Some suspects may have fled abroad, so we're moving quickly on our side too.",
+      "style": "Tense urgency-laden officer report with grave undertone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "捜査にはかなりの労力がかかりそうですね。セカンドオピニオンとして外部の専門家の意見も取り入れているんですか?",
+      "en": "The investigation must require enormous effort. Are you also bringing in outside experts for a second opinion?",
+      "style": "Thoughtful reporter politely probing investigation methodology"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろんだ。記事にするなら、憶測ではなく、私からダイレクトに聞いた事実だけを載せてくれ。",
+      "en": "Of course. If you write the article, please print only facts heard directly from me, not speculation.",
+      "style": "Firm directive in paternal warning tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。ご協力ありがとうございます、警部。",
+      "en": "Understood. Thank you for your cooperation, Inspector.",
+      "style": "Respectful closing bow in grateful student register"
+    }
+  ]
+}

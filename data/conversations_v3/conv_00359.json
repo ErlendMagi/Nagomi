@@ -1,0 +1,69 @@
+{
+  "id": "conv_00359",
+  "context": "Sho comes for a dental follow-up. He's less scared now.",
+  "purpose": "small medical follow-up — child gaining confidence with adult professional",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "歯",
+    "大丈夫",
+    "怖い",
+    "上手",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_018)",
+    "generated_at": "2026-05-26T21:04:52.149Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、今日も、よく来てくれた。",
+      "en": "Sho-kun, glad you came today too.",
+      "style": "Doctor warm professional gentle child-tuned-welcoming-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-welcoming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…前ほど、怖くない。",
+      "en": "…Not as scared as before.",
+      "style": "Tiny six-year-old soft small sincere brave-disclosure-warm, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "softly-brave"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "すごい、成長したね。",
+      "en": "Wonderful — you've grown.",
+      "style": "Doctor warm gentle sincere praising-warm specific, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-praising"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お母さんが、頑張れって言ってくれたから。",
+      "en": "Because mom said do your best.",
+      "style": "Tiny six-year-old soft small sincere humble-redirecting-warm, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "humbly-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "歯、ちゃんと磨けてるよ。今日、痛くしないから。",
+      "en": "Teeth — brushed properly. Today won't hurt.",
+      "style": "Doctor warm gentle professional reassuring-warm specific, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、先生。",
+      "en": "Thank you, doctor.",
+      "style": "Tiny six-year-old soft small sincere brave-closing-warm, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

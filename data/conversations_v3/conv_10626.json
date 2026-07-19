@@ -1,0 +1,86 @@
+{
+  "id": "conv_10626",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 西川/横山/藤本/新田/飯田/西尾/木下/秋山",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "西川",
+    "横山",
+    "藤本",
+    "新田",
+    "飯田",
+    "西尾",
+    "木下",
+    "秋山"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_533 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の西川部長を歓迎しろ",
+      "en": "Welcome Nishikawa, our newly appointed department head.",
+      "style": "Direct command. Clipped, authoritative opening. Measured pace. No warmth, no pause for questions. The voice of someone accustomed to being heard.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の横山課長の出張日程を整えます",
+      "en": "Understood. I'll coordinate the travel schedule for Yokoyama, our sales manager.",
+      "style": "Brisk acknowledgment. Efficient, no-nonsense. Slight nod in the voice. Moves forward immediately to next task without elaboration.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、取引先の藤本社長との会合を設定しろ",
+      "en": "Set up a meeting with Fujimoto, our client's president.",
+      "style": "Directive tone. Firm opening on the verb. Spare delivery. Expects compliance without explanation. Professional distance maintained throughout.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新田主任の研修プログラムを企画します",
+      "en": "Understood. I'll design a training program for Nitta, our newly appointed supervisor.",
+      "style": "Quiet confirmation. Professional, matter-of-fact. Takes on the task without fanfare. Steady, reliable delivery throughout.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、本部長の飯田様の引退式を準備しろ",
+      "en": "Prepare the retirement ceremony for Iida, our headquarters director.",
+      "style": "Steady directive. Weight behind the request—this is significant but delivered without sentiment. Clipped pacing. Expects careful handling.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の西尾様の戦略を採用します",
+      "en": "Understood. I'll implement the strategy Nishio from PR has prepared.",
+      "style": "Affirming, efficient. Brief and clean. No inflection needed—just execution. The tone of someone who knows exactly what needs to happen next.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事担当の木下様を主任に昇格させろ",
+      "en": "Promote Kinoshita from human resources to supervisor.",
+      "style": "Clear order. Authoritative but not harsh. Confident in the decision. Slight emphasis on the promotion itself—this is definitive.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。技術主任の秋山様にプロジェクトを任せます",
+      "en": "Understood. I'll assign the project to Akiyama, our technical supervisor.",
+      "style": "Final confirmation. Calm and assured. The delivery of someone closing out a list of tasks. Settles the matter with quiet finality.",
+      "mood": "settled"
+    }
+  ]
+}

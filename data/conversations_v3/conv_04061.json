@@ -1,0 +1,72 @@
+{
+  "id": "conv_04061",
+  "context": "A boss announces a salary raise plan to his manager",
+  "purpose": "Teach: 支給/引き上げ/就業/収支/不十分/金銭/増し/マネージャー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支給",
+    "引き上げ",
+    "就業",
+    "収支",
+    "不十分",
+    "金銭",
+    "増し",
+    "マネージャー"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_205 workflow w8myi0hd3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジくん、ちょっといいか。マネージャーとして、君に先に伝えておきたい話があるんだ。",
+      "en": "Kenji, got a minute? As a manager, there's something I want to tell you first.",
+      "style": "Authoritative, calm, slightly warm tone signaling important news."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、社長。何でしょうか。最近の収支報告のことでしょうか。",
+      "en": "Yes, sir. What is it? Is it about the recent financial report?",
+      "style": "Polite, attentive, slightly nervous business Japanese register here."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実はな、来月から全社員の賃金引き上げを実施する。現状の給与支給では、社員のがんばりに対して不十分だと感じていたんだ。",
+      "en": "Actually, starting next month we're implementing a company-wide raise. The current pay was insufficient for everyone's effort.",
+      "style": "Decisive, declarative, executive announcement register with conviction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当ですか。それは社員にとって、魅力が増した職場になりますね。",
+      "en": "Really? That'll make this a much more attractive workplace for the employees.",
+      "style": "Surprised but pleased, professional enthusiasm in tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ。就業規則もあわせて見直す。金銭面だけでなく、働きやすさも改善したい。",
+      "en": "Yes. We'll revise the work regulations too. I want to improve more than just compensation.",
+      "style": "Thoughtful, principled, leadership tone with steady delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。現場のマネージャー陣にも、私から丁寧に説明しておきます。",
+      "en": "Thank you. I'll explain this carefully to the floor managers myself.",
+      "style": "Grateful, dutiful, mid-level manager register throughout reply."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。発表は会議の最中でなく、個別に伝えてほしい。みんなのモチベーションを大事にしたいんだ。",
+      "en": "Please do. Don't announce it during the meeting—tell them individually. I want to value everyone's motivation.",
+      "style": "Considerate, strategic, mindful executive instruction with care."
+    }
+  ]
+}

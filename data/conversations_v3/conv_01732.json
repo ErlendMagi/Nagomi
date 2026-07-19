@@ -1,0 +1,61 @@
+{
+  "id": "conv_01732",
+  "context": "Naoko and Sho-young watch a soccer match on TV with snacks.",
+  "purpose": "Aunt and nephew sharing sports excitement together.",
+  "ambient": "living_room_tv_loud",
+  "sound_effects": [],
+  "target_vocab": [
+    "サッカー",
+    "勝つ",
+    "ゴール",
+    "興奮"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おばちゃん、サッカー始まった!",
+      "en": "Auntie—soccer's starting!",
+      "style": "Urgent, bright leap upward. Rapid-fire announcement, no filter. Lean-in energy, as if Auntie might miss this moment. The specific thrill of a child who just discovered something happening right now.",
+      "mood": "urgent_excited"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うわ、ゴール!すごいやん!",
+      "en": "Whoa—goal! That was amazing!",
+      "style": "Sharp intake on the opening. Booming, generous voice—Kansai warmth turned up loud. Hand-slap energy. Matching Sho's excitement with the unselfconscious joy of an adult who plays to win.",
+      "mood": "thrilled_generous"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった、勝つかも!",
+      "en": "We might actually win this!",
+      "style": "Climbing pitch on 'might'—genuine hope cresting into belief. Quick, breathy between thoughts. Small body leaning forward. The precarious optimism of a child who knows the next moment could go either way.",
+      "mood": "hopeful_invested"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "こっち、応援するで!",
+      "en": "Come on—let's cheer for this side!",
+      "style": "Declarative, inviting. Kansai lilt on the edges. Voice opens up—she's pulling Sho into a team. Warm authority without distance. The kind of aunt who makes a child feel chosen.",
+      "mood": "bonding_energized"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "興奮する!",
+      "en": "This is so exciting!",
+      "style": "Slightly breathless. Whole-body energy compressed into voice. Peak excitement without exhaustion—pure present-moment alive. Short, sharp clarity, then a small afterthought lingering.",
+      "mood": "exhilarated"
+    }
+  ]
+}

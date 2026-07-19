@@ -1,0 +1,112 @@
+{
+  "id": "conv_00034",
+  "context": "Asuka's apartment on a Saturday. Mei has come over to talk through a difficult conversation she needs to have with her family — and is stuck on the words.",
+  "purpose": "friend coaches friend — gentle preparation, role-playing the harder voice",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "言う",
+    "時間",
+    "何",
+    "ない",
+    "大丈夫",
+    "考える"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "mei_romantic"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "で、何を言いたいの、メイちゃんは。",
+      "en": "So — what is it you want to say, Mei?",
+      "style": "Sits down across from her. Calm, level voice. Teacher clarity doing real work here. Steady eye contact.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…それが、わかんない。",
+      "en": "…I don't know. That's the thing.",
+      "style": "Eyes down to her hands. Genuine vulnerability — the honest answer comes out almost involuntarily.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。じゃあ、考えてること、ぜんぶ言ってみて。",
+      "en": "Okay. Then tell me everything you're thinking. All of it.",
+      "style": "No edge, no pressure. The invitation is spacious and open — room for whatever comes.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ぜんぶは、難しい…",
+      "en": "Everything — that's hard…",
+      "style": "Small, real protest. Voice trembles slightly, almost at the edge of tears but holding.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ちょっとずつでいい。私、時間あるから。",
+      "en": "Bit by bit is fine. I have time.",
+      "style": "Steady and grounded. The phrase \"I have time\" carries the full weight of the promise — she's not rushing.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとう…えっと、本当はね…",
+      "en": "Thank you… Um, actually…",
+      "style": "A breath in before the words. The hesitation is half-stalling, half-gathering courage to begin.",
+      "mood": "grateful_nervous"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "One syllable, pure listening. Doesn't fill silence. The smallest door opening wider.",
+      "mood": "present"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家族に、ちゃんと言いたいことがあって。でも、傷つけたくなくて。",
+      "en": "There's something I really need to tell my family. But — I don't want to hurt them.",
+      "style": "Two separate thoughts with a beat between. The contradiction is the entire problem — both things true at once.",
+      "mood": "conflicted"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、その気持ちは大事。でも、言わないと、メイちゃんが傷つくよ。",
+      "en": "That feeling matters. But if you don't say it, you'll be the one who gets hurt.",
+      "style": "Gentle but firm. She lands the half-step that Mei couldn't quite take alone. Not unkind, just clear.",
+      "mood": "caring_direct"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…そうかも。",
+      "en": "…Maybe you're right.",
+      "style": "The smallest agreement, barely there. Eyes lift for the first time. A shift in the room.",
+      "mood": "dawning"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫。練習しよ。私が、お母さんやる。",
+      "en": "It's okay. Let's practise. I'll be your mom.",
+      "style": "Voice stands up slightly — shifts from counselor to scene partner. A practical kindness that makes the abstract suddenly actionable.",
+      "mood": "warm_capable"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "(small laugh)…じゃ、お願い。",
+      "en": "(small laugh) Okay then. Please.",
+      "style": "A brief, genuine laugh. Then softer — the actual request. The whole room just got lighter.",
+      "mood": "cautious_hopeful"
+    }
+  ]
+}

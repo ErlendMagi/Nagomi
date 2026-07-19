@@ -1,0 +1,72 @@
+{
+  "id": "conv_04807",
+  "context": "Two managers run through a quarterly compliance check",
+  "purpose": "Teach: 利子/就労/運輸/納め/間隔/有益/問合せ/外観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "利子",
+    "就労",
+    "運輸",
+    "納め",
+    "間隔",
+    "有益",
+    "問合せ",
+    "外観"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_242 workflow wj0528681)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今期の運輸部門の監査結果、ざっと目を通しました？",
+      "en": "Did you skim through this quarter's audit results for the transportation division?",
+      "style": "Crisp professional opener, polite but businesslike between equal-rank managers."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、特に就労時間の記録に少し気になる点がありましたね。",
+      "en": "Yes, I noticed a few concerning points in the working-hour records.",
+      "style": "Measured reply, mid-level manager tone, slight hedging before raising concerns."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それと、税金をきちんと納めているかの確認も再度必要かと。",
+      "en": "Also, I think we need to re-verify whether taxes have been properly paid.",
+      "style": "Forward-looking, adds an item to the agenda calmly and methodically."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ローン関連の利子の計上方法も、前回ちょっと曖昧でしたよね。",
+      "en": "The way interest on the loans was recorded was a bit ambiguous last time.",
+      "style": "Recalling a prior issue, gently critical, conversational professional register."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "監査の間隔をもう少し短くした方が、リスク管理上は有益だと思います。",
+      "en": "Shortening the interval between audits would be beneficial for risk management.",
+      "style": "Proposing a concrete process change, confident but consultative."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かに。あと、本社ビルの外観点検の報告書も今四半期に含めますか？",
+      "en": "True. Should we also include the headquarters building exterior inspection report this quarter?",
+      "style": "Agrees, then expands scope with a practical question, collaborative tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "含めましょう。取引先からの問合せも増えているので、早めに対応したいですね。",
+      "en": "Let's include it. Inquiries from business partners are increasing, so I'd like to handle it early.",
+      "style": "Decisive close-out, justifies decision with external pressure, forward-planning manager voice."
+    }
+  ]
+}

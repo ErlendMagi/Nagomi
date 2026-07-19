@@ -1,0 +1,86 @@
+{
+  "id": "conv_08347",
+  "context": "Two managers chat",
+  "purpose": "Teach: セッティング/余剰/履行/教委/当人/民放/窃盗/終値",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セッティング",
+    "余剰",
+    "履行",
+    "教委",
+    "当人",
+    "民放",
+    "窃盗",
+    "終値"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_419 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "会議室のセッティングを早めに済ませましょう",
+      "en": "Let's get the meeting room set up early.",
+      "style": "Crisp, efficient opening. Business-like but not cold. Assumes agreement. Forward momentum without urgency.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。今期は余剰人員の再配置を進めます",
+      "en": "Understood. We'll proceed with redeploying the surplus staff this quarter.",
+      "style": "Steady acknowledgement, slightly formal register. Quiet confidence in the task at hand. No flourish, just competence.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "契約の履行状況を月次で報告しましょう",
+      "en": "Let's report on contract compliance monthly.",
+      "style": "Clear directive. Measured pace. Thoughtful pause before the instruction — this is important but not alarming.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地元教委との連携プロジェクトを企画中です",
+      "en": "Understood. I'm currently planning a partnership project with the local education board.",
+      "style": "Factual update, slightly more detail than expected. Quieter than the direction — giving information, not orders. Professional but genuine.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お客様当人ご来店時の応対マニュアルを整えましょう",
+      "en": "Let's finalize a customer reception manual for when clients visit in person.",
+      "style": "Authoritative but not harsh. Slight emphasis on 'finalize' — this matters for the company face. Steady eye contact level in the voice.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。民放各局への広報を準備しております",
+      "en": "Understood. I'm preparing public relations outreach to the major broadcast networks.",
+      "style": "Calm report. Slightly longer form — he's being thorough. Professional register, no apology in the tone. Work in progress, stated with confidence.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社内、窃盗防止カメラを増設しましょう",
+      "en": "Let's install additional security cameras throughout the office.",
+      "style": "Direct instruction, practical matter-of-fact. No defensiveness despite the security implication. Brisk, efficient delivery.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。終値ベースで配当を計算します",
+      "en": "Understood. I'll calculate the dividend based on closing price.",
+      "style": "Final acknowledgement. Slight firmness on 'closing price' — the specificity matters. Professional closure, ready to move forward.",
+      "mood": "precise"
+    }
+  ]
+}

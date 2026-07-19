@@ -1,0 +1,75 @@
+{
+  "id": "conv_03031",
+  "context": "Ren reports market conditions to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (条約/混乱/主要/景気/相場) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "条約",
+    "混乱",
+    "主要",
+    "景気",
+    "相場"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "相場が、不安定になっています。",
+      "en": "The market has become unstable.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "混乱の原因は、何かね?",
+      "en": "What's the cause of the turmoil?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "主要国の条約交渉が、原因です。",
+      "en": "Major nations' treaty talks are the cause.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "我が社の景気は、大丈夫かね?",
+      "en": "Is our company's business okay?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "景気の波に、備えています。",
+      "en": "We're prepared for the economic waves.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "相場を、注意深く見てくれ。",
+      "en": "Watch the market carefully.",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "主要な取引先とも、相談します。",
+      "en": "I'll consult our main clients too.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "混乱の中こそ、冷静に行こう。",
+      "en": "Especially amid turmoil, let's stay calm.",
+      "style": "warm boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

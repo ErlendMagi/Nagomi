@@ -1,0 +1,79 @@
+{
+  "id": "conv_05952",
+  "context": "A police officer briefs on a healthcare-fraud case",
+  "purpose": "Teach: 酵素/混同/判る/落ち着か/投下/党員/政界/接待",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "酵素",
+    "混同",
+    "判る",
+    "落ち着か",
+    "投下",
+    "党員",
+    "政界",
+    "接待"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_299 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "健康食品関連、酵素詐欺が増えています。",
+      "en": "Health-food related scams—enzyme fraud specifically—are on the rise.",
+      "style": "Even, measured opening. No drama. Clinical precision on 「酵素詐欺」. The tone of someone delivering facts they've seen before.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医薬品との混同、消費者の判断が難しいんですね。",
+      "en": "People confuse these with actual medications, so it's hard for consumers to tell the difference.",
+      "style": "Thoughtful pause before speaking. Gentle but searching—testing his own understanding aloud. Soft curiosity, not probing.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。正しい知識が判るよう、警察も啓発活動を進めます。",
+      "en": "That's right. To make sure correct information gets out there, the police are ramping up public awareness efforts too.",
+      "style": "Slight nod in the voice. Formal but not stiff. The cadence of someone explaining institutional procedure with conviction.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "落ち着かない高齢者を狙う詐欺、報告が多いですね。",
+      "en": "We're getting a lot of reports about scammers targeting vulnerable elderly people who feel unsettled.",
+      "style": "Careful word choice. Observant, almost tentative—laying out what the data shows without editorializing. A slight furrow underneath.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。情報を全国に投下するキャンペーン、計画中です。",
+      "en": "Yes. We're planning a nationwide information campaign to reach people before they become targets.",
+      "style": "More ground covered now. Still measured, but with the forward momentum of someone explaining a plan in motion.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "党員系団体や政界からも、支援を頂きますか。",
+      "en": "Will you get support from party-affiliated organizations and politicians on this?",
+      "style": "Direct question, but respectful tilt. Genuine curiosity about how the machinery works. Not confrontational.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "接待ではなく、政策レベルで連携します。",
+      "en": "Cooperation happens at the policy level—not through entertainment or favors.",
+      "style": "Sharp, clear close. A line drawn without aggression. Quiet but firm. The finality of someone who knows his position and isn't apologizing for it.",
+      "mood": "principled"
+    }
+  ]
+}

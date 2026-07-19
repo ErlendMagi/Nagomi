@@ -1,0 +1,78 @@
+{
+  "id": "conv_03464",
+  "context": "Student and teacher analyze a police press briefing about a case",
+  "purpose": "Teach: 刑事/殺し/侵害/違法/正当/権限/戦闘/馬鹿",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "刑事",
+    "殺し",
+    "侵害",
+    "違法",
+    "正当",
+    "権限",
+    "戦闘",
+    "馬鹿"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、さっきの記者会見見ましたか?刑事さんが事件の概要を説明してました。",
+      "en": "Sensei, did you see that press conference earlier? The detective was explaining the outline of the case.",
+      "style": "eager university student initiating discussion with academic curiosity"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、見ましたよ。容疑者は殺しの容疑で逮捕されたそうですね。",
+      "en": "Yes, I saw it. Apparently the suspect was arrested on suspicion of murder.",
+      "style": "composed teacher confirming facts in measured polite tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "でも、警察の捜査方法って正当だったんでしょうか?なんか強引に見えたんですけど。",
+      "en": "But was the police investigation method really legitimate? It looked kind of forceful to me.",
+      "style": "skeptical student pressing a critical question carefully"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "良い視点ですね。捜査令状の権限の範囲を超えると、人権侵害になりかねません。",
+      "en": "That's a good perspective. If they exceed the scope of the warrant's authority, it could amount to a human rights violation.",
+      "style": "thoughtful teacher praising and expanding the student's point"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場で戦闘みたいな状況になって、容疑者がケガしたって言ってましたよね。あれって違法じゃないんですか?",
+      "en": "They said the scene turned into something like a combat situation and the suspect got injured. Isn't that illegal?",
+      "style": "incredulous student leaning forward with sharper concern"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "状況によりますね。抵抗があった場合は、ある程度の実力行使は認められています。",
+      "en": "It depends on the situation. If there was resistance, a certain degree of force is permitted.",
+      "style": "calm teacher delivering nuanced legal qualification patiently"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なんかニュースのコメント欄、馬鹿みたいに警察を擁護してる人ばっかりで、ちょっと怖くなりました。",
+      "en": "The news comment sections are full of people defending the police like idiots — it kind of freaked me out.",
+      "style": "frustrated student venting casually about online discourse"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "感情的な反応に流されず、事実関係を冷静に見ることが大事ですよ、レンさん。",
+      "en": "It's important not to get swept up in emotional reactions and to look at the facts calmly, Ren-san.",
+      "style": "gentle teacher redirecting with grounded mentorly wisdom"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08868",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 電信/依拠/手がける/内地/買い換え/受取/田舎町/廃業",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "電信",
+    "依拠",
+    "手がける",
+    "内地",
+    "買い換え",
+    "受取",
+    "田舎町",
+    "廃業"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_445 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、戦時下の電信記録を史料として研究しろ",
+      "en": "Ren — I want you to research wartime telegraph records as primary source material.",
+      "style": "Calm, direct authority. Measured cadence. No rush. The kind of instruction a mentor gives when he's already confident in the person receiving it.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文は先行研究に依拠しております",
+      "en": "Yes. My paper is built on the prior research in the field.",
+      "style": "Careful, slightly formal. Seeking approval but not defensively. Steady pace. The precision of someone checking his own work aloud.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室で新テーマを手がけるチームを作れ",
+      "en": "Ren — I need you to form a team in the lab to tackle a new research direction.",
+      "style": "Clear assignment. Slight weight on 'form' — not a suggestion. Still warm, not cold. The confidence of delegating up.",
+      "mood": "assigning"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。内地の研究者との交流を学会で扱いました",
+      "en": "Yes. I presented collaborative work with domestic researchers at the conference.",
+      "style": "Dutiful. Maintaining formality even as he reaches to answer what he thinks is being asked. A beat of uncertainty underneath.",
+      "mood": "dutiful_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、古い実験機材の買い換えを申請しろ",
+      "en": "Ren — I need the equipment request filed. The old instruments need replacing.",
+      "style": "Practical, matter-of-fact. Not harsh. The tone of someone checking essential boxes. Expects compliance without drama.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の受取書を提出いたしました",
+      "en": "Yes. I've submitted the receipts for the research funds.",
+      "style": "Quiet formality. Slightly stiff — he's answering what was asked but sensing a gap between the instruction and his response. Dutiful exhale.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、田舎町でのフィールドワークも計画しろ",
+      "en": "Ren — plan fieldwork in the countryside as well. That's part of this too.",
+      "style": "Matter-of-fact addition. The final piece. No hesitation. Still measured, but the scope is broadening and he's stating it clearly.",
+      "mood": "expanding_scope"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室の廃業は最終手段と考えております",
+      "en": "Yes. If needed, closing the lab would be the last resort — I understand the stakes.",
+      "style": "Quiet gravity. Ren finally hears what isn't being said. Slow, careful. The words of someone who just realized the scope of what he's been asked to do.",
+      "mood": "sobered_understanding"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09435",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 原始/平面/増進/傷害/放火/脅し/蔓延/肝臓",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原始",
+    "平面",
+    "増進",
+    "傷害",
+    "放火",
+    "脅し",
+    "蔓延",
+    "肝臓"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_473 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、原始的な勘ではなくデータで判断しろ",
+      "en": "At this company, we make decisions based on data, not gut instinct.",
+      "style": "Clipped, authoritative opening. Measured cadence. No room for negotiation. Sits back slightly after speaking, already moving to the next point.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。提案書は平面図も添付します",
+      "en": "Understood. We'll attach floor plans to the proposal document.",
+      "style": "Efficient, note-taking tone. Quick affirmation at the start. Professional pace, neither rushed nor dragging. Voice stays steady and ready for the next instruction.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員の健康増進を経営課題と捉えろ",
+      "en": "This company needs to treat employee health as a core business priority.",
+      "style": "Formal declaration. Slight emphasis on 'core business priority' — weight behind the words. Measured tempo. He means this as a directive, not a suggestion.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。職場の傷害事故を未然防止します",
+      "en": "Understood. We'll prevent workplace injuries before they happen.",
+      "style": "Steady confirmation. Lean slightly forward, showing engagement. Clear enunciation on the commitment. Breathe slightly between 'prevent' and 'workplace injuries'.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社用車の放火対策も検討しろ",
+      "en": "We also need a countermeasure plan for vehicle security threats.",
+      "style": "Measured addition to the list. Slight pause before 'vehicle security threats' — he's thinking through the implications. Not casual, but not alarmist either.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員への脅しまがいの言動を禁じます",
+      "en": "Understood. We'll prohibit any threatening or coercive conduct toward staff.",
+      "style": "Firm affirmation. Clear, deliberate speech on 'prohibit' — showing he takes this seriously. Voice stays level and professional. Not defensive, just committed.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、感染症の社内蔓延を未然防止しろ",
+      "en": "We must prevent disease transmission from spreading within the company.",
+      "style": "Formal authority. Slight emphasis on 'must.' Composed delivery — this is another non-negotiable priority. Pause before the next directive begins.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の肝臓検診の補助も検討します",
+      "en": "Understood. We'll also look into subsidizing liver health screenings for employees.",
+      "style": "Final confirmation. Slight warmth here — showing concern for staff welfare. Even pacing, but the tone carries sincerity underneath the professionalism. Closing statement of the meeting.",
+      "mood": "attentive"
+    }
+  ]
+}

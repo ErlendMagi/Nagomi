@@ -1,0 +1,86 @@
+{
+  "id": "conv_08047",
+  "context": "Two managers chat",
+  "purpose": "Teach: 美学/うかがい/異物/恥ずかしながら/相まって/のけ/汚し/勝た",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "美学",
+    "うかがい",
+    "異物",
+    "恥ずかしながら",
+    "相まって",
+    "のけ",
+    "汚し",
+    "勝た"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_404 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "当社、デザインの美学を大切にしましょう",
+      "en": "Let's make sure we're cherishing good design in everything we do.",
+      "style": "Clear, measured opening. Purposeful pace. Slight formality—speaking from principle, not decree. Breath support under the entire phrase.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様のお話、うかがい、ご報告いたします",
+      "en": "Yes. I'll listen carefully to what our customers have to say and report back to you.",
+      "style": "Attentive and earnest. Slight nod in the voice on the opening. Warm but professional. A hint of eagerness to follow through.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "食品に異物混入のリスク、ゼロを目指しましょう",
+      "en": "We need to aim for zero risk of contamination in our food products.",
+      "style": "Firm conviction. Each word lands with quiet weight. Slower pace, almost meditative. No room for compromise in the tone.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "恥ずかしながら、当社の在庫管理に課題がございます",
+      "en": "I'm sorry to say we've found some real gaps in our inventory management.",
+      "style": "Humble opening, shoulders slightly forward. Honest admission without deflecting. Steady eye-contact level. Brief pause after the confession.",
+      "mood": "accountable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社の好調と市況改善が相まっての業績です",
+      "en": "Our strong performance comes from both our own effort and the improved market conditions.",
+      "style": "Even, measured delivery. Pride tempered by realism. Distributes credit fairly across both causes. Composed, matter-of-fact.",
+      "mood": "balanced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員にのけ者感を抱かせない職場を目指します",
+      "en": "We want to create a workplace where no one feels left out or excluded.",
+      "style": "Warm, inclusive intention beneath the words. Slower, deliberate pace—making sure this lands. Sincere without being sentimental.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お客様の信頼を汚した広告、撤退しましょう",
+      "en": "We should pull that advertisement—it damaged customer trust.",
+      "style": "Decisive, no hesitation. Brief pause before 'pull'—the moment of decision. Quiet seriousness. Not angry, but clear about what's right.",
+      "mood": "principled_firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。他社に勝たねば、当社、存続できません",
+      "en": "Yes. If we don't outperform our competitors, we won't survive.",
+      "style": "Sobering reality check. Quiet intensity. No drama, just honest assessment. The stakes are clear in the tone.",
+      "mood": "determined"
+    }
+  ]
+}

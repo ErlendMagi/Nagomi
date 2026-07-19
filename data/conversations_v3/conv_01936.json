@@ -1,0 +1,61 @@
+{
+  "id": "conv_01936",
+  "context": "Naoko buys a small new clock for the ramen shop wall.",
+  "purpose": "Aunt making practical small business purchase.",
+  "ambient": "shop_morning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "時計",
+    "壁",
+    "デザイン",
+    "見える"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "時計、壁にええの欲しいわ。",
+      "en": "I want a really nice clock for the wall, you know?",
+      "style": "Brassy, energetic Kansai lilt. Bright opening on the request. Loud enough to fill the room but not aggressive — the confidence of someone used to being listened to. Engaged, expecting agreement.",
+      "mood": "bright_engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "デザイン、これどう?",
+      "en": "What do you think of this design?",
+      "style": "Warm, softer Kansai accent. Gentle rise at the end — genuinely asking, not just performing helpfulness. Slight lean forward in the voice. Inviting her opinion like he already knows she'll have a good one.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "見やすそうやな、ええで!",
+      "en": "Oh, that's easy to read — I like it!",
+      "style": "Animated, genuine delight. Quick tempo. The 'ええで' lands with satisfaction — she's made up her mind and she's pleased with herself. Brassy Kansai warmth, no hesitation.",
+      "mood": "pleased_decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "シンプルで、落ち着いてる。",
+      "en": "It's simple and calm — really settled-looking.",
+      "style": "Gentle, approving tone. Soft Kansai drawl. Slower pace than hers — he's confirming her choice with quiet conviction. Warm nod in the voice. Small smile underneath.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "これに、決まりや!",
+      "en": "That's the one then — we're settled!",
+      "style": "Cheerful finality with warmth. Brassy aunt energy — the decision is made and she's satisfied. Short, decisive tempo. The slight breathiness of someone wrapping it up and ready to move on to the next thing.",
+      "mood": "satisfied_decisive"
+    }
+  ]
+}

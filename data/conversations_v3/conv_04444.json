@@ -1,0 +1,78 @@
+{
+  "id": "conv_04444",
+  "context": "A uni student interviews a retired traveler about regions visited",
+  "purpose": "Teach: 神奈川/静岡/宮崎/埼玉/愛知/長崎/大分/熊本",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "神奈川",
+    "静岡",
+    "宮崎",
+    "埼玉",
+    "愛知",
+    "長崎",
+    "大分",
+    "熊本"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_224 workflow ww078rn24)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はインタビューに応じてくださってありがとうございます。最初にお聞きしたいのですが、ご出身はどちらですか？",
+      "en": "Thank you for agreeing to this interview today. First, may I ask where you're originally from?",
+      "style": "Polite, slightly nervous student opening a formal interview with measured pacing."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "私は神奈川県の生まれでね、若い頃は隣の静岡県のお茶畑でアルバイトをしたこともあったよ。",
+      "en": "I was born in Kanagawa, and when I was young I even worked part-time in the tea fields of neighboring Shizuoka.",
+      "style": "Warm, nostalgic, slow elder cadence with gentle laughter between phrases."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、面白いですね。退職後はどのあたりを旅行されたんですか？",
+      "en": "Wow, that's fascinating. Which areas did you travel to after retirement?",
+      "style": "Curious, engaged student leaning forward, taking notes as he speaks."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "まずは九州を一周してね、宮崎県の海岸線、長崎の港町、大分の温泉、それから熊本城まで全部回ったよ。",
+      "en": "First I went around Kyushu — the Miyazaki coastline, the port towns of Nagasaki, the hot springs of Oita, and all the way to Kumamoto Castle.",
+      "style": "Proud, expansive recollection, listing destinations with rhythmic enthusiasm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごい行動力ですね。関東や中部地方の方はどうでしたか？",
+      "en": "What an incredible level of activity. How about the Kanto and Chubu regions?",
+      "style": "Impressed, follow-up question delivered with respectful student tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "埼玉県の秩父にも行ったし、愛知県では昔の愛知万博の跡地も見学してきたよ。",
+      "en": "I went to Chichibu in Saitama, and in Aichi I even toured the former site of the Aichi Expo.",
+      "style": "Reflective, casual, sharing memories with mild pride and a soft chuckle."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に日本中を旅されたんですね。一番印象に残った場所はどこですか？",
+      "en": "You've truly traveled all over Japan. Which place left the strongest impression on you?",
+      "style": "Genuinely admiring, gently steering the conversation toward a personal reflection."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "やっぱり大分の温泉かな。湯けむりの中で、人生の重みがすうっと溶けていく気がしたんだ。",
+      "en": "It has to be the hot springs in Oita. Within the steam, I felt the weight of life quietly melting away.",
+      "style": "Thoughtful, poetic elder voice softening at the end with quiet emotion."
+    }
+  ]
+}

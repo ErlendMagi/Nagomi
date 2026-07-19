@@ -1,0 +1,90 @@
+{
+  "id": "conv_04043",
+  "context": "A uni student interviews a retired diplomat about a career",
+  "purpose": "Teach: スイス/スウェーデン/ギリシャ/シンガポール/中東/自国/東北/めぐる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "スイス",
+    "スウェーデン",
+    "ギリシャ",
+    "シンガポール",
+    "中東",
+    "自国",
+    "東北",
+    "めぐる"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間を頂戴して光栄です。先生のご経歴をめぐるお話を伺いたく、なるべく率直にお答えいただけると助かります。",
+      "en": "Thank you for granting me your time today. I'd like to ask about your career, and I'd appreciate frank answers as much as possible.",
+      "style": "Polite formal interview opener, slightly nervous student tone, careful keigo."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、定年退職した老人の話が役に立つなら、何でも答えるよ。最初に赴任したのはスイスの大使館でね、いまだに鮮明に覚えている。",
+      "en": "Not at all, if a retired old man's story is useful, I'll answer anything. My first posting was the embassy in Switzerland, I still remember it vividly.",
+      "style": "Warm elder gentleman, reflective and welcoming, slow paced storytelling."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "スイスの後はどちらへ?同期の方々は欧州や東南アジアへと配属が分割されたと伺いましたが、スウェーデンやギリシャ、シンガポールの話もよく出るとか。",
+      "en": "Where did you go after Switzerland? I heard your peers were split between Europe and Southeast Asia, and that Sweden, Greece, and Singapore often come up in stories too.",
+      "style": "Curious follow-up question, eager researcher tone, leans forward."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、私は珍しく中東勤務が長くてね。現に紛争を伴った交渉も多く、自国の立場を的確に伝えるのが本当に難しかった。",
+      "en": "Ah, I unusually had a long Middle East posting. There were many negotiations involving conflict, and conveying my country's position accurately was truly difficult.",
+      "style": "Serious reflective tone, weight of experience, measured pacing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "外務省の答申や条約の改定にも関わられたんですよね。先輩方の間では、先生は世界一頼れる交渉役だったと評判です。",
+      "en": "You were involved in ministry recommendations and treaty revisions too, right? Among the senior staff, you're known as the most reliable negotiator in the world.",
+      "style": "Slightly admiring, half-joking compliment, lighter mid-interview moment."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ははは、それは買いかぶりだ。ただ規則を定める部署の課長兼通訳官だった頃、起草する文書の責任は重かったね。新組織の発足にも立ち会ったよ。なぜか出力という言葉は使わず、起草と呼ぶのが習慣だった。",
+      "en": "Haha, that's overestimating me. But when I was section chief and interpreter at the rule-drafting office, the documents we drafted carried heavy responsibility. I also witnessed a new organization's founding. For some reason we never said 'output' — drafting was the customary word.",
+      "style": "Self-deprecating chuckle, then thoughtful career reminiscence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "東北のご出身と判明して、何だか親近感が湧きました。引退された今、若い世代に伝えたい本音はありますか?",
+      "en": "I was surprised to learn you're from Tohoku, and somehow it makes me feel a connection. Now that you're retired, is there an honest message you'd like to share with the younger generation?",
+      "style": "Personal warm pivot, friendly closer-to-home question, gentle smile."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだな、外交で大きな成功を収めた人ほど謙虚だよ。カッコつけず、現場の人と心を通わせる努力をしなさい。それが何より大切だ。",
+      "en": "Well, the more success someone achieves in diplomacy, the humbler they are. Don't try to look cool, and make the effort to truly connect with people on the ground. That matters most.",
+      "style": "Heartfelt closing advice, grandfatherly wisdom, sincere and direct."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ちなみに若手の間では、愛の告白の場面ですら先生の落ち着いた話し方を真似する者がいて、目があう瞬間まで参考にしているそうです。",
+      "en": "By the way, among young staff there are people who imitate your calm way of speaking even during love confessions — they say they reference everything down to the moment eyes meet.",
+      "style": "Playful lighthearted aside, warm closing chuckle, affectionate tease."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ははは、それは恥ずかしいね。プレゼントを貰った時のように嬉しいが、若い人は自分の言葉で話しなさい。それが一番だよ。",
+      "en": "Haha, that's embarrassing. I'm as happy as when receiving a gift, but young people should speak in their own words. That's the best way.",
+      "style": "Bashful warm laughter, final fatherly advice, gentle and humble."
+    }
+  ]
+}

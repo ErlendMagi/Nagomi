@@ -1,0 +1,79 @@
+{
+  "id": "conv_02045",
+  "context": "Saito explains a treatment plan to Asuka; medical detail.",
+  "purpose": "Doctor sharing complex case with peer.",
+  "ambient": "clinic_room_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "治療",
+    "科学",
+    "改革",
+    "医療",
+    "機関",
+    "体系",
+    "提供",
+    "改善"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_103)",
+    "generated_at": "2026-05-27T13:02:24.898Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "新しい治療、科学的根拠、確かです。",
+      "en": "The scientific evidence for the new treatment is solid.",
+      "style": "Clear, measured opening. Clinical confidence without coldness. Steady eye contact. Pause before 'solid' — letting the certainty land.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "医療改革、進めばいいですね。",
+      "en": "I hope the medical reforms can move forward.",
+      "style": "Thoughtful, genuine warmth. Soft attack on 'hope.' Slightly lifted at the end — sincere optimism, not forced cheerfulness.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "関連機関、協力体系、整えたい。",
+      "en": "I'd like to strengthen the coordination between the agencies involved.",
+      "style": "Focused and deliberate. Light weight on 'strengthen.' Strategic tone — thinking through the logistics. Professional but not distant.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "提供できる支援、増やせますか?",
+      "en": "Is there any way to expand the support we're able to provide?",
+      "style": "Engaged, leaning slightly forward. Genuine question — not rhetorical. Warm curiosity. Slight lift on 'expand' — testing possibility.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "改善、少しずつ、進んでいます。",
+      "en": "The improvements are happening gradually, but they're happening.",
+      "style": "Quiet steadiness. Warm but grounded. Slight pause before 'happening' — acknowledging the reality of slow progress without dismissing it.",
+      "mood": "steady_hopeful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "貴重な取り組みですね。",
+      "en": "It's really meaningful work.",
+      "style": "Gentle conviction. Soft opening, steady through the middle. Small smile in the voice — sincere recognition without overstating.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ありがとうございます、励みになります。",
+      "en": "Thank you — that means a lot to me.",
+      "style": "Humble, genuine gratitude. Quiet warmth. Very slight catch before 'means' — emotion present but controlled, professional.",
+      "mood": "grateful_touched"
+    }
+  ]
+}

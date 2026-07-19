@@ -1,0 +1,86 @@
+{
+  "id": "conv_08234",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 希薄/発端/制覇/切実/偏差/弁論/捕獲/子宮",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "希薄",
+    "発端",
+    "制覇",
+    "切実",
+    "偏差",
+    "弁論",
+    "捕獲",
+    "子宮"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_413 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、医療資源が希薄な地域を医療チームで支援しております",
+      "en": "Ren, we run a medical support team for regions where resources are scarce.",
+      "style": "Direct, measured explanation. Clear-eyed and factual. Not rushed. A professional explaining something important to an attentive student.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症の発端を、貴院、追跡されたんですね、先生",
+      "en": "So your hospital actually traced back the source of the infection, didn't you, Doctor?",
+      "style": "Genuinely curious, slightly hesitant. Asking respectfully, not challenging. Leaning in just slightly with genuine interest.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、特定病の制覇を目指して医療チームは研究しております",
+      "en": "Yes. Our team researches with the aim of conquering specific diseases.",
+      "style": "Steady, explaining without condescension. A slight pause after the affirmation. Clinical but not cold—this work matters to her.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "切実な医療相談を、貴院、断らないんですね、先生",
+      "en": "I see—so your hospital doesn't turn away urgent medical consultations, then.",
+      "style": "Thoughtful pause at the opening. Speaking more to himself than asking. Registering respect for what he's learning.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、検査値の偏差を医療チームでも丁寧に評価します",
+      "en": "That's correct. Our team evaluates test result variations with real care and precision.",
+      "style": "Factual continuation, but warmer now. She's answering what he's really asking—whether patients matter here, not just data.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、医療弁論大会にも参加されておられますね、先生",
+      "en": "And your hospital participates in medical debate competitions too, I understand.",
+      "style": "Quiet realization dawning mid-sentence. Not a question but an observation. Appreciating something larger taking shape.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、外来動物の捕獲時の応急処置も医療チームで行います",
+      "en": "Yes. Our team also provides emergency treatment during invasive wildlife captures.",
+      "style": "Matter-of-fact response. A slight shift—slightly amused at the scope. Something both practical and unusual.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、子宮検診をいち早く導入されたとのこと、先生",
+      "en": "Your hospital was among the first to introduce cervical screening, weren't you, Doctor?",
+      "style": "Final observation, almost reverent. Voice softening with genuine admiration. Not asking for confirmation—understanding fully.",
+      "mood": "admiring"
+    }
+  ]
+}

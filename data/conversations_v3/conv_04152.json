@@ -1,0 +1,78 @@
+{
+  "id": "conv_04152",
+  "context": "A teen asks her teacher about book recommendations",
+  "purpose": "Teach: 著書/書評/購読/補足/創設/学科/学年/知人",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "著書",
+    "書評",
+    "購読",
+    "補足",
+    "創設",
+    "学科",
+    "学年",
+    "知人"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、夏休みに何か面白い本ありませんか？",
+      "en": "Sensei, do you have any interesting books for summer break?",
+      "style": "Curious teen, polite and approachable tone with rising end."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうね、最近この作家の著書を読んでるんだけど、すごく良いわよ。",
+      "en": "Let me think — I'm reading this author's works lately, and they're really good.",
+      "style": "Warm teacher voice, thoughtful pacing with gentle enthusiasm."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、知らない作家です。書評とか出てますか？",
+      "en": "Oh, I don't know that author. Are there any reviews out there?",
+      "style": "Interested teen, slightly eager and inquisitive."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "新聞で連載されていて、私も定期購読しているの。書評欄でも高評価よ。",
+      "en": "It's serialized in the newspaper — I have a subscription. The review column rates it highly too.",
+      "style": "Informative teacher, calm and confident delivery."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そういえば、この作家って何の学科を出た方なんですか？",
+      "en": "By the way, what department did this author graduate from?",
+      "style": "Curious follow-up, slightly tentative teen tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "文学部の出身で、ある文芸サークルの創設にも関わった人なのよ。補足すると、私の古い知人でもあるの。",
+      "en": "She's from the literature faculty and helped found a literary circle. To add, she's also an old acquaintance of mine.",
+      "style": "Teacher sharing a personal detail, warmer and more intimate tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ええっ、すごい！先生のお知り合いなんですね。",
+      "en": "Wow, amazing! She's a friend of yours, then.",
+      "style": "Surprised teen, bright and impressed reaction."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "あなたの学年ならちょうど読みやすいと思うから、明日一冊持ってきてあげるわね。",
+      "en": "I think it's just right for your grade level, so I'll bring you a copy tomorrow.",
+      "style": "Kind teacher, gentle and encouraging closing tone."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06071",
+  "context": "A doctor briefs about geriatric safety",
+  "purpose": "Teach: 転倒/手当て/灰色/大小/スカイ/ナビ/相手方/袖",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "転倒",
+    "手当て",
+    "灰色",
+    "大小",
+    "スカイ",
+    "ナビ",
+    "相手方",
+    "袖"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_305 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、高齢者の転倒、近年増加傾向です。",
+      "en": "Ren, elderly falls have been increasing noticeably in recent years.",
+      "style": "Measured, matter-of-fact opening. Clinical but not cold. Delivers the fact with steady eye contact, as if presenting something important but routine. No dramatization.",
+      "mood": "clinical_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "軽い手当てで済む例もあれば、深刻なものも。",
+      "en": "Some of them turn out to be minor — just first aid — but others can be very serious.",
+      "style": "Thoughtful, genuine curiosity underneath. Hesitates slightly before 'serious' as if weighing the weight of it. Leans forward slightly, engaging with the complexity rather than the simplicity.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。骨折、灰色の長期予後があります。",
+      "en": "Yes. Fractures especially — their long-term outcomes can be unpredictable.",
+      "style": "Calm, measured confirmation. Quiet weight on 'unpredictable.' Not rushed. The tone of someone who has seen enough to know there are no easy answers. Steady breathing.",
+      "mood": "steady_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大小の事故、現場で見られるんですね。",
+      "en": "So you see accidents of all kinds out there in the field.",
+      "style": "Genuine interest — not testing, but truly wanting to understand. Slight lean-in with the question. Respectful of the experience being described. Soft, engaged tone.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。救急ヘリのスカイ運航、活用しています。",
+      "en": "Yes. We make use of emergency helicopters when the situation calls for it.",
+      "style": "Factual delivery, but with quiet pride in the capability. Not boastful — just clear about the resources and when they're deployed. Steady, professional.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救急車のナビ、慎重ですか。",
+      "en": "So navigation and routing — that requires real precision?",
+      "style": "Probing gently, not interrogating. Recognition that this is important detail work. Slight upward inflection on the question, inviting her to expand. Respectful attention.",
+      "mood": "curious_probing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。事故の相手方、家族にも丁寧に対応します。",
+      "en": "Yes. We treat families of the other party with the same care and consideration.",
+      "style": "Steady, affirming. Quiet emphasis on 'same care' — not a casual statement but a principle. No defensiveness, just clarity. Breath through the full sentence.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "袖を引っ張る程度の小さなクレームでも、誠実に。",
+      "en": "Even the smallest complaint — someone just pulling at your sleeve — we take seriously and respond with sincerity.",
+      "style": "Reflective, quieter now. The metaphor of 'pulling at your sleeve' lands gently. Genuine belief in the principle, not performance. Trailing breath at the end, a natural close to the exchange.",
+      "mood": "sincere_resolute"
+    }
+  ]
+}

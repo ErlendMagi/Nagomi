@@ -1,0 +1,84 @@
+{
+  "id": "conv_04000",
+  "context": "A teacher gives a uni student frank feedback on a draft essay",
+  "purpose": "Teach: 英会話/学力/用紙/習得/用いる/仮定/抽象/率直",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "英会話",
+    "学力",
+    "用紙",
+    "習得",
+    "用いる",
+    "仮定",
+    "抽象",
+    "率直"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "レン君、エッセイ読んだけど、率直に言うね。",
+      "en": "Ren, I read your essay, and I'll be frank with you.",
+      "style": "Direct teacher tone, kind but unflinching opener"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、お願いします。率直なご意見が一番ありがたいので。",
+      "en": "Yes, please. Frank feedback is what helps me most.",
+      "style": "Earnest student, slightly tense but receptive to criticism"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "まず、用紙の使い方が雑。引用元も書いてないところがある。",
+      "en": "First, your paper layout is sloppy. Some citations are just missing.",
+      "style": "Crisp listing of concrete problems without softening the blow"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、提出直前で焦って……。",
+      "en": "I'm sorry, I rushed right before the deadline.",
+      "style": "Apologetic, trailing off in embarrassment, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それと議論が抽象的すぎる。「グローバル化が学力に影響する」だけじゃ何も言ってないのと同じ。",
+      "en": "Also, the argument is too abstract. Saying globalization affects academic ability says nothing.",
+      "style": "Sharp critique pinpointing the central weakness in the essay"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに……仮定の話ばかりで、データを用いるのを忘れてました。",
+      "en": "True, I leaned on hypotheticals and forgot to use actual data.",
+      "style": "Realization dawning, voice deflating with quiet regret"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "英会話の習得を例に出すなら、具体的な調査結果を引用しないと説得力ゼロだよ。",
+      "en": "If you cite English conversation acquisition, you need real studies, or zero persuasiveness.",
+      "style": "Concrete advice paired with blunt assessment of weakness"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。来週までに書き直して、もう一度見ていただけますか?",
+      "en": "Understood. I'll rewrite it by next week — could you review again?",
+      "style": "Humbled but determined, asking for another chance"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん。厳しく言ったけど、君の論点自体は悪くないからね。",
+      "en": "Of course. I was harsh, but your underlying thesis isn't bad.",
+      "style": "Closing on encouragement, tempering the criticism warmly"
+    }
+  ]
+}

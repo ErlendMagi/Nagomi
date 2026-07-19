@@ -1,0 +1,84 @@
+{
+  "id": "conv_05113",
+  "context": "A police officer briefs a uni reporter about a road-safety case",
+  "purpose": "Teach: 内科/洪水/断片/正統/腐敗/駐在/車線/開花",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "内科",
+    "洪水",
+    "断片",
+    "正統",
+    "腐敗",
+    "駐在",
+    "車線",
+    "開花"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_257 workflow w2qhb13ru)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日は駐在所までご足労いただき、感謝します。先月の三号線での事故案件について簡潔にご説明します。",
+      "en": "Thank you for coming all the way to the police box today. I'll briefly explain last month's accident case on Route 3.",
+      "style": "Formal, measured police briefing tone with polite professional distance."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。大学新聞の特集で、地域の交通安全を扱っているんです。",
+      "en": "Thank you, I appreciate it. Our university paper is doing a feature on community road safety.",
+      "style": "Eager but polite student journalist, slightly nervous in tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "事故は深夜、右の車線を走っていた乗用車が中央線をはみ出した件です。運転手は軽傷で、近隣の内科に搬送されました。",
+      "en": "The incident involved a passenger car in the right lane drifting over the center line late at night. The driver had minor injuries and was taken to the local internal medicine clinic.",
+      "style": "Factual law-enforcement delivery, clipped and procedural in cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あの夜は洪水警報も出ていましたよね。視界の問題も関係していたんでしょうか。",
+      "en": "There was a flood warning that night too, right? Was visibility a factor as well?",
+      "style": "Curious follow-up question, leaning forward with notebook ready."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、ドライブレコーダーには断片的な映像しか残っていませんが、雨脚は相当強かったと判断しています。",
+      "en": "Yes, only fragmentary footage remains on the dashcam, but we've determined the rain was quite heavy.",
+      "style": "Careful, evidence-based phrasing typical of an official statement."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。最近、整備不良の車両を見逃す業者の腐敗が報じられていましたが、今回はそういう背景は?",
+      "en": "I see. There've been reports recently about corruption among inspectors overlooking poorly maintained vehicles—any connection here?",
+      "style": "Probing journalistic question, respectful but pointedly investigative."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "車両自体は正統な車検を通っており、整備記録にも問題はありませんでした。原因は天候とスピードと見ています。",
+      "en": "The vehicle itself had passed a legitimate inspection, and the maintenance records were clean. We see weather and speed as the causes.",
+      "style": "Defensively precise, closing off speculation with documented facts."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。最後に、桜の開花シーズンに向けて、ドライバーに伝えたいことはありますか?",
+      "en": "Understood. Lastly, with the cherry blossom season coming, is there anything you'd like to tell drivers?",
+      "style": "Warm closing question, shifting gear from investigative to community-friendly."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "夜間は特に車線をしっかり守り、無理な追い越しは避けてください。命を守るのは慎重さです。",
+      "en": "At night especially, stay firmly in your lane and avoid forced overtaking. Caution is what saves lives.",
+      "style": "Calm public-service appeal, sincere and slightly paternal."
+    }
+  ]
+}

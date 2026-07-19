@@ -1,0 +1,78 @@
+{
+  "id": "conv_05031",
+  "context": "A teacher walks a uni student through a physics paper",
+  "purpose": "Teach: 方程式/レーザー/電流/波動/同氏/最良/死去/国歌",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "方程式",
+    "レーザー",
+    "電流",
+    "波動",
+    "同氏",
+    "最良",
+    "死去",
+    "国歌"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "この論文は同氏が死去する直前に書いた最後の研究なんですよ。",
+      "en": "This paper is the last research he wrote just before his death.",
+      "style": "Calm, reverent tone introducing the late author."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "えっ、亡くなられたんですか…知りませんでした。",
+      "en": "What, he passed away? I had no idea.",
+      "style": "Surprised, slightly hushed and respectful student reaction."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。では本題に入りましょう。ここの方程式、何を表しているか分かりますか?",
+      "en": "Yes. Now let's get to the main topic. Can you tell what this equation represents?",
+      "style": "Gentle pivot back to academic instruction mode."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ええと…粒子の波動関数の時間変化、ですよね?",
+      "en": "Um, the time evolution of the particle's wave function, right?",
+      "style": "Hesitant but engaged guess from an attentive student."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "その通り。そして次のページで、彼はレーザーを使った実験で電流の変化を測定しています。",
+      "en": "Exactly. And on the next page, he measures changes in electric current using a laser experiment.",
+      "style": "Encouraging confirmation followed by clear explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、理論と実験を両方やってるんですね。すごい労力ですね。",
+      "en": "I see, so he's doing both theory and experiment. That's tremendous effort.",
+      "style": "Genuinely impressed and analytical observation aloud."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。当時としては最良のアプローチだったんですよ。ちなみに、学会の懇親会では今でも彼の好きだった国歌が流れるそうです。",
+      "en": "Yes. At the time, it was the best possible approach. By the way, I hear his favorite national anthem still plays at the academic society's receptions.",
+      "style": "Warm wrap-up with a fond personal anecdote about the late scholar."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そんなに慕われていた方だったんですね。ちゃんと読み込んでみます。",
+      "en": "He was that beloved a person, then. I'll read it through properly.",
+      "style": "Resolute, motivated closing remark from the student."
+    }
+  ]
+}

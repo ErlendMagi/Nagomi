@@ -1,0 +1,86 @@
+{
+  "id": "conv_08606",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 加筆/手直し/終点/公示/客室/税別/免税/効能",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "加筆",
+    "手直し",
+    "終点",
+    "公示",
+    "客室",
+    "税別",
+    "免税",
+    "効能"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_432 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、企画書に加筆を入れて再提出しろ",
+      "en": "Add to the proposal and resubmit it.",
+      "style": "Direct command, clipped tempo. No softening. Eyes forward. Expectation of compliance is assumed, not negotiated.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サンプル品の手直しを工場に依頼しました",
+      "en": "Understood. I've already requested the factory to refine the samples.",
+      "style": "Steady, competent confirmation. Slight lift on 'already' — showing he's ahead of the curve. Respectful but not obsequious.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社の新事業、終点を見据えて計画しろ",
+      "en": "Plan the new business with the end goal in mind from the start.",
+      "style": "Measured instruction. Deliberate pacing on 'end goal' — he's laying out the framework. Strategic rather than urgent.",
+      "mood": "directing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品の発売を公示する手続きを進めます",
+      "en": "Understood. I'll move forward with the public notice procedures for the new product launch.",
+      "style": "Assured, efficient report. Smooth handoff tone — demonstrating he understands the path and has momentum.",
+      "mood": "on_track"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お客様用客室の整備を急げ",
+      "en": "Accelerate the preparation of the customer guest rooms.",
+      "style": "Sharp, compressed. Stress on 'accelerate' — this has priority. No hedging. Expectant silence after.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。価格は税別表記でカタログに記載します",
+      "en": "Understood. I'll make sure the prices are listed in the catalog as tax-excluded.",
+      "style": "Calm execution. Matter-of-fact detail work. Shows he's already thinking through the implications and logistics.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外向け店舗で免税対応を整えろ",
+      "en": "Set up tax-free procedures for the overseas stores.",
+      "style": "Crisper tempo. International scope widens the frame. Still command-mode but slightly more expansive than domestic directives.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品の効能を実証データで示します",
+      "en": "Understood. I'll demonstrate the new product's effectiveness with performance data.",
+      "style": "Closing affirmation. Quiet confidence on 'performance data' — he's bringing proof, not just promise. Small nod of finality.",
+      "mood": "resolved"
+    }
+  ]
+}

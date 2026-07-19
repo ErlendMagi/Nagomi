@@ -1,0 +1,78 @@
+{
+  "id": "conv_04126",
+  "context": "A doctor consults with a teen patient about persistent symptoms",
+  "purpose": "Teach: 肉体/体質/視覚/恐ろしい/強烈/蓄積/高等/必然",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肉体",
+    "体質",
+    "視覚",
+    "恐ろしい",
+    "強烈",
+    "蓄積",
+    "高等",
+    "必然"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらさん、お話を伺いましょう。最近、どんな症状が続いていますか?肉体的な疲れだけではないようですね。",
+      "en": "Sakura, let's talk. What symptoms have been persisting recently? It doesn't seem to be just physical fatigue.",
+      "style": "Calm professional doctor opening consultation with warm reassuring tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、頭痛が強烈で、勉強中に視覚がぼやけることもあるんです。怖くて…",
+      "en": "Um, the headaches are intense, and sometimes my vision blurs while studying. It's scary...",
+      "style": "Nervous teenage girl hesitantly explaining frightening symptoms to authority figure"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。視覚の異常は見逃せません。受験生はストレスの蓄積が必然的に体に出てきますからね。",
+      "en": "I see. Visual abnormalities aren't something we can overlook. For exam students, stress inevitably accumulates in the body.",
+      "style": "Thoughtful medical assessment with empathetic acknowledgment of student pressures"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "高等部に上がってから、夜中まで勉強していて…私、体質が弱いんでしょうか?",
+      "en": "Since I moved up to high school, I've been studying until late at night... Do I have a weak constitution?",
+      "style": "Anxious teen seeking validation while revealing self-doubt about her body"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体質のせいではないですよ。むしろ、睡眠不足が恐ろしい結果を招くこともあるんです。",
+      "en": "It's not your constitution. Rather, lack of sleep can sometimes lead to terrifying consequences.",
+      "style": "Gentle but firm warning emphasizing seriousness without alarming the patient"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そんなに…?でも、休む時間がなくて。",
+      "en": "That serious...? But I don't have time to rest.",
+      "style": "Surprised teen expressing genuine concern mixed with reluctance to slow down"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まず一週間、肉体を休ませてください。それから血液検査をして、原因を一緒に探しましょう。",
+      "en": "First, please rest your body for a week. Then we'll do blood tests and find the cause together.",
+      "style": "Clear treatment plan delivered with collaborative supportive bedside manner"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。先生、ありがとうございます。少し安心しました。",
+      "en": "Understood. Thank you, doctor. I feel a little relieved now.",
+      "style": "Quiet teenage gratitude with audible relief and renewed trust in care"
+    }
+  ]
+}

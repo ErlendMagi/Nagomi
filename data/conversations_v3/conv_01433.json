@@ -1,0 +1,62 @@
+{
+  "id": "conv_01433",
+  "context": "Yumiko sends Sho to bed early.",
+  "purpose": "mother-child sleep-time exchange",
+  "ambient": "bedroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "寝る",
+    "一緒",
+    "優しい",
+    "楽しい",
+    "本当"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_072)",
+    "generated_at": "2026-05-27T05:49:20.749Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "しょうくん、本当、もう、寝る、時間。",
+      "en": "Sho-kun, it's really time for bed now.",
+      "style": "Soft, warm opening. A mother's gentle insistence — not commanding, but certain. Quiet love underneath. The faintest smile in her voice as she says his name.",
+      "mood": "tender_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、本当、お疲れ様、本当に。",
+      "en": "Yeah… good work today, really.",
+      "style": "Small, genuine voice. A six-year-old echoing his mother's kindness back to her without understanding the weight of it. Quiet agreement, warm and true.",
+      "mood": "sincere_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しい、夢、本当、見てね。",
+      "en": "Have sweet dreams, okay?",
+      "style": "Warm wish, not command. Gentle curve upward on 「見てね」, like tucking something in. The voice of someone who means what she says about the goodness she hopes for.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、本当、おやすみ。",
+      "en": "Fun ones… good night.",
+      "style": "Drowsy, soft agreement. A small voice already halfway to sleep. The warmth is real but fading gently into rest. Barely audible, genuine contentment.",
+      "mood": "sleepy_content"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おやすみ、本当に、ね。",
+      "en": "Good night, really.",
+      "style": "Final, loving. A mother's last word before silence. Spoken into the darkness after he's closed his eyes. The tenderness of someone letting go of the day.",
+      "mood": "loving_quiet"
+    }
+  ]
+}

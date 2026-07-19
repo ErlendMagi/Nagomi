@@ -1,0 +1,78 @@
+{
+  "id": "conv_03566",
+  "context": "A manager and assistant discuss a small-and-medium-enterprise restructuring",
+  "purpose": "Teach: 中小/従業/掛け/ポスト/サラリーマン/適正/大半/にわたって",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "中小",
+    "従業",
+    "掛け",
+    "ポスト",
+    "サラリーマン",
+    "適正",
+    "大半",
+    "にわたって"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_179 workflow wf3gz1m2k)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今回の中小企業の再編案、ちょっと相談したいんだ。",
+      "en": "About this SME restructuring proposal, I'd like to discuss it a bit.",
+      "style": "Manager opening, measured and consultative tone with subordinate."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、従業員の配置転換についてですよね?",
+      "en": "Yes, it's about the reassignment of employees, right?",
+      "style": "Polite assistant ですます register, confirming context attentively."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。数ヶ月にわたって検討してきたが、大半の部署を統合する方向で進めたい。",
+      "en": "Right. We've been reviewing it for several months, and want to merge most departments.",
+      "style": "Decisive manager summarizing long deliberation with firm direction."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ポストの数が減ると、社内でかなり動揺が広がりそうですが…",
+      "en": "If the number of positions decreases, considerable unrest will likely spread internally...",
+      "style": "Cautious assistant raising concern politely, trailing off respectfully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかってる。だからこそ、適正な評価基準を先に作っておく必要があるんだ。",
+      "en": "I know. That's exactly why we need to establish fair evaluation criteria first.",
+      "style": "Manager acknowledging concern, pivoting to pragmatic next step."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "普通のサラリーマンにとっては、評価のやり方ひとつに人生が懸かっていますからね。",
+      "en": "For an ordinary salaryman, their whole life hinges on a single evaluation method.",
+      "style": "Thoughtful assistant offering empathetic perspective on employee stakes."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その通りだ。掛け声だけにならないよう、来週役員会に最終案を出す。資料を頼む。",
+      "en": "Exactly. To make sure it doesn't end up as just empty slogans, I'll submit the final proposal to the board next week. Please prepare the materials.",
+      "style": "Manager closing with clear delegation and forward-looking deadline."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。今夜中にまとめて、明朝お持ちします。",
+      "en": "Understood. I'll compile it tonight and bring it to you tomorrow morning.",
+      "style": "Polite assistant accepting task with crisp professional commitment."
+    }
+  ]
+}

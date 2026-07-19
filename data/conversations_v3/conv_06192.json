@@ -1,0 +1,86 @@
+{
+  "id": "conv_06192",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 野鳥/密室/完走/称さ/代々/比し/戦中/脅かさ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "野鳥",
+    "密室",
+    "完走",
+    "称さ",
+    "代々",
+    "比し",
+    "戦中",
+    "脅かさ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_311 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、目撃情報の少ない、野鳥観察小屋付近です。",
+      "en": "This incident occurred near the bird-watching hut. Witness accounts are sparse in that area.",
+      "style": "Professional, measured opening. Factual delivery with slight pause between clauses. Steady, official tone without harshness. The voice of someone briefing a colleague.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "密室内での発生、捜査、難しいですね。",
+      "en": "A closed-space incident like this — the investigation is going to be difficult, isn't it?",
+      "style": "Thoughtful, slightly tentative. Lean in slightly on the question. Genuine curiosity masking respect for the complexity. Soft rise at the end, inviting confirmation.",
+      "mood": "analytical_uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査、完走目指して、丁寧に進めます。",
+      "en": "Yes. We'll move forward carefully, with the goal of seeing this through completely.",
+      "style": "Measured, deliberate. Each phrase gets its own weight. Professional commitment without dramatics. Quiet conviction underneath the procedural language.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地元では、名警察と称される警官、いらっしゃいますね。",
+      "en": "Locally, there are officers who've earned quite a reputation, haven't there?",
+      "style": "Careful probe, almost delicate. Not quite flattery, but respect showing through. Slight pause before the question particle. Testing the ground gently.",
+      "mood": "respectful_probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。代々、地域に根ざした活動、続けています。",
+      "en": "Yes. We've maintained ties to the community across generations. That work continues.",
+      "style": "Quiet pride without self-consciousness. Speaking for something larger than himself. Steady rhythm. The voice of institutional continuity spoken by one person.",
+      "mood": "grounded_committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "過去事例に比し、初動の迅速さ、改善されてますね。",
+      "en": "Compared to past cases, the speed of your initial response has improved noticeably.",
+      "style": "Observant, not quite complimentary but noting a real shift. Measured pace. Slight curiosity about what changed. The tone of someone who pays attention to details over time.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "戦中の混乱期からの教訓も、活かしています。",
+      "en": "We learned lessons even from the confusion of wartime. We apply those too.",
+      "style": "Reflective, looking further back than the immediate case. Quiet weight on 「戦中」. Not seeking sympathy, but anchoring the present in a longer continuity. Steady, almost contemplative.",
+      "mood": "reflective_grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "住民の安全、脅かされない地域を、引き続き目指しますね。",
+      "en": "The safety of residents — we'll keep working toward a community where that's never compromised.",
+      "style": "Closing with quiet resolve. Soft on the opening. Builds slightly toward the closing commitment. No rush. The voice of someone stating what matters and will continue to matter.",
+      "mood": "steadfast_caring"
+    }
+  ]
+}

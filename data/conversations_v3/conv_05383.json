@@ -1,0 +1,72 @@
+{
+  "id": "conv_05383",
+  "context": "A mom calms her young son after a small accident",
+  "purpose": "Teach: ヘン/タダ/すき/乙/間もなく/待て/こなす/ぶつけ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘン",
+    "タダ",
+    "すき",
+    "乙",
+    "間もなく",
+    "待て",
+    "こなす",
+    "ぶつけ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、テーブルの角に膝ぶつけて、ヘンな音した。",
+      "en": "Mom, I bumped my knee on the table corner and it made a weird sound.",
+      "style": "Small, shaky voice on the first word. Sniffling undertone. Quick delivery mixed with winces. Seeking her attention more than complaining about pain.",
+      "mood": "hurt_seeking_comfort"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あらら、見せて。間もなく腫れちゃうかも。",
+      "en": "Oh dear, let me have a look. It might swell up.",
+      "style": "Immediate, warm shift toward him. Practical concern wrapped in gentleness. No fussing, just focused attention. The voice of someone checking for real.",
+      "mood": "caring_alert"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "痛い…でも宿題こなすのに、椅子に座って待てなくて。",
+      "en": "It hurts… but I couldn't sit still for homework and had to keep moving.",
+      "style": "Quiet, hesitant justification. Sniffling between phrases. Ashamed undertone—worried he's made a mistake. Trailing-off like he's waiting to be told it's his fault.",
+      "mood": "apologetic_hurting"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今夜はタダで甘えていいよ。",
+      "en": "Tonight you can indulge a little without asking. That's my permission.",
+      "style": "Warm, knowing tone. Slight smile in the voice. Not babying him, but giving him permission to need her. Gentle permission granted without performance.",
+      "mood": "tender_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お菓子はすきな物くれる?",
+      "en": "Will you give me my favorite snack?",
+      "style": "Small voice, tentative hope lifting at the end. Still hurting, but now testing what 'spoiled' might include. Genuine question, not manipulation.",
+      "mood": "hopeful_hesitant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、乙な味のクッキー、特別に。",
+      "en": "Yes, those fancy cookies you love. Tonight is special.",
+      "style": "Close, intimate warmth. Knowing exactly which cookie means comfort to him. Slow, deliberate words. The voice of a mother turning injury into small kindness.",
+      "mood": "loving_close"
+    }
+  ]
+}

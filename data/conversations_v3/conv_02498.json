@@ -1,0 +1,75 @@
+{
+  "id": "conv_02498",
+  "context": "Daichi chats with a delivery driver about the route.",
+  "purpose": "WIDENED SCENARIO: logistics chat; transport vocabulary (トラック/バック/彼ら/無い) in natural home.",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "トラック",
+    "バック",
+    "彼ら",
+    "無い",
+    "側"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_125)",
+    "generated_at": "2026-05-29T12:55:54.386Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お、そのトラック、よう停めたなあ。",
+      "en": "Oh, you parked that truck well.",
+      "style": "lively Kansai man voice, warm hearty friendly delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、後ろにバックするのが大変で。",
+      "en": "Yeah, backing it up is tough.",
+      "style": "modest office man voice, soft warm relatable delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "右側に、もう少し寄せたらええよ。",
+      "en": "You can pull a bit more to the right.",
+      "style": "lively Kansai man voice, warm helpful friendly delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとう。今日は荷物が多くて。",
+      "en": "Thanks. There's a lot of cargo today.",
+      "style": "grateful office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "他の運転手は、もう来てへんの?",
+      "en": "Haven't the other drivers come yet?",
+      "style": "curious Kansai man voice, warm friendly delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "彼らは、別の側から回るそうです。",
+      "en": "They're going around from the other side.",
+      "style": "informative office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ほな、停める場所も、もう無いなあ。",
+      "en": "Then there's no parking spot left, huh.",
+      "style": "lively Kansai man voice, warm wry friendly delivery throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "彼らが来る前に、バックで入れます。",
+      "en": "I'll back in before they arrive.",
+      "style": "resolved office man voice, soft warm closing delivery throughout"
+    }
+  ]
+}

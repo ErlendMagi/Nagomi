@@ -1,0 +1,76 @@
+{
+  "id": "conv_00407",
+  "context": "A regular checkup. Saito noticing Sachiko bearing up under widowhood.",
+  "purpose": "longstanding doctor-patient quiet care — checking in on emotional/physical",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "体調",
+    "生活",
+    "一人",
+    "心配",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_021)",
+    "generated_at": "2026-05-26T23:26:39.750Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、最近の体調、いかがですか。",
+      "en": "Tanaka-san, how have you been feeling lately?",
+      "style": "Warm, attentive opening. Soft eye contact. A pause before the question—unhurried, giving space for her to settle. Genuine care without performance. Voice carries the weight of knowing her well.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがたいことに、なんとか。",
+      "en": "Thankfully, getting by somehow.",
+      "style": "Quiet, humble. A small smile in the voice. The word 「ありがたいことに」carries genuine gratitude without weight. Trailing off slightly—not expecting pity, just stating fact with grace.",
+      "mood": "grateful_modest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一人暮らし、無理されてませんか。",
+      "en": "You're not overdoing it living on your own?",
+      "style": "Gentle check-in. Steady, professional but not clinical. The question comes from real concern—not protocol. Slight lean-in quality, inviting honesty. Soft tempo.",
+      "mood": "concerned_caring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "なおこが、毎週来てくれて。本当にありがたい。",
+      "en": "Naoko comes every week. I'm truly grateful for that.",
+      "style": "Warmth deepens. Voice relaxes. The mention of her niece brings genuine relief—she's allowing herself to admit she's not alone. Soft, sincere. A beat of contentment in the delivery.",
+      "mood": "comforted_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "良かった。心配なことがあれば、いつでも仰ってください。",
+      "en": "That's good to hear. Please let me know if anything worries you—anytime at all.",
+      "style": "Open, reassuring. A gentle emphasis on 「いつでも」—the door stays open. Professional warmth with no distance. Steady, authoritative in the kindness. She means it.",
+      "mood": "supportive_reassuring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "先生にこうやって診てもらえて、本当に安心して。",
+      "en": "Having you check on me like this—it really does put my mind at ease.",
+      "style": "Voice softens with genuine relief. A note of trust underneath. She's allowing vulnerability. Not effusive, but sincere. The trailing quality suggests she's been holding this appreciation for a while.",
+      "mood": "reassured_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。お薬、ちゃんと続けてくださいね。",
+      "en": "The feeling's mutual. And please—keep taking your medicine regularly, won't you?",
+      "style": "Shift to gentle firmness. Still warm, but there's quiet authority here. The request comes with affection, not command. A slight rise on 「ちゃんと」—caring insistence. Closing note of professional dedication.",
+      "mood": "kind_firm"
+    }
+  ]
+}

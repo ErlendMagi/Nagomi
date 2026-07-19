@@ -1,0 +1,86 @@
+{
+  "id": "conv_07013",
+  "context": "A doctor discusses medical research",
+  "purpose": "Teach: 従軍/感受性/故人/発砲/怠っ/氾濫/乱用/断絶",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "従軍",
+    "感受性",
+    "故人",
+    "発砲",
+    "怠っ",
+    "氾濫",
+    "乱用",
+    "断絶"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_352 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、戦中、従軍した医師たち、本当に、命がけで、医療、行っていたんですよ、医療の歴史、深いですね、本気で、勉強、続けないと、いけませんね、現代の、医師として、本当に。",
+      "en": "Ren, those wartime military doctors — they risked their lives to provide care. Medical history is so profound. I need to keep studying it seriously, as a doctor today.",
+      "style": "Steady, measured tone. Slight reverence on the mention of wartime doctors. Deliberate pacing, like she's choosing each word carefully. A hint of personal weight — this matters to her professionally and morally.",
+      "mood": "respectful_thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者さんの感受性、本当に、医療において、重要な要素ですよね、先生、心と体、両方を、ケアする、現代医療の、姿勢、本当に、立派ですね、感心しております、本気で、絶対、本当に。",
+      "en": "Patient sensitivity is really such a crucial element in medicine, isn't it, sensei? The way modern medicine approaches caring for both mind and body — it's truly admirable. I'm genuinely moved by it.",
+      "style": "Earnest, leaning forward slightly in his tone. Warm admiration underneath the formality. Not performative — he's genuinely searching for the right words. A small hesitation before 'admirable,' like he's making sure he means it.",
+      "mood": "sincere_admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。故人となった患者さんのご家族、本当に、ご縁を、大切に、しております、本気で、心からの、感謝の気持ち、伝え続けてまいります、絶対、本当に、医師として、変わらない、姿勢、本気で。",
+      "en": "Yes. The families of patients we've lost — I hold those connections sacred. I'm committed to continuing to convey my gratitude to them, genuinely and consistently. That stance as a doctor is something that won't change.",
+      "style": "Calm, grounded delivery. Speaks from a place of quiet conviction. Her voice carries the weight of experience without strain. Each phrase lands with intention, like a doctor who has sat with many families.",
+      "mood": "composed_committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病院で、発砲事件、起きた歴史、海外にも、ありましたよね、先生、本当に、医療現場の、安全、本当に、課題、感じますよね、本気で、対策、必要だと、思います、本当に、絶対。",
+      "en": "Hospital shootings have happened overseas too, haven't they, sensei? The safety of the medical environment is such a real concern. I think countermeasures are genuinely necessary.",
+      "style": "Shifts to a more serious tone, losing the earlier softness. Engaged, alert. He's bringing up something that troubles him. Slight urgency underneath his politeness — not alarmed, but clearly invested in the problem.",
+      "mood": "concerned_serious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。健康管理を、怠っていた患者さん、再診の頻度、多くなりますね、本気で、予防医療、本気で、勧めていきたいですね、患者さんの未来のため、絶対、本当に、医師の使命です、本気。",
+      "en": "Yes. Patients who've neglected their health management tend to need more frequent follow-up visits. I want to actively encourage preventive medicine — for the sake of my patients' futures. It's a doctor's calling.",
+      "style": "Instructive but not clinical. She settles into a rhythm here, like she's drawing on years of practice and conviction. Warm but authoritative. The words 'for my patients' futures' carry personal resolve.",
+      "mood": "dedicated_purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療情報の氾濫、患者さん、本当に、混乱、しているんですよね、先生、本気で、正しい情報、医師から、発信していく必要、感じますよね、本気で、社会の、課題ですよね、本当に、絶対、深刻。",
+      "en": "The flood of medical information out there is genuinely confusing patients, isn't it, sensei? I think doctors really need to be the ones putting out accurate information. It's a social issue we can't ignore.",
+      "style": "Thoughtful, slightly troubled. He's building on her point with his own observation. Speaking with a mix of concern and hope — like he believes doctors can make a difference here. Moderate pace, deliberate.",
+      "mood": "concerned_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。薬物乱用、本当に、社会的に、深刻な問題、なっておりますね、医療として、本気で、対策、進めてまいります、絶対、患者さんの、未来のため、本気で、頑張ってまいります、本当に、本気。",
+      "en": "Yes. Drug abuse has become such a serious social issue. We're committed to tackling it as a medical priority. I'm going to keep working hard on this, for my patients' futures.",
+      "style": "Resolute, grounded tone. She's moved past passive observation into active commitment. Steady delivery with an undertone of determination. This is someone who has turned concern into action.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療と家族の、断絶、本当に、悲しい、現象ですよね、現代社会、本気で、課題、感じます、先生、医療として、本気で、家族と、繋がっていく姿勢、本当に、立派ですね、絶対、頭が下がる、絶対。",
+      "en": "The breakdown between medical care and family — it's such a sad phenomenon in modern society. But the way you maintain those connections as a doctor, the way you bridge that gap — it's truly admirable. I have deep respect for it.",
+      "style": "Genuine awe beneath the formal language. He leans into this moment. His voice softens on 'sad phenomenon,' then strengthens on 'admirable.' Not flattery — recognition of something he values. Trailing off slightly on the final phrase, like the respect is almost humbling.",
+      "mood": "moved_reverent"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "conv_01852",
+  "context": "Yumiko helps Hina-young memorize kanji for a test.",
+  "purpose": "Grandmother teaching teen with patience.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "漢字",
+    "覚える",
+    "練習",
+    "試験"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_093)",
+    "generated_at": "2026-05-27T08:15:56.289Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おばあちゃん、漢字、覚えられない!",
+      "en": "Grandma, I can't remember the kanji!",
+      "style": "Bright, plaintive energy from the start. Quick tempo, voice rising slightly with urgency. Genuine frustration but not angry — seeking help more than complaining. Open, unselfconscious.",
+      "mood": "frustrated_appealing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "繰り返し、書いてみて。",
+      "en": "Try writing it over and over.",
+      "style": "Calm, steady voice. Soft focus without condescension. The tone of someone who's said this kind of thing before and means it. Settling Hina down without needing to say much.",
+      "mood": "patient_practical"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "試験、来週なの。",
+      "en": "The test is next week.",
+      "style": "Pitch lifts slightly on the worry. Tempo accelerates a bit — the timeline is crowding in. Still trying to sound braver than she feels. A small, honest exhale underneath.",
+      "mood": "anxious_urgent"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "焦らず、少しずつね。",
+      "en": "Take your time — bit by bit.",
+      "style": "Warm, grounded delivery. Slight emphasis on 「焦らず」 — not rushing is the point. Slow, deliberate pace. The reassurance of someone who believes this actually works. Quiet conviction.",
+      "mood": "encouraging_calm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、頑張る!",
+      "en": "Yeah, I'll do my best!",
+      "style": "Shift to resolution — brighter now, steadier. The decision lands. Quick, light energy. Genuine commitment, no false cheerfulness. Relief at having a path forward.",
+      "mood": "determined_relieved"
+    }
+  ]
+}

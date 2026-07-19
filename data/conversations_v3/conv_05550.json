@@ -1,0 +1,79 @@
+{
+  "id": "conv_05550",
+  "context": "A police officer briefs a uni reporter about a fraud case",
+  "purpose": "Teach: キャンセル/器具/儲かる/スクリプト/ゲート/実例/使い勝手/成り立た",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "キャンセル",
+    "器具",
+    "儲かる",
+    "スクリプト",
+    "ゲート",
+    "実例",
+    "使い勝手",
+    "成り立た"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "実例として、最近の詐欺事件、お知らせします。",
+      "en": "Let me share some recent fraud cases as concrete examples.",
+      "style": "Steady, measured opening. Professional register — conversational but authoritative. Even pace. Slight pause before the explanation, as if ensuring he has Ren's full attention.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の方、急にキャンセルされた契約が問題でしたか。",
+      "en": "The victims had problems with contracts being suddenly canceled, then?",
+      "style": "Genuine curiosity, not challenge. Leaning forward slightly in posture. Thoughtful pause before speaking — he's working through the implications as he asks. Soft on the question mark.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。違法な器具の販売、使い勝手の説明を装い、スクリプト化された営業トークが使われました。",
+      "en": "Yes. They used scripted sales pitches — posed as equipment sellers explaining how to use illegal products — to draw people in.",
+      "style": "Factual, slightly heavier on 「使い勝手の説明」 to emphasize the deception layer. No judgment in the voice, just clarity. Measured pace. Slight hardening on 「違法」.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "空港のゲートで止められた人もいるんですか。",
+      "en": "Were there people stopped at airport gates trying to leave?",
+      "style": "Urgent curiosity now — this question carries weight for him. Slight lean forward. Faster than before, but controlled. Real concern beneath the question.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。儲かるとそそのかされ、海外へ運ぼうとした例も。",
+      "en": "Yes. Some were lured by promises of profit and attempted to ship the equipment overseas.",
+      "style": "Quiet gravity here. Not condemning the victims — sympathetic to how the lure works. Slow, deliberate pace. Small weight on 「儲かるとそそのかされ」 to convey the manipulation.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "制度として、成り立たない隙間を突かれているんですね。",
+      "en": "So the system's gaps — the places where it doesn't hold — are what they're exploiting.",
+      "style": "This is Ren arriving at the insight. Quiet satisfaction in connecting the pieces. Slight acceleration as he understands. Not asking for confirmation; stating it aloud to solidify it.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おっしゃる通り。",
+      "en": "Exactly.",
+      "style": "Takeda affirms with quiet weight. One word, delivered with steady eye contact. A small nod of respect that Ren understood the structure. Warm but professional.",
+      "mood": "affirming"
+    }
+  ]
+}

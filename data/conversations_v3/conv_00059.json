@@ -1,0 +1,82 @@
+{
+  "id": "conv_00059",
+  "context": "A Saturday morning phone call. Six-year-old Sho calls his grandpa Goro in Fukuoka. He has news.",
+  "purpose": "tiny grandkid-grandparent call — small joy delivered with no preamble",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "本当に",
+    "元気",
+    "今日",
+    "ありがとう",
+    "大丈夫"
+  ],
+  "cast": [
+    "sho_child",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "もしもし。",
+      "en": "Hello.",
+      "style": "Slow gravelly opening, almost a double-beat. Kyushu drawl settling in. Warm but not effusive. The kind of hello that is actually listening.",
+      "mood": "present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、しょうです。",
+      "en": "Grandpa — it's Sho.",
+      "style": "Formal and small, each syllable careful. A child introducing himself with a quiet kind of pride. Almost formal, like he's learned how to do this right.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ああ、しょうか。元気か。",
+      "en": "Ah, Sho — you doing well?",
+      "style": "A small smile audible in the voice. Warm recognition settling into genuine pleasure. Slow enough to let the moment breathe. Real affection, no performance.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "元気。今日ね、自転車、乗れた。",
+      "en": "I'm doing well. Today — I rode my bike.",
+      "style": "A small breathless delivery, the whole reason for calling rising in his chest. Building slightly on the second phrase. The news tumbling out once he starts.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほう。本当に？",
+      "en": "Oh — really?",
+      "style": "Genuine astonishment breaking through, even and especially because he was probably already expecting this. A beat of real surprise. Slow, warm.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "本当に！もう、転ばない。",
+      "en": "Really! I don't fall anymore.",
+      "style": "Pure six-year-old certainty, voice bouncing with newly-earned confidence. A small laugh lives in the delivery. Bright attack on the first word, unburdening himself of doubt.",
+      "mood": "triumphant"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "えらいなあ。今度、見せて。",
+      "en": "That's impressive. Show me next time.",
+      "style": "Slow, deliberate, genuinely proud. Each word carries weight — not effusive, but earned. The voice of a man recognizing something real. Quiet conviction underneath.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん！…おじいちゃん、ありがとう。",
+      "en": "Yeah! …Grandpa — thank you.",
+      "style": "The first word bright and immediate, then a sudden shift into something quieter. A small pause before he thanks him. The gratitude doesn't explain itself — just sits there, genuine and undefended.",
+      "mood": "grateful"
+    }
+  ]
+}

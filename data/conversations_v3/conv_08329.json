@@ -1,0 +1,86 @@
+{
+  "id": "conv_08329",
+  "context": "Officer briefs",
+  "purpose": "Teach: 鉄鋼/請負/車体/減量/オペレーション/戸籍/養子/打開",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鉄鋼",
+    "請負",
+    "車体",
+    "減量",
+    "オペレーション",
+    "戸籍",
+    "養子",
+    "打開"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_418 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、鉄鋼関連の盗難事件を捜査しております",
+      "en": "We're investigating a theft case involving steel materials.",
+      "style": "Formal, official register. Clear, measured pace. Each phrase lands with the weight of official protocol. No warmth, but no coldness—purely professional.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、請負調査の依頼を受けられたとのこと",
+      "en": "Yes. I understand you've received a request to conduct an investigation on our behalf.",
+      "style": "Respectful, attentive tone. Slight forward lean in posture. Acknowledging the officer's authority while demonstrating his own company's cooperation. Calm, deliberate.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑車両の車体番号を確認しました",
+      "en": "We've confirmed the vehicle identification number of the suspect vehicle.",
+      "style": "Clipped, procedural. Each fact delivered as a checkpoint. No elaboration. Professional distance maintained. Matter-of-fact delivery.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、書類の減量を進めておられますね",
+      "en": "Yes. I see you're making progress on organizing the documentation.",
+      "style": "Warm acknowledgment under the formality. Slight relief in the tone—appreciating the officer's diligence. Respectful but no longer purely distant.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、複数班によるオペレーションを実施しました",
+      "en": "We've conducted a multi-unit operation to gather evidence.",
+      "style": "Measured, confident delivery. The tone of someone reporting completed work. Steady pace, no hesitation. Professional pride in the thoroughness.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、戸籍偽造事件を摘発されたんですね",
+      "en": "Yes. So you've uncovered a case of forged family registration documents as well.",
+      "style": "Note of recognition in the voice. Slight uptick in respect. He's following the thread of the investigation and sees the scope expanding. Engaged, not just compliant.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、養子縁組詐欺を捜査中です",
+      "en": "We're currently investigating a fraud case connected to fraudulent adoptions.",
+      "style": "Serious, focused delivery. The gravity of this particular offense evident in the slight drop in pitch. Controlled but with undertone of concern about the scope.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事件の打開、警察、頼もしいです",
+      "en": "Yes. I have to say, your handling of this case is reassuring.",
+      "style": "Warmer opening, genuine relief breaking through the formality. Slight exhale. Direct eye contact quality in the voice. This isn't empty courtesy—he means it.",
+      "mood": "relieved_grateful"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_01103",
+  "context": "Tatsuya teaches Sho about fishing carefully.",
+  "purpose": "uncle-child fishing-lesson exchange",
+  "ambient": "river_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "釣り",
+    "一緒",
+    "優しい",
+    "頑張る",
+    "楽しい"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_055)",
+    "generated_at": "2026-05-27T03:49:30.426Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "しょう、釣り、ゆっくり、しよう。",
+      "en": "Sho, let's fish together, nice and slow.",
+      "style": "Soft, unhurried opener. Low country warmth in the voice. Gentle patience threading through each word — not teaching down, but inviting alongside. The ease of someone who's done this a hundred times and wants to do it one more with this particular boy.",
+      "mood": "tender_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、優しく、待つ。",
+      "en": "Yeah — gently, and wait.",
+      "style": "Small, certain voice. Soft six-year-old sincerity — he's taken the instruction seriously, already quieting himself. Not echoing back, but showing he understands. Warm and quietly committed.",
+      "mood": "earnest_focused"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "一緒に、頑張ろうな。",
+      "en": "Let's do this together, you and me.",
+      "style": "Warm, steady encouragement. Slight lean into the togetherness — not a command but an invitation. Low rumble of voice, patient. The comfort of knowing this moment matters to him without needing to say why.",
+      "mood": "warm_collaborative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お魚、釣れた！",
+      "en": "A fish! I caught one!",
+      "style": "Small voice suddenly alive with surprise and pride. The immediate, unguarded joy of a six-year-old who did the thing. Bright, genuine, no performance — just pure excited relief that it actually worked.",
+      "mood": "triumphant_delighted"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "楽しい、釣り、ね。",
+      "en": "That's what fishing's all about, isn't it.",
+      "style": "Quiet, satisfied observation. Not congratulating so much as affirming — he's reflected the joy back without overshadowing it. Slow, rural contentment. A moment of stillness, almost philosophical, the kind only comes after watching something small succeed.",
+      "mood": "satisfied_reflective"
+    }
+  ]
+}

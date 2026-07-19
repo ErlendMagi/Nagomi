@@ -1,0 +1,78 @@
+{
+  "id": "conv_04835",
+  "context": "A doctor explains a public health study to a curious teen",
+  "purpose": "Teach: 因果/国交/アスベスト/ウィルス/参戦/周期/モダン/効用",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "因果",
+    "国交",
+    "アスベスト",
+    "ウィルス",
+    "参戦",
+    "周期",
+    "モダン",
+    "効用"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、最近ニュースでアスベストの健康被害の話をよく見るんですけど、本当にそんなに危ないんですか？",
+      "en": "Doctor, I've been seeing news about asbestos health damage a lot lately. Is it really that dangerous?",
+      "style": "Curious teen asking a sincere question to a trusted adult."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい質問だね。長年の研究で、アスベストと肺の病気には明確な因果関係があると分かっているんだ。",
+      "en": "That's a good question. Years of research have shown a clear causal relationship between asbestos and lung disease.",
+      "style": "Calm professional doctor explaining clearly to a younger person."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "因果関係って、ウィルス感染の研究と同じやり方で調べるんですか？",
+      "en": "Causal relationships — do you investigate them the same way as research on viral infections?",
+      "style": "Engaged teen connecting new info to things she already knows."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "似ているけど少し違うね。ウィルスの流行は周期的に来るから、その周期に合わせて短期間で大規模な調査ができるんだ。",
+      "en": "Similar but a little different. Viral outbreaks come in cycles, so we can do large-scale studies quickly along those cycles.",
+      "style": "Patient teacher-like tone with concrete contrast for clarity."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ。じゃあアスベストみたいに何十年もかかるやつは、調べるのも大変そうですね。",
+      "en": "Wow. So for something like asbestos that takes decades, investigating it must be really tough too.",
+      "style": "Teen reflecting thoughtfully on the practical difficulty."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうなんだ。だから国交のある国同士で協力してデータを共有してね。最近は海外の大きな共同研究に参戦する日本の若い研究者も増えてきたよ。",
+      "en": "Exactly. Countries with diplomatic relations cooperate and share data. Lately, more young Japanese researchers are jumping into big international joint studies too.",
+      "style": "Warmly informative, painting a broader global picture for her."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なんかカッコいい。海外の研究所って、モダンな雰囲気のところでやってそうなイメージです。",
+      "en": "That sounds kind of cool. I imagine the overseas labs have a really modern atmosphere.",
+      "style": "Teen letting her imagination run, slightly playful and impressed."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ははっ、見た目はそうかもね。でも大事なのは中身で、こうした研究の本当の効用は、何十年も先の人々の命を守ることにあるんだよ。",
+      "en": "Haha, looks-wise maybe. But what matters is the substance — the true utility of this research lies in protecting lives decades into the future.",
+      "style": "Gentle laugh then a sincere, grounding closing thought for her."
+    }
+  ]
+}

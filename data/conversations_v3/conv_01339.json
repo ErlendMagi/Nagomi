@@ -1,0 +1,76 @@
+{
+  "id": "conv_01339",
+  "context": "Saito gives Mei a positive diagnosis for her child.",
+  "purpose": "doctor-mother child-diagnosis exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "診断",
+    "健康",
+    "子ども",
+    "相談",
+    "一緒"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_067)",
+    "generated_at": "2026-05-27T05:13:00.372Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、診断、本当、問題ない。",
+      "en": "Mei-san, the diagnosis is clear — there's nothing to worry about.",
+      "style": "Steady, honest delivery with underlying warmth. A slight softening on 'nothing to worry about.' Professional composure that lets genuine care show through without overstating it.",
+      "mood": "compassionate_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ああ、本当、安心、しました。",
+      "en": "Oh, thank goodness. I'm so relieved.",
+      "style": "Exhale of tension releasing. Quiet, genuine gratitude. The relief is real but contained — not theatrical. Trails slightly at the end, letting the feeling settle.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子ども、本当、健康、ね。",
+      "en": "Your child is in very good health.",
+      "style": "Calm affirmation spoken with quiet conviction. A beat of warmth beneath the clinical words. The kind of news delivered not as a procedure but as a gift.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "感謝、本当、いつも。",
+      "en": "Thank you — truly, I'm grateful. Always.",
+      "style": "Soft, sincere gratitude. No rush in the words. The 'always' lingers slightly, carrying the weight of accumulated worry finally easing.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、本当、いつでも、ね。",
+      "en": "Please don't hesitate to ask if anything comes up. Anytime.",
+      "style": "Open, inviting delivery. The word 'anytime' is steady and genuine — not a formality but an actual door left open. Speaks from a place of presence, not obligation.",
+      "mood": "supportive_present"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "一緒に、本当、見守って。",
+      "en": "We'll watch over them together.",
+      "style": "Quiet commitment, like making a small promise to herself and to the doctor. Gentle and resolute at once. The 'together' carries the sense of shared responsibility and trust.",
+      "mood": "grateful_resolute"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、お子さん、本当に。",
+      "en": "Your child is precious. Take good care.",
+      "style": "A closing statement spoken with real weight. Measured, calm, and genuinely felt. No sentimentality — just the honest acknowledgment of something that matters.",
+      "mood": "warm_philosophical"
+    }
+  ]
+}

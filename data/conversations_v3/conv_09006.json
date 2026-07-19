@@ -1,0 +1,86 @@
+{
+  "id": "conv_09006",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 国費/楽勝/解法/在職/使い物/引換/節減/棄権",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国費",
+    "楽勝",
+    "解法",
+    "在職",
+    "使い物",
+    "引換",
+    "節減",
+    "棄権"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_452 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、国費プロジェクトに応募しろ",
+      "en": "Apply for the national funding project.",
+      "style": "Crisp, direct authority. A single command delivered with absolute certainty. No hesitation, no softening. The tone of someone accustomed to being heard the first time.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。今回の入札は楽勝でした",
+      "en": "Yes. This round of bidding was straightforward.",
+      "style": "Professional confirmation. Measured delivery, steady eye contact. The report of someone who executed cleanly and is ready for the next instruction without fanfare.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、問題の解法を社内勉強会で共有しろ",
+      "en": "Share the solution to this problem with the team in an internal workshop.",
+      "style": "Directive, but not harsh. Each phrase lands with weight. He's distributing knowledge as an executive function, not a request. Calm authority.",
+      "mood": "directing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。長年在職した社員を表彰します",
+      "en": "Yes. We'll present service awards to the long-tenured staff.",
+      "style": "Forthcoming update, smooth cadence. Kenji is reporting progress on an initiative—competent, organized. A tone that says 'this is being handled.'",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、不良品は使い物にならんと回収しろ",
+      "en": "Recall the defective units. They're not fit for use.",
+      "style": "Flat, final judgment. No room for interpretation. The tone of someone closing a decision that was already made. A brief pause before 'not fit for use' to let the weight settle.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。引換券を新しく印刷しました",
+      "en": "Yes. We've had new vouchers printed and ready for exchange.",
+      "style": "Efficient confirmation. Kenji speaks with the calm of someone who anticipated the need and executed ahead of time. No uncertainty, just facts.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、無駄を節減して投資に回せ",
+      "en": "Cut waste. Redirect those savings into investment.",
+      "style": "Sharp, economical phrasing. Each word does work. The tone of a leader thinking several moves ahead. A slight pause between the two directives to let each sink in.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。投票棄権率を改善する社員啓発を進めます",
+      "en": "Yes. We're rolling out staff awareness campaigns to improve voter turnout.",
+      "style": "Closing statement, delivered with quiet completion. Kenji speaks as though tying off a thread—professional, finished. The slight lift at the end suggests readiness for dismissal.",
+      "mood": "concluding"
+    }
+  ]
+}

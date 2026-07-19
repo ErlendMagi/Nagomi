@@ -1,0 +1,65 @@
+{
+  "id": "conv_05974",
+  "context": "A boss reviews a corporate risk",
+  "purpose": "Teach: 薬剤/警報/逃亡/県庁/各省/一国/迫害/消毒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "薬剤",
+    "警報",
+    "逃亡",
+    "県庁",
+    "各省",
+    "一国",
+    "迫害",
+    "消毒"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の薬剤管理、警報レベルで動いている。",
+      "en": "Pharmacy management across the industry is moving at critical alert levels.",
+      "style": "Clipped, measured authority. Direct eye contact. Each phrase lands with weight. No softening — the facts are the delivery.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者の逃亡騒ぎ、メディア対応中です。",
+      "en": "Yes. We're managing media around the suspect's disappearance.",
+      "style": "Steady, respectful confirmation. Slight forward lean showing engagement. Calm efficiency — no panic in the tempo, just focused work.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "県庁、各省と歩調を合わせろ。",
+      "en": "Coordinate with the prefectural office and all relevant ministries.",
+      "style": "Quiet command. Not raised — lowered, if anything. The firmness comes from certainty, not volume. Eyes hold for a moment longer than usual.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一国規模のリコール、初動を急ぎます。",
+      "en": "We'll accelerate the initial response on this nationwide recall.",
+      "style": "Affirmative nod built into the voice. Professional pace, no rushing or dragging. The words land cleanly — this is what happens next.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "関係者が迫害される構図、避けろ。消毒の周知も。",
+      "en": "Avoid any structure that scapegoats people involved. And make sure disinfection protocols get publicized.",
+      "style": "Two separate directives, equally weighted. First one slightly softer — moral clarity without preaching. Second one crisper — tactical. Closes with a full stop.",
+      "mood": "deliberate_protective"
+    }
+  ]
+}

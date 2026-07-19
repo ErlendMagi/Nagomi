@@ -1,0 +1,78 @@
+{
+  "id": "conv_04728",
+  "context": "A uni student interviews a manager about supply chains",
+  "purpose": "Teach: 引き下げ/免除/落札/需給/補完/著名/完結/出入り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き下げ",
+    "免除",
+    "落札",
+    "需給",
+    "補完",
+    "著名",
+    "完結",
+    "出入り"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_238 workflow wxr5wooap)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。御社の調達戦略について何点か伺ってもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask a few questions about your procurement strategy?",
+      "style": "polite student interviewer opening with formal university research register"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、どうぞ。最近は原材料の需給バランスが崩れていて、現場は対応に追われていますよ。",
+      "en": "Yes, please. Recently the supply-demand balance of raw materials has been disrupted, and the field is scrambling to cope.",
+      "style": "weary mid-career manager candid tone with industry jargon"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。価格引き下げの要請が取引先から来ることも多いと聞きますが、実際はいかがですか。",
+      "en": "I see. I hear that requests for price reductions often come from business partners — is that actually the case?",
+      "style": "curious follow-up with hedged academic phrasing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありますね。ただ、関税の免除が認められた部品については、こちらも価格交渉に応じやすいんです。",
+      "en": "Yes, there are. However, for parts where tariff exemptions have been granted, we can more readily accommodate price negotiations.",
+      "style": "explanatory manager voice citing policy mechanics matter-of-factly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "公共入札で落札された案件の場合、サプライヤー選定はどう進めるのでしょうか。",
+      "en": "In cases where you've won a public bid, how does supplier selection proceed?",
+      "style": "probing question shifting topic with technical procurement vocabulary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "著名なメーカー一社に頼らず、二社以上で相互補完できる体制を組みます。倉庫の出入り口の動線まで設計し直すこともありますよ。",
+      "en": "We avoid relying on one famous maker and build a system where two or more suppliers can complement each other. We even redesign warehouse entry-and-exit flow lines.",
+      "style": "detailed operational answer with logistical depth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "興味深いですね。最後に、今のプロジェクトはいつ頃完結する見込みでしょうか。",
+      "en": "That's fascinating. Lastly, when is the current project expected to wrap up?",
+      "style": "concluding interview question with appreciative academic tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来年の春には一区切りつくはずです。論文、頑張ってくださいね。",
+      "en": "It should reach a milestone by next spring. Good luck with your thesis.",
+      "style": "warm closing remark encouraging the student informally"
+    }
+  ]
+}

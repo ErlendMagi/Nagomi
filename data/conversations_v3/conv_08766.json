@@ -1,0 +1,86 @@
+{
+  "id": "conv_08766",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 輸出入/顛末/参与/受け手/撤収/マージン/例示/売り出し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "輸出入",
+    "顛末",
+    "参与",
+    "受け手",
+    "撤収",
+    "マージン",
+    "例示",
+    "売り出し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_440 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、輸出入バランスを見直せ",
+      "en": "Review our export-import balance.",
+      "style": "Clipped, authoritative. Even cadence, no softening. Command spoken as assumption of compliance, not request.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。前回のクレーム顛末を報告書にまとめました",
+      "en": "Yes. I've compiled the complaint follow-up into a report.",
+      "style": "Steady, professional. Slight pause before details — showing he's prepared. Formal register but not stiff. Eye contact level: measured.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、業界団体への参与人事を確定しろ",
+      "en": "Confirm the personnel for our industry association involvement.",
+      "style": "Clear and decisive. Each phrase lands with weight. No rush, no repetition. The voice of someone used to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。マーケティングは受け手の視点を大事にします",
+      "en": "Yes. Marketing will prioritize the customer's perspective in this approach.",
+      "style": "Respectful nod in the voice. Slightly more engaged than the previous affirmative — showing he understands the strategic point. Professional warmth underneath.",
+      "mood": "receptive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、不採算店舗の撤収を決断しろ",
+      "en": "Make the decision to close our unprofitable stores.",
+      "style": "Firm, final. The tone of someone making a hard call. No hedge, no softening particle. Pause weight before the command lands.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品のマージンを再計算しました",
+      "en": "Yes. I've recalculated the margins on the new product line.",
+      "style": "Confirmation with substance. Slight lift at the end — indicating follow-through on an earlier directive. Capable, not celebratory.",
+      "mood": "accomplished"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "提案書には事例を例示で示せ",
+      "en": "Use case examples in the proposal — concrete ones.",
+      "style": "Specific, almost curt. The correction of someone who knows what works. Expects the listener to understand immediately why this matters.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品の売り出し時期を確定いたしました",
+      "en": "Yes. I've confirmed the launch timing for the new product.",
+      "style": "Clean closure. Steady, assured. A slight sense of completion in the pacing — the conversation's weight resolved. Professional satisfaction without overstatement.",
+      "mood": "settled"
+    }
+  ]
+}

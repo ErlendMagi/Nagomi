@@ -1,0 +1,61 @@
+{
+  "id": "conv_01762",
+  "context": "Asuka volunteers to help a teen group; meets Hina-young at a workshop.",
+  "purpose": "Teacher offering kind community education.",
+  "ambient": "community_hall_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "学ぶ",
+    "生徒",
+    "伝える",
+    "楽しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_088)",
+    "generated_at": "2026-05-27T07:40:09.186Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日のワークショップ、楽しい?",
+      "en": "Are you having fun at today's workshop?",
+      "style": "Warm, open question. Gentle lean-in. Genuinely curious about her answer, not asking for reassurance. A teacher who listens to the response.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、すごく学んでる!",
+      "en": "Yeah, I'm learning so much!",
+      "style": "Bright, unselfconscious enthusiasm. Quick uptake. Energy that's genuine, not performed. The ease of a kid who feels safe to say what she thinks.",
+      "mood": "bright_engaged"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "生徒、みんな熱心ね。",
+      "en": "All your students are really throwing themselves into it.",
+      "style": "Quiet observation, almost to herself. A small warmth in the voice — the pleasure of recognizing effort. Professional but tender.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "先生の伝え方、わかりやすい。",
+      "en": "The way you explain things makes so much sense.",
+      "style": "Soft, earnest. Not flattery — genuine admiration from a child who notices when an adult takes her seriously. A small vulnerable honesty.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ありがとう、嬉しい言葉。",
+      "en": "That really means a lot to me.",
+      "style": "Quiet, genuinely moved. A slight catch — the weight of being seen doing something well. Warm and present, not dismissing the compliment.",
+      "mood": "grateful_touched"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "conv_00320",
+  "context": "Asuka pulls Hina aside briefly to praise some specific work — Hina has been helping a quieter classmate.",
+  "purpose": "teacher small private acknowledgment — recognition of social kindness",
+  "ambient": "classroom_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "優しい",
+    "友達",
+    "助ける",
+    "見る",
+    "えらい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_016)",
+    "generated_at": "2026-05-26T20:48:29.338Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ひなさん、ちょっといい？",
+      "en": "Hina-san, can I have a moment?",
+      "style": "Teacher warm gentle careful private-tone opening, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-careful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい、先生。",
+      "en": "Yes, sensei.",
+      "style": "High child bright respectful careful gentle-receiving, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-receiving"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いつも、しょうくんを助けてくれてるね。",
+      "en": "You're always helping Sho-kun.",
+      "style": "Teacher warm gentle sincere specific-praising observational, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-specific"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えへへ、しょうくん、静かだから。",
+      "en": "Heehee, Sho-kun is quiet.",
+      "style": "High child bright soft genuine humble-sharing, the soft real real-childish-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-humble"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "優しいの、先生ちゃんと見てるよ。えらい。",
+      "en": "Kindness — I'm watching properly. Good child.",
+      "style": "Teacher warm gentle sincere deep-recognizing-warm, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-recognizing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、先生！",
+      "en": "Thank you, sensei!",
+      "style": "High child bright sincere touched closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-touched"
+    }
+  ]
+}

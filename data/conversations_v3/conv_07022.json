@@ -1,0 +1,86 @@
+{
+  "id": "conv_07022",
+  "context": "Two friends chat",
+  "purpose": "Teach: 閉まっ/殴り/貰え/好ましく/金魚/嘆い/見上げる/なおす",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉まっ",
+    "殴り",
+    "貰え",
+    "好ましく",
+    "金魚",
+    "嘆い",
+    "見上げる",
+    "なおす"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_353 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、葵で、店、早く閉まってたよね、昨日、何かあったの?",
+      "en": "Aoi — the shop closed early yesterday. Did something happen?",
+      "style": "Warm inquiry, leaning forward slightly. Genuine interest without prying. Soft opening, gentle pace. Voice carries care underneath the question.",
+      "mood": "concerned_curious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。酔ったお客様、殴り合いの寸前、本当に、危険な状況だったの。",
+      "en": "Yeah. A drunk customer — things almost came to blows. It was really dangerous.",
+      "style": "Measured and quiet, looking back on the moment rather than reliving it. Brief pause before the worst part. Voice stays steady but carries the weight of what happened. Slight heaviness on 「危険」.",
+      "mood": "shaken_thoughtful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、明日、早めに、抜けさせて、貰えれば、嬉しいんだけど、デートなの。",
+      "en": "Aoi, would you be okay if I left a bit early tomorrow? I have a date.",
+      "style": "Hesitant, almost apologetic opener. Brightness breaks through halfway through — vulnerability giving way to a small smile in the voice. Slightly rushed on 「デート」 like she's a little embarrassed but can't help it.",
+      "mood": "bashful_hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "最近、お客様、好ましくない態度、たまに、いらっしゃるのよ、葵で。",
+      "en": "Lately, we've been getting some difficult customers at the shop. Not great attitudes.",
+      "style": "Dry observation, a little wry. Not complaining — just naming something she's noticed. Even tone, almost matter-of-fact. Like she's thinking out loud to someone who'll understand.",
+      "mood": "weary_resigned"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "金魚すくい、彼と、夏祭りで、はしゃいでたの、本当に、可愛い思い出。",
+      "en": "I remember he was so excited at the summer festival — we scooped goldfish together. Such a sweet memory.",
+      "style": "Voice softens and slows. Nostalgic warmth, almost dreamy. Lingers on the happiness of it. Smile audible on 「可愛い」. Slight trailing-off at the end, lost in the moment.",
+      "mood": "warm_nostalgic"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お客様、長く来てくれてた方、引っ越されたの、葵で、嘆いてるよ、私。",
+      "en": "One of our regular customers moved away. I really miss them coming in to Aoi.",
+      "style": "Gentle melancholy. Voice drops slightly. Not dramatic — just naming a small loss. Pause before naming the customer type. Wistful but grounded, like something small has shifted.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵を見上げると、いつも、頼りになる存在だよね、本当に、感謝してる。",
+      "en": "When I look at you, you're always someone I can count on. I'm really grateful for that.",
+      "style": "Soft and direct, without shyness. Genuine tenderness — not performed. Steady eye-contact level. Slight warmth on 「頼りになる」. Sincerity underneath simplicity.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "壊れたコーヒーマシン、業者に、なおすよう頼んだ、葵で、また使えるよ、嬉しい。",
+      "en": "The broken espresso machine — I got the vendor to fix it, and it's working again. I'm so glad.",
+      "style": "Lighter, brighter. Relief in the voice. Small upswing on 「また使えるよ」. Closing warmth, almost cheerful. Like one small thing going right feels important.",
+      "mood": "relieved_pleased"
+    }
+  ]
+}

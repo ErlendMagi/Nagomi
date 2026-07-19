@@ -1,0 +1,90 @@
+{
+  "id": "conv_03770",
+  "context": "A part-time worker chats with the manager about her schedule",
+  "purpose": "Teach: 自社/弊社/実務/早期/起動/表記/務め/パート",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "自社",
+    "弊社",
+    "実務",
+    "早期",
+    "起動",
+    "表記",
+    "務め",
+    "パート"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_189 wc87o7is0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "店長、来月のパートのシフトの件で少しご相談があるんですが、今お時間よろしいですか？",
+      "en": "Manager, I'd like to discuss next month's part-time shift. Do you have a moment now?",
+      "style": "Polite, slightly hesitant tone from a part-timer approaching her boss."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、青井さんね。ちょうど来月のシフト表を作っていたところだから、いいタイミングだよ。",
+      "en": "Ah, Aoi-san. I was just making next month's shift chart, so it's good timing.",
+      "style": "Managerial, friendly but businesslike, welcoming the conversation warmly."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "実は来月から専門学校に通うことになって、早めにお伝えしておきたかったんです。",
+      "en": "Actually, I'll be attending a vocational school next month, so I wanted to tell you early.",
+      "style": "Apologetic and careful, breaking news she's nervous about sharing."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。うちの会社の方針として学業優先だから、無理に務めなくて大丈夫だよ。",
+      "en": "I see. Our company policy puts studies first, so you don't have to force yourself.",
+      "style": "Reassuring, gentle, showing managerial understanding and flexibility."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。火曜と木曜の朝、開店前のレジの起動と仕込みだけでもお手伝いできればと。",
+      "en": "Thank you. I'd like to at least help with register startup and prep Tuesday and Thursday mornings.",
+      "style": "Grateful and constructive, offering a concrete workable compromise."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かるよ。実務に慣れている人が朝にいてくれると、新人の指導もスムーズになるからね。",
+      "en": "That helps a lot. Having someone experienced in the morning makes training new staff smoother.",
+      "style": "Appreciative, explaining the practical value of her offer clearly."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それと、契約書の学生区分の欄って、どう表記すればいいですか？",
+      "en": "Also, how should I fill in the student category field on the contract?",
+      "style": "Curious, double-checking a procedural paperwork detail politely."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、そこは「学生アルバイト」でいいよ。本社の方には弊社規定通りで申請しておくから。",
+      "en": "Oh, just write 'student part-timer.' I'll submit it to HQ per our company rules.",
+      "style": "Clear and directive, handling the paperwork side smoothly for her."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。あと、自社アプリのシフト管理って早期に登録した方がいいんですよね？",
+      "en": "That helps. Also, I should register on the company's own app early, right?",
+      "style": "Practical, confirming next steps with attentive follow-through and care."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうだね、早めに登録しておいて。希望シフトが通りやすくなるから。",
+      "en": "Yes, register early. Your preferred shifts will be easier to get approved that way.",
+      "style": "Helpful, wrapping up with practical advice in a warm tone."
+    }
+  ]
+}

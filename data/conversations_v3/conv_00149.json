@@ -1,0 +1,69 @@
+{
+  "id": "conv_00149",
+  "context": "Mid-morning at Yuki's desk. Hiroshi the boss stops by briefly to assign a small but urgent task.",
+  "purpose": "workplace task handoff — clear authority, small respectful acknowledgment of effort",
+  "ambient": "office_midmorning",
+  "sound_effects": [],
+  "target_vocab": [
+    "資料",
+    "頼む",
+    "午後",
+    "間に合う",
+    "はい"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤さん、ちょっといいかな。",
+      "en": "Sato, do you have a moment?",
+      "style": "Authoritative middle-aged boss tone, measured but not unkind, weight in each syllable establishing focus.",
+      "mood": "measured-firm"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、何でしょうか。",
+      "en": "Yes, what is it?",
+      "style": "Quick office attentiveness, polite formal register straightening her posture audibly in the voice.",
+      "mood": "attentive-formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この資料、午後の会議までに頼めるか。",
+      "en": "These materials — can I ask for them by the afternoon meeting?",
+      "style": "Direct boss authority, measured weight on 「頼める」, treating it as a real request not an order.",
+      "mood": "direct-respectful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "午後ですね。間に合わせます。",
+      "en": "By the afternoon. I'll make it on time.",
+      "style": "Crisp office confidence, professional certainty without bravado, voice steady and committed throughout.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かるよ。よろしく頼む。",
+      "en": "That helps. Thanks for handling it.",
+      "style": "Quiet boss approval, a slight warming under the authority, brief sincere acknowledgment in the tone.",
+      "mood": "approving-brief"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、お任せください。",
+      "en": "Yes, leave it to me.",
+      "style": "Steady professional reassurance, formal register held firmly, quiet pride in being trusted with the work.",
+      "mood": "reassuring"
+    }
+  ]
+}

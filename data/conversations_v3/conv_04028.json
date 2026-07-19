@@ -1,0 +1,72 @@
+{
+  "id": "conv_04028",
+  "context": "A boss reviews an R&D update from his manager",
+  "purpose": "Teach: メモリ/スピーカー/計測/走行/適応/バイオ/有機/コア",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリ",
+    "スピーカー",
+    "計測",
+    "走行",
+    "適応",
+    "バイオ",
+    "有機",
+    "コア"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ君、新型ロボットのコア部分の開発はどこまで進んでいる？",
+      "en": "Kenji, how far along is the development of the new robot's core component?",
+      "style": "Authoritative boss opening with direct managerial inquiry"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、有機素材を使ったバイオセンサーの統合がほぼ完了しました。",
+      "en": "Yes, the integration of bio-sensors using organic materials is nearly complete.",
+      "style": "Respectful subordinate giving a formal technical progress update"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは素晴らしい。実機の走行テストの結果はどうだった？",
+      "en": "That's excellent. How were the results of the actual unit's driving tests?",
+      "style": "Pleased executive following up with pointed performance question"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "走行距離は順調ですが、メモリの消費量を正確に計測したところ、想定より多いことが判明しまして。",
+      "en": "The driving distance is fine, but when we precisely measured memory consumption, it turned out higher than expected.",
+      "style": "Hedging engineer carefully delivering mixed news to superior"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ、それは気になるな。環境への適応はうまくいっているのか？",
+      "en": "Hmm, that's concerning. Is the environmental adaptation going well?",
+      "style": "Thoughtful boss probing deeper into technical concerns"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "適応アルゴリズムは良好で、内蔵スピーカーからの音声出力も安定しています。",
+      "en": "The adaptation algorithm is performing well, and audio output from the built-in speaker is also stable.",
+      "style": "Reassuring manager providing balanced positive technical detail"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "了解した。来週の役員会議までに改善案をまとめておいてくれ。",
+      "en": "Understood. Have an improvement proposal ready by next week's executive meeting.",
+      "style": "Decisive boss closing with a clear actionable directive"
+    }
+  ]
+}

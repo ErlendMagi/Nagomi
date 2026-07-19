@@ -1,0 +1,86 @@
+{
+  "id": "conv_11120",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 宝塚/グローブ/ジャンク/アリア/運勢/グレイ/悪人/グレン",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "宝塚",
+    "グローブ",
+    "ジャンク",
+    "アリア",
+    "運勢",
+    "グレイ",
+    "悪人",
+    "グレン"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_557 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが宝塚歌劇のチケットを下さるそうよ",
+      "en": "Sho, your dad said he'd give you a ticket to the Takarazuka Revue.",
+      "style": "Warm, conversational opening. Gentle lift on the news — she's sharing something she knows will matter to him. Natural pause before 'ticket' like she's letting the gift land.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと野球のグローブの手入れ方法習ったよ",
+      "en": "Mom, Dad taught me how to take care of my baseball glove.",
+      "style": "Bright, earnest excitement. Quick pace. The specific pride of learning something new from his father. Small forward lean in the voice, eager to share.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「ジャンクフードは月一にね」って仰ってたわ",
+      "en": "Sho, your dad was saying junk food should be just once a month.",
+      "style": "Gentle observation, not instruction. Slight amusement in the tone — she's relaying something practical he said. Calm, matter-of-fact delivery.",
+      "mood": "amused_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとアリアのコンサート観たよ",
+      "en": "Mom, Dad took me to see an Aria concert.",
+      "style": "Steady happiness. No rush — he's savoring the memory. The specific joy of something shared and witnessed together. Soft contentment in the trailing off.",
+      "mood": "content_reflective"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「今日の運勢は良い」って笑ってらしたわ",
+      "en": "Sho, your dad was laughing about how your fortune for today was good.",
+      "style": "Tender amusement. She's picturing him laughing — warmth showing through her voice. Light, almost conspiratorial, like she's sharing a small moment of his character with her son.",
+      "mood": "affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとグレイのコートを買いに行ったよ",
+      "en": "Mom, Dad and I went to buy a gray coat together.",
+      "style": "Calm satisfaction. A simple activity rendered meaningful by the doing together. No rushing. The quiet pride of being included in an everyday errand.",
+      "mood": "content_included"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「漫画の悪人キャラも魅力がある」って仰ってたわ",
+      "en": "Sho, your dad was saying that even the villains in manga have their charm.",
+      "style": "Thoughtful, almost contemplative. She's relaying something that shows his depth. Slight warmth — she appreciates this about him. Measured pace, letting the idea breathe.",
+      "mood": "thoughtful_admiring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとグレン・ミラー楽団のCD聴いたよ",
+      "en": "Mom, Dad and I listened to a Glenn Miller Orchestra CD together.",
+      "style": "Warm, settled happiness. The contentment of shared listening, shared taste. Gentle voice, like he's still hearing the music. Close, intimate tone — the conversation winding down on something good.",
+      "mood": "content_peaceful"
+    }
+  ]
+}

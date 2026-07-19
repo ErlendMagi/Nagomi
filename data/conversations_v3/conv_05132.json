@@ -1,0 +1,78 @@
+{
+  "id": "conv_05132",
+  "context": "A boss and his manager dissect a long-form sports column",
+  "purpose": "Teach: 法学部/起因/切断/暗示/帰属/神殿/初頭/敗退",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "法学部",
+    "起因",
+    "切断",
+    "暗示",
+    "帰属",
+    "神殿",
+    "初頭",
+    "敗退"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝のコラム読んだか？二十世紀初頭の早稲田と慶應の話から始まって、見事な構成だったな。",
+      "en": "Did you read this morning's column? It started from the Waseda-Keio rivalry in the early twentieth century, beautifully structured.",
+      "style": "Boss speaks in confident, casual tone with warm authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "読みました。筆者が元々法学部出身だからか、論理の運びが非常に丁寧で感心しました。",
+      "en": "I read it. Perhaps because the writer was originally from the law faculty, the logical flow was very careful and impressive.",
+      "style": "Manager replies with polished, respectful business Japanese, measured pace."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うちのチームの予選敗退を、監督の采配ミスだけのせいにしてなかったのが良かった。",
+      "en": "I liked that he didn't pin our team's qualifier defeat solely on the manager's tactical errors.",
+      "style": "Boss sounds appreciative and casually reflective, slightly opinionated."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、不調はけがの連鎖に起因するものだと、データで丁寧に示していましたね。",
+      "en": "Yes, he showed carefully with data that the slump stemmed from the cascade of injuries.",
+      "style": "Manager calmly adds supporting detail in an analytical, measured tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "あのエースの靭帯切断のシーンを、ギリシャ神殿の崩壊にたとえた一節は強烈だったよ。",
+      "en": "That passage comparing the ace's ligament rupture to the collapse of a Greek temple was striking.",
+      "style": "Boss grows animated, voice carrying enthusiasm for the metaphor."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あの比喩は、来季の体制刷新を暗示しているようにも読めますよね。",
+      "en": "That metaphor can also be read as hinting at next season's structural overhaul, can't it.",
+      "style": "Manager offers a thoughtful, perceptive interpretation in a courteous tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "結局、ファンの帰属意識をどう守るかって話に落ち着いてたな。さすがの筆だ。",
+      "en": "In the end, it settled on how to protect the fans' sense of belonging. A masterful pen.",
+      "style": "Boss concludes with an admiring, warmly summarizing tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来週は同じ筆者がアメリカの大学スポーツの特集を書くそうで、楽しみにしています。",
+      "en": "Next week the same writer will reportedly cover American college sports, so I'm looking forward to it.",
+      "style": "Manager closes with an anticipatory, courteous, friendly remark."
+    }
+  ]
+}

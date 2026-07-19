@@ -1,0 +1,86 @@
+{
+  "id": "conv_08146",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 洗浄/貸付/清算/通商/投機/知名度/推計/税込み",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗浄",
+    "貸付",
+    "清算",
+    "通商",
+    "投機",
+    "知名度",
+    "推計",
+    "税込み"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_409 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、工場の洗浄設備を更新しろ",
+      "en": "I want the factory cleaning equipment updated.",
+      "style": "Clipped, businesslike. Brief pause after the opening. Direct eye contact. No room for discussion — this is directive, not collaborative. Slight forward lean.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員への貸付制度を整えました",
+      "en": "Yes. I've arranged a staff loan program.",
+      "style": "Crisp confirmation. Measured pace. Respectful but not deferential. Delivers the action taken with quiet competence, no embellishment. Eyes steady on the boss.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、月末の清算を早めろ",
+      "en": "Move up the month-end settlement.",
+      "style": "Hard stops on each phrase. Quiet authority without volume. Hands still. The tone of someone who's thought this through and expects execution.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。通商交渉が進展しております",
+      "en": "Yes. Trade negotiations are moving forward.",
+      "style": "Level, informative tone. No inflection of pride or worry — just facts. Brief natural pause after 'Yes.' Professional and calm, like he's already thought three steps ahead.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員に投機的な判断はさせるな",
+      "en": "Don't let the staff make speculative decisions.",
+      "style": "Quiet gravity. Weight on the word 'don't' — not angry, but unmistakable. Slower pace than the others. A warning that sounds like care.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告で知名度を上げる計画です",
+      "en": "Yes. We're planning to raise brand awareness through advertising.",
+      "style": "Direct response. Steady pacing. Acknowledges the directive while showing he's already working on the solution. Confident but not presumptuous — he's aligning his work with the boss's thinking.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、来月の売上を推計しろ",
+      "en": "Get me a sales estimate for next month.",
+      "style": "Efficient and final. Short phrases, slight space between them. The closing question of a meeting. Matter-of-fact tone — this is standard business, not urgent or relaxed.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品は税込みで価格表示いたします",
+      "en": "Yes. The new product pricing will display with tax included.",
+      "style": "Final confirmation. Slightly slower and more deliberate than the mid-line responses. Signals closure — the action is clear and complete. Respectful bow in the voice without obsequiousness.",
+      "mood": "resolved"
+    }
+  ]
+}

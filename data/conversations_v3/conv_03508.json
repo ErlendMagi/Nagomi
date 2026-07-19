@@ -1,0 +1,78 @@
+{
+  "id": "conv_03508",
+  "context": "A career counseling session: discussing next steps and skill courses",
+  "purpose": "Teach: マイクロソフト/キャリア/アプローチ/ステップ/開設/受講/税込/燃料",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "マイクロソフト",
+    "キャリア",
+    "アプローチ",
+    "ステップ",
+    "開設",
+    "受講",
+    "税込",
+    "燃料"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_176 workflow whb15wn06)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日はキャリアについて一緒に考えていきましょうね。",
+      "en": "Today let's think together about your career.",
+      "style": "Warm professional teacher opening the counseling session politely"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、おれはまだ進路が全然見えてなくて、どんなアプローチで考えればいいのかも分からなくて…。",
+      "en": "Yes, I still can't see my path at all, and I don't even know what approach to take.",
+      "style": "Casual male university student admitting uncertainty with おれ and hesitation"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうですか。まずは次のステップとして、スキル講座を受講してみるのはどうでしょう。",
+      "en": "I see. As a first next step, how about taking a skills course?",
+      "style": "Gentle suggestion from teacher offering concrete guidance kindly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、どんな講座があるんですか？",
+      "en": "Oh, what kinds of courses are there?",
+      "style": "Curious follow-up question from student showing genuine interest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "例えばマイクロソフトのオフィス講座が人気で、税込で三万円くらいですよ。",
+      "en": "For example, the Microsoft Office course is popular, around 30,000 yen tax included.",
+      "style": "Teacher providing specific practical pricing information in natural spoken tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うーん、バイト代がほとんどガソリン代とか燃料関係に消えてるから、ちょっと厳しいかも…。",
+      "en": "Hmm, most of my part-time pay goes to gas and fuel-related stuff, so it might be tough.",
+      "style": "Student expressing financial concern in casual relatable tone with hesitation"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それなら、大学が新しく開設した無料のオンライン講座もありますよ。",
+      "en": "In that case, there's also a free online course the university just opened.",
+      "style": "Teacher offering an accessible alternative with reassuring warm tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか？それならおれにもできそうです、申し込んでみます！",
+      "en": "Really? Then I think I can do that too — I'll apply!",
+      "style": "Energized student response showing renewed motivation and clear resolve"
+    }
+  ]
+}

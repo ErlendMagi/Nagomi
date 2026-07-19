@@ -1,0 +1,72 @@
+{
+  "id": "conv_05329",
+  "context": "A retired exec mentors a younger boss on dealing with bureaucrats",
+  "purpose": "Teach: 役人/図っ/担う/立案/当方/所管/登記/全額",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "役人",
+    "図っ",
+    "担う",
+    "立案",
+    "当方",
+    "所管",
+    "登記",
+    "全額"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "役人相手は、当方から先に立案を見せるのが鉄則だ。",
+      "en": "With bureaucrats, the rule is to always show your planning first. It sets the tone.",
+      "style": "Measured, patient opening. Quiet weight behind each phrase. Speaks from accumulated experience without needing to advertise it. Even cadence, no rush.",
+      "mood": "wise_measured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。所管の局長との定例の打ち合わせを、私が担う形で進めております。",
+      "en": "Yes. I'm handling the regular meetings with the department director myself.",
+      "style": "Respectful but grounded. Clear, organized tone—this is someone reporting competently. Steady eye contact. No apology in the voice, just solid information.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "登記の件は、相手の顔を立てるよう図ってきたか。",
+      "en": "On the registration matter—have you made sure to preserve their dignity in the process?",
+      "style": "Probing but not unkind. Slightly slower pace on 「相手の顔を立てる」—checking whether the younger man understands the subtle work. A teacher's pause built in.",
+      "mood": "thoughtful_testing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、誠実に進めています。",
+      "en": "Yes. I'm conducting everything with integrity.",
+      "style": "Quiet, direct. No elaboration—he understands the question being asked beneath the question. Calm confidence. Brief because the moment calls for brevity.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "費用の問題が出たら、全額会社負担を申し出ろ。信頼が違う。",
+      "en": "If the question of costs arises, immediately offer to cover the full amount. That shift in trust—it matters.",
+      "style": "Firmer now, almost gentle firmness. Not a lecture, but a deliberate piece of counsel. Spoken like something learned the long way. Slight emphasis on 「信頼が違う」—the payoff of the gesture.",
+      "mood": "instructive_serious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "胸に刻みます。",
+      "en": "I'll hold that close.",
+      "style": "Solemn, respectful close. Slow intake at the beginning—absorbing the weight of what was just said. Quiet sincerity. Not performative respect, but genuine.",
+      "mood": "resolved_respectful"
+    }
+  ]
+}

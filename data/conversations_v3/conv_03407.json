@@ -1,0 +1,72 @@
+{
+  "id": "conv_03407",
+  "context": "Discussing the recovery",
+  "purpose": "Update on recovery; teach 入院/制御/失っ/ショック/緩和/表面/確信/ニーズ",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "入院",
+    "制御",
+    "失っ",
+    "ショック",
+    "緩和",
+    "表面",
+    "確信",
+    "ニーズ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "祖父の容体、どうですか？",
+      "en": "How is my grandfather’s condition?",
+      "style": "anxious teen inquiring, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "入院は順調です。症状を制御できています。",
+      "en": "The hospitalization is going well. We’re controlling symptoms.",
+      "style": "doctor giving a steady update, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一時は意識を失ったと聞いて、ショックでした。",
+      "en": "Hearing he lost consciousness shocked me.",
+      "style": "teen recalling her fear, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "痛みの緩和も進んでいます。",
+      "en": "Pain relief is progressing too.",
+      "style": "doctor reassuring, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "傷の表面は、もうふさがりましたか？",
+      "en": "Has the wound’s surface closed up?",
+      "style": "teen asking hopefully, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、完治に確信を持っています。",
+      "en": "Yes, I’m confident in a full recovery.",
+      "style": "doctor projecting confidence, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "本人のニーズも、聞いてあげてください。",
+      "en": "Please hear his own needs too.",
+      "style": "caring teen requesting, each word carrying genuine natural feeling"
+    }
+  ]
+}

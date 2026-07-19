@@ -1,0 +1,78 @@
+{
+  "id": "conv_04058",
+  "context": "Two managers review a rules update during a coffee break",
+  "purpose": "Teach: 判明/改定/答申/定年/発足/定める/出力/分割",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "判明",
+    "改定",
+    "答申",
+    "定年",
+    "発足",
+    "定める",
+    "出力",
+    "分割"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "昨日の会議で就業規則の改定案が出たけど、もう目を通した？",
+      "en": "The revised work rules proposal came out at yesterday's meeting — have you looked through it yet?",
+      "style": "Casual workplace tone with a rising, inquisitive ending."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ざっと読んだよ。委員会の答申に沿って、定年が六十五歳に引き上げられるらしいね。",
+      "en": "I gave it a quick read. Following the committee's recommendation, retirement age is apparently being raised to sixty-five.",
+      "style": "Measured, slightly reserved manager voice with a thoughtful pace."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうそう。来月発足する新しい人事委員会が、具体的な運用ルールを定めるって書いてあった。",
+      "en": "Right. It said the new HR committee launching next month will set the specific operational rules.",
+      "style": "Engaged, leaning-forward conversational pace with mild enthusiasm."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "退職金も三回に分けて支給する分割払いになるみたいで、ちょっと驚いたよ。",
+      "en": "Retirement payouts are apparently shifting to installment payments in three rounds too, which surprised me a bit.",
+      "style": "Mildly concerned, thinking aloud over coffee."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うちのチームで試算してみたら、若手にはむしろ有利だって出力結果が出たよ。",
+      "en": "When our team ran the numbers, the output actually showed it favors younger employees.",
+      "style": "Informative and slightly reassuring, breaking down the data casually."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。新しい支給額の根拠もそれで判明したわけか。",
+      "en": "I see. So that's how the basis for the new payout amounts became clear.",
+      "style": "Reflective realization, processing the new information aloud."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん。詳しい数字は後で共有フォルダに上げとくね。",
+      "en": "Yeah. I'll upload the detailed numbers to the shared folder later.",
+      "style": "Brief, cooperative offer to follow up after the break."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かる。じゃあ午後、部下にも周知しておくよ。コーヒーお代わり頼む？",
+      "en": "Thanks. Then I'll brief my team in the afternoon. Want another coffee refill?",
+      "style": "Warm collegial wrap-up, closing the work topic kindly."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_04427",
+  "context": "A doctor explains lab measurements to a uni student",
+  "purpose": "Teach: 実用/センチ/未満/ヵ月/インチ/記号/満載/ポンド",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "実用",
+    "センチ",
+    "未満",
+    "ヵ月",
+    "インチ",
+    "記号",
+    "満載",
+    "ポンド"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は健康診断の結果を一緒に見ていきましょう。情報満載の冊子なので、要点だけ説明しますね。",
+      "en": "Today let's go over your health check results together. The booklet is packed full of information, so I'll only explain the key points.",
+      "style": "Calm, professional doctor speaking gently to a young patient."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。正直、専門的な記号ばかりで全然読めなくて、不安なんです。",
+      "en": "Thank you. Honestly, it's all specialized symbols and I can't read it at all, so I'm anxious.",
+      "style": "Nervous university student, polite but visibly worried about results."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫ですよ。まず身長と体重ですが、半年で二センチ伸びて、体重もきちんと増えていますね。",
+      "en": "It's alright. First, regarding height and weight, you've grown two centimeters in half a year, and your weight has properly increased as well.",
+      "style": "Reassuring tone, presenting concrete measurements in plain terms."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "アメリカ留学中の友達が、自分の体重をポンドで、身長をインチで言うんですよ。全然ピンと来なくて。",
+      "en": "A friend studying in America tells me their weight in pounds and their height in inches. I just can't picture it at all.",
+      "style": "Curious student sharing a relatable anecdote about foreign units."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、日本ではメートル法が実用的ですからね。海外の単位は医学論文以外ではあまり使いません。",
+      "en": "Ah, in Japan the metric system is the practical one. Foreign units aren't really used outside of medical papers.",
+      "style": "Friendly explanation acknowledging cultural difference in measurement."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。それで、悪い数値はありましたか?",
+      "en": "I see. So, were there any bad values?",
+      "style": "Direct follow-up question, leaning forward with concern."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鉄分がわずかに基準値未満でした。ここ数ヵ月の食生活が偏っていた可能性がありますね。",
+      "en": "Your iron level was slightly below the reference value. Your diet over the past few months may have been a bit unbalanced.",
+      "style": "Delivering mild concern with a medically appropriate explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よかった。要約すると、食事のバランスを整えれば大丈夫ということですね。",
+      "en": "What a relief. To summarize, if I balance my meals, I'll be fine, right?",
+      "style": "Relieved student confirming understanding by paraphrasing the doctor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その通りです。三ヵ月後にまた検査しましょう。お大事に。",
+      "en": "Exactly. Let's run the tests again in three months. Take care.",
+      "style": "Warm, natural closing remark scheduling appropriate follow-up care."
+    }
+  ]
+}

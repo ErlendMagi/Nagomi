@@ -1,0 +1,65 @@
+{
+  "id": "conv_05692",
+  "context": "A police officer briefs a uni reporter about regional safety",
+  "purpose": "Teach: をめぐって/促す/西欧/源泉/日本海/団結/結びつい/乏しい",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "をめぐって",
+    "促す",
+    "西欧",
+    "源泉",
+    "日本海",
+    "団結",
+    "結びつい",
+    "乏しい"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "近年、薬物をめぐって、日本海側の通関で動きがあります。",
+      "en": "We've been seeing some activity related to drugs coming through customs checkpoints along the Sea of Japan coast recently.",
+      "style": "Measured, matter-of-fact opening. Professional but not cold—the tone of someone who briefs people regularly. Even pacing, steady eye contact. A slight lean forward on the key detail.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "西欧由来の合成薬物との結びついた事案ですか。",
+      "en": "Are these cases connected to synthetic drugs from Western Europe?",
+      "style": "Lean in slightly, genuine intellectual curiosity. Not challenging—asking for clarity. Quiet and careful, the way someone speaks when they're thinking as they listen.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。情報源の源泉が乏しい地域もあって、警察は団結が必要です。",
+      "en": "Yes. In some areas we have limited intelligence sources, so police cooperation across regions is essential.",
+      "style": "Return to procedural tone. Weight the word 'essential'—not heavy, but grounded. Clinical delivery without coldness. The pacing slows fractionally when naming the constraint.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "住民への通報を促す活動も、強化されていますね。",
+      "en": "And the community reporting initiatives—those are being ramped up as well.",
+      "style": "Gentle probe, not accusatory. Soft uptick at the end, inviting confirmation rather than demanding it. Observant—he's piecing something together aloud.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の協力が頼りです。",
+      "en": "We rely on the community's cooperation.",
+      "style": "Quiet, grounded close. Slight pause before speaking, as if choosing words with care. Not a summary—a statement of fact that carries quiet weight. Final word lands steady.",
+      "mood": "resolute"
+    }
+  ]
+}

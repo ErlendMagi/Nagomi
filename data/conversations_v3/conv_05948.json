@@ -1,0 +1,65 @@
+{
+  "id": "conv_05948",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 功績/加わり/根幹/取り入れる/利回り/多岐/補充/一大",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "功績",
+    "加わり",
+    "根幹",
+    "取り入れる",
+    "利回り",
+    "多岐",
+    "補充",
+    "一大"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_299 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、企業の歴史、創業者の功績から学べ。",
+      "en": "Ren, learn from the founder's achievements and the company's history.",
+      "style": "Clear, measured instruction. Warm but authoritative. Leans forward slightly. Not lecturing — teaching because he believes Ren can absorb it. Direct eye contact.",
+      "mood": "mentor"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。新メンバーが加わり、若返りも進んでいるんですね。",
+      "en": "Yes. With new members coming in, the company's getting younger too.",
+      "style": "Attentive, slightly uncertain. Reaches for the right interpretation. Speaks carefully, wanting to show he's following. Quiet respect underneath the formality.",
+      "mood": "earnest_thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "根幹を守りつつ、新案を取り入れる柔軟さが鍵だ。",
+      "en": "The key is flexibility — protecting what matters while staying open to new ideas.",
+      "style": "Deliberate pause after the dash. Each phrase lands with quiet weight. Not rushed. The tone of someone who has learned this through experience, not theory.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "財務では、利回り、多岐にわたる戦略が必要ですか。",
+      "en": "In finance, then — do we need strategies that work across different market conditions?",
+      "style": "Hesitant but genuinely curious. Testing his understanding aloud. Respectful lean into the question. Not parroting — thinking in real time.",
+      "mood": "cautious_engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。補充人員、市場に応じて、一大プロジェクトに投入する。",
+      "en": "Right. Build up the right people, read the market, move them into the major initiatives.",
+      "style": "Affirming nod in the voice. Casual but purposeful. The economy of someone who doesn't waste words. Settles back slightly — confidence without showing off.",
+      "mood": "assured"
+    }
+  ]
+}

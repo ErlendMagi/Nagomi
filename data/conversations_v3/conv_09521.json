@@ -1,0 +1,86 @@
+{
+  "id": "conv_09521",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 伴わ/望め/不運/奨め/ドンドン/浮かび上がっ/不機嫌/塗る",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "伴わ",
+    "望め",
+    "不運",
+    "奨め",
+    "ドンドン",
+    "浮かび上がっ",
+    "不機嫌",
+    "塗る"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_478 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが伴わずにお出かけは禁止よ",
+      "en": "Sho, you can't go out without your father. Understood?",
+      "style": "Firm but maternal. Light, expectant pause after the name. Clear rule-statement with a soft uptick at the end—checking he's listening, not lecturing.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、テストで百点を望めるよう頑張るね",
+      "en": "Mom, I'm going to work really hard so I do well on my test!",
+      "style": "Bright, earnest rush of words. Opening attack on the first word—eager to share. Breathless optimism. Small boy's determination without self-doubt.",
+      "mood": "hopeful_determined"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達の不運な出来事に寄り添ってあげましょうね",
+      "en": "Sho, let's be kind to your friend when they're having a hard time, okay?",
+      "style": "Gentle teaching voice. Warm and steady. Slight pause before 'hard time'—making space for him to understand. Inviting his kindness, not demanding it.",
+      "mood": "gentle_instructive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが新しいゲームを奨めて下さったよ",
+      "en": "Mom, Dad recommended a new game and he gave it to me!",
+      "style": "Quick, bright surprise at the start. Wide-eyed excitement in the middle words. Small laugh-lift on 'gave it to me.' Natural kid enthusiasm, not performed.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ドンドン階段を昇るのは危ないわよ",
+      "en": "Sho, don't stomp up the stairs like that. You could get hurt.",
+      "style": "Alert, quick-response concern. No anger, but immediate. Slight edge on 'stomp'—catching the behavior mid-motion. Soft landing on the reason why.",
+      "mood": "worried_cautious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お風呂で気持ちが浮かび上がってきたよ",
+      "en": "Mom, I felt something light and happy come up in me during my bath!",
+      "style": "Wondering, slightly dreamy. Opening soft and slow. Pauses between phrases like he's looking for the right words. Genuine small-boy discovery, not performance.",
+      "mood": "peaceful_contemplative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが今日は不機嫌そうだから静かにしようね",
+      "en": "Sho, your father seems to be in a bad mood today, so let's be quiet, alright?",
+      "style": "Lowered volume, conspiratorial tone. Gentle warning shared between them—us-and-him feeling. Calm and practical, not alarming. Slight trailing-off after 'alright.'",
+      "mood": "attentive_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと一緒に絵に色を塗るのが好きだよ",
+      "en": "Mom, I love painting pictures with Dad. We do it together.",
+      "style": "Soft, contented voice. Opening with genuine warmth. Slight pause after 'Dad'—he's picturing it. Trailing off gently on the last words, like the memory is still warm in his hands.",
+      "mood": "warm_content"
+    }
+  ]
+}

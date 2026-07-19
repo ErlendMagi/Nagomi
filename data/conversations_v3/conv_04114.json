@@ -1,0 +1,78 @@
+{
+  "id": "conv_04114",
+  "context": "A boss reads the morning political headlines with his manager",
+  "purpose": "Teach: ジャーナリスト/演説/当選/共産党/論議/推測/解明/提起",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ジャーナリスト",
+    "演説",
+    "当選",
+    "共産党",
+    "論議",
+    "推測",
+    "解明",
+    "提起"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おい、今朝のトップニュース見たか?ベテランジャーナリストが共産党幹部の不祥事をすっぱ抜いたぞ。",
+      "en": "Hey, did you see this morning's top news? A veteran journalist exposed a Communist Party executive's scandal.",
+      "style": "Gruff boss tone, casual command, slight excitement reading newspaper aloud."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、私も読みました。昨日の街頭演説の直後ですから、かなり論議を呼ぶでしょうね。",
+      "en": "Yes, I read it too. Right after yesterday's street speech, so it will spark considerable debate.",
+      "style": "Polite measured manager voice, careful diction, respectful agreement."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "問題は、あの議員が前回の選挙で当選確実と言われていたことだ。今後どうなるか、まったく推測の域を出んな。",
+      "en": "The issue is that politician was called a sure win last election. What happens next is pure speculation.",
+      "style": "Thoughtful grumble, lowered voice, executive musing over coffee."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "野党側は早速、真相解明を求める声明を出したそうです。記者会見でも厳しい質問が飛んでいました。",
+      "en": "The opposition apparently issued a statement demanding the truth be uncovered. Tough questions flew at the press conference.",
+      "style": "Briefing tone, factual delivery, slight lean forward as if reporting."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "国会でも問題提起されるのは時間の問題だろう。与党は逃げ切れんぞ、これは。",
+      "en": "It's only a matter of time before this gets raised in the Diet. The ruling party can't dodge this one.",
+      "style": "Confident assertion, finger tapping desk, decisive older male."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おっしゃる通りです。ただ、本人は記者団の前でも一切コメントを避けているようでして。",
+      "en": "Just as you say. However, the person himself seems to be avoiding any comment in front of reporters.",
+      "style": "Diplomatic hedging, soft-spoken qualifier, professional restraint."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "黙っていれば余計に怪しまれるだけだ。さて、社内の朝会も同じくらい白熱した論議になるといいんだがな。",
+      "en": "Staying silent only makes him look more suspicious. Now, hope our morning meeting gets equally heated debate.",
+      "style": "Wry chuckle at end, transitioning from news to office matters."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では、会議室の準備をしておきます。コーヒーのおかわりはいかがですか、社長。",
+      "en": "Then I'll get the meeting room ready. Would you like another coffee, sir?",
+      "style": "Smooth manager wrap-up, deferential closing, attentive service tone."
+    }
+  ]
+}

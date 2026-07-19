@@ -1,0 +1,62 @@
+{
+  "id": "conv_00549",
+  "context": "Sho's annual school health check at Saito's clinic.",
+  "purpose": "small ongoing medical-child relationship",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "健康",
+    "頑張る",
+    "元気",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、健康、特に問題ないですよ。",
+      "en": "Sho-kun, health — no particular issues.",
+      "style": "Doctor warm professional gentle bright sincere-warm reporting-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとうございます。学校、ちゃんと、行ってます。",
+      "en": "Thank you. Going to school properly.",
+      "style": "Tiny six-year-old soft small sincere proud-warm reporting-warm, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "softly-proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "えらい。これからも、頑張ってね。",
+      "en": "Good. Keep working hard.",
+      "style": "Doctor warm gentle sincere bright-warm encouraging-warm closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい。お母さんと、ちゃんと、ご飯、食べてます。",
+      "en": "Yes. With mother, eating properly.",
+      "style": "Tiny six-year-old soft small sincere bright-warm sharing-warm, the small real warmth audible, soft small warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "立派。お母さんに、よろしくね。",
+      "en": "Splendid. Regards to mother.",
+      "style": "Doctor warm gentle sincere closing-warm extending-warm civic, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

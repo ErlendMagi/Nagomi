@@ -1,0 +1,84 @@
+{
+  "id": "conv_04764",
+  "context": "A barista chats with a uni student about a history book",
+  "purpose": "Teach: 東西/南北/に際して/にわたり/東海/本土/中期/大和",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "東西",
+    "南北",
+    "に際して",
+    "にわたり",
+    "東海",
+    "本土",
+    "中期",
+    "大和"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、また分厚い本ですね。それ、最近ベストセラーになってる歴史書ですか?",
+      "en": "Oh, another thick book. Is that the history book that recently became a bestseller?",
+      "style": "Warm, curious barista voice, light and welcoming tone with a gentle smile."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんです。古今東西の戦争史を扱ってて、特に南北朝時代の章が面白くて。",
+      "en": "Yeah. It covers war history from all eras and places, and the chapter on the Northern and Southern Courts period is especially interesting.",
+      "style": "Enthusiastic university student tone, slightly nerdy but friendly, eager to share."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "へえ、大和朝廷の話とかも出てくるんですか?私、東海地方出身なんで、その辺の歴史気になります。",
+      "en": "Wow, does it talk about the Yamato court too? I'm from the Tokai region, so I'm curious about that area's history.",
+      "style": "Friendly conversational tone, leaning in with genuine personal interest."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "出てきますよ。著者は調査に際して、十年にわたり全国の古文書を読み込んだらしいです。",
+      "en": "Yes, it does. Apparently the author spent ten years reading old documents from all over the country for his research.",
+      "style": "Impressed academic tone, conveying respect for scholarly dedication with measured pace."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "十年!?すごい執念ですね。日本本土だけじゃなくて沖縄や離島も回ったのかな。",
+      "en": "Ten years? That's incredible dedication. I wonder if he traveled to Okinawa and the remote islands too, not just the Japanese mainland.",
+      "style": "Impressed and slightly playful barista, warm exclamation with genuine wonder."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "回ったみたいですよ。特に江戸中期の資料が貴重で、評価が高いんです。",
+      "en": "Apparently he did. The mid-Edo period materials are particularly valuable, and they're highly regarded.",
+      "style": "Calm, informative university student delivery, settling into the topic comfortably."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今度買ってみます。読むときに留意すべき点とかありますか?",
+      "en": "I'll buy it next time. Are there any points I should keep in mind when reading it?",
+      "style": "Eager and humble barista, asking advice with deferential warmth and curiosity."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "序章が少し硬いので、第二章から読むのをおすすめします。慣れたら戻る感じで。",
+      "en": "The prologue is a bit dry, so I recommend starting from chapter two. You can come back to it once you're used to the style.",
+      "style": "Helpful, slightly senpai-like advisory tone, generous with practical reading tips."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど、参考になります。コーヒーおかわり、サービスしときますね。",
+      "en": "I see, that's helpful. I'll give you a free coffee refill, on the house.",
+      "style": "Cheerful and grateful barista voice, ending with a friendly little perk offer."
+    }
+  ]
+}

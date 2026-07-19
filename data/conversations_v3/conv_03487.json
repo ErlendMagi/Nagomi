@@ -1,0 +1,90 @@
+{
+  "id": "conv_03487",
+  "context": "A citizen visits the ward office to receive a certificate",
+  "purpose": "Teach: 鈴木/配布/交付/給与/口座/同社/同一/排除",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鈴木",
+    "配布",
+    "交付",
+    "給与",
+    "口座",
+    "同社",
+    "同一",
+    "排除"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_175 workflow w1swddwqe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "すみません、住民票の交付をお願いしたいんですが、鈴木という名字で予約していました。",
+      "en": "Excuse me, I'd like to request the issuance of a residence certificate; I made the reservation under the name Suzuki.",
+      "style": "Polite middle-aged man addressing a counter clerk, slightly hurried but courteous"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "鈴木様ですね、確認いたします。先ほど受付で配布した整理券はお持ちでしょうか。",
+      "en": "Mr. Suzuki, yes, let me check. Do you have the numbered ticket we handed out earlier at reception?",
+      "style": "Crisp professional civil servant tone, businesslike yet warm and reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "あ、これです。実は給与の振込先を変えるので、新しい口座の手続きにも使う書類なんです。",
+      "en": "Ah, here it is. Actually, I'm changing where my salary gets deposited, so this document is also needed for setting up a new bank account.",
+      "style": "Apologetic explanatory tone, hands the ticket over while clarifying his purpose"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど、給与振込のお手続きでしたら、勤務先に届け出ているご住所と同一の表記になっているか、ご確認ください。",
+      "en": "I see. For salary transfer procedures, please check that the address notation matches exactly the one registered with your employer.",
+      "style": "Helpful procedural advisory, slow and deliberate emphasis on accuracy"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うちの会社の総務からも、区長印の入った正式な証明書が必要だと言われまして。ちなみに同社の他の支店もこの書式で出しているそうです。",
+      "en": "Our company's general affairs section also told me they need an official certificate bearing the ward head's seal. By the way, that same company's other branches apparently submit it in this format too.",
+      "style": "Mildly anxious explanation conveying pressure from his workplace requirements"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "承知しました。なりすましなどの不正を排除するため、本人確認を二重に行っております。免許証を拝見できますか。",
+      "en": "Understood. To eliminate impersonation and other fraud, our ward conducts identity verification twice over. May I see your driver's license?",
+      "style": "Formal bureaucratic phrasing, polite but firm about the protocol"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、どうぞ。そういえば今朝の朝日新聞に、官僚の手続きを簡略化する決議案の記事が出ていましたね。元裁判官の議員が提案したとか。",
+      "en": "Yes, here you go. Speaking of which, this morning's Asahi Shimbun had an article about a resolution to simplify bureaucratic procedures. Apparently a lawmaker who used to be a judge proposed it.",
+      "style": "Casual small-talk while handing over ID, friendly and curious tone"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、私もちらっと拝見しました。政治のことは何とも申し上げられませんが、現場の仕事が少しでも楽になればありがたいですね。",
+      "en": "Yes, I glanced at it too. I can't really comment on political matters, but if our work on the front line becomes even a little easier, we'd be grateful.",
+      "style": "Light deflection avoiding political commentary, momentarily personable behind the counter"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当ですね。あの決議案が通れば、市長や総裁が言うほど簡単ではないにしても、窓口に並ぶ手間も減って、私たちの地位の低い一般市民としても助かりますよ。",
+      "en": "Truly. If that resolution passes, even if it's not as easy as the mayor or party president claims, the trouble of lining up at counters would decrease, and it would help us ordinary citizens of low standing too.",
+      "style": "Thoughtful agreeable musing with a self-deprecating chuckle of resignation"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お待たせしました、鈴木様。こちらが交付書類です。右手の記載台にペンをご用意しております。",
+      "en": "Thank you for waiting, Mr. Suzuki. Here are your issued documents. We have pens prepared on the writing counter to the right.",
+      "style": "Returning to crisp official register, concluding the transaction smoothly and warmly"
+    }
+  ]
+}

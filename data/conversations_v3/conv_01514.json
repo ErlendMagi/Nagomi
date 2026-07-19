@@ -1,0 +1,61 @@
+{
+  "id": "conv_01514",
+  "context": "Mrs. Mori brings homemade pickles over to Yumiko's; they chat.",
+  "purpose": "Neighborly food exchange; warm community tradition.",
+  "ambient": "kitchen_afternoon_clock",
+  "sound_effects": [],
+  "target_vocab": [
+    "漬物",
+    "野菜",
+    "近所",
+    "分け"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "これ、おすそ分け、漬物よ。",
+      "en": "Here—some homemade pickles for you.",
+      "style": "Warm, unhurried presentation. Slight lift on the offering itself. The ease of someone used to giving. No performance, just genuine generosity.",
+      "mood": "warm_generous"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、いつもありがとう。",
+      "en": "Oh, thank you as always.",
+      "style": "Gentle acceptance, genuinely pleased. Soft landing on the gratitude. The rhythm of an old kindness, familiar and welcomed.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "野菜が余ったから、ね。",
+      "en": "I had vegetables left over, you know.",
+      "style": "Matter-of-fact, almost dismissive of her own generosity. Warm undertone—this is just what neighbors do. No fuss, no fishing for compliments.",
+      "mood": "modest_practical"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お夕飯にいただくわね。",
+      "en": "I'll enjoy it at dinner.",
+      "style": "Brighter here—genuine anticipation breaking through the polite surface. Soft, warm close. She means it.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ、また作るね。",
+      "en": "Well, I'll make some more then.",
+      "style": "Small laugh underneath the words. A promise wrapped in ease. Settled, neighborly certainty. No obligation—just the simple pleasure of continuing.",
+      "mood": "warm_promise"
+    }
+  ]
+}

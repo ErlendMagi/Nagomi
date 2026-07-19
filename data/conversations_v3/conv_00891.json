@@ -1,0 +1,62 @@
+{
+  "id": "conv_00891",
+  "context": "Hina asks Sho if they can stay up late.",
+  "purpose": "children possibility-question exchange",
+  "ambient": "bedroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "可能",
+    "一緒",
+    "楽しい",
+    "楽しみ",
+    "夜"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_045)",
+    "generated_at": "2026-05-27T02:39:30.683Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、今夜、遅くまで、可能？",
+      "en": "Sho — do you think you could stay up late tonight with me?",
+      "style": "Bright, eager opening. Genuine child-warmth, no performing. Quick rise on the question, hopeful lilt at the end. Soft throughout, like she's really asking, not demanding.",
+      "mood": "hopeful_bright"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うーん、お母さん、聞こう。",
+      "en": "Um — I'll ask my mom.",
+      "style": "Quiet, thoughtful pause before answering. Small voice, genuine consideration. No rush. Warm but practical — he's already thinking through the real constraint.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、お話、したい。",
+      "en": "I really want to tell you stories together.",
+      "style": "Tender, sincere opening. Child-simple but emotionally clear. Soft pace. No rush — she's reaching for something real. Slight trailing softness on 'together'.",
+      "mood": "sincere_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夜、楽しみ。",
+      "en": "I'm excited about tonight.",
+      "style": "Quiet genuine warmth. Small smile audible in the voice. Simple statement, no over-performance. Genuine anticipation without loudness.",
+      "mood": "warm_anticipatory"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい時間、一緒に。",
+      "en": "We'll have fun if we're together.",
+      "style": "Bright, genuine closing. Child-warm and certain. Soft delivery but with real conviction underneath. Slight linger on the last word — settling into the idea.",
+      "mood": "joyful_connection"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08455",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 逐次/紀元前/派兵/軽蔑/露呈/否決/法務大臣/会計検査院",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "逐次",
+    "紀元前",
+    "派兵",
+    "軽蔑",
+    "露呈",
+    "否決",
+    "法務大臣",
+    "会計検査院"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、契約書を逐次確認しろ",
+      "en": "Check our contracts systematically.",
+      "style": "Even, commanding tone without sharpness. Direct eye contact. Measured pace. The weight of expectation, not urgency—this is how things are done.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。紀元前のロゴ歴史を社史に記載します",
+      "en": "Understood. I'll make sure the company history includes the logo's origins.",
+      "style": "Attentive, slightly formal. Respectful lean. Taking notes mentally as he listens. Steady, reliable tone—showing he's already thinking through the task.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の海外派兵に近い長期出張も支援しろ",
+      "en": "Support our people through long-term assignments abroad. Treat it like the commitment it is.",
+      "style": "Clear, deliberate. Slight pause before 'long-term' to mark its weight. Not harsh—expectant. A brief glance to ensure it lands.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様への軽蔑的対応は厳禁としております",
+      "en": "Yes. We maintain zero tolerance for disrespect toward our clients.",
+      "style": "Firm affirmation. Quick, crisp delivery. No apology in the tone—stating fact. Eyes steady, shoulders back slightly.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の問題が露呈する前に手を打て",
+      "en": "Identify industry risks before they surface. Act preemptively.",
+      "style": "Quiet intensity. Slower than before, each word deliberate. Leans forward slightly. Not a threat—a principle being restated.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。取締役会で否決された案件を再検討します",
+      "en": "Understood. We'll revisit the proposals the board rejected.",
+      "style": "Rapid acknowledgment, then thoughtful pause. Showing he's already turning the previous decision over in his mind. Respectful but engaged.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、法務大臣と意見交換の機会を作れ",
+      "en": "Create an opportunity for us to exchange views with the Justice Minister.",
+      "style": "Measured, high-stakes instruction. Slight lift at the end—not a question, but acknowledging it's an ambitious ask. Calm authority.",
+      "mood": "intentional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会計検査院の指摘事項に対応しております",
+      "en": "Yes. We're already addressing the issues raised by the Audit Board.",
+      "style": "Final confirmation—briefer than before, slightly faster. Closing note. Professional finality, showing readiness to move forward.",
+      "mood": "resolved"
+    }
+  ]
+}

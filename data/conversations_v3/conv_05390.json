@@ -1,0 +1,72 @@
+{
+  "id": "conv_05390",
+  "context": "A police officer briefs a uni reporter about administrative procedures",
+  "purpose": "Teach: 数量/要領/対談/補佐/試行錯誤/フォーマット/一昨年/当分",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "数量",
+    "要領",
+    "対談",
+    "補佐",
+    "試行錯誤",
+    "フォーマット",
+    "一昨年",
+    "当分"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件の受理数量、要領通り処理しています。",
+      "en": "We're processing the intake volume for this case according to standard procedure.",
+      "style": "Measured, official tone. Even pacing. No rush—the rhythm of someone used to explaining process. Brief pause before the period, like it's on a form somewhere.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "担当補佐がフォーマット化しているんですか。",
+      "en": "Your assistant is handling the formatting?",
+      "style": "Genuine curiosity breaking through formality. Slight lean-in on the question. Not challenging—actually interested in the mechanism.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。一昨年から運用を始めた様式です。",
+      "en": "Yes. It's the system we started using the year before last.",
+      "style": "Patient, matter-of-fact. A small clarifying nod in the voice. Precise on the timeline—this is institutional knowledge he carries lightly.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "対談やヒアリング、当分続けるんですか。",
+      "en": "Are you planning to keep doing interviews and outreach for a while?",
+      "style": "Thoughtful pause before speaking. Genuine question, not procedural. A bit of hope underneath—wanting to know if this matters to them beyond compliance.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。試行錯誤しながら市民との接点を増やしています。",
+      "en": "Yes. We're experimenting, trying to build more connections with the community.",
+      "style": "Slight warmth emerging underneath the official language. Slower on \"trial and error\"—admitting uncertainty, but without apology. Sincere.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございました。",
+      "en": "Thank you.",
+      "style": "Quiet respect. A beat of genuine gratitude. Simple, unadorned. The relief of someone who feels heard.",
+      "mood": "grateful"
+    }
+  ]
+}

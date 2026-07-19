@@ -1,0 +1,84 @@
+{
+  "id": "conv_04227",
+  "context": "An office worker guides a barista friend through publishing online",
+  "purpose": "Teach: ペーパー/ポリシー/フレーム/ドライバー/転載/改行/文字数/全角",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ペーパー",
+    "ポリシー",
+    "フレーム",
+    "ドライバー",
+    "転載",
+    "改行",
+    "文字数",
+    "全角"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "ブログ始めるんでしょ？まず投稿のフレームを決めとくと楽だよ。",
+      "en": "Starting a blog, right? Decide your post frame first—it makes life easier.",
+      "style": "Friendly office-worker tone, casual encouraging advice between friends"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとう。実はペーパー日記みたいなのは書いてたんだけど、ネットは初めてで。",
+      "en": "Thanks. I've kept a paper journal, but posting online is totally new to me.",
+      "style": "Hesitant barista voice, soft and slightly nervous about new territory"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "まずプライバシーポリシーのページを作ろう。コーヒー豆の仕入れ先とかは載せちゃダメだよ。",
+      "en": "Start with a privacy policy page. Don't post things like bean suppliers publicly.",
+      "style": "Practical advice tone, gently warning about online disclosure pitfalls"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど。あと他のカフェの記事を勝手に転載するのもまずいよね？",
+      "en": "I see. And reposting other cafes' articles without permission is also bad, right?",
+      "style": "Curious learner tone, checking understanding with a thoughtful question"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、無断はアウト。あと意外と大事なのが文字数と改行のバランスね。",
+      "en": "Yeah, unauthorized is out. Character count and line breaks matter more than you think.",
+      "style": "Confident mentor tone, sharing practical tips about online readability"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "改行少ないと読みにくいよね。スマホだと特に。",
+      "en": "Fewer line breaks really hurt readability, especially on smartphones I've noticed.",
+      "style": "Engaged barista reflecting on her own reading habits and experiences"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうそう。あと全角の英数字混ぜると見栄え悪いから、半角で統一して。",
+      "en": "Exactly. Mixing full-width letters looks messy, so stick to half-width throughout.",
+      "style": "Detail-oriented office worker giving precise formatting guidance kindly"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "細かいなあ。でも私のサイト、まだ画像アップロードのドライバーが上手く動かなくて。",
+      "en": "So detailed! But my site's image upload driver isn't even working properly yet.",
+      "style": "Slightly overwhelmed laugh, admitting technical struggles with humor"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あはは、それは後で一緒に直そう。とりあえず週一更新のポリシーで気楽にやりなよ。",
+      "en": "Haha, we'll fix that together later. Start with a weekly-post policy and relax.",
+      "style": "Warm closing reassurance, supportive friend wrapping up the lesson gently"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08021",
+  "context": "Mom and son chat",
+  "purpose": "Teach: まんま/とび/破っ/お方/挟ま/うなずい/つかえ/ぶら",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "まんま",
+    "とび",
+    "破っ",
+    "お方",
+    "挟ま",
+    "うなずい",
+    "つかえ",
+    "ぶら"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お洋服のまんま寝ちゃダメよ",
+      "en": "Sho, you can't go to sleep with your clothes still on.",
+      "style": "Gentle correction. Soft but firm. The tone of a mother who's said this before and will say it again. No sharpness — just steady expectation.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お庭にとびがいたよ",
+      "en": "Mom, there was a kite in the garden!",
+      "style": "Bright, immediate excitement. Eyes wide. Quick breath intake before the announcement. Barely contained delight — he wants her to understand how special this is.",
+      "mood": "amazed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お約束を破っちゃダメよ",
+      "en": "Sho, you know better than to break a promise.",
+      "style": "Steady, quieter than before. Not angry — disappointed in a way that lands harder. A reminder of something he already knows. Slight pause before the sentence, like she's giving him a chance to remember himself.",
+      "mood": "disappointed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんは優しいお方ね",
+      "en": "Mom, Grandpa is such a gentle person, isn't he?",
+      "style": "Thoughtful, observant. Soft and wondering. He's noticed something real and is testing it with her — seeking confirmation, not seeking approval. The rhythm of genuine noticing.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんとぼくの間に挟まないでね",
+      "en": "Sho, don't try to play both sides between your dad and me.",
+      "style": "Firmer now. The mother protecting a boundary. Not unkind, but clear. The smallest edge of concern underneath — she sees what he's doing and wants to stop it gently before it becomes a pattern.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんのお話にうなずいたよ",
+      "en": "Mom, I listened to Grandma's story and nodded along.",
+      "style": "Proud, gentle. Quiet satisfaction in his small voice. He's done something good and is reporting it like offering a gift — not for praise, just for her to know. Slight lift at the end.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お喉に何かつかえてない?",
+      "en": "Sho, is there something caught in your throat?",
+      "style": "Noticing shift. Her focus narrows. Gentle concern, listening past his words. The question is tender but practical — she's reading his voice for something he hasn't said yet.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お庭をぶらっとお散歩してくる",
+      "en": "Mom, I'm going to take a walk around the garden.",
+      "style": "Quiet resolution. Not asking permission — informing gently. Content in his own company. A small moment of independence, stated softly. Natural, unrushed rhythm.",
+      "mood": "peaceful"
+    }
+  ]
+}

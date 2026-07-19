@@ -1,0 +1,72 @@
+{
+  "id": "conv_05553",
+  "context": "A police officer briefs a uni reporter about public safety",
+  "purpose": "Teach: 襲わ/サミット/襲撃/欠席/尊厳/盗難/扶助/濃厚",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "襲わ",
+    "サミット",
+    "襲撃",
+    "欠席",
+    "尊厳",
+    "盗難",
+    "扶助",
+    "濃厚"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "最近、街中で人が襲われる事案、増えています。",
+      "en": "We've been seeing a rise in street assault cases lately.",
+      "style": "Measured, official opening. Clear delivery without urgency. Slight pause after 'lately' — framing facts, not alarming. Eye level.",
+      "mood": "composed_factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "襲撃の手口、変わってきていますか。",
+      "en": "Have the attack methods been changing?",
+      "style": "Lean forward slightly — genuine intellectual curiosity. Quick, attentive. Not defensive, just probing. Notebook ready.",
+      "mood": "alert_thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。盗難と組み合わさるケースも濃厚に増えました。",
+      "en": "Yes. We're seeing a significant increase in cases where theft is also involved.",
+      "style": "Steady procedural tone. Slight emphasis on 'significant' — not casual. Clinical but not cold. Maintaining professional distance while staying human.",
+      "mood": "concerned_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "相談窓口の欠席率、人手不足が原因ですか。",
+      "en": "Is the help-desk struggling because of staff shortages?",
+      "style": "Thoughtful pause before asking. Connects the dots aloud — not accusatory, analytical. Pen poised. Waiting for the answer that matters.",
+      "mood": "perceptive_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "扶助制度の見直しも、サミット級の議題です。",
+      "en": "The support system needs restructuring, too — it's a priority-level issue.",
+      "style": "Candid, almost weary. Not defensive, but this is the part that weighs on him. Slight drop in pitch. He's seen the system gap firsthand.",
+      "mood": "resigned_honest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の尊厳、守るために何が必要か、書いていきます。",
+      "en": "I need to write about what it takes to protect victims' dignity.",
+      "style": "Conviction settles in. Voice steadies — this is why he's here. Quiet determination. No performative resolve, just clarity of purpose.",
+      "mood": "determined_grounded"
+    }
+  ]
+}

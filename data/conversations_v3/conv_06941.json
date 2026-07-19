@@ -1,0 +1,86 @@
+{
+  "id": "conv_06941",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 車検/よき/よん/缶詰/立ち読み/度々/あした/嫌がらせ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "車検",
+    "よき",
+    "よん",
+    "缶詰",
+    "立ち読み",
+    "度々",
+    "あした",
+    "嫌がらせ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_349 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんの車、車検、来月だよね、整備、お願いするんでしょ?",
+      "en": "Mom, Dad's car inspection is coming up next month, right? We're getting it serviced?",
+      "style": "Light, conversational curiosity. Sho is thinking aloud, checking a fact he half-knows. His tone lifts slightly on the question — not anxious, just noticing details.",
+      "mood": "curious_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。よき朝に、目覚めるって、本当に、気持ちいいわよね、翔くん、ぐっすり、眠れた?",
+      "en": "Yes. There's something really nice about waking up well-rested, isn't there, Sho? Did you sleep soundly?",
+      "style": "Gentle, reflective opening. Yumiko speaks like she's already awake and settled — warm but not performing warmth. A natural segue that shows she noticed something in his face.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ぼく、よん時くらいに、夢から、目が、覚めちゃったよ、ママ、本当に、変な夢、見たんだ。",
+      "en": "I woke up around four in the morning from a dream, Mom. It was a really strange one.",
+      "style": "Matter-of-fact, slightly resigned. Sho isn't complaining — he's reporting. A small shrug in the voice. He trusts his mother will listen without making it bigger than it is.",
+      "mood": "thoughtful_tired"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "非常用に、缶詰、ストック、増やしておきましょうね、翔くん、お父さんと、買い物、行きましょう。",
+      "en": "We should stock up on emergency supplies. Come shopping with Dad and me, okay, Sho?",
+      "style": "Practical and reassuring. Yumiko shifts gears without fuss — she's already thinking ahead. Her tone is matter-of-fact but warm, turning a task into time together.",
+      "mood": "practical_caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "本屋さんで、立ち読み、お父さん、よく、しちゃうって、知ってた、ママ?",
+      "en": "Did you know Dad does a lot of standing and reading at the bookstore? He does that often.",
+      "style": "Playful observation, slightly conspiratorial. Sho is sharing a small discovery — he's watched his father, noticed a habit, and wants to tell someone. Genuine amusement underneath.",
+      "mood": "amused_knowing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "最近、度々、お祖父ちゃんち、訪ねるようになったわね、翔くん、お祖父ちゃん、嬉しそうよ、本当に。",
+      "en": "You've been visiting Grandpa's place more often lately, haven't you? He seems really happy about it.",
+      "style": "Warm recognition. Yumiko speaks like she's noticed something good happening and is quietly pleased. Gentle cadence — not probing, just acknowledging what she's seen.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "あした、お祭り、行くんでしょ、ママ、楽しみ、待ちきれないよ、ぼく、本当に、ワクワクしてる!",
+      "en": "We're going to the festival tomorrow, right, Mom? I can't wait. I'm really excited!",
+      "style": "Bright, bubbling energy. Sho's excitement breaks through — his voice lifts and speeds slightly. Genuine anticipation, the kind that makes him want to share it.",
+      "mood": "eager_excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "学校で、嫌がらせ、あったら、すぐ、ママに、相談してね、翔くん、約束よ、絶対、忘れないでね。",
+      "en": "If anyone ever bothers you at school, promise you'll tell me right away, Sho. Don't forget that promise, okay?",
+      "style": "Steady and direct, but not stern. Yumiko's protective instinct is clear, but her voice stays calm and close — this is a contract between them, spoken with quiet seriousness.",
+      "mood": "protective_firm"
+    }
+  ]
+}

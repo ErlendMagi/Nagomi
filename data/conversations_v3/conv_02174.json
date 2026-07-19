@@ -1,0 +1,79 @@
+{
+  "id": "conv_02174",
+  "context": "Kenji helps a young employee fix a roof leak at the office.",
+  "purpose": "Mentor and apprentice solving practical problem.",
+  "ambient": "ceiling_low_repair",
+  "sound_effects": [],
+  "target_vocab": [
+    "屋根",
+    "薄い",
+    "当たる",
+    "草",
+    "抜け",
+    "止まっ",
+    "関数",
+    "当て"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "蓮、屋根の薄い部分、見てくれ。",
+      "en": "Ren — check out the thin section of the roof there.",
+      "style": "Easy, practical tone. Points with his voice — directing attention without urgency. Warm and collaborative, like inviting him to solve something together.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "雨、ここに当たって、抜けてますね。",
+      "en": "Rain's hitting here and coming straight through.",
+      "style": "Quiet realization as he traces the problem. Careful, observant. The slight hesitation of someone checking his own logic before speaking.",
+      "mood": "focused_concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "草、屋根に生えてるな。",
+      "en": "There's grass growing up there too.",
+      "style": "Noticing aloud, almost to himself. Warm, gentle observation — not criticizing whoever let it happen. The tone of someone who's seen these things before.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "関数的に、止まるとこ、計算しないと。",
+      "en": "We'll need to calculate where the water's actually stopping.",
+      "style": "Thinking out loud, precise. Not rushing. The careful deliberation of someone who works in systems and doesn't cut corners.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "当てる場所、決めよか。",
+      "en": "So — should we decide where to put the patch?",
+      "style": "Inviting him into the decision. Warm and encouraging, treating him as equal to the task. Light, forward-moving energy.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、ここで、修理しましょう。",
+      "en": "Yeah, let's repair it here.",
+      "style": "Quiet commitment. Slight uptick of confidence — he's arrived at the answer. Genuine, not performed.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ判断や!",
+      "en": "That's a smart call!",
+      "style": "Genuine approval — quick and warm. Pleased surprise in the opening word. The affection of someone proud of the younger person beside him.",
+      "mood": "warm_proud"
+    }
+  ]
+}

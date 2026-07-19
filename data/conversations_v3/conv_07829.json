@@ -1,0 +1,86 @@
+{
+  "id": "conv_07829",
+  "context": "Officer briefs",
+  "purpose": "Teach: 持ち込む/値引き/コツコツ/売店/上層/掛かり/精算/夜勤",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "持ち込む",
+    "値引き",
+    "コツコツ",
+    "売店",
+    "上層",
+    "掛かり",
+    "精算",
+    "夜勤"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_393 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、押収物、絶対、持ち込む、絶対、保管庫、絶対、強化しました、本気で、感謝",
+      "en": "We've genuinely strengthened our evidence storage procedures. We really appreciate your patience.",
+      "style": "Even, professional tone. Steady pacing. Pride in competence without boasting. Brief pause after the first clause. Respectful closure.",
+      "mood": "professional_earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、値引き、絶対、講習、絶対、地域に、絶対、提供されてありがたいです、本気で、感謝",
+      "en": "Yes. We're truly grateful for the training seminars and community outreach the police have provided.",
+      "style": "Warm, genuine appreciation. Nod in the voice. Slightly slower on 'truly grateful'—he means it. Respectful but not deferential.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、コツコツ、絶対、捜査、絶対、進めております、本気で、感謝",
+      "en": "We're steadily moving forward with the investigation. Thank you for your cooperation.",
+      "style": "Measured, patient. Quiet confidence about methodical work. Small pause before 'thank you'—he's checking that Kenji understands this takes time.",
+      "mood": "methodical_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、売店、絶対、近くで、絶対、巡回ありがたいです、本気で、感謝",
+      "en": "Yes. It's really reassuring to see the increased patrols around the neighborhood.",
+      "style": "Calm relief in the voice. Not over-emphatic, but genuine warmth. Slight lean forward on 'really reassuring.' Steady eye contact level.",
+      "mood": "reassured_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、上層、絶対、部、絶対、決済、絶対、進めております、本気で、感謝",
+      "en": "Management has approved moving ahead with the claims settlement. We're on it.",
+      "style": "Direct, competent. No flourish—just facts. Quiet assurance underneath. Brief, because the work speaks for itself.",
+      "mood": "capable_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、掛かり、絶対、官、絶対、ご対応ありがたいです、本気で、感謝",
+      "en": "Yes. We're very grateful for how quickly your department has handled everything.",
+      "style": "Earnest, straightforward. Not overly warm but genuinely appreciative. Even pacing. Respectful weight on 'very grateful.'",
+      "mood": "appreciative_steady"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、被害金の、絶対、精算、絶対、進めております、本気で、感謝",
+      "en": "The compensation process is underway. We're committed to resolving this quickly.",
+      "style": "Calm assurance. Professional but not cold. Slight emphasis on 'quickly'—he's heard the urgency. Stable, reliable tone.",
+      "mood": "committed_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の、本気で、絶対、夜勤、絶対、巡回、絶対、安心です、本気で、感謝",
+      "en": "Yes. We feel much safer knowing there are night patrols. Thank you.",
+      "style": "Quiet relief. Genuine warmth. Slower on 'much safer'—it matters. Soft, sincere close on the thanks. Almost a breath at the end.",
+      "mood": "safe_grateful"
+    }
+  ]
+}

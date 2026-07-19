@@ -1,0 +1,86 @@
+{
+  "id": "conv_08281",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 待望/見慣れ/あいにく/小麦/大まか/風習/嘆き/気まぐれ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "待望",
+    "見慣れ",
+    "あいにく",
+    "小麦",
+    "大まか",
+    "風習",
+    "嘆き",
+    "気まぐれ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_416 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、待望の遠足、明日よ",
+      "en": "Sho, your big field trip is tomorrow.",
+      "style": "Warm, gently building excitement. Bright opening. Slow enough for him to feel included. A mother's delight in having something to look forward to.",
+      "mood": "warm_anticipation"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、見慣れたお祖父ちゃんちが、一番落ち着くよ",
+      "en": "Mom, I feel most calm at Grandpa's house — the one I always know.",
+      "style": "Quiet certainty. No hesitation. Eyes focused somewhere safe. The steady voice of a child who has found his anchor. Small and genuine.",
+      "mood": "content_grounded"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、あいにく今日は雨予報よ",
+      "en": "Sho, unfortunately the forecast says rain tomorrow.",
+      "style": "Gentle letdown delivered without drama. A slight pause before the news. Measured pace. Her practical mind already shifting to what this means for plans.",
+      "mood": "thoughtful_resigned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと小麦アレルギーのお話したよ",
+      "en": "Mom, I already talked to Dad about the wheat allergy thing.",
+      "style": "Small pride in his own careful planning. Speaking to the practical part of her he understands. Quiet competence. No seeking reassurance — reporting something handled.",
+      "mood": "self_assured"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんのご予定、大まかに聞いたわ",
+      "en": "Sho, I've already asked Grandpa roughly what he has planned.",
+      "style": "Practical efficiency. Quick, assured. The mother who thinks ahead and manages details without fuss. A slight nod in her voice — box checked.",
+      "mood": "organised"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祭りの風習、楽しみだよ",
+      "en": "Mom, I'm really looking forward to the festival traditions.",
+      "style": "Genuine brightness breaking through. His voice lifts on 楽しみ. Small boy rediscovering something he loves about these visits. Eager but not loud.",
+      "mood": "eager_genuine"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「嘆きの壁」のお話してたわよ",
+      "en": "Sho, your dad was telling me about the Wailing Wall.",
+      "style": "Gentle, reflective tone. She's sharing something she finds interesting. A small smile in her voice at the memory of him explaining it. Unhurried.",
+      "mood": "warmly_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんは気まぐれな性格って、笑ってたよ",
+      "en": "Mom, Dad was laughing about how his personality is kind of unpredictable.",
+      "style": "Dry, knowing edge. A small laugh just underneath. He's noticed something about his father and found it funny rather than frustrating. Adult-adjacent observation from a six-year-old. Wry but not unkind.",
+      "mood": "wry_affectionate"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03957",
+  "context": "An office helpdesk worker walks a barista through password recovery",
+  "purpose": "Teach: ウェブサイト/暗号/転送/無効/流出/用途/任務/通用",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウェブサイト",
+    "暗号",
+    "転送",
+    "無効",
+    "流出",
+    "用途",
+    "任務",
+    "通用"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "すみません、お店の公式ウェブサイトにログインできなくて…パスワードが無効ですって出ます。",
+      "en": "Sorry, I can't log into the shop's official website. It says my password is invalid.",
+      "style": "Apologetic, slightly panicked customer service voice asking for help"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "落ち着いてください。まずパスワード再設定のリンクを、登録メールに転送しますね。",
+      "en": "Please calm down. First I'll forward the password reset link to your registered email.",
+      "style": "Calm professional helpdesk tone, reassuring and methodical"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。実は先週、お客様情報の流出があったってニュースで見て、不安で…",
+      "en": "Thank you. Actually I saw on the news there was a customer data leak last week, so I'm worried.",
+      "style": "Worried, lowered voice expressing genuine anxiety about security"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご心配なく。あの件以降、通信はすべて新しい暗号方式に切り替えてあります。",
+      "en": "No need to worry. Since that incident, all communications have been switched to a new encryption method.",
+      "style": "Confident technical explanation, warm but authoritative tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんですね。このアカウント、シフト管理とレジ両方の用途で使ってるので、止まると本当に困るんです。",
+      "en": "I see. I use this account for both shift management and the register, so it's really troublesome when it's down.",
+      "style": "Relieved but explanatory, describing daily work dependencies"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかります。届いたリンクから新しいパスワードを設定してください。古いものはもう通用しませんので。",
+      "en": "I understand. Please set a new password from the link you receive. The old one won't work anymore.",
+      "style": "Patient instructional voice, walking through steps clearly"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、メール届きました!設定できました。本当に助かりました。",
+      "en": "Oh, the email arrived! I've set it. You've really saved me.",
+      "style": "Bright relieved tone, genuine gratitude with audible smile"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お役に立てて何よりです。お客様の安全を守るのが私たちの任務ですから。",
+      "en": "I'm glad I could help. Protecting our customers' safety is our mission, after all.",
+      "style": "Warm closing remark, professional pride softened with kindness"
+    }
+  ]
+}

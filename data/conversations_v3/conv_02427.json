@@ -1,0 +1,81 @@
+{
+  "id": "conv_02427",
+  "context": "Saito explains a recovery plan to a patient.",
+  "purpose": "WIDENED SCENARIO: medical consultation; clinical vocabulary in its natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "障害",
+    "精神",
+    "非常",
+    "固定",
+    "男性"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_122)",
+    "generated_at": "2026-05-29T12:42:34.293Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "先生、この症状は重いんでしょうか?",
+      "en": "Doctor, is this condition serious?",
+      "style": "worried office man voice, soft warm anxious earnest throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "機能の障害は、軽い段階です。",
+      "en": "The functional impairment is at a mild stage.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "日常生活に、影響しますか?",
+      "en": "Will it affect daily life?",
+      "style": "concerned office man voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "しばらく、腕を固定する必要があります。",
+      "en": "You'll need to keep the arm fixed for a while.",
+      "style": "clear doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "精神的にも、つらくて。",
+      "en": "It's mentally hard too.",
+      "style": "vulnerable office man voice, soft warm quiet honesty throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "精神面の不安は、非常に自然なことです。",
+      "en": "Mental anxiety is a very natural thing.",
+      "style": "gentle doctor voice, soft warm reassuring compassionate clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同じ症状の男性は、多いですか?",
+      "en": "Are there many men with the same condition?",
+      "style": "curious office man voice, soft warm earnest throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "同年代の男性に、よく見られます。",
+      "en": "It's often seen in men your age.",
+      "style": "informative doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "安心しました。指示に従います。",
+      "en": "I'm relieved. I'll follow your instructions.",
+      "style": "reassured office man voice, soft warm calmer grateful throughout"
+    }
+  ]
+}

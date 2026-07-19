@@ -1,0 +1,86 @@
+{
+  "id": "conv_06413",
+  "context": "A doctor discusses medical issues",
+  "purpose": "Teach: 王者/焦り/断る/発散/流用/取り残さ/風情/跡地",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "王者",
+    "焦り",
+    "断る",
+    "発散",
+    "流用",
+    "取り残さ",
+    "風情",
+    "跡地"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、業界の王者と呼ばれる病院、最新医療、進んでいます。",
+      "en": "Ren — this hospital has a reputation as an industry leader. They have the latest technology, and they're always advancing.",
+      "style": "Clear, measured opening. Direct but not stern. Sharing information she's confident in. Steady eye contact, slight pause before the comma to let weight settle.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者、焦りで誤判断、しがちですね。",
+      "en": "Patients often make poor decisions when they're panicking, don't they?",
+      "style": "Genuine curiosity — not rhetorical. Soft lean forward. Seeking his agreement, not lecturing. Interested in where his thinking goes.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。治療を断る権利、患者にもあります。",
+      "en": "That's right. Patients have the right to refuse treatment, even here.",
+      "style": "Affirming and calm. A small nod implicit in the voice. Not arguing, confirming what matters. The tone of someone who has seen this choice made.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ストレス、発散する手段、医師として推奨しますか。",
+      "en": "As a doctor, would you recommend stress relief as something people should do?",
+      "style": "Probing gently. Not testing him — genuinely opening a door. Slight curiosity in the lilt. Waiting for his real answer, not the polite one.",
+      "mood": "thoughtful_probe"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。研究費の流用、業界で問題視されてます。",
+      "en": "Yes. Fund diversion in research — it's becoming a real problem in the industry.",
+      "style": "Straightforward concern. A slight tightness in delivery, like she's being honest about something that frustrates her. No softening the issue.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地方医療、取り残されない仕組み、必要ですね。",
+      "en": "Rural medicine needs a system so no one gets left behind, doesn't it?",
+      "style": "Quiet agreement in his question. Not urgent, but clear about what matters. Thoughtful pause before the question tag. Seeking her nod.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。療養所、風情ある場所で、患者、癒される。",
+      "en": "Yes. There's something healing about a sanatorium in a beautiful, quiet place — it helps patients recover in ways hospitals can't.",
+      "style": "Reflective, almost meditative. Slower pace. She's thinking of actual patients she's known. Slight wistfulness on 'quiet.' Voice settles at the end.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "閉院した跡地、再活用の動き、ありますか。",
+      "en": "Are there any movements to repurpose those closed hospital sites?",
+      "style": "Genuine inquiry — his third-hour question. Thoughtful, not hurried. Slight lean into curiosity. The tone of someone turning something over in his mind.",
+      "mood": "curious_reflective"
+    }
+  ]
+}

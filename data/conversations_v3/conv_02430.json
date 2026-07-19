@@ -1,0 +1,81 @@
+{
+  "id": "conv_02430",
+  "context": "Grandpa tells Sho an old tale, using archaic speech.",
+  "purpose": "WIDENED SCENARIO: elder storytelling; archaic negation and old register spoken naturally.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ぬ",
+    "無い",
+    "ほか",
+    "あまり",
+    "以前"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_122)",
+    "generated_at": "2026-05-29T12:42:34.293Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、昔の話して!",
+      "en": "Grandpa, tell me an old story!",
+      "style": "eager small child voice, bright warm excited bouncing delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "以前、この村には橋が無かった。",
+      "en": "Long ago, this village had no bridge.",
+      "style": "gravelly old man voice, soft warm slow nostalgic delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "えっ、川はどう渡ったの?",
+      "en": "Huh, how did they cross the river?",
+      "style": "surprised small child voice, bright warm wide-eyed delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "誰も渡れぬ日も、あったものよ。",
+      "en": "There were days no one could cross.",
+      "style": "gravelly old man voice, soft warm slow nostalgic delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ほかに、道は無かったの?",
+      "en": "Was there no other path?",
+      "style": "curious small child voice, bright warm earnest delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほかの道は、あまり無かったのじゃ。",
+      "en": "There weren't many other paths.",
+      "style": "gravelly old man voice, soft warm slow nostalgic delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "大変だったんだね。",
+      "en": "That was tough, huh.",
+      "style": "sympathetic small child voice, bright warm gentle delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "皆で力を合わせ、橋を作ったのじゃ。",
+      "en": "Everyone joined forces and built a bridge.",
+      "style": "gravelly old man voice, soft warm proud nostalgic delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "すごい!以前の人は強いね。",
+      "en": "Amazing! People back then were strong.",
+      "style": "impressed small child voice, bright warm admiring delivery throughout"
+    }
+  ]
+}

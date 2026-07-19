@@ -1,0 +1,72 @@
+{
+  "id": "conv_05662",
+  "context": "Two cafe friends share gossip",
+  "purpose": "Teach: 正体/気力/叫ぶ/誘わ/親族/見つめる/うれしく/年上",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "正体",
+    "気力",
+    "叫ぶ",
+    "誘わ",
+    "親族",
+    "見つめる",
+    "うれしく",
+    "年上"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨夜、知らない番号から電話、正体不明で。",
+      "en": "Last night someone called from an unknown number — I still don't know who it was.",
+      "style": "Hesitant opening, slightly rattled. Soft voice, searching for the right words. Trails off on the final phrase like she's still processing it.",
+      "mood": "unsettled"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "怖いね。叫ぶほど驚いた?",
+      "en": "That's scary. Did it startle you that badly?",
+      "style": "Warm, concerned lean-in. Genuinely asking, not probing. Unhurried pacing, like she has time to listen.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、ちょっと。気力使い果たして、寝ちゃった。",
+      "en": "Yeah, pretty much. It just drained me — I crashed right after.",
+      "style": "Quiet admission. Slight breathlessness on \"drained\" like admitting something she's not quite ready to. Soft fadeout on the verb, exhaustion trailing into the silence.",
+      "mood": "drained"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "年上の従兄弟、親族の中で一番頼りになるって言ってたよね。",
+      "en": "Your older cousin — the one you said is the most dependable person in your family.",
+      "style": "Gentle reminder, not interrogation. Warm recall of what she's heard before. Steady, reflective tone. Connecting the dots without rushing.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん。今日、お茶に誘われたの。うれしくて即返事した。",
+      "en": "Yeah. He texted me today asking to grab tea. I was so happy I texted back right away.",
+      "style": "Brightness breaking through. Quick, eager rhythm on the reply part — genuine lightness. Warmth in the voice like relief after tension, almost a small smile audible.",
+      "mood": "lifted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "昔の写真、見つめると元気出るよね。",
+      "en": "Looking at old photos like that really does lift you up, doesn't it.",
+      "style": "Knowing observation, not a question. Soft, close tone like she understands this particular comfort. Gentle pace. A small affirmation wrapped in warmth.",
+      "mood": "warm_understanding"
+    }
+  ]
+}

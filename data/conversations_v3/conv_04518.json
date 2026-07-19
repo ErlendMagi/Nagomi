@@ -1,0 +1,84 @@
+{
+  "id": "conv_04518",
+  "context": "A police officer briefs a teen reporter on a security event",
+  "purpose": "Teach: 安保/締結/国防/是正/阻止/後期/公認/他国",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "安保",
+    "締結",
+    "国防",
+    "是正",
+    "阻止",
+    "後期",
+    "公認",
+    "他国"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の行事は日米安保に関わるものでね。国防上の理由から、取材範囲は限らせてもらう。",
+      "en": "Today's event is related to the Japan-US security treaty. For national defense reasons, we'll be limiting the scope of press coverage.",
+      "style": "Formal officer tone, measured and matter-of-fact briefing voice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、条約の締結式ですか?学校新聞だから、すこしでも詳しく書きたいんですけど…",
+      "en": "Huh, the treaty signing ceremony? It's for the school paper, so I'd like to write about it in at least a bit of detail...",
+      "style": "Eager teen reporter, slightly nervous but pushing politely."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "気持ちは分かるが、不審者の侵入を阻止するのが最優先だ。許可エリアの外には出ないでくれ。",
+      "en": "I understand, but blocking any suspicious intruders is our top priority. Please don't step outside the permitted area.",
+      "style": "Firm but not unkind professional warning, delivered calmly and slowly."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "分かりました。あの、他国の代表団も来ているって本当ですか?",
+      "en": "Understood. Um, is it true that delegations from other countries are also attending?",
+      "style": "Curious follow-up, respectful upward-tilt question, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ノーコメントだ。ただ、以前の警備計画の不備は是正済みだから安心してくれ。",
+      "en": "No comment. But the flaws in the previous security plan have been corrected, so you can rest easy.",
+      "style": "Tight-lipped but reassuring, brief professional update."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。記者証は学校公認のものなんですが、これで会場に入れますか?",
+      "en": "I see. My press pass is officially approved by the school, so will this let me into the venue?",
+      "style": "Polite verification question, showing ID-conscious teenage earnestness clearly."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "学校公認だけでは不十分だ。受付で警察発行の腕章を受け取ってから入ってくれ。",
+      "en": "School authorization alone isn't enough. Pick up a police-issued armband at reception before entering.",
+      "style": "Direct procedural instruction, no-nonsense gatekeeping, distinct timbre that anchors the scene"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "了解です!ちなみに、式の後期にも質疑応答の時間ってありますか?",
+      "en": "Got it! By the way, will there be a Q&A session in the later part of the ceremony too?",
+      "style": "Bright follow-up, energized teen pressing for one more detail."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "後期の予定は未定だ。詳細は広報担当に聞いてくれ。",
+      "en": "The later-stage schedule is undecided. Ask the press officer for details.",
+      "style": "Curt but polite handoff, closing the briefing efficiently."
+    }
+  ]
+}

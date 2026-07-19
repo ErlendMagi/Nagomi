@@ -1,0 +1,86 @@
+{
+  "id": "conv_06741",
+  "context": "A mom and son chat at home",
+  "purpose": "Teach: おそれ/おん/驚かさ/でん/折角/思い入れ/おもしろく/ひょっとしたら",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "おそれ",
+    "おん",
+    "驚かさ",
+    "でん",
+    "折角",
+    "思い入れ",
+    "おもしろく",
+    "ひょっとしたら"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_339 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、雨で、お祭り、中止になるおそれ、あるかな?",
+      "en": "Mom, do you think the rain might make them cancel the festival?",
+      "style": "Small, careful voice. Real worry underneath, but asking gently—like he's checking if it's okay to be concerned. Slight pause before 'rain,' gathering courage to voice the fear.",
+      "mood": "anxious_careful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お友達のひかりちゃんと、翔くん、おんなじ歳ね。",
+      "en": "That's true. Your friend Hikari is the same age as you, isn't she?",
+      "style": "Gentle redirection, warm but slightly distracted. The voice of someone answering while thinking of something else—kind, not dismissive. Soft landing on the closing question.",
+      "mood": "warm_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "昨日のテストの点数、ぼく、自分でも驚かされたよ!",
+      "en": "I was surprised by my test score yesterday! Even I didn't expect it.",
+      "style": "Bright, sudden energy. Pride breaking through carefully—not boastful, just genuinely delighted and eager to share. Quick attack on the opening word, light throughout.",
+      "mood": "proud_surprised"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おでん、お父さんが大好きなのよね、寒い時期、よく作る。",
+      "en": "Your dad loves oden so much. He makes it all the time when the weather gets cold.",
+      "style": "Warm observation, almost thinking aloud. The voice of someone remembering a small habit she loves. Gentle, grounded. No hurry in the pacing.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "折角、お祭り、行こうと思ったのに、雨かあ、残念。",
+      "en": "I really wanted to go to the festival too. It's a shame the rain came.",
+      "style": "Soft disappointment. Sits with the sadness a moment without dwelling on it. Understanding in her voice—not trying to fix it, just acknowledging his feeling alongside hers. Trailing sigh at the end.",
+      "mood": "disappointed_gentle"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お祖母ちゃんが作ってくれた絵本、ママも、思い入れがあるのよ。",
+      "en": "The picture book your grandmother made for you—I have feelings about it too, you know.",
+      "style": "Tender and thoughtful. Slows down slightly. The voice of someone opening up about something that matters. Honest, not sentimental—a quiet sharing of her own connection.",
+      "mood": "tender_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今日の本、おもしろく読めたよ、ぼく、夢中だった。",
+      "en": "I got really absorbed in the book today. I read it all without stopping.",
+      "style": "Bright and genuine excitement. Unguarded delight in being lost in a story. Natural, quick pace. The openness of a child who got exactly what he wanted from a moment.",
+      "mood": "absorbed_happy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひょっとしたら、明日、お父さん、早く帰れるかもよ。",
+      "en": "Maybe your dad will be able to come home early tomorrow.",
+      "style": "Gentle possibility offered up softly. A small gift of hope wrapped in uncertainty. Warm, not overly bright—realistic but kind. Trailing off slightly, leaving space for him to hope alongside her.",
+      "mood": "hopeful_tender"
+    }
+  ]
+}

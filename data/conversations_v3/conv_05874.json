@@ -1,0 +1,65 @@
+{
+  "id": "conv_05874",
+  "context": "A teacher and a teen review a current-events project",
+  "purpose": "Teach: 宮城/大島/荒川/金子/今井/市川/片山/熊谷",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "宮城",
+    "大島",
+    "荒川",
+    "金子",
+    "今井",
+    "市川",
+    "片山",
+    "熊谷"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_295 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、地方再生のテーマ、宮城の事例から始まる構成、いいですね。",
+      "en": "Sakura, I really like how you're structuring this—starting with the Miyagi cases for your regional-revival theme.",
+      "style": "Warm, genuinely impressed. Leans forward slightly. Nodding approval on 「いいですね」. Teacher voice but person-to-person, not lecturing.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。大島の漁業協同組合、丁寧に取材しました。",
+      "en": "Yes. I did careful fieldwork on Oshima's fishing co-op.",
+      "style": "Earnest and direct. Quiet pride in the work done. Even pace, grounded. Small pause before responding—she's considered the question seriously.",
+      "mood": "proud_serious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "荒川流域の中小企業、金子さんが代表的なお話を聞かせてくれましたね。",
+      "en": "And the SMEs in the Arakawa basin—Kaneko-san really gave you some compelling stories to work with.",
+      "style": "Engaged, following the thread. Slightly rising inflection on 「お話」, recognizing the quality of her source work. Warm but observant—she's tracking something.",
+      "mood": "attentive_affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "今井家具店、市川での経営、家族の物語も入れました。",
+      "en": "The Imai Furniture shop in Ichikawa—I made sure to include the family history alongside the business side.",
+      "style": "Matter-of-fact with underlying care. She's explaining her choices, not defending them. Steady voice. Slight emphasis on 「物語も」—she knows this was the right call.",
+      "mood": "thoughtful_grounded"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "片山地区、熊谷の若手起業家、最終章で取り上げます。",
+      "en": "Katayama district, the young entrepreneurs in Kumagaya—those will be your closing chapter.",
+      "style": "Reflective, measured. Looking ahead with quiet satisfaction. Slight exhale of completion in the trailing-off. Affirming without over-stating.",
+      "mood": "satisfied_closing"
+    }
+  ]
+}

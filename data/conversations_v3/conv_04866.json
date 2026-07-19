@@ -1,0 +1,78 @@
+{
+  "id": "conv_04866",
+  "context": "A boss reviews a customer notification process with his manager",
+  "purpose": "Teach: 郵送/口頭/卸売/呼び出し/要旨/契機/有意義/増殖",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "郵送",
+    "口頭",
+    "卸売",
+    "呼び出し",
+    "要旨",
+    "契機",
+    "有意義",
+    "増殖"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_245 workflow w5gqr173i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の顧客通知プロセスの見直し、要旨をまとめてくれたかな。",
+      "en": "Did you put together the summary of this customer notification process review?",
+      "style": "Authoritative boss opening, measured pace, businesslike with mild expectation undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、こちらの資料に整理しました。まず重要書類は郵送、軽微な連絡は口頭で対応しております。",
+      "en": "Yes, I organized it in this document. Important papers go by mail, minor matters are handled verbally.",
+      "style": "Diligent salaryman, polite keigo, slightly nervous but confident in his preparation."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。卸売業者への通知も同じ流れでいいのか？",
+      "en": "I see. Is the notification to wholesale vendors handled the same way?",
+      "style": "Probing follow-up question, calm but pointed, testing employee's thoroughness."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "卸売の取引先には専用窓口を設けまして、緊急時は担当者の内線に呼び出しがかかる仕組みです。",
+      "en": "For wholesale partners, we set up a dedicated contact desk, so urgent matters page the rep's extension directly.",
+      "style": "Detailed explanatory tone, structured business Japanese, eager to demonstrate competence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、それは良いな。先月のクレームを契機に改善したわけか。",
+      "en": "Hmm, that's good. So you improved it triggered by last month's complaint, I take it.",
+      "style": "Pleasantly impressed, slower rhythm, showing genuine recognition of subordinate's work."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その通りです。問い合わせが社内で増殖していた感がありましたので、根本から見直しました。",
+      "en": "Exactly. There was a sense that inquiries were multiplying internally, so we reviewed it fundamentally.",
+      "style": "Reflective and earnest, slight self-criticism, professional acknowledgment of past issues."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日の打ち合わせは実に有意義だった。来週の役員会でこの内容を共有しよう。",
+      "en": "Today's meeting was truly meaningful. Let's share this content at next week's executive meeting.",
+      "style": "Warm closing remark, approving and decisive, satisfied boss wrapping up productively."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。役員会の資料も、明日までに準備いたします。",
+      "en": "Thank you very much. I'll prepare the materials for the executive meeting by tomorrow.",
+      "style": "Grateful and respectful closing, motivated tone, eager subordinate accepting new task."
+    }
+  ]
+}

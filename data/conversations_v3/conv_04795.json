@@ -1,0 +1,78 @@
+{
+  "id": "conv_04795",
+  "context": "A doctor explains test results and lifestyle data to a teen",
+  "purpose": "Teach: 時事/日刊/事象/物体/自発/実効/差異/技法",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "時事",
+    "日刊",
+    "事象",
+    "物体",
+    "自発",
+    "実効",
+    "差異",
+    "技法"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_241 workflow wgk0fq4be)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "結果が出ましたよ。全体的には健康ですが、去年の数値との差異が少し気になります。",
+      "en": "The results are in. Overall you're healthy, but I'm a little concerned about the differences from last year's numbers.",
+      "style": "Calm, measured doctor delivering balanced clinical news"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "差異って、悪い方に変わったってことですか?ちょっと怖いんですけど。",
+      "en": "Differences — does that mean it changed for the worse? That's kind of scary.",
+      "style": "Nervous teenager pressing the doctor for a clearer answer"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "深刻ではありません。ただ、睡眠不足が続くと、めまいみたいな事象が起きやすくなるんですよ。",
+      "en": "It's nothing serious. But if sleep deprivation continues, symptoms like dizziness become more likely to occur.",
+      "style": "Reassuring doctor softening data with a gentle clinical explanation"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あー、夜って日刊でニュースアプリ開いちゃって、特に時事ネタ追っかけてたら寝るの遅くなるんですよね。",
+      "en": "Ah, every day I end up opening the news app at night, and once I'm chasing current-affairs stories, I sleep late.",
+      "style": "Sheepish teen confessing a relatable late-night scrolling habit"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。スマホって小さな物体なのに、夜に見ると脳がすっかり目覚めちゃうんですよ。",
+      "en": "I see. A phone is such a small object, but looking at it at night fully wakes the brain up.",
+      "style": "Doctor using a vivid everyday analogy to drive a point home"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "減らした方がいいのは分かってるんですけど、実効のあるやり方が全然続かなくて。",
+      "en": "I know I should cut back, but no method that actually works ever sticks for me.",
+      "style": "Frustrated teen admitting she lacks practical strategies that last"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ひとつ簡単な技法があります。寝る一時間前に充電器を別の部屋に置くだけ。地味ですけど効きますよ。",
+      "en": "There's one simple technique. Just put the charger in another room an hour before bed. It's plain, but it works.",
+      "style": "Doctor offering concrete advice with quiet, practical encouragement"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "充電器を別の部屋、ですか。誰かに言われるよりは、自発的にやった方が続きそうですね。",
+      "en": "The charger in another room, huh. I'll probably stick with it better if I do it on my own rather than being told.",
+      "style": "Teen sounding cautiously committed and reflecting on self-motivation"
+    }
+  ]
+}

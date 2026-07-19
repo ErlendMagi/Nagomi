@@ -1,0 +1,72 @@
+{
+  "id": "conv_05307",
+  "context": "Two managers prep a procurement memo",
+  "purpose": "Teach: 主任/取り付け/採択/円滑/送付/法務省/官庁/査定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主任",
+    "取り付け",
+    "採択",
+    "円滑",
+    "送付",
+    "法務省",
+    "官庁",
+    "査定"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "明日の朝会、新主任への報告、円滑に進めたい。",
+      "en": "I want tomorrow's morning meeting to go smoothly—especially the briefing for the new department head.",
+      "style": "Direct, measured. Open with quiet purpose. Lean forward slightly. This is a professional ask, not anxious—the tone of someone thinking three steps ahead.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。査定基準、官庁の最新通達と照合済みです。",
+      "en": "Yes. I've cross-checked the evaluation criteria against the latest government directive.",
+      "style": "Steady, factual. No flourish—just the comfortable authority of someone who's already done the work. Flat on the confirmation, slight uptick at the detail.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "資料の送付先、法務省の担当者も入っているか?",
+      "en": "And the materials distribution list—is the Justice Ministry contact included?",
+      "style": "Clipped, efficient. This is a follow-up verification, not doubt. Slight rise at the end—a genuine question, not rhetorical. Quick tempo.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "昨日、メールで送付済みです。取り付けは午前中に確認します。",
+      "en": "Already sent it yesterday by email. I'll confirm receipt in the morning.",
+      "style": "Even, assured. The satisfaction of a checkbox ticked. No defensiveness—just stating fact. Slight confidence underneath the brevity.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "採択前提で、別案の準備も同時に進めよう。",
+      "en": "Assuming it goes through, let's work on the alternative plan in parallel.",
+      "style": "Strategic shift in tone. Slightly slower here—thinking out loud but controlled. Not anxious, just prudent. Weight on 'parallel,' like she's laying out the second lane of track.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。",
+      "en": "Understood.",
+      "style": "Quick, affirming close. Warm enough to feel like an agreement, not just compliance. Let it land softly—the end of the sync.",
+      "mood": "confirmed"
+    }
+  ]
+}

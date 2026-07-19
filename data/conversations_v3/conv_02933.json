@@ -1,0 +1,75 @@
+{
+  "id": "conv_02933",
+  "context": "Ren reports a quality issue to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business report; vocabulary (含ま/作ら/生じ/考えれ/箇所) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "含ま",
+    "作ら",
+    "生じ",
+    "考えれ",
+    "箇所"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_147)",
+    "generated_at": "2026-05-29T14:53:31.330Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "製品に、不良の箇所が見つかりました。",
+      "en": "A defective spot was found in the product.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "どこで、不良が生じたのかね?",
+      "en": "Where did the defect arise?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "作られる工程で、生じたようです。",
+      "en": "It seems to have arisen during the production process.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "原因に、何が含まれているかね?",
+      "en": "What's contained in the cause?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "温度の管理が、含まれていました。",
+      "en": "Temperature control was involved.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "どう考えれば、防げるかね?",
+      "en": "How should we think to prevent it?",
+      "style": "engaged boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "工程ごとに考えれば、防げます。",
+      "en": "If we think process by process, we can prevent it.",
+      "style": "reliable young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "その箇所を、すぐ直してくれ。",
+      "en": "Fix that spot right away.",
+      "style": "decisive boss voice, soft warm closing throughout"
+    }
+  ]
+}

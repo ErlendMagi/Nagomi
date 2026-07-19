@@ -1,0 +1,67 @@
+{
+  "id": "conv_00054",
+  "context": "Saturday morning. Yumiko is signing a permission slip. Hina hovers, dramatic, ready to defend her case.",
+  "purpose": "tiny domestic logistics — kid lobbying mom",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "大丈夫",
+    "ありがとう"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、これ、はやくサインして！",
+      "en": "Mom — sign this, hurry!",
+      "style": "Shoves the paper in front of her, bouncing.",
+      "mood": "urgent_kid"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はいはい。…遠足、来週？",
+      "en": "Yes, yes. …Field trip next week?",
+      "style": "Pen already in hand. Reading even while signing.",
+      "mood": "efficient_mom"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん！本当に行きたい！",
+      "en": "Yeah! I really want to go!",
+      "style": "Adds the lobbying even after she's being signed up. Eight-year-old logic.",
+      "mood": "lobbying"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "大丈夫、サインしてる。",
+      "en": "It's fine — I'm signing it.",
+      "style": "Half-laugh. The mom-voice of someone who has done this thirty times.",
+      "mood": "amused_mom"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとうお母さん大好き！",
+      "en": "Thank you mom love you!",
+      "style": "All one breath, full kid-volume. Already running off in the voice.",
+      "mood": "all_one_breath"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今日のうちに、ランドセル準備してね？",
+      "en": "Get your school-bag ready today, okay?",
+      "style": "Calls after her in the voice. Pragmatic afterword.",
+      "mood": "practical_afterword"
+    }
+  ]
+}

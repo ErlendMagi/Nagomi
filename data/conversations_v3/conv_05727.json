@@ -1,0 +1,65 @@
+{
+  "id": "conv_05727",
+  "context": "A boss reviews factory operations",
+  "purpose": "Teach: 山下/バグ/フィルター/耐久/清掃/日数/リットル/アナログ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "山下",
+    "バグ",
+    "フィルター",
+    "耐久",
+    "清掃",
+    "日数",
+    "リットル",
+    "アナログ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "山下工場の耐久試験、結果報告は?",
+      "en": "The durability test results from the Yamashita plant — what's the report?",
+      "style": "Clipped, efficient. Eyes already moving to the next thing. No warmth, no waste. Expectation of precision in the answer.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。バグはアナログ計器のフィルター誤差でした。",
+      "en": "Yes, sir. The issue was a filter calibration error in the analog gauges.",
+      "style": "Steady, measured. Each phrase deliberate — showing the logic chain without rushing it. Respectful but not deferential. Direct eye contact.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "残り日数、再試験できるか。",
+      "en": "Can we retest with the time we have left?",
+      "style": "Sharp. Questions telescoped into bare nouns — economical phrasing that demands a practical answer. Jaw tight with focus.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。清掃工程後、再度リットル単位で計測します。",
+      "en": "Yes. After the cleaning cycle, we'll measure again by the liter.",
+      "style": "Quiet confirmation with teeth in it. Not asking, telling — because he's already committed to the timeline. Slight nod. Tempo steady.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on you.",
+      "style": "Softened slightly. Low, final. The compliment underneath — you were chosen for this. No elaboration. Turns attention away, trusting the answer is yes.",
+      "mood": "trust"
+    }
+  ]
+}

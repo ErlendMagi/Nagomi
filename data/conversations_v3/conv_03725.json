@@ -1,0 +1,78 @@
+{
+  "id": "conv_03725",
+  "context": "Two managers debate strategy at the whiteboard",
+  "purpose": "Teach: ボード/部下/発注/切り替え/エラー/同期/私立/志向",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボード",
+    "部下",
+    "発注",
+    "切り替え",
+    "エラー",
+    "同期",
+    "私立",
+    "志向"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_187 wdqeqmj99)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "ホワイトボードに書いた数字、もう一度見てくれる？発注の流れが完全におかしいんだよ。",
+      "en": "Look at the numbers on the whiteboard again. Our ordering flow is completely off.",
+      "style": "Frustrated manager pointing at messy whiteboard diagrams"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、在庫システムとの同期がずれてるみたい。昨日、部下からも同じ報告が上がってきたよ。",
+      "en": "Yeah, the sync with the inventory system seems off. A subordinate gave me the same report yesterday.",
+      "style": "Calm analytical tone, arms crossed thinking carefully"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "毎週のように発注ミスでエラーが出てる。戦略を根本から見直すべきだと思うんだ。",
+      "en": "We get ordering errors almost every week. I think we should rethink the strategy from the ground up.",
+      "style": "Assertive, leaning forward making a strong case"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "見直すのは賛成。でも、コスト志向のままだと品質がまた落ちるよ。",
+      "en": "I agree with rethinking it. But if we stay cost-oriented, quality will drop again.",
+      "style": "Pushing back politely but firmly on the plan"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ品質志向に切り替えよう。私立大学が規模より特色で勝負するみたいに、うちも色を出したい。",
+      "en": "Then let's switch to quality-oriented. Like private universities competing on character over scale, I want us to stand out.",
+      "style": "Energetic, gesturing toward the whiteboard with conviction"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いい例えだね。大手と同じ土俵で戦わずに、強みを磨く方向ね。",
+      "en": "Nice analogy. Instead of fighting on the same ground as the big firms, we sharpen our strengths.",
+      "style": "Warming up to the idea, smiling slightly while nodding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう、それ。来週のボード会議までに、新しい発注フローの案をまとめておこう。",
+      "en": "Exactly that. Let's put together a new ordering flow proposal before next week's board meeting.",
+      "style": "Decisive wrap-up tone, tapping marker against the board"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解。エラー履歴と同期ログは、うちの者に整理させておくよ。",
+      "en": "Got it. I'll have someone on my team organize the error history and the sync logs.",
+      "style": "Cooperative closing statement, already reaching for notebook"
+    }
+  ]
+}

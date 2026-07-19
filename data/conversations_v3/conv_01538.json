@@ -1,0 +1,61 @@
+{
+  "id": "conv_01538",
+  "context": "Hina-young afraid of thunder during a small storm; Sachiko-grandma comforts her.",
+  "purpose": "Elder soothing a frightened child.",
+  "ambient": "bedroom_storm_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "雷",
+    "怖い",
+    "布団",
+    "安心"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_077)",
+    "generated_at": "2026-05-27T06:22:53.509Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おばあちゃん、雷怖い!",
+      "en": "Grandma, I'm scared of the thunder!",
+      "style": "Urgent, high pitch cutting through fear. Quick intake of breath before speaking. Seeking reassurance — the 'Grandma' landing hard, needing her. Not performing fright, genuinely small.",
+      "mood": "frightened_seeking"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "大丈夫、ここにおるよ。",
+      "en": "It's okay — I'm right here.",
+      "style": "Warm, steady, grounding. Lower register than Hina's panic. Spoken like a blanket being drawn close. Slow pace, no urgency. The certainty of presence in every syllable.",
+      "mood": "protective_calm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "布団、一緒に入ってもいい?",
+      "en": "Can I crawl under the futon with you?",
+      "style": "Quiet, tentative, checking for permission. Slight tremor still in the voice but settling. The word 'you' softer than the rest — needing specifically her, not just safety.",
+      "mood": "hopeful_vulnerable"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん、おいで、安心せえ。",
+      "en": "Yes, come here — everything's alright.",
+      "style": "Immediate, no hesitation. Inviting tone, arms already opening in the voice. Gentle but assured — not reassuring *because* she's worried, but reassuring because she knows this will work.",
+      "mood": "loving_steadfast"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがと、おばあちゃん。",
+      "en": "Thank you, Grandma.",
+      "style": "Whispered, eyes already closing. Breathing deeper, slower. The 'Grandma' is a sigh of relief. Trailing off into something between gratitude and sleep.",
+      "mood": "grateful_safe"
+    }
+  ]
+}

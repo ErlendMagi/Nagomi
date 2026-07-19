@@ -1,0 +1,86 @@
+{
+  "id": "conv_10427",
+  "context": "Two managers chat",
+  "purpose": "Teach: 車輪/離陸/発車/発せ/呼び出さ/乗り込み/買い求め/現況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "車輪",
+    "離陸",
+    "発車",
+    "発せ",
+    "呼び出さ",
+    "乗り込み",
+    "買い求め",
+    "現況"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_523 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "物流の車輪保守を定期化しましょう",
+      "en": "Let's establish a regular maintenance schedule for the logistics fleet.",
+      "style": "Brisk, decisive opening. Clear directive tone. Professional pace, no hesitation. Shoulders back slightly — someone comfortable giving direction without apology.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。空輸便の離陸予定を毎週確認します",
+      "en": "Yes. I'll check the air freight departure schedule every week.",
+      "style": "Warm agreement with quiet competence. No drag — efficient and willing. Slight nod in the voice, like confirming he's heard and will deliver.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社用バスの発車時刻を見直しましょう",
+      "en": "And let's review the company shuttle departure times.",
+      "style": "Same brisk authority as the opening, but slightly softer — building on momentum rather than starting fresh. Light emphasis on 'review'. No rushing.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。緊急時に警報を発せられる仕組みを整えます",
+      "en": "Yes. I'll set up a system so we can issue alerts in emergencies.",
+      "style": "Steady, practical confirmation. Each task lands cleanly. Slightly faster than before — momentum building. The voice of someone taking notes and actually doing them.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員が呼び出される頻度を減らしましょう",
+      "en": "Let's reduce how often staff get called in unexpectedly.",
+      "style": "Quieter intention here — this is about people, not just logistics. Slight weight on 'reduce'. Deliberate pace, like she's thinking of specific people.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人が研修先へ乗り込みやすい配車を組みます",
+      "en": "Yes. I'll arrange transportation that makes it easier for new hires to get to training sites.",
+      "style": "Attentive echo of her concern. Slower than before — showing he understands this matters beyond the task. Gentle but capable.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員が文房具を買い求める手続きを簡略化しましょう",
+      "en": "Let's simplify the process for staff to request office supplies.",
+      "style": "Back to brisk, but still carrying the warmth from the previous exchange. Light, almost conversational now — they're in rhythm together.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。プロジェクトの現況を社内ポータルに掲示します",
+      "en": "Yes. I'll post project updates on the internal portal.",
+      "style": "Clean close. Efficient, satisfied. Slight warmth at the end — like 'this is done, and well.' No trailing uncertainty.",
+      "mood": "efficient"
+    }
+  ]
+}

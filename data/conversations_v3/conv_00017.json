@@ -1,0 +1,76 @@
+{
+  "id": "conv_00017",
+  "context": "A rural village in Iwate. A young visitor from Tokyo (Ren) has stopped at Tatsuya's small farm shop to ask directions to the local shrine.",
+  "purpose": "kind rural encounter — quiet help with a side of unsolicited local pride",
+  "ambient": "shrine_grounds",
+  "target_vocab": [
+    "少し",
+    "本当に",
+    "時間",
+    "大丈夫",
+    "ありがとう",
+    "一番"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、ちょっとお尋ねしてもいいですか？",
+      "en": "Excuse me — may I ask you something?",
+      "style": "Polite, slightly out of breath. Tokyo formality landing in a rural shop.",
+      "mood": "polite_inquiry"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、はい。どうぞ。",
+      "en": "Ah, yes. Go ahead.",
+      "style": "Slow, weathered voice. Three unhurried words. Looks up from what he's doing only after the first one.",
+      "mood": "unhurried_open"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "この近くの神社、少し迷ってしまって…",
+      "en": "The shrine around here — I've gotten a little lost…",
+      "style": "A small embarrassed half-laugh. Holds up the phone with a faded map on it.",
+      "mood": "sheepish"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、神社な。歩いて、十分くらい。",
+      "en": "Ah, the shrine. About ten minutes on foot.",
+      "style": "Sentences arrive in pieces with comfortable air between them. The pace of someone who never rushes.",
+      "mood": "considered"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "この道、まっすぐ。途中で、大きい木があるから、そこを右。",
+      "en": "This road, straight on. There's a big tree along the way — turn right there.",
+      "style": "Hand gestures in the voice. Locally tested directions. Each instruction comes with a small pause.",
+      "mood": "giving_directions"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大丈夫です、わかりました。本当に、ありがとうございます。",
+      "en": "Got it, thank you. Really, thank you.",
+      "style": "A small bow inside the voice. The second 「ありがとう」 is the genuine one.",
+      "mood": "genuine_thanks"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いいや。…ここの神社、この辺で一番、静かでいいとこだよ。",
+      "en": "It's nothing. …The shrine here — quietest, best spot around.",
+      "style": "A small unbidden gift. Pride that doesn't announce itself. JP and EN: same quiet conviction.",
+      "mood": "quietly_proud"
+    }
+  ]
+}

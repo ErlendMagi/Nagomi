@@ -1,0 +1,86 @@
+{
+  "id": "conv_06686",
+  "context": "A boss reviews business planning",
+  "purpose": "Teach: 後援/図表/台数/ターミナル/コーディネーター/歴代/三井/近況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "後援",
+    "図表",
+    "台数",
+    "ターミナル",
+    "コーディネーター",
+    "歴代",
+    "三井",
+    "近況"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_336 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回のスポーツイベント、後援企業、複数決まったか。",
+      "en": "Did we lock down multiple sponsors for this sports event?",
+      "style": "Clipped, businesslike. Direct eye contact. Expects a straight answer. No wasted breath on formalities.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事業計画の図表、明日、共有いたします。",
+      "en": "Yes, sir. I'll share the business plan charts with you tomorrow.",
+      "style": "Steady, respectful. Efficient delivery. Slightly formal — professional distance. Nodding slightly to confirm.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社用車、台数、適正か、見直しろ。",
+      "en": "Review whether our company vehicles are the right number. See if we can optimize.",
+      "style": "Measured instruction. Light emphasis on 'optimize.' Not harsh — just expects follow-through. Clear delegator.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ターミナル設備、空港との交渉、進めております。",
+      "en": "Yes. We're advancing negotiations with the airport about terminal facilities.",
+      "style": "Progress report delivered cleanly. Steady tone — reassuring without overstating. Matter-of-fact.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "イベントコーディネーター、専門家、紹介してもらえ。",
+      "en": "Get an introduction to an event coordinator — someone with real expertise.",
+      "style": "Short, clear directive. Light tap of emphasis on 'expertise.' Not demanding, just expects competence.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。歴代の社長スピーチ、データベース化、進めます。",
+      "en": "Yes. I'm working on building a database of past company president speeches.",
+      "style": "Conscientious update. Steady rhythm. Shows he's thinking ahead — detail-oriented without being defensive.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "三井系の企業、提携、検討中だ。",
+      "en": "We're currently exploring a partnership with a Mitsui-affiliated company.",
+      "style": "Strategic update, slightly understated. Pause before 'exploring' — signals importance. Composed, informational.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外支社の近況、来週、報告いたします。",
+      "en": "Yes. I'll report on our overseas branches' status next week.",
+      "style": "Closing statement. Calm wrap-up rhythm. Respectful finality — no loose ends. Brief.",
+      "mood": "professional"
+    }
+  ]
+}

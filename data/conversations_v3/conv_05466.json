@@ -1,0 +1,65 @@
+{
+  "id": "conv_05466",
+  "context": "A boss reviews a property-investment proposal",
+  "purpose": "Teach: 月額/採決/取組/拠出/強行/承り/隊長/棟",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月額",
+    "採決",
+    "取組",
+    "拠出",
+    "強行",
+    "承り",
+    "隊長",
+    "棟"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新棟の月額賃料、収益見込みは?",
+      "en": "What's the monthly rent on the new building? Revenue projection?",
+      "style": "Measured opening. Sharp, business-ready tone. Clipped pace on each clause — no wasted breath. Eyes direct. This is the question underneath everything.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。隊長が現地視察を済ませ、強行的な値下げ要請は退けました。",
+      "en": "Yes. The team lead completed the site survey and held firm against the aggressive discounting.",
+      "style": "Straightforward report. Steady, confident delivery — no hedging. Each fact lands cleanly. Slight emphasis on 「拒けました」 to show the team did its job. Professional pride, quietly.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "拠出金の比率、再採決が必要だ。",
+      "en": "We need another vote on the contribution ratios.",
+      "style": "Directive but not harsh. Brief pause after 「比率」 — giving weight to the decision point. Calm assumption that this will happen. No inflection that asks permission.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "取組チームに承りますと連絡し、今週中に再採決可能です。",
+      "en": "I'll notify the team now. We can get the revote done by end of week.",
+      "style": "Competent, no flourish. Direct statement of action and timeline. Slight forward lean in delivery — already moving on the task. Reliable without needing to announce it.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "Thank you.",
+      "style": "Quiet gratitude. Slight exhale on the word — acknowledgment of effort, not dismissal. Warmth underneath the brevity. The kind of thanks that means something.",
+      "mood": "assured"
+    }
+  ]
+}

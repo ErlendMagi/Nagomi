@@ -1,0 +1,86 @@
+{
+  "id": "conv_08109",
+  "context": "Officer briefs",
+  "purpose": "Teach: 公庫/汎用/中級/勘案/解禁/焼却/税法/公述",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公庫",
+    "汎用",
+    "中級",
+    "勘案",
+    "解禁",
+    "焼却",
+    "税法",
+    "公述"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_407 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、政策金融公庫絡みの詐欺に注意しております",
+      "en": "We're keeping a careful watch on fraud cases involving government policy finance institutions.",
+      "style": "Measured, official tone. Steady pace. Each phrase lands with equal weight—no rushing. Slight formality in posture. The voice of someone delivering important information clearly.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。汎用システムへの不正アクセスを警察、検知されたんですね",
+      "en": "I see. So the police detected unauthorized access to the general system.",
+      "style": "Attentive, respectful. Slight lean-in. Warm but not casual. Acknowledging what's being said without performing surprise. The tone of someone genuinely following along.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、中級捜査員の研修を実施しております",
+      "en": "We're currently running training programs for mid-level investigators.",
+      "style": "Professional, matter-of-fact. Slight upward inflection on 「研修」—emphasizing the proactive step. Even-handed delivery. The voice of procedure and preparation.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、ご意見を勘案した方針、ありがたいです",
+      "en": "Thank you. I'm grateful the police are taking those perspectives into account when setting policy.",
+      "style": "Sincere gratitude underneath. Warm but measured. Not effusive—genuine appreciation delivered with quiet respect. A small nod in the voice.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収品の解禁時期を慎重に決めております",
+      "en": "We're being deliberate about when we release seized materials.",
+      "style": "Calm, deliberate. Slightly slower pace on 「慎重に」—emphasizing the care being taken. Composed and thorough. The voice of someone who understands the stakes.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。証拠保管庫の焼却防止、警察、強化されているそうですね",
+      "en": "Yes. I understand you've strengthened measures to prevent evidence storage from being destroyed.",
+      "style": "Acknowledging and affirming. Steady, conversational. A slight warmth—showing he's been listening carefully. Not mechanical, but respectful of the official context.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、税法違反の捜査も担当しております",
+      "en": "We're also handling investigations into tax law violations.",
+      "style": "Even, factual delivery. No particular emphasis—this is simply part of the scope. Clear and authoritative without harshness. The voice of someone stating what falls under their jurisdiction.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害者の公述を警察、適切に支援されますね",
+      "en": "And I'm sure you're supporting victims appropriately when they come forward with statements.",
+      "style": "Warm, thoughtful. A slight rise in sincerity—this question matters to him beyond the formal exchange. Calm but engaged. The voice of someone checking that human care is part of the process.",
+      "mood": "warm_reassured"
+    }
+  ]
+}

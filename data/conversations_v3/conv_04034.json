@@ -1,0 +1,78 @@
+{
+  "id": "conv_04034",
+  "context": "A police officer inspects security with the office manager",
+  "purpose": "Teach: デスク/ルーム/扉/電波/交代/パック/タウン/大抵",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デスク",
+    "ルーム",
+    "扉",
+    "電波",
+    "交代",
+    "パック",
+    "タウン",
+    "大抵"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "失礼します。地域安全課の竹田です。最近の防犯状況について少しお話を伺えますか。",
+      "en": "Excuse me. I'm Takeda from the community safety division. May I ask about your recent security situation?",
+      "style": "Polite, formal officer tone with calm professional cadence."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お疲れ様です。ご案内します。こちらの会議ルームの扉は日中だけ開けています。",
+      "en": "Thanks for your work. I'll show you around. This meeting room door is only kept open during the day.",
+      "style": "Courteous office manager, helpful and clear in tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。各デスクの周辺に貴重品が出しっぱなしになっていることはありませんか。",
+      "en": "I see. Are any valuables ever left out around each desk?",
+      "style": "Inquisitive, methodical, and slightly authoritative questioning manner."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大抵の社員は引き出しにしまっていますが、たまに忘れる者もいて困っています。",
+      "en": "Most employees put things in their drawers, but some forget occasionally, which troubles us.",
+      "style": "Honest and mildly apologetic, professional admission of reality."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "この建物は電波が弱いと聞きました。非常時の通報手段は確保できていますか。",
+      "en": "I heard reception is weak in this building. Have you secured a means of emergency reporting?",
+      "style": "Practical and safety-focused, businesslike concern for emergencies."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "警備会社の夜間担当者とのシフト交代時には、専用の連絡パックを使って引き継いでいます。",
+      "en": "When shifts change with the security company's night staff, we hand over using a dedicated communication pack.",
+      "style": "Detailed and procedural, confident explanation of established protocol."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "素晴らしい運用ですね。最近この緑ヶ丘ニュータウン一帯で空き巣が増えています。油断は禁物です。",
+      "en": "Excellent procedure. Burglaries have been increasing across this Midorigaoka New Town area recently. We mustn't let our guard down.",
+      "style": "Warm praise followed by serious paternal warning to residents."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご忠告ありがとうございます。週明けに全社員へ改めて注意喚起のメールを送ります。",
+      "en": "Thank you for the advice. I'll send all employees a fresh reminder email at the start of next week.",
+      "style": "Grateful and decisive, action-oriented closing remark from manager."
+    }
+  ]
+}

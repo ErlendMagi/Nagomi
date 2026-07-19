@@ -1,0 +1,78 @@
+{
+  "id": "conv_03474",
+  "context": "Doctor explains a clinical-trial result to a curious teen student",
+  "purpose": "Teach: 療法/強力/圧倒的/振興/大衆/勢力/動向/報酬",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "療法",
+    "強力",
+    "圧倒的",
+    "振興",
+    "大衆",
+    "勢力",
+    "動向",
+    "報酬"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、ニュースで新しい療法が出たって言ってたけど、本当にそんなに効くの?",
+      "en": "Doctor, the news said a new therapy came out — does it really work that well?",
+      "style": "curious teen leaning forward with genuine scientific interest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、今回の治験結果は圧倒的で、従来の薬よりはるかに強力な効果が出たんだよ。",
+      "en": "Yes, this trial's results were overwhelming — the effect was far more powerful than the conventional drug.",
+      "style": "measured doctor sharing exciting data with careful precision"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えー、すごい!じゃあもう大衆向けに普及するってこと?",
+      "en": "Whoa, amazing! So it'll be rolled out to the general public already?",
+      "style": "wide-eyed teen jumping ahead with eager optimism"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そう急がないで。学会内でも賛成派と反対派の勢力がまだ拮抗していてね。",
+      "en": "Don't rush. Even within the academic community, the pro and con factions are still evenly matched.",
+      "style": "gently restraining adult tempering the teen enthusiasm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、お医者さんの世界もそういう動向があるんだ。",
+      "en": "Huh, so even the doctors' world has those kinds of trends going on.",
+      "style": "thoughtful teen processing a new layer of reality"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、それに国の振興策で研究費が増えたから、競争もかなり激しいんだ。",
+      "en": "Right, and since national promotion policies boosted research funding, the competition is pretty intense too.",
+      "style": "candid mentor pulling back the curtain on the field"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "研究者って、論文を出したら報酬がもらえるの?",
+      "en": "Do researchers get a reward when they publish a paper?",
+      "style": "naive teen asking a blunt practical question"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "直接ではないけど、評価や昇進という形で報われるよ。地味だけど大事な仕事さ。",
+      "en": "Not directly, but it comes back as recognition and promotions. It's quiet work, but important.",
+      "style": "warm doctor closing with humble professional pride"
+    }
+  ]
+}

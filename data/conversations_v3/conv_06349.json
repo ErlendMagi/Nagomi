@@ -1,0 +1,86 @@
+{
+  "id": "conv_06349",
+  "context": "A police officer briefs on security",
+  "purpose": "Teach: 立ち入り/来客/注釈/痕跡/痕/に当たる/成っ/時として",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "立ち入り",
+    "来客",
+    "注釈",
+    "痕跡",
+    "痕",
+    "に当たる",
+    "成っ",
+    "時として"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_319 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "立ち入り規制、警察基準で、再確認をお願いします。",
+      "en": "Please re-confirm access restrictions against our police standards.",
+      "style": "Measured and official. Steady eye contact. Clear enunciation on each key term. No rush — the words carry their own weight. Professional courtesy underlying the authority.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。来客時の警備、強化します。",
+      "en": "Yes. We'll strengthen security protocols for visitors.",
+      "style": "Attentive and ready. Slight forward lean. Earnest — taking the instruction seriously without over-performing. Quiet confidence that the work will be done.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "不正アクセスの注釈、契約書に明記してください。",
+      "en": "Unauthorized access protocols need to be explicitly stated in the contract.",
+      "style": "Matter-of-fact. Slight tap of emphasis on 'explicitly'. Not unkind, but non-negotiable. The tone of someone who has seen what happens when things aren't spelled out.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。痕跡を残す対策、社内で進めます。",
+      "en": "Understood. We'll move forward internally on trace-retention measures.",
+      "style": "Businesslike, taking notes mentally. Respectful pace. Shows he's absorbing, not just receiving. Demonstrates competence through attention to detail.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "過去事件の痕、警察データベースで、共有可能です。",
+      "en": "Past incident data is available for sharing through our police database.",
+      "style": "Straightforward procedural information. Slight pause before the offer — giving weight to the resource being made available. Calm authority, no pressure.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法改正に当たる時期、対応を急ぎます。",
+      "en": "Yes. When legal revisions come up, we'll prioritize updating our procedures.",
+      "style": "Responsive and proactive. Nods slightly with the acknowledgment. Shows he understands the stakes. Quick but not rushed — demonstrating readiness without rushing assurance.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社、健全に成っていますね。",
+      "en": "Your company has been handling this responsibly.",
+      "style": "Genuine approval delivered without warmth. A brief acknowledgment of competence — the kind compliment that matters because it's earned, not given. Slight nod.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。時として、警察への通報も、検討します。",
+      "en": "Yes. We're also prepared to report concerns to police when necessary.",
+      "style": "Settling into agreement. Quiet resolution. The finality of 'also prepared' — showing alignment of values, not just compliance. Steady, grounded finish.",
+      "mood": "resolute"
+    }
+  ]
+}

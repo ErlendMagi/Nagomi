@@ -1,0 +1,86 @@
+{
+  "id": "conv_06329",
+  "context": "A police officer briefs on operations",
+  "purpose": "Teach: 代物/承っ/施さ/組み立てる/忘れ物/目指せ/習う/参観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "代物",
+    "承っ",
+    "施さ",
+    "組み立てる",
+    "忘れ物",
+    "目指せ",
+    "習う",
+    "参観"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_318 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の代物、警察視点でも興味深いです。",
+      "en": "Your company's work is interesting from a police perspective too.",
+      "style": "Measured, professional opening. Clear enunciation on the compliment. Steady eye contact. The tone of someone extending a genuine overture across institutional lines.",
+      "mood": "professional_interested"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。協定の依頼、承っています。",
+      "en": "Yes. We've received the request and we're ready to cooperate.",
+      "style": "Respectful but not stiff. A slight nod in the voice. Not overexplaining — just confirming receipt with quiet readiness.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "追跡装置を施さない試作品もあり、警察と共有可能ですか。",
+      "en": "We also have prototype versions without tracking devices. Would those be shareable with the police department?",
+      "style": "Formal but warm. Slight lift on the question mark — not demanding, genuinely asking. The careful wording of someone building trust.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。試作品を組み立てる工程、見学頂けます。",
+      "en": "Yes. You'd be welcome to observe the assembly process for the prototypes.",
+      "style": "Open, inviting without overselling. Natural pace. A small warmth underneath the professionalism — the offer itself is the gesture.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "機密書類、忘れ物のない管理、お願いします。",
+      "en": "Please make sure all confidential documents are accounted for and properly managed.",
+      "style": "Direct but not harsh. Clear authority without condescension. The tone of someone who's seen what goes wrong and wants to prevent it.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界の安全、目指せる連携、進めます。",
+      "en": "Yes. We're committed to moving forward with a partnership that supports industry safety standards.",
+      "style": "Steady commitment. Slight emphasis on 'industry safety' — this matters beyond the transaction. Measured pace, resolute close.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察学校で、習う場、提供できます。",
+      "en": "The police academy can offer training facilities and educational access.",
+      "style": "Straightforward institutional offering. No soft edges, no need for them — the value is obvious. Calm authority.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。施設参観、社員に呼びかけます。",
+      "en": "Yes. I'll reach out to staff about scheduling a facility visit.",
+      "style": "Practical, action-oriented close. A slight sense of efficiency — this is being handled. Warm finality.",
+      "mood": "assured"
+    }
+  ]
+}

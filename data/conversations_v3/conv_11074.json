@@ -1,0 +1,86 @@
+{
+  "id": "conv_11074",
+  "context": "Doctor discusses cases",
+  "purpose": "Teach: 本校/（財）/先ごろ/片っ端/遅ればせながら/討ち/新報/追いつめ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "本校",
+    "（財）",
+    "先ごろ",
+    "片っ端",
+    "遅ればせながら",
+    "討ち",
+    "新報",
+    "追いつめ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_555 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、本校、つまり本校の医学生実習を医療チームで支援します",
+      "en": "Ren — we're supporting the medical students' clinical rotations here as a coordinated medical team.",
+      "style": "Clear, professional opening. Measured pace. Addresses Ren directly with his name, then shifts into briefing mode. Steady gaze, no hesitation.",
+      "mood": "professional_clear"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、（財）法人、つまり（財）系の医療機関と医療チームで連携します",
+      "en": "Ren — we're coordinating with the foundation-affiliated medical facilities as part of our healthcare team.",
+      "style": "Same professional register. Slight emphasis on 'coordinating' — showing how the pieces fit together. Calm authority, not condescending.",
+      "mood": "professional_clear"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、先ごろ発表の臨床ガイドラインを医療チームで読み込みます",
+      "en": "Ren — our healthcare team is going to carefully review the clinical guidelines that were just released.",
+      "style": "Tempo stays steady. Light emphasis on 'carefully' — this matters. Voice carries weight but not urgency. No rush.",
+      "mood": "focused_deliberate"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、片っ端から症例文献を医療チームで集めます",
+      "en": "Ren — we're systematically gathering case studies and literature as a coordinated medical team.",
+      "style": "Methodical delivery. 'Systematically' lands with purpose. Voice shows competence and thoroughness without pressure. Clinical but warm.",
+      "mood": "focused_deliberate"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、遅ればせながら気付いた症例を医療チームで再評価します",
+      "en": "Ren — we've identified some cases we missed at first, and we'll be re-evaluating them together with the team.",
+      "style": "Slight dip in confidence here — not shame, but honesty. 'Missed' is soft but clear. Then recovers into collaborative tone. Measured but genuine.",
+      "mood": "honest_grounded"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、感染源を討ち取る、つまり撲滅する取り組みを医療チームでおこないます",
+      "en": "Ren — we're working as a team to eliminate the source of infection — that's our priority.",
+      "style": "Firmer tone. 'Eliminate' carries weight and determination. Voice shows this isn't academic — there's urgency beneath the calm. Still controlled.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、新報、つまり新報の医療記事を医療チームで参照します",
+      "en": "Ren — our medical team will be reviewing the health reports in the medical press and staying current.",
+      "style": "Returns to steady professional briefing mode. Tempo measured. Shows diligence without drama. Voice is reliable, almost routine.",
+      "mood": "professional_steady"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、病気を追いつめ、つまり追い詰める診断を医療チームでおこないます",
+      "en": "Ren — we're going to narrow down the diagnosis and corner this illness systematically as a team.",
+      "style": "Final statement carries quiet intensity. 'Narrow down' and 'corner' build momentum slightly. Voice feels purposeful, clinical, but deeply committed. Closes steady.",
+      "mood": "resolved_determined"
+    }
+  ]
+}

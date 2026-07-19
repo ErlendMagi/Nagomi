@@ -1,0 +1,75 @@
+{
+  "id": "conv_02878",
+  "context": "Saito explains body temperature to a patient.",
+  "purpose": "WIDENED SCENARIO: medical explanation; vocabulary (生物/温度/骨/描か/馬) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "生物",
+    "温度",
+    "骨",
+    "描か",
+    "馬"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_144)",
+    "generated_at": "2026-05-29T14:39:39.757Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "先生、最近、体が冷えやすくて。",
+      "en": "Doctor, lately my body gets cold easily.",
+      "style": "concerned office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体の温度を、保つことが大切です。",
+      "en": "Keeping your body temperature is important.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "骨にも、影響しますか?",
+      "en": "Does it affect the bones too?",
+      "style": "curious office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "骨は、適度な運動で丈夫になります。",
+      "en": "Bones get strong with moderate exercise.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "人も生物だから、温度が大事なんですね。",
+      "en": "Since humans are organisms, temperature matters.",
+      "style": "understanding office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "この図に、骨の構造が描かれています。",
+      "en": "This diagram depicts the bone structure.",
+      "style": "gentle doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "乗馬は、体にいいですか?",
+      "en": "Is horse riding good for the body?",
+      "style": "curious office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "馬に乗るのも、良い運動になりますよ。",
+      "en": "Riding a horse is good exercise too.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

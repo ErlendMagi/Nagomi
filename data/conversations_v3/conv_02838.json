@@ -1,0 +1,75 @@
+{
+  "id": "conv_02838",
+  "context": "Ren reports from a field visit to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: business field report; vocabulary (現地/高速/図書館/レストラン/南) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "現地",
+    "高速",
+    "図書館",
+    "レストラン",
+    "南"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_142)",
+    "generated_at": "2026-05-29T14:30:17.368Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "南の支店を、現地で見てきました。",
+      "en": "I visited the southern branch on-site.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "高速で、行ってきたのかね?",
+      "en": "Did you go by expressway?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、高速で二時間ほどでした。",
+      "en": "Yes, about two hours by expressway.",
+      "style": "precise young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現地の様子は、どうだったかね?",
+      "en": "How was the situation on-site?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現地の社員と、レストランで話しました。",
+      "en": "I talked with local staff at a restaurant.",
+      "style": "measured young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "近くに、施設はあるのかね?",
+      "en": "Are there facilities nearby?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "南の駅前に、図書館もありました。",
+      "en": "There was a library by the southern station.",
+      "style": "confident young presenter voice, soft warm professional focus throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "現地の声を、よく聞いてくれたな。",
+      "en": "You listened well to local voices.",
+      "style": "satisfied boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

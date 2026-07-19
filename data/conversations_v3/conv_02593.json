@@ -1,0 +1,75 @@
+{
+  "id": "conv_02593",
+  "context": "Ren interviews Kenji about a software project.",
+  "purpose": "WIDENED SCENARIO: tech interview; tech vocabulary (コンピュータ/ソフト/チェック/ネットワーク) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンピュータ",
+    "ソフト",
+    "チェック",
+    "ネットワーク",
+    "デジタル"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "このソフトは、何ができるんですか?",
+      "en": "What can this software do?",
+      "style": "engaged young interviewer voice, soft warm curious throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピュータの作業を、自動化します。",
+      "en": "It automates computer tasks.",
+      "style": "clear office man voice, soft warm informative throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ネットワーク越しにも、使えますか?",
+      "en": "Can it be used over the network?",
+      "style": "curious young interviewer voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、ネットワーク経由で動きます。",
+      "en": "Yes, it runs over the network.",
+      "style": "measured office man voice, soft warm informative throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "間違いは、どうチェックするんですか?",
+      "en": "How do you check for errors?",
+      "style": "engaged young interviewer voice, soft warm curious throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ソフトが、自動でチェックします。",
+      "en": "The software checks automatically.",
+      "style": "clear office man voice, soft warm informative throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "デジタルの力は、すごいですね。",
+      "en": "The power of digital is amazing.",
+      "style": "impressed young interviewer voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンピュータが、仕事を変えていきますよ。",
+      "en": "Computers keep changing work.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

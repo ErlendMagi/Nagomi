@@ -1,0 +1,78 @@
+{
+  "id": "conv_03903",
+  "context": "A doctor briefs a research intern on study procedures",
+  "purpose": "Teach: 臨床/介入/助成/拘束/学術/生成/振動/苦しみ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "臨床",
+    "介入",
+    "助成",
+    "拘束",
+    "学術",
+    "生成",
+    "振動",
+    "苦しみ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日からうちの臨床試験チームに入ってもらうから、まず全体の流れを説明するね。",
+      "en": "Starting today you're joining our clinical trial team, so let me first explain the overall flow.",
+      "style": "Calm senior doctor briefing a newcomer warmly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。早期介入の研究に関われるなんて、本当に光栄です。",
+      "en": "Thank you for having me. I'm truly honored to be involved in early intervention research.",
+      "style": "Polite eager university intern showing humble respect."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今回のプロジェクトは国の研究助成を受けていて、学術論文として発表する予定なんだ。",
+      "en": "This project is funded by national research grants, and we plan to publish it as an academic paper.",
+      "style": "Matter-of-fact mentor outlining the project's stakes."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。被験者さんの拘束時間はだいたいどのくらいになりますか？",
+      "en": "I see. About how long is the time commitment required from each participant?",
+      "style": "Curious intern asking a practical procedural question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一回あたり二時間ほどでね、その間に脳内のタンパク質の生成を測定して、機械の微弱な振動も記録するんだ。",
+      "en": "About two hours per session, during which we measure protein production in the brain and also record faint vibrations from the equipment.",
+      "style": "Doctor explaining technical procedure in plain teaching tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もし途中で患者さんが苦しみを訴えたら、どう対応すればいいでしょうか？",
+      "en": "If a patient expresses distress partway through, how should I respond?",
+      "style": "Conscientious intern raising an ethical safety concern."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "すぐに中断して私を呼んでくれ。安全が最優先だから、絶対に無理はさせないように。",
+      "en": "Stop immediately and call me. Safety comes first, so never push a patient too hard.",
+      "style": "Firm protective senior physician giving a clear rule."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。来週までに関連の論文を読んで、しっかり準備しておきます。",
+      "en": "Understood. I'll read the related papers by next week and prepare thoroughly.",
+      "style": "Determined intern committing to diligent preparation."
+    }
+  ]
+}

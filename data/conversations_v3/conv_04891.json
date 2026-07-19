@@ -1,0 +1,72 @@
+{
+  "id": "conv_04891",
+  "context": "A teacher walks a uni student through a sociology paper",
+  "purpose": "Teach: アイデンティティ/苦悩/根源/嫌悪/落語/教団/風俗/戦車",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "アイデンティティ",
+    "苦悩",
+    "根源",
+    "嫌悪",
+    "落語",
+    "教団",
+    "風俗",
+    "戦車"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_246 workflow wgbt2o3e0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "レポート読んだよ。テーマは『現代人のアイデンティティの危機』だったよね。",
+      "en": "I read your paper. The theme was 'the identity crisis of modern people,' right?",
+      "style": "Warm professorial tone, opens with gentle acknowledgment before critique."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。書いてる途中、自分でも何が言いたいのか分からなくなって、苦悩しました。",
+      "en": "Yes. Halfway through writing, I lost track of what I wanted to say, and I really struggled.",
+      "style": "Honest student voice, slightly deflated, admits to genuine difficulty."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "問題の根源はね、対象が広すぎることなの。たとえば落語の世界と新興教団を同じ章で論じてるでしょ。",
+      "en": "The root of the problem is that your scope is too broad. For example, you discuss rakugo and new religious groups in the same chapter.",
+      "style": "Diagnostic and direct, points to a concrete structural flaw."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦後の風俗を横断的に見たかったんです。戦車が街を走った時代の空気まで含めて。",
+      "en": "I wanted to look across postwar customs, including the atmosphere of the era when tanks rolled through the streets.",
+      "style": "Eager but unfocused, reveals research ambition spilling beyond manageable scope."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "意欲は買うけど、嫌悪されるような散漫な論文になっちゃうよ。端的に言うと、一つの事例を深く掘る方が学術的に値するの。",
+      "en": "I appreciate the drive, but it'll become the kind of scattered paper readers dislike. Bluntly put, drilling deep into one case has more academic merit.",
+      "style": "Encouraging yet firm, mixes empathy with clear academic standards."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "じゃあ落語家のコミュニティに絞って、師弟関係から見える自己像を探索する方向で。",
+      "en": "Then I'll narrow it to the rakugo performers' community and explore self-image through master-apprentice relationships.",
+      "style": "Quick recovery, shows the student can pivot once given direction."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それいいね。来週までに章立てを直して持っておいで。活力ある議論にしよう。",
+      "en": "That sounds great. Bring me the revised chapter outline by next week. Let's make this a lively discussion.",
+      "style": "Closes warmly with concrete deadline and motivating final push."
+    }
+  ]
+}

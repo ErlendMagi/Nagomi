@@ -1,0 +1,90 @@
+{
+  "id": "conv_03507",
+  "context": "A manager and assistant plan opening a new branch and training programs",
+  "purpose": "Teach: マイクロソフト/キャリア/アプローチ/ステップ/開設/受講/税込/燃料",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "マイクロソフト",
+    "キャリア",
+    "アプローチ",
+    "ステップ",
+    "開設",
+    "受講",
+    "税込",
+    "燃料"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_176 workflow whb15wn06)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "来月、横浜に新しい支店を開設することになったよ。",
+      "en": "We've decided to open a new branch in Yokohama next month.",
+      "style": "Manager sharing big news in a measured, decisive male voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "おめでとうございます。次のステップとして、まず物件の契約から進めますか？",
+      "en": "Congratulations. As the next step, shall we start with the property contract?",
+      "style": "Polite female assistant offering structured procedural suggestion"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうだね。あと、社員のキャリア形成のために研修制度も整えたい。",
+      "en": "Yes. Also, I want to set up a training system for employees' career development.",
+      "style": "Thoughtful boss laying out long-term staffing vision"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "でしたら、マイクロソフトが提供している法人向け講座を受講させるのはいかがでしょう。",
+      "en": "In that case, how about having them take the corporate courses offered by Microsoft?",
+      "style": "Assistant proposing a concrete vendor solution with deferential tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいね。費用はどのくらい？税込で出してもらえる？",
+      "en": "Sounds good. How much does it cost? Can you give me the figure tax-included?",
+      "style": "Practical manager asking for budget figures in a slightly clipped tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、一人あたり税込で約八万円です。オンライン受講なので追加の経費はかかりません。",
+      "en": "Yes, about 80,000 yen per person tax-included. Since it's online, no extra expenses apply.",
+      "style": "Detailed female reply with crisp numerical breakdown and clarification"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かるよ。最近は燃料費も上がっているから、出張型の研修は避けたいんだ。",
+      "en": "That helps. Fuel costs have been rising lately, so I want to avoid travel-based training.",
+      "style": "Manager noting cost pressures with a candid, slightly weary delivery"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "おっしゃる通りです。従来とは違うアプローチで、若手の育成を進められそうですね。",
+      "en": "Exactly as you say. We can develop young employees with a different approach than before.",
+      "style": "Agreeable female assistant aligning warmly with the strategic direction"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、その方針で行こう。来週の会議までに具体的な案をまとめておいて。",
+      "en": "Yes, let's go with that direction. Please prepare a concrete proposal by next week's meeting.",
+      "style": "Decisive manager closing the discussion with a clear action item"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知いたしました。受講希望者のリストも今週中にまとめておきます。",
+      "en": "Understood. I'll also compile the list of applicants by the end of this week.",
+      "style": "Crisp formal acknowledgment closing the meeting in a professional tone"
+    }
+  ]
+}

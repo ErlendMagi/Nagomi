@@ -1,0 +1,83 @@
+{
+  "id": "conv_00706",
+  "context": "Hiroshi briefs Kenji on a new corporate initiative.",
+  "purpose": "boss-subordinate strategy briefing with N3 vocabulary",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "計画",
+    "情報",
+    "重要",
+    "説明",
+    "対応"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、新しい計画、簡単に、説明する。",
+      "en": "Kenji, I need you to brief me on the new plan. Keep it concise.",
+      "style": "Clipped, measured opening. No wasted breath. Authority sits naturally in the cadence. Lean forward slightly—attention focused, expecting the same back. Calm certainty underneath.",
+      "mood": "composed_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、伺います。お願いします。",
+      "en": "Yes, sir. I'm ready to listen.",
+      "style": "Respectful attention. Slight nod in the voice. No hesitation, no over-explanation. Warm but professional—the kind of readiness that says he's genuinely prepared to take this in.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外の情報、増えてる。対応、急ぐ必要ある。",
+      "en": "We're getting more intelligence from overseas. We need to move fast on this.",
+      "style": "Weight on 'more' and 'fast.' Not alarmist, but the urgency is clear. Steady voice, no fluster. The kind of warning that comes from experience, not panic.",
+      "mood": "urgent_controlled"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "理解しました。チーム、すぐ、集めます。",
+      "en": "Understood. I'll gather the team right away.",
+      "style": "Quiet snap to it. No dramatics. Just immediate commitment in the tempo—the voice quickens slightly, ready to move. Respectful but energized.",
+      "mood": "focused_committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "重要な点、報告書、まとめろ。",
+      "en": "Pull the key points together and get me a full report.",
+      "style": "Direct instruction, not negotiable. But there's a lightness underneath—this is routine competence, not crisis management. Expects it will be done well.",
+      "mood": "instructive_confident"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今週中に、提出いたします。",
+      "en": "I'll have it to you by end of week.",
+      "style": "Promise made simply. No over-assurance. The voice settles into reliability—measured, assured. This is a pledge he means to keep.",
+      "mood": "assured_committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼むぞ。お前の判断、信頼している。",
+      "en": "I'm counting on you. I trust your judgment on this.",
+      "style": "Slight softening from the previous directness. Direct eye contact level in the voice. The compliment is genuine but not effusive—respect stated plainly, as fact.",
+      "mood": "trusting_affirming"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。全力で、対応いたします。",
+      "en": "Thank you, sir. I won't let you down.",
+      "style": "Gratitude genuine and understated. Slight warmth enters the voice. Resolute closing—not a promise made lightly, but one he fully intends to keep. Dignity intact.",
+      "mood": "grateful_resolved"
+    }
+  ]
+}

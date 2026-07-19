@@ -1,0 +1,61 @@
+{
+  "id": "conv_01910",
+  "context": "Naoko receives a delivery and signs for it gruffly; chats with the deliveryman briefly.",
+  "purpose": "Brief Kansai-style customer-service moment.",
+  "ambient": "ramen_shop_door_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "配達",
+    "荷物",
+    "受け取り",
+    "署名"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "takeda_officer"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お届けです、署名お願いします。",
+      "en": "I have a delivery for you — could you sign here, please?",
+      "style": "Warm, professional courtesy. Even-paced. Gentle knock on \"sign.\" No rush in the voice. The practiced ease of someone who does this every day but means it.",
+      "mood": "professional_warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おう、おおきに、ご苦労さん。",
+      "en": "Yeah, thanks — appreciate the hard work.",
+      "style": "Brash Kansai greeting, bright and generous. Quick up-tempo opening. Genuine appreciation, not condescending. The voice of someone who feeds delivery people because they respect the work.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "荷物、ここに置きます。",
+      "en": "I'll set the package down here for you.",
+      "style": "Gentle, unhurried. Small smile in the voice. Meticulous but not stiff — making space for the package like it matters. Soft landing on each word.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "はい、受け取りました。",
+      "en": "Yes, I've got it — thank you.",
+      "style": "Warm and satisfied. A small nod in the voice. Brisk but not dismissive — the closing warmth of someone pleased with the exchange and moving forward.",
+      "mood": "content"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "では、失礼します。",
+      "en": "Then I'll be on my way — thank you for your time.",
+      "style": "Polite close, small bow in the voice. Composed, respectful. Neither hurried nor lingering. The professional grace of knowing when an exchange is complete.",
+      "mood": "courteous"
+    }
+  ]
+}

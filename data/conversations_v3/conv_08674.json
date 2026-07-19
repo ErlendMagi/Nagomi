@@ -1,0 +1,86 @@
+{
+  "id": "conv_08674",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 防護/寄生虫/万引き/罵倒/国策/保釈/喚問/殺傷",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "防護",
+    "寄生虫",
+    "万引き",
+    "罵倒",
+    "国策",
+    "保釈",
+    "喚問",
+    "殺傷"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_435 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、感染症対応で防護服を医療チームで着用しております",
+      "en": "Ren — we've equipped our medical team with protective gear for infectious disease response.",
+      "style": "Measured, professional. Slight pause after his name to center attention. Clear enunciation on procedural details. Steady breathing, no affect. The tone of someone who has explained protocols many times and will explain them again as needed.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、輸入食品の寄生虫検査を医療チームで強化しました",
+      "en": "Yes — we've strengthened our screening protocols for parasites in imported foods across the medical team.",
+      "style": "Calm continuation. Matter-of-fact pace. Each element stated with equal weight. No emphasis or diminishment. The voice of institutional competence without performance.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "万引きで隠した薬物の事案を、貴院、ご相談されたんですね、先生",
+      "en": "So the hospital consulted with you about the drug case that came through as a shoplifting incident, Doctor?",
+      "style": "Thoughtful and exploratory. Slight hesitation at the opening — he's piecing something together. Respectful distance, genuine curiosity. Tone lifts slightly at the end as a question, not uncertainty.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療スタッフへの罵倒対策を医療チームで強化しております",
+      "en": "Yes — we've also reinforced our protocols for managing verbal abuse directed at medical staff.",
+      "style": "Steady, factual. Same register as before. A slight deepening of seriousness without becoming heavy. Words land precisely. The tone acknowledges the difficulty without flinching.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国策医療の参加を、貴院、ご検討されてるそうですね、先生",
+      "en": "I understand the hospital is considering participation in the national health initiative, Doctor?",
+      "style": "Respectful inquiry. Slower pace than before — he's asking about something larger. Genuine interest in the scope of what she's saying. Slight lilt at the end, inviting confirmation without pressing.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、保釈中の患者の医療管理も医療チームで担当します",
+      "en": "Yes — our team also manages medical care for patients currently on bail.",
+      "style": "Continuation of institutional listing. No change in pace or tone. Direct statement of responsibility. Clinical precision. The steady voice of someone managing multiple difficult cases simultaneously.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国会喚問への医療意見書提出を、貴院、ご準備されてますね、先生",
+      "en": "The hospital is preparing a medical opinion statement for Diet testimony, isn't it, Doctor?",
+      "style": "Careful observation. Slower, slightly weighted. He's naming something significant — governmental level. Respectful but not deferential. Pause before 'Doctor' acknowledges the gravity. Steady eye-line through the question.",
+      "mood": "serious_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、殺傷事件被害者の救護を医療チームで担当します",
+      "en": "Yes — our medical team is also responsible for emergency response and treatment of trauma victims.",
+      "style": "Final statement. The weight of it lands quietly. No rush. Clinical language carries the seriousness. Slight pause before 'trauma victims' — not to dramatize but to acknowledge what it means. Steady, unflinching.",
+      "mood": "composed_grave"
+    }
+  ]
+}

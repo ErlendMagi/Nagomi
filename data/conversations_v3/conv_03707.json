@@ -1,0 +1,78 @@
+{
+  "id": "conv_03707",
+  "context": "A nurse explains care after a hospital stay",
+  "purpose": "Teach: 警備/中継/看護/録画/残す/時には/次第に/観る",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "警備",
+    "中継",
+    "看護",
+    "録画",
+    "残す",
+    "時には",
+    "次第に",
+    "観る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_186 w334t9mrp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "退院おめでとうございます。担当の看護師にも引き継ぎを伝えてありますので、ご安心ください。",
+      "en": "Congratulations on your discharge. I've also passed the handover to the nurse in charge, so please don't worry.",
+      "style": "Calm, formal doctor wrapping up with reassurance."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます。家に帰ってからの過ごし方で、気をつけることはありますか。",
+      "en": "Thank you. Is there anything I should be careful about once I'm back home?",
+      "style": "Polite middle-aged mother seeking practical guidance."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まず無理は禁物です。次第に体力が戻ってきますから、最初の一週間は短い散歩程度にしてください。",
+      "en": "First, don't push yourself. Your strength will gradually return, so for the first week stick to short walks.",
+      "style": "Measured, instructive tone with gentle authority."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "わかりました。退屈な時には、ベッドで映画でも観るくらいでいいでしょうか。",
+      "en": "Understood. When I get bored, would just watching a movie in bed be okay?",
+      "style": "Slightly humorous, checking in on small comforts."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、それで構いません。生中継のスポーツなどは興奮しすぎるので、録画したものをのんびり観るのがお勧めです。",
+      "en": "Yes, that's fine. Live broadcasts of sports get too exciting, so I recommend calmly watching recorded shows instead.",
+      "style": "Friendly medical advice with a touch of warmth."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "夜中に何かあった時のために、夜間の連絡先も控えておいた方がいいですか。",
+      "en": "In case something happens at night, should I also note down the night-time contact info?",
+      "style": "Cautious mother thinking ahead about possible emergencies at night."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。夜間の警備室の番号も含めて、この紙にすべての連絡先を残しておきました。",
+      "en": "Of course. I've left all the contact information on this paper, including the number for the night security desk.",
+      "style": "Thoughtful, practical, ends consultation warmly with care."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ご丁寧にありがとうございます。先生のおかげで、不安が次第に消えてきました。",
+      "en": "Thank you for being so thorough. Thanks to you, my anxiety is gradually fading away.",
+      "style": "Sincere gratitude expressed with quiet relief now."
+    }
+  ]
+}

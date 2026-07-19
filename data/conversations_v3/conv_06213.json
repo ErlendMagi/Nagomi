@@ -1,0 +1,86 @@
+{
+  "id": "conv_06213",
+  "context": "A boss reviews ops",
+  "purpose": "Teach: 重なり/言い回し/輪郭/際立っ/押さえる/手腕/旧式/ずさん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "重なり",
+    "言い回し",
+    "輪郭",
+    "際立っ",
+    "押さえる",
+    "手腕",
+    "旧式",
+    "ずさん"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_312 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "各部署の責任、重なりがある場合の整理、進めろ。",
+      "en": "Get the overlapping section responsibilities organized.",
+      "style": "Measured authority. Clipped, decisive pace. Eyes forward. Not unkind, but final—this is what needs doing.",
+      "mood": "directing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社外向けの言い回し、統一中です。",
+      "en": "Yes. We're standardizing how we present to external partners.",
+      "style": "Steady, competent tone. Shoulders level. Speaking as someone tracking the work closely, not performing efficiency.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "事業計画の輪郭、明確にしろ。",
+      "en": "Make the business plan outline sharper.",
+      "style": "Quiet weight behind the words. Slight lean forward. Not rushed—deliberate. The tone of someone who sees where this needs to land.",
+      "mood": "directing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。競合と際立った差別化、目指します。",
+      "en": "Yes. We're aiming for clear differentiation from competitors.",
+      "style": "Confident without rushing. Voice level, assured. The tone of someone who has already thought this through and is naming it aloud.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予算、しっかり押さえる体制を。",
+      "en": "Build the systems to lock down the budget tightly.",
+      "style": "Businesslike finality. No softening. Brief. The voice of someone who has seen budgets slip before.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "担当の手腕、若手にも見せたいです。",
+      "en": "I want to show the younger staff what good management looks like.",
+      "style": "Lighter tone underneath—genuine. Speaking to someone he trusts. Quiet conviction, not performing it.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "旧式の業務、刷新する時期だ。",
+      "en": "It's time to overhaul the outdated processes.",
+      "style": "Slow, considered. Not harsh, but certain. The voice of someone observing something that has needed changing for a while.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ずさんな運用、改めていきます。",
+      "en": "Yes. We'll fix the careless gaps in how we're operating.",
+      "style": "Steady responsibility in the voice. Direct acknowledgment. No excuse-making, just saying what will happen.",
+      "mood": "resolute"
+    }
+  ]
+}

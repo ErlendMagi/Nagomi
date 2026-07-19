@@ -1,0 +1,78 @@
+{
+  "id": "conv_04254",
+  "context": "A uni student interviews a retired bureaucrat about institutional history",
+  "purpose": "Teach: 参議院/法令/地裁/担保/信託/国鉄/防衛庁/外資",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "参議院",
+    "法令",
+    "地裁",
+    "担保",
+    "信託",
+    "国鉄",
+    "防衛庁",
+    "外資"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。学生時代から、参議院での法案審議に関わっていらしたと伺いました。",
+      "en": "Thank you for your time today. I heard you've been involved in bill deliberations in the House of Councillors since your student days.",
+      "style": "Polite formal academic tone with humble bowing energy"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、若い頃は法令の起草補佐をしていてね。当時は国鉄の民営化や、防衛庁の組織改編が大きな議論になっていた時期だ。",
+      "en": "Ah, when I was young I assisted in drafting legislation. Back then, the privatization of JNR and the reorganization of the Defense Agency were major debates.",
+      "style": "Reflective elderly statesman, measured nostalgic gravitas"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国鉄の話、ぜひ詳しく伺いたいです。当時、外資の参入についてはどんな議論があったのでしょうか。",
+      "en": "I'd really like to hear more about JNR. At the time, what discussions were there about foreign capital entering the market?",
+      "style": "Eager curious student, leaning-forward inquisitive tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "外資の扱いは慎重だったよ。土地を担保にした融資の仕組みや、信託銀行を介した資金の流れも、すべて新しく設計し直す必要があった。",
+      "en": "We handled foreign capital cautiously. The framework for land-collateralized loans and fund flows through trust banks all had to be redesigned from scratch.",
+      "style": "Patient explanatory mentor, careful didactic phrasing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。それが地裁での判例にも影響したと、ゼミの教授が話していました。",
+      "en": "I see. My seminar professor mentioned that this also influenced precedents at the district court level.",
+      "style": "Respectful confirming response, scholarly engaged listener"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よく勉強しているね。実際、いくつかの地裁判決が制度の方向性を決めたと言ってもいい。",
+      "en": "You've studied well. In fact, you could say several district court rulings determined the direction of the system.",
+      "style": "Approving warm praise, grandfatherly encouraging cadence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、本当に勉強になります。論文の中で、しっかり引用させてください。",
+      "en": "Your insights are truly invaluable. Please allow me to cite them properly in my thesis.",
+      "style": "Grateful sincere closing, deferential earnest student"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、頑張りなさい。歴史を学ぶ若者がいることが、何よりの希望だよ。",
+      "en": "Yes, do your best. The fact that young people are studying history is the greatest hope of all.",
+      "style": "Warm paternal farewell, gentle encouraging closing"
+    }
+  ]
+}

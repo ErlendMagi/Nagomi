@@ -1,0 +1,86 @@
+{
+  "id": "conv_06848",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 役に立ち/即時/役場/強固/着信/インセンティブ/力量/上京",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役に立ち",
+    "即時",
+    "役場",
+    "強固",
+    "着信",
+    "インセンティブ",
+    "力量",
+    "上京"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_344 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、君の研究、産業界に、役に立ちうるか、視点を、持て。",
+      "en": "Ren — think about whether your research could have practical value in industry.",
+      "style": "Measured, unhurried authority. Light pause before key phrase. Not a question, a directive framed as thoughtful guidance. Leans back slightly.",
+      "mood": "directive_mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験結果、即時、ノートに、記録するようにしています。",
+      "en": "Yes, sir. I'm making sure to record experimental results in my notebook immediately.",
+      "style": "Quiet respect. Slight hurry in the delivery—eager to show he's competent. Clear enunciation on 'immediately.' Eyes steady but not quite relaxed.",
+      "mood": "earnest_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役場の協力、地域研究、進める上で、欠かせないぞ。",
+      "en": "The local office's cooperation is essential for moving the regional research forward.",
+      "style": "Firm, factual tone. Slight emphasis on 'essential'—not negotiable. Measured pace. Weight of experience in every clause.",
+      "mood": "assured_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室、データ管理、強固な体制で、運営しております。",
+      "en": "Yes. We're running the lab's data management with a solid system in place.",
+      "style": "Slightly defensive—wants to prove readiness. Pace quickens on 'solid system.' Professional tone masking underlying anxiety about evaluation.",
+      "mood": "attentive_cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "論文査読、依頼の着信、即、確認するようにしろ、見落とすな。",
+      "en": "When review requests come in, verify them immediately. Don't miss anything.",
+      "style": "Direct, no softening. Short sentences with clean endings. Slight pressure behind the words—this matters. Eyes make contact.",
+      "mood": "firm_specific"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究、論文掲載のインセンティブ、若手、活発化しています。",
+      "en": "Yes. Research incentives for publication are motivating the younger members.",
+      "style": "Rapid delivery—overcorrecting with eagerness. Slightly breathless, as if he's rushing to show progress. Small nervous pause before finishing.",
+      "mood": "eager_slightly_rushed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "研究者として、君の力量、評価しているぞ、これからも、頑張れ。",
+      "en": "I'm evaluating your ability as a researcher. Keep working hard.",
+      "style": "Warmth enters for the first time. Slower pace. The words land heavier because they're sparse. Small nod implied. Genuine respect underneath.",
+      "mood": "approving_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。地方の大学から、上京して、学んできて、本当に、よかったと思います。",
+      "en": "Yes. Coming up to Tokyo from a local university and learning all this—I'm really grateful.",
+      "style": "Emotional restraint breaking. Quiet voice. Slight catch as if the gratitude surprised him saying it out loud. Trailing softly at the end, sincere.",
+      "mood": "grateful_vulnerable"
+    }
+  ]
+}

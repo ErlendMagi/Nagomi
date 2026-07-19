@@ -1,0 +1,83 @@
+{
+  "id": "conv_00157",
+  "context": "Mrs. Mori from next door has brought over some homemade pickles. They chat briefly at the genkan.",
+  "purpose": "neighborly warmth — small gift exchanged with light gossip and care",
+  "ambient": "genkan_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "漬物",
+    "美味しい",
+    "頂く",
+    "元気",
+    "きゅうり"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ゆみこさん、これ、お裾分け。",
+      "en": "Yumiko-san, here — a little something to share.",
+      "style": "Warm neighbor voice in late-middle-age cadence, easy gift-giving energy threaded throughout casually.",
+      "mood": "neighborly-easy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、お漬物？嬉しい！",
+      "en": "Oh, pickles? I'm so happy!",
+      "style": "Bright maternal pleasure surfacing, genuine surprised delight, the appreciation unfeigned and warm.",
+      "mood": "delighted-genuine"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "今年のきゅうり、よく出来てね。",
+      "en": "This year's cucumbers turned out really well.",
+      "style": "Neighbor modest pride flowing through, the seasonal pleasure carried easily in conversational warmth.",
+      "mood": "modestly-proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いつもありがとうございます。頂きます。",
+      "en": "Thank you always. We'll enjoy it.",
+      "style": "Polite maternal warmth, sincere appreciation extending across years of small kindnesses received gratefully.",
+      "mood": "sincerely-grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ご主人、お元気？",
+      "en": "Is your husband doing well?",
+      "style": "Neighbor easy inquiry, the years of knowing the family in the casual delivery, real interest behind it.",
+      "mood": "easy-inquiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、最近ちょっと忙しいけど元気です。",
+      "en": "Yes, a bit busy lately, but he's well.",
+      "style": "Warm maternal sharing, the qualifier acknowledged honestly, then settling back into reassurance gently.",
+      "mood": "honestly-reassuring"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "それは何より。無理しないようにね。",
+      "en": "That's the best thing. Tell him not to overdo it.",
+      "style": "Neighbor warm parting concern, voice carrying real care into the brief send-off naturally.",
+      "mood": "warmly-concerned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "伝えておきます。本当にありがとう。",
+      "en": "I'll tell him. Truly, thank you.",
+      "style": "Soft maternal closing, sincere appreciation rounded warmly, the small relationship cared for properly here.",
+      "mood": "softly-closing"
+    }
+  ]
+}

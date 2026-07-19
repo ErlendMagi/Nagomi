@@ -1,0 +1,90 @@
+{
+  "id": "conv_00257",
+  "context": "Ren visits Dr. Saito because he can't sleep — exams have been brutal. The doctor handles the young adult carefully.",
+  "purpose": "young-adult mental health visit — practical kindness for non-acute distress",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "眠る",
+    "不安",
+    "仕事",
+    "相談",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "れんさん、今日はどうしましたか。",
+      "en": "Ren-san, what brings you in today?",
+      "style": "Doctor warm professional gentle opener, the soft real careful-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "professionally-gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なんか、最近、眠れなくて。",
+      "en": "Somehow, lately, I can't sleep.",
+      "style": "University student warm soft careful vulnerable disclosure, the soft real honest-distress audible, gentle real warmth throughout delivery.",
+      "mood": "softly-vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつ頃から？何か思い当たることは？",
+      "en": "Since when? Anything you can think of?",
+      "style": "Doctor warm professional careful clinical inquiry, the soft real real-attention audible, gentle real warmth threading throughout delivery.",
+      "mood": "carefully-clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "テスト前から、ずっと。不安で。",
+      "en": "Since before exams, the whole time. Anxious.",
+      "style": "University student warm soft honest careful disclosure, the soft real real-vulnerable audible, gentle real warmth throughout delivery throughout.",
+      "mood": "honestly-vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。生活リズムは、どうですか？",
+      "en": "I see. And your daily rhythm — how is it?",
+      "style": "Doctor warm gentle pivot clinical practical, the soft real expert-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-pivoting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "夜中まで起きてる。スマホも見ちゃう。",
+      "en": "Up until midnight. Looking at the phone too.",
+      "style": "University student warm honest casual confession, the soft real real-honesty audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "honestly-confessing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "まずは、寝る一時間前は、スマホやめてみよう。",
+      "en": "First, let's stop the phone one hour before bed.",
+      "style": "Doctor warm gentle practical specific advice, the soft real expert-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "やってみます。相談できて、ちょっと楽になった。",
+      "en": "I'll try. Talking with you, I feel a little lighter.",
+      "style": "University student warm soft sincere committed-relieved, the soft real touched-warmth audible, gentle real warmth threading throughout delivery.",
+      "mood": "sincerely-relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつでも来てください。一人で抱えないで。",
+      "en": "Come anytime. Don't carry it alone.",
+      "style": "Doctor warm gentle generous closing wisdom, the soft real real-mentor warmth audible, gentle real warmth threading throughout delivery.",
+      "mood": "gently-generous"
+    }
+  ]
+}

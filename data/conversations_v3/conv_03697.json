@@ -1,0 +1,74 @@
+{
+  "id": "conv_03697",
+  "context": "Colleagues plan an after-work food gathering",
+  "purpose": "Teach: 風邪薬/セット/お湯/飲み物/食事会/カウンター/注文する/大盛り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セット",
+    "お湯",
+    "飲み物",
+    "カウンター"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "来週の食事会、もう店は決まりましたか？",
+      "en": "Have you decided on a place for next week's dinner gathering?",
+      "style": "Polite colleague tone, opening a planning conversation casually."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "駅前の居酒屋を考えています。カウンター席なら予約なしでも入れそうです。",
+      "en": "I'm thinking of the izakaya near the station. We can probably get counter seats without a reservation.",
+      "style": "Soft-spoken female office worker, thoughtful and practical suggestion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいですね。あそこは飲み物の種類も多いし、料理を注文するのも簡単ですよ。",
+      "en": "Sounds good. That place has lots of drink options and ordering food is easy.",
+      "style": "Agreeable male coworker, sharing positive past experience enthusiastically."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "田中さんは大盛りが好きだから、ご飯多めのセットを頼むといいかも。",
+      "en": "Tanaka likes large portions, so maybe we should order the set with extra rice.",
+      "style": "Friendly considerate suggestion, thinking of a coworker's preferences."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、そういえば田中さん、今朝ちょっと寒そうにしてましたね。風邪薬持ってるかな。",
+      "en": "Oh, come to think of it, Tanaka seemed a bit cold this morning. I wonder if he has cold medicine.",
+      "style": "Concerned coworker shifting topic naturally with worry."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "後でお湯と一緒に渡しておきます。温かいものを飲んだほうがいいですから。",
+      "en": "I'll bring him some with hot water later. It's better to drink something warm.",
+      "style": "Caring female colleague, offering practical help with quiet kindness."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "さすが優しいですね。じゃあ食事会は金曜の七時で予約お願いします。",
+      "en": "That's so kind of you. Then please book the dinner for seven on Friday.",
+      "style": "Appreciative male voice wrapping up planning with warm gratitude."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解です。みんなにメッセージで知らせておきますね。",
+      "en": "Got it. I'll let everyone know by message.",
+      "style": "Efficient cheerful closing line, confirming follow-up action briefly."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03297",
+  "context": "Refining the schedule with a helper",
+  "purpose": "Refine the plan; teach ３月/日間/５月/２つ/１つ/７月/９月/１月",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "３月",
+    "日間",
+    "５月",
+    "２つ",
+    "１つ",
+    "７月",
+    "９月",
+    "１月"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_165)",
+    "generated_at": "2026-05-29T17:24:30.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "３月のイベント、何日間やるんですか？",
+      "en": "How many days is the March event?",
+      "style": "eager helper checking the duration, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "三日間の予定よ。",
+      "en": "It’s planned for three days.",
+      "style": "planner answering crisply, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "５月の企画は、案が２つあるんですよね。",
+      "en": "The May plan has two proposals, right?",
+      "style": "attentive helper recalling the options, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、その中から１つを選びましょう。",
+      "en": "Yes, let’s pick one of them.",
+      "style": "planner moving toward a decision, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "７月の夏祭りが、一番の目玉ですね。",
+      "en": "The July summer festival is the biggest highlight.",
+      "style": "helper noting the centerpiece, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "９月のイベントも、忘れずに準備して。",
+      "en": "Don’t forget to prep the September event too.",
+      "style": "planner delegating a reminder, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "１月のフェアから逆算すると、もう動かないと。",
+      "en": "Counting back from the January fair, we must move now.",
+      "style": "helper urging timely action, spoken with a recognizable personal cadence"
+    }
+  ]
+}

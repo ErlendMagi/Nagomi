@@ -1,0 +1,79 @@
+{
+  "id": "conv_02036",
+  "context": "Mei discusses healthcare costs in formal language with Saito.",
+  "purpose": "Mother and doctor on practical healthcare matters.",
+  "ambient": "clinic_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "医療",
+    "保険",
+    "費用",
+    "負担",
+    "制度",
+    "支援",
+    "機関",
+    "相談"
+  ],
+  "cast": [
+    "mei_romantic",
+    "saito_doctor"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_102)",
+    "generated_at": "2026-05-27T12:52:20.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、医療費の負担、心配で。",
+      "en": "Doctor, I'm worried about how much the medical costs will be.",
+      "style": "Careful opening—vulnerable but not pitiful. Soft voice, slightly quickened pace as worry surfaces. Seeks permission to be honest about fear.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "保険制度、ご相談しましょう。",
+      "en": "Let's talk through the insurance options available to you.",
+      "style": "Steady, matter-of-fact reassurance. Clear enunciation on the practical path forward. Warm but professional—the voice of someone who has answered this question a hundred times and means it every time.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "支援、何か受けられますか?",
+      "en": "Are there any support programs I could apply for?",
+      "style": "Slight lift at the end—hesitant hope. Quiet, almost asking permission to want help. Pace slows as she gathers courage to name the need.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "関連機関、紹介しますよ。",
+      "en": "I can connect you with the relevant agencies and programs.",
+      "style": "Warm and concrete. A small nod lives in the voice. Professional competence delivered with genuine care—the promise that this path has been cleared before.",
+      "mood": "capable_kind"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "費用、心強いです、本当に。",
+      "en": "That really does help—knowing there are options. Thank you.",
+      "style": "Breath released on the opening word. Genuine relief, not performative. Eyes brighten in the voice. Gratitude that lands softly, like setting down weight.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一人で、抱え込まないで。",
+      "en": "Don't carry this alone. That's what I'm here for.",
+      "style": "Quiet firmness. No performance, just truth. Slight lean forward in the delivery—eye contact level. The kind of doctor who means it because she's seen what isolation costs.",
+      "mood": "protective_direct"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Exhaled gratitude. Formal register—respectful bow lives in the rhythm. Small, sincere. No flourish, just genuine thanks settling into the moment.",
+      "mood": "grateful_composed"
+    }
+  ]
+}

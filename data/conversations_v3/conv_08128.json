@@ -1,0 +1,86 @@
+{
+  "id": "conv_08128",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: カンファレンス/コマーシャル/プロバイダー/申し入れ/立候補/過半数/申立/処遇",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "カンファレンス",
+    "コマーシャル",
+    "プロバイダー",
+    "申し入れ",
+    "立候補",
+    "過半数",
+    "申立",
+    "処遇"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_408 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、国際カンファレンスで発表しろ",
+      "en": "Ren. Present your work at the international conference.",
+      "style": "Calm, direct assignment. No preamble. Matter-of-fact authority wrapped in quiet confidence. The kind of instruction that doesn't ask permission.",
+      "mood": "commanding_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費用にコマーシャル制作も入れたいです",
+      "en": "Yes. I'd like to include commercial production as part of the research budget.",
+      "style": "Hesitant step forward. Soft on the opening agreement, then gathering clarity as he explains. Careful not to overstep — checking Hiroshi's reaction through his own words.",
+      "mood": "hopeful_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、プロバイダー選択でセキュリティ重視しろ",
+      "en": "When you choose a provider, prioritize security.",
+      "style": "Specific, practical. No drama. The voice of someone who has seen what carelessness costs. Brief pause before 'security' — the word lands with quiet weight.",
+      "mood": "protective_firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。共著者からの申し入れに丁寧に応えます",
+      "en": "Understood. I'll respond thoughtfully to any requests from my co-authors.",
+      "style": "Quick, obedient. But underneath — a small note of his own pride in doing this well. Not performing compliance; actually committing to it.",
+      "mood": "focused_determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、学会の役員に立候補してみろ",
+      "en": "Consider running for a position on the conference organizing committee.",
+      "style": "Encouraging, but still measured. Not a suggestion dressed as a command. A genuine opening, delivered in Hiroshi's even tone — trusting Ren to decide.",
+      "mood": "inviting_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。共同研究で過半数の合意が必要です",
+      "en": "I understand. A joint project like that would need buy-in from over half the group.",
+      "style": "Thinking out loud. Quiet processing. Not resisting — analyzing the logistics in real time, almost to himself. The voice of someone already working through the problem.",
+      "mood": "pragmatic_thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文盗用の申立に備えて記録を残せ",
+      "en": "Keep detailed records in case there's a plagiarism claim.",
+      "style": "Steady, protective. No alarm in his voice — just foresight. The weight of experience without the weight of fear. Delivered as settled fact.",
+      "mood": "protective_wise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。指導教官の処遇改善のため働きかけます",
+      "en": "Yes. I'll work on improving my advisor's situation and treatment.",
+      "style": "Firm commitment underneath careful words. A flash of genuine care — his advisor matters to him. Soft fade at the end, like he's already planning how to do this.",
+      "mood": "loyal_determined"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "conv_00344",
+  "context": "A Monday morning. Hiroshi-boss has just gotten word of a client emergency; he pulls Kenji aside to handle it.",
+  "purpose": "urgent workplace tasking — boss respecting capable subordinate",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "緊急",
+    "対応",
+    "客",
+    "調整",
+    "確認"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_018)",
+    "generated_at": "2026-05-26T21:04:52.149Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "田中、ちょっといいか。緊急で、対応頼みたい。",
+      "en": "Tanaka, got a moment? Need you on an urgent matter.",
+      "style": "Boss measured authority-soft urgent careful-direct opener, the soft real professional-respect audible, gentle real composure throughout delivery.",
+      "mood": "urgently-direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、何でしょうか。",
+      "en": "Yes, what is it?",
+      "style": "Salaryman warm formal alert-receiving professional, the soft real real-focus audible, gentle real composure throughout delivery.",
+      "mood": "alertly-formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "中村商事から、納期について、急ぎの問い合わせ。",
+      "en": "From Nakamura Trading — urgent inquiry about delivery date.",
+      "style": "Boss measured warm professional clear-explaining urgent, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "professionally-urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解しました。すぐ確認して、調整します。",
+      "en": "Understood. I'll confirm immediately and adjust.",
+      "style": "Salaryman warm formal sincere committed-professional, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "committedly-formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "客側、納得できる説明を、ちゃんと用意してくれ。",
+      "en": "Prepare a proper explanation the client can accept.",
+      "style": "Boss measured warm firm professional-instructing careful, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "firmly-careful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、お任せください。一時間以内に進捗報告します。",
+      "en": "Yes, leave it to me. I'll report progress within an hour.",
+      "style": "Salaryman warm formal confident professional-committing, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "confidently-committing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かる。佐藤さんにも、声かけといて。",
+      "en": "Helpful. Let Sato-san know too.",
+      "style": "Boss measured warm sincere brief practical-trusting closing, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "sincerely-trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、すぐ伝えます。",
+      "en": "Yes, I'll tell her immediately.",
+      "style": "Salaryman warm formal brief sincere-committed action-closing, the soft real real-respect audible, gentle real composure throughout delivery.",
+      "mood": "briefly-committed"
+    }
+  ]
+}

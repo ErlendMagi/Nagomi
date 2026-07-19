@@ -1,0 +1,76 @@
+{
+  "id": "conv_01064",
+  "context": "Mrs. Mori passes her tradition to Naoko.",
+  "purpose": "neighbor-aunt tradition-pass exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "伝統",
+    "優しい",
+    "大切",
+    "感謝"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "直子さん、伝統、続けてくれて、嬉しい。",
+      "en": "Naoko-san, I'm so glad you're keeping the tradition alive.",
+      "style": "Warm, genuine gratitude suffusing the opening. Soft voice. Slight pause after the name—real affection, not formality. Slow pace that lets the sincerity land. Trailing warmth at the end.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お陰様で、出来ました。",
+      "en": "With your help, we've managed it.",
+      "style": "Humble but not self-effacing. Quiet recognition of shared effort. Warm acknowledgment—not deflecting the compliment but gently spreading it. Gentle finish, almost a soft nod in voice.",
+      "mood": "humble_warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "若い人に、伝えていきたい。",
+      "en": "It's something I want to pass on to the younger generation.",
+      "style": "Thoughtful, almost reflective. The opening word carries quiet intention. Slow, measured cadence. Soft but steady—not wistful, just purposeful. Slight fadeout on the final phrase.",
+      "mood": "reflective_hopeful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "大切な、知識、本当に。",
+      "en": "That knowledge is so precious, truly.",
+      "style": "Quiet emphasis on 'precious'—not dramatic, just sincere. Slower tempo. The word 'truly' lands softly, affirming what was said. Breath beneath the surface. Gentle trailing off.",
+      "mood": "sincere_reverent"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "優しい子、本当、ありがたい。",
+      "en": "What kind children you've raised—I'm truly grateful for that.",
+      "style": "Warmth with depth. Opens with gentle admiration, then a small pause before the gratitude lands. Slow, deliberate. The affection is audible but unsentimental. Soft fadeout.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "一緒に、続けていきましょう。",
+      "en": "Let's keep doing this together.",
+      "style": "A soft promise in the voice. Quiet conviction underneath the gentleness. Slower pace—not rushed. The word 'together' carries the weight of the commitment. Warm, steady finish.",
+      "mood": "steadfast_warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "感謝、こちらこそ。",
+      "en": "I'm the grateful one, truly.",
+      "style": "Mirror image of warmth—matching her tone back to her. Genuine, not performative. A beat of real connection before the closing. Soft, slow, landing with quiet sincerity.",
+      "mood": "tender_grateful"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06622",
+  "context": "A mom and son chat",
+  "purpose": "Teach: お洒落/そんなふうに/もらえれ/言えよ/これだけ/その頃/スポンジ/ゼリー",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "お洒落",
+    "そんなふうに",
+    "もらえれ",
+    "言えよ",
+    "これだけ",
+    "その頃",
+    "スポンジ",
+    "ゼリー"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、新しい服、お洒落で、ぼく、嬉しい!",
+      "en": "Mom, these new clothes are so cool — I'm really happy!",
+      "style": "Bright, unfiltered delight. Quick attack on the opening. Natural speech rhythm, words tumbling over each other slightly. Genuine smile in the voice.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。そんなふうに笑顔だと、ママも嬉しいわ。",
+      "en": "Yes. When you smile like that, it makes me happy too.",
+      "style": "Soft, genuinely warm. Unhurried. A quiet moment of meeting him where he is. Slightly tender on 'happy' — not performing, just present.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お小遣い、もらえれば、玩具、買えるかな?",
+      "en": "If I get my allowance, do you think I could buy a toy?",
+      "style": "Hopeful question, testing the idea aloud. Slight rise at the end. Genuine curiosity mixed with that small calculation kids do. Not wheedling — just wondering.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達に、ありがとう、ちゃんと言えよ、翔くん。",
+      "en": "But first, you need to say thank you to your friend properly, okay Sho?",
+      "style": "Gentle redirect. Quiet firmness underneath — not scolding, just clear. The 'okay?' is inviting him to meet her, not dismissive. Patient mom-tone.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "これだけ宿題、終わったよ、ぼく、頑張ったよ。",
+      "en": "Look — I finished all my homework! I really worked hard!",
+      "style": "Proud and eager for acknowledgment. Energy lifts on 'finished.' Quick pace, bright. The particular pride of a young child showing he's done the thing. Open and vulnerable about wanting her to notice.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "その頃、お父さんも、よく頑張ってたわよ、子供の頃。",
+      "en": "Your dad was just like that when he was your age — he used to work hard too.",
+      "style": "Nostalgic, gentle. A small smile underneath the words. She's not just reassuring him, she's sharing a memory. Slightly slower pace. Warm recognition of the pattern repeating.",
+      "mood": "affectionate_nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ふわふわのスポンジケーキ、お祝いに、食べたい!",
+      "en": "Can we have fluffy sponge cake to celebrate?",
+      "style": "Bright return to eagerness. The 'can we' is collaborative, not demanding. Hope and desire without desperation. A child's natural pivot to the next good thing.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。デザートのゼリー、冷蔵庫に、入ってるよ。",
+      "en": "Yes. There's a jelly dessert waiting in the fridge for you.",
+      "style": "Warm close. Satisfied, like she's been expecting this question. Slightly conspiratorial — a small gift she's already prepared. Affection settling in the final phrase.",
+      "mood": "warm_satisfied"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_01106",
+  "context": "Aoi and Yuki plan a movie night.",
+  "purpose": "two-women movie-night exchange",
+  "ambient": "living_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "映画",
+    "一緒",
+    "楽しい",
+    "見る",
+    "友達"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_056)",
+    "generated_at": "2026-05-27T03:56:14.987Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あおいちゃん、映画、見る？",
+      "en": "Want to catch a movie with me, Aoi?",
+      "style": "Warm opening with genuine invitation. Soft, genuine tone. Light lift at the question. The kind of easy friendliness that comes without trying.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、何の映画？",
+      "en": "Yeah—what kind of movie?",
+      "style": "Interested and engaged, leaning in slightly. Warm but grounded. No performance, just real curiosity about what she's suggesting.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "フランス映画、おすすめ、ある。",
+      "en": "There's this French film I've been wanting to see. It's supposed to be really good.",
+      "style": "Eager but not pushy. Gentle enthusiasm that assumes she'll want to know more. Conversational, natural pacing.",
+      "mood": "warm_enthusiastic"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "見たい！一緒に、しよう。",
+      "en": "Oh, I'd love that! Let's do it.",
+      "style": "Genuine excitement without being performative. Quick, warm agreement. Small laugh underneath—the pleasure of being invited and invited in.",
+      "mood": "warm_eager"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お菓子、用意、しておく。",
+      "en": "I'll get some snacks ready too.",
+      "style": "Practical care delivered lightly. Not making a production of it, just matter-of-fact kindness. Soft, warm.",
+      "mood": "warm_thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "楽しみ、本当に。",
+      "en": "I'm really looking forward to it.",
+      "style": "Quiet sincerity. A small pause before saying it—genuine, not rehearsed. Soft trailing warmth at the end.",
+      "mood": "warm_genuine"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "友達、皆、誘う。",
+      "en": "I'm going to invite the others too, if that's okay.",
+      "style": "Opening soft, checking in. Still warm but slightly more careful—making sure she's not overstepping. Inclusive, not possessive.",
+      "mood": "warm_collaborative"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10034",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 高貴/光源/放電/腹部/劣悪/乳房/置換/有人",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "高貴",
+    "光源",
+    "放電",
+    "腹部",
+    "劣悪",
+    "乳房",
+    "置換",
+    "有人"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_503 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、高貴なご家族の医療対応を医療チームで配慮します",
+      "en": "Ren, our medical team ensures comprehensive care for your family with the utmost attention.",
+      "style": "Clear and measured. Direct eye contact. Steady, unhurried delivery. Professional warmth beneath clinical precision. The assurance of someone who has delivered this same care many times.",
+      "mood": "composed_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療現場の光源管理を医療チームで徹底します",
+      "en": "Yes, we maintain rigorous lighting standards throughout our medical facilities.",
+      "style": "Even-paced, methodical. Slight emphasis on 'rigorous.' No performative warmth—just steady competence. The voice of someone listing facts that matter.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、心臓除細動の放電を医療チームで正確におこないます",
+      "en": "Ren, our team performs defibrillation procedures with absolute precision.",
+      "style": "Careful, deliberate. Slight pause before the key word. Calm but with underlying seriousness—this is life-or-death work. Voice doesn't waver.",
+      "mood": "composed_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "腹部疾患の鑑別を、貴院、丁寧にされますね、先生",
+      "en": "Your hospital really does handle differential diagnosis for abdominal conditions very carefully, doesn't it, Doctor?",
+      "style": "Thoughtful, seeking confirmation rather than challenging. Quiet respect underneath. A pause before the final question—genuine curiosity, not flattery. Lean-in energy.",
+      "mood": "impressed_thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、劣悪な居住環境の患者を医療チームで支援します",
+      "en": "Yes, we provide comprehensive support to patients facing difficult housing circumstances.",
+      "style": "Steady and matter-of-fact. No pity in the delivery—respect instead. Slight warmth enters the voice here, grounding the clinical language in actual care.",
+      "mood": "compassionate_practical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、乳房検診を医療チームで推進します",
+      "en": "Yes, we actively promote breast cancer screening across our patient population.",
+      "style": "Even tempo, factual. The word 'promote' lands with quiet conviction. Professional and forward-thinking without becoming didactic.",
+      "mood": "professional_dedicated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "遺伝子置換療法を、貴院、研究されてますね、先生",
+      "en": "I understand your hospital is actively researching gene replacement therapy. That's impressive work, Doctor.",
+      "style": "Genuine admiration underneath careful phrasing. Slightly faster tempo—intellectual interest showing through his usual hesitance. The question is sincere, not performative.",
+      "mood": "impressed_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、有人ISSミッションの医療支援も医療チームで関わります",
+      "en": "Yes, our team also contributes to medical support for manned ISS missions.",
+      "style": "Pride enters the voice—subtle but present. Slower, more deliberate on the latter half. The scope of the work expands the room. Still measured, but with quiet satisfaction.",
+      "mood": "composed_proud"
+    }
+  ]
+}

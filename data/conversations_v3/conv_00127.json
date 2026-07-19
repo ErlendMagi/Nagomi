@@ -1,0 +1,111 @@
+{
+  "id": "conv_00127",
+  "context": "Aoi's café is short-staffed. Sakura has come in for her first day of weekend work. Aoi is showing her the espresso machine.",
+  "purpose": "small first-day tutorial — patient mentor + nervous teen",
+  "ambient": "cafe_morning",
+  "target_vocab": [
+    "本当に",
+    "見る",
+    "大丈夫",
+    "時間",
+    "少し",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "さくらちゃん、まず、見て。",
+      "en": "Sakura-chan — look here first.",
+      "style": "Warm, unhurried instructional tone. Voice settles into the moment with quiet authority. Invites focus without demanding it.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…はい。",
+      "en": "…Yes.",
+      "style": "Small, attentive. Soft compliance tinged with curiosity. She's watching closely, ready to learn.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "コーヒー、本当に、グラム正確に。",
+      "en": "Coffee — it really has to be exact by the gram.",
+      "style": "Precise but not rigid. Teacher's voice, gently matter-of-fact. Stating the standard without intimidation.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "え、めっちゃ難しそう…",
+      "en": "Wow — that looks really hard…",
+      "style": "Honest surprise, tinged with doubt. Breath of hesitation. She's not looking for comfort yet, just reacting truthfully.",
+      "mood": "daunted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "最初は誰でも、そう。私もよ。",
+      "en": "Everyone feels that way at first. I did too.",
+      "style": "Steady normalising warmth. A small nod in the voice — acknowledgment without pity. Present and grounded.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "本当に？",
+      "en": "Really?",
+      "style": "Genuine surprise breaking through. A half-beat of silence in the question. Testing whether she can trust this.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当に。…時間かけて、ゆっくり覚えよう。",
+      "en": "Really. …Take your time — we'll learn this slowly together.",
+      "style": "Gentle pace-setting. A slight breath between the two thoughts. Voice carries steady presence, not pressure.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。頑張る。",
+      "en": "Thank you. I'll do my best.",
+      "style": "Earnest, formal-respectful tone. Weight behind the words. She means it completely.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "大丈夫、一緒にやろう。",
+      "en": "Don't worry — let's do this together.",
+      "style": "Warm, inclusive closing. Voice opens slightly at 'together,' drawing her in. Genuine offer, not obligation.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい！…少し緊張するけど。",
+      "en": "Yes! …Though I'm still a little nervous.",
+      "style": "Energy lifts on the first word, then softens into honesty. She's letting the nerves show now, trusting the space.",
+      "mood": "cautiously_eager"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当に大丈夫だから。私も最初、震えてた。",
+      "en": "You really will be okay. I was shaking on my first day too.",
+      "style": "Disarming, vulnerable confession. Said matter-of-factly, not as dramatic revelation. She's sharing something real to settle Sakura.",
+      "mood": "candid"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "(small laugh) ありがとう、本当に。",
+      "en": "(small laugh) Thank you — really.",
+      "style": "Soft, genuine laugh. Relief underneath. The tension breaks. She's lighter now, more present.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09847",
+  "context": "Two managers chat",
+  "purpose": "Teach: 変貌/賛美/洞察/バリュー/感度/時速/不必要/インタフェース",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "変貌",
+    "賛美",
+    "洞察",
+    "バリュー",
+    "感度",
+    "時速",
+    "不必要",
+    "インタフェース"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_494 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "業界の変貌に対応しましょう",
+      "en": "We need to adapt to how the industry is changing.",
+      "style": "Measured and businesslike opening. Slightly formal register, as though leading a meeting. Clear enunciation on the key point. Expectant pause at the end—waiting for acknowledgment.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。優秀社員を賛美する表彰会を企画します",
+      "en": "Right. I'll organize an awards ceremony to recognize our top performers.",
+      "style": "Prompt, attentive response. Respectful but not obsequious. Light emphasis on the concrete action being volunteered. Professional but warm—showing genuine engagement with the idea.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "競合の戦略を洞察しましょう",
+      "en": "Let's get a clearer read on our competitors' strategy.",
+      "style": "Steady, forward-leaning tone. Not urgent, but purposeful. The pacing suggests this is a priority worth dwelling on briefly. Eye contact level—expects Kenji to listen carefully.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。バリュー設定を見直します",
+      "en": "Understood. I'll review our value positioning.",
+      "style": "Quick acknowledgment, then a note of concentration on the task itself. Slightly lower energy than the previous line—he's already moving to the next item mentally. Professional, unrushed.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "SNSの感度を活かしましょう",
+      "en": "And let's leverage our social media presence more effectively.",
+      "style": "Light shift in energy—this feels like a newer consideration. Still directive in tone, but with a touch more forward momentum. Slight emphasis on 'leverage' as though inviting creative thinking.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。配送ドライバーの時速管理を徹底します",
+      "en": "Got it. I'll implement stricter monitoring of our delivery driver schedules.",
+      "style": "Brisk, efficient acknowledgment. No hesitation—he's latching onto the concrete action immediately. Professional rhythm, slightly clipped at the end to signal readiness for the next point.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "不必要な会議を減らしましょう",
+      "en": "Let's cut down on unnecessary meetings.",
+      "style": "Quiet conviction on this one. The tone suggests this comes from some frustration with wasted time, but delivered without complaint. A slight exhale before the final word, as though settling a point that matters.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内インタフェースを改善します",
+      "en": "Will do. I'll streamline our internal communications.",
+      "style": "Final confirmation, slightly warmer than the previous responses. A sense of closure—he's bringing the list to completion. Steady, reliable tone. The delivery suggests readiness to act and trust in what's been laid out.",
+      "mood": "assured"
+    }
+  ]
+}

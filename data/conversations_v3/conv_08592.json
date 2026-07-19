@@ -1,0 +1,86 @@
+{
+  "id": "conv_08592",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 養育/全滅/大佐/私学/プロパガンダ/痴漢/偽善/処方箋",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "養育",
+    "全滅",
+    "大佐",
+    "私学",
+    "プロパガンダ",
+    "痴漢",
+    "偽善",
+    "処方箋"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、養育放棄事案を警察、慎重に扱われてますね",
+      "en": "The police are handling this child neglect case carefully, aren't they?",
+      "style": "Measured, slightly uncertain. Soft rising inflection at the end—genuinely asking, not leading. Thoughtful pause before speaking, as if processing what he's observed.",
+      "mood": "observant_questioning"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、捜査チームが全滅しないよう体制を整えております",
+      "en": "We're structured so the investigation team doesn't get overwhelmed.",
+      "style": "Direct, professional. Calm steady tone. Brief, confident—the answer of someone used to briefing. No defensiveness, just clear fact.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、軍OBの大佐との連携を警察、なさってますね",
+      "en": "And you're coordinating with a retired military colonel on this, I notice.",
+      "style": "Slightly hesitant, probing gently. Not accusatory—more like he's thinking aloud, testing whether he's understood correctly. Respectful distance in his voice.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、私学への防犯指導も担当します",
+      "en": "We also handle crime prevention training for private schools.",
+      "style": "Matter-of-fact, listing responsibility. Steady tempo. The tone of someone outlining scope without overselling it. Professional but not distant.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、プロパガンダ的書き込みを警察、捜査されてますね",
+      "en": "I see you're investigating propaganda-style posts connected to this case.",
+      "style": "Quieter this time, more introspective. Slight emphasis on 'propaganda'—he's recognising something troubling. Trailing off slightly, as if the implications are still settling.",
+      "mood": "concerned_perceptive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、痴漢事件は厳しく対応します",
+      "en": "We take groping incidents very seriously.",
+      "style": "Firmer than before. Conviction underneath. The words are simple but carried with weight—this is non-negotiable. Eye-level, unflinching.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、偽善的な寄付詐欺を警察、捜査されてますね",
+      "en": "So you're also investigating donation fraud that's hiding behind goodwill.",
+      "style": "Quiet disappointment colouring his voice. Slow, deliberate. He's articulating something he finds troubling. Not angry—more like sad recognition of something deliberately deceptive.",
+      "mood": "disillusioned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不正な処方箋発行事件にも対応します",
+      "en": "And we're responding to illegal prescription issuing as well.",
+      "style": "Slightly quieter than before, less formal. Still professional but with a note of weariness—another layer to what's already being handled. Steady, almost resigned competence.",
+      "mood": "weary_determined"
+    }
+  ]
+}

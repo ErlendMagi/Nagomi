@@ -1,0 +1,62 @@
+{
+  "id": "conv_00492",
+  "context": "Brief professional phone call between the two civic figures about a small concern.",
+  "purpose": "small civic professional check-in",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "連絡",
+    "心配",
+    "見守る",
+    "協力",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "takeda_officer"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_025)",
+    "generated_at": "2026-05-27T00:07:00.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "もしもし、武田さん。斎藤です。",
+      "en": "Hello, Takeda-san. It's Saito.",
+      "style": "Warm, professional opening. Steady and clear. A doctor who knows this person and respects their time — no preamble, just presence.",
+      "mood": "professional_warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お疲れさまです。どうされましたか。",
+      "en": "Good evening. What's the matter?",
+      "style": "Attentive and measured. The tone of someone ready to listen and act. No rust in the voice, just alert focus.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、また、少し体調が心配で。",
+      "en": "Tanaka-san — I'm a bit concerned about her condition again.",
+      "style": "Careful, deliberate. A pause before the concern, like she's choosing her words for accuracy, not alarm. Professional care underneath.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "すぐ、見回りに行きます。",
+      "en": "I'll head over right away.",
+      "style": "Quick decision, no hesitation. Firm and steady — not rushed, but committed. The voice of someone who moves from listening to action.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "助かります。協力、いつも、ありがとうございます。",
+      "en": "I'm grateful for that. Thank you, always, for the cooperation.",
+      "style": "Quiet sincerity. The tiredness that lives in her shoulders, not her voice. Genuine acknowledgment of someone who shows up.",
+      "mood": "grateful"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03647",
+  "context": "A manager and assistant split work assignments and review staff numbers",
+  "purpose": "Teach: 申込/様式/分担/学期/人員/加える/細かく/穏やか",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込",
+    "様式",
+    "分担",
+    "学期",
+    "人員",
+    "加える",
+    "細かく",
+    "穏やか"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_183 workflow wlr1s3w84)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "新学期の申込書、もう届いてる？様式が去年と変わったらしいんだ。",
+      "en": "Have the new semester application forms arrived yet? I heard the format changed from last year.",
+      "style": "Calm managerial tone, slightly concerned, mid-volume office voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、今朝届きました。新しい様式に合わせて、項目が細かく分かれていますね。",
+      "en": "Yes, they arrived this morning. The items are divided more finely to match the new format.",
+      "style": "Polite assistant register, attentive, soft and clear delivery"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ作業を分担しよう。君は申込の受付、僕は人員配置の確認をやるよ。",
+      "en": "Then let's split the work. You handle the application reception, and I'll check the staff placement.",
+      "style": "Decisive but friendly, even-paced, collaborative tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかりました。今学期は人員が少し減るので、配置を考え直す必要がありますね。",
+      "en": "Understood. Since staff numbers are decreasing a bit this term, we'll need to reconsider placements.",
+      "style": "Thoughtful, measured speech, slight worried undertone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうなんだ。来週から二名加える予定だけど、それでも足りるか心配だよ。",
+      "en": "That's right. We plan to add two more people next week, but I'm worried it still won't be enough.",
+      "style": "Quiet sigh, honest and warm boss voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では、業務内容をもう一度細かく見直して、優先順位をつけましょうか。",
+      "en": "Then shall we review the work content more carefully again and set priorities?",
+      "style": "Constructive, proactive assistant tone, gentle and steady"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "助かるよ。君はいつも穏やかに進めてくれるから、本当に頼りになる。",
+      "en": "That helps a lot. You always proceed so calmly, so I really can rely on you.",
+      "style": "Sincere appreciation, warm soft tone, slight smile in voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "とんでもないです。では午後までに、申込様式の控えもまとめておきますね。",
+      "en": "Not at all. Then I'll also prepare a summary of the application form copies by this afternoon.",
+      "style": "Humble, brisk and efficient closing tone, professional warmth"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05483",
+  "context": "A mom calms her young son before bed",
+  "purpose": "Teach: いくらか/わがまま/たびたび/めざす/ほめ/動揺/ぞう/当たら",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "いくらか",
+    "わがまま",
+    "たびたび",
+    "めざす",
+    "ほめ",
+    "動揺",
+    "ぞう",
+    "当たら"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぞうさんのぬいぐるみ、たびたびベッドの下に落ちる…。",
+      "en": "Mom, my elephant plushie keeps falling under the bed…",
+      "style": "Small, worried voice. Slightly breathless, like he's been thinking about this. Soft on the trailing particle — asking for reassurance, not really complaining.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あらら。いくらか位置を変えてあげようね。",
+      "en": "Oh no. Let's adjust where it sits, shall we?",
+      "style": "Warm and immediate, no pause. Practical kindness — she's already moving toward the problem. Gentle rhythm, like this is a small thing she can fix right now.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ぼく、今日先生にほめられたよ。漢字テスト、当たらない問題なくて。",
+      "en": "Mom, the teacher praised me today. I got every kanji question right.",
+      "style": "Quiet pride underneath — not bragging, just careful honesty. Slight lift at the start when he mentions the praise. Steady pace, like he's measuring his words so she understands how much this mattered.",
+      "mood": "quietly_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "すごいね!動揺しないで挑んだ甲斐があったね。",
+      "en": "That's wonderful! All that effort without second-guessing yourself really paid off.",
+      "style": "Bright recognition without overselling it. Warm emphasis on the effort itself, not just the result. Present and seeing him — not performing pride, just genuinely delighted.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "いつもわがまま言ってごめんね。",
+      "en": "I'm sorry for always asking for things.",
+      "style": "Very quiet, almost under his breath. The kind of apology a small child offers when he's thought about it too long. Vulnerable — waiting for her response.",
+      "mood": "guilty"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いいのよ。一番をめざす翔、お母さん大好き。",
+      "en": "That's not necessary. Sho working hard toward his goals — that's something Mom loves about you.",
+      "style": "Tender but steady. A small correction wrapped in warmth. Close and intimate, like she's speaking directly into the quiet he just created. Soft fade at the end.",
+      "mood": "warm_love"
+    }
+  ]
+}

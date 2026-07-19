@@ -1,0 +1,86 @@
+{
+  "id": "conv_09252",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 滞納/突発/陽性/観衆/空爆/同伴/中流/卓越",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "滞納",
+    "突発",
+    "陽性",
+    "観衆",
+    "空爆",
+    "同伴",
+    "中流",
+    "卓越"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_464 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、税滞納絡みの詐欺を捜査されてますね",
+      "en": "So the police are investigating this case involving tax evasion fraud, are they?",
+      "style": "Measured, slightly formal. Leans forward with genuine curiosity. Pauses after the question mark—not rushing for an answer, but inviting one. Thoughtful cadence.",
+      "mood": "curious_formal"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、突発事案にも備えて訓練しております",
+      "en": "We train constantly to be ready for sudden incidents like that.",
+      "style": "Steady, matter-of-fact. Professional confidence without stiffness. Even pacing. Slight nod in the voice—this is routine competence being stated factually.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、薬物検査で陽性となった事案を警察、扱われてますね",
+      "en": "And in cases where drug tests come back positive, the police handle those too, don't they?",
+      "style": "Thoughtful, almost testing. Genuine question beneath the phrasing. Slight lift at the end—inviting confirmation, not accusing.",
+      "mood": "inquiring"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、観衆が集まるイベント警備も担当します",
+      "en": "That's right. We also provide security at public events where crowds gather.",
+      "style": "Straightforward, informative. Clear delivery with no embellishment. Professional ease—explaining procedure without making it complicated.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、過去の空爆遺物の不法売買を警察、捜査されますね",
+      "en": "Even cases involving illegal trafficking of artifacts from past conflicts—those are something the police investigate as well?",
+      "style": "Curious but careful. Slightly formal phrasing. Measuring the response. A pause before the final question mark—thoughtful, not pressing.",
+      "mood": "careful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、要人の同伴警備を行います",
+      "en": "We do. Close protection for VIPs is part of our duty too.",
+      "style": "Confident, assured. Brief and complete—no wasted words. A professional edge: this is what we do, no apology needed.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、中流層を狙った詐欺を警察、警戒されますね",
+      "en": "So fraud targeting the middle class is something the police watch carefully for?",
+      "style": "Reflective, slightly concerned undertone. Genuine interest in how widespread the police consider this problem. Soft question mark—seeking understanding, not confrontation.",
+      "mood": "concerned_curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、卓越した捜査技術を市民にもご紹介ください",
+      "en": "Officer, would you share some of your exceptional investigative techniques with the community?",
+      "style": "Warm and earnest. A genuine request, not a challenge. Direct eye contact in the voice. Respectful but comfortable—this is a colleague asking a colleague.",
+      "mood": "warm_respectful"
+    }
+  ]
+}

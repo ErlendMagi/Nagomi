@@ -1,0 +1,79 @@
+{
+  "id": "conv_02007",
+  "context": "Sakura researches at a library; consults a librarian about archives.",
+  "purpose": "Writer doing academic research in formal setting.",
+  "ambient": "library_quiet_pages",
+  "sound_effects": [],
+  "target_vocab": [
+    "文献",
+    "引用",
+    "資料",
+    "調査",
+    "出版",
+    "版",
+    "事実",
+    "根拠"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_101)",
+    "generated_at": "2026-05-27T11:35:48.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "当時の資料、探しているんです。",
+      "en": "I'm looking for materials from that period.",
+      "style": "Quiet, focused. Lean forward slightly on the opening. Respectful but direct — this matters to her. Even pace, no hesitation. The voice of someone who's done her homework.",
+      "mood": "focused_respectful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "出版年、どの版でしょうか?",
+      "en": "Which publication year and edition are you looking for?",
+      "style": "Warm, practical librarian-mode. Gentle curiosity without condescension. Slight lift on the question. Ready to help, leaning into Sakura's seriousness.",
+      "mood": "helpful_engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "昭和初期の文献、引用したいです。",
+      "en": "I want to cite sources from the early Showa period.",
+      "style": "Steady, composed. Voice level — she's thought about this. Clear articulation on the dates. No performance, just precision. The tone of someone making a commitment.",
+      "mood": "determined_scholarly"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "事実関係、根拠、しっかり確認を。",
+      "en": "Make sure you verify the facts and sources carefully.",
+      "style": "Teacher-mode, but not lecturing — advising. Gentle weight on 'verify.' Warm because she believes in Sakura's capacity. Slightly slower pace. Not a warning, a standard.",
+      "mood": "supportive_firm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "調査、丁寧にします、必ず。",
+      "en": "I'll conduct the research carefully — I promise.",
+      "style": "Quiet conviction. Lean forward on the commitment. Earnest, not rushed. Slight pause before 'promise' — she means this. Steady eye contact in the voice.",
+      "mood": "earnest_committed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "貴重な文献、大切に扱ってください。",
+      "en": "These documents are precious. Please handle them with care.",
+      "style": "Gentle, almost tender. Slight ceremonial weight — honoring the materials. Warm but serious. The voice of someone entrusting something valuable. Slow, deliberate.",
+      "mood": "protective_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、感謝、忘れません。",
+      "en": "Yes. I won't forget your trust.",
+      "style": "Reverent, quiet. Simple and direct. Weight on 'trust' — she's heard what Asuka really meant. Slight exhale of gratitude. Small but sincere.",
+      "mood": "grateful_solemn"
+    }
+  ]
+}

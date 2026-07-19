@@ -1,0 +1,86 @@
+{
+  "id": "conv_08689",
+  "context": "Officer briefs",
+  "purpose": "Teach: 振り込み/括弧/持ち物/鋭意/即刻/告示/第一線/積算",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "振り込み",
+    "括弧",
+    "持ち物",
+    "鋭意",
+    "即刻",
+    "告示",
+    "第一線",
+    "積算"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_436 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不正振り込み事案を捜査します",
+      "en": "We're investigating this case of fraudulent transfer.",
+      "style": "Formal, official opening. Clear diction. Measured pace. Authority without harshness. A statement of fact, delivered with quiet competence.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、調書の括弧表記を厳密に統一されてますね",
+      "en": "Yes. I appreciate how precisely you maintain the documentation standards.",
+      "style": "Respectful, genuine. Slight pause before the compliment—not flattery, but real acknowledgment. Warm undertone beneath the formality.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、職員の持ち物検査を定期的に行います",
+      "en": "We conduct regular checks of staff belongings as part of our procedure.",
+      "style": "Matter-of-fact, procedural. No apology, no defensiveness. Clinical precision. Delivers policy like it's understood and accepted.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、容疑者特定に鋭意取り組まれてますね",
+      "en": "Yes. And I can see you're making real progress on identifying the suspect.",
+      "style": "Encouraging but grounded. Not effusive. The kind of recognition that comes from noticing actual work being done. Even pace, steady eye-level.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、緊急事案には即刻出動します",
+      "en": "We respond immediately to any emergency cases.",
+      "style": "Declarative, assured. No hesitation. Speaks like someone who has done this and will do it again. Slight weight on 'immediately.'",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、お尋ね者の告示を継続されてますね",
+      "en": "Yes. And you've kept the wanted notices current—that matters.",
+      "style": "Quiet affirmation. Notices the detail work that others might miss. Warm but not sentimental. A small nod in the voice.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、第一線で活動するベテラン捜査官、頼もしいです",
+      "en": "You're a reliable veteran officer working on the front lines. That's reassuring.",
+      "style": "Direct, sincere compliment. No softening. Treats the praise as deserved fact. Slight pause before 'that's reassuring'—allowing the weight to land.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、損害賠償の積算根拠を明示します",
+      "en": "We'll make the basis for any damages compensation clear and transparent.",
+      "style": "Close of conversation, more personal than procedural. Still formal, but a small softening—showing care in how information will be delivered. Warm closure.",
+      "mood": "reassuring"
+    }
+  ]
+}

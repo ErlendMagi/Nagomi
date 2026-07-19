@@ -1,0 +1,65 @@
+{
+  "id": "conv_05795",
+  "context": "A teacher and a teen review a high-school history textbook chapter",
+  "purpose": "Teach: 暗殺/強盗/誘拐/人質/テロリスト/右翼/左翼/慶",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "暗殺",
+    "強盗",
+    "誘拐",
+    "人質",
+    "テロリスト",
+    "右翼",
+    "左翼",
+    "慶"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、戦中期の暗殺事件、教科書では数行ですが、研究は厚いですよ。",
+      "en": "Sakura, wartime assassinations get only a few lines in the textbook, but the research on them is surprisingly deep.",
+      "style": "Conversational and encouraging, leaning forward slightly with genuine interest. Opens warmly. Measured pace that invites engagement without pressure. The kind of teacher who makes students feel their questions matter.",
+      "mood": "engaged_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。強盗的な事件と、誘拐型の脅迫、混在していたんですね。",
+      "en": "Yes. So there were robbery-style incidents and kidnapping-threat ones happening at the same time.",
+      "style": "Thoughtful, processing aloud. Soft affirmation on 'yes' — she's following and thinking. Pace picks up slightly as ideas connect. No performance, just genuine curiosity finding its voice.",
+      "mood": "attentive_curious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "人質を取る団体、テロリストとも呼ばれた時期がありました。",
+      "en": "Groups that took hostages — there was actually a period when they were called terrorists.",
+      "style": "Steady, factual but not cold. Slight weight on the terminology shift. Speaking as someone who has sat with these historical realities. Not lecturing, just clarifying what the era actually named things.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "右翼、左翼の対立、戦後にも形を変えて続きました。",
+      "en": "The tension between right and left ideologies continued after the war, just in different forms.",
+      "style": "Thoughtful pause before speaking. Connecting threads deliberately. Pace deliberate and even. She's offering this as a bridge — inviting Sakura to see patterns across time, not just facts in boxes.",
+      "mood": "reflective_insightful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "慶應大の歴史学者の論文、参考にしてみては。",
+      "en": "You might find the historians from Keio University helpful — their papers are worth looking at.",
+      "style": "Warm redirect, gently concrete. Slight upward inflection like a suggestion, not a directive. Closes the door softly but points toward where the light is. The kind of referral that feels like being trusted with a good secret.",
+      "mood": "supportive_guiding"
+    }
+  ]
+}

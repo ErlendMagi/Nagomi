@@ -1,0 +1,72 @@
+{
+  "id": "conv_03888",
+  "context": "A grandpa asks his grandkid to help him reset his computer",
+  "purpose": "Teach: パスワード/電源/キーボード/ディスク/端末/ウェブ/ケーブル/自動的",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "パスワード",
+    "電源",
+    "キーボード",
+    "ディスク",
+    "端末",
+    "ウェブ",
+    "ケーブル",
+    "自動的"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "翔くん、ちょっと来てくれ。パソコンの電源を入れたんだが、画面が真っ黒のままなんだ。",
+      "en": "Sho, come here a sec. I turned on the computer's power but the screen is still pitch black.",
+      "style": "Warm elderly tone, slightly flustered, asking for help with patience."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、まずケーブルがちゃんと刺さってるか確認しようよ。後ろのやつ、緩んでない?",
+      "en": "Grandpa, first let's check if the cable is plugged in properly. The one in the back, is it loose?",
+      "style": "Bright child's voice, helpful and curious, light upward intonation."
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ああ、ケーブルは大丈夫そうだ。でもキーボードを叩いても何も反応しないんだよ。",
+      "en": "Ah, the cable seems fine. But even when I hit the keyboard, nothing responds at all.",
+      "style": "Gentle older man, mildly frustrated, slow careful delivery."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うーん、じゃあ一回電源を長押しして、端末を再起動してみて。ディスクのランプは光ってる?",
+      "en": "Hmm, then try holding the power button to restart the device. Is the disk light blinking?",
+      "style": "Curious kid problem-solving step by step, calm and observant tone."
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "光ってないなあ。再起動したらログイン画面のパスワードを入れる必要があるんだよな?",
+      "en": "It's not blinking. After restarting, I'll need to enter the login password, right?",
+      "style": "Thoughtful grandpa double-checking the next step, slightly worried voice."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、入れたら自動的に立ち上がるよ。前にウェブで一緒に調べた手順、覚えてる?",
+      "en": "Yeah, once you enter it, it'll boot up automatically. Remember the steps we looked up on the web together before?",
+      "style": "Encouraging child voice, peppy and reassuring, slightly proud helper tone."
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "おお、ちゃんと起動した!助かるよ、翔。お礼にあとでアイスでも買ってあげような。",
+      "en": "Oh, it booted up properly! You're a lifesaver, Sho. As thanks, I'll buy you ice cream later.",
+      "style": "Relieved grandpa, warm affectionate tone, smile audible in his voice."
+    }
+  ]
+}

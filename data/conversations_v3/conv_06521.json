@@ -1,0 +1,86 @@
+{
+  "id": "conv_06521",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 下っ/膨らま/別物/呼べる/挙動/利き/積もっ/引き込ま",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "下っ",
+    "膨らま",
+    "別物",
+    "呼べる",
+    "挙動",
+    "利き",
+    "積もっ",
+    "引き込ま"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_328 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんの会社、ぼくの父は下っ端だって言ってた。",
+      "en": "Mom, Dad said Grandpa's company is where he's kind of… at the bottom.",
+      "style": "Quiet, hesitant. Sho is working through something he heard and doesn't quite understand. No urgency — almost thinking out loud. Gentle questioning lilt at the end.",
+      "mood": "curious_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お餅、レンジで膨らませて、おやつに。",
+      "en": "Yes. Let's puff the mochi in the microwave and have it for snack.",
+      "style": "Warm, practical pivot. Not dismissing what Sho said — acknowledging and gently redirecting. The tone of a mother who's already thinking about the next thing. Unhurried.",
+      "mood": "warm_matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "同じ犬の絵本でも、内容、別物だよ。",
+      "en": "Even if the picture books both have dogs, the stories are totally different.",
+      "style": "Small but certain. Sho's observation suddenly sharpens — he's noticed something real. Slight emphasis on 「別物」. The voice of a child who's actually paid attention. Not bragging, just noticing.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達、呼べる時、呼んでね、家に。",
+      "en": "When your friends can come over, just invite them here, okay?",
+      "style": "Soft, opening-up tone. Yumiko offering permission and space, not instruction. Warm but leaving room. The gentleness of saying: you're allowed to have people here.",
+      "mood": "inviting_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "子犬、急に挙動、不審だよ。",
+      "en": "The puppy's behavior just changed really suddenly — something's off about it.",
+      "style": "Low, observant worry. Sho catches something that matters. Not alarmed, but noticing. The quietness of a child realizing something isn't right. Trailing thought, like he's still figuring it out.",
+      "mood": "perceptive_concerned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さん、右利き、左手で書くと、不思議な字、書く。",
+      "en": "Dad's right-handed, but when he writes with his left hand, his letters come out so strange.",
+      "style": "Dry, fond amusement. Yumiko's wry — she's noticed this and finds it charming. Not mocking. The tone of someone observing something small and real about someone she loves.",
+      "mood": "affectionate_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "雪、たくさん積もったね、庭に。",
+      "en": "A lot of snow piled up in the garden, didn't it?",
+      "style": "Bright, present, noticing something lovely. Sho's voice opens up — he's seeing something that delights him. Simple, direct observation. A little wonder in it.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "おはなしに、つい引き込まれちゃう、可愛い我が子。",
+      "en": "You got so drawn into the story, my sweet one.",
+      "style": "Close, tender, watching. Yumiko's voice is warm and present — she's been observing Sho while he was absorbed. Not performing, just noticing and loving. Low, intimate register.",
+      "mood": "warm_adoring"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08112",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 列島/知覚/垂直/特異/不利益/中枢/著しい/ノード",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "列島",
+    "知覚",
+    "垂直",
+    "特異",
+    "不利益",
+    "中枢",
+    "著しい",
+    "ノード"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_407 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、警察、列島規模の捜査網を敷いております",
+      "en": "We have police resources deployed across the entire archipelago for this investigation.",
+      "style": "Measured, official opening. Even pacing, no inflection on process words. Steady eye contact—briefing voice. Competent and contained.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、容疑者の知覚異常も慎重に評価されたんですね",
+      "en": "So the police evaluated the suspect's perceptual disturbances carefully too?",
+      "style": "Genuine curiosity, leaning forward slightly. Careful articulation on technical terms. Seeking confirmation, not challenging. Warm but precise.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、垂直方向の建物落下事故を捜査中です",
+      "en": "We're investigating what appears to be a structural collapse—a building falling vertically.",
+      "style": "Clinical, deliberate pacing. Slight emphasis on 'vertically'—the detail that matters. No speculation in the voice. Just fact.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、特異な手口を警察、解明されたんですね",
+      "en": "So the police have uncovered something unusual about how this was done?",
+      "style": "Slow, careful formulation. Pausing between phrases like he's building understanding in real time. Respectful of complexity. No rush.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪被害者の不利益を補償する制度を支援しております",
+      "en": "We have a system in place to support crime victims—to help compensate them for losses and harm.",
+      "style": "Shift to softer authority. Slower tempo on the second clause. Personal stake underneath the procedural language. Measured conviction.",
+      "mood": "resolute_human"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、組織の中枢に警察、迫っておられるそうですね",
+      "en": "I hear the investigation is closing in on people at the center of this organization?",
+      "style": "Delicate phrasing—he's checking something sensitive. Quieter than before. Respectful hesitation. Seeking confirmation without pushing.",
+      "mood": "cautious_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪率の著しい地区を集中警備しております",
+      "en": "We're putting concentrated security on districts where crime rates have risen significantly.",
+      "style": "Back to procedural register. Factual, brief. No emotion on the statistics. Professional distance returned. Still measured.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、通信ノードを警察、特定されたんですね",
+      "en": "So you've identified the specific communication nodes involved?",
+      "style": "Quiet intensity. Gentle but focused. The question of someone drawing out a conclusion. Trailing softly—checking if he's understood correctly.",
+      "mood": "intent_careful"
+    }
+  ]
+}

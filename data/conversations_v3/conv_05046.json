@@ -1,0 +1,72 @@
+{
+  "id": "conv_05046",
+  "context": "A boss reviews a confidential contract overhaul with his manager",
+  "purpose": "Teach: 解約/非公開/算出/教職員/公安/国益/ディレクトリ/費やし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "解約",
+    "非公開",
+    "算出",
+    "教職員",
+    "公安",
+    "国益",
+    "ディレクトリ",
+    "費やし"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の契約改訂は完全に非公開扱いだ。漏らせば国益に関わる。",
+      "en": "This contract revision is completely confidential. A leak would affect national interests.",
+      "style": "Stern executive voice, low register, controlled gravitas, measured pacing."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しております。共有ディレクトリからも該当ファイルは既に外しました。",
+      "en": "Understood. I've already removed the relevant files from the shared directory.",
+      "style": "Polite middle-manager tone, careful, slightly tense, formal keigo delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "違約金の算出根拠を見せろ。前回の解約条項とどう違う？",
+      "en": "Show me the basis for calculating the penalty. How does it differ from the previous termination clause?",
+      "style": "Demanding boss tone, clipped sentences, impatient executive authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "教職員向け研修契約の前例を参考にしまして、再計算に三週間ほど費やしました。",
+      "en": "We referenced the precedent from the faculty training contract, and spent about three weeks recalculating.",
+      "style": "Earnest report-back voice, slightly apologetic, deferential business Japanese."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "三週間か。公安からも非公式に問い合わせが来ている。慎重にやれ。",
+      "en": "Three weeks, huh. The public security bureau has made informal inquiries too. Handle this carefully.",
+      "style": "Lowered conspiratorial voice, weighty pause, serious executive warning."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "公安まで…承知しました。最終版は社長の端末以外には保存しません。",
+      "en": "Even the security bureau... understood. I won't store the final version anywhere except your terminal.",
+      "style": "Surprised then quickly composed, hushed professional acknowledgment, careful enunciation."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それでいい。国益と会社の信用、両方を背負っていることを忘れるな。",
+      "en": "Good. Don't forget you're carrying both the national interest and the company's credibility.",
+      "style": "Firm closing directive, paternal weight, slow deliberate executive cadence."
+    }
+  ]
+}

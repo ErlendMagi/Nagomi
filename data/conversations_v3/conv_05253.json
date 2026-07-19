@@ -1,0 +1,86 @@
+{
+  "id": "conv_05253",
+  "context": "A police officer briefs a uni reporter about a labor dispute story",
+  "purpose": "Teach: 海水/ウラン/洞窟/引き上げる/余儀なく/転じ/ストライキ/初級",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "海水",
+    "ウラン",
+    "洞窟",
+    "引き上げる",
+    "余儀なく",
+    "転じ",
+    "ストライキ",
+    "初級"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ストライキの件、どこまで取材されました?",
+      "en": "How far has your reporting gotten on the strike situation?",
+      "style": "Direct, measured opener. Level gaze. Professional but not cold—the tone of someone used to getting clear answers from people. No rush in the rhythm.",
+      "mood": "official_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "港湾労働者が賃金を引き上げるよう求めて、二週間目に入っています。",
+      "en": "Port workers have been demanding wage increases for two weeks now.",
+      "style": "Earnest, concentrating. Slightly hesitant at the beginning—gathering his thoughts before speaking. Clear but careful, like he's still learning how to present information under scrutiny.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "港の倉庫には、ウラン関連の資材が一部置かれていたんです。",
+      "en": "What we found is that some uranium-related materials were stored in those port warehouses.",
+      "style": "Quieter, more confidential. Leans in slightly. The gravity of the information pulls down the pitch. Deliberate pause before the key detail—measuring Ren's reaction.",
+      "mood": "careful_grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その情報は初めて聞きました。それで操業中断は余儀なくされたんですね。",
+      "en": "That's new information to me. So the shutdown was necessary then, not just a union action.",
+      "style": "Sharp intake—genuine surprise. Instinctive reach for pen and notebook. The reality recalibrating behind his eyes. Speaking faster now, more alert.",
+      "mood": "startled_understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。地下の洞窟調査も同時に止まっていて、研究者からも不満の声が出ています。",
+      "en": "Right. The underground cave surveys stopped at the same time, and researchers have been vocal about their frustration.",
+      "style": "Returns to steady cadence. Slightly weary—he's delivering this information to many people. Factual but carrying the weight of multiple grievances underneath.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "風向きが転じたのは、政府の介入が入った時点でしょうか。",
+      "en": "Did things change direction when the government got involved?",
+      "style": "Probing but respectful. Not accusatory—genuinely asking. Leans forward slightly. The question carries precision: he's testing whether Takeda will confirm a pattern he's already seeing.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通り。今は対話の初級段階に戻って、丁寧に進めています。",
+      "en": "Exactly. We've gone back to the preliminary dialogue stage and we're moving forward carefully from there.",
+      "style": "Affirmative, composed. A small nod in the delivery. He's confirmed what Ren suspected. The tone suggests this is the best outcome available—not ideal, but responsible.",
+      "mood": "steady_pragmatic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海水のサンプル採取も、調査再開待ちですね。ありがとうございます。",
+      "en": "So seawater sampling is also waiting for the surveys to resume. Thank you for filling in the gaps.",
+      "style": "Grateful, more relaxed now. The formal interview posture eases slightly. Sincere thanks—not just politeness but recognition that Takeda trusted him with delicate information. Softer closer.",
+      "mood": "appreciative_relieved"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_00556",
+  "context": "A typhoon is approaching. Daichi calls Tatsuya in the country about preparation.",
+  "purpose": "small adult-male civic-weather concern",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "台風",
+    "心配",
+    "畑",
+    "一緒",
+    "注意"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "達也さん、台風、来てるから、心配で。",
+      "en": "Tatsuya-san, there's a typhoon coming — I'm worried about you.",
+      "style": "Warm, steady concern with Kansai inflection. Leans forward slightly. The worry is genuine but not performative — a friend checking in on someone he cares about. Regional vowel swing present but natural.",
+      "mood": "caring_concerned"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ありがとうな。畑は、ちゃんと、対策、しとった。",
+      "en": "Thank you. I've already prepared the fields properly.",
+      "style": "Quiet, grounded reassurance. No fuss. Speaks from competence and long practice. Pauses between phrases like a man used to silence. Warm beneath the practical tone.",
+      "mood": "capable_reassuring"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "よかった。お家も、ご無事で。",
+      "en": "That's good. Your home is safe too?",
+      "style": "Relief softening into a new question. Kansai lilt audible on the close. Speaks like relief is tangible — something to share. Genuine warmth, no performance.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん、うちは大丈夫。達也さんも、注意してな。",
+      "en": "Yes, the house is fine. You be careful too, Daichi-san.",
+      "style": "Shifts into gentle advice — not commanding, but weighted. Turns the care back outward. Quiet authority. The kind of man who doesn't raise his voice because he doesn't need to.",
+      "mood": "protective_steady"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "メイちゃんがいるから、絶対、注意します。",
+      "en": "I will be. Mei-chan's here, so I'm taking this seriously.",
+      "style": "Tender note enters on her name. Kansai warmth brightens the delivery. Speaks like protecting her is non-negotiable. Earnest underneath the regional ease.",
+      "mood": "tender_determined"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "何かあれば、すぐ連絡。",
+      "en": "Good. Call me if anything happens.",
+      "style": "Direct, simple. An offer extended with quiet weight. No embellishment — just the fact of his care. Pauses before the close like he's holding the door open.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ありがとうございます。お互い、気を付けて。",
+      "en": "Thank you. Let's both stay safe.",
+      "style": "Formal warmth with Kansai undercurrent. Balanced — both giving and receiving the care equally. A small bow in the voice. Closing with mutual respect.",
+      "mood": "warm_reciprocal"
+    }
+  ]
+}

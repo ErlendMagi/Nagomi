@@ -1,0 +1,78 @@
+{
+  "id": "conv_04347",
+  "context": "An office helpdesk walks a barista through data backups",
+  "purpose": "Teach: 複製/コマンド/ソリューション/リソース/属性/伝達/遂行/実証",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "複製",
+    "コマンド",
+    "ソリューション",
+    "リソース",
+    "属性",
+    "伝達",
+    "遂行",
+    "実証"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お疲れさまです。今日はデータの複製手順をご案内しますね。",
+      "en": "Thanks for coming. Today I'll walk you through the data backup procedure.",
+      "style": "Polite professional opener, warm but business-focused helpdesk tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。レジのバックアップって、いつも誰かに任せてたので。",
+      "en": "That's a huge help. I've always left the register backups to someone else.",
+      "style": "Friendly barista voice, slightly sheepish and conversational throughout."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫ですよ。まずこのコマンドをターミナルに打ち込んでみてください。",
+      "en": "No worries. First, please type this command into the terminal window.",
+      "style": "Reassuring, instructional cadence with clear step-by-step delivery."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど、これでお客さんの属性データもまとめて保存されるんですね。",
+      "en": "I see, so this saves the customer attribute data all together too.",
+      "style": "Curious learner tone, repeating back softly to confirm understanding."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "その通りです。サーバーのリソースに優しいように、夜間に動くソリューションを用意してあります。",
+      "en": "Exactly. To go easy on the server resources, we set up a solution that runs at night.",
+      "style": "Confident technical explanation with calm mid-tempo professional ownership."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夜中ですか。じゃあ朝来たら、ちゃんとお店開けられる状態になってるんですね。",
+      "en": "Overnight, huh. So by morning everything's ready for me to open up the shop.",
+      "style": "Relieved practical realization in a relaxed cafe-worker rhythm and tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ。何かエラーが出たら、すぐ私に伝達してくださいね。ログを見れば原因も特定できますし、その手順の有効性も実証されてますから。",
+      "en": "Yes. If any errors come up, please report them to me right away. The logs let us pinpoint the cause, and this whole procedure has already been proven effective.",
+      "style": "Supportive closing instruction, gentle authority with audible helpful smile."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかりました。これなら私でも業務を遂行できそうです。本当にありがとうございます。",
+      "en": "Got it. Even I should be able to carry out the task with this. Thank you so much.",
+      "style": "Warm grateful sign-off, sincere barista cheer wrapping up the lesson nicely."
+    }
+  ]
+}

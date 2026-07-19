@@ -1,0 +1,72 @@
+{
+  "id": "conv_05126",
+  "context": "A boss reviews an annual results memo with his manager",
+  "purpose": "Teach: 携わる/撤回/合衆国/経常/在籍/厳選/法規/位置付け",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "携わる",
+    "撤回",
+    "合衆国",
+    "経常",
+    "在籍",
+    "厳選",
+    "法規",
+    "位置付け"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の経常利益、思ったより伸びなかったな。合衆国市場の落ち込みが響いたか。",
+      "en": "Operating profit didn't grow as much as expected this term. The US market downturn hit us, huh.",
+      "style": "Gruff, low-pitched, measured executive tone with a touch of disappointment."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、現地の法規制の変更にも一部起因しております。報告書にもその点を明記しました。",
+      "en": "Yes, it's partly due to changes in local regulations there. I noted that clearly in the report.",
+      "style": "Polite, careful middle-manager delivery, measured pacing, slightly tense."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うむ。プロジェクトに携わるメンバーは、現状何名在籍している?",
+      "en": "Hmm. How many members involved in the project are currently on staff?",
+      "style": "Short, direct, businesslike, with a probing edge."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "厳選した精鋭が十二名です。皆、社内でも重要な位置付けのチームかと。",
+      "en": "Twelve carefully selected top performers. They're a team with significant standing within the company.",
+      "style": "Crisp, factual, mildly proud, slightly formal tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "前回の撤退案、あれはやはり撤回して正解だった。続行で行こう。",
+      "en": "That withdrawal proposal from last time — pulling it back really was the right call. Let's continue.",
+      "style": "Decisive, gravelly, reflective with quiet authority and conviction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知いたしました。来期の方針も、その線でまとめ直します。",
+      "en": "Understood. I'll redraft the next term's strategy along those lines as well.",
+      "style": "Composed, deferential, businesslike acknowledgment with steady pacing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。役員会までに最終版を出してくれ。",
+      "en": "I'm counting on you. Get the final version to me before the board meeting.",
+      "style": "Short, commanding, warm but firm closing tone."
+    }
+  ]
+}

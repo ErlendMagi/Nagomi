@@ -1,0 +1,78 @@
+{
+  "id": "conv_04167",
+  "context": "A doctor gives a teen a flu shot and routine health advice",
+  "purpose": "Teach: インフルエンザ/アルコール/脂肪/推定/進展/重点/喫煙/美しく",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インフルエンザ",
+    "アルコール",
+    "脂肪",
+    "推定",
+    "進展",
+    "重点",
+    "喫煙",
+    "美しく"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_210 workflow w7ku8aw67)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "さくらちゃん、今日はインフルエンザの予防接種をしますね。学校でも流行り始めているそうですよ。",
+      "en": "Sakura, today we'll give you the flu vaccine. I hear it's starting to spread at school too.",
+      "style": "Calm professional doctor tone, gentle and reassuring to a teenage patient"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、お願いします。先にアルコールで腕を消毒するんですよね?ちょっと緊張します。",
+      "en": "Yes, please. You disinfect my arm with alcohol first, right? I'm a little nervous.",
+      "style": "Polite teenage girl, slightly nervous but trying to stay composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫、すぐ終わりますよ。ところで前回の血液検査ですが、脂肪の値が少しだけ高めでした。",
+      "en": "It's okay, it'll be over quickly. By the way, your blood test showed your fat levels were slightly high.",
+      "style": "Reassuring doctor voice, smoothly transitioning into gentle health advice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、本当ですか?最近部活も休みがちで、運動不足だなって思っていました。",
+      "en": "Really? I've been skipping club lately and figured I wasn't moving enough.",
+      "style": "Surprised but self-aware teenage girl, slightly embarrassed by the news"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "推定で一日三十分歩くだけでも数値はかなり改善します。今は食事と運動に重点を置きましょう。",
+      "en": "Roughly thirty minutes of walking a day will improve the numbers a lot. Let's focus on diet and exercise.",
+      "style": "Encouraging doctor giving practical, achievable guidance in a warm tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。実は、お父さんの喫煙のことも前から気になっていて…一緒に頑張ろうって言ってみます。",
+      "en": "Got it. Honestly, I've been worried about my dad's smoking for a while... I'll suggest we work on it together.",
+      "style": "Concerned teen daughter sharing a personal family worry with the doctor"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは素敵な考えですね。ご家族で取り組めば、禁煙の進展もずっと早くなりますよ。",
+      "en": "That's a wonderful idea. When the whole family works together, quitting smoking progresses much faster.",
+      "style": "Sincere doctor warmly affirming the patient's initiative and family approach"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "頑張ります。家族みんなで健康に、美しく年を重ねていけたら嬉しいです。",
+      "en": "I'll do my best. It'd make me happy if our whole family could grow older healthy and beautifully.",
+      "style": "Hopeful teen expressing a heartfelt wish for her family's long-term wellbeing"
+    }
+  ]
+}

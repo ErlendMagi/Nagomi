@@ -1,0 +1,86 @@
+{
+  "id": "conv_06133",
+  "context": "A doctor discusses public-health research",
+  "purpose": "Teach: 北陸/音波/雑草/食用/耐性/重心/史実/過熱",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "北陸",
+    "音波",
+    "雑草",
+    "食用",
+    "耐性",
+    "重心",
+    "史実",
+    "過熱"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、北陸地方の慢性疾患、調査続けています。",
+      "en": "Ren, we're continuing the chronic-disease survey work in the Hokuriku region.",
+      "style": "Steady, informative opening. Clear enunciation on the region name. Conversational pace, not rushed. The tone of someone updating a colleague on ongoing research with quiet confidence.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "超音波での診断、子供への配慮、ありますね。",
+      "en": "There's real consideration in the ultrasound protocol for the children, isn't there.",
+      "style": "Thoughtful, genuinely interested. Light emphasis on 「care」 as recognition. Leaning forward slightly in the voice. The question is sincere, not performative — he's noticed something and wants confirmation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。庭の雑草と、アレルギーの関連、検討中。",
+      "en": "Yes. We're looking at the connection between garden weeds and allergic responses right now.",
+      "style": "Patient, unhurried. Slight pause before the object of study — giving space for Ren to follow. Clinical but warm. The tone of someone who expects questions and welcomes them.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "食用植物の中で、有害なものも、特定していますか。",
+      "en": "Among edible plants — have you been able to identify which ones carry risk?",
+      "style": "Focused, careful with the question. Deliberate pace. There's urgency underneath but it's held steady. The voice of someone who knows the question matters and is asking it precisely because it does.",
+      "mood": "intent"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。抗生物質耐性菌、深刻な課題です。",
+      "en": "Yes. Antibiotic-resistant bacterial strains are becoming a serious concern.",
+      "style": "Direct, weighted. The word 「resistant」 lands with quiet gravity. No inflection wasted. Clear-eyed assessment without drama — stating fact the way someone does when it matters.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "高齢者の重心バランス、転倒予防に直結しますね。",
+      "en": "Balance and gait control in elderly patients — it ties directly to fall prevention outcomes.",
+      "style": "Connecting the dots aloud. Moderate pace, building gentle logic. Voice steady and almost pedagogical — not lecturing, but thinking alongside him. Recognition that he's seeing the pattern too.",
+      "mood": "clarifying"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。地域医療史、史実に基づき記録しています。",
+      "en": "Yes. We're documenting regional medical history based on the actual records we have.",
+      "style": "Straightforward, procedural. Grounded tone — the work of documentation is unglamorous and necessary. No flourish. Just clear statement of method and purpose.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感染症報道の過熱、医療現場にも影響ありますね。",
+      "en": "The way infection reporting gets overheated in the media — it does shape what we see in the field.",
+      "style": "Thoughtful reflection, slightly weary underneath. Not complaining — observing. Moderate pace with a small trailing-off, like she's following the thought to its conclusion. The voice of someone who's felt this pressure and is naming it for someone who will understand.",
+      "mood": "observant_weary"
+    }
+  ]
+}

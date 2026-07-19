@@ -1,0 +1,86 @@
+{
+  "id": "conv_08149",
+  "context": "Officer briefs",
+  "purpose": "Teach: 洗浄/貸付/清算/通商/投機/知名度/推計/税込み",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "洗浄",
+    "貸付",
+    "清算",
+    "通商",
+    "投機",
+    "知名度",
+    "推計",
+    "税込み"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_409 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場の洗浄を業者に依頼しました",
+      "en": "We've arranged for a professional cleaning service to handle the crime scene.",
+      "style": "Even, official tone. Clear articulation. No rush. Each phrase lands with quiet authority and compassion balanced evenly.",
+      "mood": "professional_compassionate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、被害者向け貸付制度をご案内くださりありがたいです",
+      "en": "Yes. Thank you for letting us know about the victim support loan program.",
+      "style": "Respectful, steady acknowledgment. Slight nod in the voice. Genuine gratitude—not performative. Measured pace, landing on 'thank you' with sincerity.",
+      "mood": "grateful_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害金の清算手続きを支援します",
+      "en": "We're here to help you through the settlement process for the damages.",
+      "style": "Assured and methodical. Warm certainty underneath the official language. Deliberate pacing on each step of the process, inviting rather than commanding.",
+      "mood": "supportive_formal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と通商当局の連携、ありがたいです",
+      "en": "Yes. I really appreciate how the police and the trade authority are working together on this.",
+      "style": "Genuine relief in the opening. Thoughtful pause before naming both agencies—showing he's noticed and values the coordination. Warm, not effusive.",
+      "mood": "reassured_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、投機目的の不正取引を捜査しております",
+      "en": "We're actively investigating the fraudulent trades tied to speculation.",
+      "style": "Firm resolve beneath the official phrasing. Slight weight on 'actively'—showing determination. Steady rhythm, no apology in the delivery.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の知名度向上が、地域防犯につながりますね",
+      "en": "Yes. When the community knows the police are on top of things, it really does help prevent crime in the neighborhood.",
+      "style": "Thoughtful connection-making. Light emphasis on 'community knows'—he's reflecting on something he's noticed. Conversational, not rehearsed. Slight rise of insight at the end.",
+      "mood": "observant_hopeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪被害の推計も行っております",
+      "en": "We also prepare estimates of the total damage for the record.",
+      "style": "Matter-of-fact, unhurried. Clinical precision without coldness. The 'also' carries a sense of thoroughness—checking every box, caring about completeness.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。罰金は税込みで通知されるんですね",
+      "en": "Right. So the fine notice will show the total including tax.",
+      "style": "Small recognition of a detail. Conversational and direct. A tiny thread of clarity—confirming what matters. No edge, just practical understanding.",
+      "mood": "clarified"
+    }
+  ]
+}

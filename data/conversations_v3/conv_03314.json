@@ -1,0 +1,78 @@
+{
+  "id": "conv_03314",
+  "context": "Following news about a contested bill",
+  "purpose": "Track a bill; teach 自民党/見解/趣旨/公務員/把握/児童/又は/連合",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "自民党",
+    "見解",
+    "趣旨",
+    "公務員",
+    "把握",
+    "児童",
+    "又は",
+    "連合"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_166)",
+    "generated_at": "2026-05-29T17:30:48.320Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "あの法案、結局どうなったんですか？",
+      "en": "That bill — what happened in the end?",
+      "style": "curious student following up, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "自民党が修正案を出しました。",
+      "en": "The LDP submitted an amendment.",
+      "style": "teacher relaying the development, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "専門家の見解は分かれているようですね。",
+      "en": "Experts’ views seem divided.",
+      "style": "student noting the disagreement, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、趣旨は良くても、運用が難しい。",
+      "en": "Yes — the intent is good, but operation is hard.",
+      "style": "teacher weighing the nuance, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場の公務員が実態を把握できるかが鍵ですね。",
+      "en": "Whether field civil servants grasp reality is key.",
+      "style": "student identifying the crux, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "児童や高齢者への影響も考慮されています。",
+      "en": "Effects on children and the elderly are considered too.",
+      "style": "teacher noting the breadth, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "賛成又は反対、世論も割れていますね。",
+      "en": "For or against, public opinion is split too.",
+      "style": "student observing the divide, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "各団体の連合が、声明を出しました。",
+      "en": "A federation of groups issued a statement.",
+      "style": "teacher adding the latest move, tone holding steady through the whole line"
+    }
+  ]
+}

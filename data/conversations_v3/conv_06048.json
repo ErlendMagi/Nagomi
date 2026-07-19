@@ -1,0 +1,79 @@
+{
+  "id": "conv_06048",
+  "context": "A boss mentors a uni intern on finance",
+  "purpose": "Teach: ポートフォリオ/プリンター/返金/レジュメ/数式/パートナーシップ/概算/アフター",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ポートフォリオ",
+    "プリンター",
+    "返金",
+    "レジュメ",
+    "数式",
+    "パートナーシップ",
+    "概算",
+    "アフター"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、企業のポートフォリオ、長期と短期、バランスだ。",
+      "en": "Ren, corporate portfolios are about balance—long-term and short-term both matter.",
+      "style": "Measured, direct opening. Voice carries the weight of experience. Clear-eyed. A statement of principle, not lecturing. Settles on the word 'balance' with quiet certainty.",
+      "mood": "measured_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。プリンターの保守費用、見えにくいコストですね。",
+      "en": "Yes. The printer maintenance costs—those are hidden expenses that add up, aren't they?",
+      "style": "Respectful, engaged. Quick acceptance followed by genuine realization—he's understanding something while he speaks. Slight upturn at the end, testing his own understanding with his mentor.",
+      "mood": "attentive_wondering"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "返金処理、ブランド毀損を防ぐ重要業務だ。",
+      "en": "Handling refunds properly—that's essential work. It prevents real brand damage.",
+      "style": "Firm but not cold. Voice lands lightly on the word 'essential.' Not pushing, but making clear why this matters. The patience of someone who knows Ren will understand once he sees it.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "就活、レジュメに何を書くか、悩みます。",
+      "en": "Job applications—I'm not sure what to write on my resume that would actually stand out.",
+      "style": "Vulnerable admission under a careful exterior. Slight hesitation on the opening. Quieter than before, more introspective. The question of someone testing whether his mentor will think less of him for asking.",
+      "mood": "uncertain_seeking"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "数式や定量データ、具体例で示せ。",
+      "en": "Use concrete examples. Show formulas, quantitative data—make it specific.",
+      "style": "Sharp pivot back to clarity and directness. No softening. These are the rules that work. Voice is encouraging because it's honest, not because it's gentle.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "パートナーシップの構築、若手にも参加機会、ありますか。",
+      "en": "Is there room for people at my level to help build partnerships? Could I get involved in something like that?",
+      "style": "Careful hopefulness. He's asking for more responsibility, but framing it gently. Respectful pause before the question. Listening for whether the door is actually open.",
+      "mood": "hopeful_deferential"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。概算プランも、君に作ってもらう。アフターケアの精神、忘れるな。",
+      "en": "Yes. I'll have you draft the preliminary plans. And remember—this is all about aftercare. The relationship doesn't end at the sale.",
+      "style": "Warm shift. Direct assignment wrapped in confidence that Ren can do it. The final sentence carries weight—lean in slightly on 'aftercare,' then let it settle. This is the teaching moment underneath the task.",
+      "mood": "trusting_wise"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "conv_03554",
+  "context": "Back at work, a coworker asks how the trip was",
+  "purpose": "Teach: 上海/新潟/ダム/気温/前日/恐らく/あくまでも/復帰",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上海",
+    "新潟",
+    "ダム",
+    "気温",
+    "前日",
+    "恐らく",
+    "あくまでも",
+    "復帰"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_178 workflow w1dg68eus)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お帰りなさい、復帰早々お疲れさまです。旅行はどうでしたか？",
+      "en": "Welcome back, thanks for getting right back to work. How was the trip?",
+      "style": "Polite office welcome delivered with a warm, friendly tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。最初に上海へ行って、その後で新潟の祖母の家に寄ってきました。",
+      "en": "Thank you. I went to Shanghai first, then stopped by my grandmother's place in Niigata.",
+      "style": "Casual but respectful younger colleague speech with humble politeness."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "へえ、二か国も。上海はやっぱり暑かったですか？",
+      "en": "Wow, two countries even. Was Shanghai hot as expected?",
+      "style": "Curious office small talk delivered in a friendly manner."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それが、出発の前日に急に気温が下がって、思ったより涼しかったんですよ。",
+      "en": "Actually, the day before departure the temperature suddenly dropped, so it was cooler than I thought.",
+      "style": "Storytelling tone with mild surprise woven throughout the explanation."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "運が良かったですね。新潟の方はどうでした？何か観光しましたか？",
+      "en": "Lucky you. How about Niigata? Did you do any sightseeing?",
+      "style": "Follow-up question encouraging the colleague to share more story."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "祖父に連れられて、近くのダムを見学しに行きました。あくまでも家族サービスのつもりだったんですけど、意外と面白くて。",
+      "en": "My grandfather took me to tour a nearby dam. It was strictly meant as family service, but it was surprisingly interesting.",
+      "style": "Casual reflection delivered with a light touch of humor."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ダム見学、いいですね。写真とか撮りました？",
+      "en": "A dam tour sounds nice. Did you take any pictures?",
+      "style": "Genuine interest shown through a light conversational tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "たくさん撮りましたよ。今度お見せします。恐らく来週には少し落ち着くと思うので、その時にでも。",
+      "en": "I took lots. I'll show you sometime. Probably things will settle down by next week, so maybe then.",
+      "style": "Polite promise delivered with a forward-looking, considerate nuance."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "楽しみにしてます。じゃあ、まずは午後の会議資料、一緒に確認しましょうか。",
+      "en": "I'm looking forward to it. Well then, shall we go over the afternoon meeting materials together first?",
+      "style": "Smooth transition back to work mode with collaborative warmth."
+    }
+  ]
+}

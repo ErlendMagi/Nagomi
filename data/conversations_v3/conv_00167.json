@@ -1,0 +1,69 @@
+{
+  "id": "conv_00167",
+  "context": "Dr. Saito calls Yumiko a few days after Hina's visit to check on her.",
+  "purpose": "small professional follow-up — kindness extending beyond the appointment",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "電話",
+    "熱",
+    "下がる",
+    "良い",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "もしもし、斎藤です。ひなちゃんの様子どうですか。",
+      "en": "Hello, this is Saito. How is Hina doing?",
+      "style": "Doctor professional warm phone register, careful courteous opener with real attentive concern threaded throughout.",
+      "mood": "professionally-attentive"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あ、先生、わざわざありがとうございます。",
+      "en": "Oh, doctor, thank you for going out of your way.",
+      "style": "Maternal surprised gratitude, the unexpected call landing warmly, real appreciation soft in the voice.",
+      "mood": "surprised-grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "昨日から熱も下がって、元気になりました。",
+      "en": "Since yesterday her fever's gone down and she's perked up.",
+      "style": "Maternal relieved sharing, voice lifting with the good update, warmth and care evident throughout the report.",
+      "mood": "relieved-sharing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは良かった。安心しました。",
+      "en": "That's good news. I'm relieved.",
+      "style": "Doctor warm genuine relief, the professional reserve softening, real human care carrying through gently.",
+      "mood": "genuinely-relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、お世話になりました。",
+      "en": "Truly, thank you for your care.",
+      "style": "Maternal deep gratitude landing, voice warm with sincerity, the polite phrase fully meant throughout delivery.",
+      "mood": "deeply-grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お大事になさってくださいね。",
+      "en": "Please take care of her well.",
+      "style": "Doctor warm professional closing, the standard parting elevated by genuine care, soft sincerity in the words.",
+      "mood": "warmly-closing"
+    }
+  ]
+}

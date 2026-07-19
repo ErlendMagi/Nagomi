@@ -1,0 +1,86 @@
+{
+  "id": "conv_06666",
+  "context": "A boss reviews planning",
+  "purpose": "Teach: 学内/人名/右上/左上/つけれ/筐/院内/バッティング",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "学内",
+    "人名",
+    "右上",
+    "左上",
+    "つけれ",
+    "筐",
+    "院内",
+    "バッティング"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_335 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "大学との学内連携プロジェクト、進捗、どうだ。",
+      "en": "How's the university partnership project progressing?",
+      "style": "Clipped, businesslike. Direct eye contact. Minimal breath. Waiting for substance, not pleasantries.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。資料の人名一覧、最新版に更新しました。",
+      "en": "Yes. I've updated the personnel list in the documentation to the latest version.",
+      "style": "Clear, steady delivery. Professional but not stiff. The confidence of someone who has the detail right in front of him.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "グラフ、右上に注釈、入れろ。",
+      "en": "Add an annotation to the top-right of the graph.",
+      "style": "Flat instruction. No inflection. Assumes compliance. Quick breath before the next thought.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。表の左上、社名ロゴ、配置しました。",
+      "en": "Yes. I've placed the company logo in the top-left of the table.",
+      "style": "Matter-of-fact confirmation. Slightly faster pace — keeping up with the tempo Hiroshi has set. No embellishment.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予算、もう少しつければ、新事業、加速する。",
+      "en": "With a bit more budget allocated, we can accelerate the new business initiative.",
+      "style": "Measured, strategic. A slight pause after 'budget' — the weight of resource allocation. Speaks from experience about what more money can do.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバ筐体の更新、計画的に、進めます。",
+      "en": "Yes. I'll move forward with the planned server refresh on schedule.",
+      "style": "Affirming nod in the voice. Tempo matching Hiroshi's. Solid, no hesitation. The reassurance of a plan already being executed.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "院内研修、医療法人との合同、検討しろ。",
+      "en": "Look into joint in-house training with the medical corporation.",
+      "style": "Instruction delivered as a task assignment. Brief pause after 'training' — letting him know this matters. Expects a considered approach.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員のバッティング大会、福利厚生で、開催します。",
+      "en": "Yes. We'll hold a company softball tournament as a staff benefit.",
+      "style": "Final item, warmer note entering Kenji's voice — almost small relief. Still professional, but the slight lift of wrapping up a solid meeting.",
+      "mood": "satisfied"
+    }
+  ]
+}

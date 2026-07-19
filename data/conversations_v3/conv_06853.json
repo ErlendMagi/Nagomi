@@ -1,0 +1,86 @@
+{
+  "id": "conv_06853",
+  "context": "A doctor discusses public health history",
+  "purpose": "Teach: 民俗/幼少/薄れ/彼方/亡くなり/作詞/蒸気/道路公団",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "民俗",
+    "幼少",
+    "薄れ",
+    "彼方",
+    "亡くなり",
+    "作詞",
+    "蒸気",
+    "道路公団"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_344 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、民俗医療と現代医療、融合の動き、最近、強まっています。",
+      "en": "Ren, the integration of folk medicine and modern medicine has been accelerating recently.",
+      "style": "Clear, measured delivery. Slight emphasis on 「融合」 — the convergence itself matters. Steady pace, observant gaze. The tone of someone sharing a genuine clinical observation with a younger colleague.",
+      "mood": "measured_attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者さん、幼少期の病歴、診察に、参考にされていますね。",
+      "en": "I've noticed you reference patients' childhood medical histories during examinations.",
+      "style": "Gentle inquiry with genuine interest. Leans forward slightly — he's picked up on something noteworthy. Warm but not presumptuous. The careful phrasing of someone asking to understand more.",
+      "mood": "curious_appreciative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。認知症で、記憶が薄れていく方、増えています、ご家族、つらいですね。",
+      "en": "Yes. More patients are living with dementia now, and the memory loss is harder on families than people realise.",
+      "style": "Quiet gravity beneath clinical composure. Soft pause before 「増えています」 — acknowledgment of the weight. Not cheerful, but steady. The voice of someone who has sat with that grief.",
+      "mood": "compassionate_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療技術、彼方の国にも、行き渡るよう、努めていますね、国際協力。",
+      "en": "Medical technology is reaching even remote parts of the world through international cooperation efforts.",
+      "style": "Thoughtful, almost meditative pace. Slight emphasis on 「努めています」 — the ongoing effort itself. Warm respect in the voice. Speaking as someone who sees the human work behind the systems.",
+      "mood": "hopeful_reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。長らく、闘病されたご家族、お亡くなりになり、心からお悔やみ申し上げました。",
+      "en": "Yes. When families have endured long illnesses, I always offer my deepest condolences.",
+      "style": "Quiet sincerity. Slow, intentional delivery — each word weighted. No rush. The voice of someone who has said this many times and means it every time. Gentle eye contact held.",
+      "mood": "somber_genuine"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "作詞家の患者さん、創作活動、医療で、支えていらっしゃいますね。",
+      "en": "I've noticed you support a songwriter patient's creative work through their medical care.",
+      "style": "Soft admiration in the tone. Curious, almost delighted at the observation. Slightly faster than before — genuine enthusiasm breaking through formality. The appreciation of someone noticing good medicine in action.",
+      "mood": "warm_impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。古い病院、蒸気滅菌の歴史、見学したこと、ありますか、博物館で。",
+      "en": "Yes. Have you ever visited a museum exhibit on the history of steam sterilisation in older hospitals?",
+      "style": "Conversational shift — genuinely curious about his knowledge. Slight lift in tone, almost inviting. Not testing, but interested in what he knows. The ease of a senior asking a junior what they've learned.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "道路公団の救急道路、整備が、医療搬送の鍵ですね、地方にも。",
+      "en": "Emergency road infrastructure is key to medical transport in rural areas, just as it is in cities.",
+      "style": "Concluding observation with quiet conviction. Steady, reflective pace — the weight of practical necessity in the voice. Slight emphasis on 「鍵」. Not urgent, but clear that the infrastructure matters for lives.",
+      "mood": "reflective_purposeful"
+    }
+  ]
+}

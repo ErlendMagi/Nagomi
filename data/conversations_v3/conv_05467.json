@@ -1,0 +1,65 @@
+{
+  "id": "conv_05467",
+  "context": "Two managers prep a corporate initiative meeting",
+  "purpose": "Teach: 月額/採決/取組/拠出/強行/承り/隊長/棟",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月額",
+    "採決",
+    "取組",
+    "拠出",
+    "強行",
+    "承り",
+    "隊長",
+    "棟"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今回の取組、月額予算で運営できるか、要確認。",
+      "en": "We need to confirm whether this initiative can actually run on the monthly budget.",
+      "style": "Crisp, businesslike tone. Quick tempo. Matter-of-fact opening. No softening — this is a practical checklist item, not a request.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "拠出する各部の比率、強行採決にならないよう調整中です。",
+      "en": "I'm working on adjusting each department's contribution ratio so we don't end up forcing a vote through.",
+      "style": "Steady, reassuring. Slightly lower register — reporting progress, not rushing. Warm competence. Careful on the adjustment logic, like he's thought this through.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "担当隊長から、承りますの返信が早く欲しい。",
+      "en": "I need a quick confirmation from the team lead — as soon as possible.",
+      "style": "Measured urgency. Light emphasis on 'quick'. Not demanding, but clear about priority. The tone of someone who knows what needs to happen next.",
+      "mood": "pressing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本日中に届く見込みです。新棟見学も同時にセットします。",
+      "en": "It should come through by end of day. I'll coordinate the new building tour at the same time.",
+      "style": "Efficient, reassuring. Brisk but not rushed. Each item checked off. Slight lift at the end — demonstrating he's already in motion.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "よろしく。",
+      "en": "Got it.",
+      "style": "Quiet, brief nod of acknowledgment. Warm enough to close the exchange without lingering. The exhale of someone moving to the next thing.",
+      "mood": "satisfied"
+    }
+  ]
+}

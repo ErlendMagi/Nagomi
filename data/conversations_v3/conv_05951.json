@@ -1,0 +1,79 @@
+{
+  "id": "conv_05951",
+  "context": "A doctor explains digestive enzymes to a reporter",
+  "purpose": "Teach: 酵素/混同/判る/落ち着か/投下/党員/政界/接待",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "酵素",
+    "混同",
+    "判る",
+    "落ち着か",
+    "投下",
+    "党員",
+    "政界",
+    "接待"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_299 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、消化酵素の働き、市民にも分かりやすく伝えたいですね。",
+      "en": "Ren, I'd like to communicate how digestive enzymes work in a way the general public can actually understand.",
+      "style": "Clear, professional opening. Measured pace. Leaning slightly forward with genuine intention — this matters to her. No rush, just clarity.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "添加物との混同、誤情報が多いです。",
+      "en": "There's a lot of confusion with food additives — misinformation gets in the way.",
+      "style": "Thoughtful, slightly concerned. Speaking from observation, not alarm. Soft emphasis on the word confusion. Genuine interest in the problem, not just stating facts.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。正しい仕組み、判るように、図解を加えました。",
+      "en": "Exactly. I've added diagrams so the mechanism is clear to readers.",
+      "style": "Steady affirmation. Brief warmth on 'exactly' — she's pleased he sees it. Businesslike but not cold. Matter-of-fact about the solution.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "落ち着かない患者の不安、減らせると思います。",
+      "en": "I think it could actually reduce the anxiety we see in restless patients.",
+      "style": "Thoughtful, building quiet confidence. Soft emphasis on 'reduce' — real stakes here. Slower on the word anxiety, like he's recognizing something important. Genuine observation, not optimism.",
+      "mood": "hopeful_grounded"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療界に投下する啓発資料、続けて作成します。",
+      "en": "We'll keep producing educational materials and getting them into the medical community.",
+      "style": "Resolved, steady. Slight emphasis on 'keep' — a commitment. Calm determination. No theatrics, just professional conviction. Slight pause before the second clause.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "党員候補や政界も、関心を寄せていますね。",
+      "en": "I've noticed party candidates and political figures are paying attention too.",
+      "style": "Observational, slightly curious. Conversational but careful — he's noticing something unexpected. Even pace. Not accusatory, just noting the fact.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "接待絡みではない、地道な政策が要ります。",
+      "en": "Good policy takes time and care — not entertainment for officials' calendars.",
+      "style": "Quiet firmness underneath. Slow, deliberate. A touch of weariness but also resolve. Not bitter, just clear about what matters. Trailing thoughtfulness at the end.",
+      "mood": "resolute_weary"
+    }
+  ]
+}

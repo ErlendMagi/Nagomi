@@ -1,0 +1,86 @@
+{
+  "id": "conv_06469",
+  "context": "A police officer briefs on coordination",
+  "purpose": "Teach: 増員/測る/オーブン/カルテ/当番/仕上げる/仕切り/引き換え",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "増員",
+    "測る",
+    "オーブン",
+    "カルテ",
+    "当番",
+    "仕上げる",
+    "仕切り",
+    "引き換え"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、繁忙期、増員を進めています。",
+      "en": "We're moving forward with staffing increases during our busy season.",
+      "style": "Even, professional tone. Clear authority but not defensive. Slight deliberate pause after the opening, like this is established fact. Measured pacing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。御社、警備人員、防犯効果、測る指標、共有頂けますか。",
+      "en": "Yes. Could you share the indicators you use to measure your security team's crime-prevention effectiveness?",
+      "style": "Respectful but direct. Leans into the question with genuine curiosity, not suspicion. Keeps pace steady and conversational despite the formal content.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域の食堂、オーブン火災、注意喚起しています。",
+      "en": "We're currently alerting the community about oven fire hazards at local food establishments.",
+      "style": "Matter-of-fact delivery. No drama, just facts being laid out. Slight emphasis on the practicality of the warning itself.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事件カルテ、警察データベース、参考にしています。",
+      "en": "Understood. We've been consulting your police database incident records for our own reference.",
+      "style": "Acknowledging and reciprocating. Warmth of transparency here — showing good faith. Not overly formal, just straightforward.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "交番の当番制、市民にも、周知しています。",
+      "en": "The patrol rotation schedule has been made known to residents as well.",
+      "style": "Calm, factual. This is routine communication. Slight sense of checking a box — nothing remarkable, just part of standard procedure.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。共同案件、仕上げる段階で、警察に最終確認、求めます。",
+      "en": "Understood. Once our joint cases reach the final stage, we'll request a final confirmation from the police.",
+      "style": "Respectful but assured. Shows he's thought this through. Pace is deliberate but not hesitant — this is a well-considered ask.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "場面の仕切り、警察主導で進める方針です。",
+      "en": "Our approach is to keep scene management under police leadership.",
+      "style": "Clear statement of principle. Not argumentative, just setting boundaries. Steady eye-level tone, slightly formal.",
+      "mood": "clear"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。協定、引き換えに、警察情報、提供頂きます。",
+      "en": "Yes. In exchange, we'll receive the information from your department as outlined.",
+      "style": "Closing note of agreement. Warm but businesslike. Slight breath-ease on the finish — this deal is settled.",
+      "mood": "settled"
+    }
+  ]
+}

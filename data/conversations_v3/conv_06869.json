@@ -1,0 +1,86 @@
+{
+  "id": "conv_06869",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 盛り込ん/伺う/留保/派生/量産/保留/激減/差し上げ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "盛り込ん",
+    "伺う",
+    "留保",
+    "派生",
+    "量産",
+    "保留",
+    "激減",
+    "差し上げ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_345 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "防犯計画、住民の声を、盛り込んで、立てております、最新版です。",
+      "en": "Our crime prevention plan incorporates resident feedback in the latest version.",
+      "style": "Measured official tone. Even pacing. Opens with quiet authority. Informative without urgency. The confidence of someone delivering prepared briefing material.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察様、当社に、伺うご予定の日、決まりましたら、教えてください。",
+      "en": "Yes. Please let us know once you've decided on a date for the police visit.",
+      "style": "Attentive, slightly formal. Respectful uptake — receiving information with readiness. Calm, steady delivery. No edge; just reliable engagement.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の捜査、一部、留保している情報、開示できる時期、近づいております。",
+      "en": "We're approaching the point where we can release some of the information we've been holding back on this investigation.",
+      "style": "Even, procedural tone. Slight deliberation before key terms like 'release.' Professional distance maintained throughout. Informative, not conversational.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事件から派生した、関連事件、御社で、続出しております。",
+      "en": "Yes. We've seen related incidents stemming from the original case emerge on your end.",
+      "style": "Brief, factual update. Quiet acknowledgment of complexity. Not rushed, but economical with words. The tone of someone reporting without judgment.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "防犯機器、量産化が進み、家庭にも、普及しております、近年。",
+      "en": "Crime prevention equipment has been advancing in mass production and spreading into homes in recent years.",
+      "style": "Steady informational delivery. Slight emphasis on 'advancing' — showing progress. Thoughtful pacing. The tone of sharing relevant context, not lecturing.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害届、一部、保留にされている案件、ございますね、複雑な背景で。",
+      "en": "Yes. Some damage claims remain on hold due to their complex background.",
+      "style": "Calm recognition of complication. No defensiveness. Measured acknowledgment that some things take time to resolve. Steady, professional clarity.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域犯罪、激減傾向にあります、皆様のご協力、賜っております、感謝です。",
+      "en": "Local crime has shown a sharp downward trend thanks to everyone's cooperation. We're grateful.",
+      "style": "Sincere formal gratitude. Warm beneath the procedural tone. Slight emphasis on 'grateful' — genuine acknowledgment. Professional but not distant.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察への感謝状、社長から、差し上げる予定です、来月。",
+      "en": "Yes. Our company president plans to send a letter of thanks to the police department next month.",
+      "style": "Formal closing statement. Clear, straightforward. Slight formality in 'company president' — respectful distance maintained. Warm undertone beneath procedure.",
+      "mood": "respectful"
+    }
+  ]
+}

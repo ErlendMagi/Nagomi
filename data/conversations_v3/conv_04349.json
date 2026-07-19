@@ -1,0 +1,78 @@
+{
+  "id": "conv_04349",
+  "context": "A teacher walks a teen through a class on databases",
+  "purpose": "Teach: 複製/コマンド/ソリューション/リソース/属性/伝達/遂行/実証",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "複製",
+    "コマンド",
+    "ソリューション",
+    "リソース",
+    "属性",
+    "伝達",
+    "遂行",
+    "実証"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_219 workflow wvts35s53)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日はデータベースの基本について実証しながら学んでいきましょう。",
+      "en": "Today we'll learn the basics of databases through demonstration.",
+      "style": "Calm, instructive teacher voice, measured pace, encouraging tone for class introduction."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、データの複製ってバックアップとは違うんですか?",
+      "en": "Teacher, is data duplication different from a backup?",
+      "style": "Curious teen, slightly hesitant but engaged, rising intonation on the question."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい質問ですね。複製は同じデータを別の場所に作る操作で、業務の継続というソリューションにもつながります。",
+      "en": "Good question. Duplication creates the same data elsewhere, and it ties into business continuity solutions.",
+      "style": "Warm, affirming tone, explains clearly with patient pacing and gentle emphasis."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ、そのコマンドを打てば自動でできるんですか?",
+      "en": "So if I type the command, can it be done automatically?",
+      "style": "Eager teen, slightly faster pace, leaning into the technical part."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうです。コマンドを実行する前に、サーバーのリソース状況を必ず確認してください。",
+      "en": "Exactly. Before executing the command, always check the server's resource status.",
+      "style": "Firm and clear, lightly cautioning tone, emphasizing safety in operations."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "テーブルにある名前とか年齢って、ぜんぶ属性って呼ぶんですよね?",
+      "en": "The name and age fields in a table, those are all called attributes, right?",
+      "style": "Teen confirming understanding, slightly proud, checking comprehension softly."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "その通り。属性を正しく設計しないと、情報の伝達がうまくいかなくなります。",
+      "en": "That's right. If attributes aren't designed properly, information transmission breaks down.",
+      "style": "Approving, then gently serious, underlining the importance of design choices."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど…じゃあ、この課題を遂行するために、まず設計図から書いてみます。",
+      "en": "I see. So to carry out this assignment, I'll start by drawing the design.",
+      "style": "Thoughtful, motivated teen, voice settling into focused determination."
+    }
+  ]
+}

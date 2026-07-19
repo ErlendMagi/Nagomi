@@ -1,0 +1,78 @@
+{
+  "id": "conv_05032",
+  "context": "A boss and his manager discuss a tech-industry news article",
+  "purpose": "Teach: 方程式/レーザー/電流/波動/同氏/最良/死去/国歌",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "方程式",
+    "レーザー",
+    "電流",
+    "波動",
+    "同氏",
+    "最良",
+    "死去",
+    "国歌"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、読んだか?あの有名な物理学者の死去が業界に衝撃を与えているらしい。",
+      "en": "Did you read this article? Apparently the passing of that famous physicist is shocking the industry.",
+      "style": "Authoritative boss opening with gravitas and concern."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、同氏が提唱した波動の理論は、今のレーザー技術の基礎になっていますよね。",
+      "en": "Yes, the wave theory he proposed has become the foundation of today's laser technology.",
+      "style": "Polite subordinate showing technical knowledge respectfully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだ。彼の方程式がなければ、半導体の電流制御もここまで発展しなかっただろう。",
+      "en": "Right. Without his equations, semiconductor current control wouldn't have developed this far.",
+      "style": "Boss reflecting thoughtfully on industry history."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "記事では、同氏は最良の研究環境を求めて晩年は海外で過ごしたと書かれていました。",
+      "en": "The article said he spent his later years abroad in pursuit of the best research environment.",
+      "style": "Manager adding contextual detail from the piece."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。葬儀では母国の国歌が流されたそうだな。彼の功績にふさわしい敬意だ。",
+      "en": "Hmm. I heard his country's national anthem was played at the funeral. A fitting tribute to his achievements.",
+      "style": "Boss expressing measured respect and quiet reverence toward the deceased scientist."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、本当に。我が社の次世代製品にも、彼の理論が活きていると思うと感慨深いです。",
+      "en": "Indeed. It's moving to think his theories live on in our next-generation products too.",
+      "style": "Subordinate offering sincere emotional reflection, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "我々も彼に恥じない仕事をしないとな。来週の会議で、この記事を共有してくれ。",
+      "en": "We must do work worthy of him. Share this article at next week's meeting.",
+      "style": "Boss issuing decisive instruction with purpose."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。チーム全員にとって良い刺激になると思います。",
+      "en": "Understood. I think it will be good inspiration for the entire team.",
+      "style": "Manager confirming task with professional commitment."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "conv_03689",
+  "context": "A nutritionist explains a healthy budget meal plan",
+  "purpose": "Teach: たんぱく/物価/不景気/危険性/ハンドル/急速/細かい/アクセス",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "物価",
+    "不景気",
+    "ハンドル",
+    "急速",
+    "細かい",
+    "アクセス"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_185 w7s2smwp2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、不景気で物価も上がって、健康的な食事が続けられるか不安なんです。",
+      "en": "Doctor, with the recession and prices rising, I'm worried I can't keep eating healthily.",
+      "style": "soft anxious tone, trailing slightly at the end"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "わかります。でも工夫すれば大丈夫ですよ。まず一日のたんぱく質をきちんと確保しましょう。",
+      "en": "I understand. But with some planning it's fine. First, let's secure enough protein each day.",
+      "style": "calm reassuring professional tone with steady pacing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "たんぱく源って、お肉ばかりだと高くつきますよね…。",
+      "en": "Protein sources get expensive if it's all meat, right?",
+      "style": "hesitant questioning lilt, slightly worried voice"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "卵や豆腐、納豆を上手に使えば、食費を大幅に抑えられますよ。安い旬の野菜にもアクセスしやすい時期です。",
+      "en": "Eggs, tofu, and natto used wisely can significantly cut food costs. Cheap seasonal vegetables are also easy to access right now.",
+      "style": "informative steady tone, practical and encouraging delivery"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "細かい栄養バランスまで考えるのは難しそうです…。",
+      "en": "Thinking about the detailed nutritional balance sounds difficult...",
+      "style": "soft sigh, gentle uncertainty in voice"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "食生活のハンドルをしっかり握れば、体は急速に整っていきますよ。極端な食事制限には危険性がありますからね。",
+      "en": "If you firmly grip the wheel of your diet, your body will rapidly come back into balance. Extreme dieting carries real risks, you know.",
+      "style": "warm authoritative tone with steady measured delivery"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "危険性があるんですか?無理なダイエットはやめた方がいいですね。",
+      "en": "There are risks? I should stop doing extreme diets then.",
+      "style": "slightly surprised, reflective realization in tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。週に一度、買い物リストを一緒に確認しましょう。続けることが何より大切ですよ。",
+      "en": "Yes. Once a week, let's review your shopping list together. Consistency matters more than anything.",
+      "style": "kind closing tone, supportive and steady"
+    }
+  ]
+}

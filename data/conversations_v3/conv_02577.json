@@ -1,0 +1,75 @@
+{
+  "id": "conv_02577",
+  "context": "Sho tells Grandpa about a walk in the neighborhood.",
+  "purpose": "Casual home register reusing stragglers (入る/道路/ファン/とにかく/どうも) naturally.",
+  "ambient": "tatami_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "入る",
+    "道路",
+    "ファン",
+    "とにかく",
+    "どうも"
+  ],
+  "cast": [
+    "sho_child",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_129)",
+    "generated_at": "2026-05-29T13:12:58.567Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、公園に入ってきたよ!",
+      "en": "Grandpa, I went into the park!",
+      "style": "bright small child voice, warm excited bouncing delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほう、道路は気をつけたかね?",
+      "en": "Oh, were you careful on the road?",
+      "style": "gravelly old man voice, soft warm gentle caring delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、道路の端を歩いたよ。",
+      "en": "Yeah, I walked on the edge of the road.",
+      "style": "proud small child voice, warm cheerful delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "えらいぞ。どうも最近、車が多いからな。",
+      "en": "Good boy. Somehow there are many cars lately.",
+      "style": "gravelly old man voice, soft warm approving delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "公園で、電車のファンの子に会ったよ!",
+      "en": "In the park I met a kid who's a train fan!",
+      "style": "excited small child voice, warm bubbly delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほう、君も電車のファンじゃろ?",
+      "en": "Oh, you're a train fan too, aren't you?",
+      "style": "gravelly old man voice, soft warm amused delivery throughout"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "とにかく、電車が大好きなんだ!",
+      "en": "Anyway, I just love trains!",
+      "style": "enthusiastic small child voice, warm eager delivery throughout"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "とにかく、また道路に気をつけてな。",
+      "en": "Anyway, watch the road again next time.",
+      "style": "gravelly old man voice, soft warm caring closing delivery throughout"
+    }
+  ]
+}

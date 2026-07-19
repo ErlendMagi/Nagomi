@@ -1,0 +1,76 @@
+{
+  "id": "conv_00966",
+  "context": "Hiroshi and Kenji plan a year-end company party.",
+  "purpose": "boss-subordinate party-planning exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "忘年会",
+    "一緒",
+    "計画",
+    "頑張る",
+    "楽しい"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_049)",
+    "generated_at": "2026-05-27T03:07:32.163Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、忘年会、計画、進めろ。",
+      "en": "Kenji — organize the year-end party. Make it happen.",
+      "style": "Direct but not unkind. Clipped opening: the words land with quiet authority. A pause before 'make it happen' — not harsh, just clear expectation. Settled composure throughout.",
+      "mood": "authoritative_trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、皆と、相談、します。",
+      "en": "Yes, sir. I'll talk it over with everyone.",
+      "style": "Respectful but not obsequious. Quick and bright — eager to move into action. Warmth in the 'I'll talk' — showing he'll do it right, with people. Professional ease.",
+      "mood": "committed_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今年、本当、頑張った、皆。",
+      "en": "This year, everyone really put in the work.",
+      "style": "The appreciation genuine and steady. Slight weight on 'really' — he means it. Not sentimental, but the tone carries recognition. A breath before closing, like he's seeing them for their effort.",
+      "mood": "appreciative_steady"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "皆、楽しい忘年会、楽しみに、してます。",
+      "en": "Everyone's looking forward to a good year-end party.",
+      "style": "Bright and sincere — no flattery, just reporting warmth he's genuinely felt. Quick, practical tone. The words land as reassurance that he's heard the mood and will deliver.",
+      "mood": "bright_reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、慰労、しよう。",
+      "en": "Let's take care of each other. Celebrate together.",
+      "style": "Quiet shift — less command, more invitation. Warm but still composed. The words slow slightly, giving them room. 'Together' carries the real meaning: this is about the team, not the event.",
+      "mood": "warm_philosophical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会場、来週、決めます。",
+      "en": "I'll lock down the venue next week.",
+      "style": "Efficient and assured. No hesitation — he's already moving. The words come fast but not rushed. Showing he's got it handled, that Hiroshi can trust the follow-through.",
+      "mood": "assured_practical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。",
+      "en": "Counting on you.",
+      "style": "Brief, final, warm without softening the weight. Eyes steady. Not a question or a doubt — a statement of trust. The kind of send-off that settles something.",
+      "mood": "trusting_firm"
+    }
+  ]
+}

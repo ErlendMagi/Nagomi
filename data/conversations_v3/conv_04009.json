@@ -1,0 +1,78 @@
+{
+  "id": "conv_04009",
+  "context": "A police officer delivers a formal civic announcement to a mom",
+  "purpose": "Teach: 申し上げる/頂く/了承/何とも/該当/どなた/告知/加わっ",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げる",
+    "頂く",
+    "了承",
+    "何とも",
+    "該当",
+    "どなた",
+    "告知",
+    "加わっ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "おはようございます。本日、近隣住民の皆様に告知がございまして、一言申し上げるために参りました。",
+      "en": "Good morning. There's an announcement for local residents today, so I came to say a word.",
+      "style": "Formal, polite, official civic delivery tone overall"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あら、警察の方ですか。わざわざお越し頂く形になり、ありがとうございます。",
+      "en": "Oh, you're from the police? Thank you for taking the trouble to come.",
+      "style": "Surprised but warm housewife greeting an official visitor"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "実は最近、このあたりで不審者の目撃情報がございまして、注意喚起の活動に加わっております。",
+      "en": "Actually, there have been suspicious-person sightings around here, so I've joined the awareness effort.",
+      "style": "Measured, careful, official explanation of assigned duty"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えっ、怖いですね。該当する地域というのは、この通り全体ですか?",
+      "en": "Oh, that's scary. Is the area in question this entire street?",
+      "style": "Worried mother asking a clarifying safety question politely"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、この一帯が該当しております。もし不審などなたかをお見かけになりましたら、すぐにご連絡ください。",
+      "en": "Yes, this whole vicinity applies. If you spot any suspicious person, please contact us immediately.",
+      "style": "Reassuring yet firm official safety instruction to resident"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "わかりました。子供たちにも伝えておきます。何とも物騒な話で、心配になりますね。",
+      "en": "Understood. I'll tell my kids too. It's such an unsettling story, it makes me worry.",
+      "style": "Concerned, slightly sighing maternal response to news"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご心配をおかけしますが、ご了承の上、ご協力を申し上げるようお願いいたします。",
+      "en": "I apologize for the worry, but with your understanding, we humbly request your cooperation.",
+      "style": "Highly formal closing bow-like polite request indeed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "もちろんです。何かあればすぐ通報します。お役に立てれば幸いです。",
+      "en": "Of course. I'll report anything right away. I hope I can be of help.",
+      "style": "Cooperative, sincere mother offering civic support warmly"
+    }
+  ]
+}

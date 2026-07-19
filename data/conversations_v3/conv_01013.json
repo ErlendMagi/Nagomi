@@ -1,0 +1,76 @@
+{
+  "id": "conv_01013",
+  "context": "Asuka praises Sho's growth at school.",
+  "purpose": "teacher-child growth-praise exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "成長",
+    "一緒",
+    "頑張る",
+    "優しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_051)",
+    "generated_at": "2026-05-27T03:21:23.101Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、随分、成長したね。",
+      "en": "Sho-kun, you've grown so much.",
+      "style": "Warm, steady gaze. Opens with genuine delight in the observation. Soft voice, patient pacing. Real affection threading through — not performative, but felt. The tone of an adult who sees a child clearly.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、ありがとう。",
+      "en": "Thank you, teacher.",
+      "style": "Quiet, sincere. A small voice meeting her eyes for a moment. Genuine gratitude without self-consciousness. Gentle, unhurried — the warmth of a child who feels safe.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "友達にも、優しい。",
+      "en": "You're kind to your friends too.",
+      "style": "Warm affirmation. Slight smile in the voice. Gentle emphasis on the observation itself, not on praising. Steady, approving. The tone of someone noticing what matters.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、遊ぶの、好き。",
+      "en": "I like playing with them.",
+      "style": "Soft, honest. A small brightness in the voice without forcing it. Simple and direct — the unselfconscious warmth of a child who means what he says. Gentle rhythm, natural pacing.",
+      "mood": "contented"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "勉強も、頑張ってる。",
+      "en": "And you work hard at your studies too.",
+      "style": "Appreciative, calm. Light emphasis on 'too' — acknowledging the fullness of his effort across everything. Warm, steady delivery. The voice of someone tallying up the real growth they see.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "学校、楽しい、本当。",
+      "en": "School is really fun.",
+      "style": "Soft wonder. A simple statement carrying genuine feeling. Unhurried, sincere — the natural openness of a child speaking truth. Small, genuine. No performance.",
+      "mood": "happy"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "誇りに、思ってる、しょうくん。",
+      "en": "I'm really proud of you, Sho-kun.",
+      "style": "Warm, direct, closing with quiet conviction. Slight softening on his name. The words land gently but with real weight — not effusive, but genuinely felt. The tone of an adult giving a gift of recognition.",
+      "mood": "proud_tender"
+    }
+  ]
+}

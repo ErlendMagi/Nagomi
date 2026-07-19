@@ -1,0 +1,97 @@
+{
+  "id": "conv_00073",
+  "context": "Iwate countryside. The visiting urban doctor Saito is doing weekly rounds at the small clinic; today Tatsuya has come in for the first time in two years.",
+  "purpose": "rural patient, city doctor — quiet diagnostic encounter",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大丈夫",
+    "少し",
+    "見る",
+    "心配"
+  ],
+  "cast": [
+    "saito_doctor",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "こんにちは。今日は、どんなことで？",
+      "en": "Hello. What brings you in today?",
+      "style": "Warm, measured greeting. Sits down first. Clear eye contact. Ready to listen without rushing.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いや…ちょっと、息切れな。",
+      "en": "Well… a bit of shortness of breath.",
+      "style": "Quiet, deliberate. Pauses before answering like he's weighing whether to say it out loud. Rural cadence, Tohoku rhythm. Matter-of-fact.",
+      "mood": "reluctant_admission"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつ頃から、気になるようになりました？",
+      "en": "When did you start noticing it?",
+      "style": "Clinical but not cold. Pen poised. Voice is practical, focused. No emotional weight added — just gathering information.",
+      "mood": "clinical"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "…半年くらい前から。",
+      "en": "…About six months back.",
+      "style": "Heavy pause before the number. Words come slow. Each one lands with the weight of half a year of silence. Minimal, honest.",
+      "mood": "weary_admission"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "半年ね…。本当に、その間、誰にも言わずに？",
+      "en": "Six months… and really — you didn't mention it to anyone all that time?",
+      "style": "No trace of judgment. Gentle surprise, genuine concern underneath. Leans forward slightly. The question is care, not criticism.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "畑も、やらにゃならんし。",
+      "en": "There's the fields to tend — can't let them go.",
+      "style": "Plain statement of fact. Not defensive, not self-pitying. The voice of someone for whom work comes before complaint. Rural practicality.",
+      "mood": "stoic"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。…少し、ちゃんと診せていただいて、いいですか？",
+      "en": "I see. …May I give you a proper examination?",
+      "style": "Respectful, almost deferential. Asks permission as though speaking to the elder. Warm but professional. Dignified.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ええよ、どうぞ。",
+      "en": "Yeah, go ahead.",
+      "style": "Agreement given. Sits up slightly — a small physical permission. Tohoku-simple. Trust settling in.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "時間、少し取ります。心配しないで、まず深呼吸。",
+      "en": "I'll need a bit of time. Don't worry — let's start with a deep breath.",
+      "style": "Professional warmth in motion. Voice steady and kind, firm without urgency. Reassuring. In control.",
+      "mood": "calm_professional"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "…ありがとうな、先生。",
+      "en": "…Thank you, doctor.",
+      "style": "Quiet gratitude. Tohoku formal-gentle. The words are simple but sincere. A small moment of trust made visible.",
+      "mood": "grateful"
+    }
+  ]
+}

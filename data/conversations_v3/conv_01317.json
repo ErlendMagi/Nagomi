@@ -1,0 +1,76 @@
+{
+  "id": "conv_01317",
+  "context": "Saito gives Sho a dental exam.",
+  "purpose": "doctor-child dental exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "歯",
+    "健康",
+    "一緒",
+    "頑張る",
+    "優しい"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_066)",
+    "generated_at": "2026-05-27T05:06:03.490Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、歯、本当、綺麗、磨いてる。",
+      "en": "Sho-kun, your teeth are truly beautiful — you're brushing so well.",
+      "style": "Warm, steady voice with genuine appreciation. Soft opening on the compliment. Measured pace, the professional composure of a good doctor layered with real affection. Slight smile audible.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張ってる、本当、毎日。",
+      "en": "I'm trying hard — really, every single day.",
+      "style": "Small, earnest voice. Quiet pride threading through. The sincerity of a six-year-old who takes this seriously. Soft and steady, no performance, just genuine effort.",
+      "mood": "proud_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、本当、保てる、ね。",
+      "en": "That's how you keep yourself healthy.",
+      "style": "Clear reassurance without condescension. Warm but grounded. The doctor speaking from knowledge and genuine care. A gentle promise that his effort matters.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "優しい、先生、本当、好き。",
+      "en": "I really like you, Doctor — you're so kind.",
+      "style": "Soft, unguarded six-year-old voice. The words come easily because they're true. Small and bright, with the tenderness of a child speaking something he means completely.",
+      "mood": "affectionate_tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、頑張ろう、本当に。",
+      "en": "Let's keep trying hard together, okay?",
+      "style": "Warm promise. Slight lean forward in the voice. The composure of a practiced doctor who means what she says. Gentle, steady, the invitation genuine.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "感謝、本当、いつも。",
+      "en": "Thank you — truly, always.",
+      "style": "Small voice, big feeling. Quiet gratitude without self-consciousness. The steady warmth of a child who trusts completely. Simple and real.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、ね。",
+      "en": "Take care of yourself, okay?",
+      "style": "Closing warmth. Professional but tender. The kind doctor's parting words — not a dismissal, a gentle reminder that she sees him. Calm, kind, final.",
+      "mood": "warm_protective"
+    }
+  ]
+}

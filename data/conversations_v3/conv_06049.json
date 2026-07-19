@@ -1,0 +1,79 @@
+{
+  "id": "conv_06049",
+  "context": "A police officer briefs on financial compliance",
+  "purpose": "Teach: ポートフォリオ/プリンター/返金/レジュメ/数式/パートナーシップ/概算/アフター",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ポートフォリオ",
+    "プリンター",
+    "返金",
+    "レジュメ",
+    "数式",
+    "パートナーシップ",
+    "概算",
+    "アフター"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社のポートフォリオ、健全です。",
+      "en": "Your portfolio is sound.",
+      "style": "Even, professional opening. Measured cadence. The brief approval of someone reading from experience, not suspicion. Slight nod in the voice.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。プリンター記録、監査用に保存しています。",
+      "en": "Yes. We keep printer logs for audit purposes.",
+      "style": "Immediate, cooperative. Clean articulation — showing readiness without over-eagerness. The tone of someone already thinking ahead to the next step.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "返金詐欺、報告が増えています。",
+      "en": "Refund fraud reports are increasing.",
+      "style": "Shift to official register. Steady, informative. The weight of routine bad news. No alarm — just statement of fact that requires attention.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。応募レジュメの照合、慎重に行います。",
+      "en": "Yes. We'll verify resumes carefully.",
+      "style": "Quick acknowledgment, then slight lean forward. The assurance of someone committing to specifics. Not defensive — just clear about process.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "評価数式、不正にならないよう、外部監査も。",
+      "en": "Assessment formulas need external audit too — to prevent irregularities.",
+      "style": "Procedural, precise. Light emphasis on 「external」. The tone of laying out what must happen next. Professional, no negotiation in the phrasing.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察との情報パートナーシップ、強化します。",
+      "en": "We'll strengthen our information-sharing partnership with the police.",
+      "style": "Firm commitment. Direct eye contact in the voice. The tone of someone stepping up, not just complying — ownership of the next move.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "概算情報、社内アフターケアにも反映を。",
+      "en": "Make sure preliminary data reflects in internal aftercare too.",
+      "style": "Closing instruction, delivered quietly but with weight. The tone of tying things together. Slight pause before the final phrase — letting it land.",
+      "mood": "closing_emphasis"
+    }
+  ]
+}

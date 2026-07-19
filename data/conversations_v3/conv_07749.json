@@ -1,0 +1,86 @@
+{
+  "id": "conv_07749",
+  "context": "Police officer briefs",
+  "purpose": "Teach: 短縮/共存/退院/各自/待機/早起き/仲介/専業",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "短縮",
+    "共存",
+    "退院",
+    "各自",
+    "待機",
+    "早起き",
+    "仲介",
+    "専業"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_389 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、捜査時間、絶対、短縮、絶対、努めております、本気で、感謝",
+      "en": "The police are genuinely committed to shortening investigation time. We're truly grateful.",
+      "style": "Formal, measured delivery. Even cadence. Professional composure. Direct eye contact. Not performative — simply stating institutional commitment with quiet authority.",
+      "mood": "professional_earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と民間警備、本気で、絶対、共存、絶対、する体制、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. The coordination between police and private security is invaluable to us.",
+      "style": "Warm agreement. Slightly leaning-in tone. Affirming the partnership without overstating. Steady, appreciative pacing. The voice of someone who has seen the system work.",
+      "mood": "grateful_aligned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者の、本気で、絶対、退院、絶対、警察、絶対、お見舞い、絶対、いたしました、本気で、感謝",
+      "en": "We made sure to visit the victim after they were discharged from the hospital.",
+      "style": "Even-toned procedural statement. Slight emphasis on the care-action itself, not the announcement. Professional but not cold. A small gesture treated straightforwardly.",
+      "mood": "attentive_dutiful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、各自、絶対、担当区、絶対、明確、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. Having each officer clearly assigned to their district makes a real difference.",
+      "style": "Warm, affirming nod in the voice. Tempo slightly unhurried. Recognition of practical detail that shows understanding. Genuine appreciation for clear structure.",
+      "mood": "approving_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "非常時、本気で、絶対、警察、絶対、待機、絶対、徹底しております、本気で、感謝",
+      "en": "In emergencies, we maintain rigorous police readiness at all times.",
+      "style": "Calm assertion. Slight weight on 'rigorous.' Unwavering commitment in the tone. Professional, steady, no inflation — stating a fact with understated confidence.",
+      "mood": "composed_resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、早起き、絶対、朝、絶対、巡回、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. The early morning patrols throughout the neighborhood are much appreciated.",
+      "style": "Warm, genuine acknowledgment. Slight lift of relief in the tone — someone noticing this protection in real life. Appreciative but not effusive.",
+      "mood": "reassured_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "示談、本気で、絶対、仲介、絶対、弁護士、絶対、紹介します、本気で、感謝",
+      "en": "For settlements, we'll help mediate and connect you with a lawyer if needed.",
+      "style": "Helpful, matter-of-fact offer. Warm but not oversolicitous. Offering practical support with the clarity of someone who has done this well before.",
+      "mood": "helpful_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、本気で、絶対、専業、絶対、対策班、絶対、組まれて、絶対、ありがたいです、本気で、感謝",
+      "en": "Yes. Having a dedicated task force focused on this is something we're very thankful for.",
+      "style": "Quiet depth of gratitude. Recognition of sustained effort and resource. Warm but restrained. The appreciation of someone who knows what it took to assemble that team.",
+      "mood": "deeply_grateful"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03750",
+  "context": "Two managers discuss a survey from a government ministry",
+  "purpose": "Teach: 労働省/メイド/誤り/感性/気づき/間接/分散/各社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "労働省",
+    "メイド",
+    "誤り",
+    "感性",
+    "気づき",
+    "間接",
+    "分散",
+    "各社"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_188 wdyqj1q3f)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "課長、厚生労働省から例のアンケート、各社に送られたみたいですね。",
+      "en": "Boss, that survey from the Ministry of Health and Labor seems to have been sent to every company.",
+      "style": "Polite, slightly tense, lowered voice, formal workplace report tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、見たよ。設問に明らかな誤りがあって、各社対応に困ってるらしい。",
+      "en": "Yeah, I saw it. There's an obvious mistake in the questions, and apparently every company is struggling to respond.",
+      "style": "Gruff senior manager, mildly exasperated, dry and grounded."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "間接的な質問ばかりで、何を測りたいのか正直よく分からなくて。",
+      "en": "It's all indirect questions, and honestly I can't tell what they're actually trying to measure.",
+      "style": "Thoughtful, confiding, slightly puzzled mid-level employee tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "設計者の感性を疑うね。サンプルも分散しすぎて、数字として意味があるのか。",
+      "en": "Makes me question the designer's instincts. The sample's too scattered to mean anything statistically.",
+      "style": "Critical, experienced, slightly cynical analytical comment from a seasoned boss."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ただ、自由記述の欄を読んでいて、ひとつ大事な気づきがありました。",
+      "en": "Still, while reading the open-comment section, I did notice one important thing.",
+      "style": "Carefully respectful tone, offering a measured counterpoint to the boss."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、何だ。",
+      "en": "Oh? What's that.",
+      "style": "Curt, curious, inviting elaboration with a short prompt."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "若手の何人かが、休憩中によく行くメイド喫茶での接客に、職場の人間関係のヒントを感じているそうなんです。",
+      "en": "Apparently a few of the younger staff feel the customer service at the maid cafe they visit on breaks gives them hints about workplace relationships.",
+      "style": "Measured and slightly hesitant, reporting an unexpected finding carefully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、現場ならではの視点だな。来週、その分析を会議に出してくれ。",
+      "en": "Hm, that's a perspective only the field could give. Bring that analysis to next week's meeting.",
+      "style": "Thoughtful approval, low and steady, granting permission decisively."
+    }
+  ]
+}

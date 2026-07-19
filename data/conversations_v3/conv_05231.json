@@ -1,0 +1,72 @@
+{
+  "id": "conv_05231",
+  "context": "A teacher walks a uni student through a journalism studies paper",
+  "purpose": "Teach: 救急車/アトピー/大工/言説/無力/暗闇/筆頭/狂気",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "救急車",
+    "アトピー",
+    "大工",
+    "言説",
+    "無力",
+    "暗闇",
+    "筆頭",
+    "狂気"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日は君のジャーナリズム論のレポート、一緒に見ていきましょう。テーマは「メディアと狂気」でしたね。",
+      "en": "Today let's go through your journalism studies paper together. The theme was 'media and madness,' right?",
+      "style": "Warm but professional academic guidance tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。事件報道における過激な言説がどう形成されるか、そこを筆頭の論点にしました。",
+      "en": "Yes. I made the formation of extreme discourse in incident reporting my primary point of argument.",
+      "style": "Earnest student presenting his thesis carefully"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白いわね。具体例として救急車のサイレンや暗闇の現場映像が、視聴者に与える心理的影響にも触れている?",
+      "en": "Interesting. As concrete examples, do you also touch on the psychological impact of ambulance sirens and footage of dark scenes on viewers?",
+      "style": "Probing teacher pushing for analytical depth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そこなんです。サイレンの音と暗闇の映像が重なると、視聴者は無力な傍観者にされてしまう。日常の小さな苦しみ、例えば子どものアトピーですら、報道は悲劇的に演出してしまうんです。",
+      "en": "That's exactly it. When siren sounds overlap with dark footage, viewers are reduced to powerless bystanders. Even small everyday suffering, like a child's atopic dermatitis, gets dramatized tragically by reporting.",
+      "style": "Engaged student making a sharp critical observation"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。ただ、その「無力感を生む構造」を語るとき、研究者の言葉だけじゃ弱いわよ。報道現場で働く人の声、たとえば事件現場の検証に立ち会った大工さんの証言なんかも入れてみたら?",
+      "en": "I see. But when you discuss that 'structure producing powerlessness,' scholar quotes alone are weak. Try voices from the reporting field, like testimony from a carpenter who witnessed a crime scene investigation.",
+      "style": "Constructive academic feedback pushing toward concrete grounded sources"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに。理論ばかりで地に足がついていない感じはありました。狂気じみた競争の中で記者たちが何を切り捨てているか、現場から書き直してみます。",
+      "en": "True. It felt theory-heavy and not grounded. I'll rewrite it from the field, examining what reporters discard amid this maddening competition.",
+      "style": "Self-reflective student accepting the critique, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、その方向で。来週までに第三章だけ書き直して持ってきて。期待してますよ、先生としても。",
+      "en": "Yes, in that direction. Rewrite just chapter three by next week and bring it. I have high expectations, as your teacher.",
+      "style": "Encouraging mentor closing the supervision session"
+    }
+  ]
+}

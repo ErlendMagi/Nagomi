@@ -1,0 +1,83 @@
+{
+  "id": "conv_00186",
+  "context": "Yuki has come by to help her friend's dad Ryosuke set up a new printer at home.",
+  "purpose": "cross-generation tech help — younger person guiding older with patience and respect",
+  "ambient": "home_office_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "使い方",
+    "パソコン",
+    "簡単",
+    "設定",
+    "できる"
+  ],
+  "cast": [
+    "yuki_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_010)",
+    "generated_at": "2026-05-26T19:34:27.922Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ゆきさん、ほんとに助かるよ。",
+      "en": "Yuki-san, you're really saving me.",
+      "style": "Father warm grateful greeting, the older man's tech-helplessness humbly acknowledged, real appreciation threading throughout warmly.",
+      "mood": "warmly-grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いえいえ、簡単ですから大丈夫です。",
+      "en": "Not at all, it's easy so no worries.",
+      "style": "Office woman bright reassurance, the gentle confidence carrying through, soft real warmth toward the older man throughout.",
+      "mood": "gently-confident"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "パソコンってさ、毎年難しくなる気がするよ。",
+      "en": "Computers — I swear they get harder every year.",
+      "style": "Father wry self-aware complaint, the generational humor audible, soft real frustration mixed with humility throughout.",
+      "mood": "wryly-self-aware"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかります。慣れですよ、きっと。",
+      "en": "I understand. It's a matter of getting used to it.",
+      "style": "Office woman warm sympathetic explaining, the patient teaching cadence opening up, soft real respect maintained throughout.",
+      "mood": "patiently-sympathetic"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "この設定、自分でやろうとして失敗した。",
+      "en": "This setup — I tried doing it myself and failed.",
+      "style": "Father honest admission with self-deprecating warmth, the failure shared without ego, soft real humility throughout.",
+      "mood": "honestly-self-deprecating"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あ、ここをクリックすれば、自動でできますよ。",
+      "en": "Ah, if you click here, it goes automatic.",
+      "style": "Office woman gentle teaching pivot, the patient pointing-and-showing energy, real care for the older man throughout.",
+      "mood": "gently-teaching"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ほう、なるほど。これは便利だ。",
+      "en": "Oh, I see. This is convenient.",
+      "style": "Father warm impressed appreciation, the real learning landing audibly, soft genuine recognition threading through delivery.",
+      "mood": "warmly-impressed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "これで完了です。お疲れさまでした。",
+      "en": "That's it, all done. Good work.",
+      "style": "Office woman warm closing brightness, the friendly professionalism softened by personal connection, sincere warmth throughout.",
+      "mood": "warmly-completing"
+    }
+  ]
+}

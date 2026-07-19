@@ -1,0 +1,68 @@
+{
+  "id": "conv_00128",
+  "context": "A koban at Haneda Airport, very early morning. Tatsuya has missed a connection and asks the officer where he can sit until his rebooked flight.",
+  "purpose": "tiny travel-help moment — country man + city officer",
+  "ambient": "airport_terminal",
+  "target_vocab": [
+    "すみません",
+    "本当に",
+    "時間",
+    "大丈夫",
+    "どこ"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "takeda_officer"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "すみません、ちょっと尋ねていいか。",
+      "en": "Excuse me — may I ask something?",
+      "style": "A slow polite opener. Tohoku cadence.",
+      "mood": "slow_polite"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どうぞ。",
+      "en": "Yes, please go ahead.",
+      "style": "A small calm professional reply — voice carries the moment fully.",
+      "mood": "calm_pro"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "便、乗り遅れてな。どこで待てばええ？",
+      "en": "Missed my flight. Where can I wait?",
+      "style": "A small embarrassed admission — as the scene allows it.",
+      "mood": "embarrassed_admit"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本当に、お疲れさまです。あちらに、休憩所が。",
+      "en": "Truly — that's rough. Over there — there's a lounge.",
+      "style": "A small polite direction. Gestures in the voice.",
+      "mood": "polite_direction"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ありがとな。お時間取らせて。",
+      "en": "Thanks. Sorry to take your time.",
+      "style": "A small Tohoku-formal gratitude — genuine and unforced throughout.",
+      "mood": "tohoku_thanks"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫ですよ。ご無事の旅を。",
+      "en": "It's fine. Safe travels.",
+      "style": "A small closing warm line — with steady attentive presence.",
+      "mood": "closing_warm"
+    }
+  ]
+}

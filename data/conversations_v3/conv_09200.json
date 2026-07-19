@@ -1,0 +1,86 @@
+{
+  "id": "conv_09200",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 羽根/遊戯/製図/海面/浴室/祖父母/出稼ぎ/蔵書",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "羽根",
+    "遊戯",
+    "製図",
+    "海面",
+    "浴室",
+    "祖父母",
+    "出稼ぎ",
+    "蔵書"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_461 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お正月にお父さんと羽根つきしましょうね",
+      "en": "Sho, let's play badminton with Dad over New Year's, shall we?",
+      "style": "Warm, inviting, gentle. Open vowels on the request. A slight lift at the end — not a question, but inclusive. Tender attention focused on him.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが昔遊戯ボードを作ってくれたよ",
+      "en": "Mom, Dad made me a game board a long time ago.",
+      "style": "Quiet pride. Careful enunciation on the past tense — he's remembering something he treasures. Soft but steady. The voice of someone sharing something meaningful.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが製図道具を整理してらしたわ",
+      "en": "Sho, I noticed your father was organizing his drafting tools earlier.",
+      "style": "Gentle observation. Measured pace. A hint of fondness — she's noticing something about him. Trailing thought at the end, like she's connecting small details.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、海面が夕日できれいだったよ",
+      "en": "Mom, the ocean looked so pretty at sunset today.",
+      "style": "Bright, immediate, eager to share. Quick pace. The voice of a child who saw something beautiful and needs to tell someone about it right now.",
+      "mood": "excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、新しい浴室、気持ちいいわね",
+      "en": "Sho, the new bathroom is so nice and comfortable, isn't it?",
+      "style": "Contented warmth. Appreciative, noticing small comforts. Conversational, almost to herself — sharing a moment of domestic pleasure with him.",
+      "mood": "content"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、祖父母にあう日が楽しみだよ",
+      "en": "Mom, I'm looking forward to the day we visit Grandma and Grandpa.",
+      "style": "Earnest excitement, well-mannered. Steady buildup on 'looking forward' — genuine anticipation without being loud. The quiet joy of a thoughtful child.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが若い頃、出稼ぎで頑張られたんですって",
+      "en": "Sho, when your father was young, he worked hard as a migrant laborer, you know.",
+      "style": "Reflective, respectful. Slight pause before the detail — she's choosing her words carefully. Tone carries quiet admiration for his past effort. Contemplative.",
+      "mood": "respectful_thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんの蔵書、読んでみたいよ",
+      "en": "Mom, I'd like to read some of Dad's books.",
+      "style": "Softly determined. Attentive to the weight of what he's asking — wanting to know his father through his books. Gentle but clear. The close of a vulnerable wish.",
+      "mood": "wistful_earnest"
+    }
+  ]
+}

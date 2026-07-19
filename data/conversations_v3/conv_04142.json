@@ -1,0 +1,78 @@
+{
+  "id": "conv_04142",
+  "context": "An office manager helps a barista friend pick a rental apartment",
+  "purpose": "Teach: 住まい/居住/アパート/軒/一層/売却/下落/売ら",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "住まい",
+    "居住",
+    "アパート",
+    "軒",
+    "一層",
+    "売却",
+    "下落",
+    "売ら"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新しい住まい探し、進んでる？候補は絞れた？",
+      "en": "How's the new apartment search going? Have you narrowed down candidates?",
+      "style": "Warm professional tone, slightly leaning in with curiosity."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、駅前に三軒並ぶ賃貸アパート、どれも気になってるんだ。",
+      "en": "Yeah, three apartments lined up near the station all caught my interest.",
+      "style": "Casual cheerful voice, hands gesturing as she explains."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あの辺は居住地として人気だけど、最近価格下落してるって聞いたよ。",
+      "en": "That area's popular as a residential zone, but prices reportedly dropped recently.",
+      "style": "Informative measured tone, sharing insider knowledge calmly."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当？それなら一層お得かも。家賃も下がってるのかな？",
+      "en": "Really? Then it might be even more of a bargain.",
+      "style": "Bright surprised reaction, eyes widening with hope."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "オーナーが資産売却を急いでるらしくて、安く売られる物件もあるって。",
+      "en": "The owner reportedly rushes asset sales, so some properties go cheap.",
+      "style": "Lowered confidential voice, sharing useful gossip discreetly."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "へえ、でも急いで売らない方がいい場合もあるんじゃない？",
+      "en": "Huh, but sometimes it's better not to sell hastily, right?",
+      "style": "Thoughtful skeptical tone, tilting head while considering."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうだね、まずは内見してみて、自分の生活に合うか確かめなよ。",
+      "en": "True, first tour them and check if they suit your lifestyle.",
+      "style": "Encouraging older-sister tone, giving practical sensible advice."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとう、今週末さっそく不動産屋さんに行ってみる！",
+      "en": "Thanks, I'll head to the real estate agent this weekend!",
+      "style": "Energetic grateful reply, decisive and motivated to act."
+    }
+  ]
+}

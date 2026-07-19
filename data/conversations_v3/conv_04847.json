@@ -1,0 +1,78 @@
+{
+  "id": "conv_04847",
+  "context": "Two managers prep an urgent vendor coordination call",
+  "purpose": "Teach: 急遽/極力/高値/立地/阻害/所要/先般/取扱い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "急遽",
+    "極力",
+    "高値",
+    "立地",
+    "阻害",
+    "所要",
+    "先般",
+    "取扱い"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "ケンジさん、先般の打合せで話題になったベンダー、急遽今日の夕方に電話会議が入りましたよ。",
+      "en": "Kenji, the vendor we discussed the other day — an urgent call has been scheduled for this evening.",
+      "style": "Crisp professional tone with mild urgency, polite desu-masu register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっ、本当ですか。所要時間はどれくらいの予定でしょう。",
+      "en": "What, really? How long is it expected to take?",
+      "style": "Slightly startled but composed manager checking logistics quickly."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一時間以内に収めたいので、極力こちらから論点を絞って進めるつもりです。",
+      "en": "I want to keep it within an hour, so I plan to drive the agenda tightly from our side.",
+      "style": "Decisive lead-style speech, businesslike and forward-looking."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。先方、最近の部材高値を理由に値上げを言い出すかもしれませんね。",
+      "en": "Got it. They might bring up a price hike, citing the recent high material costs.",
+      "style": "Cautious analytical voice anticipating the counterpart's move."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そこなんです。新工場の立地と物流コストを盾に、強気で来る可能性があります。",
+      "en": "That's exactly the issue. They may push hard, leveraging their new plant's location and logistics costs.",
+      "style": "Strategic briefing tone, sharing concerns with a trusted colleague."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちの生産計画を阻害されるのは避けたいので、代替案も用意しておきましょう。",
+      "en": "We want to avoid having our production schedule disrupted, so let's prepare a fallback plan too.",
+      "style": "Solution-oriented manager speaking with quiet determination."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。あと、契約書の取扱いについても、法務に念のため確認しておきますね。",
+      "en": "That helps. Also, I'll double-check with legal regarding the handling of the contract just in case.",
+      "style": "Grateful and methodical, wrapping up with concrete next steps."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お願いします。じゃあ、十五分後に会議室で最終すり合わせしましょう。",
+      "en": "Please do. Then let's do a final alignment in the meeting room in fifteen minutes.",
+      "style": "Crisp closer setting a clear immediate action item."
+    }
+  ]
+}

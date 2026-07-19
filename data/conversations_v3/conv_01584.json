@@ -1,0 +1,61 @@
+{
+  "id": "conv_01584",
+  "context": "Daichi reads Sho-young a bedtime story about a brave farmer.",
+  "purpose": "Father reading to child; gentle bedtime ritual.",
+  "ambient": "bedroom_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "物語",
+    "読む",
+    "勇気",
+    "主人公"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、物語読んで。",
+      "en": "Dad, will you read me a story?",
+      "style": "Soft, drowsy voice. Warm, reaching-out quality. Slight hesitation before the ask—checking if he's not too busy. Trailing breath on the word 'story' like he's already half-imagining it.",
+      "mood": "sleepy_hopeful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "よっしゃ、この本でええか?",
+      "en": "Sure, how about this one?",
+      "style": "Warm, familiar Kansai lilt. Gentle and immediate—no hesitation, full presence. Slight upward curve on 'this one' like he's already excited to share it with you.",
+      "mood": "warm_willing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、勇気の話がいい。",
+      "en": "Yeah, I want a story about being brave.",
+      "style": "Quiet but certain. Small nod in the voice. Not asking for permission—stating what his heart wants. Soft close, like he's settling into the idea of it.",
+      "mood": "determined_gentle"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "これ、農家の主人公や。",
+      "en": "This one's about a farmer—the main character.",
+      "style": "Slow, inviting tone. Leans into the description like he's already picturing it. Warm pause before 'farmer'—letting the detail land. Voice steady and present.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "わくわくする!",
+      "en": "I'm excited!",
+      "style": "Bright, quick energy without loudness. Pure delight breaking through the sleepiness. Light and buoyant—the joy of anticipation. Open, unguarded.",
+      "mood": "excited_bright"
+    }
+  ]
+}

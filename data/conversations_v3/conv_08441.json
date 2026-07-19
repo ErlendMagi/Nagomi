@@ -1,0 +1,86 @@
+{
+  "id": "conv_08441",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 存分/思いつか/おそらくは/久し振り/こんばんわ/すっごい/言い聞かせ/戸惑い",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "存分",
+    "思いつか",
+    "おそらくは",
+    "久し振り",
+    "こんばんわ",
+    "すっごい",
+    "言い聞かせ",
+    "戸惑い"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お休みの日は存分に遊んでいいのよ",
+      "en": "Sho, you can play as much as you'd like on your day off.",
+      "style": "Warm, permissive tone. Gentle opening, like she's giving him permission to fully relax. Soft pace, encouraging. The voice of someone who understands he needs to hear this.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、おやつ何を食べるか思いつかないよ",
+      "en": "Mom, I can't decide what snack I want.",
+      "style": "Small, uncertain voice. Not whining — genuinely stuck. Slight upward lift at the end like he's asking for help. The quietness of someone who thinks before he speaks.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんはおそらくは7時に帰ってくるわね",
+      "en": "Your father will probably be home around seven, won't he?",
+      "style": "Practical, gentle. Slightly distant quality — thinking aloud while managing the day. Steady pace, like she's checking herself against a mental schedule. Not directed at him, but shared with him.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんに久し振りに会えたよ",
+      "en": "Sho, you got to see Grandpa after so long.",
+      "style": "Warm recognition. Picking up on his unspoken joy. Soft, affirming tone. A pause before his name — like she's genuinely pleased for him. Not asking, observing with tenderness.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんに「こんばんわ」って挨拶してね",
+      "en": "Make sure to say good evening to Grandma, okay?",
+      "style": "Clear, gentle instruction. Not demanding — guiding. A light touch of expectation, the way a mother reminds without commanding. Warm undertone, like she trusts he'll do it.",
+      "mood": "gently_instructive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お庭のお花、すっごい綺麗だったよ",
+      "en": "The flowers in the garden were really beautiful, weren't they?",
+      "style": "Affirming, following his lead. Mirroring his wonder without diminishing it. Soft, genuinely interested tone. A small pause before the question tag — letting him sit in the pleasure of what he's seen.",
+      "mood": "warm_present"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママは「優しくね」って言い聞かせるわよ",
+      "en": "Sho, remember — be kind with them, okay?",
+      "style": "Tender but firm undertone. The specific weight of a lesson she wants to land. Slight pause before the request. Not harsh, but clear that this matters. Warm voice carrying quiet intention.",
+      "mood": "gently_serious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、新しい学校で戸惑いがあったよ",
+      "en": "I've been finding my footing at the new school, Mom.",
+      "style": "Vulnerable admission, carefully worded. Quiet, thoughtful delivery. A small hesitation before opening up — like he's testing whether it's safe to say. Slow pace, not rushed. The courage of a 6-year-old being honest.",
+      "mood": "vulnerable_thoughtful"
+    }
+  ]
+}

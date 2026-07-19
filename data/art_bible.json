@@ -1,0 +1,476 @@
+{
+  "_meta": {
+    "version": 1,
+    "authored": "2026-07-20",
+    "purpose": "Source of truth for the illustrated character system. generate_art.mjs builds every prompt from styleBlock + per-character visual + the per-expression reaction notes. No artist, band, or franchise names may ever appear in prompts.",
+    "expressions": [
+      "neutral",
+      "happy",
+      "sad",
+      "surprised",
+      "excited",
+      "tired"
+    ],
+    "mouths": [
+      "closed",
+      "open"
+    ]
+  },
+  "styleBlock": "Original 2D alternative-band poster art style: confident broken ink outlines of varying weight, flat cel shading with exactly one darker shadow tone per color, slightly angular exaggerated anatomy (long limbs, big expressive hands, tilted shoulders), characters drawn with deadpan-cool attitude and strong individual fashion, muted-but-punchy palette on a warm paper-cream background, subtle grain, no gradients, no glossy rendering, no photorealism. Full body, single character, plain warm-cream background, feet visible, facing slightly toward camera-left-or-right as specified. Clean silhouette readable at small sizes. Some cast members have completely blank pupil-less eyes as a stylistic signature. No two cast members share garments, silhouette or color scheme. Any cable or strap follows one continuous physically plausible path. STYLING DOCTRINE: every character is dressed like a rock star or pop icon would dress for their own album cover — one RARE, genuinely cool statement accessory made integral to the look, silhouettes and pieces that would never be called normal, and deliberate color chemistry: deep purple with gold or acid yellow, dark blood-red with teal or cream. Unique beats pretty; memorable beats safe.",
+  "backgroundStyleBlock": "Same original 2D alternative-band poster art style as the cast: broken ink outlines, flat cel shading with one shadow tone, muted-but-punchy palette, subtle grain, no gradients, no characters or people anywhere in the scene. TALL PORTRAIT composition (2:3) designed for PHONE SCREENS: all important scene elements in the vertical middle band so the image crops safely to 9:16 phones and 4:3 tablets alike; the bottom third simple and uncluttered so characters can stand in front of it; calm inviting mood with gentle depth.",
+  "characters": [
+    {
+      "id": "hina_child",
+      "face": "camera-right",
+      "visual": "An 8-year-old girl styled like a POCKET DIVA headlining her own arena tour — not dressed like a kid. A MASSIVE cropped faux-fur jacket in DEEP PURPLE worn open, gold rope chain with a tiny gold rabbit-head pendant, acid-yellow pleated skirt over sky-blue leggings, chunky acid-yellow platform sneakers, tiny gold hoops on the ponytail ties, heart-shaped acid-yellow sunglasses pushed up like a tiara, one knee band-aid as the only kid giveaway. Her deformed stuffed rabbit wears a matching tiny purple fur coat and hangs from her fist by one ear.",
+      "palette": [
+        "deep purple",
+        "acid yellow",
+        "sky blue"
+      ],
+      "prop": "rabbit in a matching fur coat + gold rabbit-head chain",
+      "reactions": {
+        "neutral": "bright-eyed and ready, slight bounce in the knees",
+        "happy": "full sunbeam grin, ponytails seem to lift",
+        "sad": "instant huge wet eyes and wobbling lip — wounded easily, restored easily",
+        "surprised": "whole-body gasp, rabbit clutched to chest",
+        "excited": "on tiptoes, both arms up, rabbit swinging",
+        "tired": "rubbing one eye with a fist, rabbit dragging on the floor"
+      }
+    },
+    {
+      "id": "sho_child",
+      "face": "camera-left",
+      "visual": "A 6-year-old boy styled like a MINI FASHION DON — not dressed like a kid. An oversized floor-length TEAL puffer coat worn open like a don's robe, drowning him on purpose, over a tiny black turtleneck. Blood-red wool beret dead level, TINY perfectly round dark sunglasses, chunky black combat boots, a brass magnifying glass on a neck chain resting on the turtleneck. Calm hooded stillness, one leaf held like evidence. Yellow rubber boots are gone — the boots are black now; the loud note is the teal robe.",
+      "palette": [
+        "teal",
+        "blood red",
+        "black"
+      ],
+      "prop": "floor-length teal puffer robe + brass magnifying glass",
+      "reactions": {
+        "neutral": "still, unblinking, quietly processing",
+        "happy": "a small, genuine, closed-mouth smile — never a performance",
+        "sad": "eyes down at his boots, cap hiding half his face",
+        "surprised": "eyes widen slowly, one beat behind everyone else",
+        "excited": "leans forward two degrees, grips his leaf tighter — this is maximum Sho",
+        "tired": "slow blink held a moment too long, shoulders sinking into the parka"
+      }
+    },
+    {
+      "id": "sakura_teen",
+      "face": "camera-right",
+      "visual": "A 16-year-old girl with sharp appraising eyes and an unimpressed resting face that can flick to warmth instantly. Choppy shoulder-length hair with grown-out plum-dyed ends, one WIRELESS earbud in (no cable anywhere). School blazer worn open over an off-regulation band-tee, skirt hem defiantly short, loose white socks, chunky loafers, three thin silver rings. Phone with cracked screen and sticker-covered case in hand.",
+      "palette": [
+        "plum",
+        "charcoal",
+        "silver"
+      ],
+      "prop": "cracked sticker-covered phone",
+      "reactions": {
+        "neutral": "one eyebrow slightly raised, evaluating you",
+        "happy": "reluctant smirk breaking into a real grin she'd deny",
+        "sad": "jaw set, looking away, earbud suddenly very interesting",
+        "surprised": "mask drops completely for one frame — wide honest eyes",
+        "excited": "leaning in despite herself, rings clicking as she gestures",
+        "tired": "hood of scorn fully up, slow disdainful blink"
+      }
+    },
+    {
+      "id": "riku_teen",
+      "face": "camera-left",
+      "visual": "A 15-year-old boy, lanky with unearned new height, default slouch — and striking SNOW-WHITE messy hair, spiked and untamed, falling over his brow. COMPLETELY BLANK SOLID-DARK EYES (no pupils) under the white hair — the contrast is his signature. TOKYO HIGH SCHOOL UNIFORM worn his way: a black stand-collar gakuran jacket with brass buttons, worn OPEN over a plain white tee, collar popped, sleeves slightly too long; black uniform trousers, beat-up high-tops with blood-red laces, and BLOOD-RED over-ear headphones around his neck as the only loud color, with shoelaces in the exact same blood-red.",
+      "palette": [
+        "black",
+        "snow white",
+        "blood red"
+      ],
+      "prop": "blood-red headphones over the open gakuran",
+      "reactions": {
+        "neutral": "carefully neutral, eyes doing all the watching",
+        "happy": "a one-corner smirk he cannot fully kill — effortlessly cool",
+        "sad": "chin into hoodie collar, hair curtaining the eyes, still composed",
+        "surprised": "straightens to full height without noticing he did",
+        "excited": "sudden fast hands, then catches himself and resets to cool",
+        "tired": "melted against an invisible wall, headphones on as armor"
+      }
+    },
+    {
+      "id": "yuki_office",
+      "face": "camera-right",
+      "visual": "A woman in her late twenties with large warm gentle eyes and a soft open face, healthy warm skin, no dark eye circles, neat shoulder-length black hair tucked behind one ear. STATEMENT LOOK: a slouchy mustard-and-cream color-blocked knit sweater half-tucked into high-waisted wide-leg terracotta trousers, tiny silver collar chain over the knit, cream heeled loafers, the worn caramel leather notebook held warmly under one arm. She carries herself softly secure — at ease, quietly radiant, the warm one everyone exhales around.",
+      "palette": [
+        "mustard",
+        "terracotta",
+        "cream"
+      ],
+      "prop": "worn caramel leather notebook",
+      "reactions": {
+        "neutral": "soft attentive tilt, calm open face, quietly at ease",
+        "happy": "radiant eye-crinkling smile that warms the whole frame",
+        "sad": "a graceful sadness she does not hide — honest eyes, steady",
+        "surprised": "small gasp turning into a laugh at herself",
+        "excited": "bounces once on her heels, notebook hugged, glowing",
+        "tired": "a long exhale, then a soft unbroken smile anyway"
+      }
+    },
+    {
+      "id": "kenji_office",
+      "face": "camera-left",
+      "visual": "A late-twenties man restyled as an ESPRESSO DON — mafia-boss elegance with a caffeine habit. Slicked-back hair with one loose strand, tiny oval glasses, unimpressed half-lidded stare, toothpick in the corner of his mouth. Immaculate BLACK double-breasted suit over a black shirt with a bone-white tie, gold pinky ring, gold watch chain. THE SIGNATURE: crisp WHITE SPATS buttoned over polished black boots, with BLOOD-RED silk socks flashing between trouser cuff and spat. In one hand: a tiny white espresso cup held like a weapon.",
+      "palette": [
+        "black",
+        "blood red",
+        "bone white"
+      ],
+      "prop": "tiny espresso cup, gold pinky ring",
+      "reactions": {
+        "neutral": "half-lidded stare over the espresso cup, toothpick shifting",
+        "happy": "a slow dangerous grin — the deal closed",
+        "sad": "sets the cup down without a sound, jaw tight",
+        "surprised": "the toothpick stops; one eyebrow climbs",
+        "excited": "downs the espresso in one, cracks his neck — business",
+        "tired": "loosens the bone-white tie one inch, eyes still sharp"
+      }
+    },
+    {
+      "id": "aoi_barista",
+      "face": "camera-right",
+      "visual": "A woman in her mid-twenties, direct friendly eyes that meet yours. Dark hair tied back loose with escaping strands and one streak of copper. STATEMENT LOOK: a boxy indigo denim work-jacket with white sashiko-stitch constellations across the back and sleeves, waxed espresso-stained apron over a cream tee, wide-leg jeans cuffed high, canvas sneakers, one silver ring, brass carabiner of keys. Steam towel over the shoulder. Weight on one hip, towel over the shoulder, a ready genuine smile — playful, direct, completely at home.",
+      "palette": [
+        "indigo",
+        "espresso brown",
+        "cream"
+      ],
+      "prop": "small tasting cup",
+      "reactions": {
+        "neutral": "weight on one hip, towel over shoulder, a ready smile",
+        "happy": "wide genuine grin, eyes locked warmly on yours",
+        "sad": "wipes the counter slower, an honest downcast beat",
+        "surprised": "delighted lean-back, towel snapped once",
+        "excited": "leans over the counter into your space, beaming",
+        "tired": "blows a strand of hair aside, grins sideways — still got it"
+      }
+    },
+    {
+      "id": "daichi_kansai",
+      "face": "camera-left",
+      "visual": "A MASSIVE late-twenties BLACK man — tall AND broad, big soft-strong heavyset build, warm deep-brown skin — effortlessly the coolest man in the room. HIS CROWN: a huge perfectly-round AFRO with a golden AFRO PICK planted in it, plus a WELL-GROOMED FULL BLACK BEARD AND MUSTACHE framing the grin. BIG RECTANGULAR COAL-BLACK sunglasses, wide and angular. Open black-satin souvenir jacket with gold tiger and blue wave embroidery over a plain black tee, heavy GOLD ROPE CHAIN, gold watch, two gold rings. Below: BAGGY raw indigo selvedge jeans, wide and stacked over crisp chunky white-and-gold basketball sneakers. Weight back, chin up, half grin — zero effort, maximum presence.",
+      "palette": [
+        "black",
+        "gold",
+        "indigo"
+      ],
+      "prop": "golden afro pick + big rectangular coal-black shades",
+      "reactions": {
+        "neutral": "chin up behind the black rectangles, slight knowing grin",
+        "happy": "head-back laugh, shades never moving, gold catching light",
+        "sad": "a quiet mountain — still, one hand rubbing his neck, composed",
+        "surprised": "big double-take, then a delighted roar",
+        "excited": "arms spread wide like he is closing a festival deal",
+        "tired": "slumps against nothing, still smirking through it"
+      }
+    },
+    {
+      "id": "mei_romantic",
+      "face": "camera-right",
+      "visual": "A woman in her mid-twenties, soft observant eyes, loose side braid with a thin ribbon woven through. STATEMENT LOOK: a moss-green pinafore dress in heavy linen over an oatmeal balloon-sleeve blouse, tiny gold crescent earrings, sheer amber-tint glasses worn low, flat ankle boots, canvas tote with sketchbook and one dried flower poking out. Serene and unhurried, a faraway half-smile — softly magnetic rather than shy.",
+      "palette": [
+        "oatmeal",
+        "moss green",
+        "soft gold"
+      ],
+      "prop": "sketchbook peeking from tote",
+      "reactions": {
+        "neutral": "serene faraway half-smile, unhurried",
+        "happy": "glowing gentle smile, twirling the ribbon-end once",
+        "sad": "wistful gaze down an imaginary street, sketchbook hugged",
+        "surprised": "hands to chest, lips parted, eyes shining",
+        "excited": "quick light steps in place, quietly delighted",
+        "tired": "sinks into her own scarf, dreamy and slow"
+      }
+    },
+    {
+      "id": "ren_uni",
+      "face": "camera-left",
+      "visual": "An early-twenties student turned SCHOLAR-AVIATOR, thin, messy hair, glasses slightly askew with ONE CRACKED LENS. HIS RARE ACCESSORY: big BRASS-RIMMED FLIGHT GOGGLES pushed up into the messy hair, worn like a crown he forgot about. A DEEP-PURPLE leather flight jacket with a sheepskin collar and CHARTREUSE quilted lining showing at the open zip, over a chartreuse graphic tee, brass pocket-watch chain looping from belt to a slide rule holstered in the breast pocket, rumpled charcoal trousers, worn canvas shoes, thin silver rings. Over one shoulder: the leaning tower of five books strapped together with an old leather belt.",
+      "palette": [
+        "deep purple",
+        "chartreuse",
+        "brass"
+      ],
+      "prop": "flight goggles in the hair + belt-strapped book tower",
+      "reactions": {
+        "neutral": "still and self-contained, book under one arm",
+        "happy": "a slow genuine smile, like something just clicked",
+        "sad": "steady; pushes the glasses up and says nothing",
+        "surprised": "freezes mid-thought, then a sharp interested look",
+        "excited": "the sudden focused intensity of a man who found the answer",
+        "tired": "one hand through the hair, spine still straight"
+      }
+    },
+    {
+      "id": "hiroshi_boss",
+      "face": "camera-right",
+      "visual": "A man in his early fifties, silver-flecked hair combed exact, hands behind his back. EYES HIDDEN BEHIND OPAQUE GLARE-WHITE RECTANGULAR GLASSES (blank, no eyes visible) — his signature. STATEMENT LOOK: an immaculate midnight-navy three-piece suit with a barely-visible chalk stripe, dove-gray tie with perfect small knot, white pocket square, vintage watch on a leather strap, polished wholecuts. The stillness of authority. Immovable calm; his stillness takes up the room.",
+      "palette": [
+        "midnight navy",
+        "dove gray",
+        "silver"
+      ],
+      "prop": "folded reading glasses in hand when thinking",
+      "reactions": {
+        "neutral": "hands behind back, immovable, unreadable",
+        "happy": "a single approving nod and the ghost of a smile — worth more than applause",
+        "sad": "eyes close for one second; composure absolute",
+        "surprised": "the glasses catch the light; head tilts one degree",
+        "excited": "one decisive step forward, chin lifted",
+        "tired": "the shoulders never drop — only the watch gets checked"
+      },
+      "variantNote": "CRITICAL SIGNATURE: his rectangular glasses stay OPAQUE GLARE-WHITE in every frame — his eyes are NEVER visible, no matter the emotion."
+    },
+    {
+      "id": "yumiko_mom",
+      "face": "camera-left",
+      "visual": "An early-forties EMO QUEEN power-parent — scene royalty who runs the school board. Jet-black hair with a violet sheen and a long side-swept fringe over one eye, sharp smoky eyeliner, dark plum lips. A structured OXBLOOD coat with black lapels worn open over a faded black band tee, silver chain choker, black lace gloves, wide black tailored trousers with a silver chain at the hip, sharp heeled boots, gold chain-link belt. THE GIVEAWAY: a juice box still pokes out of her black structured tote.",
+      "palette": [
+        "black",
+        "oxblood",
+        "silver"
+      ],
+      "prop": "juice box in the black tote, silver hip chain",
+      "reactions": {
+        "neutral": "fringe over one eye, unimpressed assessment, weight on one hip",
+        "happy": "a slow genuine smirk cracking the eyeliner armor",
+        "sad": "fringe fully down, lace glove touching the choker once",
+        "surprised": "head-flick throws the fringe back — both eyes, rare event",
+        "excited": "snaps into command with dark sparkle — the plan is ON",
+        "tired": "leans on nothing, sighs through the fringe, still immaculate"
+      }
+    },
+    {
+      "id": "ryosuke_dad",
+      "face": "camera-right",
+      "visual": "A late-thirties EMO DAD — the scene kid who grew up but never surrendered. Jet-black hair with a long side-swept fringe over one eye, faint smudged eyeliner, day-three stubble, soft tired smile. Black skinny jeans, a studded belt, a faded black band tee under an open blood-red flannel, black canvas shoes. ON ONE WRIST: a carved BONE-BEAD wristband right next to his kid's pink plastic bead bracelet — both worn with equal pride. His forearm still carries his kid's marker doodles like a tattoo sleeve, and a crayon drawing is safety-pinned to the flannel like a medal.",
+      "palette": [
+        "black",
+        "blood red",
+        "bone white"
+      ],
+      "prop": "bone beads beside the kid bracelet, crayon-drawing medal",
+      "reactions": {
+        "neutral": "fringe over one eye, thumbs in pockets, quietly amused",
+        "happy": "the soft grin that undoes the whole emo front",
+        "sad": "fringe fully down, hand finding the kid bracelet",
+        "surprised": "flips the fringe back with a jerk of the head — both eyes for once",
+        "excited": "air-drums two beats before catching himself",
+        "tired": "the thousand-yard stare of bedtime negotiations, still standing"
+      }
+    },
+    {
+      "id": "naoko_aunt",
+      "face": "camera-left",
+      "visual": "An early-fifties powerhouse, BROAD AND SOLID — a wide strong build that owns any kitchen, hands on hips. HER RARE ACCESSORY: a hand-forged cleaver worn at her hip in a tooled-leather stage holster, the way a guitarist wears an axe. Deep-purple heavy canvas chef's smock with HAND-PAINTED GOLD CHILIS climbing one side, blood-red paisley bandana knotted tight, huge gold hoops, wide indigo farm pants, red lacquer kitchen clogs. Stacked food containers beside her like amp cases.",
+      "palette": [
+        "deep purple",
+        "gold",
+        "blood red"
+      ],
+      "prop": "cleaver in a tooled-leather hip holster",
+      "reactions": {
+        "neutral": "hands on hips, surveying, missing nothing",
+        "happy": "a roaring warm laugh, head back, gold hoops swinging",
+        "sad": "stirs slower, quiet — the kitchen goes quiet with her",
+        "surprised": "one step back, hand to chest, then narrowed eyes — who did this",
+        "excited": "both arms up mid-command, festival-kitchen energy",
+        "tired": "sits heavily on an invisible stool, fans herself with one hand"
+      }
+    },
+    {
+      "id": "tatsuya_country",
+      "face": "camera-right",
+      "visual": "A mid-fifties man of the fields, wide calloused hands, deep-lined kind face. PALE PUPIL-LESS DISTANCE-STARE EYES (blank, looking at horizons). STATEMENT LOOK: heritage-workwear — a quilted moss-green stitch-pattern jacket over an indigo-dyed shirt faded by real sun, heavy canvas trousers with a folding knife on a leather belt, split-toe boots, a white towel around the neck worn like a scarf, a woven straw hat hanging on his back. Planted like a fencepost, unhurried as weather — quiet strength.",
+      "palette": [
+        "moss green",
+        "faded plaid red",
+        "earth brown"
+      ],
+      "prop": "neck towel",
+      "reactions": {
+        "neutral": "planted like a fencepost, towel at the neck, horizon stare",
+        "happy": "a slow broad smile that arrives like good weather",
+        "sad": "hat brim pulled down, jaw working, silent",
+        "surprised": "a grunt, one step back, eyes narrowing",
+        "excited": "rubs his palms together — honest work-joy",
+        "tired": "leans on an invisible hoe, unbowed"
+      }
+    },
+    {
+      "id": "asuka_teacher",
+      "face": "camera-left",
+      "visual": "A mid-thirties teacher with steady encouraging eyes and a low ponytail skewered by ONE single red pen. HER RARE ACCESSORY: a vintage wooden conductor's baton holstered at her hip in a slim leather loop — she runs a classroom like an orchestra. Crisp white band-collar shirt buttoned to the top, mustard sleeveless knit vest, wide DEEP-PURPLE pleated trousers with a faint chalk handprint on one thigh, acid-yellow socks flashing above polished loafers, one architectural gold ear cuff.",
+      "palette": [
+        "deep purple",
+        "mustard",
+        "acid yellow"
+      ],
+      "prop": "conductor's baton holstered at the hip",
+      "reactions": {
+        "neutral": "level warm gaze that says: try",
+        "happy": "a proud beaming smile — someone finally got it right",
+        "sad": "soft down-look, red pen still in hand",
+        "surprised": "the delighted eyebrow-arch right before the praise",
+        "excited": "chalk raised high — YES, exactly that",
+        "tired": "leans on the desk edge and smiles through it"
+      }
+    },
+    {
+      "id": "sachiko_grandma",
+      "face": "camera-right",
+      "visual": "An early-seventies grandmother, small and warm, silver hair in a soft bun held by a lacquered pin. STATEMENT LOOK: heirloom-chic — a lavender quilted kimono-cardigan hybrid with visible mended patches done in gold thread, rose-gray dress, hand-knit socks in leather house slippers, small pearl earrings, a hand towel with embroidered plums tucked in her sleeve. A wrapped sweet held out to you. Small, warm and utterly serene — dignity in softness.",
+      "palette": [
+        "lavender",
+        "rose gray",
+        "pearl"
+      ],
+      "prop": "wrapped sweet she is about to give you",
+      "reactions": {
+        "neutral": "soft smiling readiness, eyes already fond",
+        "happy": "face folding into a hundred warm lines, hands clasped",
+        "sad": "sleeve towel dabbed at eyes, still smiling through it",
+        "surprised": "'ara ara' made flesh: cheek in palm, mouth a small o",
+        "excited": "mischief unlocked — leaning in with forty-year-old gossip",
+        "tired": "gently dozing upright, bun tilting like a moon"
+      }
+    },
+    {
+      "id": "goro_grandpa",
+      "face": "camera-left",
+      "visual": "A late-seventies man carved from driftwood, weather-worn face, huge plate hands, absolute stillness. STATEMENT LOOK unchanged and perfect: thick indigo fisherman's sweater with rolled collar, sturdy gray work trousers, wool socks in sandals, flat cap held on his knee. Eyes permanently on a sea that is not visible.",
+      "palette": [
+        "deep indigo",
+        "storm gray",
+        "rope beige"
+      ],
+      "prop": "flat cap held on knee",
+      "reactions": {
+        "neutral": "monumental stillness, breathing with the tide",
+        "happy": "the smallest possible smile, worth more than anyone else's laugh",
+        "sad": "eyes closing, face becoming an old photograph",
+        "surprised": "head turning fully toward you — the rarest event",
+        "excited": "hand rising to point at something far away, voice imagined",
+        "tired": "asleep upright with the dignity of a lighthouse"
+      }
+    },
+    {
+      "id": "mrs_mori_neighbor",
+      "face": "camera-right",
+      "visual": "A late-sixties neighborhood sentinel restyled as an EDITOR-IN-CHIEF — power-fashion at pension age. A sharp silver-streaked black bob, HUGE dark oversized sunglasses worn indoors and lowered just enough to judge you over the rim, small mean smile. A structured floor-length PLUM coat with an enormous collar, a leopard-print scarf knotted with intent, pearl-studded black leather gloves, stacked pearls, sharp heeled boots. THE SIGNATURE: her tartan shopping trolley rebuilt in BLOOD-RED tartan with chrome wheels, parked beside her like a show dog. One gloved hand raised in a wave that is also a summons.",
+      "palette": [
+        "plum",
+        "blood red",
+        "pearl"
+      ],
+      "prop": "blood-red tartan trolley on chrome wheels",
+      "reactions": {
+        "neutral": "sunglasses lowered a centimeter — assessment in progress",
+        "happy": "the small mean smile widens into real delight; wave upgraded",
+        "sad": "glasses fully on, scarf touched once — composed grief",
+        "surprised": "glasses snatched off entirely; NOW it is serious",
+        "excited": "both gloved hands up, pearls swinging — neighborhood emergency (good kind)",
+        "tired": "perches on the trolley like a throne, unbothered"
+      }
+    },
+    {
+      "id": "hiroshi_elder",
+      "face": "camera-left",
+      "visual": "A VISIBLY OLD man in his late seventies — deeply lined weathered face with sharp aged eyes (visible dark pupils), heavy crow's feet, age spots on big gnarled hands, a neat full WHITE beard and wild white eyebrows, slightly stooped but proud — dressed in OVERKILL outback-dandy drip, original and not a costume: a wide-brimmed weathered dark-teal felt hat with a braided oxblood leather band, a floor-length waxed-canvas duster in DEEP TEAL with an oxblood corduroy collar worn open, a silver BOLO TIE with a carved jade stone over a cream henley, a tooled leather belt with a large engraved silver buckle, dark moleskin trousers, and hand-tooled western boots with silver toe caps. Turquoise-and-silver rings on the old fingers, a silver pocket-watch chain across the vest. No cane. Old, magnificent, and knows it.",
+      "palette": [
+        "deep teal",
+        "oxblood",
+        "silver-jade"
+      ],
+      "prop": "jade bolo tie + silver-toe western boots",
+      "reactions": {
+        "neutral": "thumbs hooked in the tooled belt, hat brim low, ancient calm",
+        "happy": "the white beard splits into a slow gold-lit grin",
+        "sad": "hat removed and held to the chest — the oldest gesture",
+        "surprised": "wild white eyebrows jump above the hat shadow",
+        "excited": "slaps the silver buckle once — saddle-up energy",
+        "tired": "settles onto invisible fence rail, pocket watch checked without hurry"
+      }
+    },
+    {
+      "id": "takeda_officer",
+      "face": "camera-right",
+      "visual": "A mid-thirties Japanese POLICE OFFICER in PROPER regulation uniform, worn with bad-boy attitude. NARROW COMPLETELY BLANK WHITE EYES (no pupils) — his signature — a thin scar through one eyebrow, heavy stubble, dark hair slightly wild under a regulation navy peaked cap with a polished gold badge. Crisp NAVY uniform shirt with breast badge and shoulder patches, dark tie pulled one knot loose, top button open, sleeves rolled over hard forearms; full duty belt with handcuffs and radio, sharply pressed navy trousers, polished black boots, white gloves folded under the belt. Regulation everything — attitude nowhere near regulation.",
+      "palette": [
+        "navy",
+        "gold",
+        "black"
+      ],
+      "prop": "regulation cap + handcuffs on the duty belt",
+      "reactions": {
+        "neutral": "parade-rest slouch, blank eyes scanning over the collar",
+        "happy": "a crooked half-grin that says he let you off this once",
+        "sad": "cap tipped down, scar catching the light, silent",
+        "surprised": "a half-step, hand near the cuffs, instantly composed",
+        "excited": "jacket thrown open wider, gloves snapped on — pursuit mode",
+        "tired": "jacket pulled tighter on the shoulders, one slow neck roll"
+      },
+      "variantNote": "CRITICAL SIGNATURE: his eyes are COMPLETELY BLANK WHITE (no pupils, no irises) in every frame, no matter the emotion."
+    },
+    {
+      "id": "saito_doctor",
+      "face": "camera-left",
+      "visual": "A late-forties physician, steady level gaze, dark hair in a low knot with one silver streak. STATEMENT LOOK: clinical couture — a white coat cut like a belted trench worn open, deep burgundy blouse, straight charcoal slacks, quiet excellent shoes, red-framed glasses pushed into her hair, a vintage watch turned to the inside of the wrist, stethoscope folded in the pocket never worn for show. Level unhurried gaze, hands loosely in coat pockets — elegant composure that owns the corridor.",
+      "palette": [
+        "white",
+        "burgundy",
+        "red frame"
+      ],
+      "prop": "red reading glasses pushed into hair",
+      "reactions": {
+        "neutral": "level unhurried gaze, hands loosely in coat pockets",
+        "happy": "a real warm smile that surprises people who only ever see the doctor",
+        "sad": "eyes steady; one slow careful breath — she carries it",
+        "surprised": "one clinical eyebrow, then genuine wonder",
+        "excited": "the bright quick focus of a solved diagnosis",
+        "tired": "glasses off, presses her eyes one second, calm restored"
+      }
+    }
+  ],
+  "backgrounds": {
+    "note": "One scene per ambient family key from src/theme/ambient.ts FAMILIES + default. Prompts = backgroundStyleBlock + the scene line.",
+    "scenes": {
+      "cafe": "a small Japanese third-wave coffee shop interior, espresso machine gleaming, hand-written menu board, afternoon light through the front window, two empty stools",
+      "izakaya": "a cozy izakaya interior at evening, warm paper lanterns, counter with sake bottles, noren curtain, gentle steam",
+      "eatery": "a small family diner interior, ticket machine by the door, counter seating, steam rising from an unseen kitchen",
+      "kitchen": "a lived-in Japanese home kitchen at evening, pots on the stove, window over the sink, magnets on the fridge",
+      "living_room": "a warm Japanese living room, low table with tea, TV off, balcony light through curtains, floor cushions",
+      "tatami": "a traditional tatami room, low table, tokonoma alcove with a single flower, shoji screens with soft light",
+      "office": "a Japanese open-plan office after most people left, tidy desks, monitors asleep, city dusk through the blinds",
+      "lecture": "a university lecture hall, empty tiered seats, chalkboard with faint equations, tall windows",
+      "classroom": "a Japanese school classroom in the afternoon, desks in rows, cleaning equipment in the corner, sunlight bands on the floor",
+      "clinic": "a calm clinic corridor, pastel walls, potted plant, examination room door ajar, soft fluorescent light",
+      "studio": "a small music practice room, foam panels, a keyboard, tangled cables, one warm lamp",
+      "park": "a Japanese neighborhood park, cherry trees, a bench, distant playground, soft clouds",
+      "street": "a quiet Japanese residential street at golden hour, power lines, vending machine glow, parked bicycles",
+      "transit": "a small train station platform, departure board, yellow tactile paving, distant approaching light",
+      "shop": "a small convenience store interior, bright neat shelves, drink coolers, magazine rack by the window",
+      "market": "a covered shopping arcade street, hanging signs, produce crates, lantern strings",
+      "outdoors": "an open countryside path, rice fields to the horizon, mountains hazy, big sky",
+      "water": "a harbor at dusk, moored fishing boats, rope coils, gulls as distant specks, sea haze",
+      "home": "a Japanese apartment genkan and hallway, shoes lined up, umbrella stand, warm interior light beyond",
+      "night": "a city balcony at night, distant neon and window lights, laundry pole, moon behind thin clouds",
+      "rain": "a covered walkway during rain, wet reflective pavement, ripples in puddles, umbrellas leaning by a door",
+      "default": "a softly abstract warm paper background with faint ink-wash hills and a rising sun disc, calm and minimal",
+      "bedroom": "A cozy Japanese bedroom at dusk: low bed with a rumpled quilt, warm glowing paper lamp, small bookshelf, plant on the windowsill, soft city lights through a gap in the curtain",
+      "shrine": "A quiet Shinto shrine approach: vermilion torii gate, stone lanterns, faint incense smoke drifting, worn stone steps, ancient trees, soft golden afternoon light",
+      "event": "A summer festival street at evening: strings of glowing paper lanterns overhead, food stall awnings, hanging festival banners, warm inviting matsuri light, no people",
+      "sports": "A small gymnasium interior: polished wooden court floor, volleyball net, tall windows with slanted afternoon light beams, folded benches along the wall",
+      "phone": "A cozy phone-call corner at night: window seat with cushions, warm reading lamp, phone charging on the sill, soft city lights blurred outside the glass",
+      "workshop": "A craftsman workshop: wooden workbench with hand tools hung on a pegboard wall, wood shavings, warm task lamp, a half-finished furniture piece"
+    }
+  }
+}

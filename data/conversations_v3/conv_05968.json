@@ -1,0 +1,72 @@
+{
+  "id": "conv_05968",
+  "context": "A boss mentors a uni intern",
+  "purpose": "Teach: 工務/自給/話し合う/書き換え/増設/換気/量販/退社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工務",
+    "自給",
+    "話し合う",
+    "書き換え",
+    "増設",
+    "換気",
+    "量販",
+    "退社"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、工務店との連携、企業活動の基盤だ。",
+      "en": "Ren, relationships with contractors are the foundation of what we do here.",
+      "style": "Clear and steady, setting the frame. Light emphasis on 「基盤」. Not lecturing — just stating what matters. Pauses slightly after 'Ren' to make sure he's listening.",
+      "mood": "grounded_directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。自給型の社員食堂、興味があります。",
+      "en": "Yes. I'm really interested in how a self-sufficient cafeteria system could work.",
+      "style": "Genuine curiosity breaking through formality. Slight lift on 「興味があります」 — not performing eagerness but letting it show. Leans forward slightly with the question.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地元と話し合う姿勢、忘れるな。",
+      "en": "Don't lose sight of that. Always stay in conversation with the people around here.",
+      "style": "Quiet weight underneath. Not stern, but this is important to him. Speaks directly, eyes steady. Almost paternal in the steadiness.",
+      "mood": "careful_guidance"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "設備の書き換えや増設、計画段階から学べますか。",
+      "en": "Can I learn about specification changes and expansions starting from the planning phase?",
+      "style": "Focused and precise. Each clause lands clearly. Not rambling — he's thought about this already. A touch of hope that the answer is yes, but he's prepared for 'no.'",
+      "mood": "thoughtful_hopeful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。換気は地味だが、量販店並みの規模で重要だ。",
+      "en": "Yes. Ventilation seems invisible on the surface, but at this scale it changes everything.",
+      "style": "Quiet certainty. The opening 「うん」 lands warm — affirmation. Then he slows for the contradiction: 'seems mundane but...' Thoughtful, nearly meditative about the importance of unglamorous details.",
+      "mood": "understated_wise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "退社時刻の管理、現場でも勉強します。",
+      "en": "I'll make sure to learn schedule management from the crew itself, on the actual job site.",
+      "style": "Soft determination. 「現場で」 carries the weight — he's committing to real learning, not just theory. Closes with quiet confidence, ready to put in the work. Slight exhale at the end, like settling into intention.",
+      "mood": "resolute_grounded"
+    }
+  ]
+}

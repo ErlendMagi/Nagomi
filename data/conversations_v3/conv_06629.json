@@ -1,0 +1,86 @@
+{
+  "id": "conv_06629",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 備蓄/修繕/調印/共催/譲る/過労/堅実/組み込ん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "備蓄",
+    "修繕",
+    "調印",
+    "共催",
+    "譲る",
+    "過労",
+    "堅実",
+    "組み込ん"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、災害備蓄、御社にも、ご協力いただいております。",
+      "en": "The police appreciate your cooperation on disaster preparedness and stockpiling.",
+      "style": "Professional, measured tone. Slight pause before listing items. Formal register, but warm underneath — acknowledging a partnership rather than giving orders.",
+      "mood": "professional_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本社の修繕、警察への報告、済んでおります。",
+      "en": "Yes. We've completed the repairs to the main office and filed all reports with the police.",
+      "style": "Clear, direct delivery. Each item checked off mentally as he speaks. Respectful but not deferential — matching the officer's professional level.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域安全協定、市と調印、来週予定です。",
+      "en": "We're scheduled to sign the local safety agreement with the city next week.",
+      "style": "Measured cadence. States the plan without inflection — this is routine, competent administrative work. Slight forward lean in the voice.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察と共催の防犯講座、社員参加します。",
+      "en": "Understood. Our staff will attend the crime prevention seminar you're co-hosting with the police.",
+      "style": "Crisp acknowledgment. Quick commitment on 'will attend' — showing eagerness to cooperate. Professional but slightly deferential to the officer's authority.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、警察に道を譲る車両に紛れて、移動していました。",
+      "en": "The suspect was moving among vehicles that were yielding to police — he blended in with that traffic.",
+      "style": "Careful, methodical explanation. Slightly slower pace. The officer is reconstructing the suspect's movements for clarity, not accusation.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。過労による事故、警察も注視されていますよね。",
+      "en": "I see. You're monitoring overwork-related accidents at companies too, aren't you?",
+      "style": "Thoughtful pause before speaking. Recognition that this connects to a larger concern. Respectful question, not defensive.",
+      "mood": "aware"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "堅実な防犯対策、御社の取り組み、評価しています。",
+      "en": "We recognize the solid prevention measures your company is taking — we do appreciate the effort.",
+      "style": "Genuine warmth in the approval. Steady, unhurried. The officer is giving earned praise, not flattering — respect in the voice.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。防犯センサーを組み込んだ社屋、増えています。",
+      "en": "Thank you. More of our buildings are incorporating security sensors into their design now.",
+      "style": "Modest tone on the opening. Then a slight note of measured pride in the update — we're taking this seriously and it's showing.",
+      "mood": "thoughtful_committed"
+    }
+  ]
+}

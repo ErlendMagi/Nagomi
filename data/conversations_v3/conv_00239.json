@@ -1,0 +1,69 @@
+{
+  "id": "conv_00239",
+  "context": "Tatsuya calls Ryosuke about a visit. Phone-call cadence, brief masculine warmth.",
+  "purpose": "short masculine phone call — practical visit planning",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "電話",
+    "予定",
+    "来週",
+    "都合",
+    "楽しみ"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_012)",
+    "generated_at": "2026-05-26T20:02:12.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "もしもし、達也です。",
+      "en": "Hello, this is Tatsuya.",
+      "style": "Country gruff brief phone-opener, the rural plain delivery, soft real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-brief"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "おお、達也さん。どうしました？",
+      "en": "Oh, Tatsuya. What's up?",
+      "style": "Father warm easy phone-receiving, the gentle real warm-familiarity audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "easily-warm"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "来週、そっち行こか思って。都合どうや？",
+      "en": "Thinking of coming over next week. How's your schedule?",
+      "style": "Country gruff direct practical phone-cadence, the soft real care behind the brusqueness, soft real warmth throughout delivery.",
+      "mood": "gruffly-direct"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "お、来てくれるんですか。土曜なら大丈夫です。",
+      "en": "Oh, you'll come? Saturday's fine.",
+      "style": "Father warm bright pleased eager-response, the soft real welcoming-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "brightly-welcoming"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ほな、土曜の昼前に着くわ。",
+      "en": "Then, I'll arrive before noon Saturday.",
+      "style": "Country gruff brief practical confirming, the rural plain delivery, soft real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-confirming"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、楽しみにしてます。お気をつけて。",
+      "en": "Yes, looking forward. Take care.",
+      "style": "Father warm sincere closing warm farewell, the soft real anticipating-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

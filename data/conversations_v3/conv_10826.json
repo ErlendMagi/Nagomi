@@ -1,0 +1,86 @@
+{
+  "id": "conv_10826",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 櫻井/杉本/鳩山/齋藤/佐伯/中谷/中井/川島",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "櫻井",
+    "杉本",
+    "鳩山",
+    "齋藤",
+    "佐伯",
+    "中谷",
+    "中井",
+    "川島"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_543 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新任の櫻井部長を歓迎しろ",
+      "en": "Welcome our new department head, Sakurai.",
+      "style": "Measured, authoritative opening. Crisp enunciation on the directive. Brief, no embellishment. The tone of a leader stating fact, not suggestion.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業の杉本課長の出張日程を整えます",
+      "en": "Understood. I'll coordinate Sales Manager Sugimoto's travel schedule.",
+      "style": "Efficient, respectful affirmation. Quick intake of breath. No hesitation — ready to execute. Tone is attentive but not anxious.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、政界の鳩山系列との関係を慎重に維持しろ",
+      "en": "Maintain our relationship with the Hatoyama faction carefully. Political sensitivity required.",
+      "style": "Deliberate, measured. Weight on 'carefully.' Lower register, almost conversational despite the formality. This is instruction wrapped in wisdom, not mere protocol.",
+      "mood": "cautious_serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報の齋藤様の戦略を採用します",
+      "en": "Understood. I'll implement PR Manager Saito's strategy.",
+      "style": "Crisp confirmation. Slight nod in the voice. Professional but engaged — he's tracking the priority.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、顧問の佐伯様にご助言を仰げ",
+      "en": "Consult with Advisor Saeki on this. Get his counsel.",
+      "style": "Direct but respectful. Pause before the name, emphasizing the specific person. Trust is audible in the delegation.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の中谷様に予算策定を依頼します",
+      "en": "Understood. I'll ask Accounting Manager Nakaya to prepare the budget proposal.",
+      "style": "Quick, assured response. No drag. He's already mentally moving to the next task. Efficient without being curt.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、人事の中井様に新人研修を任せろ",
+      "en": "Put the new employee training under HR Manager Nakai. That's her responsibility now.",
+      "style": "Firm, final. Light emphasis on 'responsibility.' This is a clear delegation with weight behind it. No room for drift.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務の川島様に契約書確認を依頼します",
+      "en": "Understood. I'll have Legal Manager Kawashima review the contract documentation.",
+      "style": "Steady completion. Breath slightly settled, like wrapping up the list. Professional but with a subtle sense of 'all noted.' The final confirmation.",
+      "mood": "resolved"
+    }
+  ]
+}

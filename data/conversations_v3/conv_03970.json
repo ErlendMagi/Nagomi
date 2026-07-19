@@ -1,0 +1,72 @@
+{
+  "id": "conv_03970",
+  "context": "A police officer briefs a manager on relocation compliance rules",
+  "purpose": "Teach: 引越し/倉庫/拠点/敷地/保管/申告/在宅/移住",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引越し",
+    "倉庫",
+    "拠点",
+    "敷地",
+    "保管",
+    "申告",
+    "在宅",
+    "移住"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_200 workflow wgxyoqgbc)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日は管轄区域での引越し手続きについてご説明に伺いました。",
+      "en": "Today I came to explain relocation procedures in our jurisdiction.",
+      "style": "Formal, measured tone with official police bearing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。実は来月、本社の拠点を移転する予定なんです。",
+      "en": "Thank you. Actually, we plan to relocate our headquarters next month.",
+      "style": "Polite businesslike reply with slight nervousness underneath"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。新しい敷地内に倉庫も建設されるとのことですね。",
+      "en": "I see. I hear a warehouse will also be built on the new premises.",
+      "style": "Methodical confirmation, reading from official notes carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、危険物の保管エリアも含まれていますので、申告が必要でしょうか。",
+      "en": "Yes, it includes a hazardous materials storage area, so do we need to declare it?",
+      "style": "Cautious inquiry showing genuine concern about compliance"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろんです。書類の提出は引越し当日の十日前までにお願いします。",
+      "en": "Of course. Please submit the paperwork at least ten days before moving day.",
+      "style": "Direct instruction delivered with authoritative civic clarity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかりました。一部の社員は在宅勤務を続けて、地方へ移住する者もおります。",
+      "en": "Understood. Some employees will continue remote work, and some will relocate to the countryside.",
+      "style": "Informative update spoken with measured professional courtesy"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その場合も住所変更を必ずご案内ください。何かあればこの番号へどうぞ。",
+      "en": "In those cases please always notify them to change their address. Call this number if anything comes up.",
+      "style": "Reassuring close balancing firmness with helpfulness"
+    }
+  ]
+}

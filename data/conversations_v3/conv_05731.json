@@ -1,0 +1,79 @@
+{
+  "id": "conv_05731",
+  "context": "A police officer briefs a uni reporter about a crime trial",
+  "purpose": "Teach: 原文/カウンセラー/麻薬/和解/不倫/復讐/無罪/麻生",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "原文",
+    "カウンセラー",
+    "麻薬",
+    "和解",
+    "不倫",
+    "復讐",
+    "無罪",
+    "麻生"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件、麻薬絡みではないと判明しました。",
+      "en": "This case, as it turns out, has no drug connection.",
+      "style": "Measured professional delivery. Even pace, no surprise in the voice—just fact. Slight pause before the main clause, like reading from notes but translating to spoken language.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者と容疑者、和解の可能性はありますか。",
+      "en": "Is there any possibility of reconciliation between the victim and the suspect?",
+      "style": "Lean forward slightly in the voice. Genuine intellectual curiosity, not accusatory. Careful phrasing—choosing words precisely. Steady, engaged eye contact level.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "家庭内の不倫を背景に、復讐の動機がささやかれています。",
+      "en": "Domestic infidelity is the backdrop here. Revenge motives are being discussed in the investigation.",
+      "style": "Clinical, measured. Deliver with the neutrality of someone separating emotion from fact. Even spacing between clauses. No inflection that suggests judgment—just reporting.",
+      "mood": "clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被告は無罪を主張していますね。",
+      "en": "And the defendant is maintaining a plea of not guilty?",
+      "style": "Quiet confirmation-seeking. Small uptick at the end—checking understanding, not challenging. Respectful of the officer's authority. Pen-on-paper readiness in the tone.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者側にカウンセラーを配置しています。",
+      "en": "That's correct. We've assigned a counselor to support the victim.",
+      "style": "Affirmative and grounded. Slight warmth underlying the procedure—a human detail slipped into the official answer. Steady but not cold.",
+      "mood": "professional_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "供述の原文、後ほど拝見できますか。",
+      "en": "Could I review the original statements at some point?",
+      "style": "Polite, deferential. Soft opening—not a demand. Respectful of protocol. The phrasing itself shows deference—\"could I\" rather than \"I need.\"",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "弁護士、麻生先生経由で対応します。",
+      "en": "That'll go through Attorney Aso. We'll handle it from there.",
+      "style": "Procedural close. Calm finality—not abrupt, but drawing the line clearly. Reassuring in its clarity. Official but not dismissive.",
+      "mood": "settled"
+    }
+  ]
+}

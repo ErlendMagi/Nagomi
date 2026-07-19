@@ -1,0 +1,72 @@
+{
+  "id": "conv_05434",
+  "context": "A uni student interviews a retired historian about epidemics",
+  "purpose": "Teach: 引き起こし/妨げ/党首/幕府/中傷/ワクチン/肺/上空",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "引き起こし",
+    "妨げ",
+    "党首",
+    "幕府",
+    "中傷",
+    "ワクチン",
+    "肺",
+    "上空"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_273 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "幕府末期の感染症対応、史料に何かありましたか。",
+      "en": "Did you find anything in the records about disease response during the late shogunate?",
+      "style": "Genuinely curious, respectful tone. Leaning forward slightly with intellectual interest. Careful enunciation on the specific question. No rush.",
+      "mood": "intellectually_engaged"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "多数の混乱を引き起こした事例があるよ。",
+      "en": "There are cases where the response created considerable chaos.",
+      "style": "Measured, reflective. Speaking from long memory. Each word carries weight from lived experience. Slight pause before answering, as if selecting the right example from decades of thought.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "党首格にあたる藩主の判断が、治療を妨げたんですか。",
+      "en": "Did the decisions of those clan lords — essentially the leadership — end up preventing proper treatment?",
+      "style": "Probing but not accusatory. Building on what was said. Alert, following the thread carefully. Slight emphasis on 'leadership' to confirm he understands the historical parallel.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。庶民への中傷も、肺の病で死者を増やした一因だった。",
+      "en": "Yes. The stigmatization of ordinary people also contributed to more deaths from lung disease.",
+      "style": "Quiet, sobering. Not lecturing — observing. The yes comes quickly, but what follows is deliberate. Slight sadness threading underneath, the weight of patterns repeating.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ワクチンの概念は、まだ無かった時代ですよね。",
+      "en": "That was before the concept of vaccines existed, right?",
+      "style": "Seeking confirmation, but not uncertain. A moment of genuine intellectual curiosity. Naturally paced, almost thinking aloud. The question lands lightly.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "空、上空から俯瞰する視点が、今こそ必要なんだ。",
+      "en": "We need that kind of perspective now — looking down from above, seeing the whole picture.",
+      "style": "Final insight delivered with quiet conviction. Not preachy, but carrying the weight of what he's learned. Slight opening-up in tone, like he's offering something hard-won. Slight trailing-off on 'now,' letting it breathe.",
+      "mood": "wise_urgent"
+    }
+  ]
+}

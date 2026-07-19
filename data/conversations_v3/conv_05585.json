@@ -1,0 +1,72 @@
+{
+  "id": "conv_05585",
+  "context": "A uni student helps a teen friend process a friendship issue",
+  "purpose": "Teach: ギャップ/育ち/不信/浮気/大騒ぎ/おいしかっ/おいしく/怒る",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "ギャップ",
+    "育ち",
+    "不信",
+    "浮気",
+    "大騒ぎ",
+    "おいしかっ",
+    "おいしく",
+    "怒る"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_281 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、最近、友達との心のギャップを感じていて。",
+      "en": "Senpai, I've been feeling this distance with a friend lately. Like we're not on the same page anymore.",
+      "style": "Hesitant opening. Soft but deliberate — testing whether it's safe to say this. Slight catch in her voice at 'distance'. Draws the sentence out, looking for permission to continue.",
+      "mood": "uncertain_seeking"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お互い、育ち方が違うから、当然のことだよ。",
+      "en": "People grow up differently. That gap — it's just part of it.",
+      "style": "Measured and steady. No rush. Speaks like he's thought about this before. Slight emphasis on 'part of it' — normalizing, not dismissing. Gentle but not soft.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "共通の知人が浮気して、グループ全体が大騒ぎになって、不信も増えて…。",
+      "en": "But then someone in our friend group cheated, everything blew up, and now there's this distrust hanging over all of us.",
+      "style": "Voice tightens. Faster pace — the weight of it tumbles out. Anger and hurt layered underneath. Lands harder on 'blew up', softer on the trailing thought. She's trying not to spiral.",
+      "mood": "frustrated_wounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "怒る前に、自分のペースを取り戻そう。",
+      "en": "Before you let that anger take over, step back. Slow down. Find your own ground again.",
+      "style": "Not lecturing — advising. Quiet firmness. Each phrase lands like a small stone. Pause after 'step back' — letting her hear it. Warm underneath, but the conviction is real.",
+      "mood": "grounding"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "カフェで、ゆっくり甘いものをおいしく食べる時間、いいですね。",
+      "en": "Taking time at a cafe, having something sweet and just… sitting with it. That sounds good right now.",
+      "style": "Voice settles. Relief in the opening word. Slower pace. Almost wistful — imagining it. Soft trailing-off at the end, like she's half-talking to herself. Vulnerable but not fragile.",
+      "mood": "weary_yearning"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん。先週のチョコ、おいしかったって言ってたよな。今日も食べるか?",
+      "en": "Yeah. You told me last week's chocolate was really good. Want to get some today too?",
+      "style": "Warm recognition. Light touch — remembering details matters. Opens the door without pushing. Small smile in his voice. Gentle invitation, not pressure. End is hopeful but understated.",
+      "mood": "warm_caring"
+    }
+  ]
+}

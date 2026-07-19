@@ -1,0 +1,62 @@
+{
+  "id": "conv_01376",
+  "context": "Yuki and Naoko share evening tea quietly.",
+  "purpose": "two-women evening-tea exchange",
+  "ambient": "tatami_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "楽しい",
+    "友達",
+    "感謝",
+    "大切"
+  ],
+  "cast": [
+    "yuki_office",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_069)",
+    "generated_at": "2026-05-27T05:26:46.126Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "直子さん、本当、お茶、いただきます。",
+      "en": "Thank you so much for the tea, Naoko-san.",
+      "style": "Warm opening, genuine gratitude in the voice. Soft pacing, no rush. The thanks lands lightly but sincerely—not performative, just real affection making itself known.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うん、本当、嬉しい、ね。",
+      "en": "Yes, I'm really happy too.",
+      "style": "Immediate, genuine agreement. A small beat of warmth. Speaking like someone whose happiness is straightforward and generous—no pretense, just presence.",
+      "mood": "content"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一緒に、本当、楽しい、ね。",
+      "en": "It's really fun being together like this.",
+      "style": "Soft wonder in the delivery, like she's noticing the goodness of the moment as she speaks it. Gentle pace, warm but not effusive. A quiet appreciation threading through.",
+      "mood": "content_warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "大切な、友達、本当に。",
+      "en": "You're truly precious to me—a real friend.",
+      "style": "Slower now, more weight to each word. The affection deepens. Speaking from a place of real knowing, not performance. Breath settles. A quiet tenderness without strain.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "感謝、本当、ね。",
+      "en": "I'm really grateful—truly.",
+      "style": "Quiet closing exhale. The gratitude is complete but gentle. Trailing slightly on the final word like she's letting the moment rest. No need to say more.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

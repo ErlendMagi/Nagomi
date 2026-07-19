@@ -1,0 +1,86 @@
+{
+  "id": "conv_10246",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: プライス/デイリー/タイムリー/コントラスト/不合格/日本経済新聞/レジスト/博覧",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "プライス",
+    "デイリー",
+    "タイムリー",
+    "コントラスト",
+    "不合格",
+    "日本経済新聞",
+    "レジスト",
+    "博覧"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_514 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、商品プライスを再検討しろ",
+      "en": "We need to revisit our product pricing strategy.",
+      "style": "Clipped, commanding tone. No warmth. Direct eye contact. Authority that expects immediate comprehension and action. Efficient breath control—no filler.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。デイリーの売上集計を提出します",
+      "en": "Yes. I'll prepare the daily sales totals for review.",
+      "style": "Respectful, measured cadence. Slightly deferential nod in the voice—acknowledging the instruction. Professional and controlled. No volunteered opinion, just competent agreement.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、タイムリーなキャンペーンを打て",
+      "en": "Launch a timely campaign. We need market presence now.",
+      "style": "Sharp attack on the opening. Imperative but not harsh. Slight emphasis on 'now'—conveying urgency without raising volume. Lean forward in posture, eyes steady.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告のコントラストを強くします",
+      "en": "Understood. I'll strengthen the contrast in our advertising materials.",
+      "style": "Steady, professional delivery. Slight uptick at the end—signaling readiness to execute. No hesitation. Clear syllables. Shows he's already thinking through the implementation.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "検査不合格品の流通を止めろ",
+      "en": "Stop the distribution of any inspection-failed products immediately.",
+      "style": "Clipped, no negotiation. Slight drop in pitch on 'immediately'—absolute finality. Composed but the subtext is serious. Brief pause before the final word for weight.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日本経済新聞のインタビューを受けます",
+      "en": "Yes. I'll coordinate with media and arrange the Nikkei interview.",
+      "style": "Rapid-fire, efficient. Shows he's already processing next steps. Professional tone—not defensive about the unusual task pairing. Breathes after the comma, moving forward.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、特許のレジスト技術を磨け",
+      "en": "Refine our resist technology in the patent portfolio. That's our edge.",
+      "style": "Quieter than previous commands. Weight on 'edge'—this is strategic, not just operational. Leans back slightly. A moment of genuine belief in what he's saying, beneath the authority.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。万国博覧会へのブース出展を準備します",
+      "en": "Yes. I'll prepare our booth presence for the international exposition.",
+      "style": "Concluding tone—slightly fuller breath than before. Respectful, but this feels like the conversation's natural end. Calm professionalism. A small nod of understanding, delivered in the voice.",
+      "mood": "resolved"
+    }
+  ]
+}

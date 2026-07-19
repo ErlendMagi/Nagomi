@@ -1,0 +1,78 @@
+{
+  "id": "conv_03895",
+  "context": "A regular customer asks the barista how the quarter is going",
+  "purpose": "Teach: 鍋/容量/汚れ/売り上げ/取り組む/定着/装備/求人",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鍋",
+    "容量",
+    "汚れ",
+    "売り上げ",
+    "取り組む",
+    "定着",
+    "装備",
+    "求人"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "アオイさん、今四半期の売り上げはどう？順調に伸びてる？",
+      "en": "Aoi-san, how's the sales this quarter? Growing steadily?",
+      "style": "Warm regular customer checking in casually with familiar friendly tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おかげさまで、季節限定メニューがお客様に定着してきて、前年比で十五パーセント上がっています。",
+      "en": "Thankfully, the seasonal menu has caught on with customers, up fifteen percent year-on-year.",
+      "style": "Polite barista voice, professional yet warm with a hint of pride."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "すごいね。新しいエスプレッソマシンとか、装備も新しくしたんでしょ？",
+      "en": "That's amazing. You upgraded the equipment too, like a new espresso machine, right?",
+      "style": "Curious dad voice, genuinely interested and slightly impressed."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、業務用のミルクピッチャーを入れ替えて、まかない用に大きな鍋も買いました。容量が前の倍あるので、スタッフのお昼が本当に楽になりました。",
+      "en": "Yes, we replaced the commercial milk pitcher, and bought a big pot for staff meals too. The capacity is double what we had, so staff lunches got much easier.",
+      "style": "Bright explanatory tone, sharing operational details with cheerful enthusiasm."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほどね。それだけ忙しいと、油汚れの掃除とかも大変じゃない？",
+      "en": "I see. With it that busy, cleaning the grease stains must be tough too, no?",
+      "style": "Considerate dad concern with thoughtful follow-up question."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "それが今一番の課題で、衛生管理に真剣に取り組むことにしたんです。毎晩、閉店後にしっかり磨いています。",
+      "en": "That's actually our biggest issue right now, so we've decided to seriously tackle sanitation. Every night after closing, we scrub thoroughly.",
+      "style": "Earnest professional voice, honest about challenges while staying upbeat."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "偉いなあ。でもアオイさん一人じゃ大変でしょ？人を増やす予定はないの？",
+      "en": "That's admirable. But it must be tough alone, Aoi-san? Any plans to add more people?",
+      "style": "Warm fatherly concern, gently suggesting practical relief."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "実は来月から求人を出す予定なんですよ。常連の皆さんのおかげで、ようやくそこまで来ました。今日もいつものでよろしいですか？",
+      "en": "Actually we're planning to put out a job listing next month. Thanks to our regulars, we've finally gotten this far. The usual today?",
+      "style": "Grateful barista sharing good news, then warmly returning to service mode."
+    }
+  ]
+}

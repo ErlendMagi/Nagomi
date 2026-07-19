@@ -1,0 +1,79 @@
+{
+  "id": "conv_05972",
+  "context": "A police officer briefs about a health-related case",
+  "purpose": "Teach: 薬剤/警報/逃亡/県庁/各省/一国/迫害/消毒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "薬剤",
+    "警報",
+    "逃亡",
+    "県庁",
+    "各省",
+    "一国",
+    "迫害",
+    "消毒"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "薬剤の違法流通、警察庁で集中対応中です。",
+      "en": "We're currently focusing concentrated efforts on illegal pharmaceutical distribution at the National Police Agency.",
+      "style": "Professional, measured opening. Steady eye contact. Each phrase sits with equal weight. No rush — the delivery of someone accustomed to being listened to.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域に警報を出した事例、ありますね。",
+      "en": "There have been cases where regional alerts were issued, haven't there?",
+      "style": "Leaning in slightly with genuine interest. Respectful but not deferential — the tone of someone asking a clarifying question from a place of real curiosity, not performance.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者の逃亡、県庁との連携で対応しました。",
+      "en": "Yes. We handled the suspect's attempted escape through coordination with the prefectural office.",
+      "style": "Matter-of-fact, procedural. Brief pause after 'Yes' — not hesitant, just allowing the weight of what followed. Quiet confidence in the teamwork described.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "各省庁の取り組み、一国規模のキャンペーンになっていますね。",
+      "en": "So ministerial efforts have really become a nationwide-scale campaign.",
+      "style": "Thoughtful, slightly forward-leaning. Testing the officer's response. The tone of someone thinking aloud while watching for what lands.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者が二次的に迫害されないよう、警察も配慮します。",
+      "en": "The police are also careful to ensure victims aren't subjected to secondary persecution.",
+      "style": "Firmer than before. Not cold — still measured, but with conviction underneath. The shift from procedural to something that matters. Eyes steady.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場では、消毒手順の周知も、進められていますか。",
+      "en": "In the field, are disinfection procedures being communicated as well?",
+      "style": "Respectful inquiry. Slight forward tilt. Not interrogative — more like checking a detail that occurred to him. Genuine want to understand the full picture.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、徹底しています。",
+      "en": "Yes, thoroughly.",
+      "style": "Curt but not dismissive. Brief — the officer's word is the punctuation. Quiet conviction that standards are met.",
+      "mood": "assured"
+    }
+  ]
+}

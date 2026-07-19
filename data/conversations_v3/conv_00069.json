@@ -1,0 +1,111 @@
+{
+  "id": "conv_00069",
+  "context": "Conference room, 11am. Daichi has come in to formally tell Hiroshi he's leaving the company. Daichi has known Hiroshi for years; the formality is real but covers warmth.",
+  "purpose": "resignation conversation — Kansai casual energy meets formal boss register, mutual respect underneath",
+  "ambient": "office_meeting_room",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "仕事",
+    "大変",
+    "ありがとう"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お時間いただいて、ありがとうございます。",
+      "en": "Thank you for taking the time to see me.",
+      "style": "Formal bow audible in the voice. Drops into respectful register. Steady breath. A small moment held before speaking.",
+      "mood": "respectful_nervous"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いえ、こちらこそ。座って。",
+      "en": "Not at all. Please, sit.",
+      "style": "Measured, composed. Slightly slower than conversational pace. The quiet of someone who already knows what's coming but will listen fully.",
+      "mood": "knowing_present"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "実は、来月で、会社を辞めることに。",
+      "en": "The truth is — I'm leaving the company next month.",
+      "style": "A held breath before the admission. Words rehearsed many times, now finally said aloud. Voice steady but something underneath.",
+      "mood": "resolved_vulnerable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "…そうか。覚悟はしていた。",
+      "en": "I see. I suspected as much.",
+      "style": "A small acknowledgment without shock. Warm attentive silence underneath. The response of someone who has been paying attention.",
+      "mood": "unsurprised_present"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "本当に、長い間、お世話になりました。",
+      "en": "Thank you truly — for everything. For all these years.",
+      "style": "A real bow perceptible in the voice. Pitch drops slightly. The formality of gratitude that means something.",
+      "mood": "grateful_formal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "理由、聞いてもいいか。",
+      "en": "May I ask why.",
+      "style": "Plain, direct question. Not investigative — the straightforward right of someone who cares. No pressure in it.",
+      "mood": "gentle_curious"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "…大阪、帰る。母が、ちょっと体悪くて。",
+      "en": "Going back to Osaka. My mother — she's not well.",
+      "style": "A quieter answer, more private. Kansai cadence returns underneath. The hardest part said plainly.",
+      "mood": "concerned_resigned"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それは、大変だな。本当に。",
+      "en": "That's — that's difficult. Really difficult.",
+      "style": "Person-to-person now, not boss-to-employee. A small catch shows he means it. Genuine sympathy, no performance.",
+      "mood": "sympathetic_warm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ありがとうございます。…正直、寂しいです。",
+      "en": "Thank you. Honestly — I'll really miss this place.",
+      "style": "A small laugh underneath, holding something back. Real emotion just barely contained. Voice catches slightly on the admission.",
+      "mood": "affectionate_tender"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "私もだ。…ま、辞める前に、一度飲もう。",
+      "en": "So will I. Let's drink together before you go.",
+      "style": "An unguarded line from him — rare, genuine. Warmth without ceremony. No urgency, just the quiet offer of presence.",
+      "mood": "warm_unguarded"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ぜひ。本当に、ぜひ。",
+      "en": "Absolutely. I'd really like that.",
+      "style": "Kansai warmth surfaces fully now. Big smile audible. The tension released. Genuine relief and affection in the tone.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "時間、私が合わせる。教えて。",
+      "en": "I'll arrange my schedule around yours. Just let me know.",
+      "style": "A small command wrapped as a gift. Warm, steady, with no sense of rush or burden. The last word of a man keeping a promise.",
+      "mood": "protective_warm"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_04056",
+  "context": "A boss briefs his secretary on a policy update memo",
+  "purpose": "Teach: 判明/改定/答申/定年/発足/定める/出力/分割",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "判明",
+    "改定",
+    "答申",
+    "定年",
+    "発足",
+    "定める",
+    "出力",
+    "分割"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_204 workflow wzgasitv8)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤君、人事制度の改定について、審議会の答申がやっと出たよ。",
+      "en": "Sato, the council's report on the HR system revision has finally come out.",
+      "style": "Boss delivers news with measured, authoritative tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お疲れ様です。例の定年延長の件も、そこで判明したんですか？",
+      "en": "Thank you for your work. Was the retirement age extension also clarified there?",
+      "style": "Polite secretary responds with attentive professional curiosity"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、新しい定年は六十五歳と定める方針だ。来年四月に新制度が発足する。",
+      "en": "Yes, the new retirement age will be set at sixty-five. The new system launches next April.",
+      "style": "Boss states policy details with firm executive clarity"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。では人事システムから関連データを出力して、社内メモにまとめましょうか。",
+      "en": "I see. Shall I output the relevant data from the HR system and compile it into an internal memo?",
+      "style": "Secretary confirms next steps in efficient business register"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。ただし内容が長いから、概要編と詳細編に分割してくれ。",
+      "en": "Please do. But since the content is long, split it into a summary and a detailed version.",
+      "style": "Boss issues practical instructions with concise managerial style"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知いたしました。給与規定の改定部分も、別紙にまとめておきますね。",
+      "en": "Understood. I'll also compile the salary regulation revisions on a separate sheet.",
+      "style": "Secretary acknowledges with proactive and organized confidence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かるよ。役員会で配るから、夕方までに印刷まで終わらせておいてくれ。",
+      "en": "That helps. We'll distribute it at the board meeting, so finish the printing by evening.",
+      "style": "Boss expresses appreciation while reinforcing the deadline"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08192",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 糾弾/処刑/違憲/静止/議定/挑発/飢え/騎手",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "糾弾",
+    "処刑",
+    "違憲",
+    "静止",
+    "議定",
+    "挑発",
+    "飢え",
+    "騎手"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_411 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、SNSでの糾弾投稿を警察、調査中です",
+      "en": "We're currently investigating posts on social media calling for this person to be condemned.",
+      "style": "Measured and official. Level eye contact. Clear articulation on key words. Professional distance—this is procedure, not personal. Slight pause before the next thought.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、古い処刑場跡の保存にも関与されているそうですね",
+      "en": "I understand the police are also involved in preserving that old execution site.",
+      "style": "Genuinely curious—leaning in slightly. Careful phrasing, checking that he's understood correctly. Thoughtful pace. Not challenging, just interested in the connection.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、警察、違憲性も含めて検討されているとのこと",
+      "en": "Regarding this case, we're examining it from multiple angles, including constitutional concerns.",
+      "style": "Formal but not cold. Each phrase lands with deliberate weight. Slow, measured delivery. The tone of someone choosing words carefully because they matter legally.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、カメラが静止する瞬間を捉えました",
+      "en": "The officers managed to capture the moment when the camera stopped moving.",
+      "style": "Quiet observation. Slight wonder in the delivery—noticing something precise and careful. Slow, deliberate. The satisfaction of a detail that means something.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、国際議定に基づく対応を警察、進めております",
+      "en": "We're proceeding with our response based on international protocol.",
+      "style": "Official and steady. No inflection that softens or emphasizes—just factual. Deliberate pacing. The tone of institutional responsibility stated plainly.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、容疑者の挑発に冷静に対応されたんですね",
+      "en": "You handled the suspect's provocations with real composure.",
+      "style": "Genuine acknowledgment—warm recognition under the professional surface. Slight lean in. Not effusive, but sincere. The respect one person gives another for difficult work done right.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者の飢え状態を警察、確認されたんですね",
+      "en": "The officers confirmed the victim's condition of severe malnourishment.",
+      "style": "Quiet gravity. The words land heavier because of their meaning. Slow, careful delivery. Not detached—the weight of what was found comes through in the pace.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、競馬騎手による不正を摘発いたしました",
+      "en": "We've made arrests in connection with fraud involving a jockey.",
+      "style": "Close, almost confiding. Lowered volume slightly. The tone of someone sharing an update that resolves something. Definite, but without triumph.",
+      "mood": "resolved"
+    }
+  ]
+}

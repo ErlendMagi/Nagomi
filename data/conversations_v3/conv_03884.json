@@ -1,0 +1,78 @@
+{
+  "id": "conv_03884",
+  "context": "A boss reads aloud a news commentary and debates it with his manager",
+  "purpose": "Teach: 警告/証言/証人/言及/通過/評論/訂正/反発",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "警告",
+    "証言",
+    "証人",
+    "言及",
+    "通過",
+    "評論",
+    "訂正",
+    "反発"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞の評論欄に、うちの業界への警告とも取れる記事が載っていたぞ。",
+      "en": "In this morning's paper's commentary column, there was an article that could be read as a warning to our industry.",
+      "style": "Authoritative boss tone, low and deliberate, slight gravelly edge."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、私も読みました。元役員の証言を引用していましたが、内容にはかなり反発を覚えます。",
+      "en": "Yes, I read it too. It quoted testimony from a former executive, but I feel strong pushback against the content.",
+      "style": "Polite manager voice, measured cadence, professional but firm."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだな。あの証人は本当に信頼できるのか、私は疑問に思っている。",
+      "en": "Indeed. I have my doubts about whether that witness can really be trusted.",
+      "style": "Skeptical boss tone, slow pace, raised eyebrow energy."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "しかも記事は、すでに議会を通過した法案にまで言及していて、論点がぶれていますね。",
+      "en": "What's more, the article even references a bill that has already passed through parliament, so the focus is muddled.",
+      "style": "Analytical manager voice, crisp diction, slight frustration underneath."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "あの評論家は以前にも事実誤認で訂正記事を出したことがある。今回も同じだろう。",
+      "en": "That commentator has issued a correction article for factual errors before. This time will likely be the same.",
+      "style": "Dismissive boss tone, confident, slightly mocking undertone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では、広報を通じて正式に抗議文を出すべきでしょうか。",
+      "en": "Then should we issue a formal letter of protest through public relations?",
+      "style": "Inquisitive manager voice, deferential, seeking guidance."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いや、まずは事実関係を整理してからだ。感情的に動けば、こちらの立場が弱くなる。",
+      "en": "No, first we organize the facts. If we act emotionally, our position weakens.",
+      "style": "Strategic boss tone, calm authority, measured wisdom."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。週明けまでに資料をまとめてご報告いたします。",
+      "en": "Understood. I'll compile the materials and report back by the start of next week.",
+      "style": "Respectful manager voice, crisp business closing, slight bow energy."
+    }
+  ]
+}

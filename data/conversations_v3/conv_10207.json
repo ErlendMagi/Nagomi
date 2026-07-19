@@ -1,0 +1,86 @@
+{
+  "id": "conv_10207",
+  "context": "Two managers chat",
+  "purpose": "Teach: 岩波書店/ワーキング/大学院生/読了/セーブ/日弁連/コンディション/クラッシュ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "岩波書店",
+    "ワーキング",
+    "大学院生",
+    "読了",
+    "セーブ",
+    "日弁連",
+    "コンディション",
+    "クラッシュ"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_512 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "岩波書店の新刊フェアに協賛しましょう",
+      "en": "Let's sponsor the Iwanami publishing new-release fair.",
+      "style": "Clear, forward-moving. Measured cadence, as if reading from prepared notes. Slight lift at the period — suggesting this is the opening of a meeting agenda.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ワーキングタイムの管理を厳格化します",
+      "en": "Yes. I'll tighten up the working-time management.",
+      "style": "Prompt, affirming. Quick acknowledgment without hesitation. Businesslike, not enthusiastic — the tone of someone noting action items.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大学院生向けのキャリア相談会を開きましょう",
+      "en": "We should also hold a career guidance session for graduate students.",
+      "style": "Same measured opening as the first proposal. Deliberate. The 'also' carries a sense of building the agenda. Slight pause before the key phrase.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。マニュアル読了テストを実施します",
+      "en": "Understood. I'll implement a manual-completion test.",
+      "style": "Clipped affirmation. Efficient tone — he's already moving to the next task. No elaboration, just confirmation and action.",
+      "mood": "responsive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "セーブポイントを設定して進めましょう",
+      "en": "Let's set checkpoints as we move forward.",
+      "style": "Directional, as before. Calm authority. The language suggests strategic planning rather than crisis mode. Steady pacing.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日弁連の弁護士をご紹介します",
+      "en": "Yes. I'll introduce a lawyer from the Japan Federation of Bar Associations.",
+      "style": "Brief, professional note-taking tone. He's completing the thought quickly and accurately. No flourish — just competent follow-through.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員のコンディション調査を匿名で実施しましょう",
+      "en": "Let's conduct an anonymous survey of staff well-being.",
+      "style": "Measured proposal, with weight on the word 'anonymous.' This signals care and discretion. Clear diction. The tone suggests this is important.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。クラッシュ時の連絡網を見直します",
+      "en": "Yes. I'll review the emergency contact list.",
+      "style": "Final note. Still professional, but a shade warmer — the weight of the topic (contingency) lands quietly. Closure without punctuation feels right here.",
+      "mood": "reassuring"
+    }
+  ]
+}

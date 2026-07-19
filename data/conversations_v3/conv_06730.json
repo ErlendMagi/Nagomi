@@ -1,0 +1,86 @@
+{
+  "id": "conv_06730",
+  "context": "A retired exec mentors",
+  "purpose": "Teach: 通告/知らさ/運送/日報/年内/償却/用地/代わる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通告",
+    "知らさ",
+    "運送",
+    "日報",
+    "年内",
+    "償却",
+    "用地",
+    "代わる"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "創業時、解雇の通告、出した日のこと、忘れない。",
+      "en": "I'll never forget the day we had to issue that first layoff notice.",
+      "style": "Measured, voice weighted by the memory. Spoken as fact, not complaint. Long pause before the final word to mark its weight. Stays grounded.",
+      "mood": "grave_remembering"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。社員、人事方針は、しっかり、知らされております。",
+      "en": "Yes. Our staff are fully briefed on company policy.",
+      "style": "Formal but not cold. Each phrase lands with careful precision. Respectful acknowledgment of the weight of what's being said. Brief, deliberate.",
+      "mood": "attentive_formal"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "運送業との関係、私の代から、信頼を、築いてきた。",
+      "en": "We've built trust with our shipping partners over decades. That came from my time.",
+      "style": "Quiet pride in that lineage. Speaking as steward of something handed down. Steady, unhurried. The slight weight on 'trust' — it's the real currency.",
+      "mood": "proud_paternal"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。社員の日報、私も、毎日、目を通しています。",
+      "en": "I know. I review the staff reports myself every single day.",
+      "style": "Direct, almost urgent in its quietness. Wants him to hear that this is being paid attention to — not delegated away. Lean in slightly on 'myself.'",
+      "mood": "dedicated_reassuring"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "借入の返済、年内に、計画を立てろ。",
+      "en": "Get a repayment plan for the loans in place before year's end.",
+      "style": "Command without harshness. The voice of someone used to being listened to. Clear-eyed, practical. No room for drift, but no anger in it either.",
+      "mood": "authoritative_clear"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。創業期の設備、すべて、償却を、完了いたしました。",
+      "en": "Already done. We've fully depreciated all the original equipment.",
+      "style": "Quick, almost relieved. A checkmark placed. Shows he's ahead on this piece — not waiting for instruction. Professional satisfaction without pride.",
+      "mood": "competent_efficient"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "創業時の用地、今でも、残しておけ、大切な土地だ。",
+      "en": "Keep that original site. Don't sell it. That land matters.",
+      "style": "Firm finality, but underneath it — tenderness for what that land represents. Hold on the final phrase. This isn't business logic; it's about legacy. Quieter at the end.",
+      "mood": "protective_sentimental"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい。お父さんに代わる形で、創業祭の挨拶、私が、いたします。",
+      "en": "Understood. I'll give the founding day speech this year in his place.",
+      "style": "Steady, solemn acceptance of that responsibility. Not hesitant, not proud — just clear that he's heard both what was said and what wasn't. The weight of succession settles in.",
+      "mood": "resolved_honoring"
+    }
+  ]
+}

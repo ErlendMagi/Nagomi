@@ -1,0 +1,84 @@
+{
+  "id": "conv_04913",
+  "context": "A police archivist guides a uni reporter through old records",
+  "purpose": "Teach: 終戦/祝福/ノルウェー/義務教育/にまつわる/極東/篇/携わっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "終戦",
+    "祝福",
+    "ノルウェー",
+    "義務教育",
+    "にまつわる",
+    "極東",
+    "篇",
+    "携わっ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_247 workflow wty8tc4nw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ようこそ。ここは県警の資料室で、終戦直後の事件記録を中心に保管しているんです。",
+      "en": "Welcome. This is the prefectural police archive; we mainly store case records from right after the war's end.",
+      "style": "Formal, measured, official tone with quiet professional pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。修士論文で、戦後復興にまつわる治安維持活動を追っているんです。",
+      "en": "Thank you. For my master's thesis, I'm tracing public-order activities connected to post-war reconstruction.",
+      "style": "Polite, slightly nervous student speech, eager and respectful tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。それなら第二篇の捜査日誌が役立ちますよ。当時は極東情勢が絡んだ事件も多くてね。",
+      "en": "I see. Then the second volume of investigation journals will help. Back then many cases involved Far East affairs.",
+      "style": "Helpful but brisk, gestures while speaking, knowledgeable tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うわ、紙の劣化がすごいですね…触ると崩れそうで。手袋お借りしていいですか?",
+      "en": "Wow, the paper deterioration is severe. It might crumble if I touch it. May I borrow gloves?",
+      "style": "Hushed, careful observation, asks permission deferentially with respect."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろん、こちらをどうぞ。実は私の祖父も、この資料の整理に長年携わっていたんですよ。",
+      "en": "Of course, here you go. Actually, my grandfather also worked on organizing these records for many years.",
+      "style": "Warmer now, sharing a personal anecdote, voice softens noticeably."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか?それは個人的にも特別な場所なんですね。",
+      "en": "Really? Then this place must be personally special to you as well.",
+      "style": "Genuine surprise and warmth, leaning in with interest now."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。当時は義務教育を終えたばかりの少年が事件に巻き込まれる話も多くて、胸が痛みます。",
+      "en": "Yes. Back then there were many stories of boys just out of compulsory education getting caught up in cases—it pains me.",
+      "style": "Reflective, weight in the voice, professional sorrow showing through."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ただ明るい記録もあってね。復興を祝う式典には、ノルウェーから届いた祝福の電報まで綴じてあるんです。",
+      "en": "But there are bright records too. For the reconstruction ceremony, even a congratulatory telegram from Norway is bound in.",
+      "style": "Proud quiet enthusiasm, almost confiding a hidden treasure now."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ノルウェーから!?それ、絶対に論文で紹介したいです。写真撮らせてください!",
+      "en": "From Norway?! I absolutely want to feature that in my thesis. Please let me take a photo!",
+      "style": "Excited, voice rises, youthful enthusiasm breaking through politeness."
+    }
+  ]
+}

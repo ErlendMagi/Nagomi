@@ -1,0 +1,79 @@
+{
+  "id": "conv_02009",
+  "context": "Hiroshi-elder reads the morning newspaper aloud to Sho-young, explaining.",
+  "purpose": "Elder patiently translating news for child.",
+  "ambient": "porch_morning_paper",
+  "sound_effects": [],
+  "target_vocab": [
+    "新聞",
+    "報道",
+    "事件",
+    "記事",
+    "政治",
+    "当時",
+    "まったく",
+    "残っ"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_101)",
+    "generated_at": "2026-05-27T11:35:48.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "今朝の新聞、ようけ記事あるな。",
+      "en": "There's quite a lot in this morning's paper, isn't there.",
+      "style": "Slow, measured opening. Warm observation without urgency. Eyes on the page. Kansai cadence, patient and unhurried. Inviting the boy to look too.",
+      "mood": "peaceful_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おじいちゃん、政治の話?",
+      "en": "Grandpa, is it about politics?",
+      "style": "Soft curiosity, genuinely wondering. No performance. Leans slightly forward with interest. Small voice but steady attention. Testing whether he'll explain.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、報道、毎日、いろんな事件や。",
+      "en": "Yeah — the news, every day, all kinds of things happening.",
+      "style": "Gentle affirmation. Matter-of-fact but not dismissive. Slight settling back into the chair. Kansai warmth underneath. Opens the paper a little wider, inviting him closer.",
+      "mood": "warm_informative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "当時、おじいちゃんの時代、どうやった?",
+      "en": "Back when you were young, how was it different?",
+      "style": "Thoughtful pause before the question. Not asking for a lecture — genuinely wondering. Small voice but the question carries real weight. Waiting patiently for the answer.",
+      "mood": "thoughtfully_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "まったく違うで、新聞、ようけ家に届いた。",
+      "en": "Completely different. Papers got delivered to so many homes back then.",
+      "style": "Slight smile in the voice. Kansai lilt on the reminiscence. Slow, settling into memory. Hand touches the paper fondly. Not wistful, just — recalling what was.",
+      "mood": "nostalgic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今、紙、残ってる家、少ない?",
+      "en": "Not many homes have newspapers anymore, do they?",
+      "style": "Quiet realization dawning. Not sad — observing. Small, thoughtful tone. A six-year-old noticing the gap between then and now. Waiting to see if grandpa agrees.",
+      "mood": "quiet_observant"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん、時代、変わったな、ほんま。",
+      "en": "Yeah. Times really have changed, haven't they.",
+      "style": "Soft agreement. Not resignation — just acceptance. Kansai warmth. Gentle exhale at the end. Holds the paper steady. The kind of quiet that invites sitting together without talking.",
+      "mood": "reflective_accepting"
+    }
+  ]
+}

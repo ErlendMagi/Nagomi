@@ -1,0 +1,72 @@
+{
+  "id": "conv_03663",
+  "context": "A doctor explains heart-test results to a patient",
+  "purpose": "Teach: 保健/診療/出産/心臓/栄養/毛/透明/願っ",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "保健",
+    "診療",
+    "出産",
+    "心臓",
+    "栄養",
+    "毛",
+    "透明",
+    "願っ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_184 ws7u9pg4g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "心臓の検査の結果が出ましたので、じっくりご説明しますね。",
+      "en": "The results of your heart exam are in, so I'll explain them carefully.",
+      "style": "Calm, measured clinical tone with warm reassurance for the patient."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、お願いします。実は娘の出産予定日も近くて、健康でいたいんです。",
+      "en": "Yes, please. Honestly, my daughter's due date is near too, so I want to stay healthy.",
+      "style": "Slightly nervous middle-aged father, hopeful and family-oriented voice."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心電図に小さな乱れがありますが、生活指導と栄養バランスの改善で十分対応できます。保健センターの資料もお渡ししますね。",
+      "en": "There's a small irregularity on the ECG, but lifestyle guidance and better nutrition will be enough. I'll also give you materials from the health center.",
+      "style": "Professional, gently authoritative explanation with reassuring medical clarity."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "髪の毛も最近抜けやすくて、それも関係ありますか?最近よく疲れを感じます。",
+      "en": "My hair has been falling out lately too — is that related? I've been feeling tired often these days.",
+      "style": "Worried, self-conscious tone showing genuine concern about aging body."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ストレスの影響でしょう。透明なクリアファイルに診療計画をまとめてお渡しします。",
+      "en": "It's likely stress-related. I'll put your treatment plan in a clear file folder for you.",
+      "style": "Methodical, organized doctor voice with practical bedside manner."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ありがとうございます。孫の顔を見られるよう、長生きしたいと願っています。",
+      "en": "Thank you. I'm wishing to live long enough to see my grandchild's face.",
+      "style": "Heartfelt, emotional fatherly voice with sincere hope and gratitude."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "きっと大丈夫ですよ。次回までに食事を見直して、また診察でお会いしましょう。",
+      "en": "You'll be fine. Let's review your diet and see each other again at the next consultation.",
+      "style": "Encouraging closing tone, warm professional confidence with a gentle smile."
+    }
+  ]
+}

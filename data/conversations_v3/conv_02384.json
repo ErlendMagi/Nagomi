@@ -1,0 +1,70 @@
+{
+  "id": "conv_02384",
+  "context": "Saito explains insurance and treatment cost to a worried Mei.",
+  "purpose": "Doctor explanatory register; formal vocabulary in natural home.",
+  "ambient": "clinic_office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "非常",
+    "程度",
+    "保険",
+    "消費",
+    "相談",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_120)",
+    "generated_at": "2026-05-29T12:29:16.939Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "先生、治療費が、非常に心配です。",
+      "en": "Doctor, I'm extremely worried about the treatment cost.",
+      "style": "soft worried young mother voice, warm honest delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "保険で、ある程度、まかなえますよ。",
+      "en": "Insurance can cover it to a degree.",
+      "style": "measured doctor voice, soft warm reassuring delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "消費する分、抑えられますか?",
+      "en": "Can we keep the out-of-pocket spending down?",
+      "style": "gentle young woman voice, soft warm hopeful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ。窓口で、丁寧に相談できます。",
+      "en": "Yes — you can consult carefully at the desk.",
+      "style": "gentle doctor voice, soft warm informative delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "少し、安心しました。",
+      "en": "I feel a little relieved.",
+      "style": "soft young woman voice, warm warm grateful delivery carefully"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一人で、抱え込まないでくださいね。",
+      "en": "Please don't carry it alone.",
+      "style": "warm doctor voice, soft warm caring delivery carefully"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "tender young woman voice, soft warm grateful delivery carefully"
+    }
+  ]
+}

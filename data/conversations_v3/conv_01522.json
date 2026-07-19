@@ -1,0 +1,75 @@
+{
+  "id": "conv_01522",
+  "context": "Mei finds Sakura with a sprained ankle; helps her with first aid.",
+  "purpose": "Adult helping injured adult; tender care moment.",
+  "ambient": "living_room_concerned",
+  "sound_effects": [],
+  "target_vocab": [
+    "足首",
+    "痛い",
+    "冷",
+    "休む"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "足首、ひねっちゃった。",
+      "en": "I twisted my ankle.",
+      "style": "Slight wince on the opening. Quiet, almost matter-of-fact — not looking for sympathy, just stating fact. A pause after, like she's assessing the damage herself. Steady exhale.",
+      "mood": "pained"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えっ、痛い?冷やそう。",
+      "en": "Oh — does it hurt? Let's ice it.",
+      "style": "Sharp intake of concern on the opening. Immediately shifts to purposeful — the 'let's' lands firmly, like she's already moving. Warm efficiency, no fuss.",
+      "mood": "alert_caring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、お願いね。",
+      "en": "Yeah — please.",
+      "style": "Soft acceptance. A small exhale of relief at being helped. No pride in it, just gratitude. Slightly smaller voice, letting Mei take the lead.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "少し休んでて、私やる。",
+      "en": "Rest a bit — I'll handle it.",
+      "style": "Gentle but assured. No question, no negotiation — just steady reassurance. Quiet, capable tone. Eyes-contact level calm. The kind of thing you actually believe.",
+      "mood": "steady_caring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう、本当に。",
+      "en": "Thank you — truly.",
+      "style": "Genuine warmth beneath the quietness. The 'truly' lands soft but complete — not overstated, just sincere. A moment of vulnerability, trusting Mei.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "無理しないで、大事にね。",
+      "en": "Don't push — take care.",
+      "style": "Tender firmness. Not demanding, but clear. Like she's saying something important that she doesn't often say out loud. Slight lean in. Deliberate pace.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、明日は休む。",
+      "en": "Yeah — I'll rest tomorrow.",
+      "style": "Agreement with commitment behind it. Quieter than before, but there's a resolve underneath. Like she's making a promise to Mei. Small, steady.",
+      "mood": "resolved"
+    }
+  ]
+}

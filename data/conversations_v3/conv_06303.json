@@ -1,0 +1,86 @@
+{
+  "id": "conv_06303",
+  "context": "A mom and son chat",
+  "purpose": "Teach: ふざけ/こだわら/街角/傾ける/間に合っ/ちらっと/町中/見回し",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ふざけ",
+    "こだわら",
+    "街角",
+    "傾ける",
+    "間に合っ",
+    "ちらっと",
+    "町中",
+    "見回し"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_317 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さん、ふざけて、踊ってた。",
+      "en": "Mom — Dad was being silly, dancing around.",
+      "style": "Bright, breathless excitement. Quick staccato delivery on the setup, then a small giggle trailing the punchline. The delight of a secret shared.",
+      "mood": "amused_conspiratorial"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ。細かい指示にこだわらないお父さん、頼もしいね。",
+      "en": "Hehe. Your dad not sweating the details — that's what makes him reliable.",
+      "style": "Warm, approving exhale. Soft laugh at the beginning. Tone of someone noticing something good without announcing it. Maternal, almost to herself.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "街角のたこ焼き屋、寄って帰ろう。",
+      "en": "Can we stop at that takoyaki place on the corner on the way back?",
+      "style": "Quick, hopeful pitch upward at the end. Casual, like it's just occurred to him but he's practiced asking. Not quite bold, but willing to try.",
+      "mood": "hopeful_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お顔、ライトの方に傾けるよう、ね、写真。",
+      "en": "Angle your face toward the light a little, okay? For the photo.",
+      "style": "Gentle instruction, almost whispered. The attention of someone setting up a moment carefully. Patient beat before the explanation, like she's watching him adjust.",
+      "mood": "tender_focused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今日、運動会、ぎりぎり間に合った。",
+      "en": "We almost didn't make it to the sports day on time today.",
+      "style": "Quiet observation, slight relief underneath. Matter-of-fact delivery with the smallest emphasis on 'almost.' A moment of looking back at the close call.",
+      "mood": "reflective_relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの帰りを、玄関でちらっと、確認してね。",
+      "en": "Did you notice Dad checking at the front door when he came home?",
+      "style": "Curious, gentle follow-up. Not quite a question — more like she's inviting him to confirm something she noticed. Soft, almost conspiratorial.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "町中で、迷子、お父さん、助けてあげたんだ。",
+      "en": "Dad helped a kid who was lost in town, did you see that?",
+      "style": "Pleased, drawing out the moment. Steady tone with a lift of approval underneath. She's proud, but delivering it like they're sharing something nice, not making a fuss.",
+      "mood": "proud_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家中見回しながら、忘れ物、ない?",
+      "en": "Let's do a quick walk through the house — did you forget anything?",
+      "style": "Efficient but unhurried. The tone of someone checking boxes before leaving, present but moving forward. Practical warmth, no drift.",
+      "mood": "practical_attentive"
+    }
+  ]
+}

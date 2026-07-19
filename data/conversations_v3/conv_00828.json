@@ -1,0 +1,76 @@
+{
+  "id": "conv_00828",
+  "context": "Sakura tells Asuka she passed a difficult mock exam.",
+  "purpose": "teacher-student exam-result success exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "試験",
+    "結果",
+    "成功",
+    "一緒",
+    "頑張る"
+  ],
+  "cast": [
+    "sakura_teen",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_042)",
+    "generated_at": "2026-05-27T02:11:35.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、模擬試験、結果、出ました。",
+      "en": "Teacher, the mock exam results came back.",
+      "style": "Quiet, direct opening. Soft undercurrent of relief beneath the report. Slight pause before the news, like she's still processing it herself. Warm but measured — this matters too much to oversell.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "どうだった、教えて。",
+      "en": "How'd it go? Tell me.",
+      "style": "Leaning forward slightly. Gentle curiosity — not the teacher voice, the person-who-cares voice. Open warmth that makes the space safe to be honest.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "受かりました、なんとか。",
+      "en": "I passed. Somehow.",
+      "style": "Small, genuine smile audible in the words. The 'somehow' carries both relief and disbelief — she's still letting it settle. Humble, not self-deprecating. Real gratitude underneath.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本当に、成功。すごい、努力の結果。",
+      "en": "That's real success. That's amazing — the result of your effort.",
+      "style": "Warmth with weight behind it. The affirmation lands firm. Speaks slowly enough that each part lands. Not praising the grade; affirming the person who earned it.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生のお陰、ありがとうございます。",
+      "en": "It's because of you, teacher. Thank you so much.",
+      "style": "Sincere and unguarded. The gratitude is real, not performative. Slight formal register to show respect, but the warmth is genuine. Eyes probably lowered slightly, but voice steady.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本番まで、一緒に、頑張ろう。",
+      "en": "Let's keep going together until the real exam. We can do this.",
+      "style": "Quiet promise. The 'together' carries the weight — she's not alone in this. Steady and grounded, not cheerleading. The kind of encouragement that feels like solid ground.",
+      "mood": "warm_resolute"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、必ず、合格します。",
+      "en": "Yes. I'll pass for sure.",
+      "style": "Quiet conviction. No doubt in the voice now. Speaking from a place of quiet certainty, not bravado. The warmth settled into determination. Closing note of commitment.",
+      "mood": "determined_hopeful"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08789",
+  "context": "Officer briefs",
+  "purpose": "Teach: 同名/気配り/調査官/貸借/割当/局員/上半期/釈明",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "同名",
+    "気配り",
+    "調査官",
+    "貸借",
+    "割当",
+    "局員",
+    "上半期",
+    "釈明"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_441 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者と同名の市民への誤認を避けます",
+      "en": "We take care to avoid misidentifying citizens who happen to share a suspect's name.",
+      "style": "Measured, official tone. Steady pace. Opening with quiet authority. No defensiveness—a matter of procedure explained clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、市民への気配りを大事にされてますね",
+      "en": "I see. The police really do prioritize consideration for citizens.",
+      "style": "Respectful acknowledgment. Slight lean-in, nodding register. Warm but formal. The tone of someone taking mental notes.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本件は調査官の専門領域です",
+      "en": "This case falls within the investigator's area of expertise.",
+      "style": "Factual, unbending. Short sentences. No apology in the delivery—stating boundaries professionally. Steady eye contact.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、不正貸借契約の捜査もされますね",
+      "en": "Understood. The police are also investigating the illegal lease arrangements, then.",
+      "style": "Careful, almost cautious affirmation. Reading the room. Respectful pause before the follow-up question. Not pushing.",
+      "mood": "deferential"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、応援要員の割当を調整しました",
+      "en": "We've adjusted the allocation of backup personnel to this operation.",
+      "style": "Even, procedural tone. Matter-of-fact delivery. The confidence of someone reporting completed work. No elaboration needed.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、郵便局員さんの安全も守って下さいね",
+      "en": "Thank you. Please make sure to protect the postal workers' safety as well.",
+      "style": "Sincere request beneath politeness. Slight softening—this is personal now. Genuine concern breaking through the formal register.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、上半期の犯罪統計を発表します",
+      "en": "We're releasing the first-half crime statistics today.",
+      "style": "Official announcement register. Clean, declarative. Opening with slight lift. No editorializing—just the facts being delivered.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、捜査結果の釈明会見も行われますね",
+      "en": "Yes. Will you be holding a press conference to clarify the investigation results?",
+      "style": "Formal inquiry, building rapport. Quiet recognition of the weight of what's being discussed. Attentive listener asking the next logical question.",
+      "mood": "engaged"
+    }
+  ]
+}

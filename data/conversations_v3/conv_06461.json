@@ -1,0 +1,85 @@
+{
+  "id": "conv_06461",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 払え/堅い/出れ/きつく/貸す/休ま/おかあさん/かわいく",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "払え",
+    "堅い",
+    "出れ",
+    "きつく",
+    "貸す",
+    "休ま",
+    "おかあさん",
+    "かわいく"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お小遣い、ちゃんと払えるかな、自分で。",
+      "en": "Mom, do you think I could earn my allowance myself?",
+      "style": "Quiet, thoughtful question. Careful phrasing — he's testing whether this matters to her. A child with a plan he hasn't fully explained yet. Slight upward lilt at the end, seeking permission more than information.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、堅い決意があるならね。",
+      "en": "Yes — if you really mean it.",
+      "style": "Warm assent with a single note of checking-in. She hears the seriousness underneath his asking. Not conditional so much as confirming she sees what he's doing. A mother listening."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "朝、玄関、すんなり出れるようになった。",
+      "en": "I've been leaving for school better now. Faster.",
+      "style": "Small pride underneath, almost shy about stating it. He's telling her he's noticed his own change. A beat of hesitation before 'faster' — like he's checking whether he's allowed to be proud of this small thing.",
+      "mood": "quiet_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達、きつく言わないでね。",
+      "en": "Just be gentle with your friends, okay?",
+      "style": "Soft, unrushed. A mother gently redirecting something she's observed. Not a warning so much as a tender reminder. Said as if they've spoken about this before, or she knows he worries about it.",
+      "mood": "gently_guiding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お絵描き、ペン、貸すから、皆と楽しく。",
+      "en": "I can share my drawing pens with everyone. We can all have fun together.",
+      "style": "Eager, brighter than before. He's announcing a decision he's made — his way of showing he understands what she's saying. Animated but not loud. A child eager to be good.",
+      "mood": "earnest_generous"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さん、まだ休まないみたい、心配ね。",
+      "en": "I'm worried about your father. He still hasn't really rested.",
+      "style": "Shift to adult weight. Quieter, pulling slightly inward. She's speaking more to herself than to him — a moment where maternal worry surfaces. Slow, steady. The kind of worry that lives in the shoulders.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おかあさん、いつもお弁当、ありがとう。",
+      "en": "Mom, thank you for making my lunch every day.",
+      "style": "Direct, genuine gratitude. A child saying something he's felt for a while and finally found the courage to speak. Warm and simple — no performance. Slightly formal in its earnestness.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お友達の絵、かわいく描けてるね。",
+      "en": "Your picture of your friend came out so cute.",
+      "style": "Warm, genuine notice. A mother catching a small thing her son made and choosing to name what's good about it. Not overdone — just a quiet acknowledgment that she sees what he's made and she likes it.",
+      "mood": "warm_approving"
+    }
+  ]
+}

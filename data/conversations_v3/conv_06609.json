@@ -1,0 +1,86 @@
+{
+  "id": "conv_06609",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 長期間/しまわ/すんなり/売り切れ/兆し/区切り/近日/工具",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長期間",
+    "しまわ",
+    "すんなり",
+    "売り切れ",
+    "兆し",
+    "区切り",
+    "近日",
+    "工具"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、長期間、内偵を進めてまいりました。",
+      "en": "We've been conducting undercover surveillance on this case for an extended period.",
+      "style": "Measured, official opening. Steady voice, no hurry. Slight pause after \"case\" — setting the frame. Composed authority without coldness.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。証拠品、警察にしまわないようにと言われ、保管中です。",
+      "en": "Yes. We were instructed to keep the evidence secure and not hand it over to police custody yet. We're maintaining it properly.",
+      "style": "Respectful, attentive. Clipped efficiency — showing he understands the chain of custody. Not defensive, just precise and responsive.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、すんなり、自供に至りました。",
+      "en": "The suspect came forward with a confession without resistance.",
+      "style": "Neutral report. Light emphasis on \"without resistance.\" Professional distance — stating fact, not judgment. Even pace, no color.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害品、市場で売り切れ、追跡しております。",
+      "en": "Yes. The stolen goods have sold out on the market. We're tracing them now.",
+      "style": "Steady, focused. Acknowledgment first, then the update. Voice stays level — problem identified, work underway. No apology or overstatement.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域、治安回復の兆し、感じます。",
+      "en": "I'm sensing signs of the neighborhood's peace being restored.",
+      "style": "Quieter than before. Slight warmth beneath the procedural tone — this matters. Gentle emphasis on \"restored.\" A moment of professional satisfaction.",
+      "mood": "cautiously_relieved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。捜査の一区切り、現場会議、開催予定です。",
+      "en": "Yes. We're planning to hold a briefing at the site once we've reached this checkpoint in the investigation.",
+      "style": "Clear, confirmatory. Organized delivery — listing the next step. Competent and ready. Steady eye contact implied in the voice.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "近日、地域防犯活動を、実施いたします。",
+      "en": "We'll be implementing a community crime-prevention initiative in the coming days.",
+      "style": "Formal announcement tone. Deliberate pace on the key phrase — showing intent. Official but not cold. This is a commitment.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。盗難に遭った工具、被害届、提出済みです。",
+      "en": "Yes. The report for the stolen tools has already been filed.",
+      "style": "Final confirmation. Quiet close on the statement — administrative detail, all handled. Professional punctuation. A small closure.",
+      "mood": "complete"
+    }
+  ]
+}

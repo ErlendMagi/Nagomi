@@ -1,0 +1,76 @@
+{
+  "id": "conv_00948",
+  "context": "Asuka tells Riku what college life might be like.",
+  "purpose": "teacher-student college-life exchange",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "大学生",
+    "生活",
+    "一緒",
+    "頑張る",
+    "相談"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_048)",
+    "generated_at": "2026-05-27T03:00:15.220Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "リク君、大学生の生活、楽しみ？",
+      "en": "Riku-kun, are you looking forward to college life?",
+      "style": "Open, genuine curiosity. Warm but not sugary. The tone of someone who actually wants to know the answer and will listen to it. Slight lift on the question, inviting him in.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、でも、不安、あります。",
+      "en": "Yes, but… I'm anxious about it.",
+      "style": "Quiet admission. Not performed vulnerability—just honest. Eyes down slightly, then back up. The words come carefully, testing whether it's safe to say this out loud.",
+      "mood": "nervous_honest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "自由が、増える、けど、自分の責任。",
+      "en": "Freedom increases, but so does your own responsibility.",
+      "style": "Gentle, measured. Not lecturing. The rhythm of someone who's thought about this before and is sharing it like a small piece of wisdom. Pause before 'responsibility'—weight on that word.",
+      "mood": "thoughtful_grounded"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "友達、できるかな。",
+      "en": "Will I be able to make friends?",
+      "style": "Small, vulnerable question. Soft attack. The real worry underneath—not casual conversation, but something that matters. Slight uncertainty on the final word, like he's not sure he should have asked.",
+      "mood": "worried_vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "絶対、できる。一緒に、頑張ってる人、いる。",
+      "en": "You absolutely will. There will be people going through it together with you.",
+      "style": "Conviction without forcefulness. Lean slightly forward. The tone of someone who has seen this happen and knows it to be true. Warmth on 'together'—he's not alone in this.",
+      "mood": "assured_encouraging"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "相談、いつでも、来ます。",
+      "en": "I can come talk to you anytime, right?",
+      "style": "Not quite a question—more a check-in. Soft, hopeful. Testing the promise. Relief audible that such a thing exists. Quick, then slight pause, like he's giving her space to confirm.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "応援、いつでも。",
+      "en": "Anytime. I'm rooting for you.",
+      "style": "Simple, steadfast. No elaboration needed. Warmth on 'rooting for you'—genuine, not performed. The kind of promise that sits quietly and means everything.",
+      "mood": "tender_steadfast"
+    }
+  ]
+}

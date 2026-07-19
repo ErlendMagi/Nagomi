@@ -1,0 +1,62 @@
+{
+  "id": "conv_01282",
+  "context": "Saito reminds Kenji about his health checkup.",
+  "purpose": "doctor-patient checkup exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_064)",
+    "generated_at": "2026-05-27T04:52:28.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "健次さん、健康、保つ、大切。",
+      "en": "Kenji-san, health is something precious to protect.",
+      "style": "Gentle opening, with quiet authority that comes from experience. Warm but measured. Deliberate pacing on each concept, as if offering something fragile. Soft eye contact. The composure of someone who has delivered this care many times.",
+      "mood": "warm_sincere"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、頑張ります、本当に。",
+      "en": "Yes, I'll do my best. Really.",
+      "style": "Respectful and earnest. A small pause after the yes—he's absorbing what she said. Warm commitment underneath, not bravado. Gentle conviction on the final word. The tone of someone promising something that matters.",
+      "mood": "committed_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、本当に。",
+      "en": "Please come talk to me anytime. I mean it.",
+      "style": "Soft reassurance with quiet insistence. Leaning forward slightly with the second sentence. Warm and clear—this is not obligation, it's an open door. No performance, just genuine availability.",
+      "mood": "tender_reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感謝、本当、ずっと。",
+      "en": "Thank you. Truly, I'm grateful.",
+      "style": "Quiet depth of feeling. A small breath before speaking. Warm and genuine, not overwrought. The gratitude lands in the voice like something he's been holding. Sincere trailing-off on the final word.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、長く、ね。",
+      "en": "Together, for the long road ahead.",
+      "style": "Closing warmth with quiet promise. Slow, deliberate pacing. Soft smile audible in the voice. The kind, steady certainty of someone who means what she says. A gentle period, not a question.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

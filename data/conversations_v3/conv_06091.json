@@ -1,0 +1,79 @@
+{
+  "id": "conv_06091",
+  "context": "A doctor briefs a reporter about a disaster response",
+  "purpose": "Teach: 骨折/腎臓/専門医/倒壊/冤罪/気象庁/運航/収束",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "骨折",
+    "腎臓",
+    "専門医",
+    "倒壊",
+    "冤罪",
+    "気象庁",
+    "運航",
+    "収束"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、地震発生後、骨折患者、急増しました。",
+      "en": "Ren, we saw fracture cases spike sharply after the earthquake hit.",
+      "style": "Steady, clinical delivery. Direct eye contact. No room for decoration—just clear information. Tone carries the weight of responsibility without melodrama.",
+      "mood": "grave_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "腎臓への影響、長期で気にかかる症例ありますか。",
+      "en": "Are there long-term kidney complications you're tracking as ongoing concerns?",
+      "style": "Lean slightly forward. Genuine intellectual curiosity beneath the question. Careful articulation—he's checking his phrasing. Small pause before \"ongoing,\" making sure he's asking the right thing.",
+      "mood": "focused_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。専門医、各地から駆けつけてくれました。",
+      "en": "Yes. Specialists came from across the prefecture to help.",
+      "style": "Warm affirmation delivered without hesitation. Slight lift on \"specialists\"—acknowledging the good that happened. Voice stays steady and authoritative but not cold.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "倒壊建物の解体、まだ進行中ですね。",
+      "en": "The demolition work on collapsed structures—it's still proceeding, isn't it?",
+      "style": "Respectful probe, not accusation. Quiet, almost tentative uptick at the end. He's gathering information methodically but his tone suggests he already suspects the answer.",
+      "mood": "sobered"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。冤罪同然のうわさ、被災者を二次的に傷つけました。",
+      "en": "Yes. Rumors—some of them cruel, almost accusatory—have been compounding the victims' trauma.",
+      "style": "Pause before \"rumors.\" Slight tightness in the delivery. This part costs her to say. Measured, but the subtext is exhaustion and frustration at human cruelty layered on disaster.",
+      "mood": "weary_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "気象庁の予報、迅速でしたか。",
+      "en": "Did the meteorological service's warnings come through in time?",
+      "style": "Quieter now. Almost reflexive—the kind of question he asks while his mind is still on the rumors. Not distracted, just already turning to the next thing that needs checking.",
+      "mood": "searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。航路運航は一時停止、現場の混乱、収束に向かっています。",
+      "en": "Yes. Shipping routes were suspended early. Things at the site are stabilizing now, gradually moving toward order.",
+      "style": "The softest note in the exchange. Not optimistic, but pointing toward what control exists. Close with a gentle trailing thought—\"heading toward order\" lingers, suggesting fragile progress.",
+      "mood": "cautiously_hopeful"
+    }
+  ]
+}

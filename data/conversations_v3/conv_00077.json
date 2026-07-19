@@ -1,0 +1,90 @@
+{
+  "id": "conv_00077",
+  "context": "It's Hiroshi (elder)'s 71st birthday. Yumiko (his neighbor for years) has stopped by with a small cake.",
+  "purpose": "neighborhood-affection — small birthday between people who have known each other a long time",
+  "ambient": "apartment_hallway",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "ありがとう",
+    "元気",
+    "嬉しい",
+    "大丈夫"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひろし先生、ちょっと、いいですか？",
+      "en": "Hiroshi-sensei — do you have a moment?",
+      "style": "Soft knock at the door. Respectful hesitation. Warm but measured, the voice of someone used to respecting boundaries.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、ゆみこさん。どうしました？",
+      "en": "Ah — Yumiko-san. What brings you by?",
+      "style": "Genuine pleasure beneath the formality. A slight opening up. The tone of someone pleased to see someone they respect.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お誕生日、お祝いです。本当に、ささやかですが。",
+      "en": "Happy birthday. It's very modest, I'm afraid, but…",
+      "style": "Gentle ceremonial quality. A small bow lives in the breath. Hands forward with the gift, voice steady but tender.",
+      "mood": "respectful_tender"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "…(quiet beat)よく覚えていてくださって。",
+      "en": "…(quiet beat) You remembered.",
+      "style": "A catch in the voice — surprise underneath composure. The word catches slightly, the professor-voice threatens to soften. A moment of real feeling breaking through.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "当たり前です。…お元気で、何よりです。",
+      "en": "Of course. …I'm just glad you're well — that matters most.",
+      "style": "Soft and genuine. The second part carries weight without effort. No performance, just honest feeling underneath the politeness.",
+      "mood": "genuine_warm"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ありがとうございます。本当に、嬉しい。",
+      "en": "Thank you. Truly — this means a great deal.",
+      "style": "Small, deliberate bow in the voice. Steady but moved. A man composing himself with gratitude.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お時間ある時、お茶でも、いつでも。",
+      "en": "Please — whenever you have time, come have tea with me. Anytime.",
+      "style": "An invitation that mirrors the one received. Gentle reciprocity. The door opens a little wider in the voice.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ぜひ。…今日は、本当にいい一日になりました。",
+      "en": "I would like that. …You know, today has become quite a special day.",
+      "style": "Closing line with quiet finality. Steps back from the doorway slowly. The voice settling into peaceful satisfaction.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "よかった。ではまた。",
+      "en": "I'm so glad. Take care.",
+      "style": "A small smile audible in the words. The voice already turning toward the hallway. Warm departure, no lingering.",
+      "mood": "content"
+    }
+  ]
+}

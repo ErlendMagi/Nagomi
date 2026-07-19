@@ -1,0 +1,83 @@
+{
+  "id": "conv_00047",
+  "context": "A neighborhood koban. Ren has come in to ask about a misplaced bicycle. Officer Takeda is patient, methodical, and warm.",
+  "purpose": "small bureaucratic encounter — careful kindness from a uniformed adult",
+  "ambient": "police_box",
+  "target_vocab": [
+    "今日",
+    "すみません",
+    "本当に",
+    "時間",
+    "どこ",
+    "見る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、ちょっといいですか…",
+      "en": "Excuse me, do you have a moment…",
+      "style": "Soft, apologetic opener. Hesitant pace with a breath-catch before the question. A small bow shape in the voice—deference that costs him effort.",
+      "mood": "nervous_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どうぞ。お入りください。",
+      "en": "Yes, please — come in.",
+      "style": "Warm and professional. Open posture. Small verbal gesture of welcome—already putting him at ease before he fully steps inside.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "自転車、停めた場所、どこか…忘れちゃって。",
+      "en": "My bicycle — where I parked it — I, um, forgot.",
+      "style": "Self-deprecating half-laugh underneath. Each clause lands separately, like he's rebuilding the memory as he speaks. The trailing-off is gentle embarrassment, not shame.",
+      "mood": "flustered_sheepish"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫ですよ。今日、いつごろ停めましたか？",
+      "en": "It's alright. Around what time today did you park it?",
+      "style": "Steady, no edge. The voice already pulling out a notepad—methodical and kind in the same breath. This is what he does; no judgment, just logistics.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お昼ごろ…たぶん駅の近くで。",
+      "en": "Around noon… probably near the station.",
+      "style": "Thinking out loud. Slight uncertainty—he's genuinely reconstructing his own day. The pace is tentative, checking each detail as it surfaces.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "では、一緒に駅の駐輪場、見てみましょうか。",
+      "en": "Then — let's go look at the station's bike-park together.",
+      "style": "Practical and direct. A small opening on the dash—like he's already decided this is the next thing. The kindness is in the action, not the tone.",
+      "mood": "helpful_practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "えっ、本当に？お時間、大丈夫ですか？",
+      "en": "Wait — really? Is that okay, time-wise?",
+      "style": "Genuine surprise underneath. The first 「really?」 holds disbelief for a beat, then softens into half-gratitude. He's not used to this kind of help.",
+      "mood": "touched_disbelieving"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今、暇です。行きましょう。",
+      "en": "I'm free right now. Let's go.",
+      "style": "A quiet joke underneath—police boxes are rarely quiet. Simple, final. The kindness is in the decisiveness. Already reaching for his cap in the tone.",
+      "mood": "kind_matter_of_fact"
+    }
+  ]
+}

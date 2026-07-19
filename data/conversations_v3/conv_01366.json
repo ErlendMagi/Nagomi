@@ -1,0 +1,76 @@
+{
+  "id": "conv_01366",
+  "context": "Kenji reports a project completion.",
+  "purpose": "business completion-report exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "完了",
+    "一緒",
+    "頑張る",
+    "感謝",
+    "会社"
+  ],
+  "cast": [
+    "kenji_office",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_069)",
+    "generated_at": "2026-05-27T05:26:46.126Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "部長、プロジェクト、完了、本当に。",
+      "en": "Boss, we've completed the project. Really.",
+      "style": "Slight breathless rush on the opening—pride and relief mingled. Warm, steady delivery. Pause before 'really' to let the weight of it land. Quiet conviction, not performance.",
+      "mood": "proud_relieved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本当、よく頑張ったな。",
+      "en": "You really did well. All of you.",
+      "style": "Firm, clear opening. Not effusive—the kind of praise that matters because it's measured. Slight warmth underneath the composure. A nod in the voice.",
+      "mood": "approving_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "皆様、本当、感謝、ずっと。",
+      "en": "I'm grateful to everyone. So grateful.",
+      "style": "Earnest, eyes down slightly. The second 'grateful' is softer, more personal—checking himself for showing too much. Gentle pace. Reverent almost.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、本当、ここまで、来た。",
+      "en": "We got here together. Every step.",
+      "style": "Steady, philosophical tone. Not looking back in regret—looking at the present moment with quiet recognition. Slow pace. The finality of someone who sees what was built.",
+      "mood": "reflective_together"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会社、本当、立派、なれた。",
+      "en": "The company became something we can be proud of.",
+      "style": "Soft opening, then building slight warmth on 'proud.' Not boastful—genuine, almost surprised by the accomplishment. Trailing off into quiet satisfaction.",
+      "mood": "proud_modest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "これからも、本当、頼んだ。",
+      "en": "I'm counting on you going forward. I mean that.",
+      "style": "Direct and warm. The second sentence is quieter, more personal—not backing down from the ask, but softening it with sincerity. A hand-on-shoulder moment in the voice.",
+      "mood": "trusting_sincere"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "頑張ります、絶対。",
+      "en": "I'll give my absolute best. Always.",
+      "style": "Respectful bow in the voice without ceremony. Quiet conviction on 'absolute.' Not desperate—steady, like a promise being kept. Final word trails with quiet certainty.",
+      "mood": "committed_respectful"
+    }
+  ]
+}

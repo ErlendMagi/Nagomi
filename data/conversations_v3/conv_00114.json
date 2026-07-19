@@ -1,0 +1,113 @@
+{
+  "id": "conv_00114",
+  "context": "Asuka has called Yumiko in for a quiet word — Sho has been involved in something at school. Sho is sitting between them.",
+  "purpose": "three-speaker teacher-parent-kid — small accountability moment",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "今",
+    "言う",
+    "大切",
+    "ありがとう",
+    "心配"
+  ],
+  "cast": [
+    "sho_child",
+    "yumiko_mom",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "お母さん、お時間ありがとうございます。",
+      "en": "Thank you so much for taking the time to meet with me.",
+      "style": "Warm, respectful opening. Steady voice, unhurried. Professional without coldness. A small pause before speaking, settling into the moment.",
+      "mood": "grateful_professional"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "いえいえ。…しょう、ちゃんと座って。",
+      "en": "No, not at all. …Sho, sit properly now.",
+      "style": "Low, unperformed voice. A mother's gentle redirect, not corrective. Stays warm even while adjusting. Natural breath between the two thoughts.",
+      "mood": "calm_maternal"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…(sits, eyes down)",
+      "en": "(sits, eyes down)",
+      "style": "A real hesitation before he moves. The settling of a child who knows something is serious. Quiet, resigned acceptance.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、本当のこと、言える？",
+      "en": "Sho-kun — can you tell me what really happened?",
+      "style": "Soft, genuinely curious tone. No accusation hiding underneath. An invitation, not an interrogation. Eyes steady on him.",
+      "mood": "kind"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "One small syllable, spoken with quiet certainty. A boy agreeing to be honest. Steady breath, no rush.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日、お友達の鉛筆、どうしたの？",
+      "en": "Today — what happened to your friend's pencil?",
+      "style": "Specific and gentle. Voice level and clear. The question sits lightly, giving him room to answer.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…(small whisper)折った。",
+      "en": "…(small whisper) I broke it.",
+      "style": "A real beat of gathering courage before the whisper. The admission comes quietly, heavily. He's felt this already.",
+      "mood": "ashamed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "なんで？理由、ある？",
+      "en": "Why? Did something happen?",
+      "style": "Calm and open, genuinely asking. No judgment creeping in. A mother's voice that makes space for the answer.",
+      "mood": "curious_understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…おもしろくないって、言ってきたから。",
+      "en": "…He said I wasn't fun.",
+      "style": "A small, honest admission of hurt. Words come slowly, like he's been holding them. No defensiveness, just the tender fact of it.",
+      "mood": "wounded"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "それは、しょうくん、本当に悲しかったね。",
+      "en": "That must have hurt you very much, Sho-kun.",
+      "style": "Warm recognition of what he felt. The words land softly, validating. She's not rushing past his pain.",
+      "mood": "empathetic"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。でも、鉛筆折るのは、ちがう。明日、謝ろう。",
+      "en": "Yes — but breaking the pencil was the wrong choice. Tomorrow, let's apologize.",
+      "style": "Gentle but unmistakable firmness. Her voice carries both warmth and clarity. A mother who holds the line without hardness. The moment feels complete in her tone.",
+      "mood": "firm_loving"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。一緒に行ってくれる？",
+      "en": "…Mm. Will you come with me?",
+      "style": "A small, genuine request. Uncertainty and hope mix in the whisper. He needs her there. Not a demand — a scared question.",
+      "mood": "vulnerable_hopeful"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "conv_01464",
+  "context": "Hina and Sakura sit in the library; Hina is choosing a novel for the weekend.",
+  "purpose": "Quiet intergenerational book recommendation.",
+  "ambient": "library_quiet_pages",
+  "sound_effects": [],
+  "target_vocab": [
+    "部分",
+    "小説",
+    "読み"
+  ],
+  "cast": [
+    "hina_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_073)",
+    "generated_at": "2026-05-27T05:55:27.702Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "この小説、どの部分がいい?",
+      "en": "Which part of this book did you like best?",
+      "style": "Curious, open-ended question. Bright but controlled volume—library-quiet respect. Genuine interest in her answer, not performative. Soft smile underneath the words.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "中盤の感情の描き方、好き。",
+      "en": "The way they write emotions in the middle section. I really loved that part.",
+      "style": "Settled into thought. Speaks with the sureness of someone who's already lived with the book. Warm recognition—this is something that mattered. Soft, unhurried delivery.",
+      "mood": "thoughtful_fond"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "なるほど、楽しみだなぁ。",
+      "en": "Oh, I can't wait to get there then.",
+      "style": "Brightens with anticipation. Quick, eager energy but still restrained by library quiet. Leans slightly forward. The energy of someone being let in on something good.",
+      "mood": "eager_delighted"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ゆっくり読み進めてね。",
+      "en": "Just take your time with it, okay?",
+      "style": "Tender permission, not instruction. Slight emphasis on 'time'—the gift she's giving. Warm steady gaze. The voice of someone who wants her to have this without rushing it.",
+      "mood": "protective_gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、週末に読むね。",
+      "en": "I will. I'm reading it this weekend.",
+      "style": "Solemn little promise. Direct eye contact, sincere nod underneath the words. The commitment of someone who's been trusted with something that matters.",
+      "mood": "earnest_assured"
+    }
+  ]
+}

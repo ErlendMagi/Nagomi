@@ -1,0 +1,61 @@
+{
+  "id": "conv_01664",
+  "context": "Mrs. Mori gives Sakura a hand-knit scarf she made.",
+  "purpose": "Elder neighbor offering thoughtful handmade gift.",
+  "ambient": "genkan_morning_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "編",
+    "マフラー",
+    "贈り物",
+    "寒い"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "これ、編んだマフラーよ。",
+      "en": "Here — a scarf I knitted for you.",
+      "style": "Warm, slightly proud. Soft opening, like she's offering something she made with her hands. A small smile in the voice. Careful, not grandstanding.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "まあ、嬉しい、暖かそう!",
+      "en": "Oh — this is so kind of you. It looks so warm!",
+      "style": "Genuine surprise and gratitude. Quick, bright opening — she means it. Then softens into sincerity. A beat of actual appreciation, not politeness.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "寒くなったから、ね。",
+      "en": "It's getting colder now, so you'll need it.",
+      "style": "Matter-of-fact care underneath. Practical, warm. The tone of someone who notices the season changing and thinks of the people she knows.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "大切に、使わせていただきます。",
+      "en": "I'll treasure it. Thank you so much.",
+      "style": "Formal respect, but genuine. Slower pace. She's not reciting — she means the formality. A small bow in her voice. Then a real thank-you underneath.",
+      "mood": "sincere_grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ、毎年の楽しみよ。",
+      "en": "Heh — it's what I look forward to every year.",
+      "style": "Soft laugh. Warm, almost to herself. Fond memory in the voice. The tone of someone who has found a small happiness in a yearly ritual.",
+      "mood": "warm_content"
+    }
+  ]
+}

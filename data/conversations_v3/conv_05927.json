@@ -1,0 +1,72 @@
+{
+  "id": "conv_05927",
+  "context": "Two managers discuss month-end",
+  "purpose": "Teach: 出費/税関/駆けつけ/散々/利息/定時/月間/多忙",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出費",
+    "税関",
+    "駆けつけ",
+    "散々",
+    "利息",
+    "定時",
+    "月間",
+    "多忙"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "月間の経費、出費が増えてるね。",
+      "en": "Monthly expenses are up again, aren't they…",
+      "style": "Alert but measured. Soft opening, then a slight uptick of concern. Looking at the numbers like she's checking them twice. Not accusatory — just noticing.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。税関での追加コスト、散々な月でした。",
+      "en": "Yeah. The customs fees this month were pretty rough.",
+      "style": "Accepting, matter-of-fact. Steady voice without defensiveness. A small exhale like acknowledging something they both already knew.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "現場へ駆けつけた担当、評価しないと。",
+      "en": "The team that went out to handle it — we should recognize them for that.",
+      "style": "Shift to gratitude. Warming slightly. Deliberate, like she's making a decision to redirect focus. Thoughtful pace.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "多忙な中、感謝です。",
+      "en": "I'm grateful, honestly. Given how much we're all juggling.",
+      "style": "Sincere and quiet. A small drop in volume, like he's being genuine away from the spreadsheet. Warm undertone without overstatement.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "融資利息、来月から軽くしたい。",
+      "en": "I'd like to ease the loan interest starting next month if we can.",
+      "style": "Careful optimism. Thoughtful cadence — not commanding, proposing. Slight emphasis on 「ease」 like she's testing the idea aloud.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "定時退社、徹底させていきます。",
+      "en": "I'll make sure people actually leave on time. Enforce it.",
+      "style": "Quiet commitment. No flourish. Direct but kind — the tone of someone who will follow through and not make it a battle.",
+      "mood": "determined"
+    }
+  ]
+}

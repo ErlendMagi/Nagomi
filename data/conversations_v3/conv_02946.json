@@ -1,0 +1,75 @@
+{
+  "id": "conv_02946",
+  "context": "Kenji helps Yuki post a video, fixing a glitch.",
+  "purpose": "WIDENED SCENARIO: tech help; vocabulary (置か/あい/おっしゃる/不良/動画) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "置か",
+    "あい",
+    "おっしゃる",
+    "不良",
+    "動画"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "会社の動画を、上げたいんです。",
+      "en": "I want to upload the company video.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ファイルは、どこに置かれていますか?",
+      "en": "Where is the file placed?",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "デスクに、置いてあります。",
+      "en": "It's placed on the desktop.",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "動画に、不良があるようですね。",
+      "en": "The video seems to have a defect.",
+      "style": "analytical office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "不良の部分、直せますか?",
+      "en": "Can we fix the defective part?",
+      "style": "concerned office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社長は、何とおっしゃっていましたか?",
+      "en": "What did the boss say?",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "冒頭のあいさつを、入れてとおっしゃってました。",
+      "en": "He said to add an opening greeting.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あいさつを置いて、不良も直しますね。",
+      "en": "I'll add the greeting and fix the defect.",
+      "style": "reassuring office man voice, soft warm closing throughout"
+    }
+  ]
+}

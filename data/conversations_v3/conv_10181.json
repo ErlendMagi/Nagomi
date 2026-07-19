@@ -1,0 +1,86 @@
+{
+  "id": "conv_10181",
+  "context": "Mom and son chat",
+  "purpose": "Teach: キミ/ハズ/みどり/蹴り/お許し/かんじ/はかり/相方",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "キミ",
+    "ハズ",
+    "みどり",
+    "蹴り",
+    "お許し",
+    "かんじ",
+    "はかり",
+    "相方"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_511 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「キミの未来が楽しみ」って仰ったわ",
+      "en": "Sho — Dad said he's looking forward to your future.",
+      "style": "Warm, gentle delivery. Slight smile in the voice. Shares the compliment like a gift, pausing just after his name to let it land. Soft, maternal cadence.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが帰宅するハズが遅れてるよ",
+      "en": "Mom — Dad's supposed to be home by now, but he's running late.",
+      "style": "Quiet observation, not a complaint. Matter-of-fact but with the smallest undertone of concern. Speaks as if thinking out loud. No urgency—just noticing.",
+      "mood": "gently_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お家のみどりを増やしましょうね",
+      "en": "Sho — let's add more green plants around the house, shall we?",
+      "style": "Light, inviting tone. Opens with gentle enthusiasm. Includes him in a small domestic project. Warmth without pressure—an offer more than a suggestion.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、ボールを蹴り過ぎて靴がボロボロだよ",
+      "en": "Mom — I've kicked the ball so much my shoes are falling apart.",
+      "style": "Self-aware, slightly rueful. Small laugh underneath. Not complaining—reporting it with a hint of wry acceptance, like he knows it's his own doing.",
+      "mood": "wry_self_aware"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんから「お許しを」って丁寧に頂いたわ",
+      "en": "Sho — Dad asked my permission so politely. Apologized properly.",
+      "style": "Tender, almost touched. Speaks with quiet appreciation for his father's thoughtfulness. Softness in the middle of the phrase. Pauses slightly after 'permission' as if the gesture moved him.",
+      "mood": "touched_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんの優しさをかんじるよ",
+      "en": "Mom — I can feel Dad's kindness in everything he does.",
+      "style": "Soft, reverent almost. Slow, deliberate pace. Voice full—genuine warmth, not performed. Trailing slightly on the final word like he's summing something up that matters.",
+      "mood": "warmly_tender"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがケーキの分量をはかりで量って下さったわ",
+      "en": "Sho — Dad measured out the cake ingredients so carefully with the scale.",
+      "style": "Warm appreciation in the voice. Noticing the care in small details. Gentle admiration for his father's precision and effort. Steady, genuine tone—not exaggerated.",
+      "mood": "admiring_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんは家族の相方だよね",
+      "en": "Mom — Dad is our family's partner, isn't he?",
+      "style": "Quiet realization, almost wondering aloud. Tender and definitive at once. Soft close on the final word. Like he's understanding something true that he's always known.",
+      "mood": "tenderly_certain"
+    }
+  ]
+}

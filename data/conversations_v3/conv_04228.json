@@ -1,0 +1,78 @@
+{
+  "id": "conv_04228",
+  "context": "A boss reviews the corporate site policy with his manager",
+  "purpose": "Teach: ペーパー/ポリシー/フレーム/ドライバー/転載/改行/文字数/全角",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ペーパー",
+    "ポリシー",
+    "フレーム",
+    "ドライバー",
+    "転載",
+    "改行",
+    "文字数",
+    "全角"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_213 workflow wk3cyqvmu)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤さん、新しいコーポレートサイトのプライバシーポリシーの件だが、最終確認をしたい。",
+      "en": "Sato-san, regarding the privacy policy on the new corporate site, I'd like to do a final review.",
+      "style": "Authoritative boss tone, measured and businesslike, slightly tired evening voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、本日中にご承認いただければ、ペーパーレスで処理して明日公開できます。",
+      "en": "Yes, if you can approve it by today, we can process it paperlessly and publish tomorrow.",
+      "style": "Polite professional female office worker, efficient and crisp delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ポリシー本文に、外部サイトへの無断転載を禁止する一文が見当たらないな。",
+      "en": "I don't see a clause in the policy text prohibiting unauthorized reposting to external sites.",
+      "style": "Boss pointing out an issue, calm but firm, lowering voice slightly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "申し訳ありません。注意書きを追記し、適切な位置で改行を入れて読みやすく整えます。",
+      "en": "I'm terribly sorry. I'll add the warning notice and insert line breaks at appropriate places to improve readability.",
+      "style": "Apologetic but composed female employee, slight bow audible in voice"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それから問い合わせフォームの文字数制限、二百字では少なすぎるんじゃないか。",
+      "en": "Also, the character limit on the inquiry form — isn't two hundred characters too few?",
+      "style": "Boss asking pointed question, raising one eyebrow with skeptical tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご指摘の通りです。五百字に拡張し、全角スペースも正しく処理されるよう開発担当に依頼します。",
+      "en": "You're right. I'll extend it to five hundred characters and ask the development team to ensure full-width spaces are handled correctly.",
+      "style": "Quick attentive response, taking notes audibly while speaking"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、それとトップページのフレーム周りの表示崩れ、あれもドライバーの更新で直るのか確認しておいてくれ。",
+      "en": "Oh, and the layout glitch around the top page frame — check whether updating the driver fixes that too.",
+      "style": "Boss adding one more concern, thoughtful and slightly probing tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。修正版が上がり次第、二十一時までに必ずメールでお送りします。",
+      "en": "Understood. As soon as the revised version is ready, I'll send it by email by nine PM without fail.",
+      "style": "Firm professional confirmation, slight relief and resolve in voice"
+    }
+  ]
+}

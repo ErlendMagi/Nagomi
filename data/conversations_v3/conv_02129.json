@@ -1,0 +1,79 @@
+{
+  "id": "conv_02129",
+  "context": "Hina-young helps Hiroshi-elder cross a street; gentle care moment.",
+  "purpose": "Teen helping elder with everyday street action.",
+  "ambient": "street_corner_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "後ろ",
+    "飲む",
+    "読め",
+    "カフェ",
+    "たった",
+    "同じく",
+    "居",
+    "降り"
+  ],
+  "cast": [
+    "hina_child",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_107)",
+    "generated_at": "2026-05-27T16:32:22.189Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ひな、後ろ、ようけ気をつけてな。",
+      "en": "Hina, watch behind you carefully, will you?",
+      "style": "Slow, patient Kansai drawl. Warm and protective but not hovering. Soft tap on the warning, then settling back into ease. The voice of someone who trusts her to listen.",
+      "mood": "caring_watchful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、おじいちゃん、カフェ、寄ろうか?",
+      "en": "Yeah — grandpa, should we stop at a café?",
+      "style": "Bright and eager, the lightness of a child who's just had a good idea. Quick uptake on \"café.\" Hopeful lilt at the end—checking if he wants to, not demanding.",
+      "mood": "curious_eager"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、お茶、飲み、ええな。",
+      "en": "Yeah, a cup of tea sounds nice.",
+      "style": "Warm acceptance, no hesitation. Soft Kansai cadence. A gentle smile in the voice—this is a small pleasure, and he's genuinely pleased to share it.",
+      "mood": "content"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "メニュー、読めるよ、見せて?",
+      "en": "I can read the menu—want me to show you?",
+      "style": "Proud and helpful, eager to be useful. Quick, clear delivery. A slight lean forward in the voice—wanting to help, not showing off.",
+      "mood": "eager_helpful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "たった、二、三品、もろうたら、ええ。",
+      "en": "Just a couple of things will do fine for me.",
+      "style": "Gentle, undemanding. Kansai warmth threaded through. Slight trailing-off—not wanting to be trouble, content with small portions and quiet company.",
+      "mood": "humble_content"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "同じく、頼みます!",
+      "en": "Same for me, please!",
+      "style": "Bright, copying his ease. Quick and decided. The warmth of matching someone you trust—no fuss, just agreement and joy in the simplicity.",
+      "mood": "happy_content"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "居心地、ええ場所やな。",
+      "en": "This is a really nice place, isn't it?",
+      "style": "Soft, settling observation. Kansai lilt. Quiet satisfaction in the tone—looking around, noticing the comfort of being here together. Not asked as a question, more like thinking aloud.",
+      "mood": "peaceful_content"
+    }
+  ]
+}

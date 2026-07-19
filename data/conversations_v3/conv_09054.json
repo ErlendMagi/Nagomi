@@ -1,0 +1,86 @@
+{
+  "id": "conv_09054",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 乗り出し/幾何/高揚/恣意/乖離/排他/占拠/屈辱",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "乗り出し",
+    "幾何",
+    "高揚",
+    "恣意",
+    "乖離",
+    "排他",
+    "占拠",
+    "屈辱"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_454 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、新治療法に乗り出した医療チームの取り組みをお伝えします",
+      "en": "Ren, I want to tell you about the new treatment approach our medical team is undertaking.",
+      "style": "Clear, professional opening. Steady eye contact. Warm but measured — this is important information being delivered by someone who has delivered it many times before.",
+      "mood": "composed_informative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療画像の幾何学的解析を医療チームで進めます",
+      "en": "Yes — we're advancing geometric analysis of medical imaging as a team.",
+      "style": "Even tone, unhurried. A slight pause before the explanation, like she's choosing her words carefully for clarity. Confident but not rushed.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "回復期の患者さんの高揚感を、貴院、慎重にケアされてますね、先生",
+      "en": "You notice how carefully your hospital handles the hope that comes with recovery, don't you, Doctor?",
+      "style": "Genuine curiosity, almost wondering aloud. Respectful but not deferential. Soft pace, seeking confirmation of something he's observed.",
+      "mood": "thoughtfully_perceptive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、診断の恣意性を防ぐ仕組みを医療チームで強化します",
+      "en": "Yes — we're reinforcing our systems to prevent bias in diagnosis across the entire team.",
+      "style": "Matter-of-fact commitment. Light emphasis on 'reinforce.' Calm delivery that suggests this is ongoing work, not a finished solution.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "検査結果と症状の乖離を、貴院、丁寧にご説明されますね、先生",
+      "en": "And when test results don't match what patients are feeling, your hospital takes real time to explain that gap, doesn't it?",
+      "style": "Thoughtful, almost reflective. Not a question expecting a quick answer. Slight warmth — he's expressing something he respects about her practice.",
+      "mood": "appreciative_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、排他的な医療体制を医療チームで改めます",
+      "en": "Yes — we're working to reshape our medical systems so they're truly inclusive for everyone.",
+      "style": "Quiet resolve underlying the words. Not defensive, but firm. The clarity of someone who has thought about this deeply.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "避難所が占拠された場合の医療支援を、貴院、想定されてますね、先生",
+      "en": "Even for emergency shelters, if they're overwhelmed — your hospital already plans for how to support people medically, I imagine?",
+      "style": "Gentle question, carefully framed. Not testing her — genuinely wondering. Respectful pace, the tone of someone thinking through a difficult scenario out loud.",
+      "mood": "thoughtfully_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんの屈辱感を癒すメンタルケアを医療チームで重視します",
+      "en": "Yes — our team prioritizes mental care that heals the shame and indignity patients sometimes carry.",
+      "style": "Close, intimate tone despite clinical content. Words land softly. The emphasis on 'heal' carries genuine compassion underneath the professional delivery.",
+      "mood": "tender_committed"
+    }
+  ]
+}

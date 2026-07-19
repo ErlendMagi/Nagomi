@@ -1,0 +1,75 @@
+{
+  "id": "conv_01613",
+  "context": "Mei and Daichi argue gently about household chores; resolve warmly.",
+  "purpose": "Marital tension lovingly worked through.",
+  "ambient": "kitchen_evening_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "手伝う",
+    "分担",
+    "不満",
+    "謝る"
+  ],
+  "cast": [
+    "mei_romantic",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_081)",
+    "generated_at": "2026-05-27T06:50:51.012Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "ちょっと、手伝ってほしいな。",
+      "en": "I need your help with something.",
+      "style": "Tender, careful opening. Soft breath before speaking. Warm but not performed — the tone of someone checking if it's safe to ask. Even pace, slight lift at the end like an invitation, not a demand.",
+      "mood": "tender_hesitant"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "え、なんかあった?",
+      "en": "What's going on?",
+      "style": "Light, genuinely curious. Quick response with no edge. Warm undertone — already leaning in. The tone of someone who doesn't need the problem explained to care, just needs to know what matters.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家事の分担、気になってて。",
+      "en": "I've been thinking about how we split the housework.",
+      "style": "Slow, choosing words carefully. Quiet conviction underneath — this matters but she's not angry yet. Slight pause before 'housework' like she's being honest about what's actually bothering her. No accusation, just clarity.",
+      "mood": "thoughtful_vulnerable"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ああ、確かにそうやな。",
+      "en": "Yeah, you're right about that.",
+      "style": "Immediate, no defensiveness. Warm acknowledgment — he's heard her and agrees without making her convince him. Kansai lilt gentle on the dialect. The sound of someone who respects what she's saying enough not to argue.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "不満を、ためたくないの。",
+      "en": "I don't want to let it build up inside.",
+      "style": "Vulnerable but steady. Soft exhale before speaking. Not pleading — stating a need with quiet firmness. Slight trailing-off like she's relieved to finally say it. The tone of someone who knows what happens if she stays silent.",
+      "mood": "honest_afraid"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "すまんかった、もっと手伝うわ。",
+      "en": "I'm sorry. I'll do more.",
+      "style": "Genuine apology — not defensive, not over-performing. Warm, quick acknowledgment of his part. Kansai accent warm and present. The sound of someone who heard her and is already shifting, not just agreeing to end the conversation.",
+      "mood": "sincere_committed"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ありがとう、嬉しい。",
+      "en": "Thank you. That means a lot to me.",
+      "style": "Soft relief in the opening. Genuine gratitude — not performed, just felt. Warm, grounded tone. Slight pause before the second phrase like she's letting herself believe he meant it. The sound of someone whose worry just eased a little.",
+      "mood": "relieved_grateful"
+    }
+  ]
+}

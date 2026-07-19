@@ -1,0 +1,87 @@
+{
+  "id": "conv_00002",
+  "context": "Saturday morning in a family kitchen. Mom is packing lunch, Dad is on the floor with the cat, and the eight-year-old has just noticed something missing.",
+  "purpose": "domestic comedy / shared problem-solving — light family warmth",
+  "ambient": "apartment_indoor",
+  "sound_effects": [],
+  "target_vocab": [
+    "どう",
+    "見る",
+    "本当に",
+    "また",
+    "ある",
+    "ない",
+    "人",
+    "言う"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (hand-seeded reference)",
+    "generated_at": "2026-05-26T20:18:00Z",
+    "source_plan_row": "conv_181"
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "ねえ、私のうさぎ、どこ？",
+      "en": "Hey, where's my bunny?",
+      "style": "Mild morning urgency from an eight-year-old. Voice lifts at the end. Not yet upset — just locating an adult to delegate to.",
+      "mood": "asking"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うさぎ？昨日どこに置いたの？",
+      "en": "Your bunny? Where did you put it yesterday?",
+      "style": "Practiced mom-tone. Half-listening, hands still working. The question is gentle but already redirecting the search back to the kid.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "わかんない！本当にないんだもん。",
+      "en": "I dunno! It's really not anywhere.",
+      "style": "Volume up half a notch. A tiny stamp inside the voice. Borderline tears but not crossed yet.",
+      "mood": "escalating"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ちょっと見てごらん、テレビの後ろ。多分そこにあるよ。",
+      "en": "Take a look behind the TV. It's probably there.",
+      "style": "Warm, calm, half-laughing. The voice of someone who has run this exact rescue before. From floor level, unhurried.",
+      "mood": "amused"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "あっ！…あった！",
+      "en": "Oh! …Found it!",
+      "style": "Pure relief, sharp lift on 「あっ」, then quieter, almost embarrassed by her own panic.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ね、また同じところでしょ。何回言ったか。",
+      "en": "See? Same place as always. How many times have I said it.",
+      "style": "Half-smile in the tone. Light teasing, no edge. The 「ね」 is the warm I-told-you-so.",
+      "mood": "teasing"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "見つけたら、ありがとうって言う人になろうね、ひな。",
+      "en": "When you find it, you say 'thank you' — that kind of person, okay Hina?",
+      "style": "Mock-serious, eyebrows raised in the voice. The dad-joke energy of someone fishing for affection.",
+      "mood": "playful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、お父さん！",
+      "en": "Thank you, Daddy!",
+      "style": "Loud, theatrical, performing it back at him. Both of them in on the bit. JP and EN: same lifted-up performance.",
+      "mood": "performative"
+    }
+  ]
+}

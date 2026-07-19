@@ -1,0 +1,86 @@
+{
+  "id": "conv_06346",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 立ち入り/来客/注釈/痕跡/痕/に当たる/成っ/時として",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "立ち入り",
+    "来客",
+    "注釈",
+    "痕跡",
+    "痕",
+    "に当たる",
+    "成っ",
+    "時として"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_319 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "立ち入り禁止区域、警告、徹底しろ。",
+      "en": "Enforce strict warnings on restricted areas. No exceptions.",
+      "style": "Clipped authority. Each phrase a separate command. Cold and measured. No room for misunderstanding.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。来客への案内、明確に行います。",
+      "en": "Understood. I'll make the visitor briefings crystal clear.",
+      "style": "Respectful nod in the voice. Professional tempo. Slight pause before each commitment—he's checking himself against the standard.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書の注釈、細かく確認しろ。",
+      "en": "Check the contract annotations closely. Every detail.",
+      "style": "Deliberate weight on each word. Not rushed. The tone of someone who knows oversights become liabilities.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。過去の不正の痕跡、念入りに調査します。",
+      "en": "Understood. I'll investigate any traces of past irregularities thoroughly.",
+      "style": "Steady assurance. He leans into the word 'thoroughly'—this matters. No shortcuts in his delivery.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "システムに残る痕、消去手順、整えろ。",
+      "en": "Establish clear procedures for removing system records. Immediately.",
+      "style": "Final-sounding. The clip of someone closing a file. Precise diction. No elaboration needed.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。再発予防に当たる施策、まとめます。",
+      "en": "Yes. I'll compile preventative measures to stop this from happening again.",
+      "style": "Quiet certainty. He's absorbed the weight of what's being asked. Measured breathing. Commits without drama.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業績、好調に成っているな。",
+      "en": "Performance is tracking well.",
+      "style": "Observation more than approval. Slight pause after—he's weighing something. Not quite satisfied, but seeing the improvement.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。時として、判断、即決を求められます。",
+      "en": "Yes. Sometimes I'm called on to make quick decisions.",
+      "style": "Careful. A small admission beneath the surface. He's testing whether the boss will hear what he's not quite saying.",
+      "mood": "cautious"
+    }
+  ]
+}

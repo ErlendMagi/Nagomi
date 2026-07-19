@@ -1,0 +1,62 @@
+{
+  "id": "conv_00774",
+  "context": "Dr. Saito advises Kenji on managing work stress.",
+  "purpose": "doctor-patient stress consultation",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "健康",
+    "意識",
+    "休む",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_039)",
+    "generated_at": "2026-05-27T01:50:32.806Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "健次さん、仕事、忙しいですか？",
+      "en": "Kenji-san, how's work treating you these days?",
+      "style": "Measured, professional opening. Soft curiosity in the question—she's asking as a doctor who notices, not interrogating. Warm but clear, the composure of someone who listens for a living.",
+      "mood": "attentive_professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "少し、疲れてます、最近。",
+      "en": "A little worn out, if I'm honest. Lately especially.",
+      "style": "Quiet admission. He's testing whether it's safe to say it. Slight vulnerability underneath the politeness—tired enough that the mask slips a fraction. Not complaining, just being truthful.",
+      "mood": "weary_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "休む意識、健康のために、大切です。",
+      "en": "Rest matters more than you probably think—for your health, I mean.",
+      "style": "Gentle directness. Not lecturing. She's seen enough burnout to know this needs saying, and says it with steady care. A doctor's advice delivered like a friend's concern.",
+      "mood": "caring_clear"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "分かりました。気を付けます。",
+      "en": "I understand. I'll take better care of myself.",
+      "style": "Sincere acceptance. He means it—the conversation landed. No defensiveness. Quiet commitment in his tone, reassuring her that he heard.",
+      "mood": "receptive_resolute"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理せず、よろしく。",
+      "en": "Don't push yourself too hard. Take care of yourself.",
+      "style": "Closing warmth. A final check-in delivered gently, almost tender. She's releasing him into the world with a reminder that matters. The ease of someone who has said this a hundred times and means it every time.",
+      "mood": "tender_concerned"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09292",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 不謹慎/憤慨/貫通/弱体/降下/命中/至難/浴びせ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "不謹慎",
+    "憤慨",
+    "貫通",
+    "弱体",
+    "降下",
+    "命中",
+    "至難",
+    "浴びせ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_466 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者ご家族の前で不謹慎な発言は警察、絶対に避けますね",
+      "en": "We absolutely won't make inappropriate remarks in front of the victim's family.",
+      "style": "Measured, slightly formal. Quiet acknowledgment of protocol. Steady pace, no hesitation. The voice of someone checking a difficult box.",
+      "mood": "respectful_measured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民の憤慨に丁寧に応えます",
+      "en": "The police respond carefully to public anger.",
+      "style": "Official but not cold. Even cadence, controlled. A statement of commitment rather than defense. Brief pause before speaking.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、弾丸が壁を貫通した跡を警察、確認されましたね",
+      "en": "The police confirmed the bullet hole through the wall, didn't they.",
+      "style": "Careful observation. Quiet curiosity underneath the formal tone. Slight lilt of question at the end despite the period. Gathering facts methodically.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、組織が弱体化した時こそ警戒します",
+      "en": "When an organization weakens, the police stay vigilant.",
+      "style": "Firm principle stated plainly. Weight on 'stay vigilant.' No apology in the tone. Measured and resolute.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、ヘリで降下する応援要員も警察、用意されてますね",
+      "en": "Backup units are being prepared to descend by helicopter, aren't they.",
+      "style": "Confirming operational detail with respect. Steady, almost clinical. Question mark at the end carries genuine inquiry, not skepticism.",
+      "mood": "analytical_procedural"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯人特定の精度が命中するまで捜査します",
+      "en": "The investigation continues until we identify and locate the suspect.",
+      "style": "Determined, methodical. Even pressure throughout. No rush, no doubt. The voice of someone stating what will happen, not what might.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、犯人逮捕は至難の状況でしたね、警察",
+      "en": "Arresting the suspect was an extremely difficult situation.",
+      "style": "Acknowledgment of gravity. Quiet, respectful pause before 'extremely.' No inflection of complaint—statement of fact. Slight fadeout on the period.",
+      "mood": "grave_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民への罵声を浴びせる行為を厳しく取り締まります",
+      "en": "The police will strictly enforce laws against verbal abuse toward citizens.",
+      "style": "Hard edge beneath professional composure. Steady declaration. Emphasis on 'strictly.' No room for interpretation. Final statement, closed case.",
+      "mood": "firm_determined"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06371",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 漏洩/細菌/噴火/波及/苦戦/スキャンダル/万一/同調",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "漏洩",
+    "細菌",
+    "噴火",
+    "波及",
+    "苦戦",
+    "スキャンダル",
+    "万一",
+    "同調"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_320 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "情報漏洩、警察庁、本格的に調査開始しました。",
+      "en": "We've launched a full investigation into the information leak with the National Police Agency.",
+      "style": "Measured, official but not cold. Clear enunciation on the key facts. Steady pace. No apology in the tone — this is procedural, competent work.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病院では、細菌感染も、注意点ですね。",
+      "en": "At hospitals, bacterial infection is another thing to watch out for, isn't it?",
+      "style": "Thoughtful, genuinely interested. Soft lilt upward on the question particle. Leaning forward slightly — connecting the dots aloud, not lecturing.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。今月、噴火警報、別件で出ています。",
+      "en": "Yes. We also had an eruption alert issued this month — separate issue.",
+      "style": "Crisp, informative. No inflection on the separateness — just stating fact. Professional distance. Slight pause before \"separate\" to mark the pivot.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "金融への波及、業界全体で警戒、必要ですね。",
+      "en": "The financial sector needs the whole industry to stay vigilant about the ripple effects.",
+      "style": "Careful, almost cautious in the phrasing. Not urgent, but serious underneath. Slight hesitation before \"vigilant\" — choosing the right word matters here.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査、苦戦している地域もあります。",
+      "en": "Yes. There are some areas where the investigation is hitting obstacles.",
+      "style": "Steady, honest acknowledgment. No defensiveness, but quiet professionalism — this is how work actually goes. Even pace, slight weight on \"obstacles.\"",
+      "mood": "realistic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "政治のスキャンダル、メディアが大々的に報じてますね。",
+      "en": "The media's given the political scandal pretty heavy coverage.",
+      "style": "Observational, almost neutral. Not gossipy — just noting what's happened. Light, conversational tone. The slight tilt of someone tracking public conversation.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "万一に備え、警備、強化しています。",
+      "en": "We're strengthening security just in case something escalates.",
+      "style": "Factual, no melodrama. Calm reassurance in the delivery. This is precaution, not panic. Even breath, clear priority in the phrasing.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "業界、警察の声に同調する動き、ありますか。",
+      "en": "Is the industry moving to align itself with the police position on any of this?",
+      "style": "Genuinely probing. Slight upward lilt on the question — really wanting the answer. Lean-in quality. Smart follow-up, not accusatory.",
+      "mood": "inquisitive"
+    }
+  ]
+}

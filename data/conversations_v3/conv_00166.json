@@ -1,0 +1,83 @@
+{
+  "id": "conv_00166",
+  "context": "A weekday afternoon at the local coffee shop. Officer Takeda and Dr. Saito both happen to be off-shift; they recognize each other from a community event.",
+  "purpose": "two community professionals in a casual moment — service identities relaxing briefly",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "偶然",
+    "休み",
+    "最近",
+    "仕事",
+    "大変"
+  ],
+  "cast": [
+    "takeda_officer",
+    "saito_doctor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_009)",
+    "generated_at": "2026-05-26T19:25:31.781Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "あ、斎藤先生じゃないですか。",
+      "en": "Oh, isn't that Dr. Saito?",
+      "style": "Officer recognition, professional measured warmth, slight surprise lifting the question into friendly greeting territory.",
+      "mood": "recognizing-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "武田さん、奇遇ですね。",
+      "en": "Takeda-san, what a coincidence.",
+      "style": "Doctor warm settled greeting, the professional voice softened by being off-duty, real pleasure in the meeting.",
+      "mood": "warmly-settled"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は休みで。久しぶりにコーヒー。",
+      "en": "I'm off today. First coffee in a while.",
+      "style": "Officer relaxed register, the uniform-energy laid down for the day, simple human warmth coming through.",
+      "mood": "relaxed-human"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "私も。最近忙しくて、なかなか。",
+      "en": "Me too. Lately so busy, hard to find time.",
+      "style": "Doctor honest weary admission, the professional shell loosening, warmth and fatigue mixed in delivery.",
+      "mood": "wearily-honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お互い大変ですね。",
+      "en": "We've both got it tough, huh.",
+      "style": "Officer recognizing solidarity, peer-to-peer acknowledgment without complaint, brief warm honest weight in voice.",
+      "mood": "solidarity-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に。でもこういう時間が大事ですよね。",
+      "en": "Truly. But times like this matter, right?",
+      "style": "Doctor reflective warmth, the question seeking shared affirmation, soft conviction in the careful pacing.",
+      "mood": "reflectively-affirming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "まったく同感です。",
+      "en": "I completely agree.",
+      "style": "Officer firm warm agreement, the certainty carried in the steady reliable voice, no hesitation present.",
+      "mood": "firmly-agreeing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "またゆっくり話しましょう。",
+      "en": "Let's talk slowly again sometime.",
+      "style": "Doctor gentle closing, sincere invitation extended, the warmth carrying genuine intent to continue the acquaintance.",
+      "mood": "gently-inviting"
+    }
+  ]
+}

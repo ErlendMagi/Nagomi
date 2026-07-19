@@ -1,0 +1,68 @@
+{
+  "id": "conv_00144",
+  "context": "A bright autumn afternoon at the park. Hina has found a red leaf and is showing it proudly to her grandfather Goro on the bench.",
+  "purpose": "small wonder shared between child and grandparent — affection through attention",
+  "ambient": "park_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "見る",
+    "本当",
+    "葉っぱ",
+    "ありがとう"
+  ],
+  "cast": [
+    "hina_child",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おじいちゃん、見て見て！すごく赤いよ！",
+      "en": "Grandpa, look look! It's really red!",
+      "style": "High child pitch racing forward with delight, the second 「見て」 spiking even brighter than the first.",
+      "mood": "thrilled"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "おお、本当だ。きれいな葉っぱだなあ。",
+      "en": "Oh, really now. What a pretty leaf.",
+      "style": "Low warm grandpa voice, slow approving exhale, the 「なあ」 stretched out with gentle pride.",
+      "mood": "warm-approving"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一番きれいなの選んだの！",
+      "en": "I picked the prettiest one!",
+      "style": "Quick proud burst, child voice climbing on 「一番」 with a small triumphant lift.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "うん、よく見つけたね。ひなちゃんは目がいいなあ。",
+      "en": "Yes, you found it well. Hina has a good eye.",
+      "style": "Soft chuckle threaded through the praise, deliberate elder pacing on each compliment landing gently.",
+      "mood": "doting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えへへ、ありがとう。じゃあ、おじいちゃんにあげる！",
+      "en": "Heehee, thank you. Then, I'll give it to grandpa!",
+      "style": "Bright giggling chirp, then a generous decisive offering tone on the second half quickening forward.",
+      "mood": "generous-happy"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "いいのかい？大事にするよ。ありがとうな。",
+      "en": "Are you sure? I'll treasure it. Thank you.",
+      "style": "Tender slow grandpa cadence, slight catch on the thanks, real gratitude in a quiet weighted voice.",
+      "mood": "touched"
+    }
+  ]
+}

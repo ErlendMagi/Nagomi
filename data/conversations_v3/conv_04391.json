@@ -1,0 +1,84 @@
+{
+  "id": "conv_04391",
+  "context": "A uni student interviews a doctor about cutting-edge research",
+  "purpose": "Teach: 死体/生存/先端/誤っ/牛肉/サイエンス/欲求/上下",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "死体",
+    "生存",
+    "先端",
+    "誤っ",
+    "牛肉",
+    "サイエンス",
+    "欲求",
+    "上下"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、本日はお時間いただきありがとうございます。最先端の研究について伺いたいのですが。",
+      "en": "Professor, thank you for your time today. I'd like to ask about your cutting-edge research.",
+      "style": "Polite student greeting at the start of an interview"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、どうぞ。今うちの研究室では、極限環境での細胞の生存メカニズムを調べているんです。",
+      "en": "Yes, please go ahead. Our lab is currently investigating cell survival mechanisms in extreme environments.",
+      "style": "Calm, authoritative doctor introducing his research focus"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "生存メカニズムですか。具体的にはどんな試料を扱っていらっしゃるんですか?",
+      "en": "Survival mechanisms, I see. Specifically, what kind of samples do you handle?",
+      "style": "Curious follow-up question with respectful inquisitive tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "主に動物の死体から採取した組織ですね。比較対象として、スーパーで買える牛肉の筋繊維も使っています。",
+      "en": "Mainly tissue collected from animal carcasses. As a comparison, we also use beef muscle fibers you can buy at the supermarket.",
+      "style": "Matter-of-fact technical explanation by experienced researcher"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "牛肉まで使うんですか。サイエンスって本当に奥が深いんですね、もっと知りたくなります。",
+      "en": "You even use beef? Science really is deep, isn't it — it makes me want to know more.",
+      "style": "Enthusiastic young student showing genuine excitement and admiration"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "実は数年前、温度設定を誤ってしまって、サンプルを全部だめにしたこともあるんですよ。",
+      "en": "Actually, a few years ago I mistakenly set the wrong temperature and ruined all the samples.",
+      "style": "Humble anecdotal confession with a slight self-deprecating laugh"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先生でもそんなことが。失敗したときって、気分はかなり上下するものですか?",
+      "en": "Even you have moments like that. When you fail, do your spirits swing up and down a lot?",
+      "style": "Mildly surprised, thoughtful question probing the human side"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、気分は毎日上下しますよ。でも、知りたいという欲求があれば、また前に進めるんです。",
+      "en": "Yes, my mood goes up and down every day. But as long as you have the desire to know, you can move forward again.",
+      "style": "Reflective senior advice spoken with warm encouraging sincerity"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "知的欲求ですね。今日のお話、すごく刺激になりました。ありがとうございました。",
+      "en": "Intellectual desire, right. Today's talk was really inspiring. Thank you very much.",
+      "style": "Grateful closing remark from an inspired student wrapping up"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00791",
+  "context": "Yumiko helps Hina count to ten thousand using cookies.",
+  "purpose": "mother-child counting math exchange",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "万",
+    "一緒",
+    "楽しい",
+    "数",
+    "頑張る"
+  ],
+  "cast": [
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_040)",
+    "generated_at": "2026-05-27T01:57:34.077Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、一万、数えてみる？",
+      "en": "Hina-chan, why don't you try counting to ten thousand?",
+      "style": "Warm, patient invitation. Soft opening, the voice pitched to draw her in without pressure. Gentle downward slope on the question — genuinely curious if she'll try, not testing her.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えー、一万、すごく、多い。",
+      "en": "Uh — ten thousand? That's so many.",
+      "style": "Bright surprise with a hint of overwhelm. The number lands heavy. Quick, rising pitch on the first sound, then a small laugh of disbelief mixed with excitement.",
+      "mood": "amazed_hesitant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "百、千、一万。一緒に、数えよう。",
+      "en": "Hundred, thousand, ten thousand. Let's count together, yeah?",
+      "style": "Clear, rhythmic. Each number lands with gentle emphasis — building the scale. Warm reassurance threading through. The invitation is sincere: you're not alone in this.",
+      "mood": "warm_inclusive"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一、二、三…。楽しい、数。",
+      "en": "One, two, three… Numbers are fun.",
+      "style": "Counting voice: deliberate, bright, each number its own beat. Then a small discovery at the end — genuine delight that this is actually enjoyable. Slight wonder in the trailing thought.",
+      "mood": "delighted_engaged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "頑張ってる。続けようね。",
+      "en": "You're doing so well. Keep going, okay?",
+      "style": "Genuine praise, quiet and real. No inflation. A slight lean forward — she's watching and rooting. The encouragement sits beneath, not forced. Soft, affirming close.",
+      "mood": "proud_warm"
+    }
+  ]
+}

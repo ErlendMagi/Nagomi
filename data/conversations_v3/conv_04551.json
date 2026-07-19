@@ -1,0 +1,78 @@
+{
+  "id": "conv_04551",
+  "context": "A police officer briefs a teen reporter on a council vote",
+  "purpose": "Teach: 議決/選出/諮問/選任/合法/反し/不利/地方自治体",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "議決",
+    "選出",
+    "諮問",
+    "選任",
+    "合法",
+    "反し",
+    "不利",
+    "地方自治体"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_229 workflow wjoc5dipz)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、市役所の前の交番だ。記者さん、今日の議決のことを聞きたいんだって？",
+      "en": "Ah, this is the police box in front of city hall. So, reporter, you wanted to ask about today's vote?",
+      "style": "Friendly neighborhood police officer, warm welcoming tone, slightly gruff but approachable"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい！警察の立場から、委員の選出ってどう見えてるんですか？",
+      "en": "Yes! From a police perspective, how does the committee selection look to you?",
+      "style": "Eager teen reporter, polite but curious, slightly fast-paced upward delivery"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "うーん、警備の担当としては、諮問の段階から会場の安全を見てる感じかな。",
+      "en": "Hmm, as the security officer in charge, I've been watching venue safety since the advisory stage.",
+      "style": "Thoughtful officer tone, casual conversational pace, slight pause mid-sentence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、選任の手続きって、ちゃんと合法に進んでるんですよね？",
+      "en": "Um, the appointment procedures are being carried out legally, right?",
+      "style": "Slightly anxious teen voice, seeking reassurance, rising intonation at end"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そこは大丈夫だ。ルールに反したことがあれば、俺たちが真っ先に動くからな。",
+      "en": "That part's fine. If anything broke the rules, we'd be the first to step in.",
+      "style": "Reassuring paternal officer voice, calm steady pace, slight chuckle"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "良かったあ…変な噂が立つと、市民にとっても不利ですもんね。",
+      "en": "Oh good... if weird rumors spread, it'd be bad for the citizens too, right?",
+      "style": "Relieved teen voice, soft exhale at start, slower reflective pace"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだな。地方自治体ってのは、住民の信用で成り立ってるからな。",
+      "en": "That's right. Local governments stand on the trust of their residents, after all.",
+      "style": "Reflective senior officer tone, lowered warm voice, paternal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強になりました！今日のお話、しっかり記事にしますね。",
+      "en": "I learned a lot! I'll make sure to put today's talk into a proper article.",
+      "style": "Bright sincere teen voice, energetic grateful closing, cheerful and bright"
+    }
+  ]
+}

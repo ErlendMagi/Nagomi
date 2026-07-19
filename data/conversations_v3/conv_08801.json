@@ -1,0 +1,86 @@
+{
+  "id": "conv_08801",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 一寸/やむなく/専ら/例える/かねてから/しなやか/でたらめ/おとなしい",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "一寸",
+    "やむなく",
+    "専ら",
+    "例える",
+    "かねてから",
+    "しなやか",
+    "でたらめ",
+    "おとなしい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、一寸お母さんを手伝ってくれない?",
+      "en": "Sho, would you help Mom with something for a minute?",
+      "style": "Warm, practical tone. Light lift at the end—an invitation, not a demand. She's in the middle of something, needs his hands more than his attention right now.",
+      "mood": "warm_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、雨でやむなくお家にいたよ",
+      "en": "Mom, I had to stay home because of the rain.",
+      "style": "Quiet and matter-of-fact. He's explaining himself without complaint. A small, genuine tone—stating what happened. Slight pause before the 'because,' like he's thinking it through.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは専ら新聞を読まれるのよ",
+      "en": "Sho, your father's been reading the newspaper the whole time.",
+      "style": "Gentle observation, slightly exasperated underneath. Not quite complaining—more noticing out loud. Warm toward her son, a little wry about the father. Steady, familiar tone.",
+      "mood": "gentle_wry"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんが「人生を花に例えると」って仰ってたよ",
+      "en": "Mom, Grandpa was saying something about comparing life to a flower.",
+      "style": "Soft, wondering tone. He's sharing something he heard and found interesting. Not quite understanding it fully, but holding it carefully. Slight emphasis on 'flower' like it matters.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんはかねてから旅行を計画されてたわ",
+      "en": "Sho, your father has been planning that trip for a long time.",
+      "style": "Matter-of-fact acknowledgment. A small sigh underneath—accepting, not resentful. She's telling him something he should know. Warm but slightly distracted, like she's thinking of something else while she speaks.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、しなやかな猫みたいに動きたいよ",
+      "en": "Mom, I want to move like a supple cat.",
+      "style": "Earnest and dreamy. He's testing the idea out loud, seeing if it sounds right. Slight brightness in his voice—he likes this thought. Not demanding, just wondering aloud.",
+      "mood": "dreamy_earnest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、でたらめなお話は信じないようにね",
+      "en": "Sho, don't believe every nonsense story you hear.",
+      "style": "Gentle firmness. A small laugh underneath—she's not angry, just gently redirecting. She knows he's picked something up and she wants to guard him a little. Warm but clear.",
+      "mood": "gently_firm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、おとなしい子だってお祖父ちゃんが仰ったよ",
+      "en": "Mom, Grandpa said I'm a quiet kid.",
+      "style": "Simple pride. He's saying it like he understands it now. Small smile in his voice—pleased that someone noticed him that way. Ends with a gentle landing, no seeking approval—just sharing something true.",
+      "mood": "quiet_pride"
+    }
+  ]
+}

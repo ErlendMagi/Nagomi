@@ -1,0 +1,78 @@
+{
+  "id": "conv_03623",
+  "context": "A shop manager Yamada chats with a customer about racquets",
+  "purpose": "Teach: 山田/低く/背中/ラスト/コート/ヒント/店長/争い",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "山田",
+    "低く",
+    "背中",
+    "ラスト",
+    "コート",
+    "ヒント",
+    "店長",
+    "争い"
+  ],
+  "cast": [
+    "kenji_office",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_182 workflow w1xr4xf66)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "いらっしゃいませ。店長の山田です、今日は何をお探しでしょうか。",
+      "en": "Welcome. I'm Yamada, the store manager—what are you looking for today?",
+      "style": "Polite, warm shopkeeper greeting with self-introduction."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あの、テニスのラケットが欲しくて。コートで使う新しいやつ、選び方のヒントもらえますか?",
+      "en": "Um, I want a tennis racquet—a new one for the court. Could I get some hints on how to choose?",
+      "style": "Casual teenage girl asking shyly for advice from shopkeeper."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんです。最近うちで一番人気なのは、軽くて低く飛んでくるボールも返しやすいモデルですよ。",
+      "en": "Of course. Our most popular model recently is light and great for returning low-flying balls too.",
+      "style": "Helpful store manager explaining product features clearly to teen."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ。私、サーブのとき背中が痛くなるんですけど、それでも大丈夫ですか?",
+      "en": "Oh wow. My back hurts when I serve—would that one still be okay for me?",
+      "style": "Teen sharing a personal concern in friendly honest tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それなら振動を吸収するタイプがおすすめです。プロも使っているモデルなので安心ですよ。",
+      "en": "Then I'd recommend the vibration-absorbing type. Even pros use this model, so you can trust it.",
+      "style": "Friendly manager reassuring customer with confident product pitch."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実は来週、地区大会の決勝で優勝争いがあって、ラストチャンスなんです。",
+      "en": "Actually next week there's a title fight in the district finals, and it's my last chance.",
+      "style": "Excited but nervous teenager revealing personal stakes."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは大事な試合ですね。じゃあ予備のガットも一緒にお付けしておきましょう。",
+      "en": "That's an important match. Then let me include a spare set of strings as well.",
+      "style": "Considerate manager offering thoughtful extra service to customer."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、店長さん!絶対勝ってきます!",
+      "en": "Thank you so much, manager! I'm definitely going to win!",
+      "style": "Energetic, grateful teen with bright fierce determination."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05374",
+  "context": "A uni student interviews a retired economic columnist",
+  "purpose": "Teach: 反する/成り立っ/起こら/停滞/弊害/苦しむ/逃れ/迫ら",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "反する",
+    "成り立っ",
+    "起こら",
+    "停滞",
+    "弊害",
+    "苦しむ",
+    "逃れ",
+    "迫ら"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "長年、経済停滞の取材をしてこられたんですよね。",
+      "en": "You've been covering economic stagnation for a long time, haven't you?",
+      "style": "Respectful inquiry, lean forward slightly. Genuine curiosity—not performing deference. Warm enough to set the elder at ease, steady enough to signal this is serious ground.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ。期待と反する結果が起こらないと信じる方が珍しいよ。",
+      "en": "Yes. It's actually rare to find someone who believes the opposite could happen.",
+      "style": "Measured, unhurried. Light weight on 'rare'—not lecturing, just stating fact from decades of watching. Eyes steady, almost looking past the moment into the pattern he's seen repeat.",
+      "mood": "weathered_candid"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "政策の弊害、家計を圧迫することも多いんですか。",
+      "en": "So policy side-effects often put pressure on household budgets too?",
+      "style": "Probing gently, not aggressive. A small hesitation before 'too'—checking if he's on the right track. Notebook-ready but not mechanical; this is thinking out loud with someone who might correct him.",
+      "mood": "uncertain_focused"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。苦しむ世帯が増え、税からの逃れに頭を絞る人も増える。",
+      "en": "Yes. The number of struggling households grows, and so do the people looking for ways to dodge taxes.",
+      "style": "Quiet observation, almost sorrowful. No judgment in the tone, just clarity. Slight exhale after 'yes'—the weight of seeing this cycle repeat. Speaking to himself as much as to the younger man.",
+      "mood": "weary_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "対応に迫られる行政、論理が成り立っているか不安ですね。",
+      "en": "The administrations scrambling to respond—it's hard to know if their logic even holds anymore.",
+      "style": "Thoughtful concern, building slightly. Not anxious—analytical. A small pause before 'logic,' like he's turning the problem over. Voice stays level; the worry lives in what he's *not* saying.",
+      "mood": "troubled_analytical"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "記者として、現場をしっかり見届けることだ。",
+      "en": "As a reporter, your job is to keep your eye on what's actually happening on the ground.",
+      "style": "Settled wisdom, almost gentle. Not a decree—a counsel offered quietly. Slight emphasis on 'actually,' like he's cutting through noise. Trails off with the weight of something he's learned.",
+      "mood": "grounded_wise"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "conv_03426",
+  "context": "A breaking-news segment on a power-plant explosion",
+  "purpose": "Report a disaster; teach 発電/爆発/電力/損害/デモ/受信/知事/表明",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "発電",
+    "爆発",
+    "電力",
+    "損害",
+    "デモ",
+    "受信",
+    "知事",
+    "表明"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_172)",
+    "generated_at": "2026-05-31T21:41:10.917Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "速報です。発電所で爆発がありました。",
+      "en": "Breaking — there was an explosion at a power plant.",
+      "style": "grave teacher delivering urgent news, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "電力供給に影響は出てるんですか？",
+      "en": "Is the power supply affected?",
+      "style": "concerned student asking practically, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "周辺で大きな損害が出ているそうです。",
+      "en": "Major damage is reported in the surroundings.",
+      "style": "somber teen relaying info, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "住民は抗議デモを準備しているようです。",
+      "en": "Residents seem to be preparing protests.",
+      "style": "teacher noting public response, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "速報を受信して、すぐに動かないと。",
+      "en": "We have to receive updates and move quickly.",
+      "style": "student urging action, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "知事はもう声明を表明しました。",
+      "en": "The governor has already issued a statement.",
+      "style": "teen noting the official response, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "政府も対応を急ぐべきです。",
+      "en": "The government should hurry to respond too.",
+      "style": "teacher calling for action, spoken with a recognizable personal cadence"
+    }
+  ]
+}

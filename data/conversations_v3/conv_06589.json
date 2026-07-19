@@ -1,0 +1,86 @@
+{
+  "id": "conv_06589",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 寄稿/半角/尺/収まる/見逃せ/絞る/手すり/低め",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "寄稿",
+    "半角",
+    "尺",
+    "収まる",
+    "見逃せ",
+    "絞る",
+    "手すり",
+    "低め"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_331 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察広報誌、寄稿、企業様にもお願いしております。",
+      "en": "We ask contributions to the police magazine from companies as well.",
+      "style": "Professional, measured delivery. Clear enunciation on facts. Even pace, no urgency. The tone of someone who has explained this process before.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。被害届の書式、半角入力指定、確認しました。",
+      "en": "Yes. I've confirmed the incident report form — half-width character input requirement noted.",
+      "style": "Attentive, businesslike. Slight nod in the voice. Brief and direct. Shows he has read carefully and is ready for the next instruction.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "防犯動画、尺は、三分程度が最適です。",
+      "en": "Crime prevention footage works best at around three minutes.",
+      "style": "Informative and steady. Light emphasis on the time constraint. No inflection of opinion — this is established protocol being stated clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。犯罪統計、来年、収まる傾向、期待しています。",
+      "en": "Yes. We're expecting crime statistics to show improvement next year.",
+      "style": "Earnest, forward-looking. Slight warmth beneath the formal language. He means this — not performing compliance, but genuine hope.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "些細な兆候も、見逃せない、捜査の鉄則です。",
+      "en": "Even small details can't be overlooked — that's an investigative fundamental.",
+      "style": "Firm with quiet weight. Slight pause before the final clause, letting it land. The voice of someone sharing a principle that matters.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者を絞る情報、社内、積極的に提供します。",
+      "en": "Yes. We'll actively share any information that could help narrow down suspects internally.",
+      "style": "Committed, straightforward. No hesitation. The assurance of someone ready to follow through on what he's saying.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "階段の手すり、警察署内も、改修しました。",
+      "en": "We've also renovated the stairway handrails here at the station.",
+      "style": "Matter-of-fact statement of completed work. Light ease in the delivery — a small accomplishment being shared without fanfare.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。来月の予算、低めに見積もって、対応します。",
+      "en": "Yes. We'll estimate next month's budget conservatively and manage accordingly.",
+      "style": "Practical, closing cadence. Acknowledging a constraint and committing to work within it. Brief, with the finality of someone wrapping up.",
+      "mood": "practical"
+    }
+  ]
+}

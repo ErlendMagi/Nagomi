@@ -1,0 +1,86 @@
+{
+  "id": "conv_06004",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 義理/絶好/いたずら/惚れ/忘年会/着せ/クビ/真っ先",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "義理",
+    "絶好",
+    "いたずら",
+    "惚れ",
+    "忘年会",
+    "着せ",
+    "クビ",
+    "真っ先"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、義理のおじちゃん、お正月、来るんだよね?",
+      "en": "Mom, Uncle Daichi is coming for New Year's, right?",
+      "style": "Bright, direct question with genuine curiosity. Quick, eager pace. Seeking confirmation from a trusted source. The lightness of a child who expects a yes.",
+      "mood": "curious_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。寒くないけど、絶好のお正月日和ね。",
+      "en": "Yes. It's cold, but the weather's perfect for New Year's.",
+      "style": "Warm, affirming. Slight maternal ease. Gaze soft, maybe looking at something in the middle distance. The comfort of planning something good with her son.",
+      "mood": "warm_assured"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お友達のいたずらで、教室、汚れちゃった。",
+      "en": "A friend pulled a prank and made a mess of the classroom.",
+      "style": "Quiet, careful disclosure. Sho testing whether this is safe to mention. Slight hesitation before 'prank'—gauging her reaction. Soft, not complaining, just reporting what happened.",
+      "mood": "tentative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "年下の子に惚れちゃう絵本、また借りてきたの?",
+      "en": "Did you check out another picture book about falling for someone younger?",
+      "style": "Light, knowing tone—gentle teasing without edge. A mother who notices what her son is reading. Warm amusement, not judgment. Almost conspiratorial.",
+      "mood": "amused_aware"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "幼稚園で、簡単な忘年会みたいなパーティーするって。",
+      "en": "Kindergarten's having a little year-end party.",
+      "style": "Perking up slightly. Simple enthusiasm—not loud, but present. Forward momentum in the phrasing. The pleasure of sharing something anticipated.",
+      "mood": "bright_anticipating"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "七五三みたいに、着物を着せてあげようか。",
+      "en": "Should I dress you in a kimono, like Shichigosan?",
+      "style": "Tender offer—not pushing, inviting. Warm, intimate tone. The question is as much about imagining him as it is about the clothes. Gentle, attentive.",
+      "mood": "tender_nurturing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さんがクビになったら、心配だな。",
+      "en": "If something happened to Dad's job… I'd be worried.",
+      "style": "Quiet, serious underneath. The worry of a six-year-old who has overheard something and made his own connections. Soft, almost confessional. Pause before the second clause—gathering the courage to say it.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "真っ先に、家族みんなで、お父さん支えるよ。",
+      "en": "If that ever happened, we'd all be there for Dad right away.",
+      "style": "Firm but not dismissive of his worry. Steady assurance—this is a promise. Direct eye contact in her voice. Calm conviction. A mother closing a door on his fear.",
+      "mood": "protective_resolute"
+    }
+  ]
+}

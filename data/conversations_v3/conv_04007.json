@@ -1,0 +1,78 @@
+{
+  "id": "conv_04007",
+  "context": "A senior trains a new hire on customer phone etiquette",
+  "purpose": "Teach: 申し上げる/頂く/了承/何とも/該当/どなた/告知/加わっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げる",
+    "頂く",
+    "了承",
+    "何とも",
+    "該当",
+    "どなた",
+    "告知",
+    "加わっ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今日は電話応対の基本を教えるよ。自分の動作には「申し上げる」を使うのが基本ね。",
+      "en": "Today I'll teach you phone etiquette basics. Use 'mōshiageru' for your own actions.",
+      "style": "Calm senior tone, instructional and measured pace."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。電話を取った時の第一声は何と申し上げればいいですか?",
+      "en": "Yes, please guide me. What should I say first when I pick up the phone?",
+      "style": "Polite junior, slightly nervous but eager to learn."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "「お電話ありがとうございます」だね。それから相手がどなたか必ず確認すること。",
+      "en": "Say 'thank you for calling,' then always confirm who the caller is.",
+      "style": "Measured senior delivery, clear and patient instruction."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もし担当者が不在で、該当する案件の質問を頂いた時はどうすればいいですか?",
+      "en": "If the person in charge is out and I get a question on the relevant matter, what do I do?",
+      "style": "Careful junior question, formal and respectful register."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "「ただいま席を外しております」と伝えて、折り返しお電話する旨のご了承を頂くんだ。",
+      "en": "Say they've stepped away, then get their consent for a callback.",
+      "style": "Steady senior teaching tone, demonstrating exact phrasing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。値段や納期について聞かれたら、なかなか答えにくいですよね。",
+      "en": "I see. Questions about price or deadlines are really hard to answer.",
+      "style": "Thoughtful junior reflecting, slightly worried tone here."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう、即答は危険。社内に事前の告知や確認なしに約束はしないこと。何とも答えられない時は一度切るんだ。",
+      "en": "Right, instant answers are risky. Don't promise without prior internal notice or check. When you can't answer at all, hang up once.",
+      "style": "Firm senior warning, friendly but emphasizing the rule."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。チームに加わったばかりですが、先輩の電話を横で聞いてしっかり覚えます。",
+      "en": "Understood. I just joined the team, but I'll listen to your calls beside you and learn properly.",
+      "style": "Determined junior commitment, respectful and energetic close."
+    }
+  ]
+}

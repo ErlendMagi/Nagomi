@@ -1,0 +1,78 @@
+{
+  "id": "conv_04332",
+  "context": "A uni student interviews a doctor about marine medicine",
+  "purpose": "Teach: イカ/羊/獣/海洋/周波数/計量/結合/生み出す",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "イカ",
+    "羊",
+    "獣",
+    "海洋",
+    "周波数",
+    "計量",
+    "結合",
+    "生み出す"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_218 workflow w4455pikw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、本日は海洋医学についてお話を伺えればと思います。よろしくお願いします。",
+      "en": "Doctor, today I'd like to hear about marine medicine. Thank you for your time.",
+      "style": "Polite student opening, slightly nervous but eager interview tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。海洋生物の体内で起こる化学結合の仕組みは、新薬開発に大きなヒントを生み出すんですよ。",
+      "en": "Likewise. The chemical bonding mechanisms inside marine organisms generate huge hints for new drug development.",
+      "style": "Warm professional voice, measured pacing, confident expert delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。例えばイカの神経からは、どんな成分が抽出できるんでしょうか?",
+      "en": "I see. For example, what kinds of compounds can be extracted from squid nerves?",
+      "style": "Curious follow-up question, leaning forward with genuine interest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "イカの巨大軸索は信号の周波数を測定するのに非常に便利で、神経科学の基礎になっています。",
+      "en": "The squid's giant axon is extremely useful for measuring signal frequencies and underpins neuroscience.",
+      "style": "Lecturing tone, slightly animated, gesturing to illustrate the point"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "計量が難しそうですね。陸の動物、例えば羊や他の獣とは扱い方も全然違うんですか?",
+      "en": "The measurement sounds tough. Is handling them totally different from land animals like sheep or other beasts?",
+      "style": "Thoughtful comparison question, slightly impressed tone, natural conversational flow"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、全く違います。水圧や塩分の影響で、計量機器も特殊なものを使わないといけません。",
+      "en": "Yes, completely different. Due to pressure and salinity, we have to use specialized measurement equipment.",
+      "style": "Patient explanatory tone, slight chuckle at the comparison, professorial"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "将来、僕もそうした研究に関わってみたいです。今日は本当に勉強になりました。",
+      "en": "In the future, I'd love to be involved in that kind of research. I really learned a lot today.",
+      "style": "Inspired closing remark, warm and grateful, youthful enthusiasm shining through"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ぜひ頑張ってください。若い人の発想こそが、次の発見を生み出すんですから。",
+      "en": "Please do your best. It's the ideas of young people that produce the next discoveries.",
+      "style": "Encouraging mentor voice, sincere and kind, soft smile audible"
+    }
+  ]
+}

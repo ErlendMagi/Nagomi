@@ -1,0 +1,62 @@
+{
+  "id": "conv_01083",
+  "context": "Mrs. Mori and Sachiko prepare for the New Year festival.",
+  "purpose": "elderly-women new-year prep exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "正月",
+    "一緒",
+    "伝統",
+    "楽しい",
+    "感謝"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_054)",
+    "generated_at": "2026-05-27T03:42:10.622Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "佐知子さん、正月、もうすぐ。",
+      "en": "Sachiko-san, the new year is coming soon, isn't it.",
+      "style": "Warm, unhurried opener. Gentle anticipation in the voice — the kind of familiar comfort that comes from years of standing at the same threshold together. Soft eye contact, a small smile in the delivery.",
+      "mood": "warm_anticipating"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "伝統の準備、楽しい。",
+      "en": "Getting ready for the traditions — it's always fun.",
+      "style": "Reflective warmth. A small, genuine pleasure in the voice. Slight pause before the dash, like she's savoring the thought. Tender, not performative.",
+      "mood": "content_nostalgic"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "一緒に、準備、しよう。",
+      "en": "Let's get ready together this year too.",
+      "style": "Soft invitation, no pressure underneath it. The kind of ask that assumes yes. Slight lean forward in the voice. Warm and matter-of-fact at once.",
+      "mood": "tender_inclusive"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "感謝、毎年、ね。",
+      "en": "I'm grateful for it — every single year.",
+      "style": "Quieter now. The words carry weight. A slight tremor of genuine emotion underneath — not sadness, but the quiet knowing that these moments matter. Slow, deliberate.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "これからも、続けたい。",
+      "en": "I want to keep on doing this, for as long as I can.",
+      "style": "A promise held gently. Not urgent, but certain. The voice softens on the trailing words. Small but steadfast. The kind of wish you say quietly because it matters too much to perform.",
+      "mood": "tender_determined"
+    }
+  ]
+}

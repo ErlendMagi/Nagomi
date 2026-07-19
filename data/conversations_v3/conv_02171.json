@@ -1,0 +1,79 @@
+{
+  "id": "conv_02171",
+  "context": "Hiroshi-boss reviews a project budget with Yuki-office.",
+  "purpose": "Boss and senior staff reviewing finances.",
+  "ambient": "office_meeting_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "経理",
+    "寄付",
+    "利点",
+    "盛り上がり",
+    "濃い",
+    "隠さ",
+    "中旬",
+    "対応"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_109)",
+    "generated_at": "2026-05-27T17:05:56.872Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "経理、しっかり見直しましょう。",
+      "en": "Let's review the accounting carefully.",
+      "style": "Clear, steady opening. Measured tempo. A brief pause after the directive—not harsh, but expecting focus. The tone of someone who trusts competence but doesn't skip steps.",
+      "mood": "measured_directive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "寄付の枠、増やせますか?",
+      "en": "Could we increase the donation budget?",
+      "style": "Careful phrasing—almost testing the water. Soft, respectful pace. The slight lift at the end is genuine curiosity, not challenge. Someone thinking aloud with her boss, not pushing.",
+      "mood": "thoughtful_tentative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "利点、ちゃんと、計算しよう。",
+      "en": "We should calculate the actual benefits first.",
+      "style": "Thoughtful, deliberate. Light emphasis on 'calculate'—practical mind at work. Warm but not loose. The voice of someone walking through logistics aloud, inviting agreement.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "盛り上がり、対応、必要ですね。",
+      "en": "We'll need to build some momentum around this.",
+      "style": "Engaged but measured. A thread of genuine concern beneath—this matters. Soft delivery, but the conviction is there. Not overstating, just present.",
+      "mood": "engaged_cautious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "中旬まで、隠さず報告を。",
+      "en": "Report back to me by mid-month. No surprises.",
+      "style": "Firmer now, but not cold. Clear expectation wrapped in quiet confidence in her. A light stress on 'report'—accountability, but paired with trust. The brief pause before 'no surprises' carries weight.",
+      "mood": "expectant_trusting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "濃い内容で、しっかり対応。",
+      "en": "Make sure the details are thorough and handled properly.",
+      "style": "Matching his tempo now—composed, professional. A slight lean forward in the voice. Not just agreeing; she's committing. The pace is steady, the tone is anchored.",
+      "mood": "committed_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お前、頼もしい、本当に。",
+      "en": "You've got real competence. I mean that.",
+      "style": "Warmer register than before. The opening is unhurried—he's actually looking at her. A tiny pause before 'I mean that'—not casual praise, but something he's felt for a while. Genuine, unperformed.",
+      "mood": "warm_genuine"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05746",
+  "context": "A boss runs a team meeting",
+  "purpose": "Teach: 久保/浩/茂/竹内/後藤/従い/プロトコル/函",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "久保",
+    "浩",
+    "茂",
+    "竹内",
+    "後藤",
+    "従い",
+    "プロトコル",
+    "函"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_289 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今月の体制、久保さんと浩さんが新プロジェクト主担当。",
+      "en": "This month, Kubo and Hiroshi will lead the new project.",
+      "style": "Brisk, businesslike tone. Clear enunciation on the assignments. No hesitation. The confident opening cadence of someone used to being heard.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。技術側は茂さんと竹内さん。後藤さんがサポート。",
+      "en": "Understood. On the technical side, we have Shigeru and Takeuchi. Goto will provide support.",
+      "style": "Steady, note-taking rhythm. Each item lands with quiet clarity. Professional confirmation without flatness — engaged but precise.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "手順書に従い、改訂版プロトコルを採用しよう。",
+      "en": "We'll follow the standard procedure and implement the revised protocol.",
+      "style": "Measured, directive. Light emphasis on 'revised' — this is the key change. Calm authority. No room for interpretation.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "函館支店からも、社内会議に出席です。",
+      "en": "The Hakodate branch will be joining the internal meeting as well.",
+      "style": "Straightforward informational tone. Matter-of-fact delivery. A simple addition stated without inflection or emphasis.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、進めよう。",
+      "en": "All right. Let's move forward.",
+      "style": "Brief, grounded conclusion. Slight forward momentum — the nod that closes a briefing. Quiet confidence in the team.",
+      "mood": "resolute"
+    }
+  ]
+}

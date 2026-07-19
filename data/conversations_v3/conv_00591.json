@@ -1,0 +1,62 @@
+{
+  "id": "conv_00591",
+  "context": "Sachiko's regular checkup. Saito notes her overall improvement since the baby news.",
+  "purpose": "small ongoing doctor-elder relationship",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "健康",
+    "感謝",
+    "安心",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_030)",
+    "generated_at": "2026-05-27T00:48:29.003Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お祖母様、本当に、お元気そうで、安心しました。",
+      "en": "Grandmother, I'm truly relieved to see you looking so well.",
+      "style": "Warm professional opening with genuine care underneath. Steady, clear voice. Slight pause before \"truly\" — the sincerity is intentional, not automatic. Gentle throughout.",
+      "mood": "warm_relieved"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お陰様で。曾孫の話、聞いてから、もっと、元気になった気がして。",
+      "en": "Thanks to you all. Ever since I heard about the great-grandchild, I've felt even more energetic.",
+      "style": "Soft, unhurried delivery. Voice lifts slightly on \"great-grandchild\" — the brightness is genuine, not performed. Trailing warmth at the end, like the news still glows inside her.",
+      "mood": "joyful_energized"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "嬉しいことが、本当に、いい薬。",
+      "en": "Happy things are truly the best medicine.",
+      "style": "Quiet wisdom. Slight pause before \"truly\" — not lecturing, reflecting. Warm but measured. The kind of remark that lands because it's simple and she means it.",
+      "mood": "wise_warm"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に。先生にも、いつも、感謝してます。",
+      "en": "They really are. I'm always grateful to you, Doctor.",
+      "style": "Genuine gratitude without performance. Soft, steady voice. The \"always grateful\" lands with quiet weight — this is real, not just politeness. Gentle, unhurried.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。お大事にね。",
+      "en": "The feeling is mutual. Please take good care of yourself.",
+      "style": "Professional warmth with personal care woven through. Even tempo. The \"take good care\" is genuine concern, not formulaic — she means it because she's seen her. Soft close.",
+      "mood": "caring_professional"
+    }
+  ]
+}

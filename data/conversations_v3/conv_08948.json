@@ -1,0 +1,86 @@
+{
+  "id": "conv_08948",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 安売り/値動き/外装/試用/贈呈/発案/損得/取り立て",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "安売り",
+    "値動き",
+    "外装",
+    "試用",
+    "贈呈",
+    "発案",
+    "損得",
+    "取り立て"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_449 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究費を安売りで節約するな",
+      "en": "Ren — don't try to cut corners on the research budget.",
+      "style": "Direct and measured. Slight weight on the prohibition. Not harsh, but the tone of someone who has seen shortcuts before and won't tolerate them. Clear-eyed authority.",
+      "mood": "firm_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の引用数の値動きを記録しております",
+      "en": "Yes. I'm tracking the citation trajectory of the papers.",
+      "style": "Careful, slightly formal. Ren wants to show he understands the depth of what was asked. Small pause before the second sentence — he's thinking, not just repeating. Respectful but not fawning.",
+      "mood": "earnest_attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、論文の外装、つまり表紙にもこだわれ",
+      "en": "Ren — pay attention to the paper's presentation too. The cover matters.",
+      "style": "Instructional, almost gentle. The tone of someone offering a principle, not a rebuke. Slight emphasis on 「外装」 — he's expanding Ren's thinking. Warm underneath the direction.",
+      "mood": "mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。試薬の試用結果を学会で扱いました",
+      "en": "Yes. We presented the reagent trials at the conference.",
+      "style": "Formal, measured. Ren is reporting back — showing he's applied the feedback. Steady pace. No rush. The tone of a student who listens and acts.",
+      "mood": "focused_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、共同研究者への贈呈品を準備しろ",
+      "en": "Ren — prepare gifts for your collaborators.",
+      "style": "Brief, expectant. Direct instruction without elaboration. The confidence of someone who knows Ren will understand why this matters. Tone: professional, slightly warmer than the first line.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究テーマは指導教授の発案でした",
+      "en": "Yes. The research direction came from my advisor's suggestion.",
+      "style": "Respectful acknowledgment. Ren is crediting his mentor — showing humility and clarity about intellectual lineage. Calm, precise. Not defensive, just factual.",
+      "mood": "respectful_clear"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究では損得抜きで真実を追求しろ",
+      "en": "Ren — in research, pursue the truth without calculating gain or loss.",
+      "style": "Solemn and principled. This is the heart of the lesson — spoken with quiet conviction. Slight emphasis on 「真実」. The pace slows. The tone of someone passing down something that matters.",
+      "mood": "earnest_philosophical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の取り立てではなく支援を申請します",
+      "en": "Yes. I'll apply for research support, not for collection purposes.",
+      "style": "Resolved and clear-eyed. Ren understands the ethical distinction now. Slight lift at the end — he's not just obeying, he's committed. Warm undertone of gratitude for the guidance.",
+      "mood": "resolved_grateful"
+    }
+  ]
+}

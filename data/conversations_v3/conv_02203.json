@@ -1,0 +1,79 @@
+{
+  "id": "conv_02203",
+  "context": "Hina-young helps Hiroshi-elder with online registration.",
+  "purpose": "Teen helping grandfather with tech form.",
+  "ambient": "living_room_lamp_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "登録",
+    "名前",
+    "住所",
+    "入力",
+    "欠か",
+    "画面",
+    "丁寧",
+    "焼い"
+  ],
+  "cast": [
+    "hina_child",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_111)",
+    "generated_at": "2026-05-27T17:28:11.025Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おじいちゃん、登録の名前、ここね。",
+      "en": "Grandpa, the registration name goes here.",
+      "style": "Patient and clear, speaking as if to someone less familiar with forms. Warm tone, gentle pace. Pointing finger motion in the voice—attentive without being condescending.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、住所、いるの?",
+      "en": "Yeah—do I need to put in my address?",
+      "style": "Slow, thoughtful question. Kansai warmth underlying the uncertainty. Slight pause before 'address,' genuinely unsure. Soft, engaged curiosity—not frustrated, just checking.",
+      "mood": "curious_uncertain"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "欠かしてしまった、書き直そう。",
+      "en": "Oh, I missed it—let me fill it in again.",
+      "style": "Quick self-correction, a little apologetic. Bright and unflustered. Leaning forward slightly in the voice, already moving to fix it before he notices.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "画面、ようけ細かいなぁ。",
+      "en": "This screen has so many tiny details…",
+      "style": "Gentle Kansai-tinged observation. Slightly bewildered but warm. The voice trails off a little, comfortable sitting with the small frustration. Not complaining—just noticing aloud, the way someone would to a trusted person.",
+      "mood": "mild_bewilderment"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "丁寧に、入力できたよ。",
+      "en": "There—I got it all filled in carefully.",
+      "style": "Quiet pride in the accomplished task. Warm, matter-of-fact delivery. A small satisfied note on 'carefully'—she's done a good job and knows it, without needing to announce it.",
+      "mood": "quiet_proud"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "お前、頼もしい、ほんま。",
+      "en": "You're really reliable, aren't you? Truly.",
+      "style": "Tender affection breaking through. Slow, measured delivery—not casual praise but something that lands. Kansai warmth full and genuine. A small nod lives in this sentence.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "今度、ケーキ、焼いたら、お祝い!",
+      "en": "Next time I bake a cake, we'll celebrate!",
+      "style": "Bright, energetic leap forward. Quick tempo, genuine delight in the promise. Open and generous. The voice lights up—this is an offer of something happy, something that includes him.",
+      "mood": "joyful_inclusive"
+    }
+  ]
+}

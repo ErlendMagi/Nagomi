@@ -1,0 +1,76 @@
+{
+  "id": "conv_00879",
+  "context": "Saito advises Kenji about work-related stress and burden.",
+  "purpose": "doctor-patient work-burden exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "負担",
+    "相談",
+    "健康",
+    "一緒",
+    "大切"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "健次さん、最近の負担、大丈夫？",
+      "en": "Kenji-san, how are you managing with everything lately?",
+      "style": "Gentle opening inquiry. Clear, measured voice—the composed warmth of someone trained to listen. A slight lean forward in tone, checking in without pressing.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "少し、重いです、正直。",
+      "en": "It's been a bit heavy, to be honest.",
+      "style": "Quiet vulnerability breaking through. A slight pause before the admission. Soft on 'heavy'—the word carries real weight. Exhales at the end like he's relieved to say it out loud.",
+      "mood": "burdened_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、家族にも、必要。",
+      "en": "You should talk to your family about this too.",
+      "style": "Direct but not directive. A gentle prescription from someone who has seen what silence costs. Steady eye-contact level in the voice, matter-of-fact care.",
+      "mood": "wise_concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "妻、心配する、性格で。",
+      "en": "My wife—she's the type who worries easily.",
+      "style": "Tender explanation, not excuse. A knowing half-smile in the voice. The protective affection of someone who understands her worry is rooted in love, not criticism.",
+      "mood": "protective_understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、共有する、大切。",
+      "en": "Sharing your health with her matters. It's important.",
+      "style": "Quiet conviction. The voice of gentle insistence—not pushy, but sure. A pause before 'important,' letting the word settle. Warm but clear.",
+      "mood": "wise_steady"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、勇気、出します。",
+      "en": "Yes, I'll find the courage to tell her.",
+      "style": "Resolve gathering. Slower tempo, deliberate. Respect and commitment in equal measure. A small nod audible in the tone—committing to the conversation, to her, to himself.",
+      "mood": "resolved_determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、健康、守ろう。",
+      "en": "Let's protect your health together.",
+      "style": "Closing affirmation, warm and steady. A quiet promise in the voice—not a guarantee, but a commitment from someone who means it. Slow, deliberate, genuine.",
+      "mood": "warm_supportive"
+    }
+  ]
+}

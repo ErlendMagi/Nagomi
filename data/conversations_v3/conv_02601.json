@@ -1,0 +1,75 @@
+{
+  "id": "conv_02601",
+  "context": "Hiroshi-boss reviews daily operations with Yuki.",
+  "purpose": "WIDENED SCENARIO: business ops; operations vocabulary (業務/運営/営業/維持/事務) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "業務",
+    "運営",
+    "営業",
+    "維持",
+    "事務"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_131)",
+    "generated_at": "2026-05-29T13:21:58.443Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今の業務は、順調に運営できているかね?",
+      "en": "Are current operations running smoothly?",
+      "style": "composed boss voice, soft warm authoritative clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、営業も事務も、順調です。",
+      "en": "Yes, both sales and admin are going well.",
+      "style": "reliable office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業務の質を、維持できているね。",
+      "en": "We're maintaining the quality of work.",
+      "style": "measured boss voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "営業チームが、よく頑張っています。",
+      "en": "The sales team is working hard.",
+      "style": "warm office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "事務の負担は、重くないかね?",
+      "en": "Isn't the admin burden heavy?",
+      "style": "caring boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事務の流れを、見直して軽くしました。",
+      "en": "I reviewed the admin flow and lightened it.",
+      "style": "diligent office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "運営を、これからも維持してくれ。",
+      "en": "Keep maintaining operations from here on.",
+      "style": "firm boss voice, soft warm authoritative clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "業務全体を、しっかり支えます。",
+      "en": "I'll firmly support the whole operation.",
+      "style": "resolved office woman voice, soft warm clarity closing throughout"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_03036",
+  "context": "Kenji helps Ren print and total an expense report.",
+  "purpose": "WIDENED SCENARIO: office task; vocabulary (設備/風呂/支払い/印刷/合計) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "設備",
+    "風呂",
+    "支払い",
+    "印刷",
+    "合計"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_152)",
+    "generated_at": "2026-05-29T15:17:45.278Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "経費の報告を、印刷したいんです。",
+      "en": "I want to print the expense report.",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "合計は、もう計算しましたか?",
+      "en": "Have you calculated the total?",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、合計を出しました。",
+      "en": "Yes, I worked out the total.",
+      "style": "reliable young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "支払いの記録も、含めましょう。",
+      "en": "Let's include the payment records too.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "出張先の風呂代も、支払いに入れますか?",
+      "en": "Do I include the trip's bath fees in payments?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "宿の設備代として、入れて下さい。",
+      "en": "Include it as lodging-facility cost.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "印刷して、提出しますね。",
+      "en": "I'll print it and submit it.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "合計が合えば、すぐ通りますよ。",
+      "en": "If the total matches, it'll pass right away.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

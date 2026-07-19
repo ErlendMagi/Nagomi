@@ -1,0 +1,78 @@
+{
+  "id": "conv_03541",
+  "context": "A casual neighborhood chat between a mother and a friendly neighbor about recent comings and goings — they name several local families",
+  "purpose": "Teach: 伊藤/吉田/松本/小林/村上/主婦/タバコ/入り口",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "伊藤",
+    "吉田",
+    "松本",
+    "小林",
+    "村上",
+    "主婦",
+    "タバコ",
+    "入り口"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_178 workflow w1dg68eus)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、ゆみ子さん、お久しぶり。さっきマンションの入り口でタバコ吸ってたの、伊藤さんのご主人だったわよ。",
+      "en": "Oh, Yumiko, long time no see. The one smoking at the apartment entrance just now was Mr. Ito.",
+      "style": "Warm chatty neighbor opening with local gossip"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えー、伊藤さんまだやめてなかったんだ。奥さん、専業主婦で健康にうるさい人だって聞いてたのに。",
+      "en": "Really, Mr. Ito still hasn't quit? I heard his wife is a housewife who's strict about health.",
+      "style": "Casual surprised mom reacting to gossip naturally"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "そうそう。それでね、三階の吉田さん、来月引っ越すんですって。後に松本さん夫婦が入るらしいわよ。",
+      "en": "Right, right. Also, the Yoshidas on the third floor are moving next month. The Matsumotos will move in after.",
+      "style": "Continuing chatty update sharing building news warmly"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "松本さん？あの広報のお仕事してた方？確か上海に転勤されてたって聞いたけど、もう戻られたのね。",
+      "en": "The Matsumotos? The ones in PR work? I heard they were transferred to Shanghai, so they're back already.",
+      "style": "Inquisitive mother connecting dots about acquaintances"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "そう、ご主人ソニーにお勤めでね、戻ってすぐお仕事復帰で、来週から新潟のダムの現場に出張なんですって。",
+      "en": "Yes, her husband works at Sony, back to work right away, and he's off to a Niigata dam site next week.",
+      "style": "Sharing detailed neighborhood info with sympathy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "へえ、忙しいねえ。そういえば小林さんちのお嬢さん、ミニコンサートにエントリーしたんですって。応援してあげたいわね。",
+      "en": "Wow, busy life. Speaking of which, the Kobayashis' daughter entered a mini concert. I want to cheer her on.",
+      "style": "Mom changing topic to share happier local news"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら素敵。あとね、村上さん、バブルの頃の借金がまだ残ってるみたいで、商業ビルのオーナー業も大変そうよ。",
+      "en": "How lovely. Also, Mr. Murakami still has debt from the bubble era, and managing his commercial building seems tough.",
+      "style": "Lowering voice slightly for sensitive money gossip"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そうなのねえ。あ、だんだん気温も下がってきたし、立ち話もこのへんにしましょう。冷えると風邪ひくから、今日はもう帰るね。",
+      "en": "Is that so. Oh, the temperature is dropping, so let's wrap up. I'll catch cold if I get chilled, so I'll head home now.",
+      "style": "Polite mother wrapping up conversation considerately warm"
+    }
+  ]
+}

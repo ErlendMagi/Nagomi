@@ -1,0 +1,78 @@
+{
+  "id": "conv_04400",
+  "context": "A retired trader mentors a younger CEO over coffee",
+  "purpose": "Teach: 工作/発送/送料/到達/定価/稼ぎ/先物/付属",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "工作",
+    "発送",
+    "送料",
+    "到達",
+    "定価",
+    "稼ぎ",
+    "先物",
+    "付属"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "若い頃はね、商品先物で随分痛い目に遭ったよ。相場の世界は甘くない。",
+      "en": "When I was young, I got burned pretty badly trading commodity futures. The market world isn't kind.",
+      "style": "Warm reflective elderly tone, slow measured pace with a touch of nostalgia."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先物ですか。私の会社も最近、海外発送の事業に手を広げ始めたところで、リスク管理に頭を悩ませています。",
+      "en": "Futures, huh. My company recently expanded into overseas shipping, and risk management is giving me headaches.",
+      "style": "Polite but slightly tense executive tone, seeking genuine guidance from a mentor."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "発送業務か。送料の設定一つで利益が吹き飛ぶこともある。定価を強気に保てる商品でないと、薄利多売は地獄だぞ。",
+      "en": "Shipping operations. Even shipping fees alone can wipe out profits. Unless your product can hold a strong list price, thin-margin volume is hell.",
+      "style": "Direct mentoring tone, sharing hard-earned wisdom with measured emphasis."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おっしゃる通りです。実は付属品の販売で稼ぎたいと考えているのですが、本体価格との兼ね合いが難しくて。",
+      "en": "Exactly as you say. I'm actually hoping to earn from accessory sales, but balancing that with main product pricing is difficult.",
+      "style": "Thoughtful executive admitting uncertainty, respectful tone toward elder."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "付属品戦略は悪くない。だがな、本体を安く見せる工作だと顧客に見抜かれた瞬間、信頼は崩れる。",
+      "en": "The accessory strategy isn't bad. But the moment customers see it as a scheme to make the main product look cheap, trust collapses.",
+      "style": "Stern but caring warning, voice dropping for emphasis on the lesson."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "工作という言葉が刺さりますね。誠実さを失えば、目標に到達する前にブランドが死ぬということでしょうか。",
+      "en": "The word 'scheme' really hits home. So if we lose integrity, the brand dies before we reach our goals?",
+      "style": "Humbled CEO tone, accepting the criticism with genuine reflection."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通りだ。短期の利益より、十年先に到達したい場所を見据えなさい。コーヒー、もう一杯どうだ?",
+      "en": "Precisely. Look beyond short-term profits to where you want to be in ten years. How about another cup of coffee?",
+      "style": "Concluding fatherly tone, softening into warm hospitality at the end."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ぜひ、ご一緒させてください。今日のお話、一生忘れません。",
+      "en": "Please, allow me to join you. I won't forget today's conversation for the rest of my life.",
+      "style": "Sincere grateful tone, slight bow implied in the voice."
+    }
+  ]
+}

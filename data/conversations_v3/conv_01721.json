@@ -1,0 +1,75 @@
+{
+  "id": "conv_01721",
+  "context": "Saito leads Ren on a hospital tour for a new article on rural medicine.",
+  "purpose": "Doctor mentoring young writer on professional setting.",
+  "ambient": "hospital_corridor_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "病院",
+    "医者",
+    "看護",
+    "治療"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_086)",
+    "generated_at": "2026-05-27T07:25:45.824Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "これが、地方の小さい病院。",
+      "en": "This is a small rural hospital.",
+      "style": "Clear, factual opening. Matter-of-fact but not cold. Slight pause after the dash—letting the reality settle. Steady, professional composure masking quiet pride in the work.",
+      "mood": "straightforward_proud"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医者、何人いるんですか?",
+      "en": "How many doctors work here?",
+      "style": "Genuine curiosity, leaning forward slightly. Soft, respectful tone—asking because he truly wants to understand. No judgment, just engagement.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "たった三人です。",
+      "en": "Just three of us.",
+      "style": "Quiet acknowledgment of the constraint. A small, honest exhale. Not apologetic—factual and clear. The weight of it implied, not stated.",
+      "mood": "frank_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "看護師さんは?",
+      "en": "And nurses?",
+      "style": "Still respectful, still curious. Lighter touch this time—building the picture. Warm engagement without pressing too hard.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "十名くらいですね。",
+      "en": "About ten of them.",
+      "style": "Informative, even. A slight softening—acknowledging the reality of relying on their skill and dedication. Still measured, still composed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療、大変じゃないですか?",
+      "en": "That must be incredibly demanding.",
+      "style": "Gentle concern, not alarm. A real question born from genuine understanding of the constraints. Soft, thoughtful pace. Inviting her to share the difficulty.",
+      "mood": "concerned_understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "チームワークで乗り越えます。",
+      "en": "We manage through teamwork.",
+      "style": "Quiet conviction beneath the words. A gentle lift on 'teamwork'—not boasting, but grounded in real reliance on each other. Steady, proud in a humble way.",
+      "mood": "resolute_pride"
+    }
+  ]
+}

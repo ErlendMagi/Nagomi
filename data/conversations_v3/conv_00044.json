@@ -1,0 +1,104 @@
+{
+  "id": "conv_00044",
+  "context": "A small ramen shop near the hospital. Dr. Saito and her old friend Asuka have a standing every-other-Thursday lunch — short, fast, real.",
+  "purpose": "professional women friendship — venting + small advice + warmth",
+  "ambient": "busy_restaurant",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大変",
+    "大丈夫",
+    "友達",
+    "今日"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日も疲れた。本当に、本当に長い一日。",
+      "en": "Today exhausted me. Truly, genuinely a long day.",
+      "style": "Sits down heavily. The doubled emphasis lands worn, not theatrical. Tired exhale on the closing word.",
+      "mood": "exhausted"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "食べな食べな。話して、ぜんぶ。",
+      "en": "Eat, eat. Tell me everything.",
+      "style": "Already pushing the bowl across. Brisk, maternal warmth delivered peer-to-peer, no hierarchy.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "朝から手術三件。看護師も足りなくて。",
+      "en": "Three surgeries since morning. We're short staffed on nurses.",
+      "style": "Flat, factual recitation. Complaint-as-report with no drama layered in. Just what happened.",
+      "mood": "drained"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大変だね…大丈夫？体は。",
+      "en": "That's really tough… are you okay physically?",
+      "style": "Real beat of concern underneath. The shift to 「体は」 carries genuine worry for her specific friend.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "体は…なんとか。心がね。",
+      "en": "Physically — I'm managing. But emotionally.",
+      "style": "Small pause before the second sentence. The honest admission she only gives this particular person.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そっか。先生も人間やもんね。",
+      "en": "Yeah. You're human too, doctor-sensei.",
+      "style": "Gentle teasing in the formal title. Warm and unguarded, the ease of close friendship.",
+      "mood": "warm_affectionate"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "…やめてよ、教師にそう言われるの、効くから。",
+      "en": "…Stop it — when a teacher says that, it actually gets to me.",
+      "style": "Small laugh breaking through. Half-protest, half-gratitude. The vulnerability caught.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "(laughs) 効いたなら成功。",
+      "en": "(laughs) If it got to you — mission accomplished.",
+      "style": "Genuine laugh. Picks up her chopsticks, the moment settled and shared.",
+      "mood": "warm_playful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "来週、絶対飲みに行こ。",
+      "en": "Next week we're absolutely going for drinks. Non-negotiable.",
+      "style": "Firm decision, already made for both of them. No question in the voice, just commitment.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん。時間、絶対作って。",
+      "en": "Obviously. I'm making time. No excuses.",
+      "style": "Bossy warmth. The friendship maintained through concrete plan and slight edge of will.",
+      "mood": "devoted"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に、友達でよかった。",
+      "en": "Really — I'm so glad you're my friend.",
+      "style": "Quiet and sincere. Eyes down on the bowl. The sentence carries unusual weight from someone who measures words carefully.",
+      "mood": "grateful"
+    }
+  ]
+}

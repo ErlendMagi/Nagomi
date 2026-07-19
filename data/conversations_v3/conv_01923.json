@@ -1,0 +1,61 @@
+{
+  "id": "conv_01923",
+  "context": "Hiroshi-elder takes a small walk; meets Mrs. Mori at the corner.",
+  "purpose": "Two elders briefly chatting on the street.",
+  "ambient": "street_corner_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "散歩",
+    "近所",
+    "天気",
+    "挨拶"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お散歩ですか、お元気ね。",
+      "en": "Taking a walk? You're looking well.",
+      "style": "Warm, bright greeting from someone genuinely pleased to see a familiar face. Soft lilt of affection. Conversational, not rushed.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おう、ええ天気やからな。",
+      "en": "Yeah, the weather's perfect today.",
+      "style": "Gentle Kansai accent, unhurried pace. Quiet contentment. A simple agreement that carries ease and presence without elaboration.",
+      "mood": "at_ease"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "近所で、こうやって会えるの嬉しい。",
+      "en": "It's lovely running into you like this around the neighborhood.",
+      "style": "Soft, sincere reflection. Speaking as if to herself as much as to him. Warm—no performance. A small moment of gratitude for ordinary connection.",
+      "mood": "fond"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ほんま、感謝やわ。",
+      "en": "Really, I'm grateful for it.",
+      "style": "Kansai warmth, humble and direct. Light touch on the gratitude—not overstating, but meaning it. The tone of someone who notices small kindnesses.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "また、お会いしましょう。",
+      "en": "Let's make sure we do this again soon.",
+      "style": "Gentle send-off, open and genuine. Warm but not clinging. The natural rhythm of two people comfortable with each other and parting as neighbors do.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

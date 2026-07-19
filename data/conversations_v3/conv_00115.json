@@ -1,0 +1,68 @@
+{
+  "id": "conv_00115",
+  "context": "Mrs Mori has locked herself out of her apartment. She walks down to the koban; Officer Takeda is on duty.",
+  "purpose": "tiny incidental help — neighborhood elder + officer",
+  "ambient": "police_box",
+  "target_vocab": [
+    "本当に",
+    "すみません",
+    "大丈夫",
+    "時間",
+    "家"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "takeda_officer"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お巡りさん、家、入られへんようなって。",
+      "en": "Officer — I can't get into my house.",
+      "style": "A real fluster, Kansai cadence. Bag clutched.",
+      "mood": "real_fluster"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大丈夫ですよ。お家、どちらですか。",
+      "en": "It'll be alright. Where's home?",
+      "style": "A small calming line. Pen in hand.",
+      "mood": "calming"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "すぐそこ。本当に、すみません。",
+      "en": "Just over there. Truly, I'm sorry.",
+      "style": "A small apologetic fluster — genuine and unforced throughout.",
+      "mood": "apologetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "一緒に行きましょう。鍵の業者、呼べますから。",
+      "en": "Let's go together. We can call a locksmith.",
+      "style": "A small practical kindness — with steady attentive presence.",
+      "mood": "practical_kind"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お時間、本当にありがとう。",
+      "en": "Truly — thank you for the time.",
+      "style": "A small Kansai-style relief — no rush in the delivery.",
+      "mood": "kansai_relief"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "気にしないでください。お先に。",
+      "en": "Don't worry. After you.",
+      "style": "A small polite gesture. Opens the door in the voice.",
+      "mood": "polite_gesture"
+    }
+  ]
+}

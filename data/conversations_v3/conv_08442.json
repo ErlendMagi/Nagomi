@@ -1,0 +1,86 @@
+{
+  "id": "conv_08442",
+  "context": "Two friends chat",
+  "purpose": "Teach: 存分/思いつか/おそらくは/久し振り/こんばんわ/すっごい/言い聞かせ/戸惑い",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "存分",
+    "思いつか",
+    "おそらくは",
+    "久し振り",
+    "こんばんわ",
+    "すっごい",
+    "言い聞かせ",
+    "戸惑い"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お休みは存分に休んでね、メイちゃん",
+      "en": "Aoi, make sure you really rest on your days off, okay?",
+      "style": "Warm, gentle instruction. Soft opening. Maternal concern without pressure. Slight lift at the end — reassurance more than directive.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、新メニュー、何を出すか思いつかないよ、メイちゃん",
+      "en": "I'm drawing a blank on what the new menu item should be, honestly.",
+      "style": "Light frustration wrapped in wry humor. Self-deprecating laugh beneath the surface. Pace stays easy — she's venting to someone safe, not looking for answers.",
+      "mood": "stuck_amused"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様はおそらくは常連さんね、メイちゃん",
+      "en": "The customers who come in are probably regulars, aren't they?",
+      "style": "Gentle observation. Thoughtful pause before speaking. Quiet certainty — not questioning, but inviting Aoi to notice what she already knows.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、久し振りにお見えになったわよ、メイちゃん",
+      "en": "That regular came by for the first time in ages the other day.",
+      "style": "Pleased surprise in the voice. Slight warmth on remembering. Light pace. The satisfaction of a small, noticed thing.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様に「こんばんわ」って迎えようね、メイちゃん",
+      "en": "Let's greet them with a real 'good evening' when they come in, okay?",
+      "style": "Gentle direction. Not bossy — collaborative. A suggestion wrapped in warmth. Slight pause before the greeting, like she's showing by example.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様の感想、すっごい嬉しかったよ、メイちゃん",
+      "en": "Their feedback really made my day, you know?",
+      "style": "Genuine pleasure breaking through. Slightly breathless — she's still glowing from the comment. Warm, uncomplicated joy. No performance.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、自分に「丁寧にね」と言い聞かせるわよ、メイちゃん",
+      "en": "I keep reminding myself to be more thoughtful about it.",
+      "style": "Quiet self-reflection. A little harder on herself than necessary. Steady, like she's spoken this to herself before. No seeking reassurance.",
+      "mood": "self_aware"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、新人さんに戸惑いがあったかもね、メイちゃん",
+      "en": "The new barista might have been a bit uncertain earlier.",
+      "style": "Gentle, tentative observation. Soft opening. Not criticism — noticing with care. Trailing thought, like she's still working through what she saw.",
+      "mood": "observant"
+    }
+  ]
+}

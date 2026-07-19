@@ -1,0 +1,78 @@
+{
+  "id": "conv_04340",
+  "context": "Two accountants review a client portfolio together",
+  "purpose": "Teach: 控除/アイディア/任意/幸運/配当/開業/相続/軌道",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "控除",
+    "アイディア",
+    "任意",
+    "幸運",
+    "配当",
+    "開業",
+    "相続",
+    "軌道"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_218 workflow w4455pikw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "この相続案件、医療費控除の処理が抜けてますね。",
+      "en": "On this inheritance case, the medical expense deduction is missing.",
+      "style": "Calm, professional tone with slight concern about oversight."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当だ。相続税の申告と一緒に出せばよかったのに。",
+      "en": "You're right. We should have filed it with the inheritance tax return.",
+      "style": "Slightly frustrated, thinking aloud while reviewing documents."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "クライアントの開業届も今月中ですよ。任意団体から法人化するんですよね？",
+      "en": "The client's business registration is due this month too. Going from voluntary group to corporation?",
+      "style": "Brisk, switching topics with organized efficiency."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。株主配当の設計についていいアイディアがあれば聞きたいんだけど。",
+      "en": "Yes. I'd love to hear any ideas you have about structuring shareholder dividends.",
+      "style": "Collaborative, inviting input with genuine curiosity."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "画期的なアイディアってほどじゃないですが、配当金を抑えて内部留保を厚くする案はどうでしょう。",
+      "en": "Nothing groundbreaking, but how about lowering dividends and strengthening retained earnings?",
+      "style": "Modest but confident, offering a measured suggestion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "悪くないね。事業が軌道に乗るまでは現金を厚くしておきたい。",
+      "en": "Not bad. I'd like to keep cash reserves thick until the business gets on track.",
+      "style": "Approving, nodding thoughtfully while considering implications."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あとは社長の所得控除を最大化すれば、税負担もかなり下がりますね。",
+      "en": "If we also maximize the president's income deduction, the tax burden drops considerably.",
+      "style": "Analytical, working through optimization with quiet satisfaction."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "この客に出会えたのは幸運だよ。来週までに全部まとめよう。",
+      "en": "Meeting this client was real luck. Let's wrap everything up by next week.",
+      "style": "Warm and grateful, finishing on an encouraging note."
+    }
+  ]
+}

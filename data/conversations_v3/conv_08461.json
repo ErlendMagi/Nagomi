@@ -1,0 +1,86 @@
+{
+  "id": "conv_08461",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 隣り/変っ/ぶらぶら/思い立っ/すかさず/たどり着く/不意/あからさま",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "隣り",
+    "変っ",
+    "ぶらぶら",
+    "思い立っ",
+    "すかさず",
+    "たどり着く",
+    "不意",
+    "あからさま"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_425 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お隣りの叔母さんがお見えになるわよ",
+      "en": "Sho, your aunt next door is coming by.",
+      "style": "Gentle, practical announcement. Warm tone, speaking to a child she trusts will understand. Light cadence, no urgency—just a heads-up for his day.",
+      "mood": "matter_of_fact_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんのご様子、変ってないよね?",
+      "en": "Mom, Grandpa's doing okay, right? Nothing's changed?",
+      "style": "Quiet worry underneath. Careful phrasing—he's checking, not asking for reassurance he doesn't believe. Small, serious voice. Waiting for the answer.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんと公園をぶらぶらしてらしたわね",
+      "en": "You and Dad were wandering around the park earlier, weren't you?",
+      "style": "Observational, gently curious. Not questioning—confirming what she already knows. Warm, watching-over tone. Like she's been keeping an eye on his day.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、急に思い立って、絵を描きたくなったよ",
+      "en": "Mom, I suddenly felt like drawing. Can I?",
+      "style": "Bright spark of idea breaking through. Direct, simple want. Small voice but certain. The honesty of a child naming what he needs in the moment.",
+      "mood": "inspired"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママはすかさずおやつを用意したわよ",
+      "en": "So I got your snacks ready right away, of course.",
+      "style": "Matter-of-fact satisfaction. Quick, efficient—this is what she does. Warm undertone: she knew before he asked. Practical care wrapped in simplicity.",
+      "mood": "attentive_satisfied"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんのお家にたどり着くのに時間かかったよ",
+      "en": "Mom, it took me a while to get to Grandpa's house.",
+      "style": "Thoughtful, slightly hesitant. He's reporting something he's noticed about himself—that the journey took longer than expected. Quiet, considering tone. Not complaining, just observing.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、不意の雨でお父さん、慌てたわね",
+      "en": "That sudden rain really caught your dad off guard.",
+      "style": "Light, wry amusement beneath the surface. Not mocking—gently noticing how transparent his father was. Warm, knowing tone. A small smile in her voice.",
+      "mood": "wry_amused"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんのお気持ち、あからさまに顔に出てたよ",
+      "en": "Yeah, Dad's feelings were all over his face.",
+      "style": "Small, knowing laugh in the voice. He's noticed the same thing mom noticed—how unguarded his father was. Dry, gentle observation. The perceptiveness of a quiet child catching what adults usually miss.",
+      "mood": "wry_observant"
+    }
+  ]
+}

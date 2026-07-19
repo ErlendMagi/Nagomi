@@ -1,0 +1,62 @@
+{
+  "id": "conv_00647",
+  "context": "Sakura helps Sho with math homework.",
+  "purpose": "small cousin study-help",
+  "ambient": "living_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "宿題",
+    "算数",
+    "一緒",
+    "頑張る",
+    "正解"
+  ],
+  "cast": [
+    "sakura_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お姉ちゃん、算数の問題、わかんない。",
+      "en": "Big sister, I don't understand the math problem.",
+      "style": "Soft, hesitant entrance. Small voice, genuinely uncertain but trusting. Reaches out with the question like he's handing something fragile to someone he knows will hold it carefully.",
+      "mood": "uncertain_trusting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "見せて。あ、これは、引き算だね。",
+      "en": "Let me see. Oh, this one's subtraction.",
+      "style": "Immediate warm recognition. Brightens on \"subtraction\" — she sees it clearly and wants him to see it too. Gentle, unhurried. The tone of someone who actually enjoys teaching.",
+      "mood": "warm_engaged"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。十から、三、引くの？",
+      "en": "Yeah. So from ten, we take away three?",
+      "style": "Small voice, thinking out loud. Testing the logic in his own mouth. Pause before \"three\" — he's working through it, not reciting. Quiet certainty building.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そう。答え、七、正解！",
+      "en": "Right. The answer is seven — you've got it!",
+      "style": "Bright, immediate affirmation on \"seven.\" No condescension, just genuine delight in the click of understanding. Quick warm beat of celebration, then settles into pride for him.",
+      "mood": "proud_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった！お姉ちゃんと、一緒に、頑張る。",
+      "en": "I did it! Working together with big sister.",
+      "style": "Open joy. The word \"together\" carries weight — he's not just proud of solving it, he's proud of them. Small laugh underneath. Genuine, unselfconscious happiness.",
+      "mood": "joyful_connected"
+    }
+  ]
+}

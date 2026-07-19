@@ -1,0 +1,84 @@
+{
+  "id": "conv_04713",
+  "context": "A uni student interviews a doctor about clinical research",
+  "purpose": "Teach: 矯正/救急/注射/生理/医薬品/探る/本能/許容",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "矯正",
+    "救急",
+    "注射",
+    "生理",
+    "医薬品",
+    "探る",
+    "本能",
+    "許容"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_237 workflow wkhfy3p95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、本日はお忙しい中ありがとうございます。臨床研究について、医学生として伺いたいことがいくつかあります。",
+      "en": "Doctor, thank you for your time today. As a medical student, I have several questions about clinical research.",
+      "style": "Polite formal opening from earnest university student conducting interview."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "どうぞ、遠慮なく。新しい医薬品の開発には、若い世代の関心が欠かせませんからね。",
+      "en": "Please, don't hold back. The development of new pharmaceuticals requires the interest of younger generations.",
+      "style": "Warm encouraging tone from experienced doctor welcoming inquiry."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。例えば注射薬の治験では、被験者の生理的な反応をどのように観察されているのですか？",
+      "en": "Thank you. For example, in injection drug trials, how do you observe the physiological reactions of subjects?",
+      "style": "Curious academic question with specific clinical terminology used naturally."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心拍や血圧を細かく記録して、許容範囲を超える変化があればすぐに中止します。安全が最優先ですよ。",
+      "en": "We record heart rate and blood pressure carefully, and stop immediately if changes exceed the permissible range. Safety comes first.",
+      "style": "Measured professional explanation emphasizing patient safety priorities."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。万が一の場合、救急対応の体制も整っているんですね。",
+      "en": "I see. So in case of emergencies, you also have emergency response systems in place.",
+      "style": "Understanding follow-up that builds on the doctor's previous explanation."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。それと、被験者の本能的な不安にも配慮しています。データだけでなく心も大切ですから。",
+      "en": "Of course. And we also consider the instinctive anxieties of subjects. It's not just data — the heart matters too.",
+      "style": "Compassionate explanation revealing humanistic side of medical research."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "心理面まで…。被験者の本音を探るのも、研究の一部なのでしょうか？",
+      "en": "Even the psychological aspect... Is exploring the true feelings of subjects also part of the research?",
+      "style": "Thoughtful probing question showing deeper engagement with the topic."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね。データの偏りを矯正するためにも、率直な声を聞くことは欠かせません。",
+      "en": "Yes, indeed. To correct biases in the data, listening to honest voices is indispensable.",
+      "style": "Reflective answer connecting interview methodology to research integrity."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今日は本当に勉強になりました。将来、私もそんな誠実な医師になりたいです。",
+      "en": "I really learned a lot today. In the future, I want to become such a sincere physician too.",
+      "style": "Sincere grateful closing expressing future aspirations inspired by interview."
+    }
+  ]
+}

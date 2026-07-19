@@ -1,0 +1,86 @@
+{
+  "id": "conv_06466",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 増員/測る/オーブン/カルテ/当番/仕上げる/仕切り/引き換え",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "増員",
+    "測る",
+    "オーブン",
+    "カルテ",
+    "当番",
+    "仕上げる",
+    "仕切り",
+    "引き換え"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人員、若手、増員を進めろ。",
+      "en": "Increase hiring. Focus on bringing in younger staff.",
+      "style": "Clipped, decisive. Each phrase lands with authority. Brief pause between thoughts. No warmth, no elaboration — this is instruction, not discussion.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製品の寸法、再度、測る予定です。",
+      "en": "Understood. We're planning to remeasure the product dimensions.",
+      "style": "Steady, professional acknowledgment. Slight uplift on 「はい」 to show readiness. Even delivery, no enthusiasm but no reluctance either. Factual.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社食、オーブン、新型導入したか。",
+      "en": "Did we install the new cafeteria oven model yet?",
+      "style": "Direct question, mid-tone. Lean forward slightly in posture. Not demanding — checking status. Light curiosity underneath the practicality.",
+      "mood": "inquiring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内のカルテ、デジタル化を進めます。",
+      "en": "Yes. We're moving forward with digitizing our internal records system.",
+      "style": "Measured response. Voice steady and level. Not rushing — he's keeping pace with the directive. Slight emphasis on the action word to show progress.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今週、警備当番、誰だ。",
+      "en": "Who's on security rotation this week?",
+      "style": "Quick, businesslike. No buildup. Tone suggests this is one item on a longer list. Expects a straight answer.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品、仕上げる段階に入りました。",
+      "en": "Yes. The new product is entering the finishing phase.",
+      "style": "Clear and composed. Slight emphasis on the progress milestone. Voice maintains professional distance — reporting upward, not conversing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "仕切り役、ベテランで固めろ。",
+      "en": "Put experienced people in charge. Keep senior hands leading.",
+      "style": "Firm directive. Short phrases, no filler. Authority in the rhythm. Expects implementation without question.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。割引、引き換え券、配布済みです。",
+      "en": "Yes. The discount vouchers have been distributed already.",
+      "style": "Conclusive tone. Voice lands firmly on completion — task done. Slight exhale at the end suggesting a line item checked off.",
+      "mood": "assured"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10346",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 敬愛/則っ/基い/準じ/使途/呼び掛け/打ち込み/ベルク",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "敬愛",
+    "則っ",
+    "基い",
+    "準じ",
+    "使途",
+    "呼び掛け",
+    "打ち込み",
+    "ベルク"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_519 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、創業者を敬愛する社風を保て",
+      "en": "Maintain our company culture of respect for the founder.",
+      "style": "Measured, authoritative. Even pace. Speaks like someone accustomed to being listened to. A principle stated, not questioned.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員規程に則って動きます",
+      "en": "Understood. I'll ensure the team operates within personnel regulations.",
+      "style": "Deferential but assured. Nod in the voice. Calm confirmation. Not obsequious — professional respect between colleagues.",
+      "mood": "compliant_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、過去のデータに基いた意思決定をしろ",
+      "en": "Make decisions grounded in our past data and performance.",
+      "style": "Steady, firm. Each phrase lands deliberately. Speaks without inflection — not cold, just practiced in command. Slight pause before the verb.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。業界基準に準じて運用します",
+      "en": "Understood. We'll operate in line with industry standards.",
+      "style": "Earnest acknowledgment. Slightly quicker pace than Hiroshi — eager to show he's already thinking ahead. Respectful but not stiff.",
+      "mood": "engaged_compliance"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予算の使途を明確にしろ",
+      "en": "Make budget expenditures transparent and accountable.",
+      "style": "Brief, non-negotiable. Clipped tone. The economy of someone who doesn't repeat himself. Slight weight on 'transparent'.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員への呼び掛けも丁寧にします",
+      "en": "Understood. I'll make sure communications to staff are handled with care.",
+      "style": "Quiet confidence. Slight lean into the response — showing he understands the principle behind the directive. Thoughtful, not rushed.",
+      "mood": "thoughtful_compliance"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新製品開発に打ち込み続けろ",
+      "en": "Keep driving new product development. Don't slow down.",
+      "style": "Purposeful intensity. Weight on 'keep driving.' Forward momentum in the delivery. A challenge wrapped in professional expectation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ドイツのベルク市と姉妹都市契約を検討します",
+      "en": "Understood. I'm exploring a sister-city partnership with Berg, Germany.",
+      "style": "Forward-looking, concrete. Slight lift — he's already moving. Shows initiative within the framework of what he's just heard. Confident close.",
+      "mood": "proactive_assured"
+    }
+  ]
+}

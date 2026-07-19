@@ -1,0 +1,75 @@
+{
+  "id": "conv_02882",
+  "context": "Saito advises Yuki on health after childbirth.",
+  "purpose": "WIDENED SCENARIO: medical advice; vocabulary (ゴミ/袋/育児/体重/階段) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ゴミ",
+    "袋",
+    "育児",
+    "体重",
+    "階段"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_145)",
+    "generated_at": "2026-05-29T14:44:00.389Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "育児が忙しくて、運動できません。",
+      "en": "Childcare keeps me busy; I can't exercise.",
+      "style": "tired office woman voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "階段の上り下りも、良い運動ですよ。",
+      "en": "Going up and down stairs is good exercise.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "体重が、少し増えてしまって。",
+      "en": "My weight has gone up a little.",
+      "style": "concerned office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "育児の合間に、軽く動きましょう。",
+      "en": "Move lightly between childcare tasks.",
+      "style": "gentle doctor voice, soft warm caring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ゴミ出しも、いい運動ですか?",
+      "en": "Is taking out the trash good exercise too?",
+      "style": "curious office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、ゴミ袋を運ぶのも運動です。",
+      "en": "Yes, carrying the trash bag is exercise too.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "階段を使って、体重を戻します。",
+      "en": "I'll use the stairs to get my weight back.",
+      "style": "resolved office woman voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "育児も体も、無理なく続けて下さいね。",
+      "en": "Keep up both childcare and your body without strain.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

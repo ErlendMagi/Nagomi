@@ -1,0 +1,86 @@
+{
+  "id": "conv_05255",
+  "context": "A doctor explains a marine-science health study to a teen",
+  "purpose": "Teach: 海水/ウラン/洞窟/引き上げる/余儀なく/転じ/ストライキ/初級",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "海水",
+    "ウラン",
+    "洞窟",
+    "引き上げる",
+    "余儀なく",
+    "転じ",
+    "ストライキ",
+    "初級"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_264 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、海水中の微量元素と健康に関する研究、興味深いでしょう。",
+      "en": "Sakura, the research on trace elements in seawater and their effects on health—it's quite fascinating, isn't it?",
+      "style": "Warm, measured opening. Slight emphasis on curiosity without lecturing. Inviting her in as an equal. Clear articulation, unhurried pace.",
+      "mood": "engaged_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい！ウランも極微量に含まれてるってどういう仕組みなんですか。",
+      "en": "Really? How does uranium end up in seawater in the first place, even in such tiny amounts?",
+      "style": "Bright genuine curiosity. Leans forward slightly. Rapid-fire delivery—the question of someone who's already thinking three steps ahead. Eager but not performing eagerness.",
+      "mood": "curious_focused"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "地下洞窟を通って湧き出る水脈に少量含まれて、そこから海に流れ込むんです。",
+      "en": "It flows through underground water systems in small quantities, then makes its way into the ocean from there.",
+      "style": "Clear, patient educator's pace. Slightly slower on the explanation to make sure it lands. Warm without being condescending. Assumes she's following.",
+      "mood": "patient_clear"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "それを生物が体内に引き上げると、どんな影響があるんでしょう。",
+      "en": "And when organisms absorb it into their bodies—what happens then?",
+      "style": "Sharp, precise follow-up. No hesitation. She's thinking in real time. Tone stays steady—this is a logical next question, not a challenge.",
+      "mood": "analytically_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "通常は問題になりませんが、特定の条件下では別の物質に転じる可能性があります。",
+      "en": "Under normal circumstances it's harmless, but certain conditions can cause it to transform into other compounds.",
+      "style": "Careful, measured delivery. Slight clinical distance—the precision of someone speaking to facts that matter. Not alarming, but honest about the complexity.",
+      "mood": "cautiously_precise"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "研究が止まった時期もあったって聞きました。",
+      "en": "I read that the research actually went through periods where it stopped entirely.",
+      "style": "Conversational prompt delivered with genuine interest. Slightly testing—she's showing she's done her homework. Warm but not obsequious.",
+      "mood": "informed_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ストライキや予算の事情で、調査中断を余儀なくされた年もありました。",
+      "en": "There were years when strikes and budget constraints forced the investigations to pause, yes.",
+      "style": "Factual, steady acknowledgment. A touch of resignation—she's right, and he respects her noticing it. No editorializing, just the truth delivered clearly.",
+      "mood": "acknowledging_steady"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "初級の本では絶対に出てこない話ですね、すごく勉強になりました。",
+      "en": "That's definitely not something you'd find in any introductory textbook. You've really been paying attention.",
+      "style": "Quiet approval, warm and genuine. Light on the compliment—delivered as simple fact, not flattery. Slight smile in the voice. Closing with warmth and respect.",
+      "mood": "pleased_affirming"
+    }
+  ]
+}

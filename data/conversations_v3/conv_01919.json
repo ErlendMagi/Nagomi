@@ -1,0 +1,75 @@
+{
+  "id": "conv_01919",
+  "context": "Hina-young keeps a daily diary; reads a passage to Sakura.",
+  "purpose": "Teen sharing personal writing with author mentor.",
+  "ambient": "living_room_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "日記",
+    "書く",
+    "気持ち",
+    "記録"
+  ],
+  "cast": [
+    "hina_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_096)",
+    "generated_at": "2026-05-27T08:37:38.197Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "さくらさん、日記、見て?",
+      "en": "Sakura, will you look at my diary?",
+      "style": "Bright, eager opening. The question comes out as genuine invitation, not performance. Soft on the asking—wanting approval but not demanding it. Hold the final question mark with hope.",
+      "mood": "eager_hopeful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "まあ、読ませて。",
+      "en": "Sure, let me read it.",
+      "style": "Warm permission wrapped in lightness. A slight lean-in—this matters. Soft voice, no hesitation. The tone of someone who knows she's trusted with something real.",
+      "mood": "tender_interested"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "気持ち、ちゃんと書けたかな。",
+      "en": "Do you think I wrote my feelings right?",
+      "style": "Hesitant underneath the question. A small voice checking—did I do this okay? Soft vulnerability. Pause just before the last word, like she's bracing for the answer.",
+      "mood": "uncertain_hopeful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、すごく素直で素敵。",
+      "en": "Yeah, it's really honest and beautiful.",
+      "style": "Quiet conviction. Soft-spoken pride in the delivery. No performance—just the truth, offered simply. Warm on 'honest,' a breath of approval after.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "記録、続けるね、ずっと。",
+      "en": "I'm going to keep writing, always.",
+      "style": "A small declaration of commitment. Bright but earnest underneath. Steady pace. The voice of someone discovering something matters to her and deciding to hold it.",
+      "mood": "determined_sincere"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "大切な習慣だよ。",
+      "en": "It's such a precious habit.",
+      "style": "Gentle encouragement. Soft, knowing tone—the voice of someone who recognizes the weight of what the child just said. Warm reassurance without patronizing.",
+      "mood": "warm_affirming"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、励みになる。",
+      "en": "Thank you—that means a lot to me.",
+      "style": "Genuine gratitude, quietly said. A moment of softness—this conversation matters. Small voice, big feeling. Warm exhale on the final words.",
+      "mood": "grateful_touched"
+    }
+  ]
+}

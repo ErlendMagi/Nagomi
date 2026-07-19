@@ -1,0 +1,65 @@
+{
+  "id": "conv_05486",
+  "context": "A boss reviews a regional rollout plan",
+  "purpose": "Teach: 申込み/選抜/院長/アナリスト/アドバイザー/部数/直行/配備",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込み",
+    "選抜",
+    "院長",
+    "アナリスト",
+    "アドバイザー",
+    "部数",
+    "直行",
+    "配備"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地方店舗の申込み、選抜は順調か?",
+      "en": "How's the selection process for the local branch applications moving along?",
+      "style": "Direct, measured check-in. Slight forward lean in posture. Conversational pace but with the weight of authority behind it. Not warm, but not cold—the tone of someone who trusts the person across from him to deliver.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。本社直行便で各地のアナリストと打合せています。",
+      "en": "Yes. I'm coordinating with analysts across regions—flying between headquarters and each location.",
+      "style": "Steady, professional confidence. Crisp on the opening affirmative. Slight emphasis on the logistics of the work itself—showing he's managing the scope without sounding strained. Even pace, grounded.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "院長クラスのアドバイザーの起用も、検討してくれ。",
+      "en": "I'd like you to look into bringing in senior-level advisors as well.",
+      "style": "Soft directive, not a demand. Almost conversational phrasing despite the formal request. Brief pause before 'advisors'—gives weight to the suggestion without over-stating it. Expects competence from the listener.",
+      "mood": "constructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。広報誌の部数も、配備計画に合わせて調整します。",
+      "en": "Understood. I'll adjust the magazine circulation numbers to align with the rollout timeline.",
+      "style": "Crisply affirming. Demonstrates anticipatory thinking—already connecting this to downstream detail work. Efficient tone. No hesitation, no over-explaining. The sound of someone taking note and moving forward.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on you.",
+      "style": "Quiet close. Slight pause before speaking. Gentle but carries real weight—not gratuitous warmth, but genuine trust. Lets the phrase sit. End with a small exhale that suggests both confidence and the conversation's natural conclusion.",
+      "mood": "assured"
+    }
+  ]
+}

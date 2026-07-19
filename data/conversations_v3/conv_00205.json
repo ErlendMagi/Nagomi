@@ -1,0 +1,83 @@
+{
+  "id": "conv_00205",
+  "context": "Grandpa Goro is picking up his granddaughter Hina from school for the first time. He runs into Ms. Asuka at the gate.",
+  "purpose": "grandfather meeting teacher — old-generation respect across institutional formality",
+  "ambient": "school_gate_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "迎え",
+    "孫",
+    "初めて",
+    "元気",
+    "よろしく"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "goro_grandpa",
+      "jp": "すみません、ひなの祖父です。",
+      "en": "Excuse me — I'm Hina's grandfather.",
+      "style": "Slow grandfather formal courteous opener, the careful self-introduction, soft real respect threading throughout delivery.",
+      "mood": "formally-courteous"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "あ、ひなさんのお祖父さん。今日は迎えに？",
+      "en": "Oh, Hina's grandfather. Picking her up today?",
+      "style": "Teacher warm professional recognition, the easy welcoming inquiry, soft real warmth threading throughout delivery throughout.",
+      "mood": "warmly-recognizing"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "はい、初めてでして。娘に頼まれて。",
+      "en": "Yes, it's my first time. My daughter asked me.",
+      "style": "Slow grandfather warm honest explanation, the gentle first-time disclosure, soft real care threading throughout delivery.",
+      "mood": "honestly-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ひなさん、いつも元気いっぱいですよ。",
+      "en": "Hina is always full of energy.",
+      "style": "Teacher warm professional sharing, the genuine warmth about the child audible, soft real care threading throughout delivery.",
+      "mood": "warmly-sharing"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "おう、家でもにぎやかで。困りものだ。",
+      "en": "Oh, she's noisy at home too. A bit of a handful.",
+      "style": "Slow grandfather warm gruff joke, the affectionate complaint audible, soft real grandpa-pride threading throughout delivery.",
+      "mood": "gruffly-warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ふふ、それも個性ですから。",
+      "en": "Hehe, that's personality too.",
+      "style": "Teacher warm gentle laugh, the diplomatic affirmation audible, soft real respect threading throughout delivery throughout.",
+      "mood": "gently-affirming"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "よろしくお願いしますね、先生。",
+      "en": "Please look out for her, sensei.",
+      "style": "Slow grandfather warm formal closing, the courteous family-trust extended, soft real respect threading throughout delivery.",
+      "mood": "formally-trusting"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "こちらこそ。お気をつけて。",
+      "en": "And you. Take care.",
+      "style": "Teacher warm reciprocal closing, the professional kindness extended, soft real respect threading throughout delivery throughout.",
+      "mood": "warmly-reciprocal"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_06054",
+  "context": "A boss reviews ethics policy",
+  "purpose": "Teach: 儀礼/貫く/浮き彫り/造船/応じる/騙し/辞退/モニタリング",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "儀礼",
+    "貫く",
+    "浮き彫り",
+    "造船",
+    "応じる",
+    "騙し",
+    "辞退",
+    "モニタリング"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "対外儀礼、欠かすな。",
+      "en": "Never skip external protocols. They're what we show the world.",
+      "style": "Crisp, commanding opening. Even measured pace. No room for negotiation in the tone. Authority sitting light on the words.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。理念を貫く姿勢、社内で徹底します。",
+      "en": "Understood. I'll make sure the whole team lives those principles—no exceptions.",
+      "style": "Respectful but not obsequious. Slight nod in the voice. Steady, deliberate pace. Speaking the commitment back to show he's taken it in.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の課題、浮き彫りにせよ。",
+      "en": "And I want the real problems in this industry brought into the light.",
+      "style": "Measured, expectant. Slight weight on 'real.' Not a request—a clear expectation. Pause before the final phrase to let it land.",
+      "mood": "pressing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "造船関連の取引、再点検します。",
+      "en": "I'll audit the shipbuilding contracts again. Top to bottom.",
+      "style": "Focused, methodical. Slight emphasis on 'again'—showing he understands the scope. Clipped, efficient delivery. No hedging.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "監査に応じる体制、整えろ。",
+      "en": "We need to be ready for any audit they throw at us.",
+      "style": "Controlled, firm. Each clause lands distinctly. Pace steady, not rushed. The tone of someone who doesn't accept failure as an option.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "騙し被害、再発防止策、共有しました。",
+      "en": "We've already shared the full deception prevention plan. Everyone knows what to do.",
+      "style": "Matter-of-fact, reassuring through competence. Quick, clean delivery. Slight emphasis on 'already'—showing work is done. No hesitation.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員辞退者、モニタリングを継続。",
+      "en": "Keep watching the people who stepped down. They're not off the board yet.",
+      "style": "Final directive, quiet weight. Clipped, decisive. The last sentence lands like a door closing. Attention to detail even in dismissal.",
+      "mood": "vigilant"
+    }
+  ]
+}

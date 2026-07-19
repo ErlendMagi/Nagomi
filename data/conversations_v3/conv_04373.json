@@ -1,0 +1,78 @@
+{
+  "id": "conv_04373",
+  "context": "A uni student tutors his teen friend in English at the cafe",
+  "purpose": "Teach: 英文/解答/検定/検出/限度/欠点/ユニーク/多々",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "英文",
+    "解答",
+    "検定",
+    "検出",
+    "限度",
+    "欠点",
+    "ユニーク",
+    "多々"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "さくら、今日は英文の読解からやろうか。教科書持ってきた？",
+      "en": "Sakura, let's start with English reading comprehension today. Did you bring your textbook?",
+      "style": "Warm, mentor-like tone with gentle authority and care."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "持ってきたよ。でも来週、英語検定があるから、そっちの対策もしたいな。",
+      "en": "I brought it. But there's an English proficiency exam next week, so I want to prep for that too.",
+      "style": "Slightly anxious teen voice with a pleading lift."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "オッケー。じゃあまず、この問題の解答を見せて。どこでつまずいてるか検出したいから、機械的に分析するよ。",
+      "en": "Okay. Then first show me your answers to these questions. I want to detect where you're stuck and analyze it methodically.",
+      "style": "Calm and analytical, slightly playful big-brother energy."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うーん、長文になると集中力の限度を超えちゃうの。それが私の最大の欠点かも。",
+      "en": "Hmm, when the passages get long I exceed my concentration limit. That might be my biggest weakness.",
+      "style": "Self-deprecating teen sigh with a hint of humor."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかる。でもさくらの作文ってユニークな視点が多くて、先生も褒めてたよね？",
+      "en": "I get it. But your essays have unique perspectives, and your teacher praised them, right?",
+      "style": "Encouraging upbeat reassurance with a warm smile in voice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、ありがとう。でも文法のミスが多々あって、いつも減点されちゃうんだよね。",
+      "en": "Yeah, thanks. But I make numerous grammar mistakes and always lose points for it.",
+      "style": "Sheepish admission softened with a small laugh."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "じゃあ毎日五分でいいから、短い英文を音読してみて。一ヶ月で絶対変わるから。",
+      "en": "Then just read short English sentences aloud for five minutes daily. You'll definitely change in a month.",
+      "style": "Confident motivating coach tone, firm but kind."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかった、やってみる。レン先輩がコーチだと心強いよ、ありがとう！",
+      "en": "Got it, I'll try. Having you as my coach is reassuring, Ren-senpai, thanks!",
+      "style": "Bright grateful teen energy with sincere admiration."
+    }
+  ]
+}

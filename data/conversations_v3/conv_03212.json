@@ -1,0 +1,79 @@
+{
+  "id": "conv_03212",
+  "context": "The meeting closes with assigned action items",
+  "purpose": "Assign action items; teach 自覚/市内/赤字/外部/ミス/再度/お尋ね/づくり",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "自覚",
+    "市内",
+    "赤字",
+    "外部",
+    "ミス",
+    "再度",
+    "お尋ね",
+    "づくり"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それぞれ自覚を持って動いてくれ。",
+      "en": "Each of you, act with a sense of ownership.",
+      "style": "commanding boss setting the tone, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "市内の不採算店、来月までに方針を出します。",
+      "en": "I will set a plan for the unprofitable in-city stores by next month.",
+      "style": "committed assistant taking a deadline, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "赤字の主因はやはり原価でした。",
+      "en": "The main cause of the deficit was indeed costs.",
+      "style": "analytical manager confirming the diagnosis, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "外部の専門家を一度呼ぼう。",
+      "en": "Let us bring in an outside expert once.",
+      "style": "decisive boss authorizing the step, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "発注ミスの再発防止策も用意しました。",
+      "en": "I prepared measures to prevent ordering mistakes recurring.",
+      "style": "thorough assistant presenting a safeguard, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "再度のチェック体制を作ります。",
+      "en": "I will build a re-check system.",
+      "style": "reliable manager committing to a fix"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "最後に一つお尋ねするが、士気は大丈夫か？",
+      "en": "One last question — is morale holding up?",
+      "style": "caring boss checking on his people"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫です。皆、強い会社づくりを目指しています。",
+      "en": "We’re fine. Everyone aims for company-building that lasts.",
+      "style": "upbeat assistant ending with resolve, spoken with a recognizable personal cadence"
+    }
+  ]
+}

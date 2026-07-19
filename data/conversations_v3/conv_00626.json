@@ -1,0 +1,76 @@
+{
+  "id": "conv_00626",
+  "context": "Kenji and Ryosuke ride the same morning train. Quick adult talk.",
+  "purpose": "small adult-male commute talk",
+  "ambient": "train_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "電車",
+    "会社",
+    "一緒",
+    "同じ",
+    "感謝"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_032)",
+    "generated_at": "2026-05-27T01:02:00.770Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "あれ、亮介さん、また、同じ電車。",
+      "en": "Hey, Ryosuke-san — same train again.",
+      "style": "Warm recognition on the opening. Friendly, easy tone with genuine pleasure at the familiar face. Relaxed pace, natural and unforced. A small smile audible in the voice.",
+      "mood": "pleased_familiar"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "おはよう。最近、よく、お会いしますね。",
+      "en": "Morning. We've been running into each other lately, haven't we?",
+      "style": "Gentle, unhurried greeting. Warm acknowledgment without overdoing it. Slight lift at the question-end. The tone of someone comfortable in their own skin.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちも、新しい部署、こちら方面でして。",
+      "en": "Our new department got moved to this area, actually.",
+      "style": "Conversational and open. Light explanatory tone — sharing information naturally, not making a big deal of it. Steady, easy delivery with a touch of warmth.",
+      "mood": "friendly_informative"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "なるほど。電車、混んでて、お疲れですね。",
+      "en": "Ah, I see. The trains really are packed these days — must be exhausting.",
+      "style": "Sympathetic and present. Gentle concern without pity. Knowing nod in the voice. Slight lean-in quality, acknowledging shared commute fatigue.",
+      "mood": "sympathetic_understanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さんと、お会いできて、朝、嬉しい気持ち。",
+      "en": "It's nice to see you in the morning, though — makes the ride feel less dreary.",
+      "style": "Genuine warmth with no artifice. Sincere without being sentimental. Slight softening at 'nice' — the truth of it landing. Easy, unhurried.",
+      "mood": "warm_sincere"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こちらこそ。お互い、頑張りましょう、今日も。",
+      "en": "The feeling's mutual. Let's both do our best today.",
+      "style": "Warm, steady closing. Light encouragement — not rallying-the-troops energy, just quiet affirmation. The tone of someone who means what he says. Gentle and present.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、頑張ります。お先に、失礼します。",
+      "en": "Will do. Excuse me — have a good day.",
+      "style": "Polite and warm farewell. Respectful without stiffness. Natural pace with a final touch of warmth. The sound of someone who enjoyed the exchange, moving on gracefully.",
+      "mood": "warm_departing"
+    }
+  ]
+}

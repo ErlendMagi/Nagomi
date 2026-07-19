@@ -1,0 +1,69 @@
+{
+  "id": "conv_00498",
+  "context": "Sachiko at a community center event. Asuka recognizes her through family connections.",
+  "purpose": "small civic acquaintance — gentle widow recognition",
+  "ambient": "community_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "感謝",
+    "優しい",
+    "祖母",
+    "元気"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_025)",
+    "generated_at": "2026-05-27T00:07:00.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "田中さん、こんにちは。お元気そうで。",
+      "en": "Tanaka-san, hello. You're looking well.",
+      "style": "Warm, genuine recognition. Opening with soft brightness. Steady pace, unhurried. The ease of greeting someone you're genuinely glad to see.",
+      "mood": "warm_genuine"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "まあ、先生。皆さんに、よくしてもらって、おかげ様で。",
+      "en": "Oh, sensei. Thanks to your kindness and everyone's support.",
+      "style": "Modest, appreciative tone with underlying steadiness. Light, humble emphasis on 「おかげ様で」. Unhurried. The grace of someone used to gratitude.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ご家族、ひなちゃん、しょうくんも、本当に優しいお子さんで。",
+      "en": "Your family — Hina-chan and Sho-kun — they really are such kind children.",
+      "style": "Warm specificity on the names. Pause before 「本当に優しい」 as if seeing them clearly. Genuine admiration without flattery. Steady, genuine.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがとう。皆さんのお陰で、孫たちが、ちゃんと育ってる。",
+      "en": "Thank you. Because of everyone's kindness, my grandchildren are growing up the way they should.",
+      "style": "Slow, thoughtful cadence. Soft weight on 「ちゃんと育ってる」. There's quiet pride here, not boastful — just contentment. Trailing off slightly, philosophical.",
+      "mood": "grateful_proud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "こちらこそ。皆さんと一緒に、ご縁、繋がっていくの、嬉しい。",
+      "en": "The feeling is mutual. I'm so glad to be connected with all of you.",
+      "style": "Open, clear warmth. Slight lift on 「嬉しい」. Natural, not performed. The sincerity of someone who means what she's saying about connection.",
+      "mood": "warm_connected"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に、ありがたい、ご縁です。",
+      "en": "It truly is a precious connection.",
+      "style": "Soft, final. Slight slowdown on 「ありがたい」. Quiet depth — the kind of simple statement that holds years of meaning. Small, genuine closing.",
+      "mood": "deep_grateful"
+    }
+  ]
+}

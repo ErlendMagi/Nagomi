@@ -1,0 +1,76 @@
+{
+  "id": "conv_00012",
+  "context": "A small police box near a station. Yuki is at the counter, slightly flustered, having lost her wallet.",
+  "purpose": "small bureaucratic encounter — professional courtesy + a citizen mildly in distress",
+  "ambient": "police_box",
+  "target_vocab": [
+    "すみません",
+    "大丈夫",
+    "どこ",
+    "今日",
+    "時間",
+    "本当に"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "すみません、財布、なくしてしまって。",
+      "en": "I'm sorry — I've lost my wallet.",
+      "style": "Slightly out of breath, apologetic before the request. The 「すみません」 rushes out first. Eyes scanning, not quite meeting the officer's. Hands wringing slightly.",
+      "mood": "flustered_apologetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、こちらへどうぞ。落ち着いて、大丈夫です。",
+      "en": "Yes, come this way. Take a breath — it's okay.",
+      "style": "Professional, measured, genuinely reassuring. The 「落ち着いて」 offered as permission, not command. Hand gesture steady and inviting to the chair.",
+      "mood": "calm_reassuring"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。",
+      "en": "Thank you.",
+      "style": "Quiet, genuine. Air deflating slightly — shoulders releasing half a step from the previous tension. Simple and direct.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "最後にどこで見たか、覚えていますか？",
+      "en": "Where did you last see it — do you remember?",
+      "style": "Calm, methodical. Each word distinct and intentional. Pen lifted and poised to write, eyes attentive but not unkind.",
+      "mood": "professional_attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "今日のお昼、駅の近くのカフェで…多分。",
+      "en": "Today at lunch, at a café near the station… I think.",
+      "style": "Searching her own memory aloud, hesitant. The trailing uncertainty genuine, not evasive. Voice gets quieter as she reaches the 「多分」.",
+      "mood": "uncertain_reaching"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。少し時間をいただければ、確認します。",
+      "en": "I see. If you give me a moment, I'll check on that for you.",
+      "style": "Confident without flourish. Pen settles to paper, then smoothly reaches for the phone. Voice stays warm underneath the procedure.",
+      "mood": "capable_steady"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当に、すみません、ありがとうございます。",
+      "en": "Really — I'm so sorry, and thank you so much.",
+      "style": "Layered politeness tumbling out together — apology and gratitude both sincere and tangled. Slight bow of the head, relief mixing with residual embarrassment.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

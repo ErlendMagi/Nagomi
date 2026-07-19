@@ -1,0 +1,76 @@
+{
+  "id": "conv_01301",
+  "context": "Ryosuke gives financial advice to Kenji.",
+  "purpose": "mentor-mentee financial advice",
+  "ambient": "cafe_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "投資",
+    "相談",
+    "一緒",
+    "頑張る",
+    "大切"
+  ],
+  "cast": [
+    "ryosuke_dad",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_065)",
+    "generated_at": "2026-05-27T04:59:05.416Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さん、投資、本当、悩んでる。",
+      "en": "Ryosuke-san, I've been really struggling with this investment decision.",
+      "style": "Quiet vulnerability beneath composure. Leans into the admission like testing if it's safe. Warm, steady tone—not performing the struggle, just naming it. Slight pause before speaking, gathering himself.",
+      "mood": "conflicted_earnest"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ゆっくり、本当、考えよう。",
+      "en": "Let's think through it slowly, really take our time.",
+      "style": "Calm reassurance with gentle authority. Not rushing. Breath sits low and easy. Each word lands with quiet conviction—like someone who knows haste isn't wisdom. Warmth as presence, not performance.",
+      "mood": "grounded_tender"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "相談、本当、心強い。",
+      "en": "It really means a lot, being able to talk this through with you.",
+      "style": "Soft gratitude, unguarded. Relief in the pacing—slower, like a weight's being set down. The warmth in his voice is real relief, not politeness. Brief catch before 'means,' like the feeling caught him slightly off-guard.",
+      "mood": "grateful_relieved"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "一緒に、本当、頑張ろう。",
+      "en": "Let's figure this out together, yeah? We'll work through it.",
+      "style": "Steady, collaborative warmth. Not stepping in to fix—inviting a team. Low, even breath. The kind of voice that makes someone feel less alone in the struggle. Slight firmness on 'together,' gentle underneath.",
+      "mood": "supportive_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感謝、本当、ずっと。",
+      "en": "I'm really grateful for you, honestly. More than I can say.",
+      "style": "Quiet sincerity with depth underneath. The word 'grateful' carries weight—not casual. Slight tremor of genuine feeling, quickly steadied. Trails very slightly at the end, like there's more he could say but chooses not to.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こちらこそ、本当に。",
+      "en": "The feeling's mutual, truly it is.",
+      "style": "Warm mirror-back without mimicking. Simple, unhurried. The slight smile in his voice—recognition without needing to explain. Grounded presence. Breath easy, like this moment is exactly where he is.",
+      "mood": "warm_reciprocal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大切な、出会い、本当に。",
+      "en": "Meeting you has been really precious. Something I won't forget.",
+      "style": "Reflective, almost philosophical reverence. Slow, deliberate. Weight on 'precious' like he's chosen the word carefully. Warmth turns inward slightly—speaking more to himself than performing gratitude. Soft fadeout at the end, like a quiet benediction.",
+      "mood": "tender_grateful"
+    }
+  ]
+}

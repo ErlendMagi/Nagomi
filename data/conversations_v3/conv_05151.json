@@ -1,0 +1,78 @@
+{
+  "id": "conv_05151",
+  "context": "A teacher walks a uni student through an astronomy paper",
+  "purpose": "Teach: 肥満/デメリット/威力/銀河/モーター/拳/墓地/敗れ",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥満",
+    "デメリット",
+    "威力",
+    "銀河",
+    "モーター",
+    "拳",
+    "墓地",
+    "敗れ"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "この論文はね、隣の銀河で観測された超新星爆発の威力について書かれているの。",
+      "en": "This paper discusses the power of a supernova explosion observed in a neighboring galaxy.",
+      "style": "Warm professorial tone, gentle introduction to the topic."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。図4のグラフを見ると、爆発のエネルギーがとんでもない数値ですね。思わず拳を握ってしまいました。",
+      "en": "I see. Looking at Figure 4, the explosion's energy is absurdly high. I clenched my fist without realizing it.",
+      "style": "Excited student voice, leaning forward with genuine enthusiasm."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ふふ、その反応が大事よ。著者はね、星にも『肥満』のような状態があって、質量が大きすぎる恒星ほど劇的な最期を迎えると論じているの。",
+      "en": "Haha, that reaction matters. The author argues stars can have an 'obesity'-like state, and the more overly massive ones meet more dramatic ends.",
+      "style": "Playful academic warmth, light chuckle at her own medical metaphor."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "面白い比喩ですね。でも、巨大すぎることのデメリットは具体的に何ですか?",
+      "en": "Interesting metaphor. But what exactly are the downsides of being too massive?",
+      "style": "Inquisitive student tone, pushing for clearer explanation."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "重力との戦いに敗れて、内部が一気に崩壊するの。最終的にはブラックホールになって、まるで宇宙の墓地のような領域を作り出すのよ。",
+      "en": "It loses the battle against gravity and collapses inward. It ultimately becomes a black hole, creating a graveyard-like region of space.",
+      "style": "Measured lecturing rhythm, building toward a vivid cosmic image."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "宇宙の墓地……詩的ですね。ところで、この規模のシミュレーションって、どんな計算機で回しているんですか?僕のノートパソコンじゃ、モーターみたいに唸って止まりそうです。",
+      "en": "A cosmic graveyard... poetic. By the way, what kind of machine runs a simulation this big? My laptop would whine like a motor and freeze.",
+      "style": "Curious aside, half-joking about his own laptop's limits."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ふふ、国立天文台のスーパーコンピュータよ。観測データと理論モデルを組み合わせて解析しているの。",
+      "en": "Haha, the National Observatory's supercomputer. They combine observational data with theoretical models for the analysis.",
+      "style": "Informative reply with slight institutional pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。来週までに第3章を要約してきます。",
+      "en": "Got it. I'll summarize Chapter 3 by next week.",
+      "style": "Committed student closing, respectful and motivated tone."
+    }
+  ]
+}

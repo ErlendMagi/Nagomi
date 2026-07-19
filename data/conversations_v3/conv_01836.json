@@ -1,0 +1,61 @@
+{
+  "id": "conv_01836",
+  "context": "Hina-young recommends her favorite manga to Aoi.",
+  "purpose": "Teen sharing pop-culture enthusiasm with adult mentor.",
+  "ambient": "cafe_afternoon_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "漫画",
+    "面白い",
+    "物語",
+    "主人公"
+  ],
+  "cast": [
+    "hina_child",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_092)",
+    "generated_at": "2026-05-27T08:08:08.314Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "蒼さん、この漫画、面白い!",
+      "en": "Aoi, this manga is so good!",
+      "style": "Bright, unguarded enthusiasm. Quick attack on the opening — she's bursting to share. Warm and animated throughout. The innocent certainty of an eight-year-old recommending something she loves.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "どんな物語?",
+      "en": "What's the story about?",
+      "style": "Soft, genuinely curious. A warm adult tone leaning in to listen. Gentle pace — she's not just asking, she's showing interest.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "主人公、超強い!",
+      "en": "The main character is super strong!",
+      "style": "Quick, animated momentum. Words tumble out with excitement. Bright and unfiltered — she's painting the picture for Aoi to see.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ふふ、読んでみるね。",
+      "en": "Ha, I'll have to read it then.",
+      "style": "Soft, warm laugh on the opening. Gentle and fond. The tone of an adult who means what she says — she's genuinely going to read it because this child matters to her.",
+      "mood": "warm_amused"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "絶対、ハマるよ!",
+      "en": "You're totally going to love it!",
+      "style": "Confident, bright conviction. Slight lean forward in the voice — she's sure about this. Warm and unironic. The certainty of a child who knows something important.",
+      "mood": "certain_warm"
+    }
+  ]
+}

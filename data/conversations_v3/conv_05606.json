@@ -1,0 +1,65 @@
+{
+  "id": "conv_05606",
+  "context": "A boss reviews quarterly results",
+  "purpose": "Teach: 上回る/補給/含み/順次/終える/レギュラー/当店/常時",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上回る",
+    "補給",
+    "含み",
+    "順次",
+    "終える",
+    "レギュラー",
+    "当店",
+    "常時"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_282 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期、目標を上回る成果だな。",
+      "en": "This quarter's results exceeded target. Good work.",
+      "style": "Measured and direct. Light nod of approval in the voice. No waste — each word lands. Pause before 'good work.' Warm underneath but professional.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。在庫補給、順次完了しています。",
+      "en": "Yes. Inventory replenishment is progressing smoothly.",
+      "style": "Respectful clarity. Steady pace, no stumbling. Not rushed — each detail accounted for. Professional confidence without presumption.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当店ブランドのレギュラー商品、常時欠品させるな。",
+      "en": "The store-brand regulars need to stay in stock. Never let them go empty.",
+      "style": "Firm instruction, but not harsh. Light weight on 'never' — this is clear-eyed priority, not fear-based. Eyes-forward, not lecturing.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。新案を含み、年度を終える形で整えます。",
+      "en": "Understood. I'll incorporate the new ideas and have everything ready by year-end.",
+      "style": "Quiet commitment. Slight lean-in feel, meeting the directive head-on. Not promising more than he can deliver — measured reassurance. Small internal breath before 'year-end.'",
+      "mood": "focused_resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "I'm counting on you.",
+      "style": "Warm finality. Two words that dismiss and trust in the same breath. Brief, genuine. Small exhale after — mission accepted.",
+      "mood": "trusting"
+    }
+  ]
+}

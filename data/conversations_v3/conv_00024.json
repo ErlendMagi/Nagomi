@@ -1,0 +1,83 @@
+{
+  "id": "conv_00024",
+  "context": "A quiet community library on a Wednesday afternoon. The retired professor reads a picture book aloud to a small circle of children; one of them keeps interrupting with sincere questions.",
+  "purpose": "gentle instructional warmth — building curiosity in a child",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "読む",
+    "何",
+    "面白い",
+    "どう",
+    "時間"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "では、続きを読みますよ。",
+      "en": "Alright, I'll read on now.",
+      "style": "Low, weathered voice with warmth underneath. Careful, deliberate pace—the measured rhythm of someone who has read aloud for decades. A small, genuine smile audible at the edges.",
+      "mood": "gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "先生、その鳥、本当に話せるの？",
+      "en": "Sensei, can that bird really talk?",
+      "style": "Bright, genuinely curious interruption. Voice lifts on the question mark—no performance, just pure eight-year-old wonder. Leans slightly forward in the voice.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "お話の中ではね。本当のことかは、君が決めていい。",
+      "en": "In the story, yes. Whether it's really true—you get to decide that.",
+      "style": "Slow and considered. He honors the question as if it were asked by an adult. Steady eye-contact level throughout. A slight pause before the second sentence, giving it weight.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "そっか…じゃあ、話せることにする！",
+      "en": "Oh—so I'll decide it can talk!",
+      "style": "A small breath of sudden understanding. Decisive and certain in the way only a child can be. Ends with quiet excitement, not performed.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いい判断ですね。続きが楽しみになる。",
+      "en": "That's a wise decision. It makes the rest of the story more interesting.",
+      "style": "Quiet approval delivered without condescension. Treats her choice as genuinely important. Warm nod in the voice.",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん！その次、どうなるの？",
+      "en": "Yeah! So what happens next?",
+      "style": "Leans forward eagerly. Barely containing energy. Already bouncing slightly in the seat, voice quick with anticipation.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "それは、読んでからのお楽しみ。",
+      "en": "That's the fun of finding out—by reading on.",
+      "style": "A small, knowing chuckle underneath. The deliberate withholding of a practiced storyteller. Playful but not teasing. A slight twinkle of mischief.",
+      "mood": "playful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "早く読んで、おじいちゃん先生！",
+      "en": "Hurry up and read, Grandpa-sensei!",
+      "style": "Affectionate demand wrapped in laughter. The improvised honorific lands as genuine warmth and compliment. Voice almost giggling, full of comfortable affection.",
+      "mood": "affectionate"
+    }
+  ]
+}

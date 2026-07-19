@@ -1,0 +1,69 @@
+{
+  "id": "conv_00154",
+  "context": "After class. Hina has stayed behind to show Ms. Asuka a picture she drew during break.",
+  "purpose": "teacher-student bond — attentive recognition of a child's small offering",
+  "ambient": "classroom_after",
+  "sound_effects": [],
+  "target_vocab": [
+    "先生",
+    "見る",
+    "上手",
+    "色",
+    "描く"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "先生、見て見て！描いたの！",
+      "en": "Teacher, look look! I drew it!",
+      "style": "Bright urgent child voice, the second 「見て」 even brighter, a small jumping energy in delivery.",
+      "mood": "eager-bright"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "わあ、すごく綺麗な色だね。",
+      "en": "Wow, what really pretty colors.",
+      "style": "Patient teacher warmth, kneeling-down register in the voice, real attention given to the small artwork.",
+      "mood": "attentive-warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ピンクが一番すき！",
+      "en": "I like pink the best!",
+      "style": "High child certainty, total conviction on the favorite, bright pitched declaration delivered fully.",
+      "mood": "declarative-bright"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "お花、上手に描けてるよ。",
+      "en": "You drew the flowers really well.",
+      "style": "Teacher specific praise, naming what is good carefully, encouragement that recognizes the actual effort.",
+      "mood": "specifically-praising"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えへへ、おかあさんにあげる！",
+      "en": "Heehee, I'm giving it to Mom!",
+      "style": "Pleased child giggling chirp, the gift-plan already lifting the voice into anticipated joy ahead.",
+      "mood": "pleased-anticipating"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "きっと喜んでくれるよ。気をつけて帰ってね。",
+      "en": "She'll surely be happy. Get home safely now.",
+      "style": "Warm teacher closing, gentle send-off softness, the care behind the routine instruction palpable in tone.",
+      "mood": "warmly-closing"
+    }
+  ]
+}

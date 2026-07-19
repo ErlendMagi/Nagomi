@@ -1,0 +1,78 @@
+{
+  "id": "conv_03291",
+  "context": "Planning a new community app",
+  "purpose": "Plan an app; teach アプリケーション/上記/記述/つぶやき/名無し/適切/削除/特許",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "アプリケーション",
+    "上記",
+    "記述",
+    "つぶやき",
+    "名無し",
+    "適切",
+    "削除",
+    "特許"
+  ],
+  "cast": [
+    "ren_uni",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_165)",
+    "generated_at": "2026-05-29T17:24:30.859Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "新しいアプリケーションの仕様、まとめたよ。",
+      "en": "I put together the new application’s spec.",
+      "style": "organized lead presenting his work, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "上記の機能、全部入れるの？",
+      "en": "Are we including all the above features?",
+      "style": "junior dev confirming scope, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん、設計書に詳しく記述してある。",
+      "en": "Yeah, it’s described in detail in the design doc.",
+      "style": "thorough lead pointing to the document"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "つぶやきを投稿する機能もつけるんだね。",
+      "en": "We’re adding a feature to post short murmurs too.",
+      "style": "dev noting a key feature, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そう。名無しでも投稿できるようにする。",
+      "en": "Right. We’ll let people post anonymously too.",
+      "style": "lead explaining a design choice, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "不適切な投稿は削除できる？",
+      "en": "Can we delete inappropriate posts?",
+      "style": "dev raising a moderation concern, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もちろん。通報があれば、適切に対応するよ。",
+      "en": "Of course. If reported, we respond appropriately.",
+      "style": "responsible lead reassuring him, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "この仕組み、特許とか取れないのかな。",
+      "en": "Couldn’t this mechanism get a patent?",
+      "style": "ambitious dev floating an idea, each word carrying genuine natural feeling"
+    }
+  ]
+}

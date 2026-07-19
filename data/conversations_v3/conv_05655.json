@@ -1,0 +1,65 @@
+{
+  "id": "conv_05655",
+  "context": "A boss and manager talk about a corporate health crisis",
+  "purpose": "Teach: 犯行/孤立/敗北/臓器/発症/投与/危惧/及ぼし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "犯行",
+    "孤立",
+    "敗北",
+    "臓器",
+    "発症",
+    "投与",
+    "危惧",
+    "及ぼし"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_284 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "工場周辺で、健康被害の発症が報じられている。",
+      "en": "Health effects are being reported in the area around the plant.",
+      "style": "Measured opening. Precise diction, slight weight on 'being reported'—clinical distance masking concern. Steady eye contact. The tone of a leader choosing his words carefully for the record.",
+      "mood": "grave_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。孤立した集落から、医療敗北の声まで。",
+      "en": "Yes. From isolated villages to voices saying the medical system has failed them.",
+      "style": "Quiet documentation. Slight pause before 'even voices'—absorbing the weight of what he's saying. No editorializing. Just laying facts out for his superior to see.",
+      "mood": "somber"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去の薬剤投与で、社員の臓器に影響を及ぼした例もあった。",
+      "en": "There have been cases where past chemical exposure affected our employees' organs.",
+      "style": "Firm, unflinching. No softening. Slight emphasis on 'have been'—acknowledging precedent without excuse. The voice of someone stating what must be stated.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "外部の専門家も、長期的影響を危惧しています。",
+      "en": "Outside experts are concerned about the long-term effects as well.",
+      "style": "Thoughtful pause mid-sentence. Measured delivery, building toward the weight of expert consensus. Not defensive—reporting what the data shows.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "公的犯行ではないが、説明責任は果たそう。",
+      "en": "It's not a matter of state law, but we will take responsibility.",
+      "style": "Quiet resolution. Hard stop on 'responsibility'—finality and commitment in the same syllable. Lower register. The decision has been made and this is him saying it aloud to make it real.",
+      "mood": "resolute"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "conv_04872",
+  "context": "A doctor explains a wellness research summary to a teen",
+  "purpose": "Teach: 公判/判事/ノーベル/飼育/曲線/半数/根底/療養",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "公判",
+    "判事",
+    "ノーベル",
+    "飼育",
+    "曲線",
+    "半数",
+    "根底",
+    "療養"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_245 workflow w5gqr173i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、最近よく眠れなくて。学校から帰ると、もうへとへとなんです。",
+      "en": "Doctor, I haven't been sleeping well lately. By the time I get home from school, I'm already exhausted.",
+      "style": "Tired teen voice, slightly drawn-out vowels, opening up to a trusted adult"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。実はね、ノーベル賞をとった先生のチームが、疲れの曲線について面白い研究をしているんだよ。",
+      "en": "I see. Actually, a team led by a Nobel-winning professor has done some interesting research on the curve of fatigue.",
+      "style": "Warm doctor voice, easing into the topic gently, slowing on technical terms"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "疲れに曲線があるんですか？なんか、グラフみたいでちょっと面白いですね。",
+      "en": "Fatigue has a curve? That sounds kind of interesting, like a graph or something.",
+      "style": "Curious teen tone, voice perking up with mild surprise"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そう、毎日同じ時間に寝るだけで、調べた高校生の半数くらいが、二週間で楽になったんだ。",
+      "en": "Right — and just by going to bed at the same time every day, about half of the high schoolers they studied felt better within two weeks.",
+      "style": "Encouraging, practical example, voice lifting on the hopeful statistic"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "半数も？じゃあ、わたしも試せそうかも。寝る時間ってそんなに根底から効くんですね。",
+      "en": "Half of them? Then maybe I could try it too. So bedtime really matters at a fundamental level, huh.",
+      "style": "Brightening teen voice, hopeful realization, casual phrasing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、生活リズムは健康の根底にあるからね。あと、犬とか猫の飼育もストレスを下げるって言われてるよ。",
+      "en": "Yes, daily rhythm is at the foundation of health. Also, keeping a dog or cat is said to reduce stress.",
+      "style": "Friendly mentor tone, adding a relatable example with a soft smile in the voice"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、それニュースで見ました！どこかの判事さんが、公判の合間に保護犬と過ごして救われたって話。",
+      "en": "Oh, I saw that on the news! Some judge talked about being saved by spending time with a rescue dog between court sessions.",
+      "style": "Lively teen recognition, animated and slightly excited to share what she saw"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、あの記事ね。公判が続くと判事さんも本当に疲れるから、動物との時間が効くんだろうね。",
+      "en": "Ah, that article. Trials drag on, so judges really do get exhausted — time with animals must help.",
+      "style": "Pleased recognition, conversational and knowing, connecting threads naturally"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うちもおばあちゃんが自宅療養してて、猫がいると表情がやわらかいんです。",
+      "en": "My grandma is recuperating at home too, and when the cat's around, her expression really softens.",
+      "style": "Tender teen voice, sharing something personal, slightly slower and softer"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは素敵だね。療養中はとくに、そういう小さなことが一番効いたりするんだよ。",
+      "en": "That's lovely. Especially during recuperation, those small things often help the most.",
+      "style": "Warm closing tone from doctor, affirming and gentle, wrapping up kindly"
+    }
+  ]
+}

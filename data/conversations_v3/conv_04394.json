@@ -1,0 +1,78 @@
+{
+  "id": "conv_04394",
+  "context": "A doctor walks a dad through his health screening results",
+  "purpose": "Teach: 死体/生存/先端/誤っ/牛肉/サイエンス/欲求/上下",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "死体",
+    "生存",
+    "先端",
+    "誤っ",
+    "牛肉",
+    "サイエンス",
+    "欲求",
+    "上下"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_221 workflow wrbdpljmv)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "良介さん、健康診断の結果をお持ちしました。数値が上下している項目もあるので、一緒に確認していきましょう。",
+      "en": "Ryosuke, I've brought your health screening results. Some values fluctuate up and down, so let's go through them together.",
+      "style": "Calm professional doctor opening with measured warmth"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "よろしくお願いします。実は朝からドキドキしていて…先生、僕の生存率って大丈夫ですか?",
+      "en": "Thank you. Honestly, I've been nervous since this morning — doctor, is my survival rate okay?",
+      "style": "Nervous middle-aged father half-joking to mask worry"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "生存に関わるような所見はありませんから、ご安心ください。ただ、コレステロール値が高めです。牛肉や脂っこい料理は少し控えてくださいね。",
+      "en": "There are no findings related to your survival, so please rest easy. However, your cholesterol is elevated, so please cut back a bit on beef and fatty dishes.",
+      "style": "Reassuring then pivoting to gentle medical advice clearly"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "牛肉ですか…週末のステーキが楽しみだったのに。食べたいっていう欲求が強くて、つい手が伸びちゃうんです。",
+      "en": "Beef, huh… I was looking forward to my weekend steak. The craving is so strong, my hand just reaches for it.",
+      "style": "Sheepish conversational confession with rueful self-aware humor"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お気持ちは分かりますよ。それから、胃の中に小さなポリープが一つ見つかりました。最先端の内視鏡で確認したので、見落としはありません。",
+      "en": "I understand the feeling. Also, we found one small polyp in your stomach. We confirmed it with a cutting-edge endoscope, so there's no oversight.",
+      "style": "Empathetic transition into more serious finding professionally"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ポリープ!?昨日テレビで、死体から癌が見つかったってドラマをやってて…まさか、僕も?",
+      "en": "A polyp?! Just yesterday a TV drama showed cancer being found in a corpse… don't tell me, me too?",
+      "style": "Panicked dad jumping to worst-case TV drama conclusions"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "落ち着いてください。その推測は完全に誤っていますよ。良性ですし、医療サイエンスの進歩のおかげで、日帰りで取れる時代です。",
+      "en": "Please calm down. That guess is completely mistaken. It's benign, and thanks to advances in medical science, polyps can be removed in a same-day procedure these days.",
+      "style": "Firm but kind correction restoring patient confidence gently"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "そうですか…本当に安心しました。じゃあ、来月予約をお願いします。牛肉も、しばらく我慢します。",
+      "en": "I see… I'm really relieved. Then please book me for next month. I'll hold off on the beef for a while too.",
+      "style": "Visibly relieved father wrapping up with sincere gratitude"
+    }
+  ]
+}

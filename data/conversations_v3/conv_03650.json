@@ -1,0 +1,78 @@
+{
+  "id": "conv_03650",
+  "context": "A senior teacher mentors a new teacher about classroom management",
+  "purpose": "Teach: 申込/様式/分担/学期/人員/加える/細かく/穏やか",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "申込",
+    "様式",
+    "分担",
+    "学期",
+    "人員",
+    "加える",
+    "細かく",
+    "穏やか"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_183 workflow wlr1s3w84)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "新学期が始まる前に、クラス運営について少し話しておきたいことがあるんです。",
+      "en": "Before the new term starts, there are a few things I'd like to discuss about running your class.",
+      "style": "Warm senior teacher opening a mentoring conversation calmly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。実は保護者への申込書の書き方からよく分かっていなくて。",
+      "en": "Thank you. Honestly, I don't even fully understand how to fill out the application forms for parents.",
+      "style": "Polite new teacher admitting uncertainty with humble tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫ですよ。様式は職員室の棚にまとめてあるので、後で一緒に確認しましょう。",
+      "en": "Don't worry. The forms are organized on the shelf in the staff room, so let's check them together later.",
+      "style": "Reassuring mentor offering practical guidance with patience."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "助かります。担任業務の分担も、まだ誰に何を頼んでいいのか迷っていて…",
+      "en": "That's a huge help. I'm also still unsure who to ask for what when it comes to dividing homeroom duties.",
+      "style": "Hesitant junior seeking clarity on workplace responsibilities."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今年は人員が少し減ったので、一人ひとりの役割を細かく決めておく必要がありますね。",
+      "en": "Staff numbers dropped a little this year, so we need to define each person's role in detail.",
+      "style": "Experienced teacher explaining staffing reality matter-of-factly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。私にもできる仕事があれば、遠慮なく担当に加えてください。",
+      "en": "I see. If there's anything I can handle, please don't hesitate to add it to my responsibilities.",
+      "style": "Eager newcomer volunteering with sincere respectful tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "頼もしいです。それから、子どもを叱る時はできるだけ穏やかな声で話してあげてくださいね。",
+      "en": "That's reassuring. And when you scold a child, please try to speak in as gentle a voice as possible.",
+      "style": "Wise advice delivered softly with kindness and authority."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、肝に銘じます。一学期の間、いろいろ教えていただけると嬉しいです。",
+      "en": "Yes, I'll take that to heart. I'd be grateful if you could teach me many things throughout the first term.",
+      "style": "Earnest closing commitment from grateful junior colleague."
+    }
+  ]
+}

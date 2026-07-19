@@ -1,0 +1,72 @@
+{
+  "id": "conv_05372",
+  "context": "A boss and his manager discuss a market-stagnation article",
+  "purpose": "Teach: 反する/成り立っ/起こら/停滞/弊害/苦しむ/逃れ/迫ら",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "反する",
+    "成り立っ",
+    "起こら",
+    "停滞",
+    "弊害",
+    "苦しむ",
+    "逃れ",
+    "迫ら"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、市場の停滞と物価高に苦しむ家計を、両面から扱ってるな。",
+      "en": "This piece handles both angles—market stagnation and households squeezed by rising prices.",
+      "style": "Measured opening. Analytical but approachable. Even pacing. Light emphasis on the duality without lecturing. The tone of someone who's read carefully and thinks out loud.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。政策の意図と反する結果が、起こらないとは断言できないと書かれています。",
+      "en": "Yes. It argues that unintended consequences—things contrary to policy intent—can't be completely ruled out.",
+      "style": "Deferential but engaged. Clear enunciation on key terms. Steady pace, building on the boss's point. Respectful without disappearing into the background.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "増税からの逃れ方、企業側の弊害も検討必須だな。",
+      "en": "The exit strategies companies might use, and the fallout for them—both have to be part of this analysis.",
+      "style": "Firmer conviction. Light pause before the dash. Slight weight on «both». Practical tone, moving from observation into requirement. Short breath before the emphatic close.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "判断が迫られる場面、経営側にも増えています。",
+      "en": "The pressure to decide is landing on management now, and it's only growing.",
+      "style": "Quiet emphasis on the reality. Not alarmed, but factual. Steady, almost understated delivery. The tone of someone reporting something true and difficult.",
+      "mood": "measured_concern"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "論理がきちんと成り立っているか、来週の会議で議論しよう。",
+      "en": "So next week—let's walk through whether the argument actually holds.",
+      "style": "Directive but collaborative. Light decisiveness. Open pacing, inviting dialogue. The boss setting the agenda without closing the door.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Clean, prompt agreement. Slight nod in the voice. Professional closure without stiffness. Kenji confirming the next step and readying himself.",
+      "mood": "compliant"
+    }
+  ]
+}

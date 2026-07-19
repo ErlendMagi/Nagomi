@@ -1,0 +1,61 @@
+{
+  "id": "conv_01580",
+  "context": "Riku-teen tries out for a school sports team; Hiroshi-boss happens to coach.",
+  "purpose": "Authoritative coach giving sharp but warm feedback.",
+  "ambient": "gym_practice_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "練習",
+    "部活",
+    "挑戦",
+    "努力"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日の練習、良かったぞ。",
+      "en": "Today's practice was good.",
+      "style": "Quiet satisfaction. Slight nod in the voice. Warm but measured — praise landing like a steady hand on the shoulder. No excess.",
+      "mood": "pleased_approving"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ほんとですか?やった!",
+      "en": "Really? Yes!",
+      "style": "Bright spike of joy. Immediate, unburdened excitement — the relief of being seen doing something right. Breathless on the peak.",
+      "mood": "elated"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "挑戦する姿勢、評価する。",
+      "en": "I appreciate the way you kept challenging yourself out there.",
+      "style": "Measured and genuine. Light emphasis on the commitment, not the flattery. Steady eye contact in the tone. Teacher acknowledging student, not boss above subordinate.",
+      "mood": "genuinely_proud"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "努力、続けます!",
+      "en": "I'm going to keep working hard.",
+      "style": "Sincere forward momentum. Not performing — meaning it. Soft conviction underneath, like he's making a promise to himself as much as to Hiroshi.",
+      "mood": "determined_earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん、その意気や。",
+      "en": "That's the spirit.",
+      "style": "Warm approval. Brief and unadorned — the kind of simple affirmation that stays with you. Soft chuckle underneath, like he's seen this commitment before and knows where it leads.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

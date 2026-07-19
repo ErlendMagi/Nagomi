@@ -1,0 +1,75 @@
+{
+  "id": "conv_01839",
+  "context": "Ren attends a manga drawing workshop taught by Kenji.",
+  "purpose": "Established artist teaching younger ambitious one.",
+  "ambient": "studio_workshop_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "漫画",
+    "描く",
+    "練習",
+    "上達"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_092)",
+    "generated_at": "2026-05-27T08:08:08.314Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "蓮、漫画、まず線からや。",
+      "en": "Ren — manga. Start with the lines.",
+      "style": "Warm, patient mentor speaking in soft Kansai lilt. Lean in slightly on the instruction. Deliberate pace—giving him space to absorb each piece. Fond underneath the directness.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、繰り返し描きます。",
+      "en": "Yes — I'll draw them over and over.",
+      "style": "Quiet determination. Respectful but not deferential. Slight nod in the voice on the commitment. Soft earnestness without strain.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "練習、毎日やで。",
+      "en": "Every day, yeah? That's practice.",
+      "style": "Kansai warmth with quiet firmness underneath. The 'yeah' is a gentle check-in, not a question. Unhurried. The anchor of someone who knows this takes time.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "上達、見えてくる?",
+      "en": "Will I actually see improvement?",
+      "style": "Young voice, slightly vulnerable. Hopeful but bracing for disappointment. Light lift at the end—asking genuinely, not performing doubt. A little breath of worry underneath.",
+      "mood": "hopeful_anxious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、少しずつな。",
+      "en": "Yeah—bit by bit, you will.",
+      "style": "Soft Kansai affirmation. Warm and certain without being blunt. Settles on the words like he's handing something solid over. Slight smile in the tone.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "焦らず、続けます。",
+      "en": "I won't rush it. I'll keep going.",
+      "style": "Quiet resolution. Steady voice, not dramatic. Absorbing what he's been told. The slight slowness of someone turning his uncertainty into commitment right there in the words.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ姿勢や、応援するで。",
+      "en": "That's the right approach. I'm rooting for you.",
+      "style": "Warm Kansai mentor at ease. Genuine approval on 'right approach'—not patronizing, just clear. Settles back slightly. The reassurance of someone who means what he says and will remember this.",
+      "mood": "warm_supportive"
+    }
+  ]
+}

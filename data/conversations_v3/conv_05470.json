@@ -1,0 +1,72 @@
+{
+  "id": "conv_05470",
+  "context": "A police officer briefs a uni reporter about civic projects",
+  "purpose": "Teach: 月額/採決/取組/拠出/強行/承り/隊長/棟",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月額",
+    "採決",
+    "取組",
+    "拠出",
+    "強行",
+    "承り",
+    "隊長",
+    "棟"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本年度の取組、月額予算で運用しています。",
+      "en": "This year's initiatives are operating on a monthly budget framework.",
+      "style": "Measured, official tone. Slight pause before the detail. Even pacing, no rush. Posture is upright, present — this is procedural but not cold.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "採決は議会で強行的にならず、円滑に進んだんですか。",
+      "en": "Did the assembly discussion move forward without forcing a vote? It went smoothly?",
+      "style": "Respectful but genuine curiosity underneath. Slight hesitation on the first clause — testing the question's shape before finishing. Soft rise at the end, inviting confirmation.",
+      "mood": "tentatively_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地元企業も拠出金を出し、警備の隊長と協議しました。",
+      "en": "Yes. Local companies contributed funds as well, and we consulted with the security division lead.",
+      "style": "Steady, factual delivery. Matter-of-fact tone. Minimal inflection — this is information, not persuasion. Voice stays level and clear throughout.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "庁舎棟の改修、いつから始まりますか。",
+      "en": "When will the building renovation start?",
+      "style": "Direct, practical question. Slight lean forward in the voice — genuine interest, not just checking a box. Quick pace, no hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "秋からです。住民の声、市民窓口で承りますの形で受けています。",
+      "en": "From this autumn. We're receiving resident input through the citizen counter — formally documented.",
+      "style": "Clear, methodical pacing. Light emphasis on the process itself — this is how things are done. Warm undertone despite the bureaucratic detail. Slight settling at the end, as if closing a file.",
+      "mood": "informative_steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "Sincere, quiet gratitude. Brief but weighted — not perfunctory. Slight bow in the voice. Eyes might meet for just a moment longer than necessary.",
+      "mood": "respectful_genuine"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03988",
+  "context": "A rural local talks to a city mom about a recent storm impact",
+  "purpose": "Teach: 嵐/被災/消防/役所/解体/区域/警官/侵入",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "嵐",
+    "被災",
+    "消防",
+    "役所",
+    "解体",
+    "区域",
+    "警官",
+    "侵入"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "昨夜の大嵐、本当にひどくてね。山の方の集落が丸ごと被災してしまったよ。",
+      "en": "Last night's huge storm was really terrible. An entire village in the mountains was hit as a disaster area.",
+      "style": "Weary rural tone, slow and heavy with concern for neighbors."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えっ、そんなにひどかったんですか。ニュースでは消防車がずっと走ってるって聞きました。",
+      "en": "What, was it really that bad? On the news they said fire trucks were running nonstop.",
+      "style": "Concerned city-mom voice, soft and quietly alarmed."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん、消防団も役所の人たちも、朝までずっと走り回ってたよ。",
+      "en": "Yeah, the fire brigade and the town hall staff were running around all night until morning.",
+      "style": "Tired but warm village-elder tone, almost sighing."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "倒れた家はもう解体するんでしょうか。子どもがいる家は心配で…。",
+      "en": "Will the collapsed houses be demolished already? I worry about families with children.",
+      "style": "Maternal worry, gentle but pressing, slightly hushed."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ、川沿いはもう立入禁止区域になっとるよ。危なくて入れんからね。",
+      "en": "Ah, the riverside has already been marked as a no-entry zone. It's too dangerous to step in.",
+      "style": "Rural drawl with mild dialect, calm but firm tone."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "じゃあ、警官の方も見回りしてるんですか?",
+      "en": "Then are police officers patrolling the area too?",
+      "style": "Polite city-mother question, lifting tone with concern."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "そうそう、警官が交代で立っとるよ。野次馬の不法侵入も多いみたいでね。",
+      "en": "That's right, officers are standing watch in shifts. Lots of gawkers trespassing illegally too.",
+      "style": "Grumbled, slightly disapproving rural elder voice."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひどい話ですね…。何か送れる支援物資があれば、ぜひ教えてください。",
+      "en": "That's awful... If there are any relief supplies I can send, please do let me know.",
+      "style": "Sincere, soft maternal warmth offering quiet help."
+    }
+  ]
+}

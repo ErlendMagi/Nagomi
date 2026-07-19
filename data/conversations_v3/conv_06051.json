@@ -1,0 +1,79 @@
+{
+  "id": "conv_06051",
+  "context": "A police officer briefs about a fraud case",
+  "purpose": "Teach: 儀礼/貫く/浮き彫り/造船/応じる/騙し/辞退/モニタリング",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "儀礼",
+    "貫く",
+    "浮き彫り",
+    "造船",
+    "応じる",
+    "騙し",
+    "辞退",
+    "モニタリング"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_304 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、被害者への儀礼的な挨拶も、慎重に扱います。",
+      "en": "We're handling victim contact with particular care in this case.",
+      "style": "Even, measured opening. Professional composure. Steady eye contact. Each phrase deliberate and unhurried, like reading from careful notes.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "捜査方針を貫く姿勢、印象的ですね。",
+      "en": "The way you're committed to following that investigative path — that's impressive.",
+      "style": "Genuine curiosity, slightly tentative. Leans forward slightly. Tone is sincere but searching, testing whether Takeda will elaborate.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。組織内部の構造、浮き彫りになりました。",
+      "en": "Yes. The internal structure of the organization has come into sharp focus.",
+      "style": "Confirmation tone, matter-of-fact. Brief pause before 'focus' — letting it settle. Clinical precision, no elaboration offered.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "造船業界での詐欺、共通点があるんですか。",
+      "en": "Are there common patterns in the fraud cases across the shipbuilding industry?",
+      "style": "Direct question, genuinely seeking information. Slight lift at the end. Engaged but not pushing — giving space for a full answer.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者の要求に応じる迅速対応、警察の使命です。",
+      "en": "Yes. Responding quickly to victims' requests — that's core to what we do.",
+      "style": "Calm reaffirmation. Slight weight on 'core' — this is principle, not procedure. Steady, almost protective of the statement.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "騙し手口、業界全体で監視必要ですね。",
+      "en": "The deception methods are consistent enough that industry-wide monitoring seems essential.",
+      "style": "Thoughtful, building toward conclusion. Slight increase in confidence. Genuinely probing — not asking permission, but inviting agreement.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。出頭辞退の容疑者、モニタリング下にあります。",
+      "en": "Yes. The suspects who've refused to appear are under active surveillance.",
+      "style": "Final statement, calm and definitive. Slight hardening of tone — assurance, not threat. Closes the line with quiet authority.",
+      "mood": "assured"
+    }
+  ]
+}

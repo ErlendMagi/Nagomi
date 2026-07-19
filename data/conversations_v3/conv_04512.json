@@ -1,0 +1,90 @@
+{
+  "id": "conv_04512",
+  "context": "A helpdesk worker walks a barista through phone setup",
+  "purpose": "Teach: リフォーム/アップデート/グーグル/ウィンドウ/ビット/スタンダード/フォト/識別",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "リフォーム",
+    "アップデート",
+    "グーグル",
+    "ウィンドウ",
+    "ビット",
+    "スタンダード",
+    "フォト",
+    "識別"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "すみません、店のスマホでグーグルのアカウントにログインできなくて困ってます。",
+      "en": "Sorry, I can't sign into the Google account on the shop phone.",
+      "style": "Apologetic, slightly flustered service worker tone with rising tension."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "落ち着いてください。まず設定アプリを開いて、最新のアップデートが当たってるか確認しましょう。",
+      "en": "Calm down. First open Settings and check the latest update is applied.",
+      "style": "Patient, gently guiding helpdesk register with reassuring pacing."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、『最新の状態です』って出てます。アップデートは大丈夫みたいです。",
+      "en": "Oh, it says 'up to date.' The update seems fine.",
+      "style": "Relieved customer-service brightness with rising intonation throughout."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では一度ブラウザのウィンドウを閉じて、もう一度グーグルのログイン画面を開いてみてください。",
+      "en": "Then close the browser window once and reopen the Google login screen.",
+      "style": "Crisp technical instruction in a methodical office tone overall."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "開きました!端末の識別番号を入れる欄が出てるんですが、これってスタンダードの設定で合ってますか?",
+      "en": "It's open! There's a field for the device ID — is that the standard setting?",
+      "style": "Eager barista chatter with slightly anxious upward inflection."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、スタンダードで大丈夫です。暗号化は二百五十六ビットなので、安全性も問題ありません。",
+      "en": "Yes, standard is fine. The encryption is 256-bit, so security is fine too.",
+      "style": "Reassuring technical confirmation with calm authoritative delivery."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります!ところで、お客様のフォトを保存するアプリも入れたいんですが…",
+      "en": "Thank you! By the way, I also want to install a photo app for customers...",
+      "style": "Eager, slightly off-topic barista chatter with hopeful upturn."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "店内のリフォーム後にルールが変わったので、私物のフォトアプリは入れないでくださいね。",
+      "en": "Since the in-store renovation, the rules changed, so don't install personal photo apps.",
+      "style": "Firm but polite corporate-policy reminder with soft closing particle."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかりました。じゃあレジ連携だけお願いします。本当に助かりました!",
+      "en": "Understood. Then just the register link-up, please. You really saved me!",
+      "style": "Cheerful, grateful barista wrap-up with bright energetic closing."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "こちらこそ。何かあればまた内線でどうぞ。",
+      "en": "My pleasure. If anything comes up, call the extension again.",
+      "style": "Warm, professional sign-off from helpdesk with gentle parting tone."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_02545",
+  "context": "Incident news: Sakura and Ren on a road accident.",
+  "purpose": "WIDENED SCENARIO: incident news; safety vocabulary (被害/批判/警察/事故/リスク) in natural home.",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "被害",
+    "批判",
+    "警察",
+    "事故",
+    "リスク"
+  ],
+  "cast": [
+    "sakura_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_128)",
+    "generated_at": "2026-05-29T13:08:48.299Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "昨夜、高速道路で事故がありました。",
+      "en": "There was an accident on the expressway last night.",
+      "style": "crisp adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害の状況は、分かっていますか?",
+      "en": "Is the extent of damage known?",
+      "style": "measured young reporter voice, soft warm serious focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "大きな被害は、なかったようです。",
+      "en": "It seems there was no major damage.",
+      "style": "clear adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察は、何と言っていますか?",
+      "en": "What are the police saying?",
+      "style": "serious young reporter voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "警察は、事故の原因を調査中です。",
+      "en": "Police are investigating the cause.",
+      "style": "professional adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "対策の遅れに、批判もありますね。",
+      "en": "There's criticism over the delayed measures.",
+      "style": "analytical young reporter voice, soft warm calm throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "事故のリスクを、減らす工夫が必要です。",
+      "en": "We need ways to reduce accident risk.",
+      "style": "measured adult anchor voice, soft warm serious clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察の発表を、待ちましょう。",
+      "en": "Let's await the police announcement.",
+      "style": "earnest young reporter voice, soft warm calm closing throughout"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01588",
+  "context": "Daichi tries to fix a broken washing machine; Kenji stops by to help.",
+  "purpose": "Two men troubleshooting an appliance together.",
+  "ambient": "laundry_room_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "故障",
+    "修理",
+    "電源",
+    "部品"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_080)",
+    "generated_at": "2026-05-27T06:43:51.775Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "洗濯機、故障してもうた。",
+      "en": "The washing machine's broken.",
+      "style": "Weary, matter-of-fact opening. Warm resignation in the voice—not complaining, just stating the obvious problem. Small, tired exhale. Kansai lilt throughout, grounded and honest.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "電源、入らんの?",
+      "en": "The power won't come on?",
+      "style": "Gentle diagnostic question. Leans in slightly with focus. Warm and attentive—like he's already thinking through it with you. Kansai cadence, unhurried and steady.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "うん、うんともすんとも。",
+      "en": "Yeah—completely dead.",
+      "style": "Flat, exhausted confirmation. No life in it. Slight frustrated edge but mostly just tired. Kansai drawl on the affirmation. Trailing off into defeat.",
+      "mood": "exhausted"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コード、確認しよか。",
+      "en": "Let's check the cord.",
+      "style": "Practical, grounded suggestion. Warm problem-solver tone—no drama, just moving forward. Kansai softness underneath. Light, actionable delivery.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "こっち、見て見て。",
+      "en": "Look here—see?",
+      "style": "Urgent, pointing attention. Quick and a little sharp with frustration. Genuine—not performing, just need him to see the problem. Kansai directness.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、部品交換要るな。",
+      "en": "Yeah, that'll need a part replacement.",
+      "style": "Composed diagnosis. Quiet confidence—he's seen this before. Matter-of-fact but warm, not condescending. Kansai steadiness. Clean, clear delivery.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "頼むわ、店行ってくる。",
+      "en": "Thanks—I'll go to the shop today.",
+      "style": "Grateful and determined. Soft warmth underneath the resolve. Kansai gratitude—genuine, not performative. Rolling up sleeves in the voice. Moving to action.",
+      "mood": "grateful_resolved"
+    }
+  ]
+}

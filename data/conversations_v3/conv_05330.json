@@ -1,0 +1,72 @@
+{
+  "id": "conv_05330",
+  "context": "A police officer briefs a uni reporter about admin overlap",
+  "purpose": "Teach: 役人/図っ/担う/立案/当方/所管/登記/全額",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役人",
+    "図っ",
+    "担う",
+    "立案",
+    "当方",
+    "所管",
+    "登記",
+    "全額"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、複数の役人が立案に関与しているケースです。",
+      "en": "In this case, multiple officials were involved in the planning phase.",
+      "style": "Measured official tone. Open the statement clearly. Tempo is steady, neither rushed nor dragging. Keep it procedural—this is information being established, not debated.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "所管がまたがると、調整は当方の役割ですか。",
+      "en": "When jurisdictions overlap like this, does coordination fall to us?",
+      "style": "Genuine inquiry, not defensive. Lean slightly forward in the phrasing—Ren is thinking through the logistics as he speaks. Even pace, slight lift at the question mark. The tone is collaborative.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察と自治体、両方が役割を担う形になっています。",
+      "en": "Both the police department and the municipality share the responsibility.",
+      "style": "Clarifying, not explaining. Light emphasis on 「both」. Calm, professional delivery. The kind of answer that settles a question without reopening it.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "費用は全額、税金から賄われるんですか。",
+      "en": "Are all the costs absorbed by the tax system, or does it vary?",
+      "style": "Ren's second probe—slightly more specific than the first. Still respectful, but the question sharpens a little. Natural tempo. He's tracking the details carefully.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "制度により異なります。図ってる新制度も検討中です。",
+      "en": "It depends on the system. There's a new framework under discussion that might change that.",
+      "style": "Measured, slightly more open than before. Takeda's offering real information now, not just procedure. Keep the delivery steady but let a small note of forward-looking effort show—he's invested in this answer.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "登記関連の話、後ほど資料いただけますか。",
+      "en": "Could you send me the materials on the registration process later?",
+      "style": "Respectful close to the conversation. Ren's voice softens slightly—he's transitioning from questioning to wrapping up. The request is genuine but understated. Let it trail gently.",
+      "mood": "grateful"
+    }
+  ]
+}

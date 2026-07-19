@@ -1,0 +1,72 @@
+{
+  "id": "conv_03278",
+  "context": "Handling a last-minute schedule change",
+  "purpose": "Solve a scheduling hiccup; teach メイン/日時/時点/できるだけ/地区/もともと/多少/セミナー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メイン",
+    "日時",
+    "時点",
+    "できるだけ",
+    "地区",
+    "もともと",
+    "多少",
+    "セミナー"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "メインの講師が、日時を変更したいって。",
+      "en": "The main speaker wants to change the date and time.",
+      "style": "concerned manager breaking the news, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えっ、この時点での変更は痛いですね。",
+      "en": "What, a change at this point really hurts.",
+      "style": "dismayed organizer reacting honestly, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "できるだけ近い日に調整しよう。",
+      "en": "Let’s adjust to as near a date as possible.",
+      "style": "manager proposing a fix calmly, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "地区の予約も取り直しですか。",
+      "en": "Do we rebook the district venue too?",
+      "style": "organizer assessing the fallout, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もともと予備日も押さえてあるから大丈夫。",
+      "en": "We held a backup day originally, so it’s fine.",
+      "style": "reassuring manager revealing a safety net"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "多少バタバタしますが、なんとかなります。",
+      "en": "It’ll be a bit hectic, but we’ll manage.",
+      "style": "resilient organizer steadying herself, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "セミナーの内容は変えなくていいよね。",
+      "en": "We don’t need to change the seminar content, right?",
+      "style": "manager confirming what stays fixed, tone holding steady through the whole line"
+    }
+  ]
+}

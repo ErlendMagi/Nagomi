@@ -1,0 +1,61 @@
+{
+  "id": "conv_01927",
+  "context": "Sho-young breaks a glass at home; Mei reassures him.",
+  "purpose": "Mother responding kindly to child's accident.",
+  "ambient": "kitchen_clatter_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "割る",
+    "注意",
+    "けが",
+    "大丈夫"
+  ],
+  "cast": [
+    "sho_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、ごめんなさい!",
+      "en": "Mom, I'm sorry!",
+      "style": "Trembling urgency breaking through the apology. Small voice catching on the first syllable. Genuine remorse, not performed — the kind of immediate contrition that comes before thinking.",
+      "mood": "contrite_frightened"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "けが、ない?",
+      "en": "Are you hurt?",
+      "style": "Sharp intake of breath. Words clipped and direct — fear cutting through everything else. Hands already checking, eyes scanning before the question even finishes.",
+      "mood": "urgent_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、大丈夫。",
+      "en": "Yeah, I'm okay.",
+      "style": "Soft and small. A reassurance offered carefully, as if aware his mother needs to hear it. Steady despite the tremor underneath. Direct eye contact — trying to be brave for her.",
+      "mood": "shaken_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "物より、あなたが大事よ。",
+      "en": "You matter more than any thing.",
+      "style": "Voice drops into something grounded and true. Each word lands with quiet weight — not dramatic, just absolute. The kind of clarity that comes from fear clarifying what actually counts.",
+      "mood": "fierce_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "気をつける、次は。",
+      "en": "I'll be more careful next time.",
+      "style": "Small determined nod in the voice. Soft but resolved — a promise to himself and to her. Not sullen, but serious in the way only a child being trusted can be.",
+      "mood": "resolved_earnest"
+    }
+  ]
+}

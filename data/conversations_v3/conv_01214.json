@@ -1,0 +1,62 @@
+{
+  "id": "conv_01214",
+  "context": "Daichi visits Yumiko's kitchen for cooking.",
+  "purpose": "son-in-law mother-in-law cooking exchange",
+  "ambient": "kitchen_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "料理",
+    "一緒",
+    "優しい",
+    "美味しい",
+    "家族"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_061)",
+    "generated_at": "2026-05-27T04:31:14.850Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ゆみこさん、料理、教えて、ください。",
+      "en": "Yumiko-san, would you teach me how to cook?",
+      "style": "Warm, genuine request with Kansai lilt audible throughout. Opens with bright sincerity. Respectful but easy—not formal. Soft, real affection woven in, the kind of warmth that comes from truly wanting to learn.",
+      "mood": "earnest_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、優しく、教えるね。",
+      "en": "Of course. I'll teach you gently.",
+      "style": "Maternal, tender acceptance. Soft and reassuring from the first word. Warm without performing it. Gentle rhythm that says she's genuinely pleased to do this. Real kindness threaded through.",
+      "mood": "warm_maternal"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "家族のために、頑張りたい。",
+      "en": "I want to do my best for my family.",
+      "style": "Kansai warmth with deeper sincerity underneath. Opens with conviction but stays soft. The regional swing gives it texture. Tender commitment—this matters to him. Real feeling, not performance.",
+      "mood": "tender_committed"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、楽しもう。",
+      "en": "Let's enjoy it together.",
+      "style": "Maternal warmth with collaborative ease. Inviting, not instructing. Soft, genuine pleasure in the togetherness. Gentle pacing. Real affection and real faith in him woven throughout.",
+      "mood": "warm_collaborative"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "美味しい、出来たら、嬉しい。",
+      "en": "If I can make something delicious, I'll be so happy.",
+      "style": "Kansai lilt carrying anticipation and hope. Soft opening, building toward genuine warmth. The regional swing gives it an earnest texture. Trailing slightly on the happiness—vulnerable, real, deeply sincere.",
+      "mood": "hopeful_tender"
+    }
+  ]
+}

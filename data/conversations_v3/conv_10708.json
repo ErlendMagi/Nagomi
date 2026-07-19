@@ -1,0 +1,86 @@
+{
+  "id": "conv_10708",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: オペレーティングシステム/電機/アスキー/スペル/エフェクト/パワーアップ/ポチッ/メッセンジャー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "オペレーティングシステム",
+    "電機",
+    "アスキー",
+    "スペル",
+    "エフェクト",
+    "パワーアップ",
+    "ポチッ",
+    "メッセンジャー"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_537 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室のオペレーティングシステム選定を検討しろ",
+      "en": "Ren, I need you to evaluate the operating system options for the lab.",
+      "style": "Calm, measured directive. Slight weight on Ren's name—acknowledgment before instruction. Steady pace, no harshness. The tone of someone who trusts his direction will be understood.",
+      "mood": "authoritative_direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。電機工学の論文を読み込みます",
+      "en": "Yes. I'll start reviewing the electrical engineering literature.",
+      "style": "Quiet, attentive acknowledgment. Slight inhale before speaking—absorbing the task. Even pace, no rush. The careful tone of someone taking mental notes and meaning every word.",
+      "mood": "focused_earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、海外論文のアスキー字形の研究も知っておけ",
+      "en": "Ren, also familiarize yourself with overseas research on ASCII character forms.",
+      "style": "Continuation of the same measured instruction. Slight weight on 「も」equivalent—additive, not corrective. Pace steady. The voice of someone stacking context, not criticism.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文中の用語のスペルを慎重に確認します",
+      "en": "Understood. I'll make sure to check the spelling of terms carefully as I read.",
+      "style": "Immediate, respectful response. Nodding quality in the voice. Even, deliberate pace—showing he's taking the precision seriously. Small but present—not rushed, not overwrought.",
+      "mood": "careful_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、実験結果のエフェクト、つまり効果の検証を徹底しろ",
+      "en": "Ren, be thorough in verifying the actual effects—the results—of the experiments.",
+      "style": "Shift to emphasis. Slightly firmer on the directive verb. He's pausing to clarify, not condescending—making sure the point lands. Tempo picks up slightly on the second half, precision over speed.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。装置のパワーアップ改造案を提示します",
+      "en": "Yes. I'll prepare an upgrade proposal for the equipment.",
+      "style": "Steady acknowledgment. He's parsing the instruction carefully—not deflecting. Even pace, clear diction. The voice of someone who understands the responsibility and is already thinking ahead.",
+      "mood": "committed_earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、ボタンを「ポチッ」と押すだけで動く実験UIにしろ",
+      "en": "Ren, make the experimental interface so simple that pushing a button is all it takes.",
+      "style": "Lighter touch here—almost conversational in the shift to concrete example. The onomatopoeia softens it slightly. Still directive, but warmer. He's being specific about what 'thorough' looks like in practice.",
+      "mood": "pragmatic_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究室のメッセンジャー連絡網を整えます",
+      "en": "Yes. I'll organize the lab's messaging network.",
+      "style": "Final confirmation—alert and closing. Slight lean forward in energy. He's mapping the tasks, turning listening into action. The tone of someone ready to move. Soft tail on the final syllable—he's done listening, starting doing.",
+      "mood": "determined_ready"
+    }
+  ]
+}

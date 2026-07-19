@@ -1,0 +1,84 @@
+{
+  "id": "conv_05193",
+  "context": "A police officer briefs a uni reporter about a rescue case",
+  "purpose": "Teach: 上院/出動/着陸/水素/銅/救出/昆虫/足跡",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上院",
+    "出動",
+    "着陸",
+    "水素",
+    "銅",
+    "救出",
+    "昆虫",
+    "足跡"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_261 workflow wkx5s0nuv)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "先程、上院議員から正式な要請がありまして、緊急出動となりました。",
+      "en": "Earlier, we received an official request from a senator, so we mobilized for an emergency response.",
+      "style": "Formal police briefing tone with measured authority and slight reserve."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ヘリは現場のどの辺りに着陸したんですか？",
+      "en": "Where exactly did the helicopter land at the scene?",
+      "style": "Curious student reporter, polite but probing question style."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "山中の開けた広場です。水素燃料の特殊車両も後から合流させました。",
+      "en": "An open clearing in the mountains. We later sent in a hydrogen-fueled special vehicle as well.",
+      "style": "Concise factual delivery, professional officer explaining logistics."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救出までにどのくらい時間がかかったんでしょうか？",
+      "en": "How long did it take until the rescue was completed?",
+      "style": "Polite follow-up, gentle journalistic curiosity with respectful tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "約六時間です。遭難者は銅山の旧坑道に迷い込んでいまして、捜索が難航しました。",
+      "en": "About six hours. The missing person had wandered into the old shaft of a copper mine, making the search difficult.",
+      "style": "Detailed professional report, slow and deliberate pacing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "手がかりは何だったんですか？",
+      "en": "What was the clue that led you to them?",
+      "style": "Engaged reporter pressing for the human-interest detail."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "犬が反応した足跡と、ランプの周りに集まった昆虫の動きですね。経験のある隊員が気づきました。",
+      "en": "Footprints the dog reacted to, and the movement of insects gathered around a lamp. A veteran officer noticed it.",
+      "style": "Quietly proud, recounting field expertise with calm gravitas."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごい話ですね…記事に書かせていただいてもよろしいですか？",
+      "en": "What an incredible story. May I write about this in my article?",
+      "style": "Earnest admiration shifting to humble formal request mode."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "構いませんが、ご家族への配慮だけはよろしくお願いします。",
+      "en": "That's fine, but please be mindful of the family's feelings.",
+      "style": "Permission granted with a firm, paternal cautionary note."
+    }
+  ]
+}

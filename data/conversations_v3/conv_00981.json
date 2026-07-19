@@ -1,0 +1,76 @@
+{
+  "id": "conv_00981",
+  "context": "Hiroshi gives Kenji a recognition gift for the year.",
+  "purpose": "boss-subordinate recognition exchange",
+  "ambient": "office_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "プレゼント",
+    "一緒",
+    "感謝",
+    "大切",
+    "会社"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_049)",
+    "generated_at": "2026-05-27T03:07:32.163Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健次、これ、お前への、プレゼント。",
+      "en": "Kenji — this is for you. A gift.",
+      "style": "Warm, direct opening. Boss's composure threaded through—steady, authoritative but not cold. Slight emphasis on the gift itself, like presenting something he's thought about. No performance, just clarity and quiet regard.",
+      "mood": "dignified_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "え、私に？嬉しいです。",
+      "en": "Oh—for me? I'm so grateful.",
+      "style": "Surprised but collected. Warm respectfulness comes through immediately. Voice lifts slightly on the question, then settles into genuine gratitude. Humble, not self-deprecating—this matters to him.",
+      "mood": "touched_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一年、本当、頑張った。",
+      "en": "You've really worked hard this year.",
+      "style": "Steady and measured. Hiroshi's acknowledgment lands with weight because it's not excessive. Slight pause before 'truly'—he means it. The firmness here is about conviction, not distance.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます、感謝、本当に。",
+      "en": "Thank you so much, truly—I'm grateful.",
+      "style": "Deep sincerity. Kenji's voice stays even, but the depth underneath is audible—this recognition from Hiroshi means something. Respectful without being stiff. Slight breathiness, like emotion he's holding steady.",
+      "mood": "humble_moved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会社の宝、お前は。",
+      "en": "You're a treasure to this company.",
+      "style": "Hiroshi shifts slightly warmer. Still measured, but this lands as personal regard, not corporate speak. The word 'treasure' carries real weight. He's not often this direct with affection, so the restraint makes it stronger.",
+      "mood": "affirming_tender"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、頑張る、これからも。",
+      "en": "I'll keep working hard with you, from here on.",
+      "style": "Quiet commitment. Kenji's voice doesn't strain—he's not overstating. The promise is understated and genuine. A slight lean forward in the tone, like looking ahead. Steady and warm.",
+      "mood": "devoted"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "大切な、人材だ。",
+      "en": "You're a valuable person to this company.",
+      "style": "Final statement. Hiroshi's voice drops slightly lower, like this is the real thing he wanted to say. Composed but genuinely tender. No rush. This is him, at the end of the moment, being human.",
+      "mood": "sincere_tender"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01581",
+  "context": "Sakura visits a pottery workshop; chats with the potter Tatsuya.",
+  "purpose": "Writer interviewing rural craftsman about craft philosophy.",
+  "ambient": "workshop_wheel_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "陶芸",
+    "土",
+    "形",
+    "完成"
+  ],
+  "cast": [
+    "sakura_teen",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "陶芸、何年されてますか?",
+      "en": "How long have you been working with pottery?",
+      "style": "Gentle, respectful opener. Leans in slightly with genuine curiosity. Warm but careful not to presume. A pause before the question, like she's chosen her words with care.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "三十年、毎日土触ってる。",
+      "en": "Thirty years now. Working the clay every single day.",
+      "style": "Slow, measured delivery. Slight pause between the two thoughts. Warm and reflective, like he's touching something familiar. The words carry weight without strain.",
+      "mood": "grounded_reflective"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "土、生き物のようですね。",
+      "en": "The clay — it's almost like a living thing.",
+      "style": "Soft, almost wondering tone. Slight catch on the dash, like she's discovering the thought as she speaks. Respectful awe, not performance. Genuine recognition.",
+      "mood": "awed_perceptive"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ほんま、毎回違うんや。",
+      "en": "That's the truth of it. Every time, it's different.",
+      "style": "Quiet conviction. Eyes steady. Not lecturing — sharing something he knows deep down. Warm and patient, like he's said this to himself many times. No rush.",
+      "mood": "wise_accepting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "形、決めるの難しい?",
+      "en": "Is it hard to decide what shape it should become?",
+      "style": "Genuinely interested, not leading. Slight lean forward. Her curiosity is real and unguarded here. Respectful but engaged — she wants to understand.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "土が、形を教えてくれる。",
+      "en": "The clay shows me the shape. I just listen.",
+      "style": "Gentle, almost tender. Not mystical — matter-of-fact in a way that contains something profound. He's quiet but certain. A hint of a smile in the voice.",
+      "mood": "philosophical_calm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "完成、いつ感じます?",
+      "en": "When do you know it's finished?",
+      "style": "Soft question, genuinely seeking. Leaning into the moment. Her respect is evident but she's not hesitant — she's truly asking. Open, attentive.",
+      "mood": "attentive_wondering"
+    }
+  ]
+}

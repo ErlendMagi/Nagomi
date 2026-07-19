@@ -1,0 +1,78 @@
+{
+  "id": "conv_04029",
+  "context": "A uni student presents his engineering research to a teacher",
+  "purpose": "Teach: メモリ/スピーカー/計測/走行/適応/バイオ/有機/コア",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリ",
+    "スピーカー",
+    "計測",
+    "走行",
+    "適応",
+    "バイオ",
+    "有機",
+    "コア"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、今日は僕のバイオロボットの研究について発表させてください。",
+      "en": "Professor, today please let me present my research on bio-robots.",
+      "style": "Polite student opening, slightly nervous, formal register addressing professor"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、楽しみにしていましたよ。コアになる技術は何ですか？",
+      "en": "Yes, I've been looking forward to it. What's the core technology?",
+      "style": "Warm encouraging teacher tone, professional curiosity, inviting elaboration"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "有機素材で作った人工筋肉と、低消費電力のメモリチップを組み合わせた構造です。",
+      "en": "It combines artificial muscles made from organic materials with low-power memory chips.",
+      "style": "Technical explanatory tone, confident student showcasing research"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど、環境への適応はどうやって実現しているんですか？",
+      "en": "I see, how do you achieve adaptation to the environment?",
+      "style": "Probing academic question, encouraging deeper technical discussion"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "小型スピーカーから出る超音波で周囲を計測して、地形に応じて歩き方を変える仕組みです。",
+      "en": "It measures surroundings using ultrasound from a small speaker and changes gait based on terrain.",
+      "style": "Enthusiastic technical explanation, hands gesturing, confident detail"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白いですね。走行テストのデータは取れていますか？",
+      "en": "Fascinating. Have you collected data from locomotion tests?",
+      "style": "Genuinely impressed teacher, pushing for empirical evidence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、屋外での走行距離は平均三キロまで伸びました。",
+      "en": "Yes, outdoor travel distance has extended to an average of three kilometers.",
+      "style": "Proud but measured reporting of results, factual delivery"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "素晴らしい成果ですね。来月の学会で発表する価値が十分ありますよ。",
+      "en": "Wonderful results. It's definitely worth presenting at next month's conference.",
+      "style": "Praising mentor voice, warm validation with professional encouragement"
+    }
+  ]
+}

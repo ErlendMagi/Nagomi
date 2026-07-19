@@ -1,0 +1,65 @@
+{
+  "id": "conv_05806",
+  "context": "A boss reviews a corporate IT team",
+  "purpose": "Teach: 本田/石田/安田/川口/神田/大塚/野口/高木",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "本田",
+    "石田",
+    "安田",
+    "川口",
+    "神田",
+    "大塚",
+    "野口",
+    "高木"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "IT統括、本田部長、引き続きお願いする。",
+      "en": "IT department — Director Honda, I'm counting on your continued leadership.",
+      "style": "Measured authority. Clean attack on the opening. Even pace. No inflection wasted. The tone of someone assigning responsibility and trusting it will land cleanly.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。インフラは石田さん、安田さんが担当します。",
+      "en": "Yes. Infrastructure — Ishida-san and Yasuda-san will handle it.",
+      "style": "Professional confirmation. Slight nod in the voice at the opening. Declarative, efficient. The rhythm of someone reporting what's already been decided, delivering it without flourish.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "川口さん、神田さんは、セキュリティ部門に異動。",
+      "en": "Kawaguchi-san and Kanda-san — moving to the security division.",
+      "style": "Clear directive. Pause slightly before the dash, like reading a list with precision. Calm, impersonal. The voice of someone stating facts that have weight but need no elaboration.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大塚さん、野口さんは、データ分析に注力します。",
+      "en": "Otsuka-san and Noguchi-san will concentrate their efforts on data analytics.",
+      "style": "Steady report. Even delivery, like checking items off a ledger. Mid-tempo, no stress. The sound of routine business being moved forward without drama.",
+      "mood": "clinical"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "高木さん、AI推進、引き続き先頭で。",
+      "en": "Takagi-san — keep driving AI innovation forward.",
+      "style": "Brief, final note. Light emphasis on the name. Quiet confidence in the closing. The voice recognizing someone who's already carrying weight and will keep carrying it well.",
+      "mood": "assured"
+    }
+  ]
+}

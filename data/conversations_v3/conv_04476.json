@@ -1,0 +1,78 @@
+{
+  "id": "conv_04476",
+  "context": "A doctor walks a teen patient through a difficult procedure plan",
+  "purpose": "Teach: 苦痛/司令/共謀/主権/道徳/推奨/全米/厳密",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "苦痛",
+    "司令",
+    "共謀",
+    "主権",
+    "道徳",
+    "推奨",
+    "全米",
+    "厳密"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_225 workflow wvvwn6tkp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、今日は手術の流れを、できるだけ厳密にお伝えしますね。",
+      "en": "Sakura, today I'll walk you through the surgery as precisely as I can.",
+      "style": "Calm, measured tone with professional warmth and care."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、正直、私が一番不安なのは術後の苦痛がどれくらい続くかなんです。",
+      "en": "Doctor, honestly, what worries me most is how long the pain will last afterward.",
+      "style": "Hesitant teen voice, vulnerability beneath polite phrasing."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もっともな心配です。手術室の司令役を担う麻酔科医が、痛みをきちんと管理しますから安心してください。",
+      "en": "That's a fair concern. The anesthesiologist who takes command in the OR will manage the pain properly, so please feel assured.",
+      "style": "Reassuring, slightly slower pace, deliberate word choice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "親と先生が共謀して何か隠してたりしませんよね…?私の体のことなので、全部知りたいんです。",
+      "en": "You and my parents aren't conspiring to hide something, right? It's my body, so I want to know everything.",
+      "style": "Mildly defiant, half-joking but searching for honesty underneath."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろん隠しません。自分の体に関する決定の主権は、患者である桜さん自身にありますから。",
+      "en": "Of course we're hiding nothing. Sovereignty over decisions about your own body belongs to you, the patient.",
+      "style": "Firm, direct, eye-contact-level sincerity in speech."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。学校の道徳の授業で、医療は信頼が一番だって習ったので、少し安心しました。",
+      "en": "Thank you. In ethics class we learned trust matters most in medicine, so I feel a bit better.",
+      "style": "Softening, relieved, a touch of teenage earnestness coming through."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今回の術式は、全米の学会でも推奨されている標準的な方法なので、技術的にも信頼できます。",
+      "en": "This procedure is the standard method recommended by the American medical society too, so it's technically reliable.",
+      "style": "Confident, evidence-based, gentle authority in delivery throughout."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。先生を信じて、頑張ってみます。",
+      "en": "Understood. I'll trust you and do my best.",
+      "style": "Quiet resolve, voice steadier than before, genuinely brave."
+    }
+  ]
+}

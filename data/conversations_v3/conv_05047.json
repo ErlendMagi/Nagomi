@@ -1,0 +1,90 @@
+{
+  "id": "conv_05047",
+  "context": "Two managers prep a sensitive HR briefing",
+  "purpose": "Teach: 解約/非公開/算出/教職員/公安/国益/ディレクトリ/費やし",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "解約",
+    "非公開",
+    "算出",
+    "教職員",
+    "公安",
+    "国益",
+    "ディレクトリ",
+    "費やし"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "課長、明日の説明資料なんですけど……外部委託の解約の件、どこまで触れていいんでしょうか。",
+      "en": "Section chief, about tomorrow's briefing materials... how far can we go in touching on the termination of the outsourcing contract?",
+      "style": "Cautious mid-level manager, hesitant rising tone, glancing around the quiet office"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あれは非公開扱いなので、配布資料には金額だけ載せて、背景は口頭で補足する方向にしましょう。",
+      "en": "That one's being handled as confidential, so let's put only the figures in the handout and add the background verbally.",
+      "style": "Senior calm tone, deliberate pacing, professional and measured guidance"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "金額って、経理が算出してくれた見積りですよね？まだ共有ディレクトリの中にあると思うんですけど。",
+      "en": "By figures you mean the estimate that accounting calculated, right? I think it's still inside the shared directory.",
+      "style": "Quick double-checking question, slight nervous energy, confirming details aloud"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、フォルダごとそこに残してあります。ただ、念のためアクセス権は絞っておいてください。",
+      "en": "Yes, the whole folder is still there. Just to be safe, please tighten the access permissions on it.",
+      "style": "Practical instruction tone, steady delivery, quietly emphasizing caution"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "わかりました。それと、教職員組合の方からまた問い合わせが来ていて、対応どうしましょうか。",
+      "en": "Understood. Also, we've had another inquiry from the teachers' union side, so how should we respond?",
+      "style": "Reporting tone shifting to consultation, slight worried undertone, seeking direction"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "向こうも神経質になっていますね。広報と公安系の部署にも相談しないと、下手な返答は公の場で問題になりかねません。",
+      "en": "They're getting nervous too. Without checking with PR and the public-safety side, a clumsy reply could turn into a problem in public.",
+      "style": "Thoughtful cautious tone, weighing risks aloud, senior strategic thinking"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "確かに……先週も問い合わせ対応だけで何時間も費やしてしまって、本来の準備が進んでいないんです。",
+      "en": "True... last week I spent hours just handling inquiries, and the actual preparation hasn't progressed.",
+      "style": "Tired honest admission, frustration leaking through, slight sigh on the long syllables"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ご苦労さまです。会社の利益だけでなく、社員の生活がかかっている件ですから、丁寧に進めましょう。",
+      "en": "Thank you for your hard work. This isn't just about company gains; employees' livelihoods are on the line, so let's proceed carefully.",
+      "style": "Warm supportive senior tone, acknowledging effort, settling into collaborative resolve"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。今夜のうちに資料を仕上げて、朝一で部長に見てもらえるよう準備しておきます。",
+      "en": "Yes. I'll finish the materials tonight and have everything ready for the director to review first thing in the morning.",
+      "style": "Renewed determined tone, committing to the plan, voice steadier than before"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "私も残りますよ。国益とまでは言いませんが、現場の信頼にも関わる話ですから、二人で見直しましょう。",
+      "en": "I'll stay too. I wouldn't go so far as calling it national interest, but our credibility on the ground is at stake, so let's review it together.",
+      "style": "Reassuring committed tone, light self-deprecating humor, quiet leadership in tough moment"
+    }
+  ]
+}

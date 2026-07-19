@@ -1,0 +1,86 @@
+{
+  "id": "conv_08409",
+  "context": "Officer briefs",
+  "purpose": "Teach: 添削/並列/倍率/増資/商取引/仮称/用具/インプット",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "添削",
+    "並列",
+    "倍率",
+    "増資",
+    "商取引",
+    "仮称",
+    "用具",
+    "インプット"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_422 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、調書の添削を慎重に行います",
+      "en": "We're handling the statement review very carefully.",
+      "style": "Measured and official. Slightly formal. Steady pace with careful emphasis on each procedural step. The voice of someone accustomed to precise documentation.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、複数チーム並列捜査されたんですね",
+      "en": "I see. So multiple police teams were assigned to the investigation in parallel.",
+      "style": "Receptive, genuinely following. Slight upturn at the end — not a question but an opening for confirmation. Attentive listening voice.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察学校の応募倍率が上昇しております",
+      "en": "Applications to the police academy have been increasing.",
+      "style": "Factual delivery. No inflection beyond the information itself. The tone of someone reporting data without editorial comment. Steady, professional.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察も信用組合の増資に注目ですね",
+      "en": "Right. The police are keeping an eye on the credit union's capital expansion.",
+      "style": "Collaborative agreement. Smooth connection to what Takeda said. Not deferential — a peer working through the details together. Light, natural pacing.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、商取引絡みの詐欺を捜査しております",
+      "en": "We're investigating fraud related to commercial transactions.",
+      "style": "Direct and serious. Slight weight on the word 'fraud.' Official register without coldness. The voice explaining the scope of a case.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、容疑者の仮称をマスコミに伝えられましたね",
+      "en": "Yes. The police did release the suspect's preliminary name to the media.",
+      "style": "Acknowledging the fact. Neutral tone but with a hint of understanding the significance. Not gossiping — reporting what happened. Clear and straightforward.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収用具を慎重に保管しております",
+      "en": "We're storing the seized items with strict care.",
+      "style": "Precise and deliberate. Emphasis on the responsibility of custody. Even pace. The voice of someone aware of the chain-of-evidence requirements.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市民のインプットを警察、ご活用ですね",
+      "en": "I see. You're making good use of citizen input in the investigation.",
+      "style": "Warm recognition. Slight appreciation in the tone. Closer and more personal than previous lines — acknowledging partnership rather than just procedure. A small smile in the voice.",
+      "mood": "appreciative"
+    }
+  ]
+}

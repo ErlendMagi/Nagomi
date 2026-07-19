@@ -1,0 +1,62 @@
+{
+  "id": "conv_00695",
+  "context": "Sakura helps Sho with social studies homework.",
+  "purpose": "small cousin study help",
+  "ambient": "living_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "勉強",
+    "一緒",
+    "頑張る",
+    "面白い"
+  ],
+  "cast": [
+    "sakura_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お姉ちゃん、社会の勉強、難しい。",
+      "en": "Big sister, social studies is really hard.",
+      "style": "Quiet, hesitant admission. Small voice reaching upward with trust. Soft pace, letting the weight of the confession settle. No self-pity, just honesty.",
+      "mood": "uncertain_trusting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "どこ？地理？歴史？",
+      "en": "Which part? Geography or history?",
+      "style": "Warm and immediate. Leans in with genuine curiosity, not condescension. Quick, attentive — already problem-solving. The tone says 'I want to help.'",
+      "mood": "engaged_supportive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "地理。地図、わかんない。",
+      "en": "Geography. I can't figure out the maps.",
+      "style": "Small, specific vulnerability. Slightly embarrassed but trusting her anyway. Slow on 'maps,' like it's the real sticking point. Voice doesn't hide the real struggle.",
+      "mood": "frustrated_vulnerable"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "面白いよ、地理。一緒に、見てみよう。",
+      "en": "Geography's actually interesting. Let's look at it together.",
+      "style": "Bright certainty without dismissing his worry. Opens the door, no pressure. Steady, warm, the kind of tone that makes a kid believe maps might actually make sense.",
+      "mood": "encouraging_genuine"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張る。お姉ちゃんと、一緒なら。",
+      "en": "I'll try. If big sister's with me.",
+      "style": "Quiet determination, the real kind. Small voice gaining a thread of courage. Trails slightly on her honorific — it's the condition that matters. Closes with gentle resolve.",
+      "mood": "hopeful_committed"
+    }
+  ]
+}

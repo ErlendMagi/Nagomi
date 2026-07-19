@@ -1,0 +1,86 @@
+{
+  "id": "conv_08469",
+  "context": "Officer briefs",
+  "purpose": "Teach: モットー/貸与/累計/問屋/立ち寄り/小売り/衣料/言明",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "モットー",
+    "貸与",
+    "累計",
+    "問屋",
+    "立ち寄り",
+    "小売り",
+    "衣料",
+    "言明"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_425 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民安全のモットーを掲げております",
+      "en": "Our department upholds the principle of public safety.",
+      "style": "Professional, measured opening. Clear enunciation on 'principle.' Steady eye contact. Formal but not rigid — the tone of someone stating organizational policy with quiet conviction.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、機材を市民に貸与なさるんですね",
+      "en": "Yes, so the police provide equipment loans to citizens.",
+      "style": "Attentive and respectful. Light nod in the voice. Confirming what he's heard with genuine interest — not just going through motions. Slightly deferential register.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、累計検挙数の統計を作成しました",
+      "en": "We've compiled cumulative arrest statistics.",
+      "style": "Matter-of-fact delivery. Even pace. Slight emphasis on 'compiled' — the work is done, documentation is complete. No flourish, just factual.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、問屋からの不正流通を捜査されてますね",
+      "en": "I see — so you're investigating illegal distribution channels through wholesale networks.",
+      "style": "Thoughtful pause before speaking. Steady, demonstrating he's following the logic. Warm enough to show understanding, formal enough to respect the seriousness of the investigation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯のため店舗に立ち寄りで巡回します",
+      "en": "To prevent crime, we conduct regular foot patrols at retail locations.",
+      "style": "Methodical explanation. Even pace with slight emphasis on 'regular' — indicating consistent effort. Professional, unburdened. The tone of someone describing routine protective measures.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、小売り店の防犯指導もなさいますね",
+      "en": "Right — and you provide crime prevention guidance to shop owners as well.",
+      "style": "Appreciative acknowledgment. Warm undertone recognizing the breadth of work. Slightly slower pace — taking in the fuller picture of community protection.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、衣料品の偽造事件を捜査しております",
+      "en": "We're currently investigating counterfeit clothing operations.",
+      "style": "Steady, serious. Slight weight on 'counterfeit' — flagging the specific nature of the case. Professional gravity without theatricality. Composed delivery.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、市民への安全を改めて言明されましたね",
+      "en": "So you've reaffirmed your commitment to citizen safety across all these areas.",
+      "style": "Genuine warmth entering his voice for the first time. Slower cadence, almost reflective. Recognition of the scope of work. A moment of real connection after the procedural exchange.",
+      "mood": "warm_appreciative"
+    }
+  ]
+}

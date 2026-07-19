@@ -1,0 +1,86 @@
+{
+  "id": "conv_11152",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 乳児/遺骨/銃弾/勾留/留置/採血/病的/課さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "乳児",
+    "遺骨",
+    "銃弾",
+    "勾留",
+    "留置",
+    "採血",
+    "病的",
+    "課さ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_559 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、乳児への虐待事案を、警察、慎重に対応されますね",
+      "en": "In this case, the police are handling the infant abuse allegations with great care, aren't they.",
+      "style": "Hesitant, deferential start. Careful pace through the difficult subject, voice dropping respectfully near the end.",
+      "mood": "somber_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、戦災者の遺骨収集にもご協力されますね",
+      "en": "The police cooperate in recovering the remains of war victims as well.",
+      "style": "Calm professional confirmation. Even, measured delivery, quiet warmth surfacing on the word cooperate.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、現場から銃弾を、警察、回収されますね",
+      "en": "In this case, the police will be recovering the bullets from the scene, won't they.",
+      "style": "Studious, slightly quicker delivery. A questioning lift at the end, eager to have understood correctly.",
+      "mood": "curious_earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の勾留期間を、警察、適正に管理されますね",
+      "en": "The police manage a suspect's detention period properly, strictly by the book.",
+      "style": "Flat procedural steadiness. Unhurried, each phrase placed precisely, mild emphasis on the word properly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、留置場の管理を、警察、徹底されますね",
+      "en": "In this case, the police are being thorough about how the holding cells are managed, aren't they.",
+      "style": "Careful, lowered tone. Slow deliberate pace, the confirming tag rising softly at the end.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、現場の被害者に採血、つまり採血検査を、警察、依頼されますね",
+      "en": "The police ask victims at the scene for blood samples — blood tests, that is.",
+      "style": "Matter-of-fact through the clarification. Even pace, a brief pause before the restated term for clarity.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、容疑者の病的虚言癖を、警察、慎重に判断されますね",
+      "en": "In this case, the police are weighing the suspect's pathological lying very carefully, aren't they.",
+      "style": "Quieter, weighing each word. Slow thoughtful delivery, trailing slightly on the final word.",
+      "mood": "pensive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、課された規制内で捜査を、警察、進められますね",
+      "en": "The police carry the investigation forward within the regulations imposed on them.",
+      "style": "Settled closing authority. Calm, even pace, finishing with quiet finality and a small exhale.",
+      "mood": "resolute_calm"
+    }
+  ]
+}

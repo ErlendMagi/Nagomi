@@ -1,0 +1,86 @@
+{
+  "id": "conv_06293",
+  "context": "A police officer briefs on sports-event security",
+  "purpose": "Teach: 勝敗/最下位/制し/打者/飛ばさ/下級/背負う/威厳",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勝敗",
+    "最下位",
+    "制し",
+    "打者",
+    "飛ばさ",
+    "下級",
+    "背負う",
+    "威厳"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_316 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "試合の勝敗、地域感情に響きます。",
+      "en": "The outcome of a game reverberates through the whole region's mood.",
+      "style": "Measured, factual opening. Calm professional tone. Steady pace, no rush. Speaks with the quiet authority of someone who has seen how these things unfold.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最下位の試合でも、観客、熱気ありますね。",
+      "en": "Even games with lower-ranked teams — the crowd brings real heat to it.",
+      "style": "Genuine curiosity, leaning forward slightly. Observant tone. Searching for understanding, not judging. Pace is conversational, almost wondering aloud.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。混乱を制した警備、評価されました。",
+      "en": "That's right. The security work that prevented things from escalating — it was recognized.",
+      "style": "Matter-of-fact, professional satisfaction without ego. Light emphasis on 「制した」 moment. Even tone, factual. Quiet pride in the work itself, not the praise.",
+      "mood": "professional_satisfied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "打者交代の合間、警備、強化されますか。",
+      "en": "During the batter changes, when there's downtime — do you increase security presence then?",
+      "style": "Thoughtful question, respectful of the officer's expertise. Gentle curiosity. Pace is unhurried, giving space for a full answer. Checking his own understanding.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。物を飛ばさないよう、観客指導、徹底します。",
+      "en": "Exactly. We keep strict watch over the crowd so no one throws objects onto the field.",
+      "style": "Clear, procedural, but with underlying care for safety. Firm on the standards without harshness. Steady pace. The tone of someone explaining not just the rule but why it matters.",
+      "mood": "duty_focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "下級審判への警備、配慮ありますか。",
+      "en": "Is there special attention paid to the umpires' safety — the lower-ranked ones especially?",
+      "style": "Respectful, careful phrasing. Genuine concern underneath the politeness. Hesitant rhythm — aware he's asking about something delicate. Soft landing on the question.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。責任を背負う、警察の役割です。",
+      "en": "That's part of our responsibility. The police shoulder that burden for everyone on the field.",
+      "style": "Quiet weight of conviction. Speaks slowly, each word deliberate. Not performative — just honest about what the role means. Slight pause before the final phrase, letting it settle.",
+      "mood": "grave_resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察官の威厳、現場で感じます。",
+      "en": "There's a kind of authority you can feel from officers like you, out there in the moment.",
+      "style": "Reflective, sincere closing. Soft, almost contemplative tone. Genuine observation, not flattery. Pace slows at the end. Respectful, with a note of real admiration.",
+      "mood": "respectful_awed"
+    }
+  ]
+}

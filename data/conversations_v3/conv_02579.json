@@ -1,0 +1,75 @@
+{
+  "id": "conv_02579",
+  "context": "Kenji and Ren sort image files on a shared drive.",
+  "purpose": "WIDENED SCENARIO: tech/work; file vocabulary (ファイル/画像/モデル/ホームページ/トップ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ファイル",
+    "画像",
+    "モデル",
+    "ホームページ",
+    "トップ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_129)",
+    "generated_at": "2026-05-29T13:12:58.567Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "ホームページ用の画像を、探しています。",
+      "en": "I'm looking for images for the homepage.",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "画像ファイルは、ここにまとめてあります。",
+      "en": "The image files are gathered here.",
+      "style": "helpful office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "トップに使う画像は、どれですか?",
+      "en": "Which image is for the top page?",
+      "style": "curious young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "この新しいモデルの画像が、トップ用です。",
+      "en": "This new-model image is for the top.",
+      "style": "clear office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ファイルの名前で、探せますか?",
+      "en": "Can I find it by file name?",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、モデル名でファイルを探せます。",
+      "en": "Yes, you can find files by model name.",
+      "style": "measured office man voice, soft warm patient guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ホームページが、見栄え良くなりそうです。",
+      "en": "The homepage should look good.",
+      "style": "satisfied young colleague voice, soft warm appreciative throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "トップの画像で、印象が決まりますからね。",
+      "en": "The top image sets the impression.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

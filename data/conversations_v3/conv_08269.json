@@ -1,0 +1,86 @@
+{
+  "id": "conv_08269",
+  "context": "Officer briefs",
+  "purpose": "Teach: 反転/利潤/インフォメーション/呼称/ジレンマ/主たる/オファー/売上げ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "反転",
+    "利潤",
+    "インフォメーション",
+    "呼称",
+    "ジレンマ",
+    "主たる",
+    "オファー",
+    "売上げ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_415 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯罪率の反転を目指しております",
+      "en": "We're working to reverse the crime rate in this area.",
+      "style": "Measured, official opening. Formal register without stiffness. Even pacing, professional composure. Slight pause after the period — a briefing tone.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、利潤目的の犯罪を追跡されていますね",
+      "en": "Yes. You're tracking profit-motivated crimes specifically, aren't you?",
+      "style": "Engaged and respectful. Question rises slightly at the end—showing attentiveness to the officer's work. Warm but not familiar. Nod-forward in the voice.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域インフォメーションを発信しております",
+      "en": "We're also distributing community information regularly.",
+      "style": "Matter-of-fact continuation. No inflection seeking approval. Steady, methodical. The tone of someone checking boxes in a briefing.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、容疑者の呼称を慎重にされていますね",
+      "en": "I see. And you're being careful with how you refer to suspects in those announcements.",
+      "style": "Approving observation. Recognises the thoughtfulness without overdoing it. Warm nod of understanding. Pace steady, slightly slower — showing he's noted something good.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、捜査のジレンマを抱えております",
+      "en": "We do face a real dilemma in the investigation process, though.",
+      "style": "Slight shift—honesty breaking through procedure. Quieter admission. The moment where the officer allows something genuine into the formal conversation.",
+      "mood": "candid"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の主たる業務、頼もしいです",
+      "en": "Yes. The police's main responsibility is genuinely reassuring.",
+      "style": "Sincere affirmation. Not flattery—respect. Slower pace here, weight on the words. The voice of someone who means what he's saying.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者からの司法取引オファーを慎重に検討しております",
+      "en": "We're being careful to consider any plea bargain offers from suspects.",
+      "style": "Back to procedure. Formal, deliberate pacing. Each phrase carefully weighted. Returns to the briefing register—protective of the process.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域防犯の売上げ効果が出ているそうですね",
+      "en": "That's good to hear—the community crime-prevention work seems to be showing real results.",
+      "style": "Warm, closer now. A small smile in the voice. Personal observation cutting through formality. Slower, more genuine—the conversation softening after the harder topics.",
+      "mood": "warm_relief"
+    }
+  ]
+}

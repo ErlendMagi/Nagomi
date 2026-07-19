@@ -1,0 +1,86 @@
+{
+  "id": "conv_08052",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 群衆/語源/裏切っ/献血/くくっ/苑/龍/埋もれ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "群衆",
+    "語源",
+    "裏切っ",
+    "献血",
+    "くくっ",
+    "苑",
+    "龍",
+    "埋もれ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_404 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、駅前の群衆の安全を警察、確保しております",
+      "en": "We've secured the safety of the crowds in front of the station.",
+      "style": "Professional and steady. Clear, measured delivery. The confidence of someone stating established fact. No hurry. Direct eye contact.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、暗号の語源解析を進めております",
+      "en": "We're making progress analyzing the origins and meaning of the cipher.",
+      "style": "Bureaucratic precision. Each phrase lands with careful weight. Slight pause between thoughts. The tone of a report being delivered, not a conversation.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、組織を裏切った内通者を警察、特定されたんですね",
+      "en": "So the police have identified the insider who betrayed the organization?",
+      "style": "Gentle inquiry with underlying intelligence. Thoughtful pace. Testing the waters of what he's allowed to understand. A question from someone working through the pieces.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者ご遺族のための献血支援も行います",
+      "en": "We're also providing blood donation support for the victim's family.",
+      "style": "Shift to gentler register. Still official, but the warmth underneath. Slight softening of pace. A human detail slipped into the procedural report.",
+      "mood": "dutiful_compassionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、犯人がくくった証拠物の縄、警察、回収されたんですね",
+      "en": "So the police recovered the rope that the perpetrator used to bind the evidence?",
+      "style": "Quiet, methodical. Drawing a conclusion from facts already laid out. Respectful pace—not rushing. The voice of someone piecing a story together carefully.",
+      "mood": "focused_grave"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、神苑近くの巡回を強化しております",
+      "en": "We've increased patrols around the shrine gardens.",
+      "style": "Return to procedural formality. Steady, matter-of-fact. The cadence of an official statement. No elaboration, just fact.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、龍頭の装飾品を警察、押収されたんですね",
+      "en": "So the police seized the ornamental dragon-head decoration?",
+      "style": "Careful, observant tone. Building understanding piece by piece. Slight hesitation—respectful of the gravity. Not performing, just working through it.",
+      "mood": "thoughtful_serious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、書類に埋もれた手がかりを見つけました",
+      "en": "We found the clue buried in the paperwork.",
+      "style": "Quiet satisfaction. A small moment of genuine discovery breaking through procedure. Slightly warmer, less formal. The tone of having solved something real.",
+      "mood": "resolved"
+    }
+  ]
+}

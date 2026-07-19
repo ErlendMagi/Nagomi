@@ -1,0 +1,60 @@
+{
+  "id": "conv_11240",
+  "context": "Mom and son chat",
+  "purpose": "Teach: オアシス/戦没/豪雪",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "オアシス",
+    "戦没",
+    "豪雪"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_563 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがオアシスのバンドの新曲を聴いてらっしゃるわ",
+      "en": "Sho, your dad's in there listening to the new song by that band Oasis.",
+      "style": "Brisk warm opener with a playful conspiratorial lift, sharing Dad's music taste like gossip.",
+      "mood": "warm_playful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと戦没者追悼の特番観たよ",
+      "en": "Mommy, I watched the memorial special about the war dead with Daddy!",
+      "style": "Small proud burst, faster than usual. Slight stumble of breath before the long word.",
+      "mood": "eager_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが豪雪地域への支援募金をされたわ",
+      "en": "Sho, your dad made a donation to help the people in the heavy-snowfall areas.",
+      "style": "Softer, admiring. Measured pace with quiet pride warming the mention of the donation.",
+      "mood": "admiring_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとオアシスのMVをYouTubeで観たよ",
+      "en": "Mommy, Daddy and I watched an Oasis music video on YouTube!",
+      "style": "Bright bouncing excitement, words tumbling quick. Big grin audible on the YouTube part.",
+      "mood": "excited_happy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが「豪雪と戦没者追悼の冬の哀しみ」を語って下さったわ",
+      "en": "Sho, your dad was telling me about the sadness winter holds — the deep snow, and remembering those lost to the war.",
+      "style": "Slow reflective close, briskness gone. Voice gentling into the sorrow of the winter image.",
+      "mood": "reflective_somber"
+    }
+  ]
+}

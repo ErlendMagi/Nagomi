@@ -1,0 +1,90 @@
+{
+  "id": "conv_04249",
+  "context": "A senior trains a new hire on internal tools",
+  "purpose": "Teach: メカニズム/タッチ/回線/ドット/サブ/ロング/アップル/テクニック",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メカニズム",
+    "タッチ",
+    "回線",
+    "ドット",
+    "サブ",
+    "ロング",
+    "アップル",
+    "テクニック"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ、まずは社内ツールの仕組みから簡単に紹介していくね。",
+      "en": "Alright, let me start by briefly introducing how our internal tools work.",
+      "style": "Calm senior mentor tone, warm and patient with a natural pacing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、お願いします。新しい環境なのでちょっと緊張してます。",
+      "en": "Yes, please. I'm a bit nervous since it's a new environment.",
+      "style": "Polite new-hire voice, slightly nervous but eager to learn from senior"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大丈夫。発注画面の裏側のメカニズムは複雑だけど、使い方自体はシンプルだよ。",
+      "en": "Don't worry. The mechanism behind the ordering screen is complex, but using it is simple.",
+      "style": "Reassuring senior voice, demystifying complexity with friendly confidence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よかった。画面はタッチ操作なんですね、前職ではマウスばかりでした。",
+      "en": "That's a relief. So the screen is touch-operated, at my last job we only used a mouse.",
+      "style": "Curious junior tone, sharing small comparison with conversational ease"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう、タブレット端末経由でね。ちなみに社内の通信回線は専用線だから外より速いよ。",
+      "en": "Yes, via tablet terminals. By the way, our internal line is a dedicated one, so it's faster than outside.",
+      "style": "Informative senior, layering useful workplace context naturally"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、それは助かります。あ、左上の小さなドットが並んだボタンは何ですか？",
+      "en": "Oh, that's helpful. Ah, what's that button with the small dots lined up in the top left?",
+      "style": "Genuinely curious junior pointing at unfamiliar UI element with interest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、それを押すとサブメニューが開くんだ。よく使う隠れショートカットだよ。",
+      "en": "Ah, pressing that opens the submenu. It's a handy hidden shortcut we use a lot.",
+      "style": "Helpful instructive tone, sharing a practical insider tip warmly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。前の会社でアップルのソフトを使ってた時とは操作感が違いますね。",
+      "en": "I see. It feels different from when I used Apple software at my previous company.",
+      "style": "Reflective junior voice, drawing a natural comparison from past experience"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、慣れだよ。タイピングのテクニックと同じで、毎日触れば自然に身につく。",
+      "en": "Yeah, it's just getting used to it. Like typing technique, you pick it up by using it daily.",
+      "style": "Encouraging mentor tone, normalizing the learning curve with empathy"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。じゃあロング版のマニュアルも今夜読み込んで頑張ります！",
+      "en": "Understood. Then I'll read through the long version of the manual tonight and do my best!",
+      "style": "Determined junior voice, committed and grateful for the guidance offered"
+    }
+  ]
+}

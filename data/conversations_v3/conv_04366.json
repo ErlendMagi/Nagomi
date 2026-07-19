@@ -1,0 +1,78 @@
+{
+  "id": "conv_04366",
+  "context": "A police officer briefs a teen reporter about a community crisis",
+  "purpose": "Teach: 閉鎖/破綻/放棄/収容/虐待/誘導/消滅/陥っ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉鎖",
+    "破綻",
+    "放棄",
+    "収容",
+    "虐待",
+    "誘導",
+    "消滅",
+    "陥っ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お疲れ様です。今回の事件についてですが、児童養護施設での虐待が発覚しまして、地域全体が混乱に陥っています。",
+      "en": "Good work coming. Regarding this case, child abuse was uncovered at a children's care facility, and the whole community has fallen into chaos.",
+      "style": "Formal, measured, professional briefing tone with controlled gravity."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そんな酷いことが…。その施設はもう閉鎖されたんですか?",
+      "en": "Something that terrible... Has the facility already been shut down?",
+      "style": "Young, earnest, slightly shaken but determined to report."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、昨日付けで運営法人が経営破綻し、職員も責任を放棄して逃げた状態です。子どもたちは一時的に別の施設へ収容しました。",
+      "en": "Yes, as of yesterday the operating organization went bankrupt, and the staff abandoned their responsibilities and fled. The children have been temporarily housed in another facility.",
+      "style": "Crisp, official, matter-of-fact recital of grim facts."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "子どもたちは無事なんでしょうか?搬送の時はどう対応されたんですか?",
+      "en": "Are the children safe? How did you handle things during the transport?",
+      "style": "Eager, journalistic, concern breaking through professionalism."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察官が現場で避難誘導を行い、一人ずつ安全に運び出しました。今は心のケアが最優先です。",
+      "en": "Officers conducted evacuation guidance on-site and carried each child out safely. Right now, mental care is the top priority.",
+      "style": "Reassuring but firm, emphasizing duty and care."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "この施設の存在自体が消滅してしまうということですか?今後の見通しを教えてください。",
+      "en": "Does that mean the facility's very existence will disappear? Please tell me the outlook going forward.",
+      "style": "Probing, polite but pressing for substantive information."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "法人としては解散ですが、地域で新たな受け皿を作る動きがあります。記事では支援を呼びかけてもらえると助かります。",
+      "en": "The organization will dissolve, but there's movement to create a new safety net in the community. It would help if your article called for support.",
+      "style": "Cooperative, hopeful undertone, inviting media partnership."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "必ず書きます。読者にしっかり伝わる記事にしますので、よろしくお願いします。",
+      "en": "I'll definitely write it. I'll make sure the article reaches readers properly, so thank you in advance.",
+      "style": "Resolute, respectful, closing with youthful determination."
+    }
+  ]
+}

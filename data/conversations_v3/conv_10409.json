@@ -1,0 +1,86 @@
+{
+  "id": "conv_10409",
+  "context": "Officer briefs",
+  "purpose": "Teach: 車種/日本円/丸の内/新橋/読み物/スチール/ストリーム/ポータブル",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "車種",
+    "日本円",
+    "丸の内",
+    "新橋",
+    "読み物",
+    "スチール",
+    "ストリーム",
+    "ポータブル"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_522 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、不審な車種の追跡もされますね",
+      "en": "The police also track suspicious vehicle types, don't they?",
+      "style": "Steady, conversational tone. Phrases as an observation that invites confirmation. Even pacing, no rush. Respectfully curious rather than probing.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、海外取引の日本円換算記録も精査されますね",
+      "en": "The police also scrutinize records of yen conversion for overseas transactions, don't they?",
+      "style": "Same observational register. Slightly more technical vocabulary but delivered with the same warm, confirming cadence. No condescension.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、丸の内地区の防犯パトロールも担当されますね",
+      "en": "The police also handle crime prevention patrols in the Marunouchi district, don't they?",
+      "style": "Maintains the pattern. Specific place name delivered with easy familiarity. Collaborative tone—acknowledging local knowledge.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、新橋地区の繁華街の警備も担当されますね",
+      "en": "The police also manage security in the busy entertainment districts around Shinbashi, don't they?",
+      "style": "Same warm, steady rhythm. Slight emphasis on 「繁華街」 register—acknowledging the livelier character of that area. Still inviting, not testing.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、防犯啓発の読み物も配布されますね",
+      "en": "The police also distribute crime prevention awareness materials, don't they?",
+      "style": "Continuing the same collaborative inquiry. Straightforward—no edge. Comfortable silence would be acceptable after this.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、廃車のスチール部品の回収も指導されますね",
+      "en": "The police also oversee the collection of steel parts from scrapped vehicles, don't they?",
+      "style": "Slightly more specific question. Delivered with the same even warmth. No surprise in the voice—accepting this as part of the work without fanfare.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、通信ストリームの監視もされますね",
+      "en": "The police also monitor communication streams, don't they?",
+      "style": "Technical term ('communication streams') delivered naturally, not as jargon. Same asking-for-confirmation tone. Still warm.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、現場でのポータブル無線機もご使用ですね",
+      "en": "And you use portable radios out in the field, of course?",
+      "style": "Subtle shift—slightly closer, more direct. Moves from rhetorical observation to practical acknowledgment. Warmer, almost knowing. Natural, brief.",
+      "mood": "warm_understanding"
+    }
+  ]
+}

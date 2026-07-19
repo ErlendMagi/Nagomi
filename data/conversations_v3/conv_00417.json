@@ -1,0 +1,84 @@
+{
+  "id": "conv_00417",
+  "context": "A neighborhood community meeting. Mrs. Mori, Dr. Saito, and Officer Takeda coordinate care for an elder.",
+  "purpose": "civic three-professional coordination — community support",
+  "ambient": "community_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "見守る",
+    "高齢",
+    "協力",
+    "安心",
+    "訪問"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "saito_doctor",
+    "takeda_officer"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_021)",
+    "generated_at": "2026-05-26T23:26:39.750Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "先生、武田さん、今日はお時間ありがとうございます。",
+      "en": "Doctor, Takeda-san, thank you for the time today.",
+      "style": "Neighbor warm gentle sincere civic-warm welcoming, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。高齢の方々のこと、しっかり考えていきましょう。",
+      "en": "Same. Let's think properly about the elderly.",
+      "style": "Doctor warm professional gentle sincere-warm civic-committed, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "私も、定期的に訪問、続けます。",
+      "en": "I'll continue regular visits.",
+      "style": "Officer warm professional sincere civic-committed-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-civic"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ご近所同士の見守り、本当に大事ですね。",
+      "en": "Neighborhood watching over each other — truly important.",
+      "style": "Neighbor warm gentle sincere-warm reflective-philosophical, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "皆さんのお陰で、私たちも、安心して診療できます。",
+      "en": "Thanks to everyone, we can treat with peace.",
+      "style": "Doctor warm professional gentle sincere-warm appreciating, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お互い、声かけ合って、協力していきましょう。",
+      "en": "Mutually calling out — let's cooperate.",
+      "style": "Officer warm professional sincere collaborative-warm closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-collaborative"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "本当に、心強い、ご協力です。",
+      "en": "Truly, reassuring cooperation.",
+      "style": "Neighbor warm soft sincere deep-warm grateful-closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "これからも、ずっと、ご縁、続けましょう。",
+      "en": "From now on too, let's keep this connection.",
+      "style": "Doctor warm professional gentle sincere-warm closing-extending, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-extending"
+    }
+  ]
+}

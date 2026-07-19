@@ -1,0 +1,72 @@
+{
+  "id": "conv_05366",
+  "context": "A boss reviews a project alignment",
+  "purpose": "Teach: 担っ/書き込ん/専念/県警/整合/図り/出題/一律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "担っ",
+    "書き込ん",
+    "専念",
+    "県警",
+    "整合",
+    "図り",
+    "出題",
+    "一律"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プロジェクト、誰が主担当を担っている?",
+      "en": "Who's carrying the lead on this project?",
+      "style": "Clipped, direct opening. Minimal expectation of chattiness. Slight downward inflection on the question mark—this is routine inquiry. Businesslike posture, eyes already moving to the next thing.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今期は私が専念する形で、整合性を図りつつ進めています。",
+      "en": "I'm taking point on it this quarter, keeping everything aligned as we move forward.",
+      "style": "Steady, careful pacing. Each phrase deliberate—he's showing he has thought it through. Slight emphasis on 「専念」 weight. No apology, no over-explaining. Professional confidence without flourish.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "昨日の議事録に書き込んでおいてくれ。一律で共有するように。",
+      "en": "Add it to yesterday's minutes, and make sure it goes out across the board.",
+      "style": "Instruction delivered without delay. Light punch on the directive verb. Matter-of-fact tempo. Not unkind, but expects compliance. The tone of someone used to being heard.",
+      "mood": "directing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。出題予定のテーマも、社内向けに整理します。",
+      "en": "Understood. I'll organize the planned themes for internal circulation as well.",
+      "style": "Affirmation with quiet efficiency. No hesitation. Shows he's already thinking two steps ahead. Steady tone, slight upward lift on 「整理します」—showing initiative without overstepping.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "県警との連携部分、忘れないように。",
+      "en": "And don't let the police liaison piece slip.",
+      "style": "Slight emphasis on 「忘れないように」—not a reprimand, a calibration. Measured, paternal almost. The tone of someone who knows mistakes happen and is preventing this one preemptively.",
+      "mood": "cautionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、明日の打合せに含めます。",
+      "en": "Yes, I'll fold that into tomorrow's meeting.",
+      "style": "Quick, assured. No extra words. The closing note of someone who understands the instruction and has already filed it. Brief, respectful nod in voice form.",
+      "mood": "confirmed"
+    }
+  ]
+}

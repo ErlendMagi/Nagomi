@@ -1,0 +1,62 @@
+{
+  "id": "conv_01077",
+  "context": "Sho asks Sakura about reading her book.",
+  "purpose": "older-younger book exchange",
+  "ambient": "living_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "一緒",
+    "楽しい",
+    "優しい",
+    "読む"
+  ],
+  "cast": [
+    "sho_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_054)",
+    "generated_at": "2026-05-27T03:42:10.622Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "さくらお姉ちゃん、本、読んで、いい？",
+      "en": "Sakura… will you read to me?",
+      "style": "Soft, hesitant opening. Six-year-old vulnerability — not demanding but genuinely asking. Small voice. Warm, genuine hope threaded through. Let the pause breathe.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、優しい話、読むね。",
+      "en": "Yeah. I'll read you a kind one.",
+      "style": "Warm, immediate agreement. Sho's gentle request lands — she's genuine here, not performing. Soft, reassuring tone. Slight settling-in, like she's making space for him.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お姉ちゃんの本、好き。",
+      "en": "I like your books.",
+      "style": "Small voice, genuine appreciation. Not asking for validation — just stating a fact that matters to him. Quiet, steady warmth. The kind of simple honesty a six-year-old delivers when he trusts someone.",
+      "mood": "content_appreciative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一緒に、楽しい、時間、ね。",
+      "en": "Times like this with you are really good.",
+      "style": "Sincere, soft echo of his warmth. Not overstating it — just meeting his honesty with her own. Gentle rhythm. Like she's noticing the same thing he is and saying it out loud.",
+      "mood": "present_grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、本当に。",
+      "en": "Thank you. Really.",
+      "style": "Small but steady gratitude. Not rushed. He means it — the repetition isn't habit, it's emphasis. Soft landing, like he's found something solid.",
+      "mood": "grateful"
+    }
+  ]
+}

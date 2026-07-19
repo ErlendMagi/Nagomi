@@ -1,0 +1,76 @@
+{
+  "id": "conv_01391",
+  "context": "Saito gives Naoko a careful checkup.",
+  "purpose": "doctor-patient careful checkup exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "感謝"
+  ],
+  "cast": [
+    "saito_doctor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "直子さん、本当、健康、保てる、ね。",
+      "en": "Naoko-san, your health really has been well maintained.",
+      "style": "Warm, steady opening. Professional composure with genuine care underneath. Delivers the reassurance as a quiet fact, not flattery. Slight pause before the affirmation, as if choosing words with real weight.",
+      "mood": "warm_reassuring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "感謝、本当、本当に。",
+      "en": "I'm so grateful. Truly, truly.",
+      "style": "Soft, earnest gratitude. Voice catches slightly on the second 'truly'—not breaking, but showing the feeling beneath. Warm and direct, without performance.",
+      "mood": "deeply_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、生活、本当に。",
+      "en": "What you do for your health—that takes real commitment.",
+      "style": "Measured, thoughtful. Acknowledges the patient's effort with genuine respect. Slight lean into the word 'commitment,' as if naming something she's noticed over time.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "相談、本当、いつでも、ね。",
+      "en": "Please, if you ever need advice, anytime at all.",
+      "style": "Warm and accessible. The word 'anytime' is open—she means it, not as a formality but as an invitation. Soft, genuine offer without pressure.",
+      "mood": "caring_open"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、本当、頑張りましょう。",
+      "en": "Let's keep working at this together.",
+      "style": "Quiet conviction. Slight lift on 'together'—partnering, not prescribing. Steady, calm, the voice of someone who will be there for the long term.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "本当、嬉しい、本当に。",
+      "en": "It makes me happy to see you doing so well.",
+      "style": "Sincere and warm. Softly emotional—she's speaking not just as doctor but as someone who cares. Genuine pleasure in the words, without becoming unprofessional.",
+      "mood": "genuinely_pleased"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お元気で、本当に、ね。",
+      "en": "Take care of yourself—truly.",
+      "style": "Closing warmth. A benediction rather than an instruction. The 'truly' is tender, almost whispered, carrying all the care of the appointment into a send-off.",
+      "mood": "warm_concern"
+    }
+  ]
+}

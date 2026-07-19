@@ -1,0 +1,78 @@
+{
+  "id": "conv_03382",
+  "context": "Troubleshooting an app that won’t launch",
+  "purpose": "Fix a glitch; teach インストール/バージョン/プラス/マイナス/カラー/回転/穴/録音",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インストール",
+    "バージョン",
+    "プラス",
+    "マイナス",
+    "カラー",
+    "回転",
+    "穴",
+    "録音"
+  ],
+  "cast": [
+    "riku_teen",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_170)",
+    "generated_at": "2026-05-29T18:10:39.617Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "インストールしたのに、起動しないんだ。",
+      "en": "I installed it, but it won’t launch.",
+      "style": "frustrated friend reporting a bug, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "バージョンが古いんじゃない？",
+      "en": "Isn’t the version outdated?",
+      "style": "diagnosing techie offering a guess, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "更新したら、プラスの変化があった。",
+      "en": "After updating, there was a positive change.",
+      "style": "relieved friend confirming, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "逆に、容量がマイナスになった気がする。",
+      "en": "Conversely, storage feels like a minus now.",
+      "style": "techie noting a tradeoff, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "アイコンのカラーも変わったね。",
+      "en": "The icon color changed too.",
+      "style": "observant friend noticing, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "設定で画面の回転をロックできるよ。",
+      "en": "You can lock screen rotation in settings.",
+      "style": "helpful techie advising, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "バグっていう穴を、開発者が埋めたのかな。",
+      "en": "Maybe the devs patched the bug holes.",
+      "style": "speculating friend musing, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "操作画面を録音して、報告するといいよ。",
+      "en": "Record the screen and report it — that helps.",
+      "style": "practical techie suggesting, voice clear and distinctly their own"
+    }
+  ]
+}

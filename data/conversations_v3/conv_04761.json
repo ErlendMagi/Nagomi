@@ -1,0 +1,78 @@
+{
+  "id": "conv_04761",
+  "context": "A teacher gives a uni student a quick Japan-history briefing",
+  "purpose": "Teach: 東西/南北/に際して/にわたり/東海/本土/中期/大和",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "東西",
+    "南北",
+    "に際して",
+    "にわたり",
+    "東海",
+    "本土",
+    "中期",
+    "大和"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では授業に際して、日本史の流れを古今東西の視点でざっと整理しておきましょう。",
+      "en": "Well then, as we begin class, let's roughly organize the flow of Japanese history from a universal perspective.",
+      "style": "Formal teacher opening framing the lesson"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お願いします。実は大和政権あたりからもう曖昧なんですよね。",
+      "en": "Please. Honestly, things are already fuzzy for me starting around the Yamato regime.",
+      "style": "Polite student admission with mild embarrassment"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫、まず四世紀ごろ、大和朝廷が南北の豪族を束ねて本土の中心権力になった、と覚えてください。",
+      "en": "It's fine, first remember that around the fourth century the Yamato court unified northern and southern clans to become the central power of the mainland.",
+      "style": "Teacher delivering structured historical exposition clearly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、その後、東海地方とかも徐々に支配下に入っていく感じですか?",
+      "en": "I see, so after that places like the Tokai region also gradually came under their control?",
+      "style": "Curious student checking understanding of geography"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうです。そして平安中期になると貴族文化が花開き、その後は武士の時代が数百年にわたり続きます。",
+      "en": "Exactly. Then in the mid-Heian period aristocratic culture blossomed, after which the age of samurai continued for several hundred years.",
+      "style": "Teacher chaining eras with smooth transitions"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "数百年って長いですね。江戸が終わるまでずっと武士中心だったって理解で合ってますか?",
+      "en": "Several hundred years is really long. Is it correct to understand that it stayed samurai-centered until the Edo period ended?",
+      "style": "Student confirming the broader timeline carefully"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、大筋では合っています。明治以降は東西の列強と接しながら近代国家を作っていきました。",
+      "en": "Yes, broadly speaking that's right. From the Meiji era onward Japan built a modern state while engaging with the great powers of East and West.",
+      "style": "Teacher concluding with modern context summary"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。流れが見えてきました、来週までに教科書を読み込んでおきます。",
+      "en": "Thank you very much. I can see the flow now, I'll read through the textbook by next week.",
+      "style": "Grateful student committing to study plan"
+    }
+  ]
+}

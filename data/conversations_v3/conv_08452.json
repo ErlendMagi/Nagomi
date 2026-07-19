@@ -1,0 +1,86 @@
+{
+  "id": "conv_08452",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 逐次/紀元前/派兵/軽蔑/露呈/否決/法務大臣/会計検査院",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "逐次",
+    "紀元前",
+    "派兵",
+    "軽蔑",
+    "露呈",
+    "否決",
+    "法務大臣",
+    "会計検査院"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、警察、証拠を逐次集めております",
+      "en": "We're gathering evidence in this case systematically.",
+      "style": "Measured, official tone. Steady pace. No inflection—a statement of fact. Hands steady on the desk. The voice of procedure.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、紀元前の遺物の盗難を捜査中ですね",
+      "en": "So the police are investigating the theft of ancient artifacts.",
+      "style": "Thoughtful, slightly probing. Gentle upturn at the end—checking his understanding, not challenging. Quiet curiosity underneath. Leaning forward slightly.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、国外派兵時の警備事案にも対応します",
+      "en": "We also respond to security incidents related to overseas deployments.",
+      "style": "Even cadence, each phrase weighted equally. Professional distance. The voice of someone reading from a comprehensive scope of work.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者への軽蔑発言を警察、調査されましたね",
+      "en": "So you investigated the contemptuous remarks directed at the victim.",
+      "style": "Careful, precise. A slight pause before 'contemptuous'—choosing the right word matters here. Not accusatory, just confirming. Eyes steady.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、組織内不正の露呈を厳格に対応します",
+      "en": "We take internal fraud seriously when it comes to light.",
+      "style": "Firmer edge now. A slight tightening on 'seriously.' No apology in the voice. Direct, measured anger held in check.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、議会で否決された法案について警察、所感がおありですね",
+      "en": "As for the bill that didn't pass in the Diet, I'd have to defer on that.",
+      "style": "A breath before answering—this is outside his lane. Honest admission of boundary. Respectful, not evasive. Slight pause after 'defer.'",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、法務大臣のご指示を仰ぎます",
+      "en": "We follow the Justice Minister's direction on this.",
+      "style": "Clipped, formal. This closes the door politely. The voice of deference to hierarchy, not uncertainty. Clean and final.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、会計検査院との連携、警察、強化されましたね",
+      "en": "We've strengthened our coordination with the Audit Board on this case.",
+      "style": "Warm, almost relieved. A slight softening from the earlier procedural tone. This is partnership, not just protocol. Genuine acknowledgment of a working relationship.",
+      "mood": "collaborative"
+    }
+  ]
+}

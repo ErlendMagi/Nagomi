@@ -1,0 +1,78 @@
+{
+  "id": "conv_04190",
+  "context": "A teacher counsels a teen about career path options",
+  "purpose": "Teach: 出現/就任/公社/策定/施工/従事/文部/室内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出現",
+    "就任",
+    "公社",
+    "策定",
+    "施工",
+    "従事",
+    "文部",
+    "室内"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "進路の話だけど、まず最近の文部科学省のデータを一緒に見ようか。",
+      "en": "About your career path, let's first look at the recent data from the Ministry of Education together.",
+      "style": "Warm but professional teacher opening the counseling session gently."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい…でも先生、私、将来どんな仕事に従事したいのか全然分からなくて。",
+      "en": "Yes... but teacher, I have no idea what kind of work I want to engage in for my future.",
+      "style": "Hesitant teen voice trailing off with genuine confusion and worry."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "焦らなくていいよ。最近は新しい職種もたくさん出現してきてるからね。",
+      "en": "You don't need to rush. Lately, many new types of jobs have been emerging too.",
+      "style": "Reassuring teacher tone with a soft encouraging smile in voice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実は建築に興味があって、施工管理の仕事ってどんな感じなんですか?",
+      "en": "Actually I'm interested in architecture—what is construction management work like?",
+      "style": "Curious teen leaning forward with a small spark of enthusiasm."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい質問ね。住宅公社で働いてる卒業生もいるよ。街づくりの計画策定にも関わってるの。",
+      "en": "Great question. We have alumni working at the housing public corporation. They're involved in urban planning formulation too.",
+      "style": "Engaged teacher sharing concrete examples with genuine pride and warmth."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そういう人たちって、最初からインテリアデザインとか室内の専門を選んだんですか?",
+      "en": "Did those people choose a specialty like interior design or indoor spaces from the very beginning?",
+      "style": "Thoughtful teen processing new information and asking a follow-up question."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ううん、ある先輩は去年プロジェクトリーダーに就任したけど、最初は迷ってたみたいよ。",
+      "en": "No, one senior was appointed project leader last year, but apparently she was lost at first too.",
+      "style": "Gentle teacher voice sharing an encouraging real example to comfort student."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そっか…ちょっと安心しました。もう少し色々調べてみます。",
+      "en": "I see... I feel a little relieved. I'll look into various things a bit more.",
+      "style": "Teen voice softening with relief and a hint of new motivation."
+    }
+  ]
+}

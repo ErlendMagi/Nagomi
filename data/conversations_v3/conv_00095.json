@@ -1,0 +1,97 @@
+{
+  "id": "conv_00095",
+  "context": "School pickup. Asuka has been chatting weekly with one of her students' moms (Yumiko); today they walk to the gate together.",
+  "purpose": "parent-teacher friendship — adults becoming friends through proximity",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今日",
+    "子供",
+    "一緒",
+    "大変"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "お疲れさまです。今日も、お迎えですね。",
+      "en": "Good work today. You're picking up again, I see.",
+      "style": "Warm, professional greeting with a slight nod embedded in the voice. Genuine but bounded—the tone of a teacher who notices patterns.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当にお世話になってます。",
+      "en": "You really do take such good care of her.",
+      "style": "Sincere gratitude with a small bow threaded through the delivery. Grounded, not rushed. The weight of real appreciation.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "こちらこそ。…たまには、お茶でもしませんか？",
+      "en": "The feeling is mutual. …Would you maybe want to grab tea sometime?",
+      "style": "A soft, unguarded extension of warmth. Slight hesitation before the ask—not timid, but testing. Voice opens a little.",
+      "mood": "warm_tentative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えっ、嬉しい。…私で、よかったら、ぜひ。",
+      "en": "Oh—that would be lovely. …I'd really like that, if you would.",
+      "style": "Genuinely surprised, a small laugh underneath. Steady and present, meeting her halfway. The brightness of something unexpected.",
+      "mood": "pleased_surprised"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "よかった。…子供同士じゃない時間も、大切で。",
+      "en": "Good. …Time just for us matters too, you know?",
+      "style": "Quietly honest. Walks slower with the thought. Genuine connection in the pacing, no performance.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当に、そう思います。仕事と子供で、もう毎日…",
+      "en": "I really do think that. Between work and the kids, it's just… every single day.",
+      "style": "Soft exhaustion audible underneath. No hurry. The admission of something real. Breath settles into the words.",
+      "mood": "tired_honest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "わかります。大変ですよね。",
+      "en": "I hear you. It really is a lot.",
+      "style": "Steady validation. Voice doesn't over-compensate. Simple, present, grounded.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今度、本当に、楽しみにしてます。",
+      "en": "I'm really looking forward to it.",
+      "style": "Genuine reciprocation. Voice slightly lighter than before. The beginning of something mutual.",
+      "mood": "warm_hopeful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "時間、合わせます。連絡先、交換しましょう。",
+      "en": "I'll work around your schedule. Let's exchange numbers.",
+      "style": "Practical warmth. Phone comes out in the voice. Light initiative—the move of someone making friendship real.",
+      "mood": "friendly_purposeful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、ぜひ。",
+      "en": "Yes, absolutely.",
+      "style": "Bright, clean agreement. A small lightness in the air. The friendship solidifying.",
+      "mood": "warm_eager"
+    }
+  ]
+}

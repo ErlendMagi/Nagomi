@@ -1,0 +1,72 @@
+{
+  "id": "conv_05326",
+  "context": "A boss reviews a property registration plan",
+  "purpose": "Teach: 役人/図っ/担う/立案/当方/所管/登記/全額",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役人",
+    "図っ",
+    "担う",
+    "立案",
+    "当方",
+    "所管",
+    "登記",
+    "全額"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "登記の件、進捗どうだ。",
+      "en": "How's the registration coming along?",
+      "style": "Clipped, direct opening. Eyes forward. No warmth in the efficiency — this is business. Expects a straight answer.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "当方の担当が立案を担う形で、書類を準備しています。",
+      "en": "Our team is handling the planning stage and preparing the documents.",
+      "style": "Steady, professional tone. Even pace, slightly formal register. No defensiveness, just facts. The tone of someone who's already thought this through.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役人との折衝、円滑に図ってくれ。",
+      "en": "Make sure the negotiations with the administration go smoothly.",
+      "style": "Firm but not harsh. Slight weight on the instruction itself — this matters. Brief, clipped at the end. Not a question.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。所管の窓口、明日訪問予定です。",
+      "en": "Yes. We're scheduled to visit the office in charge tomorrow.",
+      "style": "Respectful, confirming. No elaboration — just the essential update. Controlled, slightly formal in register. Slightly faster than conversational.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "費用は全額、今月の予算から落とせるか?",
+      "en": "Can we cover the full cost from this month's budget?",
+      "style": "Careful, probing question. Slight pause before the question lands. Not accusing, but testing whether the plan is actually solid. Lean forward slightly in posture.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、計上済みです。",
+      "en": "Yes, already accounted for.",
+      "style": "Clipped, confident. No hesitation. Slightly faster delivery — shows he's prepared for this. The reply of someone who did the homework.",
+      "mood": "prepared"
+    }
+  ]
+}

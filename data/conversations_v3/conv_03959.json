@@ -1,0 +1,78 @@
+{
+  "id": "conv_03959",
+  "context": "A teacher briefs a student newspaper editor about school site security",
+  "purpose": "Teach: ウェブサイト/暗号/転送/無効/流出/用途/任務/通用",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウェブサイト",
+    "暗号",
+    "転送",
+    "無効",
+    "流出",
+    "用途",
+    "任務",
+    "通用"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "新聞部の編集長として、学校の公式ウェブサイトのセキュリティ問題について説明しておきたいの。",
+      "en": "As the newspaper editor, I want to brief you on security issues with the school's official website.",
+      "style": "Teacher in formal briefing mode, measured and serious."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、もしかして生徒の情報が流出したんですか？",
+      "en": "Sensei, did student information actually leak?",
+      "style": "Teen sounding worried but professionally curious as editor."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "幸いまだ被害はないけど、古いログインの暗号が弱くて、危険な状態だったのよ。",
+      "en": "Fortunately no harm yet, but the old login encryption was weak and the situation was dangerous.",
+      "style": "Teacher explaining technical risk in accessible careful tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "じゃあ、私たち生徒のアカウントは今は無効になっているんですか？",
+      "en": "So our student accounts are currently disabled?",
+      "style": "Teen asking sharp clarifying question like real journalist."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、一時的に無効にして、新しいサーバーへデータを転送している最中なの。",
+      "en": "Yes, temporarily disabled, and we're in the middle of transferring data to a new server.",
+      "style": "Teacher giving status update in calm informative voice."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "記事にする時は、用途別に何が守られているか書いた方がいいですよね。",
+      "en": "When I write the article, I should probably describe what's protected by use case, right?",
+      "style": "Teen thinking out loud about article structure professionally."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうね。読者の不安をあおる書き方は、学校新聞では通用しないから気をつけて。",
+      "en": "Right. Writing that fuels reader anxiety doesn't fly in a school paper, so be careful.",
+      "style": "Teacher giving editorial guidance with gentle firmness."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。正確に伝えるのが、編集長としての私の任務ですから。",
+      "en": "Understood. Conveying things accurately is my duty as editor.",
+      "style": "Teen accepting responsibility with quiet determined pride."
+    }
+  ]
+}

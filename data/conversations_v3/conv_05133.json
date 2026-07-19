@@ -1,0 +1,90 @@
+{
+  "id": "conv_05133",
+  "context": "A police officer briefs a uni reporter about an archaeology case",
+  "purpose": "Teach: 法学部/起因/切断/暗示/帰属/神殿/初頭/敗退",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "法学部",
+    "起因",
+    "切断",
+    "暗示",
+    "帰属",
+    "神殿",
+    "初頭",
+    "敗退"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "君が法学部の学生記者か。今回の件、簡潔に説明する。",
+      "en": "So you're the law school student reporter. I'll explain this case briefly.",
+      "style": "Officer Takeda speaks formally and directly, establishing authority from the start."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。経緯を教えていただけますか。",
+      "en": "Yes, thank you. Could you tell me how it unfolded?",
+      "style": "Ren responds politely but with sharp journalistic curiosity in his tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "発掘現場で出土した石柱が、何者かによって切断されていた。",
+      "en": "A stone pillar excavated at the dig site was cut by someone.",
+      "style": "Takeda delivers the facts in clipped, professional sentences without embellishment."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "切断ですか。何か特別な意味のある石柱だったんでしょうか。",
+      "en": "Cut, you say. Was the pillar something with special significance?",
+      "style": "Ren pushes for specifics, careful not to leap to conclusions too soon."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "二十世紀初頭に発見された神殿跡だ。柱の文様が王家への帰属を暗示している。",
+      "en": "The temple ruins were discovered in the early twentieth century. The patterns hint at royal ownership.",
+      "style": "Takeda provides historical context with measured, methodical delivery befitting a briefing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、王家のものだとすれば所有権の争いに発展しそうですね。",
+      "en": "I see, if it belonged to royalty, this could escalate into an ownership dispute.",
+      "style": "Ren analyzes the implications quickly, his legal training visibly kicking in."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そこが厄介でな。地元チームは入札に負けて、感情的になっている連中もいる。",
+      "en": "That's the tricky part. The local team lost the bid, and some have grown emotional.",
+      "style": "Takeda lowers his voice slightly, hinting at the human tension underlying the case."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今回の事件は、その敗退の悔しさに起因していると見ていいんでしょうか。",
+      "en": "Should we view this incident as stemming from the bitterness of that defeat?",
+      "style": "Ren probes the motive carefully, weighing his words like the law student he is."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "断定はできないが、可能性は高い。記事にする際は配慮を頼む。",
+      "en": "I can't say for certain, but the likelihood is high. Please be considerate when writing.",
+      "style": "Takeda gives a measured warning, balancing transparency with professional caution."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もちろんです。慎重に裏を取ってから書くようにします。",
+      "en": "Of course. I'll verify the facts carefully before writing anything.",
+      "style": "Ren nods firmly, accepting the weight of journalistic responsibility he carries."
+    }
+  ]
+}

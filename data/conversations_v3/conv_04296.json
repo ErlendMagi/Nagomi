@@ -1,0 +1,84 @@
+{
+  "id": "conv_04296",
+  "context": "A doctor consults with a teen patient about a sensitive issue",
+  "purpose": "Teach: 癌/消化/合成/究極/及ぼす/取り出し/適宜/示唆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "癌",
+    "消化",
+    "合成",
+    "究極",
+    "及ぼす",
+    "取り出し",
+    "適宜",
+    "示唆"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "検査結果から、初期の癌である可能性が示唆されています。落ち着いて聞いてくださいね。",
+      "en": "The test results suggest the possibility of early-stage cancer. Please listen calmly, okay?",
+      "style": "Gentle, professional doctor delivering difficult news carefully to patient."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、癌って…私まだ十六ですよ。どうして私が…。",
+      "en": "What... cancer? But I'm only sixteen. Why me...?",
+      "style": "Shocked, voice trembling, teenage disbelief and fear."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "気持ちは分かります。ただ、早期発見ですから、最終的には完治を目指せますよ。",
+      "en": "I understand how you feel. But because we caught it early, ultimately we can aim for a full recovery.",
+      "style": "Reassuring, measured tone, eye contact emphasized warmly throughout."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "治療って、体にすごく影響を及ぼすって聞きました。髪も抜けるんですよね…？",
+      "en": "I heard treatment has a huge impact on the body. My hair will fall out, won't it...?",
+      "style": "Worried, hesitant, asking with a small fragile voice."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "副作用は人それぞれです。消化に影響が出る方もいますが、その都度お薬で調整していきますよ。",
+      "en": "Side effects vary by person. Some patients have trouble with digestion, but we'll adjust with medication each time as needed.",
+      "style": "Calm clinical explanation softened with personal warmth throughout conversation."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お薬って…強い薬ですか？合成のものだとちょっと怖いです。",
+      "en": "The medicine... is it strong? If it's synthetic, I'm a little scared.",
+      "style": "Nervous teenager asking a naive but serious question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "合成薬も使いますが、安全性は確認済みです。詳しい資料も適宜お渡ししていきますね。",
+      "en": "We do use synthetic drugs, but their safety has been confirmed. I'll provide detailed materials as appropriate, too.",
+      "style": "Patient, paternal, gentle smile while explaining reassuringly to teen."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます…。お母さんにも、先生から話してもらえますか？",
+      "en": "Thank you... Could you be the one to tell my mom about it, too?",
+      "style": "Quiet, vulnerable, looking down at hands in lap."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。今、説明用の冊子を取り出しますね。究極的に大事なのは、一緒に乗り越えることですよ。",
+      "en": "Of course. I'll take out an explanatory booklet now. Ultimately what matters most is getting through this together.",
+      "style": "Warm, firm, deeply compassionate closing reassurance to young patient."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04787",
+  "context": "Two managers prepare a customer apology statement",
+  "purpose": "Teach: にあたる/氏名/もとより/に関しまして/均等/奨励/分配/遺憾",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にあたる",
+    "氏名",
+    "もとより",
+    "に関しまして",
+    "均等",
+    "奨励",
+    "分配",
+    "遺憾"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_241 workflow wgk0fq4be)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今回の不具合に関しまして、お詫び文の最終確認をお願いします。",
+      "en": "Regarding this defect, please do a final check of the apology statement.",
+      "style": "Polite professional tone, controlled and measured under pressure."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もとより全責任は当社にありますので、その点はハッキリ明記しましょう。",
+      "en": "The full responsibility lies with us from the start, so let's state that clearly.",
+      "style": "Firm, accountable manager voice, slightly grave register."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "冒頭の挨拶にあたる部分は、誠に遺憾という言葉から始めるのが適切かと思います。",
+      "en": "For the opening greeting portion, starting with 'truly regrettable' seems appropriate.",
+      "style": "Careful and deliberate, weighing each word's nuance."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "賛成です。それから補償金の分配方法についても触れておくべきでしょう。",
+      "en": "I agree. We should also touch on the distribution method for compensation.",
+      "style": "Decisive, business-like cadence with light nodding tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "影響を受けたお客様全員に均等にお支払いする方針で問題ありませんか。",
+      "en": "Is the policy of paying all affected customers equally acceptable?",
+      "style": "Inquiring but professional, seeking confirmation politely."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、それで結構です。再発防止の奨励策も併せて盛り込んでください。",
+      "en": "Yes, that's fine. Please also include incentive measures to prevent recurrence.",
+      "style": "Approving senior voice, calm directive delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。代表者の氏名と役職は本文末尾に記載しておきます。",
+      "en": "Understood. I'll list the representative's name and title at the end of the document.",
+      "style": "Crisp acknowledgement, secretary-like precision in tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "お願いします。明朝の記者会見前に部長へ回しておきましょう。",
+      "en": "Please do. Let's circulate it to the director before tomorrow morning's press conference.",
+      "style": "Closing instruction, slight tension about the looming deadline."
+    }
+  ]
+}

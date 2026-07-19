@@ -1,0 +1,69 @@
+{
+  "id": "conv_00251",
+  "context": "Sachiko comes to Aoi's café for the first time, dragged in by her granddaughter who is at a friend's house.",
+  "purpose": "elder discovering new third place — small barista kindness to an older customer",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "久しぶり",
+    "元気",
+    "注文",
+    "飲む",
+    "喜ぶ"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "こんにちは。久しぶりのお店で。",
+      "en": "Hello. It's been long since I've been to a café.",
+      "style": "Soft grandmother warm gentle careful opener, the soft real elder-hesitancy audible, gentle real warmth throughout delivery throughout.",
+      "mood": "gently-hesitant"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。ゆっくりしていってください。",
+      "en": "Welcome. Please take your time.",
+      "style": "Soft dreamy barista warm gentle accommodating, the soft real elder-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-accommodating"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "コーヒーって、最近たくさん種類あるのね。",
+      "en": "There are so many kinds of coffee these days.",
+      "style": "Soft grandmother warm gentle wondering observation, the soft real elder-wonder audible, gentle real warmth throughout delivery throughout.",
+      "mood": "gently-wondering"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お好みに合わせて、おすすめしますよ。",
+      "en": "I'll suggest something to your taste.",
+      "style": "Soft dreamy barista warm gentle helpful, the soft real careful-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-helpful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "じゃあ、優しい味のやつをお願い。",
+      "en": "Then, please something gentle in flavor.",
+      "style": "Soft grandmother warm gentle trusting request, the soft real elder-grace audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-trusting"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、喜んで。少々お待ちください。",
+      "en": "Yes, gladly. One moment please.",
+      "style": "Soft dreamy barista warm gentle pleased committed, the soft real warm-service audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-pleased"
+    }
+  ]
+}

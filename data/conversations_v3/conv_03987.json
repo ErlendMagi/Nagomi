@@ -1,0 +1,78 @@
+{
+  "id": "conv_03987",
+  "context": "A doctor and police officer coordinate after a disaster response",
+  "purpose": "Teach: 嵐/被災/消防/役所/解体/区域/警官/侵入",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "嵐",
+    "被災",
+    "消防",
+    "役所",
+    "解体",
+    "区域",
+    "警官",
+    "侵入"
+  ],
+  "cast": [
+    "saito_doctor",
+    "takeda_officer"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "先生、昨夜の嵐が来る前に避難所の準備が間に合って本当に良かったです。",
+      "en": "Doctor, I'm truly glad we finished preparing the shelter before last night's storm arrived.",
+      "style": "Formal officer tone, relieved but composed after a long night of emergency work."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、被災者支援の体制も整いましたが、怪我人の搬送がまだ続いています。",
+      "en": "Yes, the disaster victim support system is in place, but injured transports are still ongoing.",
+      "style": "Calm doctor's voice, professionally tired but focused on ongoing patient care."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "消防車が今朝から現場に入っていて、倒壊した家屋の確認をしています。",
+      "en": "Fire trucks have been on site since morning, checking the collapsed houses.",
+      "style": "Reporting tone, factual and direct as expected from an officer briefing."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "区役所からの連絡では、解体工事はいつ頃から始まるのでしょうか。",
+      "en": "According to the ward office's notice, when will the demolition work begin?",
+      "style": "Polite inquiry, seeking practical information to plan medical staff deployment."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おそらく週明けです。それまで立入禁止区域は警官として厳しく管理します。",
+      "en": "Probably early next week. Until then, as officers, we'll strictly manage the restricted zone.",
+      "style": "Authoritative reassurance, emphasizing duty and responsibility in clear formal speech."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "助かります。野次馬が傷を負って運ばれてくる例も少なくないので。",
+      "en": "That's helpful. We get quite a few cases of onlookers being brought in with injuries.",
+      "style": "Doctor expressing professional concern with a slight weary undertone of experience."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "不法侵入を試みる者もいますから、夜間の巡回も増やす予定です。",
+      "en": "Some people even attempt illegal entry, so we plan to increase nighttime patrols.",
+      "style": "Serious officer tone, conveying the gravity of security concerns post-disaster."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "心強いです。何かあれば私の携帯にすぐ連絡してください。",
+      "en": "That's reassuring. If anything happens, please contact my mobile right away.",
+      "style": "Warm professional closing, offering continued cooperation between services."
+    }
+  ]
+}

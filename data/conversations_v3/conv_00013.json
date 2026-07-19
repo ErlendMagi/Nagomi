@@ -1,0 +1,83 @@
+{
+  "id": "conv_00013",
+  "context": "After-class corridor at a small language school. Ren has stayed behind to ask about a particle that has been confusing him.",
+  "purpose": "teacher-student instructional moment — patient explanation between adults",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "少し",
+    "言う",
+    "時間",
+    "大丈夫",
+    "どう"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、少しだけ、いいですか？",
+      "en": "Sensei, do you have a moment?",
+      "style": "Hesitant opener. Stops just inside the doorway. The 「少しだけ」 hedges the imposition.",
+      "mood": "hesitant"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "もちろん。どうしましたか？",
+      "en": "Of course. What's up?",
+      "style": "Already turning. Warm and ready. The question opens the door fully.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "「は」と「が」の使い方が、本当によく分からなくて…",
+      "en": "The difference between \"wa\" and \"ga\" — I genuinely can't get a handle on it…",
+      "style": "A small embarrassed exhale at the end. Almost-confession of a learner stuck in the same place a long time.",
+      "mood": "admitting_stuck"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "よくある悩みですよ。例文で、少しずつ見ていきましょう。",
+      "en": "That's a common one. Let's look at it step by step with examples.",
+      "style": "Warm normalisation. The 「よくある」 takes the shame off the shelf. Then a quiet plan.",
+      "mood": "normalising"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お時間、本当に大丈夫ですか？",
+      "en": "Is your time really okay with this?",
+      "style": "Checks before accepting. Polite, slightly anxious. JP and EN: don't hide the worry.",
+      "mood": "double_checking"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫です。一緒に整理しましょう。",
+      "en": "It's fine. Let's work through it together.",
+      "style": "Easy reassurance. The 「一緒に」 carries the message — you're not alone in this. Calm authority.",
+      "mood": "settling_in"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、ありがとうございます。",
+      "en": "I'm sorry — and thank you.",
+      "style": "The relief leaks through the polite formula. Bows slightly inside the voice.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では、まず、この文から見てみましょうか。",
+      "en": "Right — first, let's have a look at this sentence.",
+      "style": "Pen tap on the paper in the voice. Teaching has begun. Calm, focused.",
+      "mood": "beginning_lesson"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_01395",
+  "context": "Yumiko prepares lunch with Sho.",
+  "purpose": "mother-child lunch-help exchange",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "お昼",
+    "一緒",
+    "美味しい",
+    "頑張る",
+    "楽しい"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "しょうくん、お昼、本当、一緒に、作ろう。",
+      "en": "Sho, let's make lunch together, yes?",
+      "style": "Warm, inviting opening. Soft maternal tone with real affection threaded through. Gentle pace, slight lift on the offer — not pushing, just genuinely wanting him there. Stays grounded, not performing.",
+      "mood": "warm_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、頑張る、本当、絶対。",
+      "en": "Yes — I'll really try my best.",
+      "style": "Small, genuine voice. Quiet commitment underneath. Soft brightness without performing joy. A child stating something true about himself. Steady, sincere delivery.",
+      "mood": "sincere_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "美味しい、本当、なる、絶対。",
+      "en": "It'll definitely be delicious.",
+      "style": "Maternal certainty softened with warmth. Not commanding — more like a promise whispered to him. Gentle pace. The reassurance of someone who trusts the moment and him together.",
+      "mood": "warm_assured"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、本当、ね。",
+      "en": "It really is fun.",
+      "style": "Small voice, noticing something true. Soft and genuine. A moment of quiet recognition — not bursting with energy, but warm recognition of what's happening right now.",
+      "mood": "quietly_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、本当、嬉しい。",
+      "en": "I'm really happy we're doing this together.",
+      "style": "Maternal voice deepening slightly with real gratitude. Gentle, unhurried. Closing warmth — the kind that comes from meaning something you're saying. Tender without sentimentality.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

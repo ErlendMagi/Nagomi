@@ -1,0 +1,78 @@
+{
+  "id": "conv_04378",
+  "context": "A vendor and the cafe owner finalize a service agreement",
+  "purpose": "Teach: コンサルタント/コンセプト/アーカイブ/前述/特例/相違/宜しく/フロント",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "コンサルタント",
+    "コンセプト",
+    "アーカイブ",
+    "前述",
+    "特例",
+    "相違",
+    "宜しく",
+    "フロント"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "本日はお時間いただき、宜しくお願いいたします。経営コンサルタントとして、御社の契約案を最終確認しに参りました。",
+      "en": "Thank you for your time today. As the management consultant, I've come to finalize the contract proposal with you.",
+      "style": "Polite formal business greeting opening the meeting professionally."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ宜しくお願いします。うちの店舗のコンセプトを大事にしてくださって、本当に助かっています。",
+      "en": "The pleasure is mine. I really appreciate that you've respected our cafe's concept throughout this process.",
+      "style": "Warm grateful tone from a cafe owner welcoming the vendor."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "前述の通り、月次レポートと販促資料はクラウドのアーカイブに自動保存される仕組みになっております。",
+      "en": "As previously mentioned, the monthly reports and promotional materials will be automatically saved in the cloud archive.",
+      "style": "Concise professional summary referencing earlier discussed terms."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "アーカイブの件、安心しました。あと、フロントに置く受付タブレットの設定はどうなりますか?",
+      "en": "I'm relieved about the archive arrangement. Also, what about the setup for the reception tablet at the front?",
+      "style": "Curious practical follow-up question from the cafe owner."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "フロント用の機材は来週水曜に納品いたします。初期設定込みなので、当日からそのままお使いいただけます。",
+      "en": "The front-desk equipment will be delivered next Wednesday. Initial setup is included, so you can use it right away.",
+      "style": "Reassuring logistical update with clear delivery timeline."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。あ、繁忙期だけ営業時間を延ばす場合、特例として追加料金は発生しますか?",
+      "en": "That's a big help. Oh, if we extend hours only during peak season, would there be an extra charge as a special exception?",
+      "style": "Practical clarifying question raising a real operational concern."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "その点は標準プランと相違ない扱いで結構です。事前にご一報いただければ、特例として無償対応いたします。",
+      "en": "On that point, there's no difference from the standard plan. If you notify us in advance, we'll handle it free of charge as an exception.",
+      "style": "Generous accommodating reply confirming favorable contract terms."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。それでは、この内容で契約させてください。今後とも宜しくお願いします。",
+      "en": "Thank you so much. Then let's go ahead and sign with these terms. I look forward to working with you going forward.",
+      "style": "Decisive friendly closing accepting the agreement and sealing the deal."
+    }
+  ]
+}

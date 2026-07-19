@@ -1,0 +1,75 @@
+{
+  "id": "conv_01739",
+  "context": "Mrs. Mori talks to Yumiko about her diagnosis of mild diabetes.",
+  "purpose": "Older woman sharing health worry with close friend.",
+  "ambient": "tea_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "診断",
+    "症状",
+    "注意",
+    "食事"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "実は、診断、出てしまって。",
+      "en": "Actually, the results came back.",
+      "style": "Soft opening, almost hesitant. Warm and honest, but searching for the right way to say it. Pace steady but careful, like she's weighing each word. Slight pause before the second clause.",
+      "mood": "uncertain_honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、何の?",
+      "en": "Oh — what kind?",
+      "style": "Gentle, attentive inquiry. Warm but not prying. Slight lean-in. She's listening with the whole of her attention, not rushing to the next moment.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "軽い糖尿病なの。",
+      "en": "Mild diabetes.",
+      "style": "Matter-of-fact delivery, but soft underneath. Not resignation — acceptance. A small breath before saying it aloud, like she's released something she's been holding.",
+      "mood": "resigned_calm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "気をつけて、食事から。",
+      "en": "Be mindful with what you eat.",
+      "style": "Practical and kind. Not instructional-cold, but the warmth of someone who knows how to care through concrete action. Steady, grounded tone. Direct but never harsh.",
+      "mood": "supportive_practical"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "うん、症状、軽いから良かった。",
+      "en": "Yeah — the symptoms are mild, so I'm grateful for that.",
+      "style": "Quiet relief threaded through. A small lift at 'grateful,' like she's surprised at her own lightness about it. Warm but not overstating. Trailing off gently on the last phrase.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、健康的な料理しましょう。",
+      "en": "Let's cook healthy meals together.",
+      "style": "Warm offer, genuinely meant. Not pity — partnership. Open and steady, the tone of someone extending a hand. Slight emphasis on 'together,' but soft, not performative.",
+      "mood": "warm_supportive"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ありがとう、心強いわ。",
+      "en": "Thank you — that really helps.",
+      "style": "Tender gratitude. Small voice, genuine. Slight catch like emotion is close but held. Grateful exhale. The sound of being seen and not left alone.",
+      "mood": "touched_grateful"
+    }
+  ]
+}

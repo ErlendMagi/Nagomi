@@ -1,0 +1,78 @@
+{
+  "id": "conv_04852",
+  "context": "A doctor explains a research summary to a curious uni student",
+  "purpose": "Teach: 学長/医学部/皇室/動詞/交響曲/結晶/法科/欠如",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "学長",
+    "医学部",
+    "皇室",
+    "動詞",
+    "交響曲",
+    "結晶",
+    "法科",
+    "欠如"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、先日学長が紹介していた医学部の新しい研究、ちょっと気になっていて。",
+      "en": "Doctor, I've been curious about that new med school research the chancellor mentioned the other day.",
+      "style": "Curious student, casual but respectful tone toward mentor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ああ、あれね。皇室の方々も視察に来られたほど注目されている研究だよ。",
+      "en": "Ah, that one. It's drawing so much attention that even members of the imperial family came to observe.",
+      "style": "Calm, knowledgeable doctor explaining warmly to a young learner."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "へえ、すごいですね。確か、たんぱく質の結晶構造を解析する話でしたよね?",
+      "en": "Wow, that's amazing. If I remember right, it was about analyzing protein crystal structures, wasn't it?",
+      "style": "Engaged student showing he's done some preliminary reading."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そう。論文を読むときは、動詞の使い方に注意するといい。受動か能動かで意味が変わるから。",
+      "en": "Exactly. When reading papers, pay attention to how verbs are used—passive or active changes the meaning.",
+      "style": "Doctor giving practical academic advice, didactic but kind."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。実は僕、法科に進むか医学部に行くかで、まだ迷っているんです。",
+      "en": "I see. Actually, I'm still torn between going into law or medicine.",
+      "style": "Student confiding personal indecision, slightly hesitant tone."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "焦らなくていいよ。情熱の欠如した道を選ぶより、心が動く方を選びなさい。",
+      "en": "No need to rush. Better to choose the path that moves your heart than one lacking passion.",
+      "style": "Wise mentor offering gentle, grounded life advice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。先生、研究の合間にベートーヴェンの交響曲を聴くって本当ですか?",
+      "en": "Thank you. Doctor, is it really true you listen to Beethoven's symphonies between research sessions?",
+      "style": "Light, friendly follow-up question changing the mood."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ははは、本当だよ。あれを聴くと、思考が整うんだ。研究も音楽も、集中の結晶みたいなものさ。",
+      "en": "Haha, it's true. Listening clears my mind. Research and music are both crystallizations of focus.",
+      "style": "Warm laughter, reflective philosophical closing remark from the doctor."
+    }
+  ]
+}

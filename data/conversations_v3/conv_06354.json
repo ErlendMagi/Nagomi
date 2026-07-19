@@ -1,0 +1,86 @@
+{
+  "id": "conv_06354",
+  "context": "A boss reviews a CSR-medical project",
+  "purpose": "Teach: 腫瘍/叩か/舐め/湧き/たどる/明かし/白熱/惑わさ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "腫瘍",
+    "叩か",
+    "舐め",
+    "湧き",
+    "たどる",
+    "明かし",
+    "白熱",
+    "惑わさ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_319 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "医療CSR、腫瘍検診支援、進めろ。",
+      "en": "Medical CSR, tumor-screening support—move on it.",
+      "style": "Clipped, decisive. Brief pause between clauses. Expectation of immediate understanding and action. No room for questions.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。批判で叩かれることも、覚悟しています。",
+      "en": "Yes. I understand we'll face criticism. I'm prepared for it.",
+      "style": "Steady, measured. Respectful but not deferential. Each clause lands with quiet certainty. Shows he's already thought this through.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "予算、舐めるな、慎重に。",
+      "en": "Budget—don't play fast and loose. Be careful.",
+      "style": "Tight, warning edge. Hard stop after the dash. The word 'careful' is deliberate, not casual—this is non-negotiable.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員から、貢献の意欲、湧き上がってます。",
+      "en": "Yes. The staff—they're genuinely eager to contribute.",
+      "style": "Straightforward report. Slight lift of positivity on 'genuinely eager' without overdoing it. Professional but warm.",
+      "mood": "encouraged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "過去の支援例、たどる作業、若手に。",
+      "en": "Past support efforts—have the younger staff trace them.",
+      "style": "Matter-of-fact instruction. Pause at the dash. Delegates without micromanaging. Tone is neutral, purposeful.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。理念を明かして、透明性を示します。",
+      "en": "Yes. I'll lay out the principles clearly and show where we stand.",
+      "style": "Confident commitment. Measured pace. The promise sits quietly—not over-assured, but certain. Slight emphasis on 'clearly.'",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社内議論、白熱した状態、出てきたな。",
+      "en": "Internal discussions have gotten quite heated.",
+      "style": "Observational, almost weighing the fact. Not disapproving—just noting what's happened. Slight tone of respect for the intensity.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。SNSの誤情報に惑わさないよう、対応します。",
+      "en": "Yes. We'll make sure the team doesn't get thrown off by misinformation on social media.",
+      "style": "Protective, grounded. Businesslike but with an undertone of 'I've got this.' Ends on a quiet note of resolve.",
+      "mood": "vigilant"
+    }
+  ]
+}

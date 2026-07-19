@@ -1,0 +1,62 @@
+{
+  "id": "conv_01177",
+  "context": "Sachiko tells Hina a summer ghost story.",
+  "purpose": "grandma-child ghost-story exchange",
+  "ambient": "tatami_room_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "夏",
+    "一緒",
+    "楽しい",
+    "怖い",
+    "優しい"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_059)",
+    "generated_at": "2026-05-27T04:17:09.033Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ひなちゃん、夏の話、聞きたい？",
+      "en": "Hina-chan, do you want to hear a summer story?",
+      "style": "Warm, inviting opening. Soft voice with genuine affection. Gentle pace that makes space for a child's answer. The tone of someone who has told many bedtime stories.",
+      "mood": "warm_tender"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ちょっと、怖い、話？",
+      "en": "Um — is it kind of scary?",
+      "style": "Bright, curious voice with a thread of hesitation. Leans forward slightly. Quick uptake on the question, then a pause before 'scary'—checking if she should be worried.",
+      "mood": "curious_cautious"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "優しい、話だよ、安心して。",
+      "en": "It's a kind story, so don't worry.",
+      "style": "Reassuring and calm. Slight emphasis on 'kind' to ease the worry. Slower, deliberate pace. The rhythm of someone who knows how to settle a nervous child.",
+      "mood": "reassuring_gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、聞ける、嬉しい。",
+      "en": "I'm so happy we're listening together.",
+      "style": "Bright, genuine delight. No performance—just honest joy at the shared moment. Warm smile audible in the voice. Slight lift at the end.",
+      "mood": "happy_grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "楽しい、夜、ね。",
+      "en": "What a nice night this is.",
+      "style": "Soft, reflective. A quiet moment of contentment. Slow pace, trailing slightly on the last word. Speaking more to herself than at Hina, but wanting her to feel it too.",
+      "mood": "warm_peaceful"
+    }
+  ]
+}

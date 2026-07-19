@@ -1,0 +1,86 @@
+{
+  "id": "conv_08214",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 司祭/殿下/教皇/暗黒/破滅/連行/暴落/批准",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "司祭",
+    "殿下",
+    "教皇",
+    "暗黒",
+    "破滅",
+    "連行",
+    "暴落",
+    "批准"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_412 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、ホスピスで司祭が患者さんを慰める光景を貴院、ご紹介されたとのこと、先生",
+      "en": "Ren — I heard your hospital introduced the scene of a priest comforting patients in hospice care.",
+      "style": "Steady, clear opening. Clinical warmth without condescension. Measured pace. The tone of someone asking a genuine question she already knows the answer to, testing his thinking.",
+      "mood": "curious_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "王室の殿下が貴院をご訪問されたのですね、先生",
+      "en": "A royal visit to your hospital—is that right, Doctor?",
+      "style": "Tentative, genuine curiosity. Slight upward lift at the end—not challenging, asking for clarification. Respectful but engaged, leaning in to understand.",
+      "mood": "earnest_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、教皇のご訪問時の医療体制を医療チームで整えました",
+      "en": "Yes. When the Pope visited, our medical team coordinated the entire care structure.",
+      "style": "Matter-of-fact precision. No embellishment. A small pause before the verb—the weight of that coordination. Steady eye-line delivery, as if stating a fact that speaks for itself.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "暗黒時代の医療記録を、貴院、研究なさったんですね、先生",
+      "en": "So your hospital has been researching medical records from the Dark Ages?",
+      "style": "Slow, thoughtful delivery. Slight hesitation—he's working through the implications as he speaks. Respectful tone, but genuinely trying to understand the connection he's being shown.",
+      "mood": "thoughtful_searching"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "感染拡大の破滅的事態を医療チームで防ぎました",
+      "en": "Yes. When infection began to spread dangerously, our medical team worked to prevent catastrophe.",
+      "style": "Quiet authority without drama. Each clause lands with equal weight. No rise in urgency—the steadiness itself conveys the gravity. The tone of someone who was there.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、警察と協力して薬物乱用者を連行された事例ありましたね、先生",
+      "en": "There was a case where your hospital cooperated with police to apprehend someone with a substance abuse problem—wasn't there?",
+      "style": "Careful phrasing, respectful tone. Slower pace. He's framing a sensitive question delicately—not accusing, genuinely trying to understand the hospital's role. Slight trailing-off before the question mark.",
+      "mood": "careful_reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、健康指標の暴落に医療チームは警鐘を鳴らします",
+      "en": "Yes. When health indicators plummeted sharply, our medical team sounded the alarm.",
+      "style": "Quiet insistence. The word 'alarm' lands with weight. No hesitation—the certainty of someone who was watching closely and acted. Composed surface, steady conviction underneath.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国際医療条約の批准が、貴院でも議論されておられますね、先生",
+      "en": "International medical treaty ratification—your hospital is discussing that too, isn't it, Doctor?",
+      "style": "Slower, more reflective cadence now. The question trails softly at the end—almost thinking aloud. Respectful, almost meditative. The tone of someone working toward understanding something larger than himself.",
+      "mood": "reflective_earnest"
+    }
+  ]
+}

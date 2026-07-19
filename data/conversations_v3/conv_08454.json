@@ -1,0 +1,86 @@
+{
+  "id": "conv_08454",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 逐次/紀元前/派兵/軽蔑/露呈/否決/法務大臣/会計検査院",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "逐次",
+    "紀元前",
+    "派兵",
+    "軽蔑",
+    "露呈",
+    "否決",
+    "法務大臣",
+    "会計検査院"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_424 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、医療チームで症例を逐次記録しております",
+      "en": "Ren, our medical team keeps detailed records of every case we see.",
+      "style": "Clear, professional opening. Steady gaze. No rush. The tone of someone who has explained this many times and will explain it again without impatience.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、紀元前の薬草研究を医療チームで参照しております",
+      "en": "Yes, we also reference ancient medicinal research in our team discussions.",
+      "style": "Consistent, slightly warmer. A light nod at the end of the sentence. Still professional but acknowledging the slightly unusual nature of the question.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海外派兵時の医療体制を、貴院、研究されてるそうですね、先生",
+      "en": "I understand your hospital has been researching medical protocols for overseas deployment, Doctor?",
+      "style": "Respectful uncertainty — genuine question, not challenge. Slight lean forward. Careful with the honorific. The tone of a student who's done his homework and wants to learn more.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんへの軽蔑的態度は医療チームで厳禁としております",
+      "en": "Yes, and our team has strict protocols against any contemptuous treatment of patients — that's non-negotiable.",
+      "style": "Firmer now. Direct eye contact. No apology in the voice, but no harshness either. The weight of something important being stated plainly.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療体制の不備が露呈した事例を、貴院、検証されたんですね、先生",
+      "en": "So your hospital examined the cases where those system failures became visible?",
+      "style": "Thoughtful pause before speaking. Slower pace. He's connecting dots out loud, not accusing. The careful tone of someone working through a complex problem alongside someone he respects.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療予算の否決対応も医療チームで備えております",
+      "en": "Yes. Our team is also prepared to handle budget rejections and the responses they require.",
+      "style": "Steady delivery. No elaboration. A slight drop in volume on the final clause — she's saying it matters but won't emphasise it.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "法務大臣との会合を貴院、なさったそうですね、先生",
+      "en": "Did your hospital meet with the Minister of Justice about this?",
+      "style": "Careful framing as a question, though he knows the answer. Respectful distance in his tone. The politeness of someone asking about something delicate.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、会計検査院との対応も医療チームで行います",
+      "en": "Yes. We also coordinate directly with the Audit Board on these matters.",
+      "style": "Final statement, slightly lower energy than before. A soft close — this is the endpoint of what she's saying. Professional closure without curtness.",
+      "mood": "resolved"
+    }
+  ]
+}

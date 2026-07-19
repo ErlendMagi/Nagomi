@@ -1,0 +1,72 @@
+{
+  "id": "conv_04990",
+  "context": "A police officer briefs a uni reporter on a civic-affairs story",
+  "purpose": "Teach: 公募/補強/常任/衆院/本店/頂点/市立/乗車",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公募",
+    "補強",
+    "常任",
+    "衆院",
+    "本店",
+    "頂点",
+    "市立",
+    "乗車"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本店前の歩道で起きた件、市立図書館の防犯カメラに映っていた。",
+      "en": "About the incident on the sidewalk in front of the head office — it was captured on the city library's security camera.",
+      "style": "Formal officer briefing, factual and measured tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。実は市民の声を公募していて、今回の事件にも関心が集まっています。",
+      "en": "Thank you. Actually we've been openly soliciting residents' voices, and this incident has drawn a lot of attention too.",
+      "style": "Polite student reporter, eager but professional questioning."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。市は街灯の補強工事も急いでいる。常任の防犯委員会が動いているからね。",
+      "en": "I see. The city is also rushing to reinforce the streetlights — the standing crime-prevention committee is on it.",
+      "style": "Officer explaining administrative action, slightly informative tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "衆院でも地方治安の議題が出たと聞きました。何か影響はありますか?",
+      "en": "I heard the topic of regional public safety came up in the House of Representatives too. Is there any impact?",
+      "style": "Curious follow-up, journalist probing for context."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "予算は降りてくるが、現場の頂点にいる署長が方針を判断する。私はその下で動くだけだ。",
+      "en": "Budget trickles down, but the chief at the top of the field decides policy. I just operate below him.",
+      "style": "Frank officer humility with structured chain-of-command explanation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "夜の乗車パトロールも続いているんですか?",
+      "en": "Are the nighttime patrol rides still being continued?",
+      "style": "Short clarifying question, notebook-in-hand reporter tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、毎晩走らせている。記事にする時は、市民の協力に感謝する一文を入れてくれ。",
+      "en": "Yeah, we run them every night. When you write the article, please include a line thanking the residents for their cooperation.",
+      "style": "Officer requesting respectful framing, calm closing remark."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08774",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 不本意/産出/公国/喘息/仰天/変異/転覆/大麻",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "不本意",
+    "産出",
+    "公国",
+    "喘息",
+    "仰天",
+    "変異",
+    "転覆",
+    "大麻"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_440 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、不本意な治療を強いる事案を医療チームで避けるよう徹底します",
+      "en": "Ren, we make sure the medical team avoids imposing unwanted treatment on patients.",
+      "style": "Clear and measured. Opens with Ren's name as a gentle anchor. Steady pace, professional but human. The tone of someone explaining protocol that matters to her personally.",
+      "mood": "composed_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医薬品産出地域の安全管理を医療チームで確認します",
+      "en": "Yes—we confirm medication supply chain safety across the medical team.",
+      "style": "Brief nod of acknowledgment. Slightly faster rhythm, methodical. No hesitation—this is established procedure. Warm but matter-of-fact.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海外公国からの医療研修生を、貴院、ご受け入れですね、先生",
+      "en": "So your hospital does accept medical trainees from abroad, don't you, sensei?",
+      "style": "Gentle inquiry, building understanding rather than challenging. Respectful distance maintained—formal honorific sits naturally. Soft curiosity, almost tentative.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、小児喘息の長期治療を医療チームで担当しております",
+      "en": "Yes—we handle long-term pediatric asthma care as a team across our department.",
+      "style": "Calm recitation of fact. Slight emphasis on 'long-term' to show the commitment it requires. Steady breath. Professional warmth underneath the protocol.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "珍しい症例に医師団が仰天した経験を、貴院、お持ちですね、先生",
+      "en": "Has your hospital had experience with rare cases that surprised the medical staff, sensei?",
+      "style": "Careful phrasing, genuine interest underneath. Searching gently for deeper knowledge. Respects the honorific. Pace deliberate—he's thinking through the question as he asks.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、ウイルスの変異株の動向を医療チームで監視します",
+      "en": "Yes—we monitor emerging viral variants across the medical team.",
+      "style": "Steady, professional delivery. Slight weight on 'monitor'—suggests vigilance. No alarm, just competent attention. Breath even throughout.",
+      "mood": "vigilant_composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療現場の体制転覆を、貴院、なさったそうですね、先生",
+      "en": "Your hospital has restructured its medical systems, hasn't it, sensei?",
+      "style": "Reflective pause before speaking. Thoughtful tone, not accusatory. The question carries respect for the significance of change. Measured cadence, almost philosophical.",
+      "mood": "reflective_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、大麻の医療応用研究を医療チームで参照しております",
+      "en": "Yes—we're currently reviewing research on medical applications of cannabis as a team.",
+      "style": "Composed but slightly more open than before. A hint of thoughtfulness on 'currently reviewing'—acknowledging this is evolving work. Breath natural, word choice careful.",
+      "mood": "composed_thoughtful"
+    }
+  ]
+}

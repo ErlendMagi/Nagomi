@@ -1,0 +1,155 @@
+{
+  "id": "conv_00075",
+  "context": "A week after a bad fight. Riku is at the kitchen table; Yumiko sits down across from him. Both have been carrying it.",
+  "purpose": "long-deferred repair — mother and teen, finally talking",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "言う",
+    "大丈夫",
+    "ない",
+    "大切",
+    "ありがとう"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "riku_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "リク。…座って、いい？",
+      "en": "Riku. …Can I sit?",
+      "style": "Pulls the chair out slowly. Voice softer than usual.",
+      "mood": "soft_approach"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "One syllable. Doesn't look up from his phone.",
+      "mood": "guarded_one_word"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "この前、本当にごめんなさい。言いすぎた。",
+      "en": "The other day — I'm really sorry. I said too much.",
+      "style": "The apology first, no excuses. Voice steady.",
+      "mood": "apology_first"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…別に。",
+      "en": "…Whatever.",
+      "style": "Reflexive teen-deflect. Voice slightly higher than the line.",
+      "mood": "reflexive_deflect"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "別にじゃない。…私、ちゃんと言わなかった。",
+      "en": "It's not whatever. …I didn't talk to you properly.",
+      "style": "A small insistent line. Doesn't accept the deflection.",
+      "mood": "insistent_quiet"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…なんで今？",
+      "en": "…Why now?",
+      "style": "A small honest question. Looks up briefly.",
+      "mood": "small_honest"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ずっと、言いたかったの。時間、作れなくて。",
+      "en": "I've been wanting to. Just couldn't find the time.",
+      "style": "Voice tired, real. The mom-honesty rare for him to hear.",
+      "mood": "rare_mom_honesty"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(silence, then)俺も、悪かった。",
+      "en": "…(silence) I was — wrong, too.",
+      "style": "A small honest admission. Quietest line in the scene.",
+      "mood": "quiet_admission"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…ありがとう、それ言ってくれて。",
+      "en": "…Thank you — for saying that.",
+      "style": "A real catch in the voice. Means it.",
+      "mood": "real_catch"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お母さんも、大変だしさ。",
+      "en": "You've got it hard too, you know.",
+      "style": "A small uncharacteristic empathy. Voice slightly lower.",
+      "mood": "uncharacteristic_empathy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。でも、リクが優先。本当に、大切。",
+      "en": "Thank you. But you come first. Really — you matter.",
+      "style": "A real direct line. Eye-contact level voice.",
+      "mood": "direct_real"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…(small breath)わかった。",
+      "en": "…(small breath) Got it.",
+      "style": "A real beat. The whole week resettling.",
+      "mood": "resettling"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "今度、何か一緒にしよ。ご飯でも、ゲームでも。",
+      "en": "Let's do something together sometime. Food, games — whatever.",
+      "style": "A small forward step. Practical kindness.",
+      "mood": "practical_step"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ゲーム、お母さん下手じゃん。",
+      "en": "Mom — you suck at games.",
+      "style": "A real small grin in the voice. Affection through teasing.",
+      "mood": "affectionate_tease"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "(laughs) 教えてよ、じゃあ。",
+      "en": "(laughs) Then teach me.",
+      "style": "A real laugh. The whole repair complete.",
+      "mood": "real_laugh_complete"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "The smallest assent. Phone finally face-down in the voice.",
+      "mood": "small_assent"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう、リク。本当に。",
+      "en": "Thank you, Riku. Really.",
+      "style": "Closing line. Voice steady — no rush in the delivery.",
+      "mood": "closing_real"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "…うん。お母さんも。",
+      "en": "…Mm. You too, Mom.",
+      "style": "The smallest most-important line of the conversation.",
+      "mood": "smallest_important"
+    }
+  ]
+}

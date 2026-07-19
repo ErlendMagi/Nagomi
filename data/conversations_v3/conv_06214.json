@@ -1,0 +1,86 @@
+{
+  "id": "conv_06214",
+  "context": "A doctor discusses medical practice",
+  "purpose": "Teach: 重なり/言い回し/輪郭/際立っ/押さえる/手腕/旧式/ずさん",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "重なり",
+    "言い回し",
+    "輪郭",
+    "際立っ",
+    "押さえる",
+    "手腕",
+    "旧式",
+    "ずさん"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_312 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、症例の重なりが複数あって、複雑です。",
+      "en": "Ren, there are several overlapping symptoms here. It's complex.",
+      "style": "Clear, measured opening. Steady eye contact. No urgency, but gravity present. The voice of someone explaining something difficult with care.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者への言い回し、神経使いますね。",
+      "en": "The way you phrase things for patients — that must require a lot of thought.",
+      "style": "Genuine curiosity, not flattery. Leaning slightly forward. Wondering aloud, the tone of someone seeing something he hadn't considered before.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。診断の輪郭、丁寧に説明します。",
+      "en": "Yes. I explain the diagnostic picture carefully, step by step.",
+      "style": "Reassuring without being patronizing. A slight pause before the verb, as if choosing words deliberately. Slow, deliberate pace.",
+      "mood": "steady_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "画像で病変、際立って見えますね。",
+      "en": "The imaging really does make the lesion stand out clearly, doesn't it.",
+      "style": "Observant, not a question despite the tag. Pointing at the image with quiet certainty. The tone of someone noticing something meaningful for the first time.",
+      "mood": "focused_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。基本を押さえる、研修医の課題です。",
+      "en": "Yes. Grasping the fundamentals — that's part of what a resident needs to learn.",
+      "style": "Affirmation with gentle weight behind it. A beat of acknowledgment. Not lecturing; offering perspective.",
+      "mood": "grounded_teaching"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "専門医の手腕、信頼の柱ですね。",
+      "en": "A specialist's skill really is what people place their trust on.",
+      "style": "Thoughtful agreement. Slight nod in the voice. Recognition of something true being stated plainly. Warm but not effusive.",
+      "mood": "sincere_admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "旧式の検査機器、新型に更新中です。",
+      "en": "We're updating the older diagnostic equipment to newer models.",
+      "style": "Factual, matter-of-fact. No complaint. The tone of someone moving through necessary details. Efficient and honest.",
+      "mood": "practical_forward"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ずさんな診療、避ける制度、整っていますね。",
+      "en": "There are good systems in place to prevent careless practice.",
+      "style": "Reflective closing observation. Slight trailing-off. Quiet confidence. The last words of someone satisfied with what they've built around them.",
+      "mood": "assured_grounded"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03467",
+  "context": "Manager (kenji) interviews a self-taught junior coder (riku) for the startup",
+  "purpose": "Teach: ノウハウ/スクール/マニュアル/マーケット/ファンド/アート/コミュニティ/搭載",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ノウハウ",
+    "スクール",
+    "マニュアル",
+    "マーケット",
+    "ファンド",
+    "アート",
+    "コミュニティ",
+    "搭載"
+  ],
+  "cast": [
+    "kenji_office",
+    "riku_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_174 workflow wcmqn7hhx)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "高橋くんから紹介されたんだけど、君、スクールには通わずに独学でコード書いてるんだって？",
+      "en": "Takahashi recommended you — I hear you write code self-taught, without going to any school?",
+      "style": "manager opening warmly but probing, sizing up the candidate across the desk"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、YouTubeとか海外のコミュニティで質問しまくって、ほぼ独学っす。マニュアル通りにやるのは性に合わなくて。",
+      "en": "Yeah, I just spam questions on YouTube and overseas communities, basically self-taught. Doing things by the manual doesn’t suit me.",
+      "style": "nervous teen overcompensating with casual bravado, half-slang half-honest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "面白いね。うちは今、AIを搭載した新しいプロダクトをマーケットに出そうとしてるところなんだ。",
+      "en": "Interesting. We're trying to push a new AI-equipped product out to the market right now.",
+      "style": "leaning forward, pitching the vision with controlled startup excitement"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "マジっすか。実は俺、生成アート作るのが趣味で、似たような機能なら触ったことあります。",
+      "en": "Seriously? Actually, generative art is my hobby, so I've messed with similar features before.",
+      "style": "teen lighting up, finally on familiar ground and speaking faster"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは大きいな。正直、技術のノウハウより、その『触ってみる』姿勢を持った人材を探してたんだよ。",
+      "en": "That's huge. Honestly, more than technical know-how, I’ve been looking for people with that 'just try it' attitude.",
+      "style": "dropping the formal tone, speaking like an older brother giving real talk"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "でも、ファンドから資金入ってる会社で、高卒の俺なんかが本当に通用するんですかね…？",
+      "en": "But… in a company backed by a fund, can a high-school grad like me really cut it?",
+      "style": "voice dropping, insecurity surfacing beneath the cocky exterior"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "学歴じゃなくて作ったものを見るよ。山本さんも中卒スタートで、今うちのCTOだしね。",
+      "en": "I look at what you've built, not your résumé. Yamamoto started without even finishing high school — now he's our CTO.",
+      "style": "matter-of-fact reassurance, dismantling the kid's worry with a concrete example"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "山本さんが…！じゃあ俺、本気でやらせてください。お願いします。",
+      "en": "Yamamoto-san did?! Then please — let me give this everything I've got.",
+      "style": "teen suddenly straightening up, voice cracking with genuine resolve"
+    }
+  ]
+}

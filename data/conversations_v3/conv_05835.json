@@ -1,0 +1,65 @@
+{
+  "id": "conv_05835",
+  "context": "A teacher and a teen discuss a debate-club topic",
+  "purpose": "Teach: 河野/反戦/飲酒/尋問/ハッカー/出世/失点/致命",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "河野",
+    "反戦",
+    "飲酒",
+    "尋問",
+    "ハッカー",
+    "出世",
+    "失点",
+    "致命"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_293 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、討論会の論題、河野議員の反戦演説、難しいですね。",
+      "en": "Sakura, this debate topic—MP Kono's anti-war speech—it's a challenging one, isn't it?",
+      "style": "Warm acknowledgment. Open, conversational pace. Leans toward the student with genuine curiosity, not lecturing. A small pause before the speech title, inviting her thinking.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。当時、飲酒運転事故、政界の失点として報じられました。",
+      "en": "Yes. Back then, his DUI accident was reported as a major political misstep.",
+      "style": "Measured, matter-of-fact. Building her case methodically. Slight uptick on the key fact—not dramatic, just clear. The voice of someone doing homework seriously.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "警察に尋問された経緯、後に著書で振り返っています。",
+      "en": "The interrogation by police—he later reflected on it in his memoir.",
+      "style": "Calm, informative. Steady pacing. Opens a door rather than closing one. The tone of a teacher adding useful context, not correcting.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ハッカー攻撃を受けた経歴も、出世の途上で深刻でした。",
+      "en": "And his history with that hacker attack was serious during his political climb too.",
+      "style": "Measured, probing slightly. Small emphasis on 'serious' without dramatizing. The cadence of someone working through implications, inviting Sakura to see the pattern.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "致命的な判断、避けるための学びになりますね。",
+      "en": "These become lessons in what choices to avoid—and that's the real learning here.",
+      "style": "Gentle landing. Slight warmth underneath. Slow enough to let the wisdom settle. Trailing off softly, like an invitation rather than conclusion.",
+      "mood": "reflective"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03891",
+  "context": "Aoi trains a new part-timer on kitchen procedures",
+  "purpose": "Teach: 鍋/容量/汚れ/売り上げ/取り組む/定着/装備/求人",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "鍋",
+    "容量",
+    "汚れ",
+    "売り上げ",
+    "取り組む",
+    "定着",
+    "装備",
+    "求人"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "まず大きな鍋から見せるね。フードメニューの仕込みに毎朝使ってる。",
+      "en": "First let me show you the big pot. We use it every morning for prepping the food menu.",
+      "style": "warm trainer voice, friendly but professional onboarding tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "けっこう大きいですね。容量はどのくらい入るんですか?",
+      "en": "It's pretty big. How much capacity does it hold?",
+      "style": "curious new hire, polite student register asking honest questions"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "二十リットルくらいかな。底の汚れが残りやすいから、閉店後は念入りに洗ってね。",
+      "en": "About twenty liters. Grime tends to stick at the bottom, so scrub it carefully after closing.",
+      "style": "practical instruction, hands-on demonstration with light cautionary emphasis"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。あの、求人広告で見たんですけど、売り上げって最近どうなんですか?",
+      "en": "Got it. By the way, I saw the job ad, but how have sales been lately?",
+      "style": "casual curiosity, polite question shifting topic naturally during downtime"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おかげさまで今月の売り上げは伸びてるよ。新しい装備を入れてから効率が上がったの。",
+      "en": "Thankfully this month's sales are growing. Efficiency went up after we brought in new equipment.",
+      "style": "upbeat tone sharing good news, owner-like pride in the shop"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "じゃあ僕も早く仕事に取り組んで、戦力になりたいです。",
+      "en": "Then I want to dive into the work soon and become a real asset.",
+      "style": "earnest motivated newcomer, slightly nervous but determined attitude"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "頼もしいね。真剣に取り組む姿勢があれば、手順が定着するまで一週間くらいで大丈夫だよ。",
+      "en": "That's reassuring. If you tackle it seriously, the procedures will stick in about a week.",
+      "style": "encouraging mentor tone, reassuring pace with kind smile implied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、一つずつ覚えていきます。よろしくお願いします。",
+      "en": "Yes, I'll learn them one by one. Thank you for having me.",
+      "style": "humble bow-like closing, polite junior wrapping up the briefing respectfully"
+    }
+  ]
+}

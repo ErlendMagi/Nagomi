@@ -1,0 +1,62 @@
+{
+  "id": "conv_00458",
+  "context": "Naoko stops by the koban to report a small concern about a neighbor.",
+  "purpose": "small civic adult interaction",
+  "ambient": "koban_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "近所",
+    "心配",
+    "報告",
+    "安心",
+    "ありがとう"
+  ],
+  "cast": [
+    "takeda_officer",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_023)",
+    "generated_at": "2026-05-26T23:51:57.605Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "武田さん、すみません、ちょっと報告したくて。",
+      "en": "Takeda-san, excuse me, want to report something.",
+      "style": "Aunt warm soft formal civic-careful-warm opening, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どうされましたか。",
+      "en": "Yes, what happened?",
+      "style": "Officer warm professional gentle careful-warm receiving, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-gentle"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "近所のお年寄りの方、ここ最近、お見かけしなくて、心配で。",
+      "en": "A neighbor elderly — recently haven't seen, worried.",
+      "style": "Aunt warm soft sincere civic-careful-warm sharing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "すぐ、確認に行きます。教えていただき、ありがとうございます。",
+      "en": "I'll go check immediately. Thank you for telling me.",
+      "style": "Officer warm professional gentle sincere-warm responsive-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-civic"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "安心しました。本当に、ありがとう。",
+      "en": "Reassured. Truly, thank you.",
+      "style": "Aunt warm soft sincere closing-warm grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

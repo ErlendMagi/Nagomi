@@ -1,0 +1,72 @@
+{
+  "id": "conv_05303",
+  "context": "A mom helps her young son handle a frustrating day",
+  "purpose": "Teach: 欲しかっ/この頃/どうにか/イライラ/踊る/輝き/隣接/隙間",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "欲しかっ",
+    "この頃",
+    "どうにか",
+    "イライラ",
+    "踊る",
+    "輝き",
+    "隣接",
+    "隙間"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日学校で、隣の席の子に消しゴム取られて、イライラした。",
+      "en": "Mom, today at school the kid next to me took my eraser and it really got to me.",
+      "style": "Small, tight frustration at the start. Voice pinches on the complaint. Quietly indignant — not performing upset, genuinely bothered. Breath catches slightly, like he's holding back bigger feelings.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そっか、嫌だったね。新しいの欲しかったのかな。",
+      "en": "I see. That sounds frustrating. Did he just need a new one, do you think?",
+      "style": "Warm, unhurried. Not dismissing — genuinely curious about his perspective. Slight gentle lilt at the end, inviting him to keep talking. The tone of someone who has time for this moment.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "隣接の机との隙間に落ちて、見つけるのに大変だったよ。",
+      "en": "It fell down into the gap between our desks and it took forever to find.",
+      "style": "Matter-of-fact, slightly aggrieved. The detail matters to him — he's explaining the real trouble. Voice steadies as he reports the fact. Small sigh underneath, like he's reliving the annoyance.",
+      "mood": "exasperated"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "最近この頃、お友達同士で物の取り合い、よくあるみたい。",
+      "en": "It sounds like that kind of thing happens a lot between kids these days.",
+      "style": "Thoughtful, observant. Not lecturing — just naming a pattern she's noticed. Warm but measured. The voice of someone reflecting alongside him, not explaining at him.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夜、お風呂で歌って踊ると、心が輝き取り戻すよ！",
+      "en": "But when I sing and dance in the bath at night, it makes my heart feel bright again.",
+      "style": "Genuine small-kid joy breaking through. Voice lifts naturally — not forced brightness, real relief. Matter-of-fact about the magic of it, like it's just true. Slight sparkle in the delivery.",
+      "mood": "hopeful_restored"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、どうにかなるね。今夜もお歌タイムにしよ。",
+      "en": "That's my boy. Let's make tonight a singing time too, then.",
+      "style": "Soft, knowing warmth. A small laugh underneath — she gets it, she loves this about him. Not trying hard, just meeting him where he is. The voice of someone who has learned what restores her child.",
+      "mood": "tender_amused"
+    }
+  ]
+}

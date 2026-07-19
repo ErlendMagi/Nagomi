@@ -1,0 +1,78 @@
+{
+  "id": "conv_03904",
+  "context": "A doctor listens to an elderly patient describe ongoing pain",
+  "purpose": "Teach: 臨床/介入/助成/拘束/学術/生成/振動/苦しみ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "臨床",
+    "介入",
+    "助成",
+    "拘束",
+    "学術",
+    "生成",
+    "振動",
+    "苦しみ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_197 workflow wncspqfi3)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご無沙汰しております。今日はどんな症状でお困りですか。",
+      "en": "It's been a while. What symptoms are troubling you today?",
+      "style": "Calm professional tone with gentle warmth and concern"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "腰がね、ずっと痛むんですよ。夜中もずきずきする振動みたいな痛みが体の奥で続いていてね。",
+      "en": "My lower back has been hurting constantly. Even at night, a throbbing vibration-like pain keeps going deep in my body.",
+      "style": "Slow elderly speech with weary sighs and quiet resignation"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。実は最近、ある学術雑誌で高齢者の慢性痛に関する臨床試験の結果を読みまして、有望な新薬が出てきているんです。",
+      "en": "I see. Actually, I recently read in an academic journal about clinical trial results on chronic pain in the elderly, and a promising new drug is emerging.",
+      "style": "Measured informative delivery with mild excitement and gentle reassurance"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ほう、そんなものが。でも先生、私みたいな年寄りに新しい薬の介入なんて、体がもつかどうか心配でね。",
+      "en": "Oh, such a thing exists? But doctor, a new drug intervention on an old man like me, I worry whether my body can handle it.",
+      "style": "Hesitant cautious tone with self-deprecating humor and worry"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご心配はもっともです。この研究は公的な助成を受けた大規模なもので、安全性のデータもしっかり示されているんですよ。",
+      "en": "Your concern is understandable. This study is large-scale and received public funding support, with solid safety data demonstrated.",
+      "style": "Patient explanatory voice building trust through factual evidence"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "そうですか。実はね、今の痛み止めを飲むと頭がぼんやりして、ベッドに拘束されたみたいに一日中動けなくなるんですよ。長年の苦しみが続いていて、本当に参っていてね。",
+      "en": "Is that so. Actually, when I take my current painkillers, my head gets foggy and I can't move all day, as if I were restrained to the bed. This long suffering keeps going on, and I'm truly worn out.",
+      "style": "Confiding elderly voice with frustrated weariness and tired honesty"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それはお辛かったですね。新しい薬は体内で少しずつ有効成分が生成される仕組みで、眠気やだるさといった副作用が出にくいと報告されています。",
+      "en": "That must have been hard. The new drug works by gradually generating the active component inside the body, and reports indicate side effects like drowsiness and sluggishness are less likely.",
+      "style": "Empathetic clinical explanation with warmth and professional clarity"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "先生がそこまで言うなら、試してみましょうかね。少しでも楽になれるなら、それだけでありがたいですよ。",
+      "en": "If you say so, doctor, perhaps I'll try it. If I could feel even a little better, that alone would be a blessing.",
+      "style": "Resolved hopeful elderly tone tinged with quiet emotion"
+    }
+  ]
+}

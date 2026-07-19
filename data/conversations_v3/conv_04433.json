@@ -1,0 +1,72 @@
+{
+  "id": "conv_04433",
+  "context": "A police officer briefs an office manager on a compliance event",
+  "purpose": "Teach: 展望/要約/謝罪/かかわる/生み出し/係る/もたらし/行なっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "展望",
+    "要約",
+    "謝罪",
+    "かかわる",
+    "生み出し",
+    "係る",
+    "もたらし",
+    "行なっ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "森田さん、先週の情報漏洩の件で、要約をお持ちしました。",
+      "en": "Mr. Morita, I've brought a summary regarding last week's information leak incident.",
+      "style": "Formal police tone, calm and procedural delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご苦労さまです。社員にもかかわる問題なので、詳しく伺いたいです。",
+      "en": "Thank you for your work. Since this involves our employees, I'd like to hear the details.",
+      "style": "Polite office manager voice, attentive and slightly tense throughout."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "調査は先月から行なっておりまして、契約に係る書類の取り扱いに不備があったと判明しました。",
+      "en": "We've been conducting the investigation since last month, and found mishandling of contract-related documents.",
+      "style": "Measured, factual police briefing cadence, tone matching the moment with quiet honesty"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうでしたか…顧客に不安をもたらしてしまい、本当に申し訳ありません。",
+      "en": "I see... I'm truly sorry that we've caused anxiety for our customers.",
+      "style": "Apologetic, lowered voice with genuine regret."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "公式な謝罪文の準備と、再発防止策を生み出していただく必要があります。",
+      "en": "You'll need to prepare an official apology statement and devise measures to prevent recurrence.",
+      "style": "Firm but professional, giving clear instructions to the manager."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。今後の展望についても、来週までに役員会で共有いたします。",
+      "en": "Understood. I'll also share the future outlook with the board by next week.",
+      "style": "Composed, businesslike commitment to action, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "結構です。ご協力に感謝いたします。何かあれば、いつでもご連絡ください。",
+      "en": "Very good. Thank you for your cooperation. Please contact us anytime if anything comes up.",
+      "style": "Polite closing tone, respectful and reassuring."
+    }
+  ]
+}

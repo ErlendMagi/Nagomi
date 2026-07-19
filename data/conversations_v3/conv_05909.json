@@ -1,0 +1,65 @@
+{
+  "id": "conv_05909",
+  "context": "A police officer briefs on factory safety",
+  "purpose": "Teach: 晋/炉/包装/試みる/封筒/簡素/直結/軽視",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "晋",
+    "炉",
+    "包装",
+    "試みる",
+    "封筒",
+    "簡素",
+    "直結",
+    "軽視"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "晋さんの工場、電気炉の検査記録、共有頂きました。",
+      "en": "We've received the inspection records from Shin's plant—the electric furnace documentation.",
+      "style": "Professional, measured opening. Clear enunciation on the technical terms. Steady eye contact. No rush. The tone of someone who has reviewed the paperwork and is proceeding with the next step.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。包装ラインの安全策、試みる新指針もあります。",
+      "en": "Yes. We're also implementing a new safety protocol for the packaging line.",
+      "style": "Attentive and engaged. Slight forward lean—showing willingness to align. Calm delivery, deliberate pacing on \"packaging line\" to confirm understanding. Cooperative without sounding obsequious.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "郵送はやめ、警察封筒で直接届けてください。",
+      "en": "Stop using the mail. Deliver it directly in official police envelopes.",
+      "style": "Shift to directive authority. Crisp, businesslike tempo. No apology in the phrasing—this is instruction, not suggestion. Brief pause before \"directly\" for emphasis. Professional distance maintained.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "簡素なフォーマット、警察システムに直結させて運用します。",
+      "en": "We'll use a simpler format and integrate it directly with our police database.",
+      "style": "Assured and responsive. Confident nod in the voice—showing he's already thinking through the logistics. Clear articulation on \"police database.\" Not defensive, just competent confirmation.",
+      "mood": "capable"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "安全を軽視しないで、お願いします。",
+      "en": "Please don't underestimate the importance of safety here.",
+      "style": "Firm closing statement. Weight on \"safety.\" Slower pace, deliberate. The politeness of \"please\" doesn't soften the resolve—it grounds the gravity. Slight lean forward. This is not negotiable.",
+      "mood": "resolute"
+    }
+  ]
+}

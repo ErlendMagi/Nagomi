@@ -1,0 +1,65 @@
+{
+  "id": "conv_05813",
+  "context": "A teacher walks a teen through a history-museum visit",
+  "purpose": "Teach: 戦犯/爆破/暴動/ナチス/部落/慰安/暴行/売春",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "戦犯",
+    "爆破",
+    "暴動",
+    "ナチス",
+    "部落",
+    "慰安",
+    "暴行",
+    "売春"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、特別展、戦犯の裁判記録、難しいですが大切な学びです。",
+      "en": "Sakura, the special exhibition on war crimes trials—it's difficult material, but it's essential learning.",
+      "style": "Measured, warm opening. Gentle emphasis on 'essential.' Treats the topic with quiet respect. No condescension. Eye contact inviting.",
+      "mood": "respectful_careful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。ナチスの暴動、組織的暴行の章、読み応えあります。",
+      "en": "Yes. The chapter on Nazi violence and systematic atrocities—there's real depth to it.",
+      "style": "Leaning forward slightly. Sincere, engaged tone. Modest confidence in her own thinking. Not performing understanding but genuinely reached by what she's read.",
+      "mood": "earnest_thoughtful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "当時の部落と呼ばれた共同体、避難民の慰安所と混同されがちです。",
+      "en": "Communities called 'villages' in that era are often conflated with refugee shelter systems, which clouds the history.",
+      "style": "Clear, pedagogical. Gentle correction without lecturing. Slows on the key distinction. Patient explanation of why this matters. Professional warmth.",
+      "mood": "clarifying"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "戦時下の売春問題、まだ研究が続いていますね。",
+      "en": "The wartime sex-trafficking issue is still an active area of research.",
+      "style": "Curious, probing note. Not pushing but genuinely opening the question. Slight lift at the end, inviting Sakura to think further. Respectful of the sensitivity.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "爆破跡地の保存、世界遺産との関連でも議論があります。",
+      "en": "The preservation of bombed sites connects to World Heritage discussions as well—different debates, same stakes.",
+      "style": "Thoughtful closing. Paces wider now, drawing back to the bigger frame. Quiet conviction that all these pieces matter. Trailing off slightly, leaving space for reflection.",
+      "mood": "contemplative"
+    }
+  ]
+}

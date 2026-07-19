@@ -1,0 +1,79 @@
+{
+  "id": "conv_06086",
+  "context": "A boss reviews a project",
+  "purpose": "Teach: 標本/返却/動き出し/没頭/書斎/切り捨て/開講/社名",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "標本",
+    "返却",
+    "動き出し",
+    "没頭",
+    "書斎",
+    "切り捨て",
+    "開講",
+    "社名"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品の標本、社内に展示しろ。",
+      "en": "Get the new product samples displayed in the office.",
+      "style": "Clipped, matter-of-fact delivery. Sharp attack on the first word. Brief pause before the action. Expectation of compliance without ceremony.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。賃借品の返却、忘れずに進めます。",
+      "en": "Understood. I'll make sure the leased items get returned without delay.",
+      "style": "Crisp, professional acknowledgment. Slight lean forward — showing readiness. Steady pacing. A quiet assurance that this is noted and handled.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プロジェクト、動き出した。",
+      "en": "The project is moving now.",
+      "style": "Announcement pitch — clear and authoritative. A light emphasis on 'moving.' Direct eye-contact delivery. No elaboration needed; the information stands alone.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "担当が没頭できるよう、環境整えます。",
+      "en": "I'll clear the decks so the team lead can focus on the work.",
+      "style": "Steady, supportive tone. Measured pace — not rushed. Slight incline of head showing engagement with the task. A hint of initiative beneath the courteous surface.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "私の書斎にも、報告書、置いておけ。",
+      "en": "And leave reports in my study as well.",
+      "style": "Short, decisive. Added detail without ceremony. A small notch of finality at the end. The tone of someone accustomed to having their preferences anticipated.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "不要部署、切り捨てるか、判断が要りそうです。",
+      "en": "It looks like we'll need to make a call on whether to consolidate or cut the underperforming divisions.",
+      "style": "Thoughtful pause before speaking. Measured, careful phrasing — weighing options aloud. Slight hesitation on the decision point, acknowledging the weight of the choice.",
+      "mood": "deliberative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新講座、来月開講だ。社名も周知させろ。",
+      "en": "The new training program launches next month. Make sure the company name gets out there.",
+      "style": "Direct, two-beat statement. Slight lift on the launch timeline. The second sentence spoken with brisk efficiency — a delegation more than a suggestion.",
+      "mood": "purposeful"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "conv_00352",
+  "context": "Dr. Saito calls Officer Takeda about a particular elderly community member who hasn't been answering.",
+  "purpose": "two professionals coordinating concrete care for an elder",
+  "ambient": "phone_call",
+  "sound_effects": [],
+  "target_vocab": [
+    "連絡",
+    "心配",
+    "訪問",
+    "確認",
+    "無理"
+  ],
+  "cast": [
+    "saito_doctor",
+    "takeda_officer"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_018)",
+    "generated_at": "2026-05-26T21:04:52.149Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "もしもし、武田さん？斎藤です。",
+      "en": "Hello, Takeda-san? It's Saito.",
+      "style": "Doctor warm professional brief phone-opening-warm careful, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-brief"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、斎藤先生。どうされましたか？",
+      "en": "Yes, Dr. Saito. What's up?",
+      "style": "Officer warm professional alert-receiving-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "alertly-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "山田さん、ここ三日、電話に出なくて。",
+      "en": "Yamada-san — hasn't answered for three days.",
+      "style": "Doctor warm professional careful concerned-direct-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "carefully-concerned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうですか。すぐ訪問、確認してきます。",
+      "en": "I see. I'll visit and confirm immediately.",
+      "style": "Officer warm professional immediate-committed-action-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "immediately-committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "無理に押し入らないように。インターホンと、近所への確認だけで。",
+      "en": "Don't force entry. Just intercom and neighbor check.",
+      "style": "Doctor warm professional gentle careful-direction-warm specific, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "carefully-specific"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "了解しました。何か分かったら、すぐ連絡します。",
+      "en": "Understood. If anything, I'll contact immediately.",
+      "style": "Officer warm professional formal-committed-promising-warm, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "formally-committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お願いします。心配で。",
+      "en": "Please. I'm worried.",
+      "style": "Doctor warm gentle sincere closing-honest-warm vulnerable, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お互い、見守っていきましょう。",
+      "en": "Together, let's watch over.",
+      "style": "Officer warm professional gentle generous-closing-warm-civic, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-civic"
+    }
+  ]
+}

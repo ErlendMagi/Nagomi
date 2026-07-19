@@ -1,0 +1,62 @@
+{
+  "id": "conv_01402",
+  "context": "Saito tells Sho his teeth are doing well.",
+  "purpose": "doctor-child teeth exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "歯",
+    "一緒",
+    "頑張る",
+    "優しい",
+    "健康"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、歯、本当、立派、ね。",
+      "en": "Sho-kun, your teeth are truly wonderful.",
+      "style": "Warm, gentle opening. The composure of a doctor who has delivered countless check-ups, softened here by genuine affection. Slow pace, each word deliberate. Smile audible in the voice.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張ってる、本当、毎日。",
+      "en": "I'm trying really hard — every single day.",
+      "style": "Small, earnest voice. Pride threaded through without boasting. Soft brightness on 「毎日」. The careful enunciation of a six-year-old doing something he believes in.",
+      "mood": "sincere_proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "優しい、子、本当に。",
+      "en": "What a kind child you are, truly.",
+      "style": "Quiet recognition in the voice. Not praising performance but seeing character. Slight pause after 「優しい」. The tenderness of someone who notices what others might miss.",
+      "mood": "tender_moved"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、頑張る、絶対。",
+      "en": "We'll keep trying together — I promise.",
+      "style": "Conviction underneath the softness. A small voice making a big commitment. Bright on the final words. The warmth of being held in an adult's promise.",
+      "mood": "determined_secure"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、本当、ね。",
+      "en": "You're going to stay healthy — truly.",
+      "style": "Closing warmth. Doctor's certainty meeting genuine care. Slow, reassuring finish. The word 「健康」 lands as a promise kept, not a prescription given.",
+      "mood": "warm_promising"
+    }
+  ]
+}

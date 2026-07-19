@@ -1,0 +1,72 @@
+{
+  "id": "conv_05473",
+  "context": "A police officer briefs a uni reporter about a high-rise incident",
+  "purpose": "Teach: 落下/最高裁判所/拒絶/探求/力学/神学/高層/個体",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "落下",
+    "最高裁判所",
+    "拒絶",
+    "探求",
+    "力学",
+    "神学",
+    "高層",
+    "個体"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_275 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "高層建築での落下事故、最高裁判所まで持ち込まれた事例があります。",
+      "en": "There have been cases of high-rise fall incidents that went all the way to the Supreme Court.",
+      "style": "Steady, measured delivery. Opening with slight professional distance. Clear enunciation on factual details. Calm baseline—this is routine briefing, not alarm. Eyes level, posture composed.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当事者の拒絶反応、激しかったんでしょうか。",
+      "en": "Were the parties involved particularly resistant to legal action?",
+      "style": "Lean forward slightly with genuine curiosity. Soft opening, building toward the question. Seeking understanding, not challenging. A pause before the final phrase—he's thinking as he speaks.",
+      "mood": "thoughtfully_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。力学的な探求と、現場の個体差、両方を考慮します。",
+      "en": "Yes. We have to account for both the mechanics of the incident and the individual circumstances at the scene.",
+      "style": "Firm but not clinical. Light emphasis on 「both」—showing the complexity he's aware of. Steady pace. Speaking from actual case experience, not textbook. Slightly warmer than the first line.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "神学的な信仰の議論まで絡んできた事案も?",
+      "en": "Even cases where theological or faith-based arguments came into play?",
+      "style": "Genuine surprise coloring the question. Slight rise in pitch at 「theological」. Quick, engaged—he's truly interested now. Respectful tone despite the unusual nature of the question.",
+      "mood": "surprised_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "まれですが、ありますね。",
+      "en": "Rare, but it happens.",
+      "style": "Brief, accepting nod in the voice. Small exhale before speaking. Matter-of-fact—he's seen enough to be unsurprised by human complexity. A touch of quiet knowing.",
+      "mood": "knowing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you.",
+      "style": "Genuine gratitude. Slight bow in the delivery—respect for the time and honesty given. Warm closing. Brief but sincere, not rushed.",
+      "mood": "grateful"
+    }
+  ]
+}

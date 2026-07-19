@@ -1,0 +1,86 @@
+{
+  "id": "conv_06766",
+  "context": "A boss reviews business",
+  "purpose": "Teach: レター/高性能/撮ら/商用/出所/明細/否め/バージョンアップ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "レター",
+    "高性能",
+    "撮ら",
+    "商用",
+    "出所",
+    "明細",
+    "否め",
+    "バージョンアップ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お得意様への新年レター、丁寧に、仕上げろ。",
+      "en": "Draft a careful letter to our VIP clients for the new year. Make sure it's polished.",
+      "style": "Direct, measured authority. Crisp attack on the opening phrase. No wasted words. Expectation of competence, not doubt.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。高性能の新製品、来月、発表予定です。",
+      "en": "Understood. We're scheduled to announce the new high-performance product next month.",
+      "style": "Professional, steady delivery. Slightly formal register — updating the boss. Even pacing, respectful but not obsequious.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "広告で、社員、勝手に撮らないよう、徹底しろ。",
+      "en": "In any advertisements, make absolutely sure staff aren't photographed without permission. Be thorough about it.",
+      "style": "Firm, deliberate. Weight on the absolute requirement. Not harsh, but precise — this matters. Brief pause before the final instruction.",
+      "mood": "strict"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商用ライセンス、契約手続き、進めております。",
+      "en": "Understood. We're moving forward with the commercial licensing agreements and contract procedures.",
+      "style": "Reassuring update. Calm, methodical delivery. Shows progress without overselling. Steady eye-contact level register.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "情報の出所、必ず、確認してから、決裁しろ。",
+      "en": "Verify the source of any information before you approve it. Don't make exceptions.",
+      "style": "Quiet intensity. Slight emphasis on verify — this is non-negotiable. Controlled, not angry. The tone of someone who has seen mistakes before.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。請求書の明細、お得意様にも、ご提示しております。",
+      "en": "Yes. We're also providing itemized invoice details to our VIP clients as well.",
+      "style": "Efficient confirmation. Shows initiative without asking permission. Professional, unadorned. Slight anticipatory quality — already ahead of expectations.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "競争激化、否めない事実だ、対策、考えろ。",
+      "en": "Competition is intensifying. It's an undeniable reality. Start thinking about our response.",
+      "style": "Heavier tone. Matter-of-fact opening. Slight pause after stating the fact — letting it land. The final sentence is a shift from observation to expectation.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内システム、バージョンアップ、来週、実施します。",
+      "en": "Yes. We'll be rolling out a system upgrade next week.",
+      "style": "Confident closing statement. Slightly faster pace — action already in motion. Demonstrates the response is underway. Minimal hesitation, clean finish.",
+      "mood": "assured"
+    }
+  ]
+}

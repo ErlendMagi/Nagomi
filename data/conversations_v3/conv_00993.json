@@ -1,0 +1,76 @@
+{
+  "id": "conv_00993",
+  "context": "Sho starts a new school year with Asuka as teacher.",
+  "purpose": "teacher-child new-year welcome",
+  "ambient": "classroom_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "学校",
+    "一緒",
+    "頑張る",
+    "優しい",
+    "楽しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、新学期、おはよう。",
+      "en": "Sho-kun, welcome back for the new term.",
+      "style": "Warm, genuine greeting with a smile in the voice. Opening soft and welcoming. Steady pace that makes the child feel seen. The real affection of a teacher who remembers him.",
+      "mood": "warm_welcoming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、おはようございます。",
+      "en": "Good morning, teacher.",
+      "style": "Small, clear voice with respectful precision. A six-year-old's careful politeness — not stiff, but genuine. Slight brightness underneath the formality. The warmth of a child who genuinely likes his teacher.",
+      "mood": "respectful_bright"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日から、一緒に、勉強、しようね。",
+      "en": "Let's learn together from today on, okay?",
+      "style": "Soft invitation, not instruction. Slight lean-in quality — making space for him. Warm and collaborative. The word 'together' lands gently, letting him know he's not alone in this.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張ります、先生。",
+      "en": "I'll do my best, teacher.",
+      "style": "Earnest six-year-old commitment. Small but steady voice. A hint of concentration in the delivery — he means it. Not performative, genuinely determined.",
+      "mood": "determined_sincere"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "優しい子、しょうくん、嬉しい。",
+      "en": "You're such a kind child, Sho-kun. That makes me happy.",
+      "style": "Genuine appreciation washing over the words. Warm and unguarded. A moment where the teacher lets her care show without self-consciousness. Slight softness on 'happy' — real feeling.",
+      "mood": "touched_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "楽しい、学校、好き。",
+      "en": "School is fun. I like it.",
+      "style": "Quiet joy beneath the surface. Simple honesty from a child. Slight brightness on 'fun.' Not performed — just a small boy saying what's true. The comfort of being somewhere safe.",
+      "mood": "content_honest"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、過ごそう、ね。",
+      "en": "Let's spend time together, all right?",
+      "style": "Gentle promise in the voice. Warm closing that carries reassurance. Not rushing the moment. A teacher's quiet commitment — steady, present, extending into the future ahead.",
+      "mood": "warm_promise"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03714",
+  "context": "A boss reviews a wedding-reception plan with his assistant",
+  "purpose": "Teach: 関数/スポット/正面/披露/打つ/秩序/規約/日付",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "関数",
+    "スポット",
+    "正面",
+    "披露",
+    "打つ",
+    "秩序",
+    "規約",
+    "日付"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_186 w334t9mrp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "披露宴の進行表、できたか？日付は来月の十五日で確定だ。",
+      "en": "Is the reception schedule ready? The date is confirmed for the fifteenth of next month.",
+      "style": "Direct boss tone, clipped sentences, confirming logistics with mild impatience."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、こちらです。会場の正面玄関で受付を行う予定になっております。",
+      "en": "Yes, here it is. We're planning to hold the reception at the venue's main front entrance.",
+      "style": "Polite office Japanese with humble verb forms and careful formal phrasing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "写真スポットは？新郎新婦が一番映える場所を確保しておけよ。",
+      "en": "What about photo spots? Make sure to secure the place where the bride and groom look best.",
+      "style": "Gives instructions abruptly, ending with a casual imperative typical of senior men."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "庭園の噴水前を押さえました。あと、座席表の規約についてご相談が。",
+      "en": "I've reserved the area in front of the fountain. Also, I'd like to consult about the seating rules.",
+      "style": "Reports completion concisely then pivots smoothly to a new agenda item."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "席順は秩序が大事だ。親族と上司の並びを間違えると角が立つぞ。",
+      "en": "Seating order is about hierarchy. If we mix up relatives and supervisors, feelings will get hurt.",
+      "style": "Lectures with traditional workplace wisdom, blunt warning at the end."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しております。エクセルの関数で自動的に並ぶよう設定しました。",
+      "en": "I understand. I've set it up so an Excel function arranges them automatically.",
+      "style": "Reassuring competence with a touch of quiet technical pride."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、やるじゃないか。じゃあ今すぐ司会者にメールを打ってくれ。",
+      "en": "Oh, not bad at all. Then go ahead and shoot the emcee an email right now.",
+      "style": "Begrudging praise followed by another immediate task, typical brisk boss energy."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "かしこまりました。文面を打つ前に、確認事項を一つお伺いしてもよろしいでしょうか。",
+      "en": "Certainly. Before I type out the message, may I ask you one item I need to confirm?",
+      "style": "Anticipates the next step proactively, very polished assistant register with deferential clarification."
+    }
+  ]
+}

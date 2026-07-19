@@ -1,0 +1,77 @@
+{
+  "id": "conv_00019",
+  "context": "Daichi has stopped by his aunt Naoko's ramen shop in Osaka in the dead hour before lunch service.",
+  "purpose": "aunt-nephew teasing — Kansai family roast with sincere affection underneath",
+  "ambient": "busy_restaurant",
+  "target_vocab": [
+    "本当に",
+    "どう",
+    "今",
+    "時間",
+    "一緒",
+    "言う",
+    "ない"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "あんた、また髪伸びたんちゃう？",
+      "en": "Hey — your hair's gotten long again, hasn't it?",
+      "style": "Looks up from the counter. Loud, immediate, no greeting. The Kansai roast is the greeting.",
+      "mood": "opening_roast"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おばちゃん、来た瞬間それかいな。",
+      "en": "Oba-chan, that's the first thing you say to me?",
+      "style": "Mock-offended. Sits down anyway. Voice already laughing.",
+      "mood": "mock_offended"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "本当のこと言うてるだけや。今、彼女おらんやろ、それで。",
+      "en": "Just telling the truth. You've got no girlfriend right now — that's why.",
+      "style": "Brassy comic logic. Wipes the counter without looking at him. The diagnosis is rapid.",
+      "mood": "diagnosing"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "なんでわかんねん。",
+      "en": "How do you even know that?",
+      "style": "Almost laughing. Genuinely surprised at the accuracy. JP and EN: both half-laugh.",
+      "mood": "caught"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "見たらわかるわ。…で、どう？元気にしてんの？",
+      "en": "I can just tell. …Anyway. How're you doing? Holding up?",
+      "style": "Pivot mid-line. The roast was the door — the real question is the room. Voice drops half a step.",
+      "mood": "pivot_real"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "まあな。仕事は忙しいけど、大丈夫。",
+      "en": "Mm — well. Work's busy but I'm okay.",
+      "style": "Quieter now. Honest under the teasing because she earned it.",
+      "mood": "honest_quiet"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ほな、ラーメン食べてき。時間あるやろ。",
+      "en": "Then have some ramen before you go. You've got the time, right?",
+      "style": "Already pulling a bowl down. The offer isn't a question.",
+      "mood": "feeding_him"
+    }
+  ]
+}

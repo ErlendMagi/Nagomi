@@ -1,0 +1,78 @@
+{
+  "id": "conv_04153",
+  "context": "A uni student interviews a retired professor about his publications",
+  "purpose": "Teach: 著書/書評/購読/補足/創設/学科/学年/知人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "著書",
+    "書評",
+    "購読",
+    "補足",
+    "創設",
+    "学科",
+    "学年",
+    "知人"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_209 workflow w5v3gi16a)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、本日はお時間をいただきありがとうございます。まずは創設に関わられた研究所について伺えますか。",
+      "en": "Professor, thank you for your time today. First, may I ask about the research institute you helped found?",
+      "style": "Formal interview opening with deferential keigo throughout."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、あの創設の頃はもう五十年も前になるねえ。当時は文学部の中に新しい学科を作ろうという話でね。",
+      "en": "Ah, the founding was already fifty years ago now. Back then we were talking about creating a new department within the literature faculty.",
+      "style": "Nostalgic elderly reminiscing, slow reflective pace with sentence-final ne."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。実は先生の最新著書を新聞の書評欄で拝見しまして、ぜひ読んでみたいと思っております。",
+      "en": "I see. Actually, I saw your latest book in the newspaper's book review section, and I really want to read it.",
+      "style": "Eager student showing prior research, polite humble form."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ほう、若い人があの書評を読んでくれたとは嬉しいねえ。あれは古い知人が書いてくれたものなんだよ。",
+      "en": "Oh, it makes me happy that a young person read that review. An old acquaintance of mine wrote it for me.",
+      "style": "Warm grandfatherly tone, pleasantly surprised with soft chuckle."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうだったんですね。差し支えなければ、その著書の内容について少し補足していただけないでしょうか。",
+      "en": "Is that so. If you don't mind, could you give me a little supplementary explanation about the content of the book?",
+      "style": "Carefully worded academic request with hedging politeness."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろんいいよ。あの本はね、戦後の教育制度が学年ごとにどう変わってきたか、長年の資料を辿った記録なんだ。",
+      "en": "Of course, that's fine. That book is a record tracing many years of materials on how the postwar education system changed at each school year level.",
+      "style": "Generous teaching mode, settling into explanation with casual da."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "学年ごとの変化というのは興味深いですね。実は私も学術誌を定期購読しておりまして、先生の著書もぜひ手元に置きたいです。",
+      "en": "Changes at each grade level are fascinating. Actually, I also subscribe to an academic journal, and I'd really like to have your book on hand too.",
+      "style": "Genuine intellectual excitement layered under formal student register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ぜひぜひ。後で出版社の連絡先を渡そう。少し補足すると、続編も来年出る予定でね、若い研究者と話せて気持ちが弾むよ。",
+      "en": "By all means. I'll give you the publisher's contact later. To add a little more, a sequel is also planned for next year, and talking with a young researcher lifts my spirits.",
+      "style": "Warm closing with genuine emotional opening from the elder."
+    }
+  ]
+}

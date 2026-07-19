@@ -1,0 +1,79 @@
+{
+  "id": "conv_02271",
+  "context": "Ren picks up a parcel at the post office; brief exchange.",
+  "purpose": "Young man receiving parcel in everyday setting.",
+  "ambient": "post_office_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "受け付け",
+    "差し",
+    "局面",
+    "預け",
+    "届け",
+    "次期",
+    "ペア",
+    "丁寧"
+  ],
+  "cast": [
+    "ren_uni",
+    "takeda_officer"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_114)",
+    "generated_at": "2026-05-27T17:56:38.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "受け付け、お願いします、預け荷物。",
+      "en": "Hi, I'm here to pick up a parcel I have on hold.",
+      "style": "Polite, slightly uncertain. Careful enunciation. Soft eye contact. Speaks with the gentle formality of someone doing their best to be respectful.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "差し出した、お名前、確認します。",
+      "en": "I'll just need to verify your name for the record.",
+      "style": "Professional and steady. Calm, reassuring tone—the practiced ease of routine. Direct but not curt. A small pause before confirming details.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ペアになっていますか、二つの荷物?",
+      "en": "Are the two parcels together, or are they separate?",
+      "style": "Engaged but still deferential. Slight lean forward—genuine interest in getting it right. Warm undertone beneath the question.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、丁寧に届けに行きます。",
+      "en": "Yes, I'll make sure they're handled with care.",
+      "style": "Assured and steady. A light reassurance in the voice—not defensive, just confirming. Professional warmth. The tone of someone who takes the work seriously.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "次期、また、お願いします。",
+      "en": "I'll definitely be back next time. Thank you so much.",
+      "style": "Quiet gratitude with genuine warmth. A slight smile in the voice. Genuine politeness—not performative. Slow, careful finish.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "何かあったら、すぐ連絡を。",
+      "en": "And if anything comes up with the parcels, I'll reach out right away.",
+      "style": "Firm but kind. Clear and direct—the voice of someone being responsible. Steady eye contact implied. Not a warning, but a reassurance of communication.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます!",
+      "en": "Thank you so much!",
+      "style": "Warm, genuine gratitude. Brighter than before—a small lift at the end. Respectful but not stiff. The sincerity of someone who means it.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

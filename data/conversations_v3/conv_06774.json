@@ -1,0 +1,86 @@
+{
+  "id": "conv_06774",
+  "context": "A boss reviews corp risk",
+  "purpose": "Teach: 過失/匹敵/八木/出血/究明/受診/遮断/一刻",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "過失",
+    "匹敵",
+    "八木",
+    "出血",
+    "究明",
+    "受診",
+    "遮断",
+    "一刻"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の過失で、トラブル、絶対に、防げ。",
+      "en": "I won't tolerate staff negligence causing trouble. Prevent it, absolutely.",
+      "style": "Clipped, authoritative opening. Each phrase lands like a directive. No room for interpretation. Steady eye contact, measured breathing.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外進出、過去の成功に匹敵する成果、目指します。",
+      "en": "Yes. We're aiming for results in our overseas expansion that match the success of our past ventures.",
+      "style": "Composed, methodical delivery. Each point lands as confirmation and commitment. Slight forward lean. Careful pacing—no rushed reassurance, just steady competence.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "八木コンサルティング、提携、検討中だ。",
+      "en": "We're currently in discussions with Yagi Consulting about a potential partnership.",
+      "style": "Matter-of-fact statement, like updating him on logistics. No inflection seeking approval. Brief pause before the detail, as if checking his understanding.",
+      "mood": "neutral"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製品不具合、出血量の管理に、関わる重大事項です。",
+      "en": "Understood. Product defects directly affect bleeding management protocols—this is a critical safety issue.",
+      "style": "Grave and precise. Voice steadies on the word 'critical.' No filler words. This is someone speaking about what matters, no embellishment needed.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "コンプラ違反、究明体制、整備しろ。",
+      "en": "Understood. We're setting up proper investigation procedures and ensuring full compliance oversight.",
+      "style": "Direct command-acknowledgment. Slight emphasis on the institutional action—'we're setting up'—showing ownership. Calm but attentive tone.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、定期受診、強化中です。",
+      "en": "Yes. We've strengthened our mandatory employee health screening protocols.",
+      "style": "Brief, factual update delivered without defensiveness. Confidence in the measure. Quiet completion, like ticking a box on an urgent list.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "情報漏洩、ネットワーク、遮断する仕組み、構築しろ。",
+      "en": "Build a network architecture that blocks information leaks. Make it secure.",
+      "style": "Sharp, cutting tone. Two separate imperatives, not a question or suggestion. Each sentence a standing order. Brief pause between them for weight.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。一刻も早く、対策、実施いたします。",
+      "en": "Yes. We'll implement countermeasures without delay.",
+      "style": "Clipped closing affirmation. No apology, no elaboration. The tone of someone already moving to action. Final word trails slightly—task understood, execution imminent.",
+      "mood": "committed"
+    }
+  ]
+}

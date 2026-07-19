@@ -1,0 +1,79 @@
+{
+  "id": "conv_05493",
+  "context": "A police officer briefs a uni reporter about a heritage-site case",
+  "purpose": "Teach: 亡命/損傷/神聖/考古学/試練/畜産/粒子/仮名",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "亡命",
+    "損傷",
+    "神聖",
+    "考古学",
+    "試練",
+    "畜産",
+    "粒子",
+    "仮名"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_276 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、神聖視された遺跡への損傷事案です。",
+      "en": "This case involves damage to a sacred archaeological site.",
+      "style": "Professional opening. Measured cadence, even tone. Brief pause before the core detail. No inflection — just stating fact. The voice of someone accustomed to difficult conversations.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "亡命者が関わったという情報、確認されてるんですか。",
+      "en": "Are reports of an exile's involvement confirmed?",
+      "style": "Careful, methodical inquiry. Light emphasis on 'involvement' — testing the ground. Leaning forward slightly in posture. Respectful to the officer but genuinely pressing for clarity.",
+      "mood": "focused_uncertain"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。畜産従事者の証言と合わせて、考古学チームが解析中です。",
+      "en": "Yes. We're analyzing it alongside the livestock worker's statement through our archaeology team.",
+      "style": "Steady procedural tone. Each clause gets its own breath. Not rushing — this is how investigation works. Slightly more present than the first line, but still formal. Reassuring through competence.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "粒子の付着、決め手になりますか。",
+      "en": "Will particle analysis be the determining factor?",
+      "style": "Quiet intellectual engagement. The question of someone who's been thinking about the problem. Slight rise on 'determining' — genuine curiosity, not doubt. Quick, efficient delivery.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "試練のような検証ですが、丁寧に進めます。",
+      "en": "It's painstaking verification, but we're being thorough.",
+      "style": "Slight weariness underneath professionalism. Acknowledgment of the difficulty without complaint. Steady pace, almost meditative. The reassurance of someone who won't cut corners.",
+      "mood": "meticulous"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "資料の仮名表記、いただけますか。",
+      "en": "Could I get copies of the materials in phonetic notation?",
+      "style": "Polite but direct. The tone of someone who knows what they need and is asking cleanly for it. No apology baked in — just a straightforward request between professionals.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、共有します。",
+      "en": "Yes, I'll get those to you.",
+      "style": "Brief, warm acknowledgment. The smallest softening from the formality of the earlier lines. A small nod in the voice. Competent and human at once.",
+      "mood": "assured"
+    }
+  ]
+}

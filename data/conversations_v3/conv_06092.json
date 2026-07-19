@@ -1,0 +1,79 @@
+{
+  "id": "conv_06092",
+  "context": "A police officer briefs about a regional incident",
+  "purpose": "Teach: 骨折/腎臓/専門医/倒壊/冤罪/気象庁/運航/収束",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "骨折",
+    "腎臓",
+    "専門医",
+    "倒壊",
+    "冤罪",
+    "気象庁",
+    "運航",
+    "収束"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者は骨折、軽傷で済みました。",
+      "en": "The victim sustained a fracture and minor injuries.",
+      "style": "Level, informative delivery. Measured cadence. Professional reassurance without sentiment. Brief pause before the qualifier to emphasize the good outcome.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "腎臓への二次的負担、まだ続いていますか。",
+      "en": "Is the secondary strain on the kidneys still ongoing?",
+      "style": "Thoughtful, technical curiosity. Slight lean forward on the question. Genuine interest in the medical complexity, not performative. Quiet and focused.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。専門医、警察と連携しています。",
+      "en": "Yes. We're coordinating with specialists and medical professionals.",
+      "style": "Steady, reassuring. Even tempo. A light emphasis on 「連携」 to signal active partnership. Not defensive, just clear protocol.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家屋倒壊の事案、警察も初動対応しましたか。",
+      "en": "In building-collapse cases, did police provide initial response?",
+      "style": "Methodical probe. Slight formality rising. Unhurried but focused. Testing for thoroughness, not accusation. Breath at the clause break.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。冤罪を生まないよう、慎重な捜査を心がけます。",
+      "en": "Yes. We conduct careful investigations to prevent wrongful allegations.",
+      "style": "Firm and deliberate. Weight on 「冤罪」 — this matters. Composed but not cold. The assurance of someone who takes the responsibility seriously.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "気象庁の警報、地域連携にどう活用されてますか。",
+      "en": "How are JMA weather alerts integrated into regional coordination efforts?",
+      "style": "Precise technical question. Slight acceleration on the key phrase. Alert and engaged. Connecting dots out loud — thinking with the officer, not at them.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。船舶運航の警備も、強化中。状況、収束に向かいます。",
+      "en": "Yes. We're strengthening maritime security protocols. The situation is moving toward resolution.",
+      "style": "Closing authority. Steady, confident. A notch firmer than before — the wrap-up of someone who has answers and conviction. Slight downward inflection on the final phrase.",
+      "mood": "resolute"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03209",
+  "context": "A quarterly review confronts mounting losses",
+  "purpose": "Review the quarter; teach 赤字/市内/外部/ミス/再度/づくり/お尋ね/自覚",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "赤字",
+    "市内",
+    "外部",
+    "ミス",
+    "再度",
+    "づくり",
+    "お尋ね",
+    "自覚"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期、また赤字になりそうだ。",
+      "en": "This quarter looks set to be in the red again.",
+      "style": "grim boss facing the unwelcome numbers"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "市内の店舗が特に苦戦しています。",
+      "en": "The in-city stores are struggling especially.",
+      "style": "candid assistant delivering the hard data"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "外部のコンサルにも相談すべきか。",
+      "en": "Should we consult an outside firm too?",
+      "style": "deliberating boss weighing his options, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "発注のミスも重なってしまって。",
+      "en": "Ordering mistakes piled up as well.",
+      "style": "apologetic assistant owning a process failure"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "再度、原価を見直そう。",
+      "en": "Let us review the costs once more.",
+      "style": "determined boss pushing for a fresh look"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "信頼づくりから立て直したいですね。",
+      "en": "I want to rebuild starting from trust-building.",
+      "style": "principled assistant proposing a foundation, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一つお尋ねしたいんだが、人員は足りてる？",
+      "en": "Let me ask one thing — are we staffed enough?",
+      "style": "probing boss checking a practical concern"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ぎりぎりです。私たちも危機感の自覚が必要です。",
+      "en": "Barely. We need awareness of the crisis too.",
+      "style": "sober assistant urging shared accountability, delivery emotionally grounded and unforced"
+    }
+  ]
+}

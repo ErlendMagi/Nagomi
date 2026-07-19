@@ -1,0 +1,75 @@
+{
+  "id": "conv_02431",
+  "context": "Insurance briefing: Yuki explains a plan to Hiroshi-boss.",
+  "purpose": "WIDENED SCENARIO: civic/insurance explanation; institutional vocabulary in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "保険",
+    "団体",
+    "以下",
+    "につきまして",
+    "以前"
+  ],
+  "cast": [
+    "yuki_office",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_122)",
+    "generated_at": "2026-05-29T12:42:34.293Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "新しい保険につきまして、ご説明します。",
+      "en": "I'll explain about the new insurance.",
+      "style": "polite office woman voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "以前のものと、どう違うのかね?",
+      "en": "How does it differ from the previous one?",
+      "style": "measured boss voice, soft warm attentive inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "対象が、団体まで広がりました。",
+      "en": "The coverage now extends to groups.",
+      "style": "clear office woman voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "料金は、以前より高いのかね?",
+      "en": "Is the fee higher than before?",
+      "style": "attentive boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "いいえ、以下の通り、据え置きです。",
+      "en": "No — as below, it stays the same.",
+      "style": "reassuring office woman voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "団体での加入も、可能なのかね?",
+      "en": "Is group enrollment possible too?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、団体につきましても、対応します。",
+      "en": "Yes, we accommodate groups as well.",
+      "style": "polite office woman voice, soft warm professional clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よく分かった。資料を残しておいてくれ。",
+      "en": "Understood well. Leave the materials with me.",
+      "style": "satisfied boss voice, soft warm decisive closing throughout"
+    }
+  ]
+}

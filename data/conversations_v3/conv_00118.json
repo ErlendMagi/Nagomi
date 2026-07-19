@@ -1,0 +1,112 @@
+{
+  "id": "conv_00118",
+  "context": "A small visit. Sachiko has pulled out an old bracelet that was her own grandmother's. Hina is on the floor; Yumiko nearby.",
+  "purpose": "three-speaker heirloom moment — three generations, one object",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "見る",
+    "大切",
+    "時間",
+    "一緒",
+    "ありがとう"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ひなちゃん、これ、見て。",
+      "en": "Hina-chan — look at this.",
+      "style": "A small careful holding-out. Voice soft.",
+      "mood": "careful_soft"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うわ、きれい。",
+      "en": "Wow — pretty.",
+      "style": "A real small wonder — voice carries the moment fully.",
+      "mood": "real_wonder"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん…これ、まだ持ってたの。",
+      "en": "Mom… you still have this?",
+      "style": "A small voice catching half a step.",
+      "mood": "voice_catching"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。私の、おばあちゃんから。",
+      "en": "Yes. From my grandmother.",
+      "style": "A small slow line. Real weight.",
+      "mood": "slow_weight"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "本当に？すごい古い？",
+      "en": "Truly? Super old?",
+      "style": "A real kid-astonishment — as the scene allows it.",
+      "mood": "kid_astonishment"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に古い。百年くらい。",
+      "en": "Truly old. About a hundred years.",
+      "style": "A small precise marvel — genuine and unforced throughout.",
+      "mood": "precise_marvel"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "百年！…(reverent silence)",
+      "en": "A hundred! …(reverent silence)",
+      "style": "A real silent beat. The kid actually processing.",
+      "mood": "real_processing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お母さん、ありがとう…見せてくれて。",
+      "en": "Mom — thank you for showing it.",
+      "style": "A real catch. Voice quieter — with steady attentive presence.",
+      "mood": "real_catch"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ひなちゃん、将来、これ、大切にしてね。",
+      "en": "Hina-chan — in future, take care of this.",
+      "style": "A small careful transmission. Voice slow.",
+      "mood": "careful_transmit"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん。約束する。",
+      "en": "Mm. I promise.",
+      "style": "A small full kid-commitment — no rush in the delivery.",
+      "mood": "kid_commit"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ありがとう、ひなちゃん。本当に。",
+      "en": "Thank you, Hina-chan. Truly.",
+      "style": "A real catch in the voice. Three generations bridged.",
+      "mood": "three_bridge"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、しまっておこう。大切な場所に。",
+      "en": "Let's put it away together. In a special place.",
+      "style": "A small practical closing — voice carries the moment fully.",
+      "mood": "practical_close"
+    }
+  ]
+}

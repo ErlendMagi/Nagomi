@@ -1,0 +1,78 @@
+{
+  "id": "conv_05028",
+  "context": "A uni intern interviews a manager about brand protection",
+  "purpose": "Teach: 提訴/凍結/国外/来店/労力/模倣/セカンド/ダイレクト",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "提訴",
+    "凍結",
+    "国外",
+    "来店",
+    "労力",
+    "模倣",
+    "セカンド",
+    "ダイレクト"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "森さん、ブランド保護の取材でお時間いただきありがとうございます。最近、模倣品の被害が増えていると聞きました。",
+      "en": "Mori-san, thank you for your time for this brand protection interview. I heard counterfeit damage has been increasing recently.",
+      "style": "Polite intern opening with respectful gratitude and topic introduction."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうですね。特にセカンドラインの商品が狙われやすくて、対応に多くの労力を割いています。",
+      "en": "That's right. Our secondary line products are especially targeted, so we devote considerable effort to responding.",
+      "style": "Calm professional tone explaining the core business problem clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。実際に来店するお客様から偽物の相談を受けることもあるんですか？",
+      "en": "I see. Do you sometimes receive consultations about fakes directly from customers who visit the store?",
+      "style": "Curious follow-up question seeking concrete examples from frontline."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、ダイレクトに苦情をいただくケースもあります。SNS広告経由で買って騙されたという方が多いですね。",
+      "en": "Yes, we get direct complaints sometimes. Many people were deceived after buying through social media ads.",
+      "style": "Frank admission with specific channel detail about customer harm."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "法的な対応としては、やはり提訴に踏み切ることもあるのでしょうか？",
+      "en": "As for legal action, do you sometimes decide to file lawsuits as well?",
+      "style": "Cautiously phrased question probing into legal escalation steps."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。悪質な業者には提訴して、口座の凍結まで申し立てます。ただ相手が国外にいると、執行が本当に難しいんです。",
+      "en": "Yes. For malicious vendors we sue and even petition for account freezes. But when the opponent is overseas, enforcement is truly difficult.",
+      "style": "Detailed expert answer covering legal tools and jurisdictional limits."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国境を越えると一気にハードルが上がるんですね。最後に、学生にメッセージをお願いできますか？",
+      "en": "So crossing borders raises the hurdle dramatically. Lastly, could I ask for a message to students?",
+      "style": "Summarizing observation followed by polite closing request for advice."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "怪しい激安サイトの誘惑には負けず、正規店をぜひともご利用ください。それが結局、最良の選択になりますよ。",
+      "en": "Don't give in to the temptation of suspicious bargain sites, please do use authorized stores. That ends up being the best choice.",
+      "style": "Warm closing advice mixing warning with sincere recommendation."
+    }
+  ]
+}

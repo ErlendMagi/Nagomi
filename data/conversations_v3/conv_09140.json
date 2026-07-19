@@ -1,0 +1,86 @@
+{
+  "id": "conv_09140",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 吐き気/日本食/静寂/脱力/化合/矢先/在来/祭典",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "吐き気",
+    "日本食",
+    "静寂",
+    "脱力",
+    "化合",
+    "矢先",
+    "在来",
+    "祭典"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_458 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、車に乗って吐き気がしたら教えてね",
+      "en": "Sho, if you feel car-sick on the way, let me know right away, okay?",
+      "style": "Gentle, practical instruction. Warm but matter-of-fact. No fussing. A mother's quiet attentiveness — checking in without hovering.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんの作る日本食が一番好きだよ",
+      "en": "Mom, I like Grandma's Japanese food the best!",
+      "style": "Bright, immediate enthusiasm. Unguarded. The kind of honest declaration a six-year-old makes without calculating. Slight lift at the end.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、夜のお家の静寂、不思議な感じね",
+      "en": "Sho, there's something strange about the quiet of the house at night, isn't there?",
+      "style": "Soft, wondering. Speaking partly to herself. Gentle curiosity — not quite a question, more an invitation to notice with her. Dreamlike pace.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、宿題終わったあと脱力しちゃった",
+      "en": "Mom, after I finished my homework I just kind of… ran out of energy.",
+      "style": "Small, slightly self-aware laugh underneath. Rueful honesty. Not complaining — observing his own collapse with quiet surprise. Trailing fadeout.",
+      "mood": "deflated"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが化合物のお仕事の研究をしてらっしゃるわ",
+      "en": "Sho, your father's been doing research on compounds lately.",
+      "style": "Reflective, almost conversational. Sharing information gently, as if thinking aloud. Warm but unhurried — not explaining, just offering the thought.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、勉強を始めた矢先におやつ食べたよ",
+      "en": "Mom, I started studying and then I just ended up eating a snack instead.",
+      "style": "Self-deprecating and honest. A small rueful smile in the voice. Not defensive — reporting his own mild failure with gentle irony. Brief pause before 'snack.'",
+      "mood": "wry_sheepish"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、田んぼで在来種のお米を育ててらっしゃるのよ",
+      "en": "Sho, your father's been growing native-variety rice in the paddies.",
+      "style": "Warm, admiring tone tucked underneath. Speaking with quiet pride in his work. Unhurried — letting him picture it. Slight lift on 'native-variety,' pride in the precision.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと地域の祭典に行きたいよ",
+      "en": "Mom, I want to go to the local festival with Dad!",
+      "style": "Clear, open longing. Not demanding — hoping. The brightness of a child who wants something simple and true. Unguarded. Slight eagerness on 'with Dad.'",
+      "mood": "eager_hopeful"
+    }
+  ]
+}

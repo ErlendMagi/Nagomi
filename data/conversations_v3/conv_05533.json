@@ -1,0 +1,72 @@
+{
+  "id": "conv_05533",
+  "context": "A police officer briefs a uni reporter about rural security",
+  "purpose": "Teach: 肥料/農産物/発動/保安/勤労/教徒/陳述/軍人",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥料",
+    "農産物",
+    "発動",
+    "保安",
+    "勤労",
+    "教徒",
+    "陳述",
+    "軍人"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "最近、肥料倉庫の保安、強化してます。",
+      "en": "We've been strengthening security at the fertilizer storage facility recently.",
+      "style": "Measured, professional opening. Clear cadence. No urgency—routine reporting. Slightly formal register, but not cold. Eye contact steady.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "農産物盗難、発動した警備計画があるんですか。",
+      "en": "So there was a specific security protocol deployed because of the agricultural thefts?",
+      "style": "Genuine inquiry, not challenging. Slight lean forward. Respectful of the officer's expertise. Pace deliberate—showing he's listening carefully to the answer.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。勤労従事者からの陳述も参考にしました。",
+      "en": "Yes. We also factored in statements from the people who work here on the ground.",
+      "style": "Methodical, reassuring tone. Slight emphasis on 「statements」to show due process. Not defensive—just clarifying procedure. Warm but official.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "教徒団体や、退役軍人会の協力もあったとか。",
+      "en": "I heard there was cooperation from some religious groups and veterans' organizations too?",
+      "style": "Rising inflection on the question, genuine surprise. Impressed but still measured. Shows he didn't expect such broad community involvement. Slight brightness in the delivery.",
+      "mood": "pleasantly_surprised"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。地域全体の取り組みです。",
+      "en": "Yes—it's a whole-community effort.",
+      "style": "Quiet pride in the delivery. Slight weight on 「whole-community.」Not boasting, but satisfied. A small affirmation that cooperation works. Brief, dignified.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you for explaining all that.",
+      "style": "Sincere, respectful close. Soft, unhurried. The gratitude of someone who has been truly heard. Small bow in the voice—not performative, genuine appreciation.",
+      "mood": "grateful"
+    }
+  ]
+}

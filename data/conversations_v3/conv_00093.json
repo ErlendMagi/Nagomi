@@ -1,0 +1,105 @@
+{
+  "id": "conv_00093",
+  "context": "Ren has been hired to help Sakura prep for the qualifying English exam. They're at a public library Saturday afternoon. She's frustrated.",
+  "purpose": "tutor + teen — frustration meets steady patience",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大丈夫",
+    "少し",
+    "言う",
+    "見る",
+    "ない"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "もう無理。本当に、無理。",
+      "en": "I can't. Really — I can't.",
+      "style": "Slams the pencil down softly. Real frustration, half-Kansai.",
+      "mood": "real_frustration"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん。…一回、休もう。",
+      "en": "Mm. …Let's take a break.",
+      "style": "Calm, no contradiction. Closes his own book in the voice.",
+      "mood": "calm_yielding"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "でも、時間ない。",
+      "en": "But there's no time.",
+      "style": "Half-protest, half-honest — with steady attentive presence.",
+      "mood": "half_honest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "少し休んだ方が、効率いい。本当に。",
+      "en": "A break actually makes it more efficient. Really.",
+      "style": "A small gentle expertise — no rush in the delivery.",
+      "mood": "gentle_expert"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…(small exhale)",
+      "en": "(small exhale)",
+      "style": "A real beat. Releases the pen.",
+      "mood": "releasing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "さっきの問題、見せて。一緒に考えよう。",
+      "en": "Show me that question. Let's think it through together.",
+      "style": "Pulls the worksheet over. Voice careful.",
+      "mood": "pulling_together"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "私、本当にバカやと思ってた。",
+      "en": "I really thought I was an idiot.",
+      "style": "A small confession. Voice quieter — voice carries the moment fully.",
+      "mood": "small_confession"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "違うよ。ちゃんと、考え方の問題。",
+      "en": "You're not. It's a question of approach.",
+      "style": "A small firm reassurance. Doesn't over-explain.",
+      "mood": "firm_reassure"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "…言うてくれる人、初めて。",
+      "en": "…First person who's said that.",
+      "style": "Voice catches half a step. Real.",
+      "mood": "real_catch"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そう？じゃ、私が言い続ける。大丈夫。",
+      "en": "Really? Then I'll keep saying it. It's fine.",
+      "style": "A small unguarded line. Sits straighter.",
+      "mood": "sitting_straighter"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとう。本当に、ありがとう。",
+      "en": "Thank you. Really — thank you.",
+      "style": "A real doubled thank-you. Voice steady.",
+      "mood": "steady_thanks"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_06006",
+  "context": "A boss reviews preparations for a VIP visit",
+  "purpose": "Teach: 来訪/実業/セットアップ/省エネ/一線/下位/浮かび/帳簿",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "来訪",
+    "実業",
+    "セットアップ",
+    "省エネ",
+    "一線",
+    "下位",
+    "浮かび",
+    "帳簿"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外来訪者、来週着く予定だ。",
+      "en": "An overseas visitor is scheduled to arrive next week.",
+      "style": "Crisp, economical delivery. Short declarative statements. No flourish. The tone of someone stating a fact that's already been decided and is now in motion.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。実業界の重鎮ですから、対応万全にします。",
+      "en": "Understood. He's a major figure in the business world — we'll prepare thoroughly.",
+      "style": "Attentive and methodical. Each phrase lands with quiet competence. A touch of respect for the visitor's status, but focused on the work ahead. No hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会議室のセットアップ、急げ。省エネ仕様の照明、確認しろ。",
+      "en": "Get the meeting room set up immediately. Check that the energy-saving lighting is working.",
+      "style": "Sharp, urgent tempo. Commands delivered in quick succession. Clipped at the sentence ends. The voice of someone orchestrating a timeline that's now tightening.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "各部門、一線級の人材を集めました。",
+      "en": "I've gathered top-tier people from each department.",
+      "style": "Calm, factual report. A hint of pride in the preparation without showing it. Each department mentioned with equal weight. Steady eye-contact level.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "下位部署の意見も浮かび上がらせろ。",
+      "en": "Make sure the voices from the lower divisions are heard too.",
+      "style": "Deliberate and clear. The emphasis lands on 'heard' — this is a principle, not a throwaway detail. Measured pace. No room for misunderstanding the intention.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "帳簿、最新の数字、用意しています。",
+      "en": "The ledgers and latest figures are ready.",
+      "style": "Brief, assured. No apology in the tone. The statement of someone who has already done what was asked and is confirming it. Efficient and complete.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、進めよう。",
+      "en": "Good. Let's move forward.",
+      "style": "Quiet satisfaction and decisive closure. The opening syllable carries a small nod of approval. Brief, purposeful. Signals the end of planning and the beginning of action.",
+      "mood": "decisive"
+    }
+  ]
+}

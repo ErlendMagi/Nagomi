@@ -1,0 +1,75 @@
+{
+  "id": "conv_01687",
+  "context": "Mei tells Yumiko about preparing for a relative's wedding ceremony.",
+  "purpose": "Younger woman seeking older woman's guidance for family event.",
+  "ambient": "kitchen_morning_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "結婚式",
+    "披露",
+    "親戚",
+    "祝う"
+  ],
+  "cast": [
+    "mei_romantic",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_085)",
+    "generated_at": "2026-05-27T07:18:47.434Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "従姉妹の結婚式、来月よ。",
+      "en": "My cousin's getting married next month.",
+      "style": "Warm, conversational opening. Soft voice, gentle pace. A small smile underneath — she's genuinely pleased. Lean in slightly, like sharing something intimate.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、嬉しい知らせね。",
+      "en": "Oh, that's lovely news.",
+      "style": "Genuine delight, but measured. Warm acknowledgment without overstatement. Slight lift in the voice on the opening, then settling into a tender tone. Present, attentive.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "披露宴、何着ようかな。",
+      "en": "I'm not sure what to wear to the reception yet.",
+      "style": "Thoughtful, almost musing. Soft tempo, exploratory rather than urgent. A gentle wondering in the voice — she's not anxious, just considering. Trails off slightly, inviting input.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "着物、どう?",
+      "en": "What about wearing a kimono?",
+      "style": "Gentle suggestion, not directive. Warm and helpful, the voice of someone who has thought of something good and offers it carefully. Slight lilt at the end, opening the door rather than closing it.",
+      "mood": "warm_helpful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、親戚にも喜ばれそう。",
+      "en": "Yeah, that would make the relatives happy.",
+      "style": "Soft agreement with a note of affection underneath. Warm tempo, unhurried. A small recognition of tradition and family pleasure. Genuine, not performative.",
+      "mood": "warm_fond"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一緒に、選びましょう。",
+      "en": "We should choose one together.",
+      "style": "Tender, genuinely inviting. Soft but clear. The voice of someone offering not just help but time and presence. A small warmth on 'together' — the gesture matters.",
+      "mood": "tender_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい、お願いします。",
+      "en": "I'd love that.",
+      "style": "Grateful and genuine. Quiet but clear. A small exhale of relief — being invited into shared decision-making rather than being advised. Warm acceptance, not obligatory compliance.",
+      "mood": "grateful_warm"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01457",
+  "context": "Dr. Saito visits Sakura over tea; they discuss her former teaching work.",
+  "purpose": "Two reflective adults discussing vocations across professions.",
+  "ambient": "cafe_quiet_clink",
+  "sound_effects": [],
+  "target_vocab": [
+    "教師",
+    "仕方",
+    "課題",
+    "経験"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_073)",
+    "generated_at": "2026-05-27T05:55:27.702Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "教師の経験、執筆に生きてますか?",
+      "en": "Does your teaching experience feed into your writing?",
+      "style": "Warm, measured inquiry. Open and genuinely curious. Steady cadence with a slight lean forward. The tone of a thoughtful listener, not an interviewer.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、すごく生きてる。",
+      "en": "Yes—immensely so.",
+      "style": "Quiet certainty without performance. A small pause before the answer lands. Warm, reflective. She's moved by the question's depth, and it shows in her voice.",
+      "mood": "sincere_warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "子供たちから学んだ仕方も?",
+      "en": "The lessons you learned from the children themselves, too?",
+      "style": "Soft, probing follow-up. Light touch on the question—not pushing, inviting. Genuine interest in the answer, not testing it. Peer-to-peer respect.",
+      "mood": "gently_curious"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "もちろん。教える仕方が大事だった。",
+      "en": "Of course—how to teach became the backbone of everything.",
+      "style": "Grounded confidence. A touch of warmth when she lands on the essential truth. Slow and deliberate, as if the words are still settling into place for her too.",
+      "mood": "thoughtful_certain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療にも似た課題があります。",
+      "en": "Medicine faces much the same challenge.",
+      "style": "Steady, measured reflection. She's drawing a parallel with care and precision. Calm, professional register but with an undercurrent of real understanding—not distance.",
+      "mood": "reflective_respectful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "どちらも、人と向き合う仕事ね。",
+      "en": "Both are work of truly meeting another person.",
+      "style": "Soft landing on a shared truth. Genuine, warm, unhurried. A light breath before speaking. The feeling of two people understanding something together.",
+      "mood": "warmly_understood"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、その通りです。",
+      "en": "Yes—exactly so.",
+      "style": "Quiet affirmation. A gentle exhale. No need to expand. The satisfaction of being understood by someone who was listening carefully. Stillness in the voice.",
+      "mood": "peaceful_agreement"
+    }
+  ]
+}

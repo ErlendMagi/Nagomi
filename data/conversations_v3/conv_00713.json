@@ -1,0 +1,76 @@
+{
+  "id": "conv_00713",
+  "context": "Asuka helps Sho with kanji practice after class.",
+  "purpose": "teacher-young-child kanji practice",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "勉強",
+    "学校",
+    "漢字",
+    "一緒",
+    "楽しい"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、今日の漢字、一緒に、見ましょう。",
+      "en": "Sho-kun, let's look at today's kanji together.",
+      "style": "Gentle, unhurried opening. Soft eye contact. The tone of someone who has all the time in the world for this moment. Warm and steady, inviting rather than instructing.",
+      "mood": "patient_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。先生、難しい、ちょっと。",
+      "en": "Yes. Teacher, it's a little difficult.",
+      "style": "Quiet, honest admission. Small voice that carries no shame—just trust that the adult will understand. A gentle exhale before speaking, like he's been holding the worry.",
+      "mood": "uncertain_trusting"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "大丈夫。ゆっくり、覚えていこう。",
+      "en": "That's fine. We'll take it slowly and learn step by step.",
+      "style": "Reassuring with real conviction, not performative cheerfulness. Steady pace. The voice of someone who has said this many times and means it every time. Leaning slightly forward.",
+      "mood": "calm_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "勉強、ちょっとずつ、出来るかな。",
+      "en": "Can I... do it bit by bit?",
+      "style": "Small question, genuinely asking. Hope threading through the uncertainty. Slight upturn at the end, seeking confirmation. The vulnerability of a six-year-old risking hope.",
+      "mood": "hopeful_tentative"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "絶対、出来るよ。皆で、応援するから。",
+      "en": "Absolutely you can. We're all cheering for you.",
+      "style": "Firm and warm in equal measure. Light emphasis on 「絶対」—not as overcorrection but as genuine conviction. Inclusive 'we' widens the circle beyond just teacher-student.",
+      "mood": "affirming_supportive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "学校、楽しい。先生、ありがとう。",
+      "en": "School is fun. Thank you, teacher.",
+      "style": "Brightness returning to the small voice. Genuine gratitude, not performative politeness—the natural warmth of a child who feels seen. Simple and complete.",
+      "mood": "bright_grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "こちらこそ、しょうくん。",
+      "en": "Thank you, Sho-kun.",
+      "style": "Quiet, genuine reciprocal warmth. Not dismissive—a real acknowledgment that this moment mattered both ways. Brief and tender, the comfortable silence held in her voice.",
+      "mood": "tender_present"
+    }
+  ]
+}

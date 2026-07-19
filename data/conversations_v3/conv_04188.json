@@ -1,0 +1,78 @@
+{
+  "id": "conv_04188",
+  "context": "A police officer briefs a manager on compliance updates",
+  "purpose": "Teach: 出現/就任/公社/策定/施工/従事/文部/室内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出現",
+    "就任",
+    "公社",
+    "策定",
+    "施工",
+    "従事",
+    "文部",
+    "室内"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "署内の地域連絡係に就任いたしました武田です。改修工事中と伺いましたが、室内でお話しできますか。",
+      "en": "I'm Takeda, newly appointed as the precinct's community liaison. I heard renovations are underway — may we speak indoors?",
+      "style": "Formal police officer introducing himself with respectful greeting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご丁寧にありがとうございます。会議室にどうぞ。本日はどのようなご用件でしょうか。",
+      "en": "Thank you for your courtesy. Please come to the meeting room. What brings you here today?",
+      "style": "Polite office worker offering warm businesslike welcome inside"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "実は近隣で不審者の出現が相次いでおりまして、各事業所に注意喚起をしております。",
+      "en": "Actually, suspicious individuals have been appearing in the area, so we're alerting each business.",
+      "style": "Measured factual delivery conveying mild concern about safety"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それは心配ですね。弊社も総務に従事する者を中心に、新しい防犯方針の策定を進めているところです。",
+      "en": "That's worrying. Centered on our general affairs staff, we're currently formulating a new crime-prevention policy.",
+      "style": "Engaged manager responding thoughtfully with concrete internal context"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "素晴らしい取り組みです。文部科学省所管の学校や、都市再生機構などの公社も同様のガイドラインを公表しています。",
+      "en": "An excellent initiative. Schools under the Ministry of Education, and public corporations like the Urban Renaissance Agency, have released similar guidelines.",
+      "style": "Informative officer citing comparable public-sector precedents helpfully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "参考にさせていただきます。ちょうど改修工事の施工業者にも、防犯カメラの増設を依頼する予定です。",
+      "en": "We'll use them as reference. As it happens, we're planning to ask the renovation contractor to install additional security cameras.",
+      "style": "Practical forward-looking response tying back to renovation context"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは心強いですね。設置後、配線図を共有いただければ巡回経路の調整もしやすくなります。",
+      "en": "That's reassuring. If you can share the wiring layout afterward, it'll be easier to adjust patrol routes.",
+      "style": "Cooperative officer offering practical follow-up coordination suggestion"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。来週までに資料をまとめてお渡しします。引き続きよろしくお願いいたします。",
+      "en": "Understood. I'll prepare the documents by next week. We look forward to continued cooperation.",
+      "style": "Closing on professional note with clear forward commitment"
+    }
+  ]
+}

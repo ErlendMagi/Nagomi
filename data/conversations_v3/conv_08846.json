@@ -1,0 +1,86 @@
+{
+  "id": "conv_08846",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: プロット/譜面/増刊/アセスメント/書き下ろし/個人向け/抵当/約定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "プロット",
+    "譜面",
+    "増刊",
+    "アセスメント",
+    "書き下ろし",
+    "個人向け",
+    "抵当",
+    "約定"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_444 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新企画のプロットを至急まとめろ",
+      "en": "Get me a summary of the new campaign proposal. I need it immediately.",
+      "style": "Clipped, commanding tone. No filler. Each word lands with weight. Expectation of immediate compliance. Slight pause after the period — not a question.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社歌の譜面を新調いたしました",
+      "en": "Understood. I've already had the company anthem music rewritten.",
+      "style": "Brisk, efficient delivery. Slight lift on 「understood」 to signal readiness. Professional, no embellishment. Matter-of-fact pace — just the facts.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社内報の増刊号を企画しろ",
+      "en": "I want a plan for an expanded in-house newsletter issue. Do it.",
+      "style": "Direct, clipped. No softening. Same commanding weight as the first line. Brief pause mid-phrase for emphasis. Orders, not requests.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新プロジェクトの環境アセスメントを進めています",
+      "en": "Understood. We're currently running the environmental impact assessment on the new project.",
+      "style": "Steady, informative tone. Measured delivery of progress. Slight emphasis on 「currently」 to show active work underway. Professional, not defensive.",
+      "mood": "operational"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、来年の書き下ろし販促を計画しろ",
+      "en": "Plan out the exclusive promotional campaign for next year. Get it done.",
+      "style": "Sharp, commanding. Same executive weight as prior directives. Staccato on key words — 「plan」, 「exclusive」, 「next year」. Expectation of execution without question.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。個人向け新サービスを開発中です",
+      "en": "Understood. We're developing a new service aimed at individual customers.",
+      "style": "Clear, businesslike update. Confident pacing. Slight warmth on 「developing」 — showing progress without overstatement. Professional but not robotic.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、不動産の抵当案件を確認しろ",
+      "en": "Review the mortgage documentation on that real estate transaction. Now.",
+      "style": "Clipped, final. Sharp attack on 「review」. Shorter breath between clauses. The 「now」 falls without plea — pure authority. Minimal inflection.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お取引先との約定書を準備しました",
+      "en": "Understood. I've prepared all the contract agreements with our partner companies.",
+      "style": "Conclusive, assured delivery. Slight nod of finality on 「prepared」. Professional satisfaction — task completed. Steady pace, no trailing.",
+      "mood": "ready"
+    }
+  ]
+}

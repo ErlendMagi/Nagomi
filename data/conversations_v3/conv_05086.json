@@ -1,0 +1,90 @@
+{
+  "id": "conv_05086",
+  "context": "A boss reviews a trade-show plan with his manager",
+  "purpose": "Teach: 出展/移譲/監修/補欠/採点/燃焼/立証/責務",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "出展",
+    "移譲",
+    "監修",
+    "補欠",
+    "採点",
+    "燃焼",
+    "立証",
+    "責務"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_256 workflow ww9ubceop)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今回の出展計画、ざっと目を通したが、規模が前回より大きいな。",
+      "en": "I skimmed the exhibition plan this time. The scale is bigger than last time.",
+      "style": "Boss speaking plainly, evaluating with measured authority and slight concern."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品を全力でアピールしたいので、ブースも二倍に広げました。",
+      "en": "Yes. I want to promote the new product with full force, so I doubled the booth size.",
+      "style": "Manager responding with confident energy and clear commitment to results."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "意気込みは買うが、現場運営の権限はどこまで君に移譲すればいい?",
+      "en": "I appreciate the drive, but how much on-site authority should I delegate to you?",
+      "style": "Boss probing with controlled skepticism, testing the subordinate's plan."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "実務は私が仕切り、技術面は開発部長の監修を受ける形で進めます。",
+      "en": "I'll run operations, and we'll proceed under the development director's technical supervision.",
+      "style": "Manager explaining the structure clearly, demonstrating thorough preparation and respect."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。ただ、登壇者が当日体調を崩した場合の補欠は確保してあるのか?",
+      "en": "I see. But have you secured a backup speaker in case the presenter falls ill on the day?",
+      "style": "Boss acknowledging then probing further with sharp managerial foresight."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "営業二課の山田を控えに立てておりますので、その点はご安心ください。",
+      "en": "I've placed Yamada from Sales Two on standby, so please rest assured on that point.",
+      "style": "Manager replying smoothly, showing detailed contingency planning and competence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "効果測定はどうする?来場者アンケートの採点基準まで詰めてあるんだろうな。",
+      "en": "What about measuring impact? You've worked out the visitor survey scoring criteria, I hope.",
+      "style": "Boss pressing on metrics with weight of accountability behind his words."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、定量項目と自由記述で配点を分け、商談化率まで追跡する設計です。",
+      "en": "Yes, we split points between quantitative items and free responses, tracking lead conversion too.",
+      "style": "Manager answering with composed precision, demonstrating analytical readiness."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よろしい。投資に見合うリターンを立証できなければ来年は縮小だぞ。",
+      "en": "Good. If you can't prove returns matching the investment, next year shrinks.",
+      "style": "Boss delivering firm warning with the weight of accountability behind his words."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しております。完全燃焼で成果を出すのが私の責務ですので、必ずやり遂げます。",
+      "en": "Understood. Giving my all to deliver results is my duty, and I will see it through.",
+      "style": "Manager accepting responsibility with formal resolve and quiet determination."
+    }
+  ]
+}

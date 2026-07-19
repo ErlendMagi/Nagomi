@@ -1,0 +1,75 @@
+{
+  "id": "conv_03044",
+  "context": "Sakura interviews a robotics engineer.",
+  "purpose": "WIDENED SCENARIO: tech interview; vocabulary (成立/ロボット/測定/出張/済み) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "成立",
+    "ロボット",
+    "測定",
+    "出張",
+    "済み"
+  ],
+  "cast": [
+    "sakura_teen",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_153)",
+    "generated_at": "2026-05-29T15:21:48.189Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "ロボット開発は、進んでいますか?",
+      "en": "Is robot development progressing?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "基本の設計は、もう済んでいます。",
+      "en": "The basic design is already done.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "精度の測定は、どうですか?",
+      "en": "How is the precision measurement?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "測定の結果は、とても良好です。",
+      "en": "The measurement results are very good.",
+      "style": "clear engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "海外との契約も、成立しましたか?",
+      "en": "Were overseas contracts concluded too?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出張して、契約を成立させました。",
+      "en": "I traveled and closed the contract.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "出張は、大変じゃないですか?",
+      "en": "Aren't business trips hard?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出張も、ロボットのためなら楽しいです。",
+      "en": "Trips are fun if they're for the robots.",
+      "style": "warm engineer voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

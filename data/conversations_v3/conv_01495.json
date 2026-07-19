@@ -1,0 +1,61 @@
+{
+  "id": "conv_01495",
+  "context": "Hina and Aoi spot a stray kitten near the cafe and decide what to do.",
+  "purpose": "Spontaneous animal-rescue moment between teen and adult.",
+  "ambient": "alley_cafe_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "猫",
+    "怪我",
+    "優しい",
+    "助ける"
+  ],
+  "cast": [
+    "hina_child",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_075)",
+    "generated_at": "2026-05-27T06:09:04.464Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "あっ、猫が震えてる。",
+      "en": "Oh — the cat is shivering.",
+      "style": "Soft gasp of realization. Immediate shift to careful concern — voice drops to protect the animal. Gentle, observant. The tone of a child noticing something fragile.",
+      "mood": "worried_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "怪我してるかも、優しく近づこう。",
+      "en": "It might be hurt — let's approach slowly.",
+      "style": "Calm, low voice. Practical guidance without alarm. Warm hand-steadying tone. Speaking as much to Hina's impulse to rush as to the situation itself.",
+      "mood": "tender_cautious"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "冷たい体、可哀想。",
+      "en": "Its body is so cold — poor thing.",
+      "style": "Whisper-soft touch of sadness. Speaking almost to the cat. Slow, deliberate words. The ache of recognizing something small in pain.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "タオル持ってくるね、待ってて。",
+      "en": "I'll grab a towel — stay right here.",
+      "style": "Steady, purposeful tone. A small smile underneath — reassuring Hina by being competent. Quick but not rushed. The voice of someone who knows what to do next.",
+      "mood": "warm_capable"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、助けたい。",
+      "en": "Yeah — I want to help.",
+      "style": "Soft determination. Not loud, but certain. Eyes fixed on the cat. The simple conviction of a child who knows what matters in this moment.",
+      "mood": "resolved_tender"
+    }
+  ]
+}

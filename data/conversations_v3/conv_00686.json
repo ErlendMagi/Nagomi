@@ -1,0 +1,62 @@
+{
+  "id": "conv_00686",
+  "context": "Daichi visits, sees Yumiko in the garden, asks about plants.",
+  "purpose": "small adult-elder gardening exchange",
+  "ambient": "garden_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "花",
+    "畑",
+    "一緒",
+    "楽しい",
+    "優しい"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ゆみこさん、お庭、本当に、綺麗ですね。",
+      "en": "Yumiko-san, your garden is truly beautiful.",
+      "style": "Warm, appreciative, regional Kansai lilt. Leans in slightly—genuine admiration without flattery. Soft, open vowels. The kind of compliment that makes someone feel seen, not performed for.",
+      "mood": "warm_admiring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとう。最近、お花、増えてきた。",
+      "en": "Thank you. The flowers have really been coming in lately.",
+      "style": "Gentle, pleased. A small proud note beneath the humility—she's been caring for these blooms. Soft exhale on the thanks. Warm without making a show of it.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "うちの畑にも、花、植えたいな。何が、おすすめ？",
+      "en": "I want to plant some flowers in our field too. What would you recommend?",
+      "style": "Eager, curious—the warmth shifts into genuine asking. Kansai swing on the final words. Leans forward slightly. Not seeking approval, seeking knowledge from someone he trusts.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "紫陽花とか、簡単で、綺麗。",
+      "en": "Hydrangea is simple and beautiful. Very easy to grow.",
+      "style": "Practical warmth. A knowing nod in the voice—she's given this advice before and it's always worked. Clear, direct, but the maternal kindness stays woven underneath.",
+      "mood": "warm_knowledgeable"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "ありがとう。皆で、お庭、育てたい。",
+      "en": "Thank you. I want to grow it with everyone—make it a family project.",
+      "style": "Softer now, gratitude settling in. Kansai lilt on the closing words. The warmth becomes tender—he's imagining it already, his family together in the field. Slight trailing exhale.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

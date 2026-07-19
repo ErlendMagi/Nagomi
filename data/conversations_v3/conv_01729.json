@@ -1,0 +1,61 @@
+{
+  "id": "conv_01729",
+  "context": "Kenji and Ren go to the gym together; gentle workout chat.",
+  "purpose": "Mentor and protégé bonding through exercise.",
+  "ambient": "gym_machines_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "筋肉",
+    "体力",
+    "汗",
+    "頑張る"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_087)",
+    "generated_at": "2026-05-27T07:32:48.875Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "蓮、筋トレ、調子どうや?",
+      "en": "Ren—how's the strength training going?",
+      "style": "Casual, warm Kansai inflection. Genuine interest, not perfunctory. Light lean-in, friendly shoulder-check energy. No pressure, just checking in.",
+      "mood": "warm_casual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "汗、いっぱいかいてます。",
+      "en": "I'm sweating buckets.",
+      "style": "Breathless but genuinely pleased. A little self-deprecating laugh behind it. Slight embarrassment about the effort showing, but happy to be noticed. Quick, honest exhale.",
+      "mood": "pleased_breathless"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "体力、つくで、続けたら。",
+      "en": "Stamina builds with it—keep at it and you'll feel the difference.",
+      "style": "Steady, encouraging mentor tone. Kansai warmth underneath. Matter-of-fact wisdom, not lecturing. The kind of thing said once, meant for years. Easy confidence.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "健司さんも、続けてますね。",
+      "en": "You've been keeping it up too, though.",
+      "style": "Soft admission with genuine respect underneath. A little careful—not flattering, just observing. Quiet admiration from someone who notices consistency in others.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おう、お互い、頑張ろうや。",
+      "en": "Yeah—let's both keep pushing, yeah?",
+      "style": "Open, brotherly. Kansai ease at the end. Not a command, an invitation. Warm hand on the shoulder in voice form. Simple solidarity.",
+      "mood": "brotherly"
+    }
+  ]
+}

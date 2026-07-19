@@ -1,0 +1,62 @@
+{
+  "id": "conv_00645",
+  "context": "Sho reads an animal picture book with Yumiko before bedtime.",
+  "purpose": "small mother-child reading at bedtime",
+  "ambient": "bedroom_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "本",
+    "動物",
+    "一緒",
+    "楽しい",
+    "面白い"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_033)",
+    "generated_at": "2026-05-27T01:09:04.158Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "お母さん、この本、面白い。象って、すごく大きい。",
+      "en": "Mom, this book is so interesting. Elephants are really big, aren't they?",
+      "style": "Soft, genuine excitement. Slight wonder in the voice—not performed, but real. Gentle pace, like he's sharing a discovery. Warm throughout, ending with a small upturn of curiosity.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "本当ね。象、すごい動物。",
+      "en": "They really are. Elephants are such amazing animals.",
+      "style": "Soft maternal warmth. Affirming his observation with genuine interest, not just parroting back. Unhurried, steady rhythm. The voice of someone actually present with a child she loves.",
+      "mood": "warm_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "虎も、可愛い。猿も、面白い。",
+      "en": "Tigers are cute too. And monkeys—they're so interesting.",
+      "style": "Small, genuine enthusiasm building as he moves through his list. Each animal gets its own small moment of discovery. Soft voice, natural pace—no performance, just the real wonder of a six-year-old.",
+      "mood": "delighted_engaged"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "しょう、本当に、動物、好きね。今度、動物園、行こうか。",
+      "en": "Sho, you really do love animals, don't you? How about we go to the zoo next?",
+      "style": "Warm observation, then a gentle shift into planning. The suggestion lands softly, like an invitation rather than a promise. Her voice opens up slightly—inviting his excitement without needing it.",
+      "mood": "warm_thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん！行きたい！",
+      "en": "Yeah! I want to go!",
+      "style": "Pure, unfiltered joy. Voice rises with genuine excitement, but stays within the small, honest register of a child. No artifice—just the real brightness of something to look forward to.",
+      "mood": "excited_joyful"
+    }
+  ]
+}

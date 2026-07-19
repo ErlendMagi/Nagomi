@@ -1,0 +1,78 @@
+{
+  "id": "conv_04849",
+  "context": "A retired exec coaches a younger boss on crisis comms",
+  "purpose": "Teach: 急遽/極力/高値/立地/阻害/所要/先般/取扱い",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "急遽",
+    "極力",
+    "高値",
+    "立地",
+    "阻害",
+    "所要",
+    "先般",
+    "取扱い"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先般の不具合の件、メディア対応を急遽お願いしたく、相談に伺いました。",
+      "en": "About the recent defect, I need to suddenly arrange media response and came to consult you.",
+      "style": "Younger boss speaking deferentially, formal business register seeking guidance from a mentor figure."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ふむ。まず、製品の取扱いに関する社内マニュアル、あれはもう更新したのかね。",
+      "en": "Hmm. First off, the internal manual regarding product handling, have you already updated that?",
+      "style": "Calm, probing tone of a retired executive, sentence-final ね with avuncular authority."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それが、現場の混乱が信頼回復を阻害しておりまして、まだ着手できておりません。",
+      "en": "Well, the confusion on-site is obstructing the recovery of trust, so we haven't started yet.",
+      "style": "Apologetic executive Japanese, humble auxiliary おりまして, admitting an uncomfortable delay."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "謝罪会見の所要時間は短く、極力シンプルに。長い言い訳は命取りだ。",
+      "en": "Keep the press apology brief in duration, and as simple as possible. Long excuses are fatal.",
+      "style": "Curt mentor mode, declarative sentences, old-school masculine だ ending with quiet conviction."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "株価も高値圏から急落しておりまして、投資家への説明もどうすべきか…",
+      "en": "Our share price has also plunged from the high range, and I'm unsure how to explain to investors.",
+      "style": "Voice trailing off in worry, mid-formal corporate register revealing visible anxiety."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "本社の立地が一等地だろうと、誠意が欠ければ意味はない。頭を下げる順序を間違えるな。",
+      "en": "Even if headquarters sits on prime real estate, without sincerity it's meaningless. Don't bow in the wrong order.",
+      "style": "Sharp, aphoristic veteran wisdom, imperative な ending, almost samurai-like in directness."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "肝に銘じます。明朝一番に取締役会へ報告し、ご指導通り進めてまいります。",
+      "en": "I'll engrave it on my heart. First thing tomorrow morning I'll report to the board and proceed as instructed.",
+      "style": "Highly formal humble Japanese, idiom 肝に銘じる, expressing resolve to a respected senior."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ。危機の時こそ、人柄が出る。落ち着いてやりたまえ。",
+      "en": "Mm. It's precisely in a crisis that one's character shows. Go and handle it with composure.",
+      "style": "Warm but stern closing benediction, archaic imperative たまえ marking generational gap."
+    }
+  ]
+}

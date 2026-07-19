@@ -1,0 +1,83 @@
+{
+  "id": "conv_00425",
+  "context": "A quiet office moment. Kenji updates Hiroshi-boss on a difficult negotiation.",
+  "purpose": "workplace strategy discussion",
+  "ambient": "office_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "交渉",
+    "戦略",
+    "判断",
+    "結果",
+    "評価"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_022)",
+    "generated_at": "2026-05-26T23:44:15.993Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "部長、先日の交渉、ご報告です。",
+      "en": "Boss, the negotiation the other day, my report.",
+      "style": "Salaryman warm formal sincere professional-warm reporting, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "formally-professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "はい、聞かせてください。",
+      "en": "Yes, please tell me.",
+      "style": "Boss measured warm formal sincere-warm receiving-attentive, the soft real authority-soft audible, gentle real composure throughout delivery.",
+      "mood": "attentively-formal"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "結果、こちらの戦略が、ある程度通りました。",
+      "en": "Result — our strategy went through to some degree.",
+      "style": "Salaryman warm formal sincere professional-warm honest-reporting, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "professionally-honest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ある程度、というと？",
+      "en": "To some degree — meaning?",
+      "style": "Boss measured warm formal careful-probing-warm clarifying, the soft real authority-soft audible, gentle real composure throughout delivery.",
+      "mood": "carefully-probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "価格は希望に届きませんでしたが、納期で、有利な条件を引き出せました。",
+      "en": "Price didn't reach our hope, but on delivery, we drew out favorable conditions.",
+      "style": "Salaryman warm formal sincere professional-warm balanced-honest, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "professionally-balanced"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。判断、正解でしたね。",
+      "en": "I see. The judgment was correct.",
+      "style": "Boss measured warm formal sincere-warm approving-affirming, the soft real authority-soft audible, gentle real composure throughout delivery.",
+      "mood": "sincerely-affirming"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。次回も、同じ戦略で進めます。",
+      "en": "Thank you. Next time too, same strategy.",
+      "style": "Salaryman warm formal sincere committed-warm closing, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "sincerely-committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだ。次の評価会議で、ちゃんと、評価する。",
+      "en": "Counting on you. At next review meeting, I'll evaluate properly.",
+      "style": "Boss measured warm formal sincere-warm closing-trusting, the soft real authority-soft audible, gentle real composure throughout delivery.",
+      "mood": "sincerely-trusting"
+    }
+  ]
+}

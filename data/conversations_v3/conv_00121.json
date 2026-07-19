@@ -1,0 +1,89 @@
+{
+  "id": "conv_00121",
+  "context": "A small café in the afternoon. Aoi has stopped in to her own old café on her day off. Dr. Saito is there alone with a paperback.",
+  "purpose": "parallel solo women — small recognition between near-strangers",
+  "ambient": "cafe_afternoon",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今日",
+    "一人",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "saito_doctor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "あの…ここ、空いてますか？",
+      "en": "Um… is this seat taken?",
+      "style": "Soft, hesitant approach. The careful barista-voice: professional politeness with underlying uncertainty. Gentle rise at the end, checking for permission.",
+      "mood": "respectful_tentative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "あ、はい。どうぞ。",
+      "en": "Oh — yes, please sit.",
+      "style": "Brief, warm surprise. Book lowers naturally to the lap. A beat of genuine welcome, no performance. Eye contact that settles.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お一人で、本当にすみません。",
+      "en": "Sorry to interrupt — I hope I'm not intruding.",
+      "style": "Quiet apology, but grounded — not over-apologizing. Sits with small careful movements. Respectful without self-diminishment.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえ、こちらこそ。…本、邪魔しちゃう？",
+      "en": "No, not at all. …Does the book bother you?",
+      "style": "Light, gentle humor underneath. Book closes without fuss. Real ease in the voice — making space without making a show of it.",
+      "mood": "gracious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(laughs) 違います、私こそ。",
+      "en": "(laughs) No, I was the one apologizing.",
+      "style": "A genuine, small laugh — not performed. The sound of recognizing something true. Warm and present, not defensive.",
+      "mood": "relief"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日、お休み？",
+      "en": "Is today your day off?",
+      "style": "Genuine curiosity, no rush. The kind of question asked because you actually want to know. Pace is unhurried, conversational.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい。…ここ、本当に好きで。",
+      "en": "Yes. …I really love this place.",
+      "style": "Honest, almost vulnerable. Voice drops slightly. The confession of someone who means what they're saying. A small pause before the second half.",
+      "mood": "content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "私も。一人の時間、ここで取れるのが、ありがたい。",
+      "en": "Me too. Being alone here — it's something I'm grateful for.",
+      "style": "Quiet and full of weight. Not rushed. The voice of someone who has thought about this. Carries real feeling without sentimentality.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかります。…本当に、わかります。",
+      "en": "I understand. …I really do.",
+      "style": "Soft recognition. A moment of real meeting between two people. No explanation needed. Voice settles into genuine understanding.",
+      "mood": "understood"
+    }
+  ]
+}

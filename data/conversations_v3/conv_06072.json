@@ -1,0 +1,86 @@
+{
+  "id": "conv_06072",
+  "context": "A police officer briefs on road safety",
+  "purpose": "Teach: 転倒/手当て/灰色/大小/スカイ/ナビ/相手方/袖",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "転倒",
+    "手当て",
+    "灰色",
+    "大小",
+    "スカイ",
+    "ナビ",
+    "相手方",
+    "袖"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_305 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "歩行者の転倒事故、駅前で多発しています。",
+      "en": "We've been seeing a lot of pedestrian falls lately — especially around the station entrances.",
+      "style": "Steady, informative opening. Level tone, measured pace. Speaking from experience, not alarm. Clear enunciation on key points.",
+      "mood": "professional_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救急の手当て、警察も補助しますか。",
+      "en": "So when first aid is needed, does the police department help with that too?",
+      "style": "Genuine curiosity, leaning in slightly. Soft upswing at the end — asking to learn, not to challenge. Respectful of his expertise.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。灰色のグレーゾーン事案、慎重に対応します。",
+      "en": "Yes. For those gray-area cases, we handle them with extra care.",
+      "style": "Calm, measured confirmation. Slight emphasis on 'gray-area' — acknowledging the complexity. Professional but not cold.",
+      "mood": "thoughtful_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害の大小、関係なく、原則対応ですね。",
+      "en": "So regardless of how serious the injury is, you respond the same way as a matter of protocol?",
+      "style": "Testing the logic, but gently. Thoughtful pause before speaking. Slow, deliberate — making sure he understands the principle.",
+      "mood": "analytical_sincere"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。スカイマーケットなどの広域施設、警備強化中。",
+      "en": "That's right. We're increasing security presence at larger facilities like Sky Market.",
+      "style": "Procedural, factual. Slight shift forward — this is concrete action, not abstraction. Steady, informative rhythm.",
+      "mood": "professional_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "カーナビ警告のシステム、警察も連携していますか。",
+      "en": "Does the police department work with those car-nav warning systems too?",
+      "style": "Quickening slightly — new thread of thought. Interested in connection points. Leaning forward in genuine curiosity, not skepticism.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。相手方への配慮、口論回避、教育もします。",
+      "en": "Yes. We also make a point of being considerate to the other person, avoiding unnecessary conflict, and offering guidance when we can.",
+      "style": "Careful, deliberate pacing. Weight on 'considerate' — this matters. Not defensive, but explaining a principle he holds.",
+      "mood": "principled_measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警官、袖の隠しポケット、何入れてるんですか。",
+      "en": "Officer, what's actually in that hidden pocket on your sleeve anyway?",
+      "style": "Sudden shift — wry, testing humor breaking through. Quick delivery, conspiratorial half-smile in the voice. Intimate familiarity.",
+      "mood": "playful_familiar"
+    }
+  ]
+}

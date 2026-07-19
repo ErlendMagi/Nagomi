@@ -1,0 +1,79 @@
+{
+  "id": "conv_06012",
+  "context": "A police officer briefs a reporter about a regional issue",
+  "purpose": "Teach: 模擬/移入/膨張/大久保/重点的/流域/妨げる/動力",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "模擬",
+    "移入",
+    "膨張",
+    "大久保",
+    "重点的",
+    "流域",
+    "妨げる",
+    "動力"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_302 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "地域防災、模擬訓練を定期実施しています。",
+      "en": "We conduct regular disaster-prevention drills throughout the community.",
+      "style": "Measured, official opening. Clear enunciation on key terms. Steady pace — not rushed, not performative. The voice of routine competence.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "外国人の移入、住民との接点、増えていますね。",
+      "en": "We're seeing more foreign residents moving into the area, which means more contact points with the community.",
+      "style": "Thoughtful, genuinely curious lean forward. Soft uptick at the question mark. Engaged — this is something he's actually thinking through, not just asking from a script.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。観光膨張、対応が必要です。",
+      "en": "Yes. Tourism is expanding, and we need to adapt accordingly.",
+      "style": "Direct, factual. No padding. Professional acknowledgment — he's tracking what Ren said and responding to the substance. Steady eye-level.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "大久保署、重点的に巡回されていますか。",
+      "en": "So does Okubo precinct focus patrols in those areas?",
+      "style": "Careful probe. Light emphasis on 'Okubo' — testing if Takeda will confirm specifics. Respectful but not deferential. The tone of someone doing homework.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。河川流域の犯罪、地域協議会と協力します。",
+      "en": "Yes. We work with local councils to address crime in the river-basin areas.",
+      "style": "Grounded, operational. 'Work with' lands with quiet authority — partnership, not decree. Unfussy. Professional closure on the point.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域経済を妨げる要素、警察も把握していますか。",
+      "en": "Are you aware of the factors that are actually holding back local economic growth?",
+      "style": "Direct question, slightly elevated from the previous curiosity — he's moving from observation to something that matters more. Not challenging, but less deferential. Genuine interest in whether Takeda sees beyond the procedural.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。動力としての地域力、引き続き支えます。",
+      "en": "Yes. We're committed to supporting the community as the real engine of that growth.",
+      "style": "Firm, genuine conviction — not propaganda. Slower pace on 'engine' and 'growth'. The closing statement of someone who means what he says. Meets Ren's directness with his own.",
+      "mood": "resolute"
+    }
+  ]
+}

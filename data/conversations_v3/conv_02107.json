@@ -1,0 +1,79 @@
+{
+  "id": "conv_02107",
+  "context": "Saito sees a complex case patient with subtle symptoms.",
+  "purpose": "Doctor parsing nuanced medical case with Ren observer.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "症状",
+    "個性",
+    "哲学",
+    "見学",
+    "材料",
+    "判断",
+    "はっきり",
+    "訓練"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_106)",
+    "generated_at": "2026-05-27T16:26:39.301Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮くん、症状、個性的ですね。",
+      "en": "Ren, your symptoms are quite distinctive, aren't they.",
+      "style": "Measured, observant opening. Warm curiosity underneath clinical precision. Soft eye contact — she's genuinely interested in what this reveals about him.",
+      "mood": "thoughtful_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "見学、貴重な機会です。",
+      "en": "Being allowed to observe — it's a real opportunity.",
+      "style": "Quiet, earnest gratitude. Slight hesitation before speaking, like he's aware of his own luck. Soft vocal attack, unhurried breath beneath the words.",
+      "mood": "grateful_humble"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "判断材料、しっかり集めましょう。",
+      "en": "Let's gather the information carefully — build a solid picture.",
+      "style": "Gentle instruction without condescension. Clear and steady. Slight warmth in the pacing, like she's thinking alongside him rather than directing him.",
+      "mood": "patient_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はっきり、見極めるのは、難しい。",
+      "en": "Seeing clearly, understanding what's really happening — that's the hard part.",
+      "style": "Thoughtful, almost to himself. Self-aware — he knows he's struggling with this. Quiet, honest delivery with a slight lifting question at the end, like he's checking himself.",
+      "mood": "uncertain_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医療哲学、訓練、必要やね。",
+      "en": "You need training in medical thinking — how to hold complexity.",
+      "style": "Philosophical, not lecturing. Warm and knowing — she's saying something true that he needs to hear. Slight pause before the second clause, like she's choosing her words.",
+      "mood": "wise_encouraging"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、深く学びたい。",
+      "en": "Yes — I want to understand this deeply.",
+      "style": "Quiet commitment. Soft opening, then firmer on the core desire. Earnest without performing earnestness. Slight breathiness like he means this completely.",
+      "mood": "determined_sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご一緒に、進めましょう。",
+      "en": "We'll move forward together then.",
+      "style": "Warm, settled certainty. Open delivery without rushing. The warmth of collaboration — she's including him as a partner, not a student. Slight smile in the voice.",
+      "mood": "warm_collaborative"
+    }
+  ]
+}

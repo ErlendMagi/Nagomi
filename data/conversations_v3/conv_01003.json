@@ -1,0 +1,76 @@
+{
+  "id": "conv_01003",
+  "context": "Saito checks on Sachiko's elderly health.",
+  "purpose": "doctor-patient elderly health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "相談",
+    "一緒",
+    "大切",
+    "生活"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_050)",
+    "generated_at": "2026-05-27T03:14:13.620Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "佐知子さん、最近、健康、いかが？",
+      "en": "Sachiko-san, how have you been feeling lately?",
+      "style": "Warm professional opening. Gentle and unhurried. Real composure beneath the courtesy. Soft eye contact—not clinical, genuinely asking. The kind of doctor who listens.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おかげさまで、元気、です。",
+      "en": "Thanks to you, I'm doing well.",
+      "style": "Bright and grateful. Natural cadence, not performed. A small smile in the voice. Genuine warmth, the kind that comes from long trust with someone who listens.",
+      "mood": "content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "生活習慣、続けて、大切。",
+      "en": "Keeping up with your daily habits is what matters most.",
+      "style": "Clear and direct but not stern. Warm advice, the kind offered by someone who knows her. Conversational—not lecturing, just speaking truth simply. Slight pause before 'matters most.'",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おじいちゃんと、毎日、散歩。",
+      "en": "My husband and I, we walk every day.",
+      "style": "Gentle pride in the telling. Not boasting—reporting a quiet joy. Warm voice, slightly softer when she mentions him. The ease of people who have done this a thousand times.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素敵な、習慣。",
+      "en": "That's a lovely habit to have.",
+      "style": "Genuine appreciation. A small nod in the voice. Not perfunctory praise—real recognition of something good. Warm and present. Slight lingering warmth on 'lovely.'",
+      "mood": "warm_approving"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "相談、いつも、心強い。",
+      "en": "Your advice has always given me strength.",
+      "style": "Soft and sincere. Not flattery—a quiet acknowledgment of trust built over time. Vulnerable in a composed way. The voice of someone who means what she says.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一緒に、長く、お元気で。",
+      "en": "Let's keep supporting each other so you can stay well for a long time.",
+      "style": "Warm closing. A gentle promise held lightly. Not prescriptive—collaborative. Soft warmth threaded through, the voice of someone who sees her as a person, not a chart.",
+      "mood": "warm_hopeful"
+    }
+  ]
+}

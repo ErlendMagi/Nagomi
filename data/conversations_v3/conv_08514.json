@@ -1,0 +1,86 @@
+{
+  "id": "conv_08514",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 予見/告訴/蒸留/沈没/演算/概略/諜報/内政",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "予見",
+    "告訴",
+    "蒸留",
+    "沈没",
+    "演算",
+    "概略",
+    "諜報",
+    "内政"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_427 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、症状を予見した検査を医療チームで実施しております",
+      "en": "Ren, we've been running some diagnostic tests with the full medical team to stay ahead of any complications.",
+      "style": "Even, professional tone. Clear enunciation on the medical specifics. No rush. The voice of someone who explains complex things regularly and takes care to be understood.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療過誤の告訴対応を医療チームで備えております",
+      "en": "Yes, we're also prepared for any liability concerns — that's something the team handles proactively.",
+      "style": "Steady, matter-of-fact delivery. Slight pause before 'liability' — not evasive, just careful word choice. Composed, like she's stated this before.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "薬剤の蒸留精製を、貴院、なさってるそうですね、先生",
+      "en": "I've heard your hospital does pharmaceutical refinement work in-house, sensei.",
+      "style": "Polite curiosity, genuine interest. Slight lift at the end — a real question, not flattery. Respectful but not deferential. The tone of someone asking because he wants to understand.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、海難事故の沈没事案の救命を医療チームで担当しました",
+      "en": "Yes, our team handled rescue operations after that maritime incident — we were involved in several of those cases.",
+      "style": "Calm, factual. No self-congratulation. Matter-of-fact about difficult work. Slight emphasis on 'our team' — collective responsibility, not individual credit.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療データの演算解析を、貴院、強化されたんですね、先生",
+      "en": "So the hospital has upgraded its medical data analysis capabilities, then, sensei.",
+      "style": "Thoughtful, measured pace. Not quite a question — more observation. Respectful address with 'sensei' grounded in genuine intellectual respect. Slight pause before the comment, as if thinking it through.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、診療の概略を患者さんに丁寧に説明しております",
+      "en": "Yes, we make sure patients receive thorough, careful explanations of their treatment plans.",
+      "style": "Clear, direct. Warm without being performative. Slight emphasis on 'thorough' and 'careful' — principles that matter to her. The voice of someone who believes patients deserve clarity.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療諜報のような情報戦から貴院、患者を守ってらっしゃるそうですね、先生",
+      "en": "Your hospital protects patients from those kinds of information warfare situations, I understand, sensei.",
+      "style": "Respectful, slightly abstract phrasing delivered with genuine thoughtfulness. Not accusatory — almost admiring the concept. Quiet conviction that this work matters, expressed with intellectual distance.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、内政の医療政策に医療チームで意見書を出します",
+      "en": "Yes, we're preparing a formal statement from the medical team to present to health policy officials.",
+      "style": "Composed, professional. Slight warmth on 'formal' — this is serious work. Measured pace. The voice of institutional responsibility delivered personally.",
+      "mood": "committed"
+    }
+  ]
+}

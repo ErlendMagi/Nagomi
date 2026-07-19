@@ -1,0 +1,84 @@
+{
+  "id": "conv_04434",
+  "context": "A uni student interviews a retired executive about innovation",
+  "purpose": "Teach: 展望/要約/謝罪/かかわる/生み出し/係る/もたらし/行なっ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "展望",
+    "要約",
+    "謝罪",
+    "かかわる",
+    "生み出し",
+    "係る",
+    "もたらし",
+    "行なっ"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_223 workflow w3borp7tr)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただき、まずは突然の訪問について謝罪させてください。",
+      "en": "Thank you for your time today, and please allow me to apologize first for visiting so suddenly.",
+      "style": "Polite, slightly nervous student opening an interview formally."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "気にせんでええ。若い人と話すのは楽しいもんじゃ。何が聞きたいんかね?",
+      "en": "Don't worry about it. Talking with young people is enjoyable. What did you want to ask?",
+      "style": "Warm, gravelly elder voice, putting the student at ease."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "御社が長年行なってきた事業についてなんですが、その中で新しい価値を生み出した瞬間があれば伺いたいんです。",
+      "en": "It's about the business you've run for many years — I'd like to hear about any moments where you produced new value.",
+      "style": "Earnest student breaking the question into two natural beats."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうじゃな…一番大きな変化をもたらしたのは、現場の声を経営に直接関わる形で取り入れた時じゃった。",
+      "en": "Well, the change that brought the biggest impact was when we tied frontline voices directly to management decisions.",
+      "style": "Reflective elder tone, pausing thoughtfully between memories."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場と経営をそこまで近づけたんですね。社員の生活にもかかわる大きな決断だった筈ですよね。",
+      "en": "So you brought the frontline and management that close together. It must have been a major decision that affected employees' lives too.",
+      "style": "Curious student acknowledging the frontline-management link first."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通り。事業に係る費用も覚悟したが、つまりじゃな、人を信じる勇気が革新を生むんじゃよ。",
+      "en": "Exactly. We had to brace for the costs tied to the business, but in short, the courage to trust people is what gives birth to innovation.",
+      "style": "Wise elder delivering distilled insight in his warm dialect."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、今のお話を要約すると、信頼こそが革新の土台ということですね。",
+      "en": "I see — to summarize what you just said, trust itself is the foundation of innovation.",
+      "style": "Student reflecting back the elder's words to confirm understanding."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、これからの日本企業の展望について、一言いただけますか?",
+      "en": "Finally, could I have a few words on your outlook for Japanese companies going forward?",
+      "style": "Closing question, student notebook poised respectfully for final note."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "失敗を恐れず挑戦し続ければ、必ず明るい未来は開けるじゃろう。",
+      "en": "If they keep challenging themselves without fearing failure, a bright future will surely open up.",
+      "style": "Encouraging, paternal closing remark with a gentle smile."
+    }
+  ]
+}

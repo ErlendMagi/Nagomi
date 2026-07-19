@@ -1,0 +1,72 @@
+{
+  "id": "conv_05386",
+  "context": "A boss reviews a special-edition product plan",
+  "purpose": "Teach: 数量/要領/対談/補佐/試行錯誤/フォーマット/一昨年/当分",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "数量",
+    "要領",
+    "対談",
+    "補佐",
+    "試行錯誤",
+    "フォーマット",
+    "一昨年",
+    "当分"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の限定品、数量と要領を整理してくれ。",
+      "en": "Clean up the quantity and specifics on this term's limited product.",
+      "style": "Clipped, expectant opening. Direct eye contact. No preamble — straight into the assignment. Efficient breath.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広報部長との対談形式で、社内告知を進める予定です。",
+      "en": "Yes. We're planning to roll out the internal announcement through a dialogue format with the PR director.",
+      "style": "Steady, methodical delivery. Matter-of-fact tone showing he's already thought this through. Slight professional deference in the structure — reporting confidence, not seeking approval.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "補佐の井上にも、フォーマット確認させとけ。",
+      "en": "Have Inoue in your support team verify the format as well.",
+      "style": "Quick, practical instruction. No elaboration needed — assumes competence. Brief pause between clauses. Tone: delegating downward with trust.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一昨年の販促資料、流用は当分難しいので、試行錯誤しています。",
+      "en": "The promotional materials from two years back won't be viable for a while, so we're working through iterations right now.",
+      "style": "Slightly apologetic undertone — explaining the constraint, not making excuses. Even pace. Shows forward motion despite the friction. Professional but forthcoming.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。来週、初稿を出してくれ。",
+      "en": "I need a first draft by next week.",
+      "style": "Firm but not harsh. Light emphasis on 「来週」. Closing note — conversation nearly done. Expectant, not negotiable.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Sharp, respectful acknowledgment. Brief. The sound of someone taking the directive on board and moving forward.",
+      "mood": "resolute"
+    }
+  ]
+}

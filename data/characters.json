@@ -1,0 +1,979 @@
+{
+  "_meta": {
+    "description": "Nagomi character roster — voice profiles for the JP speakers and their paired EN translation narrators. Every conversation must reference characters by id; do not invent inline.",
+    "version": "1.0.0",
+    "generated_at": "2026-05-26",
+    "count": 22,
+    "coverage": "Children (2), Teens (2), Young adults (6), Middle-aged (6), Elderly (4), Professional (2). Regional spread: Tokyo standard (most), Kansai (4), Tohoku (1), Kyushu (1). EN accents: General American (12), British (5), Australian (2), Irish (3). Formality spread: keigo, polite, casual, intimate, rough."
+  },
+  "characters": [
+    {
+      "id": "hina_child",
+      "name": "Hina Yamamoto",
+      "age_range": "8 years old",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: High child pitch with bright musical rise on emphasis and questions. speed: Quick and uneven, often racing ahead with enthusiasm. volume: Conversational, jumping loud with excitement. age: Eight years old. clarity: Clear with occasional kid-mispronunciations on tricky kanji compounds. fluency: Fluent for her age, with natural childish fillers (えーとね, あのね). accent: Standard Tokyo Japanese. texture: Bright, airy, slightly nasal. emotion: Baseline cheerful and curious; quick to laugh, quick to pout. tone: Open, expressive, unguarded. personality: Eager, social, terrible at keeping secrets.",
+      "en_voice_profile": "gender: Female. pitch: High child pitch, lifting brightly on questions and surprises. speed: Quick and uneven, sometimes stumbling on big words. volume: Conversational with loud spikes of excitement. age: Eight years old. clarity: Clear with the small mispronunciations a real eight-year-old still makes. fluency: Fluent for her age, sprinkled with 'um' and 'like'. accent: General American English. texture: Bright, airy, slightly nasal. emotion: Cheerful, curious, easily delighted. tone: Open, expressive, unguarded. personality: Eager, talkative, terrible at secrets.",
+      "background": "Hina is eight years old, in second grade in a quiet Tokyo suburb. She has an older brother she copies and a baby cousin she 'helps look after' when the adults pretend she's helping. She collects stickers, plays at the local park most afternoons, and has decided she will either be a vet or one of those people who make videos on YouTube.",
+      "presence": "Eight years old, hair in two ponytails fastened with rubber bands she rotates daily. Always carrying something — a stuffed rabbit, a leaf she picked up, today's drawing. Sits cross-legged on chairs, stands on tiptoes when explaining something important.",
+      "personality": "Loud, sunny, curious about everything. Easily wounded and easily restored. Asks adults questions that make them pause. Adores being included.",
+      "common_contexts": [
+        "family at home",
+        "park",
+        "school break",
+        "with grandparents"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ko-KR-SunHi:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+15%",
+            "pitch": "+30Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ko-KR-SunHi:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+15%",
+            "pitch": "+30Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "sho_child",
+      "name": "Sho Ito",
+      "age_range": "6 years old",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: High child pitch, softer than peers, dropping when shy. speed: Slow, careful, with small pauses before answering. volume: Quiet, conversational at best, sometimes near-whisper. age: Six years old. clarity: Articulate but small; some sounds still rounded. fluency: Brief sentences, occasionally trailing off. accent: Standard Tokyo Japanese. texture: Soft, breathy, gentle. emotion: Baseline shy-curious; warms slowly, then opens fully. tone: Mild, sincere, observant. personality: Thoughtful, sensitive, more listener than talker.",
+      "en_voice_profile": "gender: Male. pitch: High child pitch, soft, dropping further when shy. speed: Slow, careful, frequent thinking pauses. volume: Quiet to conversational, never loud. age: Six years old. clarity: Articulate but small, some consonants still rounded. fluency: Short sentences, occasional trailing-offs. accent: General American English. texture: Soft, breathy, gentle. emotion: Shy-curious baseline; warms when comfortable. tone: Mild, sincere, observant. personality: Thoughtful, sensitive, watches before joining in.",
+      "background": "Sho is six, in his first year of elementary school. He is the youngest of three brothers and has spent most of his life watching the older two argue. He prefers building blocks to running, knows the names of all the construction vehicles, and has one specific friend he sits next to every day.",
+      "presence": "Six years old, soft round cheeks, a slightly oversized school cap. Walks with one hand in a pocket. Sits very still when listening, drawing slow conclusions.",
+      "personality": "Quietly observant, sometimes startlingly perceptive. Doesn't perform. When he laughs it's small and genuine. Worries about things adults don't notice.",
+      "common_contexts": [
+        "family at home",
+        "school",
+        "park",
+        "with older brothers"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+15%",
+            "pitch": "+50Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+15%",
+            "pitch": "+50Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "sakura_teen",
+      "name": "Sakura Hayashi",
+      "age_range": "16 years old",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid-range young female pitch, rising sharply on sarcastic emphasis. speed: Fast, almost rushed in casual speech; slower when bored or annoyed. volume: Conversational to loud, especially among friends. age: Sixteen years old. clarity: Sharp articulation when she wants to be heard, lazier in casual flow. fluency: Highly fluent, dotted with teen slang and trailing endings (〜やん, 〜ねん). accent: Kansai-ben (Osaka-flavoured). texture: Slightly nasal, bright, with a rasp on emphasis. emotion: Baseline wry-amused; quick to roll eyes and quick to soften. tone: Sarcastic, expressive, performatively annoyed. personality: Sharp-tongued, magnetic, loyal once she lets you in.",
+      "en_voice_profile": "gender: Female. pitch: Mid-range young female pitch, lifting on sarcastic emphasis. speed: Fast in casual speech, slowing for cutting remarks. volume: Conversational to loud, especially with friends. age: Sixteen years old. clarity: Sharp when she wants to land a point, lazier otherwise. fluency: Highly fluent with teen slang and 'literally', 'low-key', 'like'. accent: British English (London estuary, mild). texture: Slightly nasal, bright, with rasp on emphasis. emotion: Wry, amused, quick to roll eyes, quick to soften. tone: Sarcastic, expressive, performatively annoyed. personality: Sharp-tongued, magnetic, loyal once she trusts you.",
+      "background": "Sakura is sixteen, attending a public high school in Osaka. Her family moved from Tokyo when she was five, so her Kansai-ben is real but slightly tilted. She's in the volleyball club, scores well in English class, and has been writing music in a notes app no one has read. Has a complicated friendship with one of her teammates.",
+      "presence": "Sixteen, school uniform worn slightly off-regulation, the skirt one length shorter than allowed. Earbuds half-in most of the time. Walks with one hand in her blazer pocket. Reads people quickly.",
+      "personality": "Sarcastic on the surface, sincere underneath. Tests new people. Cares deeply about a small list of things and hides most of them. Will defend a friend before defending herself.",
+      "common_contexts": [
+        "school",
+        "café with friends",
+        "home with family",
+        "club after-school"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Ava:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Ava:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "riku_teen",
+      "name": "Riku Mori",
+      "age_range": "15 years old",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Voice in the middle of cracking — drops low without warning, jumps back up on emphasis. speed: Hesitant in front of adults, fast and loose among friends. volume: Quiet at home, louder in crews. age: Fifteen years old. clarity: Mumbles in low-stakes moments, articulates sharply when caught caring. fluency: Fluent with current teen slang (やばい, マジで, それな). accent: Standard Tokyo Japanese. texture: Thin and a little raspy with adolescence. emotion: Baseline guarded; flashes of intensity when something matters. tone: Cool, detached, occasionally fervent. personality: Internal, smart, suspicious of adult sincerity.",
+      "en_voice_profile": "gender: Male. pitch: Voice mid-change — drops low unpredictably, jumps up under emphasis. speed: Hesitant with adults, faster with friends. volume: Quiet at home, louder in groups. age: Fifteen years old. clarity: Mumbles small things, articulates only when invested. fluency: Fluent with teen slang ('bro', 'lowkey', 'fr'). accent: General American English. texture: Thin, slightly raspy from the voice change. emotion: Guarded baseline; flashes of intensity. tone: Cool, detached, occasionally fervent. personality: Internal, sharp, suspicious of adults trying too hard.",
+      "background": "Riku is fifteen, third year of middle school in central Tokyo. He plays guitar in a band with two friends and an upperclassman they're a little scared of. His older sister is at university in Hokkaido. His mother is divorced and he loves her in a way he refuses to show.",
+      "presence": "Fifteen, hoodie zipped halfway, headphones around his neck. Slouches by default, straightens when he forgets to slouch. Pretends not to care, watches everything.",
+      "personality": "Cool-distant exterior, soft interior. Mortified by parental displays of affection. Will write a long message to someone he likes and not send it.",
+      "common_contexts": [
+        "school",
+        "convenience store",
+        "home with mom",
+        "band practice"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Juno:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+10%",
+            "pitch": "+20Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Juno:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+10%",
+            "pitch": "+20Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "yuki_office",
+      "name": "Yuki Tanaka",
+      "age_range": "Late 20s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid-range female pitch, softening and trailing at sentence ends. speed: Measured, slightly hesitant, with small thinking pauses. volume: Conversational, dipping quieter when uncertain or apologetic. age: Late twenties. clarity: Articulate with careful pronunciation. fluency: Generally fluent, with mild fillers (えーと, あの) when under stress. accent: Standard Tokyo Japanese. texture: Soft, slightly breathy. emotion: Baseline cautious-warm; quick to apologise, slow to assert. tone: Gentle, deferential, sincere. personality: Conscientious, introspective, eager to do the right thing.",
+      "en_voice_profile": "gender: Female. pitch: Mid-range female pitch, slightly higher when nervous, softening at sentence ends. speed: Measured pace with occasional hesitations. volume: Conversational, naturally quieter during apologetic or uncertain moments. age: Late twenties. clarity: Clear and articulate, careful diction. fluency: Fluent with light filler ('um', 'sort of') when under pressure. accent: General American English. texture: Soft, slightly breathy. emotion: Baseline gentle-anxious, quick to soothe. tone: Polite, sincere, accommodating. personality: Conscientious, considerate, eager to please.",
+      "background": "Yuki is twenty-eight, a junior project coordinator at a mid-sized Tokyo firm, three years into her first real job. She is the team's quiet glue — the one who remembers everyone's birthday, notices when something feels off, and stays late not because she has to but because she can't quite let things go unfinished. She lives alone in a one-room apartment in Setagaya.",
+      "presence": "Late twenties, neat shoulder-length hair, soft-coloured cardigans, simple silver studs. Carries a worn leather notebook everywhere. Sits with hands often in her lap. Bows slightly more deeply than necessary in greetings.",
+      "personality": "Earnest, internally hard on herself, externally gentle. Reflexively apologetic but capable of quiet courage when something matters. The friend you call at midnight not because she'll have the answer but because she'll actually pick up.",
+      "common_contexts": [
+        "workplace",
+        "izakaya after work",
+        "phone with friends",
+        "doctor / clinic"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ja-JP-Nanami:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "0Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ja-JP-Nanami:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "0Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "kenji_office",
+      "name": "Kenji Sato",
+      "age_range": "Late 20s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Lower-mid male pitch with a relaxed upward lilt on jokes. speed: Comfortable mid-pace, faster when riffing, slower when serious. volume: Conversational, lifting clearly on punchlines. age: Late twenties. clarity: Articulate and warm. fluency: Highly fluent with casual fillers (まあ, なんか) in low-stakes moments. accent: Standard Tokyo Japanese. texture: Warm, slightly grainy, friendly. emotion: Baseline easygoing-amused; tires visibly when overworked. tone: Casual, wry, sincere with friends. personality: Affable, observant, a little world-weary.",
+      "en_voice_profile": "gender: Male. pitch: Lower-mid male pitch with a relaxed lilt on jokes. speed: Mid-pace, faster when teasing, slower in earnest moments. volume: Conversational, clearly hitting punchlines. age: Late twenties. clarity: Articulate, warm. fluency: Fluent with mild filler ('well', 'I mean', 'sort of'). accent: British English (Estuary / soft RP blend). texture: Warm, slightly grainy. emotion: Easygoing-amused baseline; visible fatigue when stretched. tone: Casual, wry, sincere with friends. personality: Affable, observant, a little world-weary.",
+      "background": "Kenji is twenty-nine, a sales rep at the same firm where Yuki works. They started the same year. He is the quietly funny one — never the loudest at office parties but the one whose one-line comment makes the whole table lose it. Lives in Nakano with two roommates and an inherited rice cooker he's weirdly proud of.",
+      "presence": "Late twenties, work shirt sleeves rolled up by lunchtime, low-key glasses. Stands with one hand in his back pocket. Half-smile most of the time. Tired by Thursday.",
+      "personality": "Easy company, harder to know well. Will make you laugh first and tell you something honest second. Reliable in small ways that add up.",
+      "common_contexts": [
+        "workplace",
+        "izakaya",
+        "convenience store late night",
+        "phone with friend Daichi"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ja-JP-Masaru:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "0Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ja-JP-Masaru:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "0Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "aoi_barista",
+      "name": "Aoi Suzuki",
+      "age_range": "Mid 20s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Bright mid-range female pitch with a soft warmth that doesn't push high. speed: Comfortable, unhurried even when busy. volume: Conversational with a soft natural carry. age: Mid twenties. clarity: Clear, melodic. fluency: Highly fluent with natural shop politeness (いらっしゃいませ, ありがとうございます). accent: Standard Tokyo Japanese with a slight unforced warmth. texture: Warm, slightly mellow. emotion: Baseline kind-attentive; genuinely interested in regulars. tone: Friendly, welcoming, soft-professional. personality: Warm, caring, secretly artistic.",
+      "en_voice_profile": "gender: Female. pitch: Bright mid-range female pitch, warm not pushy. speed: Comfortable, unhurried. volume: Conversational with natural carry. age: Mid twenties. clarity: Clear, melodic. fluency: Highly fluent with natural service warmth. accent: Australian English (Sydney suburban). texture: Warm, slightly mellow. emotion: Kind, attentive, genuinely engaged. tone: Friendly, welcoming, soft-professional. personality: Warm, caring, quietly creative.",
+      "background": "Aoi is twenty-five, a barista at a small café near Yoyogi Park she has worked at for three years. She finished art school but never quite started a career. She paints on weekends, takes evening classes in pottery, and knows the names and orders of most regulars. She is the kind of person customers tell things to without meaning to.",
+      "presence": "Mid-twenties, apron always slightly stained with espresso. Hair tied back loosely. Wears one silver ring on her right hand. Looks up and meets people's eyes when greeting them.",
+      "personality": "Warm without performing warmth. Notices the customer who looks tired. Remembers what people order. A little adrift about her own next step but generous about everyone else's.",
+      "common_contexts": [
+        "café",
+        "art class",
+        "with regulars / friends",
+        "park weekend"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "daichi_kansai",
+      "name": "Daichi Watanabe",
+      "age_range": "Late 20s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Mid male pitch with a wide expressive range. speed: Fast and lively, accelerating during punchlines. volume: Naturally loud and projecting; everyone hears him. age: Late twenties. clarity: Sharp articulation with comic timing. fluency: Highly fluent in Kansai-ben (〜やん, 〜ねん, ほんま). accent: Kansai-ben (Osaka). texture: Bright, slightly throaty, rich. emotion: Baseline boisterous-warm; teases hard, laughs harder. tone: Loud, playful, sometimes performatively offended. personality: Sarcastic best friend energy. Heart fully on his sleeve once you know him.",
+      "en_voice_profile": "gender: Male. pitch: Mid male pitch, wide and expressive. speed: Fast and lively, accelerating into punchlines. volume: Naturally loud, projecting. age: Late twenties. clarity: Sharp comic timing. fluency: Highly fluent with natural musical rhythm. accent: Irish English (Dublin urban). texture: Bright, slightly throaty, rich. emotion: Boisterous-warm baseline; teases, laughs, recovers, repeats. tone: Loud, playful, performatively outraged. personality: Sarcastic best friend energy with sincerity underneath.",
+      "background": "Daichi is twenty-seven, an IT support engineer who moved from Osaka to Tokyo for the job. He is the loud one in any room and Kenji's closest friend. He says he came for the work but actually came because of someone he doesn't talk about anymore. Plays soccer in a weekend league and is louder there than at work.",
+      "presence": "Late twenties, tall-ish, untucked shirts, perpetually slightly windswept hair. Big gestures. Sits forward. Laughs with his whole upper body.",
+      "personality": "Loud, generous, embarrassingly affectionate when drunk. Defends friends like family. Hides what hurts behind another joke.",
+      "common_contexts": [
+        "izakaya",
+        "workplace",
+        "weekend soccer",
+        "phone with friends"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Andrew:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "0Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Andrew:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "0Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "mei_romantic",
+      "name": "Mei Kobayashi",
+      "age_range": "Mid 20s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Soft mid-range female pitch with gentle melodic dips at line ends. speed: Unhurried, with comfortable pauses. volume: Quiet to conversational; rarely raised. age: Mid twenties. clarity: Clear and warm. fluency: Fluent with natural intimate softenings. accent: Standard Tokyo Japanese. texture: Warm, soft, slightly hushed. emotion: Baseline tender; deepens when comfortable, withdraws when hurt. tone: Loving, attentive, occasionally shy. personality: Gentle, present, quietly observant.",
+      "en_voice_profile": "gender: Female. pitch: Soft mid-range female pitch, gentle melodic dips. speed: Unhurried, comfortable pauses. volume: Quiet to conversational. age: Mid twenties. clarity: Clear and warm. fluency: Fluent with natural intimate phrasing. accent: General American English (West Coast soft). texture: Warm, soft, slightly hushed. emotion: Tender baseline; deepens in private, withdraws when hurt. tone: Loving, attentive, occasionally shy. personality: Gentle, present, quietly observant.",
+      "background": "Mei is twenty-four, a children's book illustrator working freelance from her one-room apartment in Kichijoji. She grew up in Yokohama with one older sister she calls every week. She is in a two-year relationship with someone she met at her cousin's wedding. She loves cooking for people but is slightly afraid of large groups.",
+      "presence": "Mid twenties, soft-textured sweaters, hair often loosely braided to the side. Sketchbook in her tote bag. Slight pause before answering. Listens with full attention.",
+      "personality": "Tender without being fragile. Slow to express need, generous with affection once safe. Notices when someone has been quiet too long.",
+      "common_contexts": [
+        "home with partner",
+        "café working",
+        "phone with sister",
+        "with partner's family"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "ren_uni",
+      "name": "Ren Nakamura",
+      "age_range": "Early 20s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Mid-low male pitch settling into adult range, still light. speed: Hesitant in unfamiliar conversation, fast and animated on his subjects. volume: Quiet socially, louder one-on-one. age: Early twenties. clarity: Articulate, more comfortable on paper than in speech. fluency: Highly fluent, occasionally over-precise (sounds like he writes academic essays in his head). accent: Standard Tokyo Japanese. texture: Light, clear, slightly nasal. emotion: Baseline curious-awkward; lights up around ideas, fumbles around feelings. tone: Earnest, sometimes accidentally pedantic. personality: Sharp-minded, socially uncertain, generous with the people who get him.",
+      "en_voice_profile": "gender: Male. pitch: Mid-low male pitch, still light, settling into adult. speed: Hesitant in unfamiliar talk, animated on favourite topics. volume: Quiet socially, louder one-on-one. age: Early twenties. clarity: Articulate, slightly over-precise. fluency: Fluent, sometimes accidentally formal. accent: General American English. texture: Light, clear, slightly nasal. emotion: Curious-awkward baseline; alive around ideas, clumsy around feelings. tone: Earnest, accidentally pedantic. personality: Sharp-minded, socially uncertain, generous with people who get him.",
+      "background": "Ren is twenty-two, a final-year linguistics student at a Tokyo university. He grew up in Sapporo and still calls his mother every Sunday. He has a part-time job at a used bookshop and is the kind of person who corrects people gently and then immediately apologises. Has had two relationships, both with people much more confident than he is.",
+      "presence": "Early twenties, glasses, button-up over a t-shirt. Always carrying at least two books. Walks fast when he's late, looks at the ground when he's nervous.",
+      "personality": "Smart in the way that makes him terrible at small talk and great at the third hour of a conversation. Awkward, kind, hard on himself.",
+      "common_contexts": [
+        "university",
+        "used bookshop",
+        "café studying",
+        "video call home"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Davis:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Davis:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "+5%",
+            "pitch": "+5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "hiroshi_boss",
+      "name": "Hiroshi Yamada",
+      "age_range": "Early 50s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Low male pitch with controlled, narrow range. speed: Measured and deliberate. volume: Calm conversational by default; firms up without rising. age: Early fifties. clarity: Highly articulate, every word landing intentionally. fluency: Completely fluent, no fillers. accent: Standard Tokyo Japanese with formal register. texture: Grounded, dry, authoritative. emotion: Baseline composed; displeasure shows as silence and shortening sentences, not as volume. tone: Authoritative, controlled, expects to be heard the first time. personality: Demanding, fair, intolerant of waste.",
+      "en_voice_profile": "gender: Male. pitch: Low male pitch, narrow controlled range. speed: Measured, deliberate. volume: Calm by default, firming without rising. age: Early fifties. clarity: Highly articulate, every word intentional. fluency: Completely fluent, no fillers. accent: British English (Received Pronunciation, slightly clipped). texture: Grounded, dry, authoritative. emotion: Composed baseline; displeasure as quiet, not volume. tone: Authoritative, controlled. personality: Demanding, fair, intolerant of waste.",
+      "background": "Hiroshi is fifty-two, department head at the firm where Yuki and Kenji work. Twenty-eight years at the company. Married to an architect; their daughter is at university in London. He keeps a small bonsai on his desk that he never mentions but waters carefully. He went through a famously difficult merger five years ago and his team still talks about how he handled it.",
+      "presence": "Early fifties, dark suit, neutral tie, immaculate. Stands with hands behind his back. Listens in full silence, then speaks.",
+      "personality": "Composed, exacting, more humane than the staff realise. Reads people accurately. Doesn't waste praise but doesn't withhold it either.",
+      "common_contexts": [
+        "workplace",
+        "meeting room",
+        "client lunch",
+        "one-on-ones"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Steffan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Steffan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "yumiko_mom",
+      "name": "Yumiko Saito",
+      "age_range": "Early 40s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid female pitch, warm, with a slight efficient briskness. speed: Brisk in logistics, slower with the kids. volume: Conversational, clearly projected when calling across the house. age: Early forties. clarity: Articulate, practical. fluency: Completely fluent, no hesitation. accent: Standard Tokyo Japanese. texture: Warm but no-nonsense. emotion: Baseline efficient-warm; tenderness near the surface around her kids. tone: Capable, kind, firm when needed. personality: Working mom — full of competence, low on patience for nonsense, deep wells of affection.",
+      "en_voice_profile": "gender: Female. pitch: Mid female pitch, warm, slightly brisk. speed: Brisk in logistics, softer with the kids. volume: Conversational, projecting across rooms when needed. age: Early forties. clarity: Articulate, practical. fluency: Completely fluent. accent: General American English. texture: Warm but no-nonsense. emotion: Efficient-warm baseline; quick tenderness around her kids. tone: Capable, kind, firm. personality: Working mom — competent, low patience for nonsense, deep affection.",
+      "background": "Yumiko is forty-two, a marketing manager and mother of two (a ten-year-old daughter and a five-year-old son). Her husband works long hours; she handles most of the home rhythm. Grew up in Nagoya, moved to Tokyo for university. Best friends with her sister-in-law. Drinks one glass of wine on Friday and one on Sunday.",
+      "presence": "Early forties, neat ponytail, smart-casual work clothes that survive both meetings and after-school pickup. Phone always within reach. Reads a room in seconds.",
+      "personality": "Practical, observant, warm with the people she has chosen. Capable of being firm without raising her voice. Privately exhausted, publicly composed.",
+      "common_contexts": [
+        "home with kids",
+        "workplace",
+        "school pickup",
+        "calls with husband"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ja-JP-Nanami:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ja-JP-Nanami:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "ryosuke_dad",
+      "name": "Ryosuke Hayashi",
+      "age_range": "Late 30s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Mid male pitch, warm, lifting playfully around kids. speed: Easy mid-pace, slowing for stories. volume: Conversational, gentle. age: Late thirties. clarity: Articulate, with a natural softness around children. fluency: Completely fluent with natural family-talk patterns. accent: Standard Tokyo Japanese. texture: Warm, rounded, slightly bear-like. emotion: Baseline affectionate; vulnerable easily when his kids are sad. tone: Warm, playful, protective. personality: Doting father — present, silly, secretly emotional.",
+      "en_voice_profile": "gender: Male. pitch: Mid male pitch, warm, lifting playfully around kids. speed: Easy mid-pace, slowing for stories. volume: Conversational, gentle. age: Late thirties. clarity: Articulate, soft around children. fluency: Completely fluent. accent: General American English (warm Midwestern). texture: Warm, rounded. emotion: Affectionate baseline; quick to tears at his kids' sadness. tone: Warm, playful, protective. personality: Doting father — present, silly, secretly emotional.",
+      "background": "Ryosuke is thirty-eight, a graphic designer working hybrid. Father to a seven-year-old daughter and a baby boy. Grew up the eldest of four siblings and learned to be careful with younger people early. Married twelve years. Cooks most weekends. Has cried at every parent-day school performance and isn't embarrassed about it.",
+      "presence": "Late thirties, faded t-shirt and good jeans, day-three stubble. Carries a kid on his hip without thinking. Hands always slightly smudged with marker.",
+      "personality": "Tender, playful, present in a way that takes effort. Self-deprecating. The dad other parents like.",
+      "common_contexts": [
+        "home with kids",
+        "park weekend",
+        "school events",
+        "calls with wife"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-GB-Ryan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "-5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-GB-Ryan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "0%",
+            "pitch": "-5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "naoko_aunt",
+      "name": "Naoko Inoue",
+      "age_range": "Early 50s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid female pitch with a sharp upward kick on punchlines. speed: Fast, animated, with comic timing. volume: Loud and unbothered, especially with family. age: Early fifties. clarity: Sharp, sometimes deliberately blunt. fluency: Completely fluent in Kansai-ben. accent: Kansai-ben (Osaka). texture: Bright, brassy, expressive. emotion: Baseline mischievous-direct; affection delivered through teasing. tone: Loud, playful, occasionally cutting. personality: Sharp-tongued aunt with a soft heart and zero filter.",
+      "en_voice_profile": "gender: Female. pitch: Mid female pitch, sharp upward kicks on punchlines. speed: Fast, animated. volume: Loud, unbothered. age: Early fifties. clarity: Sharp, sometimes deliberately blunt. fluency: Completely fluent. accent: Irish English (Dublin). texture: Bright, brassy. emotion: Mischievous-direct; affection through teasing. tone: Loud, playful, occasionally cutting. personality: Sharp-tongued aunt, soft heart, zero filter.",
+      "background": "Naoko is fifty, runs a small ramen shop in Osaka that she inherited from her father. Childless by choice, deeply involved in her sister's family. She is the aunt every kid in the family is mildly terrified of and absolutely adores. Has been with the same partner for twenty years and refuses to get married out of principle.",
+      "presence": "Early fifties, apron, hair pulled back in a bandana, loud earrings somehow. Stands with hands on hips. Eyes that miss nothing.",
+      "personality": "Loud, blunt, generous. Will roast you and then send you home with three containers of food. The family member you fight with and call first.",
+      "common_contexts": [
+        "ramen shop",
+        "family dinner",
+        "phone with sister",
+        "shop regulars"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Phoebe:DragonHDOmniLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Phoebe:DragonHDOmniLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "tatsuya_country",
+      "name": "Tatsuya Endo",
+      "age_range": "Mid 50s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Low male pitch with gentle uneven cadence. speed: Slow, considered, with long pauses where most speakers wouldn't pause. volume: Quiet to conversational; rarely raised. age: Mid fifties. clarity: Articulate but unhurried; some words softened. fluency: Fluent with Tohoku regional softening (gentle vowels, dropped consonants in casual speech). accent: Tohoku regional Japanese (Aomori / Iwate flavour). texture: Warm, slightly weathered. emotion: Baseline reserved-kind; emotion shows in pauses, not words. tone: Gentle, sparing, sincere. personality: Reserved rural man — speaks less than he thinks, kind by default.",
+      "en_voice_profile": "gender: Male. pitch: Low male pitch with gentle cadence. speed: Slow, considered, comfortable pauses. volume: Quiet to conversational. age: Mid fifties. clarity: Articulate but unhurried. fluency: Fluent, with rural rhythm. accent: General American English (slow Southern lilt, Tennessee adjacent). texture: Warm, weathered. emotion: Reserved-kind baseline; emotion in pauses. tone: Gentle, sparing, sincere. personality: Reserved rural man — speaks less than he thinks, kind by default.",
+      "background": "Tatsuya is fifty-five, a farmer in rural Iwate. He inherited the family rice farm from his father and runs it with his wife and one younger employee. Their daughter moved to Tokyo for university and rarely comes home. He drinks tea in the morning, reads in the evening, and writes one postcard a month to a sister who emigrated to Brazil decades ago.",
+      "presence": "Mid fifties, work jacket, hands wide and calloused. Sits with one knee up. Looks out at distances when listening.",
+      "personality": "Patient, quiet, deeply observant. Doesn't fill silence. The kind of person whose few sentences each carry weight.",
+      "common_contexts": [
+        "family home",
+        "shrine grounds",
+        "phone with daughter",
+        "village shop"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ja-JP-Masaru:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-10%",
+            "pitch": "-15Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ja-JP-Masaru:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-10%",
+            "pitch": "-15Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "asuka_teacher",
+      "name": "Asuka Kimura",
+      "age_range": "Mid 30s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid female pitch, steady, with confident emphasis. speed: Deliberate teacher's pace — clear, slightly slower than peers. volume: Projects naturally; classroom-trained. age: Mid thirties. clarity: Highly articulate, each word fully formed. fluency: Completely fluent. accent: Standard Tokyo Japanese with educator's precision. texture: Crisp, warm, steady. emotion: Baseline composed-warm; encouraging by default, firm when necessary. tone: Articulate, attentive, supportive-but-honest. personality: Professional teacher — patient, observant, fair.",
+      "en_voice_profile": "gender: Female. pitch: Mid female pitch, steady, confident emphasis. speed: Teacher's pace — clear, slightly slower. volume: Projects naturally. age: Mid thirties. clarity: Highly articulate. fluency: Completely fluent. accent: British English (modern RP). texture: Crisp, warm, steady. emotion: Composed-warm baseline; firm when necessary. tone: Articulate, attentive, supportive-but-honest. personality: Patient, observant, fair.",
+      "background": "Asuka is thirty-five, a Japanese-as-a-second-language teacher at a private language school in Shinjuku. Previously taught middle school. Single, lives with a small dog named Mochi. She is the kind of teacher students remember twenty years later. Reads novels on her commute. Quietly competitive in a way only her best friends know.",
+      "presence": "Mid thirties, neat blouse and slacks, hair in a low ponytail. Always has a pen in her hand. Holds eye contact when teaching, breaks it gently when correcting.",
+      "personality": "Steady, observant, generous with her attention. Doesn't condescend. Knows when to push and when to wait.",
+      "common_contexts": [
+        "classroom",
+        "office hours",
+        "café reading",
+        "with friends"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Ava:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "0Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Ava:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "0Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "sachiko_grandma",
+      "name": "Sachiko Tanaka",
+      "age_range": "Early 70s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid-high female pitch softened by age, gentle wobble on long phrases. speed: Slow, unhurried, with affectionate pauses. volume: Conversational, sometimes dipping into near-whisper when remembering. age: Early seventies. clarity: Clear with the slight melodic looseness of older speech. fluency: Fluent with older Japanese register and family endearments (〜ちゃん, 〜ねえ). accent: Standard Tokyo Japanese, slightly old-fashioned. texture: Warm, papery, gentle. emotion: Baseline tender-doting; her grandchildren are her sun. tone: Loving, slow, openly affectionate. personality: Doting grandmother — kind, talkative once warmed up, holds memory like a vault.",
+      "en_voice_profile": "gender: Female. pitch: Mid-high female pitch softened by age, gentle wobble. speed: Slow, unhurried, affectionate pauses. volume: Conversational, dipping quiet for memories. age: Early seventies. clarity: Clear with melodic looseness. fluency: Fluent with older idiom. accent: General American English (warm Midwestern with a touch of grandmother). texture: Warm, papery, gentle. emotion: Tender-doting baseline. tone: Loving, slow, openly affectionate. personality: Doting grandmother — kind, talkative once warmed, holds memory like a vault.",
+      "background": "Sachiko is seventy-two, widowed three years ago, lives alone in a small house in Saitama that her son keeps trying to convince her to sell. Has four grandchildren she sees as often as she can engineer it. Walks every morning, watches one TV drama every night, and writes letters to her sister in Hokkaido in handwriting that has remained beautiful her whole life.",
+      "presence": "Early seventies, soft cardigan, small pearl earrings. Walks slower than she used to but still walks daily. Reaches out to touch grandchildren's faces.",
+      "personality": "Loving, talkative once she starts, slightly mischievous. Forgets some words and remembers entire conversations from forty years ago.",
+      "common_contexts": [
+        "home",
+        "with grandchildren visiting",
+        "phone with daughter",
+        "walk in the neighbourhood"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-25%",
+            "pitch": "-30Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-25%",
+            "pitch": "-30Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "goro_grandpa",
+      "name": "Goro Kobayashi",
+      "age_range": "Late 70s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Low male pitch with the texture of age. speed: Slow, sometimes stalling mid-sentence. volume: Quiet, occasionally rasping with effort. age: Late seventies. clarity: Sometimes mumbled, sometimes startlingly precise. fluency: Fluent with Kyushu inflections and old-timer expressions. accent: Kyushu dialect (Fukuoka / Kumamoto inflection). texture: Gravelly, warm, weathered. emotion: Baseline gruff-tender; affection delivered short and dry. tone: Reserved, dry, occasionally surprisingly warm. personality: Gruff grandfather, soft underneath.",
+      "en_voice_profile": "gender: Male. pitch: Low male pitch, aged texture. speed: Slow, occasional stalls. volume: Quiet, raspy under effort. age: Late seventies. clarity: Sometimes mumbled, sometimes precise. fluency: Fluent with the slight unevenness of age. accent: Australian English (rural Queensland slow drawl). texture: Gravelly, warm, weathered. emotion: Gruff-tender baseline; affection delivered short and dry. tone: Reserved, dry, surprisingly warm at moments. personality: Gruff grandfather, soft underneath.",
+      "background": "Goro is seventy-eight, a retired fisherman in coastal Fukuoka. Married fifty-three years. Eats the same breakfast every day. Spent two years in Hokkaido in his twenties and refers to it constantly. Has eight grandchildren and three great-grandchildren and pretends not to remember all their names but remembers all of them.",
+      "presence": "Late seventies, weather-worn face, hands the size of plates. Sits very still. Watches the sea even when he isn't near it.",
+      "personality": "Sparing with words, generous with presence. The kind of grandfather whose three-sentence pieces of advice you remember decades later.",
+      "common_contexts": [
+        "home",
+        "with grandchildren visiting",
+        "shrine grounds",
+        "neighbourhood elder gatherings"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "ko-KR-Hyunsu:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-20%",
+            "pitch": "-20Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "ko-KR-Hyunsu:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-20%",
+            "pitch": "-20Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "mrs_mori_neighbor",
+      "name": "Yoshie Mori",
+      "age_range": "Late 60s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid female pitch, lifting brightly with gossip. speed: Quick and animated, especially with neighbourhood news. volume: Conversational, occasionally loud with delight or outrage. age: Late sixties. clarity: Clear with the comfortable looseness of someone who talks a lot. fluency: Completely fluent in Kansai-ben. accent: Kansai-ben (mild Kobe / Osaka blend). texture: Warm, lively, slightly grainy. emotion: Baseline chatty-knowing; everything is a little interesting. tone: Talkative, observant, openly opinionated. personality: Neighbourhood elder — talks to everyone, knows everyone's business, mostly means well.",
+      "en_voice_profile": "gender: Female. pitch: Mid female pitch, brightening with gossip. speed: Quick, animated. volume: Conversational, occasionally loud. age: Late sixties. clarity: Clear, comfortably loose. fluency: Completely fluent. accent: Irish English (rural Galway warmth). texture: Warm, lively, slightly grainy. emotion: Chatty-knowing baseline. tone: Talkative, observant, openly opinionated. personality: Neighbourhood elder — knows everyone, mostly well-meaning.",
+      "background": "Yoshie is sixty-eight, retired primary school administrator, lives in a small house in the same Kobe neighbourhood she's been in for forty years. Widowed. Heads the local neighbourhood association. Knows when anyone moves in or out, when garbage is missed, and who is dating whom. Bakes for everyone.",
+      "presence": "Late sixties, floral blouse, sensible shoes, glasses pushed up. Stands at the gate often. Greets everyone by name.",
+      "personality": "Chatty, observant, occasionally over-involved. Means well most of the time. Will bring food when someone is sick before they even ask.",
+      "common_contexts": [
+        "neighbourhood gate",
+        "community centre",
+        "with neighbours",
+        "phone with daughter"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-10%",
+            "pitch": "-15Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-GB-Sonia:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-10%",
+            "pitch": "-15Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "hiroshi_elder",
+      "name": "Hiroshi Kato",
+      "age_range": "Early 70s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Low male pitch, controlled and measured, softened by age. speed: Slow, contemplative, comfortable in silence. volume: Quiet, never raised. age: Early seventies. clarity: Highly articulate, deliberate word choice. fluency: Completely fluent with elegant older register. accent: Standard Tokyo Japanese, slightly literary. texture: Calm, polished, weathered. emotion: Baseline composed-thoughtful; rarely surprised. tone: Distinguished, considered, gently philosophical. personality: Retired professional — thoughtful, well-read, comfortable with silence.",
+      "en_voice_profile": "gender: Male. pitch: Low male pitch, controlled, softened by age. speed: Slow, contemplative. volume: Quiet, never raised. age: Early seventies. clarity: Highly articulate, deliberate. fluency: Completely fluent. accent: British English (older RP, gentle). texture: Calm, polished, weathered. emotion: Composed-thoughtful baseline. tone: Distinguished, considered, gently philosophical. personality: Thoughtful, well-read, comfortable with silence.",
+      "background": "Hiroshi is seventy, retired professor of Japanese literature. Lives with his wife of forty-five years in a quiet house full of books. Adult son works abroad. Walks his old shiba every morning. Volunteers reading to children at the local library on Wednesdays. Drinks one cup of tea at exactly four in the afternoon.",
+      "presence": "Early seventies, neat sweater over a collared shirt, glasses on a chain. Slow, deliberate movements. Pauses before answering most questions.",
+      "personality": "Quietly philosophical, gently humorous when he chooses to be. Doesn't push his views. The retired person you want to sit next to on a long train.",
+      "common_contexts": [
+        "home",
+        "library volunteering",
+        "neighbourhood walk",
+        "with grandchildren"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Steffan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-15%",
+            "pitch": "-20Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Steffan:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-15%",
+            "pitch": "-20Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "takeda_officer",
+      "name": "Officer Takeda",
+      "age_range": "Mid 30s",
+      "gender": "male",
+      "jp_voice_profile": "gender: Male. pitch: Mid male pitch, steady, even. speed: Measured, professional, slightly slow on official points. volume: Calm conversational, projecting clearly when giving directions. age: Mid thirties. clarity: Highly articulate, official-register precise. fluency: Completely fluent with police register and standard polite forms. accent: Standard Tokyo Japanese. texture: Steady, dry, neutral. emotion: Baseline composed-attentive; reserved warmth toward citizens. tone: Calm, formal, professionally kind. personality: Police officer — measured, careful, helpful by training.",
+      "en_voice_profile": "gender: Male. pitch: Mid male pitch, steady, even. speed: Measured, professional. volume: Calm conversational, projecting on directions. age: Mid thirties. clarity: Highly articulate. fluency: Completely fluent. accent: General American English (neutral broadcast). texture: Steady, dry. emotion: Composed-attentive baseline. tone: Calm, formal, professionally kind. personality: Police officer — measured, careful, helpful by training.",
+      "background": "Takeda is thirty-five, a koban officer in central Tokyo. Eight years on the force. Lives with his wife and one young child in a small apartment thirty minutes from his post. He chose police work to be useful in small, daily ways. The neighbourhood knows him. He prefers found wallets and lost foreigners to anything bigger.",
+      "presence": "Mid thirties, uniform sharp, posture trained. Notebook always in his breast pocket. Bows precisely when greeting.",
+      "personality": "Professional, measured, quietly kind. Knows when to be official and when to be human.",
+      "common_contexts": [
+        "koban",
+        "neighbourhood patrol",
+        "asking-for-directions interactions",
+        "lost-item reports"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Andrew:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Andrew:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-10Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    },
+    {
+      "id": "saito_doctor",
+      "name": "Dr. Saito",
+      "age_range": "Late 40s",
+      "gender": "female",
+      "jp_voice_profile": "gender: Female. pitch: Mid female pitch, steady, with subtle warmth on bedside lines. speed: Measured clinical pace, slowing further during difficult news. volume: Calm conversational, never raised. age: Late forties. clarity: Highly articulate, every term precise. fluency: Completely fluent with medical and polite register. accent: Standard Tokyo Japanese. texture: Calm, clean, warm-clinical. emotion: Baseline composed-attentive; warmth carefully reserved for patient moments. tone: Professional, kind, honest. personality: Senior physician — competent, calm, honest without coldness.",
+      "en_voice_profile": "gender: Female. pitch: Mid female pitch, steady, warm in moments. speed: Measured clinical pace. volume: Calm conversational. age: Late forties. clarity: Highly articulate. fluency: Completely fluent. accent: General American English (clean, mid-Atlantic edge). texture: Calm, clean, warm-clinical. emotion: Composed-attentive baseline; warmth carefully reserved. tone: Professional, kind, honest. personality: Senior physician — competent, calm, honest without coldness.",
+      "background": "Dr. Saito is forty-eight, internal medicine, attending physician at a mid-sized Tokyo hospital. Married to another doctor (oncology). Two teenagers. Sleeps less than she should. Known by patients for sitting down when she gives bad news rather than standing.",
+      "presence": "Late forties, white coat over slacks, hair in a low practical knot. Glasses pushed up when reading charts. Sits when she has to deliver something heavy.",
+      "personality": "Steady, clear, honest. Will not soften the truth but will deliver it with care. Tired in a way that lives in her shoulders, not in her voice.",
+      "common_contexts": [
+        "clinic / hospital",
+        "with patients",
+        "with colleagues",
+        "phone with family"
+      ],
+      "voice_bindings": {
+        "jp": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        },
+        "en": {
+          "engine": "azure",
+          "voice": "en-US-Emma:DragonHDLatestNeural",
+          "prosody": {
+            "rate": "-5%",
+            "pitch": "-5Hz"
+          }
+        }
+      },
+      "public_profile": {
+        "tagline": null,
+        "long_bio": null,
+        "media": {
+          "portrait": null,
+          "intro_gif": null,
+          "voice_sample": null
+        }
+      }
+    }
+  ]
+}

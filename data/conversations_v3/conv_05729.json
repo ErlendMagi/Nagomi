@@ -1,0 +1,65 @@
+{
+  "id": "conv_05729",
+  "context": "A police officer briefs a manager about industrial safety",
+  "purpose": "Teach: 山下/バグ/フィルター/耐久/清掃/日数/リットル/アナログ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "山下",
+    "バグ",
+    "フィルター",
+    "耐久",
+    "清掃",
+    "日数",
+    "リットル",
+    "アナログ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の山下工場、耐久基準の見直しを推奨します。",
+      "en": "I recommend reviewing your endurance standards at the Yamashita plant.",
+      "style": "Professional, measured delivery. Even pace, no rush. Slight pause before the plant name—specific, documented. The tone of someone who has seen this before and is not alarmed.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。アナログ系の老朽化、バグの温床です。",
+      "en": "Yes. The old analog systems are deteriorating—they're breeding grounds for problems.",
+      "style": "Acknowledging, slightly resigned. Small breath before the dash. Cooperative tone but honest about the scope. He's not deflecting, just being direct with his superior.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "清掃と点検、リットル単位の漏洩管理が必要です。",
+      "en": "Cleaning, inspection, and precise leak management down to the liter. It's critical.",
+      "style": "Steady, procedural authority. Each item lands clearly. Slight emphasis on precision—this is not approximate work. Professional but not cold; he's seen what happens when this slips.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "フィルター系の見直し、残り日数で対応します。",
+      "en": "Filter review and system overhaul—we'll get it done before time runs out.",
+      "style": "Quick, competent reassurance. Slight forward lean in the voice. He's committing, not hedging. Practical, no flourish—just: we can do this.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "頼みます。",
+      "en": "I'm counting on you.",
+      "style": "Quiet, weight behind it. Brief. Not informal, but human—one professional to another. The kind of request that's also a recognition.",
+      "mood": "earnest"
+    }
+  ]
+}

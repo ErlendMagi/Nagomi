@@ -1,0 +1,86 @@
+{
+  "id": "conv_06761",
+  "context": "Two friends chat",
+  "purpose": "Teach: お誘い/腕時計/立ち寄っ/ふく/うわさ/閉じる/スリム/じゅう",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "お誘い",
+    "腕時計",
+    "立ち寄っ",
+    "ふく",
+    "うわさ",
+    "閉じる",
+    "スリム",
+    "じゅう"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_340 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お誘い、ありがとうね、来てよかった。",
+      "en": "Aoi, thank you for asking me. I'm so glad I came.",
+      "style": "Warm and present. Soft opening, genuine gratitude that doesn't oversell itself. Slight pause before the last phrase—lingering on the feeling of being included.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。新作の腕時計、メイちゃん、似合うね、お洒落だよ。",
+      "en": "Yeah. That new watch really suits you, Mei. You look stylish.",
+      "style": "Noticing and generous. Soft but genuine—the compliment of someone who actually sees you. Warm without reaching for it. Natural cadence, like she's simply speaking what's true.",
+      "mood": "affectionate"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "帰りに、お祖母ちゃんち、立ち寄ってきたんだ、私。",
+      "en": "I stopped by my grandmother's place on the way home.",
+      "style": "Reflective, slightly distant. Soft middle register. A small pause before the thought completes—like she's settling into the memory. Trailing off gently, not demanding a response.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "テーブル、私、ナプキンで、ふくよ、ちょっと汚れた。",
+      "en": "The table's got a bit of a spill on it—let me wipe that down for you.",
+      "style": "Practical, matter-of-fact. Quick, economical movements in the voice. No fuss, just competent. Light and unforced—the ease of someone doing what needs doing.",
+      "mood": "present_capable"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "彼の浮気、うわさ、本当じゃないって、信じたい、私。",
+      "en": "I want to believe the rumor about him cheating isn't true. I really want to.",
+      "style": "Vulnerable and uncertain. Quiet intensity underneath—fighting not to believe something she fears is real. Hesitation on 'really'—self-doubt creeping in. Trailing off unresolved.",
+      "mood": "wounded_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もう閉店時間ね、お店、閉じる準備、しないと。",
+      "en": "It's almost closing time. I need to start getting the shop ready to shut down.",
+      "style": "Gentle refocus. Not dismissive—genuinely needing to shift gears. Softly firming up, like she's gathering the practical part of herself. Warm but clear boundary.",
+      "mood": "present_duty"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、ジム通いで、本当にスリムになったわね、最近。",
+      "en": "You've been going to the gym so much lately, Aoi. You look really slim these days.",
+      "style": "Bright observation, genuine warmth. Upbeat without being performative. Light recognition—the kind of comment someone makes when they've actually noticed and felt glad about it.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今日は、一日じゅう、忙しかったわよ、私、もう、ヘトヘト。",
+      "en": "Today was non-stop busy. I'm completely exhausted.",
+      "style": "Wry, slightly self-deprecating. Tired but honest. The resignation of a long day catching up. Dry humor at the trailing edge—not complaining, just stating fact with a small smile underneath.",
+      "mood": "exhausted_honest"
+    }
+  ]
+}

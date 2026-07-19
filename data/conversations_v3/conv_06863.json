@@ -1,0 +1,86 @@
+{
+  "id": "conv_06863",
+  "context": "Two teens chat",
+  "purpose": "Teach: 親しく/ノック/バレンタイン/小児科/丸ごと/ひととき/救っ/かなわ",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "親しく",
+    "ノック",
+    "バレンタイン",
+    "小児科",
+    "丸ごと",
+    "ひととき",
+    "救っ",
+    "かなわ"
+  ],
+  "cast": [
+    "sakura_teen",
+    "riku_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_345 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "リク、最近、お前と、親しくなれて、嬉しいよ、私、本当に。",
+      "en": "Riku — I'm really glad we've gotten closer lately. I mean it.",
+      "style": "Soft opening, like she's been holding this and finally said it. Sincere underneath the awkwardness. Quiet, steady eye contact. Slight tremor of vulnerability at the end.",
+      "mood": "sincere_vulnerable"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "うん。職員室のドア、ノックして、入るのって、緊張するよな、いつも。",
+      "en": "Yeah. Knocking on the staff room door and going in — that always makes me nervous, you know?",
+      "style": "Deflection masked as wry observation. He's avoiding the emotional weight of what she just said. Light tone but there's a nervous undercurrent. Quick, almost dismissive pacing.",
+      "mood": "deflecting_nervous"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "今年のバレンタイン、リク、誰かに、貰ったって、聞いたよ、本当?",
+      "en": "Is it true you got chocolate from someone on Valentine's Day this year?",
+      "style": "Deliberate, probing tone — she's testing whether he'll actually answer. Not accusatory, but curious with an edge. Leans in slightly. Watching his reaction.",
+      "mood": "curious_testing"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "弟、最近、熱出してさ、小児科、連れていく、お母さん、大変だぜ。",
+      "en": "My little brother's had a fever lately, and it's been rough getting him to the pediatrician. Mom's been worn out.",
+      "style": "Sudden topic shift, almost abrupt. Genuine concern underneath. Quieter than before — he's thinking about something that worries him. Reflective, distracted quality. Deflecting again.",
+      "mood": "concerned_deflecting"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お弁当のおにぎり、丸ごと、ぼく、食べちゃった、リク、ごめん、お腹空いて。",
+      "en": "I ate the whole onigiri from your lunch by accident — I was starving, sorry about that.",
+      "style": "Self-deprecating, light confession. Doesn't quite meet his eyes. Fast delivery, trying to slide past it with humor. Awkward energy masked by wryness.",
+      "mood": "apologetic_wry"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "部活前、皆で、ひととき、休憩するの、結構、好きだぜ、俺。",
+      "en": "I really like those moments before club when everyone takes a breather together. Just that small bit of peace.",
+      "style": "Warm, genuine. The first genuinely comfortable thing he's said in this exchange. Slower pace, more grounded. Like he's letting his guard down slightly.",
+      "mood": "content_peaceful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お前、犬を、救ったことあるって、本当?優しいんだね、リク、知らなかった。",
+      "en": "Is it true you saved a dog once? I didn't know you were that kind, Riku.",
+      "style": "Animated surprise — she's delighted by this new information about him. Genuine admiration breaking through. Bright, almost playful. Like she's seeing something in him she didn't expect.",
+      "mood": "surprised_admiring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お前のスポーツの実力には、俺、かなわないよ、桜、本当に、すごいぜ。",
+      "en": "Your athletic ability is something I can't come close to, Sakura. You're really incredible.",
+      "style": "Direct praise, delivered quietly but with conviction. Vulnerable — he's laying something honest down. Slower, deliberate pacing. Eye contact that holds. No deflection this time.",
+      "mood": "sincere_admiring"
+    }
+  ]
+}

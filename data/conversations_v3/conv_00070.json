@@ -1,0 +1,75 @@
+{
+  "id": "conv_00070",
+  "context": "A weekend morning at Aoi's café. Ryosuke comes in with his five-year-old son after a long walk; the kid is asleep in the carrier.",
+  "purpose": "tiny phatic service moment — kindness from one tired adult to another",
+  "ambient": "cafe_morning",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "子供",
+    "大丈夫",
+    "ありがとう"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。…うわ、寝てる、寝てる。",
+      "en": "Welcome — oh wow, he's asleep, completely asleep.",
+      "style": "A delighted whisper, voice dropping half a step the moment she notices the child. Warmth without waking him.",
+      "mood": "charmed"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当に、ようやく。今日、二時間散歩したから。",
+      "en": "Yeah — finally. We did two hours of walking today.",
+      "style": "Quiet, half-laughing through the exhaustion. The relief of sitting down audible in the voice. Eyes soft despite the tiredness.",
+      "mood": "relieved_tired"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お父さん、お疲れさまです。ホット、いつもの？",
+      "en": "You've more than earned it. The usual — hot?",
+      "style": "A gentle smile in the voice. Already moving toward the espresso machine with purposeful warmth. No fuss, just genuine ease.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "はい、ぜひ。本当に、いつもありがとう。",
+      "en": "Yes, please. Really, thank you — for everything.",
+      "style": "A genuine thank-you that lands. Half-leans on the counter in the voice, weight shifting with gratitude for more than just coffee.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お子さん、おいくつでしたっけ？",
+      "en": "How old is your son, by the way?",
+      "style": "A real follow-up, not small talk. The question of someone who notices and actually wants to know. Genuinely curious.",
+      "mood": "interested"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "五歳。…一日が三十時間あったらと、毎日思う。",
+      "en": "Five. …Some days I think that if there were just thirty hours instead of twenty-four, I might actually make it.",
+      "style": "A small, honest joke — the kind that parents share. Real fatigue underneath the humor, but the laugh is genuine and self-aware.",
+      "mood": "wry_exhausted"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(small laugh)わかります。…大丈夫、これ、私のおごり。",
+      "en": "(small laugh) I know the feeling. …Here — this one's on me.",
+      "style": "A small, quiet generosity. Slides the cup across with a genuine smile, no ceremony, no making a big thing of it. Just kindness.",
+      "mood": "warm_generous"
+    }
+  ]
+}

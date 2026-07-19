@@ -1,0 +1,86 @@
+{
+  "id": "conv_06981",
+  "context": "A mom and son chat",
+  "purpose": "Teach: 解い/こぼれ/海老/くれぐれも/元旦/眠気/病人/想い出",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "解い",
+    "こぼれ",
+    "海老",
+    "くれぐれも",
+    "元旦",
+    "眠気",
+    "病人",
+    "想い出"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_351 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、難しいクイズ、自分で、解いたんだよ、本当に、嬉しいんだ、自信、ついたよ。",
+      "en": "Mom — I solved a really hard puzzle all by myself. I'm so happy. I feel so confident now.",
+      "style": "Bright, proud opening with a small lift on the first syllable. Quick pace, eager to share. Breathless slightly at the middle — the excitement bubbling up. Genuine, un-performed.",
+      "mood": "proud_excited"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。お味噌汁、こぼれちゃったわよ、翔くん、気をつけてね、テーブル、拭こうね、ママと一緒に。",
+      "en": "Oh, honey. The miso soup spilled. Be careful, Sho. Let's wipe the table down together, okay?",
+      "style": "Warm redirect. Gentle but attentive — noticing the spill without making it a problem. Soft on the instruction, inviting him into the task like it's a small shared moment.",
+      "mood": "gentle_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夕食の海老、お父さん、本当に、好きなのよね、ママ、たくさん、お皿に、入れてあげようね。",
+      "en": "Dad really loves shrimp for dinner, doesn't he? Mom, let's put a lot on his plate.",
+      "style": "Eager, thoughtful child-voice. Quick bright tone — wanting to help. Small pause before 'Mom' like he's checking if his idea is okay. Genuine care mixed with the simple joy of doing something nice.",
+      "mood": "helpful_bright"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お祖父ちゃんち、くれぐれも、失礼のないように、振る舞ってね、翔くん、お祖父ちゃん、楽しみにしてるから。",
+      "en": "When we go to Grandpa's house, make sure you behave yourself, Sho. He's really looking forward to seeing you.",
+      "style": "Practical and warm, but with quiet weight underneath. Steady pace. Not stern — more like she's preparing him for something that matters. Slight emphasis on 'looking forward,' the real kindness in it.",
+      "mood": "caring_instructive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "元旦、お父さん、休みなんでしょ、ママ、家族で、神社に、初詣、行きたいよ、絶対、お願い。",
+      "en": "Dad has New Year's Day off, doesn't he? Mom, can we all go to the shrine together for our first visit of the year? I really, really want to.",
+      "style": "Animated, hopeful pitch rising slightly at 'off'. Quick eager rhythm. The 'really, really' carries weight — this matters to him. Slight breathiness like he's asking something important, not just a casual request.",
+      "mood": "hopeful_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "眠気、ちょっと、出てきたのね、翔くん、お昼寝、しなさい、ママ、布団、用意するわよ、ゆっくり、休んでね。",
+      "en": "You're getting a little sleepy, aren't you? It's nap time, Sho. Mom will get your futon ready. Take your time and rest.",
+      "style": "Tender, observant. Slow, gentle cadence. Soft consonants. No rush in her voice — like she's giving him permission to rest. Slight warm fade at the end, like tucking him in with her words.",
+      "mood": "tender_protective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "病人さんに、お見舞い、行きたいよ、ママ、お祖母ちゃんの、お友達、入院されてるんでしょ、心配だよ、ぼく。",
+      "en": "I want to go visit someone in the hospital, Mom. Grandma's friend is there, isn't she? I'm worried about her.",
+      "style": "Quiet serious undertone. Thoughtful pacing — this isn't excitement, it's concern. Small hesitation before naming the illness, like he's working through the weight of it. Sincere, genuinely worried.",
+      "mood": "concerned_thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族の想い出、本当に、宝物よね、翔くん、写真、たくさん、残しておきたいわね、ママ、覚えておきたいの、いつも。",
+      "en": "Family memories are really treasures, aren't they, Sho? I want to keep so many photos. I want to remember everything, always.",
+      "style": "Soft, reflective tone. Slower pace, like she's speaking to herself as much as to him. Warm and a little wistful. Slight emphasis on 'always' — quiet determination to hold onto these moments.",
+      "mood": "warm_reflective"
+    }
+  ]
+}

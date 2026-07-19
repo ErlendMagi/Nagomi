@@ -1,0 +1,91 @@
+{
+  "id": "conv_00080",
+  "context": "A small ryokan dining room. Mei is travelling alone after a hard period; the elderly woman across from her (Sachiko, also alone) starts a conversation.",
+  "purpose": "incidental healing — stranger-but-not, brief warmth between two solo travellers",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "一人",
+    "今",
+    "時間",
+    "元気",
+    "大丈夫",
+    "ありがとう"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "mei_romantic"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "お一人で、ご旅行？",
+      "en": "Travelling alone?",
+      "style": "Soft, the wobble of older Tokyo speech. A small smile.",
+      "mood": "soft_smile"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい…そうです。",
+      "en": "Yes… that's right.",
+      "style": "A small startled politeness. Half-bow in the voice.",
+      "mood": "startled_polite"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "私も。…たまには、一人もええもんですよ。",
+      "en": "Me too. …Now and then, alone is nice, you know.",
+      "style": "A small graceful line. Voice quiet.",
+      "mood": "graceful_quiet"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本当に、そうですね。",
+      "en": "Really — that's true.",
+      "style": "A small honest agreement. Eyes lift half a step.",
+      "mood": "honest_lift"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "何かあって、来られたん？",
+      "en": "Did something happen, that you came here?",
+      "style": "A small careful question. No pressure.",
+      "mood": "careful_question"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…ちょっと。色々あって。",
+      "en": "…A little. A few things, you know.",
+      "style": "A small honest answer. Doesn't volunteer.",
+      "mood": "small_answer"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "うん。…元気になるまで、ゆっくりね。",
+      "en": "Mm. …Until you're well — take your time.",
+      "style": "A small grandmother's line. Real — no rush in the delivery.",
+      "mood": "grandmother_real"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…ありがとうございます。本当に、優しい。",
+      "en": "…Thank you. Truly — that's kind.",
+      "style": "A small voice catching half a step.",
+      "mood": "voice_catching"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いえいえ。お時間、しっかり休んで。",
+      "en": "No, no. Just rest properly.",
+      "style": "A small bow inside the voice. Closes warmly.",
+      "mood": "small_bow_close"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "conv_02264",
+  "context": "Naoko complains about a taxi traffic jam to Hina-young.",
+  "purpose": "Aunt venting about everyday annoyance.",
+  "ambient": "taxi_low_traffic",
+  "sound_effects": [],
+  "target_vocab": [
+    "散々",
+    "混雑",
+    "殺到",
+    "ピンチ",
+    "ハラ",
+    "到着",
+    "時計",
+    "ふだん"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "hina_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_114)",
+    "generated_at": "2026-05-27T17:56:38.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ひな、今日、散々な道のりや!",
+      "en": "Hina, what a day! The roads were absolutely brutal!",
+      "style": "Loud, energetic Kansai drawl. Exasperated but affectionate — the kind of complaining that's half-performance. Throws her hands up on the opening. Quick pace, breathless.",
+      "mood": "exhausted_dramatic"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "混雑、すごいですね。",
+      "en": "It really was crowded, wasn't it?",
+      "style": "Quiet, genuine. Eight years old but trying to sound grown-up and helpful. Soft in the chest — she's listening to her aunt more than speaking. Slight upward lift at the end, offering sympathy.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "殺到しとる、駅前、ピンチや!",
+      "en": "People everywhere at the station — what a mess!",
+      "style": "Sharper this time. Still Kansai-flavored but the frustration is real now. Punctuated, loud on 「殺到」. Energy driving forward. No laugh underneath it.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "時計、ようけ気にしてますね。",
+      "en": "You keep checking the time, don't you?",
+      "style": "Observant, gentle. Not accusing — noticing. A child seeing an adult clearly. Soft and steady. The voice of someone who notices what people are really worried about.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ハラ、ようけ立っとるわ!",
+      "en": "My feet are killing me after all that standing!",
+      "style": "Honest complaint, but wrapped in warmth and self-aware humor. A little surrender in it — she's tired and not hiding it. Kansai ease underneath. Slight laugh on herself.",
+      "mood": "weary_honest"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "到着、もう少しで、大丈夫!",
+      "en": "We're almost there — you'll be fine!",
+      "style": "Reassuring but not patronizing. Eight-year-old trying to be the adult in the moment. Warm, steady. A small hand placed on her aunt's arm. Genuine belief underneath.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おう、ふだんから、覚悟しとるわ!",
+      "en": "Yeah, well — that's what you get used to when you do this kind of thing all the time!",
+      "style": "Softer now. A moment of philosophy and acceptance. Kansai warmth, not volume. Self-deprecating ease — she's made peace with her own exhaustion. Trailing off gently, like a quiet laugh at herself.",
+      "mood": "resigned_warm"
+    }
+  ]
+}

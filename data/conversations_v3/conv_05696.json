@@ -1,0 +1,65 @@
+{
+  "id": "conv_05696",
+  "context": "A teacher and student visit a history museum",
+  "purpose": "Teach: 刀/商人/平安/伝承/作物/納豆/薬局/ツリー",
+  "ambient": "museum_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "刀",
+    "商人",
+    "平安",
+    "伝承",
+    "作物",
+    "納豆",
+    "薬局",
+    "ツリー"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "桜さん、平安時代の刀、保存状態が見事ね。",
+      "en": "Sakura, the condition of this Heian-era sword is remarkable.",
+      "style": "Warm, observant attention. Slight pause after the name—genuine notice. Soft, admiring tone. The voice of a teacher who sees the student's careful preparation.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい。当時の商人が持っていた伝承も、館内に展示があります。",
+      "en": "Yes. There's a whole display about the merchant traditions from that period.",
+      "style": "Quiet pride in the knowledge. A small lift on 'merchant'—she's been paying attention. Respectful but not stiff. Eyes slightly brighter.",
+      "mood": "earnest_proud"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "地域の作物、納豆の起源も、近隣展示にありましたよ。",
+      "en": "And the local crops section—natto's origins are in a nearby display too.",
+      "style": "Conversational warmth. A gentle connecting thread, like thinking out loud with someone. Steady pace, no rush. The pleasure of discovery shared.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "昔の薬局、再現コーナーも興味深い。",
+      "en": "The old pharmacy reconstruction is fascinating.",
+      "style": "Genuine spark of interest. A forward lean in the voice—she's actually drawn in now. Lighter rhythm. Not performing enthusiasm, just feeling it.",
+      "mood": "genuinely_curious"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "クリスマスツリーの起源展も、別館で開催中とか。",
+      "en": "And there's a Christmas-tree origins exhibit in the annex too.",
+      "style": "Bright, almost delighted close. A slight lift at the end—inviting, like offering one more good thing. Warm and encouraging without being heavy.",
+      "mood": "warm_intrigued"
+    }
+  ]
+}

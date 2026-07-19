@@ -1,0 +1,86 @@
+{
+  "id": "conv_06126",
+  "context": "A police officer briefs a manager about a court case",
+  "purpose": "Teach: 被疑/面会/先送り/白紙/水質/非公式/たたき台/商事",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "被疑",
+    "面会",
+    "先送り",
+    "白紙",
+    "水質",
+    "非公式",
+    "たたき台",
+    "商事"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の被疑事案、現在、捜査中です。",
+      "en": "Your company's case is currently under investigation.",
+      "style": "Professional, measured opening. Level gaze. No inflection — fact delivered as fact. The kind of statement that needs no softening because the tone itself is steady.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。担当者との面会、調整しました。",
+      "en": "Yes. I've arranged a meeting with our contact person.",
+      "style": "Respectful, measured response. Not defensive. Slight nod of acknowledgment. Clear, cooperative tone — showing willingness without overselling.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "判決の先送りは、好ましくありません。",
+      "en": "Delaying the verdict would not be advisable.",
+      "style": "Direct, procedural statement. Slight weight on the advisory. Not a threat — an observation stated with quiet authority. The tone of someone accustomed to being heard.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。白紙撤回せず、慎重に対応します。",
+      "en": "Understood. We won't withdraw our position, but we'll proceed carefully.",
+      "style": "Measured affirmation. Slight emphasis on 'carefully' — showing thoughtfulness, not stalling. Steady, responsible tone. The voice of someone taking this seriously.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "工場の水質、再検査もご検討ください。",
+      "en": "I'd also recommend reconsidering a retest of the plant's water quality.",
+      "style": "Procedural suggestion, not mandate. Slight pause before 'also' — showing this is an addition worth considering. Steady, professional tone. Practical weight, not pressure.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "非公式な確認も、進めています。",
+      "en": "We're already moving forward with informal verification as well.",
+      "style": "Proactive, reassuring. Shows initiative without grandstanding. 'Already' lands with quiet competence. Clear and calm — demonstrating progress and diligence.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "たたき台、来週共有します。",
+      "en": "I'll share a draft proposal with you next week.",
+      "style": "Clear commitment, matter-of-fact. No flourish. The tone of someone whose word is understood to be solid. Practical, forward-looking.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "親会社の三井商事、巻き込んで対応します。",
+      "en": "We're looping in the parent company, Mitsui Shoji, to handle this coordinated response.",
+      "style": "Final statement, assured and comprehensive. Slight emphasis on 'coordinated' — showing the scope and seriousness. Calm closure. The tone of someone who has thought this through.",
+      "mood": "resolved"
+    }
+  ]
+}

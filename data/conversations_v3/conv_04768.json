@@ -1,0 +1,78 @@
+{
+  "id": "conv_04768",
+  "context": "A uni intern interviews a manager about treasury basics",
+  "purpose": "Teach: 異動/労務/留意/外貨/日本銀行/包括/指令/多大",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "異動",
+    "労務",
+    "留意",
+    "外貨",
+    "日本銀行",
+    "包括",
+    "指令",
+    "多大"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "お忙しいところすみません、財務部の業務について少しお話を伺ってもよろしいですか。",
+      "en": "Sorry to bother you when you're busy, but may I ask a bit about the treasury department's work?",
+      "style": "Polite intern opening, slightly nervous but professional tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん、いいですよ。私もこの春の人事異動でこの部署に来たばかりなんですけどね。",
+      "en": "Of course, that's fine. Actually, I just moved here in this spring's personnel reshuffle myself.",
+      "style": "Warm, approachable office worker sharing a personal note."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。財務というと、労務管理とはまた全然違う分野ですよね。",
+      "en": "Oh, I see. Finance is a totally different field from labor management, isn't it?",
+      "style": "Curious student making a thoughtful comparison."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、特に外貨建ての取引を扱うときは、為替の変動に十分留意する必要があります。",
+      "en": "Yes, especially when handling foreign-currency-denominated deals, we have to pay close attention to exchange rate fluctuations.",
+      "style": "Explanatory and clear, switching into work mode."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "為替の動きって、日本銀行の金融政策にもかなり影響されますよね。",
+      "en": "Exchange rate movements are also pretty heavily influenced by the Bank of Japan's monetary policy, right?",
+      "style": "Eager student showing he did some homework."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "その通り。金利の決定一つで、企業の資金繰りに多大な影響が出ますからね。",
+      "en": "Exactly. Just one interest rate decision can have an enormous impact on a company's cash flow.",
+      "style": "Confirming tone with emphasis on real stakes involved."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。現場ではどうやって本社の方針に対応しているんですか。",
+      "en": "I see. How do you respond to headquarters' policies on the front lines?",
+      "style": "Probing follow-up question, genuinely interested in details."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "上層部から包括的な指令が下りてきて、それに沿ってヘッジ戦略を組み立てる流れですね。",
+      "en": "Comprehensive directives come down from upper management, and we build our hedging strategy along those lines.",
+      "style": "Concluding explanation, structured and informative, tone matching the moment with quiet honesty"
+    }
+  ]
+}

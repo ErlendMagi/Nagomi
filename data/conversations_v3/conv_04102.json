@@ -1,0 +1,78 @@
+{
+  "id": "conv_04102",
+  "context": "A uni student debates an economics teacher on tax reform",
+  "purpose": "Teach: 課税/税制/立法/給付/提言/制約/妥当/保全",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "課税",
+    "税制",
+    "立法",
+    "給付",
+    "提言",
+    "制約",
+    "妥当",
+    "保全"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、今回の税制改革について率直に伺いたいんですが、本当に妥当性があるとお考えですか。",
+      "en": "Professor, I'd like to ask frankly about this tax reform — do you really think it has validity?",
+      "style": "Polite but assertive student opening a serious academic debate."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白い問題提起ですね。立法府が示した方向性自体は、財政の持続性という観点から一定の合理性があると思いますよ。",
+      "en": "An interesting question to raise. The direction shown by the legislature has a certain rationality from a fiscal sustainability standpoint.",
+      "style": "Calm teacher voice, measured and pedagogical in tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "でも富裕層への課税強化が不十分なまま、低所得層への給付金が削られているじゃないですか。これは公平性を欠くと思います。",
+      "en": "But taxation on the wealthy hasn't been strengthened enough while benefit payments to low-income households are being cut. That lacks fairness.",
+      "style": "Passionate young debater pushing back with concrete critique."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "確かにそこは論議を呼ぶ部分ですね。ただ財源には予算の制約があって、専門家の提言を踏まえても、すべてを同時には実現できないんです。",
+      "en": "That's certainly a contentious point. However, there are budget constraints on funding, and even considering expert recommendations, not everything can be achieved at once.",
+      "style": "Teacher acknowledges the critique while explaining institutional reality."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは推測ですよね？OECDのデータを見れば、累進性を高めても税収は維持できるという立法措置の例がいくつもあります。",
+      "en": "That's speculation, isn't it? Looking at OECD data, there are several legislative measures showing tax revenue can be maintained even with higher progressivity.",
+      "style": "Confident student citing international evidence to counter authority."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "鋭いですね。ただ社会保障制度の保全と短期的な歳入確保のバランスは、データだけでは解明できない政治的判断も含むんですよ。",
+      "en": "Sharp point. But balancing the preservation of the social security system with short-term revenue securing involves political judgments that data alone can't clarify.",
+      "style": "Professor concedes the point while broadening the analytical frame."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "じゃあ僕からも提言させてください。せめて課税対象の見直しと給付の透明化を同時に進めるべきだと思います。",
+      "en": "Then let me also offer a proposal. At the very least, we should revise taxable categories and improve benefit transparency simultaneously.",
+      "style": "Student transitions from critique to constructive proposal mode."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい姿勢ですね。来週のゼミでその案を提言書にまとめて発表してみませんか。妥当な議論になると思いますよ。",
+      "en": "That's a good attitude. Why don't you compile that idea into a proposal document and present it at next week's seminar? It would make for a worthwhile discussion.",
+      "style": "Encouraging mentor closing with a constructive academic challenge."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_04647",
+  "context": "A vendor and a barista discuss invoice handling",
+  "purpose": "Teach: 支払わ/勘定/代行/名目/提唱/容認/容器/同日",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "支払わ",
+    "勘定",
+    "代行",
+    "名目",
+    "提唱",
+    "容認",
+    "容器",
+    "同日"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_234 workflow w26vym2lb)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "先月分の請求書、まだお支払いいただけていないようで、お勘定の状況を確認させてください。",
+      "en": "It seems last month's invoice still hasn't been paid, so let me check the account status.",
+      "style": "Polite businesslike opening framed as a careful inquiry."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、本当に申し訳ありません。経理は代行の業者さんにお願いしていて、私は名目上の担当という形でして…。",
+      "en": "Oh, I'm truly sorry. We outsource accounting to an agency, and I'm only the nominal person in charge…",
+      "style": "Apologetic shopfront tone trailing off into a nervous explanation."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。ただ、契約時に月末締め・翌月払いを提唱されたのは御社側だったかと記憶しています。",
+      "en": "I see. However, I recall it was your side that proposed month-end closing with next-month payment.",
+      "style": "Firm but measured pushback citing the original contract terms."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おっしゃる通りです。代行業者のミスとはいえ、こちらの不手際を容認していただくわけにはいきませんよね。",
+      "en": "You're absolutely right. Even if it's the agency's mistake, we can't ask you to overlook our oversight.",
+      "style": "Apologetic acknowledgement taking responsibility for her side's lapse."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。納品した豆の容器の数と、伝票の品目が合っているか一緒に確認しましょうか？",
+      "en": "Thank you. Shall we check together whether the bean container count matches the invoice items?",
+      "style": "Collaborative problem-solving pivot to defuse the tension."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。同日中に金額を確定して、夕方までに支払わせていただきますので、もう少々お待ちください。",
+      "en": "That helps. I'll finalize the amount within the same day and pay by evening, so please bear with me a little.",
+      "style": "Relieved commitment offering a concrete same-day timeline."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。今後は代行業者の方にもメールのCCに入れていただけると、こちらも安心です。",
+      "en": "Understood. Going forward, if you could CC the agency on emails too, it would put us at ease.",
+      "style": "Polite forward-looking suggestion sealing the resolution cleanly."
+    }
+  ]
+}

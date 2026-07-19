@@ -1,0 +1,61 @@
+{
+  "id": "conv_01489",
+  "context": "Sakura asks for directions in an unfamiliar neighborhood; Naoko helps.",
+  "purpose": "A polite stranger encounter; warm Kansai directness meets reserved writer.",
+  "ambient": "street_corner_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "道",
+    "案内",
+    "地図",
+    "曲がる"
+  ],
+  "cast": [
+    "sakura_teen",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_075)",
+    "generated_at": "2026-05-27T06:09:04.464Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "すみません、道順を教えてください。",
+      "en": "Excuse me—could you tell me the way?",
+      "style": "Polite opening with slight hesitation on the address. Soft, formal tone. Warm but deferential, like asking a stranger for help costs a little effort. Eye contact maintained but gentle.",
+      "mood": "polite_hesitant"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "どこ行きたいん?地図ある?",
+      "en": "Where to? You got a map on you?",
+      "style": "Sharp, practical opening—no preamble. Kansai inflection. Bright and direct without being unkind. Quick pace, warm underneath the efficiency. Leans forward slightly, genuinely ready to help.",
+      "mood": "practical_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、ここのカフェまで。",
+      "en": "Yes—to this café here.",
+      "style": "Small smile in the voice. Quiet, earnest. Points or gestures slightly as she speaks. Gentle pace. The relief of being understood. Still formal but a touch more present than before.",
+      "mood": "earnest_grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "次の角、右に曲がるねん。",
+      "en": "Turn right at the next corner.",
+      "style": "Animated, clear instruction delivered with Kansai directness. Bright, helpful energy. Gesture-forward in the voice—like she's already seeing the route. Quick but not rushed. Generous with her knowledge.",
+      "mood": "helpful_bright"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます、助かります。",
+      "en": "Thank you so much—that really helps.",
+      "style": "Sincere gratitude with warmth underneath. Soft, steady tone. The relief of getting a real answer from a real person. Slight smile at the end, like this small interaction mattered. Trailing off gently into genuine thanks.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

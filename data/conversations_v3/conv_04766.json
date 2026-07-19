@@ -1,0 +1,78 @@
+{
+  "id": "conv_04766",
+  "context": "A boss tells his manager about an upcoming transfer",
+  "purpose": "Teach: 異動/労務/留意/外貨/日本銀行/包括/指令/多大",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "異動",
+    "労務",
+    "留意",
+    "外貨",
+    "日本銀行",
+    "包括",
+    "指令",
+    "多大"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ君、ちょっといいか。来月の人事異動の件で話がある。",
+      "en": "Kenji, got a minute? I need to talk about next month's personnel transfers.",
+      "style": "Authoritative boss tone, direct and businesslike opener"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、社長。何かご留意すべきことでしょうか。",
+      "en": "Yes, sir. Is there something I should be mindful of?",
+      "style": "Respectful subordinate, polite keigo with cautious undertone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は本社からの指令でね、君を外貨部門に移すことになった。",
+      "en": "Actually, it's an order from headquarters — you're being moved to the foreign currency division.",
+      "style": "Serious delivery, matter-of-fact with slight weight behind it"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "外貨部門ですか…日本銀行との折衝もある部署ですよね。",
+      "en": "The foreign currency division? That's the team that negotiates with the Bank of Japan, right?",
+      "style": "Surprised but composed, confirming with respectful curiosity"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだ。今回は包括的な組織改編でな、多大な期待を君にかけている。",
+      "en": "Correct. This is a comprehensive restructuring, and we're placing great expectations on you.",
+      "style": "Encouraging but firm, conveying responsibility and trust"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "光栄です。労務関係の引き継ぎはどう進めればよろしいでしょうか。",
+      "en": "I'm honored. How should I proceed with handing over the labor management matters?",
+      "style": "Humble gratitude mixed with practical professionalism"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "労務の件は山田に任せろ。君は新しい職務に集中してくれ。",
+      "en": "Leave the labor affairs to Yamada. You focus on your new role.",
+      "style": "Decisive and reassuring, delegating clearly like a seasoned boss"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知いたしました。ご期待に応えられるよう精一杯努めます。",
+      "en": "Understood. I'll do my utmost to live up to your expectations.",
+      "style": "Formal commitment, sincere and determined closing tone"
+    }
+  ]
+}

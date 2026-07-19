@@ -1,0 +1,86 @@
+{
+  "id": "conv_10514",
+  "context": "Doctor discusses cases",
+  "purpose": "Teach: 如何なる/原著/生い立ち/懇願/物言い/卵子/破局/公道",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "如何なる",
+    "原著",
+    "生い立ち",
+    "懇願",
+    "物言い",
+    "卵子",
+    "破局",
+    "公道"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_527 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、如何なる症状でも、医療チームで真摯に対応します",
+      "en": "Ren — whatever symptoms you have, our medical team will respond to them with complete sincerity.",
+      "style": "Clear, measured opening. Even pacing, professional but not cold. Steady eye contact. The tone of someone who means exactly what she says and says no more.",
+      "mood": "composed_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、医学書の原著を医療チームで原文で読み合わせします",
+      "en": "Ren — we read the original medical literature together as a team, in the source language, so nothing gets lost in translation.",
+      "style": "Same steady baseline. Slight emphasis on 「原文で」— the precision matters. Methodical. Not explaining down to him, but laying out the standard she holds.",
+      "mood": "composed_assured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、患者様の生い立ちを医療チームで丁寧に伺います",
+      "en": "Ren — and we listen carefully to each patient's full history, your full history, with genuine attention.",
+      "style": "Softer edge now, still controlled. The word 「丁寧に」 opens a small window into her care. Unhurried pacing. A pause before continuing, acknowledging the weight of listening.",
+      "mood": "composed_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、ご家族からの治療懇願に応える事を医療チームで考えます",
+      "en": "Ren — when your family asks something of us, we think about how to answer that in a way that honors what they're asking.",
+      "style": "Warmth under the surface now, but not performed. Slight slowdown on 「応える」. She's speaking from principle, not protocol. Still grounded, still professional.",
+      "mood": "composed_humane"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、診断への物言い、つまりセカンドオピニオンを医療チームで尊重します",
+      "en": "Ren — if you have concerns about the diagnosis, if you want a second opinion, we respect that. Our team supports it.",
+      "style": "Direct and clear. No defensiveness. Light emphasis on 「尊重します」. She's giving permission he might not have known he needed. Even tempo, no waver.",
+      "mood": "composed_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "不妊治療の卵子採取を、貴院、安全におこなわれますね、先生",
+      "en": "So about the egg retrieval for the fertility treatment — your hospital does perform it safely, right, Doctor?",
+      "style": "Quieter than before. Cautious opening, searching for reassurance beneath the polite phrasing. Slight hesitation before the question mark. The honorific 「先生」 at the end carries both respect and vulnerability — he needs her to answer this one carefully.",
+      "mood": "anxious_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、感染拡大の破局的シナリオを医療チームで想定します",
+      "en": "Ren — we prepare for worst-case scenarios with pandemic spread. Our team thinks through those catastrophic possibilities so we're ready.",
+      "style": "Back to her measured professional baseline, but there's a weight underneath now. She's being honest about contingency without alarming. Deliberate pacing on the hard words. The responsibility of planning for the unthinkable.",
+      "mood": "composed_serious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、公道での救急搬送を医療チームで支援します",
+      "en": "Ren — emergency transport on public roads, getting people to us safely — that's something our team coordinates and supports completely.",
+      "style": "Closing statement. Calm, assured. Slight warmth returns at the end on 「支援します」— commitment, not just procedure. Soft landing, almost a breath of relief that she's reached the end of laying out what they do.",
+      "mood": "composed_assured"
+    }
+  ]
+}

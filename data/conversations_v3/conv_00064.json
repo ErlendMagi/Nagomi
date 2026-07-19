@@ -1,0 +1,75 @@
+{
+  "id": "conv_00064",
+  "context": "Outside the koban. Hina has been \"playing with the fountain pen she found.\" Officer Takeda is on patrol and is the only adult around.",
+  "purpose": "gentle authority + kid logic — officer doing the smallest possible enforcement",
+  "ambient": "police_box",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "見る",
+    "ない",
+    "ありがとう"
+  ],
+  "cast": [
+    "takeda_officer",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんにちは。それ、見せてもらえる？",
+      "en": "Hello there. Can you let me see that?",
+      "style": "Crouches down to her level in the voice. Calm, low, friendly.",
+      "mood": "crouching_friendly"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "え、これ？拾った！",
+      "en": "Eh, this? I found it!",
+      "style": "Holds it up proudly. Eight-year-old certainty about finder rights.",
+      "mood": "proud_kid"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そっか。本当に拾ったの？落とした人、いるかも。",
+      "en": "I see. Really, you found it? Someone might have dropped it.",
+      "style": "No accusation. Plants the seed gently.",
+      "mood": "gentle_seed"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…うん。たぶん。",
+      "en": "…Yeah. Probably.",
+      "style": "A small reality-check. Voice loses half its certainty.",
+      "mood": "losing_certainty"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "じゃあ、一緒に交番に預けようか。",
+      "en": "Then — shall we hand it in at the koban, together?",
+      "style": "Hand offered in the voice. Not taking it from her.",
+      "mood": "hand_offered"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "えー、私のじゃないの？",
+      "en": "Whaaa — it's not mine?",
+      "style": "Half-protest, half-already-knowing. Pout in the voice.",
+      "mood": "pouty_resigned"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "届けたら、もしかして、ありがとうって言ってくれる人いるかも。",
+      "en": "If you turn it in, someone might come thank you, you know.",
+      "style": "Pitches it as a small adventure.",
+      "mood": "reframing_adventure"
+    }
+  ]
+}

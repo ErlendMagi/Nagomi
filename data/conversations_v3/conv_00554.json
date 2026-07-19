@@ -1,0 +1,62 @@
+{
+  "id": "conv_00554",
+  "context": "Riku visits Saito with a small shoulder pain from sports.",
+  "purpose": "small adult patient ongoing visit",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "肩",
+    "痛い",
+    "運動",
+    "無理",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "先生、最近、肩が、ちょっと、痛くて。",
+      "en": "Doctor, my shoulder's been hurting a bit lately.",
+      "style": "Quiet, almost apologetic opening. Soft delivery — not quite making eye contact. Hesitant and careful, as if he's bothering her. Real sincerity underneath the awkwardness.",
+      "mood": "uncertain_honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "運動、最近、しすぎてませんか。",
+      "en": "Have you been doing too much exercise recently?",
+      "style": "Professional but genuinely attentive. Clear, measured tone without coldness. A slight lean forward — checking in, not interrogating. The care in her voice is real.",
+      "mood": "careful_attentive"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "はい、テニス、毎週末で。",
+      "en": "Yeah, tennis every weekend.",
+      "style": "Matter-of-fact, a touch sheepish. Like he knows what he's going to hear. Not defensive — just stating the obvious. Brief and honest.",
+      "mood": "resigned_willing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "少し休めば、治りますよ。無理しないで。",
+      "en": "Rest will help it heal. Don't push yourself too hard.",
+      "style": "Clear, kind directive. Not lecturing — like advice from someone who's seen this before. Warm firmness. Slight emphasis on the care, not the correction.",
+      "mood": "steady_caring"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ありがとうございます。",
+      "en": "Thank you very much.",
+      "style": "Genuine gratitude, slightly formal. Quiet and respectful. A small nod in the voice. The relief of being heard.",
+      "mood": "grateful_relieved"
+    }
+  ]
+}

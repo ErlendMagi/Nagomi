@@ -1,0 +1,76 @@
+{
+  "id": "conv_00869",
+  "context": "Aoi and Yuki plan a weekend hotel stay.",
+  "purpose": "two-women hotel-getaway exchange",
+  "ambient": "cafe_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "ホテル",
+    "条件",
+    "一緒",
+    "楽しい",
+    "相談"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_044)",
+    "generated_at": "2026-05-27T02:32:29.667Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "あおいちゃん、ホテル、決めない？",
+      "en": "Aoi-chan, should we decide on a hotel?",
+      "style": "Warm, conversational opening. Soft enthusiasm — not pushy, genuinely inviting her into the decision. Small smile in the voice. The tone of someone who values her input.",
+      "mood": "warm_inclusive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "条件、何、ある？温泉、ほしい。",
+      "en": "What about the conditions? I'd love an onsen.",
+      "style": "Thoughtful pause before speaking. Soft, genuine preference — not demanding, exploring. Slight lean forward in the voice. The tone of someone saying what she actually wants.",
+      "mood": "sincere_hopeful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "私も。海、近いの、いい。",
+      "en": "Me too. It'd be nice if it's close to the sea.",
+      "style": "Quick agreement, then deepening thought. Bright recognition of shared taste. Soft and engaged, building on what was just said. The warmth of two people thinking the same way.",
+      "mood": "pleased_aligned"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "相談、ゆっくり、しよう。",
+      "en": "Let's talk it through together — no rush.",
+      "style": "Gentle, collaborative tone. Slight emphasis on 'together' — the pleasure is in the planning, not just the destination. Unhurried, tender. The voice of someone savoring the moment.",
+      "mood": "tender_collaborative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "一緒の時間、本当に、嬉しい。",
+      "en": "I'm really happy to be doing this with you.",
+      "style": "Quiet sincerity. Slight breath before the statement — vulnerability underneath. Slow pace. The words land soft and genuine, not performed. Trailing gentle on the end.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ。楽しみだね。",
+      "en": "Same here. I'm so looking forward to it.",
+      "style": "Warm echo of agreement. Bright anticipation — not eager exactly, but genuinely excited. Open, soft. The tone of someone reflecting back genuine feeling.",
+      "mood": "warm_anticipatory"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "日付、決めよう、明日。",
+      "en": "Let's lock down the dates tomorrow, then.",
+      "style": "Light, practical warmth. Small note of finality — bringing it home but gently. Confident and kind. The tone of someone taking care of the next step without making it feel like work.",
+      "mood": "decisive_content"
+    }
+  ]
+}

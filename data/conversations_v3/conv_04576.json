@@ -1,0 +1,84 @@
+{
+  "id": "conv_04576",
+  "context": "A police officer briefs a teen reporter on a national security event",
+  "purpose": "Teach: 大都市/過激/騒音/核兵器/虐殺/性別/死ね/無関係",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大都市",
+    "過激",
+    "騒音",
+    "核兵器",
+    "虐殺",
+    "性別",
+    "死ね",
+    "無関係"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今夜は大都市の中心部で大規模な抗議が起きています。",
+      "en": "Tonight, large-scale protests are taking place in the city center.",
+      "style": "Calm, authoritative briefing tone with controlled professional delivery"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "現場はかなり混乱しているんですか?",
+      "en": "Is the scene quite chaotic out there?",
+      "style": "Eager young reporter pressing gently for a first confirmation"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ。騒音規制の通報も増えており、近隣住民から苦情が殺到しています。",
+      "en": "Yes. Noise complaint reports are rising, and nearby residents are flooding us with calls.",
+      "style": "Measured factual delivery with steady authoritative pacing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "過激派の発言がネットで広がっているって聞きました。性別を問わず参加しているとか。",
+      "en": "I heard extremist statements are spreading online, with people joining regardless of gender.",
+      "style": "Curious investigative tone, carefully reciting researched details"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "事実です。中には核兵器の保有を主張するグループまで確認されています。",
+      "en": "That's accurate. Some groups even openly advocate for nuclear weapons possession.",
+      "style": "Grave warning tone, deliberately slow and weighty pronunciation"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "過去の虐殺を肯定するような書き込みも見て、正直ぞっとしました。",
+      "en": "I also saw posts justifying past massacres, and honestly it shook me.",
+      "style": "Vulnerable but professional, conveying genuine concern without theatrics"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "SNSでは「死ねばいい」といった書き込みも問題視されています。",
+      "en": "On social media, posts saying things like 'they should die' are also being flagged as a problem.",
+      "style": "Serious, careful enunciation while citing disturbing examples factually"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ただ、一般市民の大多数はこの動きとは全くの無関係です。",
+      "en": "However, the vast majority of ordinary citizens are completely unrelated to this movement.",
+      "style": "Reassuring paternal authority, softening to comfort the young reporter"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。不安を煽らないよう、慎重に記事を書きます。",
+      "en": "Understood. I'll write the article carefully so as not to stir up anxiety.",
+      "style": "Resolved professional tone, regaining composure with quiet determination"
+    }
+  ]
+}

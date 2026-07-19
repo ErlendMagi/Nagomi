@@ -1,0 +1,78 @@
+{
+  "id": "conv_04289",
+  "context": "A uni student asks his teacher about statistical methods",
+  "purpose": "Teach: 指数/媒体/正規/相対/保持/バックナンバー/チャート/マクロ",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "指数",
+    "媒体",
+    "正規",
+    "相対",
+    "保持",
+    "バックナンバー",
+    "チャート",
+    "マクロ"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、卒論で物価指数の長期データを使いたいんですが、どの媒体から取り寄せるのが一番確実でしょうか。",
+      "en": "Sensei, I want to use long-term price index data for my thesis. Which source would be the most reliable to obtain it from?",
+      "style": "Polite student opening, hesitant but academically focused tone"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうね、まずは政府統計のサイトを当たって、過去の刊行物のバックナンバーも図書館で確認しておくといいわ。",
+      "en": "Well, first check the government statistics site, and also look up the back issues of past publications at the library.",
+      "style": "Calm teacherly guidance, measured and helpful pacing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。集めたデータは正規分布に近いと仮定して分析しても大丈夫でしょうか。",
+      "en": "I see. Would it be alright to analyze the data assuming it's close to a normal distribution?",
+      "style": "Curious follow-up question, slightly uncertain academic register"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "サンプルによるけれど、まずヒストグラムやQQチャートを描いて、形を目で確かめてからにしてね。",
+      "en": "It depends on the sample, so first draw a histogram or QQ chart and verify the shape visually before deciding.",
+      "style": "Practical methodological advice, instructive and patient delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。あと、マクロ経済の変数同士の関係を見たいときは、相対値で比べた方がいいんでしょうか。",
+      "en": "Understood. Also, when examining relationships between macroeconomic variables, is it better to compare them in relative terms?",
+      "style": "Layered question building on previous answer, polite and engaged"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、水準のまま扱うと見せかけの相関が出やすいから、対数差分などで定常性を保持してから回帰にかけるのが基本よ。",
+      "en": "Yes, treating them as levels often produces spurious correlations, so the basic approach is to take log differences to preserve stationarity before regressing.",
+      "style": "Detailed technical explanation, professorial and confident tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。最後に、結果を論文にまとめる際に注意すべき点があれば教えていただけますか。",
+      "en": "That's very helpful. Lastly, could you tell me any points I should be careful about when writing up the results?",
+      "style": "Respectful closing question, earnest and humble student tone"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "数式に頼りすぎず、なぜその手法を選んだのか、自分の言葉で理由を書くこと。それが審査では一番見られるところよ。",
+      "en": "Don't lean too heavily on equations; write in your own words why you chose that method. That's what examiners look at most.",
+      "style": "Encouraging final advice, warm but firm mentorship tone"
+    }
+  ]
+}

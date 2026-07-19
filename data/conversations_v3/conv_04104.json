@@ -1,0 +1,78 @@
+{
+  "id": "conv_04104",
+  "context": "A student interviews a retired bureaucrat about policy-making",
+  "purpose": "Teach: 課税/税制/立法/給付/提言/制約/妥当/保全",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "課税",
+    "税制",
+    "立法",
+    "給付",
+    "提言",
+    "制約",
+    "妥当",
+    "保全"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。早速ですが、現役時代に取り組まれた税制改革について伺ってもよろしいでしょうか。",
+      "en": "Thank you for your time today. May I ask about the tax system reform you worked on during your active years?",
+      "style": "Polite university student opening a formal research interview with respectful keigo."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、構いませんよ。あの頃は課税対象をどこまで広げるかで、省内でも激しい議論がありましたね。",
+      "en": "Yes, that's fine. Back then there were fierce debates within the ministry about how far to extend the scope of taxation.",
+      "style": "Elderly retired bureaucrat speaking reflectively with measured, slightly nostalgic tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。実際に立法府との調整は、やはり時間的制約が厳しかったのでしょうか。",
+      "en": "I see. Were time constraints particularly severe when coordinating with the legislative branch?",
+      "style": "Curious student following up with a focused analytical question in polite form."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうですね、予算の制約もありましたし、専門家の提言を全て反映するのは現実的に難しかったです。",
+      "en": "Indeed, there were budget constraints too, and realistically it was difficult to reflect every expert recommendation.",
+      "style": "Reflective senior recalling practical bureaucratic realities with calm honesty."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "高齢者への年金給付の見直しについても、当時から議論があったと聞いています。",
+      "en": "I've heard that the review of pension benefits for the elderly was also debated at that time.",
+      "style": "Inquisitive student probing a sensitive policy area with careful, respectful phrasing."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、世代間の公平性という観点から、何が妥当な判断なのか、本当に悩みました。",
+      "en": "Yes, from the perspective of intergenerational fairness, we truly agonized over what constituted a reasonable judgment.",
+      "style": "Thoughtful elder bureaucrat conveying genuine moral weight behind past decisions."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後に、これから政策を志す若い世代へ、何かアドバイスをいただけますか。",
+      "en": "Finally, could you offer some advice to the younger generation who aspire to work in policy?",
+      "style": "Earnest student closing the interview with a forward-looking respectful request."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "目先の数字だけでなく、自然保全のような長期的な視点も忘れないでほしいですね。",
+      "en": "I'd like them to remember long-term perspectives like environmental preservation, not just short-term numbers.",
+      "style": "Wise retired official offering parting wisdom in a warm, paternal tone."
+    }
+  ]
+}

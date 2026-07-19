@@ -1,0 +1,86 @@
+{
+  "id": "conv_08332",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 祖先/生前/独断/戦死/胎児/判別/二酸化炭素/裁定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "祖先",
+    "生前",
+    "独断",
+    "戦死",
+    "胎児",
+    "判別",
+    "二酸化炭素",
+    "裁定"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_418 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者の祖先関連を警察、確認されたんですね",
+      "en": "We've confirmed the suspect's family background details in this case.",
+      "style": "Measured and official. Steady pace, clear enunciation. The tone of someone stating facts that have been verified. No inflection seeking confirmation.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の生前の関係を、警察、調査中ですね",
+      "en": "The police are still investigating the victim's relationships before death.",
+      "style": "Thoughtful pause before speaking. Quiet curiosity — not challenging, but genuinely wondering. Slow, careful diction. Slight lift at the end, genuine question.",
+      "mood": "curious_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、独断的な決定はしません",
+      "en": "The police won't make unilateral decisions about this.",
+      "style": "Firm but not cold. Direct eye contact level. Clear emphasis on the negative — this is reassurance through procedure. Professional but not detached.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、戦死者の遺族支援、警察、関与されているそうですね",
+      "en": "I understand the police are involved in supporting the families of the war dead in this case.",
+      "style": "Reflective, almost hesitant phrasing. Soft voice — respect for the weight of what he's saying. A pause before the key phrase. Not performing emotion, but present with it.",
+      "mood": "respectful_somber"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、胎児にも危険のあった事件を慎重に扱います",
+      "en": "The police handle cases involving fetal risk with extreme care.",
+      "style": "Lower register, grave. Each phrase deliberate and weighted. Slow delivery, no rush. The gravity of what's being said is carried in the pacing, not the volume.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、指紋判別を成功されたんですね",
+      "en": "We were successful in the fingerprint analysis on this case.",
+      "style": "Quiet satisfaction in the voice. The relief of work done carefully and well. Measured pace. Not triumphant — professional acknowledgment of a breakthrough.",
+      "mood": "focused_relieved"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、二酸化炭素濃度の異常を現場で確認しました",
+      "en": "We identified an unusual concentration of carbon dioxide at the scene.",
+      "style": "Clinical precision. Each fact stated with the same level of importance. Cool, observational tone. The detail of a report being delivered without interpretation.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、裁判所の裁定を待っております",
+      "en": "We're awaiting the court's ruling on this matter.",
+      "style": "Formal closure. Measured breath at the end of the sentence. The finality of something now out of police hands. Professional, patient, resolved.",
+      "mood": "patient_formal"
+    }
+  ]
+}

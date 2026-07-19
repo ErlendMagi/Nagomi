@@ -1,0 +1,86 @@
+{
+  "id": "conv_08212",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 司祭/殿下/教皇/暗黒/破滅/連行/暴落/批准",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "司祭",
+    "殿下",
+    "教皇",
+    "暗黒",
+    "破滅",
+    "連行",
+    "暴落",
+    "批准"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_412 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、教会の司祭から目撃情報を警察、伺いました",
+      "en": "We received an eyewitness account from the church priest regarding this case.",
+      "style": "Professional, measured tone. Direct statement with calm authority. Slight pause after the opening—the formality of official procedure. No rush.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察、外国の殿下警備にも対応されているとのこと",
+      "en": "I understand the police also handle security details for foreign dignitaries.",
+      "style": "Curious, slightly deferential. Careful phrasing—he's asking but not quite asking. Lean into the question mark, but keep it gentle and respectful.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、教皇の来日警備、警察、ご尽力ですね",
+      "en": "So with the papal visit security, the police really did put in a lot of effort on this case.",
+      "style": "Quiet realization dawning. Respectful acknowledgment. Measured pace, thoughtful. A little awe underneath—recognizing the scope of the work without overdoing it.",
+      "mood": "impressed_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、暗黒組織の摘発を進めております",
+      "en": "We're in the process of dismantling the criminal organization behind this.",
+      "style": "Procedural, factual. Steady confidence. The tone of someone briefing, not performing. Brief, definitive—no extra words.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、計画の破滅を警察、未然に防いだんですね",
+      "en": "So the police managed to prevent the plan from falling apart beforehand.",
+      "style": "Thoughtful articulation. Ren working through the logic aloud, respectful. Slight wonder in the voice—the weight of what was prevented. Unhurried.",
+      "mood": "thoughtful_relief"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者を連行いたしました",
+      "en": "We've taken the suspects into custody.",
+      "style": "Closed statement. Professional finality. The tone that says 'this part is done.' Composed, measured. A note of resolution underneath.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、不正取引による暴落を警察、調査中ですね",
+      "en": "And you're still investigating the market collapse that resulted from the illegal transactions.",
+      "style": "Ren piecing it together. Respectful observation. Steady, deliberate pace. A note of understanding—this is larger than one arrest. Soft gratitude underneath.",
+      "mood": "thoughtful_appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、条約批准に基づく対応を進めております",
+      "en": "We're proceeding with our response based on the treaty provisions.",
+      "style": "Formal, composed close. The tone of protocol respected. Each word carries weight. Slight finality—this is the briefing's conclusion. Professional warmth, not distance.",
+      "mood": "composed"
+    }
+  ]
+}

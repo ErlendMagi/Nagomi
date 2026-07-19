@@ -1,0 +1,79 @@
+{
+  "id": "conv_02101",
+  "context": "Aoi reads a newspaper article about online services with Kenji.",
+  "purpose": "Couple parsing modern media trend.",
+  "ambient": "living_room_morning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "新聞",
+    "サービス",
+    "インターネット",
+    "テーマ",
+    "など",
+    "けれども",
+    "さらに",
+    "主義"
+  ],
+  "cast": [
+    "aoi_barista",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_106)",
+    "generated_at": "2026-05-27T16:26:39.301Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "けんちゃん、新聞、面白い記事。",
+      "en": "Ken-chan, there's a really interesting article in the paper.",
+      "style": "Warm, present tone. She slides the newspaper toward him with genuine curiosity. Soft eye contact. The comfort of sharing something she thought he'd like.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "どんなテーマや?",
+      "en": "What's it about?",
+      "style": "Leans in slightly, genuinely interested. Soft Kansai inflection on the question. No performance — just asking because he wants to know what she found interesting.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "インターネットのサービスなど、まとめてる。",
+      "en": "It's about internet services and how they're organized. Different platforms, different purposes.",
+      "style": "Clear, unhurried. She's gathering her thoughts as she speaks. Slight emphasis on 'organized' — she noticed the structure. Warm but informative, like sharing something she's been thinking about.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "主義によって、使い方も違うけれども。",
+      "en": "Yeah, but the way you use them depends on what you believe in, right?",
+      "style": "Thoughtful, not lecturing. A gentle observation. Soft Kansai rhythm. He's building on what she said, not correcting — the tone of someone thinking alongside her.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "さらに、若い人に向けたサービス、増えてる。",
+      "en": "That's true. And there's more and more services aimed at younger people too.",
+      "style": "She's noticed something the article made her think about. Slight brightness — like a thought connecting. Soft delivery, warm but observant. She's noticing the pattern.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ視点や、勉強になる。",
+      "en": "That's a good point. Really makes you think.",
+      "style": "Genuine appreciation. Not flattery — he means it. Soft warmth. The Kansai ease in his voice. A small moment of recognition that she saw something worth seeing.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "私たちにとっても、関係ある話。",
+      "en": "It's something that affects us too, you know.",
+      "style": "Quieter now. A shift toward something a little more philosophical. She's drawing the connection closer — not just interesting news, but relevant to their lives. Thoughtful, tender.",
+      "mood": "reflective"
+    }
+  ]
+}

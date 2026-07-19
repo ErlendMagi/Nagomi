@@ -1,0 +1,61 @@
+{
+  "id": "conv_01972",
+  "context": "Naoko complains about app updates; Hina-young helps her sort it out.",
+  "purpose": "Teen patiently helping aunt with tech struggle.",
+  "ambient": "ramen_shop_evening_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "アプリ",
+    "更新",
+    "難しい",
+    "助かる"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "hina_child"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_099)",
+    "generated_at": "2026-05-27T08:56:37.686Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ひな、アプリ、また変わった!",
+      "en": "Hina, the app changed again!",
+      "style": "Exasperated, bright Kansai-accented greeting. Quick sharp attack on the first syllable. Loud and honest, a little scattered — the kind of complaint that's also half a laugh.",
+      "mood": "exasperated"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "おばちゃん、見せて。",
+      "en": "Show me, Auntie.",
+      "style": "Warm, eager offer. Soft attack, light and responsive. Patient tone that comes naturally to her — she's been around adults her whole life and knows how to help without making a show of it.",
+      "mood": "eager_helpful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "更新したら、わからんようなった。",
+      "en": "After I updated it, I couldn't figure out how to use it anymore.",
+      "style": "Frustrated but gentler now — admitting defeat. Kansai lilt on the tail end. Warm underneath the complaint, like she's telling this to someone she trusts to laugh with her, not at her.",
+      "mood": "frustrated"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "こうやって、押すんだよ。",
+      "en": "You just press it like this.",
+      "style": "Light, clear teaching voice. No condescension — just showing the way. A little pleased with herself for knowing. Gentle and certain at once, the tone of an eight-year-old who's figured something out.",
+      "mood": "pleased_instructive"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "おお、助かったわ、ひな!",
+      "en": "Oh, you saved me, Hina!",
+      "style": "Genuine gratitude, bright and loud. Warm Kansai affection pouring out. The vowels open and generous on 「助かった」 — relief and love mixed together, unfiltered and uncalculated.",
+      "mood": "grateful_warm"
+    }
+  ]
+}

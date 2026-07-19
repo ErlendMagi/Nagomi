@@ -1,0 +1,72 @@
+{
+  "id": "conv_05333",
+  "context": "A police officer briefs a uni reporter about road incidents",
+  "purpose": "Teach: 重量/有害/摂取/歩行/多発/救助/連発/体感",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "重量",
+    "有害",
+    "摂取",
+    "歩行",
+    "多発",
+    "救助",
+    "連発",
+    "体感"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_268 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本市の交差点、最近事故が多発しています。",
+      "en": "We've been seeing a spike in accidents at city intersections lately.",
+      "style": "Professional, steady opener. Measured delivery, no alarm. Straightforward statement of fact, like he's briefed others on this before.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歩行者と重量車両の接触が中心ですか。",
+      "en": "Are most of those involving pedestrians and heavy vehicles?",
+      "style": "Respectful inquiry, leaning forward slightly. Genuine curiosity—he's note-taking mentally. Thoughtful pause before the question, like he's choosing his words carefully.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。有害排気の摂取被害も懸念です。",
+      "en": "Yes. And there's also the concern of harmful exhaust exposure for people nearby.",
+      "style": "Even-keeled, clinical. Matter-of-fact listing of facts. No dramatization. The tone of someone used to reporting details that matter.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "救助は、消防と連発で出動する形ですか。",
+      "en": "So you coordinate with the fire department on every call?",
+      "style": "Clarifying follow-up, genuine interest in process. Soft and unassuming—not challenging, just confirming. The rhythm of someone taking notes.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "おっしゃる通り。体感では、夕方の発生が一番多いです。",
+      "en": "That's right. From what we've observed on the ground, most incidents cluster in the early evening hours.",
+      "style": "Conversational shift—slightly warmer, more direct. He's settling into the rhythm of the interview. Confident in the data he's sharing.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記事に反映させていただきます。",
+      "en": "I'll make sure to include that in the piece.",
+      "style": "Respectful closing. Quiet gratitude beneath the words. Ren acknowledging what he's learned, already mentally drafting.",
+      "mood": "grateful"
+    }
+  ]
+}

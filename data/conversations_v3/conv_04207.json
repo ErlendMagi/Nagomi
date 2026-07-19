@@ -1,0 +1,78 @@
+{
+  "id": "conv_04207",
+  "context": "A regular customer chats with a barista about the cost of living",
+  "purpose": "Teach: 現金/値上げ/返済/公団/商標/稼ぐ/職務/突入",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "現金",
+    "値上げ",
+    "返済",
+    "公団",
+    "商標",
+    "稼ぐ",
+    "職務",
+    "突入"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_212 workflow w3lyve96d)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "今日も現金払いでお願いします。カードだとつい使いすぎちゃうから、最近は現金主義に戻したんですよ。",
+      "en": "Cash payment again today, please. I end up overspending with cards, so lately I've gone back to a cash-only approach.",
+      "style": "Warm middle-aged father, slightly weary tone, steady pacing, friendly familiarity with the barista."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "かしこまりました。実は来月から豆の料金値上げがありまして、一杯五十円ほど上がる予定なんです。すみません。",
+      "en": "Understood. Actually, starting next month there's a price increase on beans, so a cup will go up by about fifty yen. I'm sorry.",
+      "style": "Polite professional barista voice, gentle apologetic delivery, soft customer-service register."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "ええっ、ここも値上げか。住宅ローン返済もまだ十年残ってるし、本当に家計が苦しいよ。",
+      "en": "What, here too? I still have ten years left on my mortgage payments, and honestly the household budget is really tight.",
+      "style": "Resigned sigh, candid fatherly grumble, conversational and unguarded with a regular's familiarity."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お気持ちわかります。私の祖母も古い住宅公団の団地に長く住んでいて、年金だけでは厳しいとよく言っています。",
+      "en": "I understand. My grandmother has lived a long time in an old public housing complex, and she often says living on just her pension is rough.",
+      "style": "Empathetic barista, lowering voice to share a personal anecdote, warm conversational tone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "わかるなあ。うちも子どもの学費があるから、最近は副業で稼ぐ同僚も増えてきてね。職務規定が緩くなったんだよ。",
+      "en": "I get it. We've got school fees too, and lately more coworkers are earning extra through side jobs. The work duty rules got loosened.",
+      "style": "Informative, slightly conspiratorial workplace gossip tone, leaning into the counter."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "そうなんですね。実は私も自分のブレンドに商標を取って、いつか自分の店を持てたらって夢見てるんです。",
+      "en": "Is that so? Actually, I'm dreaming of trademarking my own blend and someday opening my own shop.",
+      "style": "Quietly excited, dreamy aspirational tone, sharing a personal goal with a trusted regular."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "おお、それは素敵な夢だね。応援するよ。物価高もいよいよ最終局面に突入したって新聞に書いてあったし、頑張り時かもね。",
+      "en": "Oh, that's a lovely dream. I'll cheer you on. The paper said inflation has finally entered its last phase, so maybe now's the time to push.",
+      "style": "Fatherly encouragement followed by thoughtful musing, slower pacing on the second half."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。今日のコーヒー、サービスでもう一杯お出ししますね。応援してくださるお客様には感謝しかないです。",
+      "en": "Thank you so much. Let me serve you another cup on the house today. I'm truly grateful for customers who support me.",
+      "style": "Bright sincere gratitude, slight bow in the voice, professional warmth returning."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_07609",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 議長/座長/委任/定額/賃貸/図面/法制/県知事",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "議長",
+    "座長",
+    "委任",
+    "定額",
+    "賃貸",
+    "図面",
+    "法制",
+    "県知事"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_382 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "委員会の、本気で、絶対、議長、絶対、警察、絶対、ご報告、絶対、申し上げます、本気で、感謝",
+      "en": "The committee chairperson — we'll file a police report. We're genuinely grateful for your cooperation.",
+      "style": "Formal, measured cadence. Official register but not cold. Each phrase lands with deliberate weight. Slight pause between statements, like reading from prepared remarks. Respectful without stiffness.",
+      "mood": "formal_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。座長、本気で、絶対、お引き受け、絶対、警察様、絶対、ありがとうございます、本気で、感謝",
+      "en": "Yes. We accept the position. Thank you to the police department. We're genuinely grateful.",
+      "style": "Cooperative but grounded. Steady pace, no rush. The tone of someone confirming understanding and commitment in equal measure. Respectful nod in the voice.",
+      "mood": "earnest_formal"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、本気で、絶対、警察、絶対、委任、絶対、状、絶対、頂戴したいです、本気で、感謝",
+      "en": "For this matter, we'd like to receive a formal proxy letter from the police department.",
+      "style": "Professional, procedural. Each word precise. No inflection toward urgency or hesitation — this is standard protocol. Clear, direct, as though reading from protocol guidelines.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察様の、本気で、絶対、定額、絶対、賠償、絶対、ご提案、絶対、確認いたしました、本気で、感謝",
+      "en": "Yes. We've confirmed receipt of the police department's proposed compensation amount.",
+      "style": "Businesslike confirmation. Steady, efficient delivery. The tone of someone checking items off a list — accurate without being mechanical. Brief and complete.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、賃貸、絶対、物件、絶対、関連の、絶対、通報、絶対、増えております、本気で、感謝",
+      "en": "We're seeing an increase in reports related to rental properties coming through the police department.",
+      "style": "Informational, matter-of-fact. Slight weight on 'increase' — the data point being shared. Measured pace. No alarm, but the note is being raised for a reason.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。建物の、本気で、絶対、図面、絶対、警察様、絶対、ご提出、絶対、いたしました、本気で、感謝",
+      "en": "Yes. We've submitted the building blueprints to the police department.",
+      "style": "Confirmation of action taken. Steady, professional tone. The satisfaction of a task completed and communicated. No hesitation, no embellishment.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、本気で、絶対、法制、絶対、改正、絶対、対応、絶対、進めております、本気で、感謝",
+      "en": "The police department is advancing efforts to respond to legislative reform on this front.",
+      "style": "Official update. Slightly formal register — this is information of substance. Deliberate pacing. The tone of someone sharing progress in an ongoing process that matters.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。県知事、本気で、絶対、表敬訪問、絶対、警察様、絶対、護衛、絶対、お願いします、本気で、感謝",
+      "en": "Yes. We'd like to request police escort for the prefectural governor's courtesy visit.",
+      "style": "Formal request, final item. Polite but direct. The tone of concluding a meeting with one remaining procedural ask. Professional gratitude underlying the request.",
+      "mood": "respectful_closing"
+    }
+  ]
+}

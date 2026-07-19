@@ -1,0 +1,86 @@
+{
+  "id": "conv_07960",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 賑わっ/戸惑う/祝っ/釣っ/ありえ/よくよく/ふっと/にわか",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "賑わっ",
+    "戸惑う",
+    "祝っ",
+    "釣っ",
+    "ありえ",
+    "よくよく",
+    "ふっと",
+    "にわか"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_399 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祭り、賑わってたわね",
+      "en": "Sho, the festival was really lively, wasn't it?",
+      "style": "Warm observation, slightly distant—looking back on the day together. Soft, conversational. A mother's gentle noticing tone.",
+      "mood": "nostalgic_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、新しいクラスで戸惑うんだ",
+      "en": "Mom, I'm feeling lost in my new class.",
+      "style": "Quiet vulnerability underneath. Not a complaint—more a careful confession. Pace slows. Seeks reassurance without asking directly.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが翔くんの誕生日、お祝ってくださるわよ",
+      "en": "Sho, your father is going to celebrate your birthday properly.",
+      "style": "Reassuring and gentle. A promise made softly. Slight lift at the end—offering comfort without making it grand.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと魚を釣ったよ",
+      "en": "Mom, I went fishing with Dad.",
+      "style": "Bright, genuine pride in the memory. Not loud, but alive—the words tumble out with small-boy enthusiasm. Direct eye contact.",
+      "mood": "pleased_proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ありえないほど立派ね",
+      "en": "Sho, you did something truly wonderful.",
+      "style": "Sincere admiration, no performance. Quiet strength in the praise. A mother's genuine recognition of her son's effort.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくよくよく考えてお勉強する",
+      "en": "Mom, I've been thinking hard and studying really carefully.",
+      "style": "Solemn, deliberate. Not seeking approval, but wanting to be understood. Speaks with quiet determination. Slight breathiness—earnestness of effort.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ふっと懐かしいおもちゃ、思い出すわね",
+      "en": "Sho, you suddenly reminded me of an old toy you used to love.",
+      "style": "Tender, almost wistful. A memory surfacing unexpectedly. Warm pace, slight trail-off as the image settles in her mind.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、にわか雨で傘がなかったよ",
+      "en": "Mom, we got caught in a sudden rainstorm and had no umbrella.",
+      "style": "Dry, matter-of-fact with a hint of amusement underneath. Small-boy pragmatism—a slight wry tone. Not complaining, just stating.",
+      "mood": "wry_matter_of_fact"
+    }
+  ]
+}

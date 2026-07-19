@@ -1,0 +1,75 @@
+{
+  "id": "conv_02753",
+  "context": "Saito explains a morning appointment to a patient.",
+  "purpose": "WIDENED SCENARIO: clinic scheduling; vocabulary (先ほど/時刻/とおり/午前/前回) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "先ほど",
+    "時刻",
+    "とおり",
+    "午前",
+    "前回"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_138)",
+    "generated_at": "2026-05-29T14:04:51.307Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "次の予約は、いつでしょうか?",
+      "en": "When is my next appointment?",
+      "style": "polite office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "前回どおり、午前がよろしいですね。",
+      "en": "As last time, morning is good.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "時刻は、九時で大丈夫ですか?",
+      "en": "Is nine o'clock okay?",
+      "style": "attentive office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "先ほど確認したとおり、九時で取れます。",
+      "en": "As I checked just now, nine is available.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "前回の検査の結果も、聞けますか?",
+      "en": "Can I hear last time's test results too?",
+      "style": "curious office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、前回の結果も、その時刻にお伝えします。",
+      "en": "Yes, I'll share last time's results at that time.",
+      "style": "gentle doctor voice, soft warm reassuring clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "午前なら、仕事の前に来られます。",
+      "en": "If it's morning, I can come before work.",
+      "style": "relieved office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "では、そのとおり予約しておきますね。",
+      "en": "Then I'll book it accordingly.",
+      "style": "warm doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

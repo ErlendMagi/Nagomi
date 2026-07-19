@@ -1,0 +1,84 @@
+{
+  "id": "conv_04181",
+  "context": "A police officer briefs a teen reporter on a serious incident",
+  "purpose": "Teach: 殺害/銃/爆弾/解雇/死者/探偵/悲劇/単独",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "殺害",
+    "銃",
+    "爆弾",
+    "解雇",
+    "死者",
+    "探偵",
+    "悲劇",
+    "単独"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "昨夜、ここで起きた殺害事件について、君に話せる範囲で説明する。",
+      "en": "Last night, regarding the murder case that occurred here, I'll explain within what I can share with you.",
+      "style": "Authoritative officer measured tone briefing a junior reporter carefully."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お願いします。現場では銃声も聞こえたって近所の方が言ってましたが、本当ですか?",
+      "en": "Please go ahead. Neighbors said gunshots were heard at the scene — is that true?",
+      "style": "Eager young reporter pressing politely but firmly for confirmation."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "事実だ。さらに現場の倉庫からは、時限爆弾と思われる装置も発見されている。",
+      "en": "It's a fact. Furthermore, what appears to be a time bomb was also discovered in the warehouse at the scene.",
+      "style": "Grave delivery, deliberately slow, each word weighted with professional restraint."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "爆弾まで…。あぁ、信じられない。死者数は今のところ何名と発表されるんですか?",
+      "en": "Even a bomb… Ah, unbelievable. How many fatalities are being announced at this point?",
+      "style": "Voice catching slightly, shaken but pushing through to keep asking."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "現時点で三名。容疑者は単独犯の可能性が高いと、捜査本部は見ている。",
+      "en": "Three at this point. The investigation headquarters believes the suspect was likely acting alone.",
+      "style": "Clipped factual cadence, sharing only what's been officially cleared for release."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "単独でこんな悲劇を…。動機については、何か分かっていることはありますか?",
+      "en": "One person caused this tragedy alone… Do you know anything yet about the motive?",
+      "style": "Quieter now, processing the weight while staying journalistically focused."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "会社からの解雇通告を受けた直後だったという情報がある。ただし裏付けは取れていない。",
+      "en": "There's information that it was right after he received a dismissal notice from his company. However, we haven't been able to corroborate it yet.",
+      "style": "Confidential lowering of voice, sharing context not yet in the press release."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "実はその件、知人の私立探偵から似た話を耳にしていて、こちらでも確認を進めていました。",
+      "en": "Actually, on that matter, I heard a similar story from a private detective I know, and we've been confirming it on our end too.",
+      "style": "Lowering voice in turn, offering parallel reporting lead respectfully to the officer."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうか。情報源は守るが、記事にする前に必ずこちらに最終確認を入れてくれ。",
+      "en": "I see. Protect your source, but be sure to run a final check with us before publishing the article.",
+      "style": "Firm professional instruction, treating her as a colleague rather than a kid."
+    }
+  ]
+}

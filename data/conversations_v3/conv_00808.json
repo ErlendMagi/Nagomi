@@ -1,0 +1,76 @@
+{
+  "id": "conv_00808",
+  "context": "Sakura asks Asuka about preparing for university entrance exams.",
+  "purpose": "student-teacher exam-prep mentoring",
+  "ambient": "classroom_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "試験",
+    "勉強",
+    "一緒",
+    "頑張る",
+    "相談"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_041)",
+    "generated_at": "2026-05-27T02:04:36.447Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、来年の試験、不安です。",
+      "en": "Teacher, I'm really worried about the exam next year.",
+      "style": "Soft, hesitant opening. Vulnerability breaking through the surface — she's letting her guard down. Warm but genuine, not performing. Slight dip in pitch at the end, searching for reassurance.",
+      "mood": "anxious_vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "皆、そうだよ。早めに、相談、大切。",
+      "en": "Everyone feels that way. It's important to talk about it early.",
+      "style": "Steady, calm anchor. A light touch of encouragement beneath the words — not cheerful, but genuinely reassuring. Lean forward slightly in posture. Even breath, measured pace. She's held this conversation before and means it.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強の方法、教えてください。",
+      "en": "Could you teach me how to study for it?",
+      "style": "Voice lifting with a small note of hope. Respectful but not deferential — she's asking for something she needs. The question is sincere, not rhetorical. A breath before speaking, gathering courage.",
+      "mood": "hopeful_asking"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "毎日、少しずつ。継続が、大事。",
+      "en": "A little bit every day. That's what matters — the consistency.",
+      "style": "Quiet conviction. No rush to fill space. Words spaced with intention, like she's handing her a map. Warm but not soft — this is the solid part of the advice. Slight pause between the two thoughts.",
+      "mood": "wise_steady"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "頑張ります。家でも、続けます。",
+      "en": "I will. I'll keep going at home too.",
+      "style": "Determination crystallizing. Her voice firms up, resolve settling in. Not loud — private conviction. She's made a promise, mostly to herself. A small nod audible in the delivery.",
+      "mood": "resolved_committed"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "一緒に、頑張ろうね、最後まで。",
+      "en": "Let's do this together, all the way to the end.",
+      "style": "Warmth with backbone. A soft promise woven through — 'together' carries the weight of it. Eye contact held. Not maternal, but genuinely invested. The closing feels like an opening.",
+      "mood": "warm_alliance"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。",
+      "en": "Thank you so much.",
+      "style": "Genuine gratitude, quietly spoken. Not performative. A small breath before the words. The respect is there, but so is the warmth — she means it, and she feels heard.",
+      "mood": "grateful"
+    }
+  ]
+}

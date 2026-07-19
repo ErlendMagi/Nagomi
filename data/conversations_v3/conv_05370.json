@@ -1,0 +1,72 @@
+{
+  "id": "conv_05370",
+  "context": "A police officer briefs a uni reporter about a regulatory case",
+  "purpose": "Teach: 担っ/書き込ん/専念/県警/整合/図り/出題/一律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "担っ",
+    "書き込ん",
+    "専念",
+    "県警",
+    "整合",
+    "図り",
+    "出題",
+    "一律"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、所管が県警と自治体、両方で担っています。",
+      "en": "Authority over this case is shared between the prefectural police and the municipality.",
+      "style": "Even, measured opening. Clinical but not cold — explaining procedure as fact. Steady eye contact. No flourish.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "整合性は、どのように図り出していますか。",
+      "en": "How do you ensure alignment between the two of them?",
+      "style": "Careful, respectful question. Slight hesitation before speaking — thinking through the phrasing. Genuine curiosity, not testing.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "規程に一律準拠した運用と、定例会で書き込んでくる議事録の活用です。",
+      "en": "We operate under uniform guidelines, and we use the meeting minutes from our regular coordination sessions.",
+      "style": "Direct, informative. Speaking from knowledge, not reading. Tempo picks up slightly on the second half. Confident without being rehearsed.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "業務に専念する担当者、いるんですよね。",
+      "en": "So there's someone whose whole job is dedicated to coordinating between them.",
+      "style": "Quiet realization in the voice. Not a question, though phrased like one — checking his understanding. Respectful, noting the effort involved.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。新人試験の出題も、業務理解の一環です。",
+      "en": "Yes. The entrance exam questions we write are part of deepening that understanding.",
+      "style": "Affirming nod in the voice. Pride, subtle — in the system, not in himself. Clear and unbothered. Slightly slower on the explanation, letting it land.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記事に反映させていただきます。",
+      "en": "Thank you. I'll include that in the article.",
+      "style": "Respectful closing. Quiet gratitude. Looking down briefly, then back up — genuine thanks, not performance. Slight exhale of relief.",
+      "mood": "grateful"
+    }
+  ]
+}

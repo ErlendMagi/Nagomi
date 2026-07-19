@@ -1,0 +1,97 @@
+{
+  "id": "conv_00137",
+  "context": "A phone call. Tatsuya is calling Naoko's ramen shop because she sent him hometown miso a month ago and he's been meaning to say thanks.",
+  "purpose": "cross-region adult phone call — Tohoku slowness meets Kansai brightness",
+  "ambient": "phone_call_silent",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "元気",
+    "一緒",
+    "ありがとう",
+    "大丈夫"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "もしもし、なおこさんかな。",
+      "en": "Hello — is this Naoko-san?",
+      "style": "Patient, unhurried opening. Warm vocal timbre. Slight rise at the end as genuine question, not performing politeness. A man comfortable with silence.",
+      "mood": "respectful_gentle"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "はーい、なおこです。どなたさん？",
+      "en": "Yes — this is Naoko. Who's calling?",
+      "style": "Bright, immediate recognition. Energy lifts on the greeting. Friendly curiosity in the question — leaning forward slightly in posture. Ready to be delighted.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "岩手の、遠藤やけど。…味噌、本当にありがとうな。",
+      "en": "It's Tatsuya Endo from Iwate. Really, thank you for the miso.",
+      "style": "Slow, deliberate gratitude. Slight weight on 'thank you.' No performance — just steady acknowledgment of kindness received. Pause before the thanks, like he's been carrying it.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "えっ、わざわざ電話くれたん？嬉しい！",
+      "en": "You called just to say that? That makes me happy.",
+      "style": "Genuine surprise breaking through. Voice brightens audibly. Short, direct sentences — no filtering between feeling and voice. A moment of real pleasure landing fully.",
+      "mood": "touched_delighted"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "一ヶ月前のことやけど、本当に、お礼を。",
+      "en": "It was a month ago, but I really wanted to thank you.",
+      "style": "Quiet, almost formal in restraint. Slight breathiness — the small effort of making a phone call across distance and time. Respectful pause before the second thought.",
+      "mood": "earnest_humble"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "いえいえ。お元気にしてはった？",
+      "en": "Not at all. Have you been keeping well?",
+      "style": "Warm, practical turn toward him. The question lands with genuine interest — not performance. Kansai lilt gentle and natural. A woman who wants to know the answer.",
+      "mood": "caring_attentive"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おかげさんで。…一緒に飲んだ夜、本当にええ夜やった。",
+      "en": "Thanks to you. That night drinking together — it was truly a good night.",
+      "style": "Slow, reflective warmth. The memory lives in the voice. No rush. Small emphasis on 'truly' — understatement that carries weight. The contentment of someone remembering something real.",
+      "mood": "nostalgic_warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "やんなあ。…次は、いつ？時間、合わせるで。",
+      "en": "Right? Next time — when can you come? I'll work around your schedule.",
+      "style": "Energetic, generous offer. Voice carries certainty and warmth. No doubt in the 'I'll match your time.' Quick, direct — a woman making a promise without hesitation.",
+      "mood": "eager_assured"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "春、また、行こうかな。",
+      "en": "Spring, maybe. I'd like to come again.",
+      "style": "Soft consideration. A gentle suggestion, not a commitment — the 'maybe' is real. Quiet anticipation in the trailing off. The voice of someone looking forward without pressure.",
+      "mood": "hopeful_thoughtful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "春、待ってる。本当に。",
+      "en": "Spring — I'll be waiting for you. Really.",
+      "style": "Quiet certainty. The repetition of 'really' carries weight, not emphasis. Warm closure, but underneath is actual commitment. A woman making a quiet promise she'll keep.",
+      "mood": "tender_faithful"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "conv_00072",
+  "context": "A Kyushu coastal road. Ren is lost (visiting from Tokyo); Goro, walking home from the pier, intercepts him.",
+  "purpose": "incidental rural help — old man cuts through tourist politeness",
+  "ambient": "city_street_day",
+  "target_vocab": [
+    "本当に",
+    "すみません",
+    "どこ",
+    "見る",
+    "時間"
+  ],
+  "cast": [
+    "goro_grandpa",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_004)",
+    "generated_at": "2026-05-26T18:16:53.361Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、ちょっと道、お聞きしても…",
+      "en": "Excuse me — could I ask for directions?",
+      "style": "Polite city register. Slight bow of the shoulders in the voice. Hesitant opening — not quite certain of welcome. Soft attack on the apology.",
+      "mood": "respectful_uncertain"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ん？どこ行きたいんね。",
+      "en": "Eh? Where do you wanna go?",
+      "style": "Kyushu cadence, direct and immediate. No preamble, no softening. Opens with genuine curiosity, not obligation. Easy pace.",
+      "mood": "direct_curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "神社、なんですけど…地図、わかりにくくて。",
+      "en": "A shrine — but the map's really hard to follow.",
+      "style": "Half-laugh at his own helplessness. Self-deprecating but not heavy. Voice carries the moment fully, almost warm in the admission.",
+      "mood": "self_deprecating"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "ああ、あれな。本当にわかりにくいわ、あの地図。",
+      "en": "Ah, that one — yeah, that map's genuinely confusing.",
+      "style": "Half-grin in the voice. Recognition lighting up. Sympathetic without ceremony or extra warmth. Simple agreement that costs nothing.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に、すみません。",
+      "en": "Really — sorry to bother you.",
+      "style": "Reflexive apology, automatic politeness. Half-bow inside the voice. Quick, not dwelling. Habitual concern for the other person's time.",
+      "mood": "deferential"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "いいから。あっち。坂の上、見える？",
+      "en": "Don't worry about it. Over there — up the slope, you see it?",
+      "style": "Kyushu economy of words. Points with the chin in the voice. Practical directness without a trace of impatience. Matter-of-fact kindness.",
+      "mood": "matter_of_fact_kind"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、見えます。本当にありがとうございます。",
+      "en": "Yes — I can see it. Truly, thank you.",
+      "style": "Real bow inside the voice. The gratitude unforced and genuine. Weight on 「本当に」 — not empty politeness but actual relief and appreciation.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "気ぃつけて。時間、もう夕方やで。",
+      "en": "Be careful out there. It's almost evening.",
+      "style": "A small fatherly afterword. The directions weren't the whole point. Quiet weight of genuine concern. No rush, just looking out.",
+      "mood": "protective"
+    }
+  ]
+}

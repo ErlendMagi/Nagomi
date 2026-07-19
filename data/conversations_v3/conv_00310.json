@@ -1,0 +1,83 @@
+{
+  "id": "conv_00310",
+  "context": "Ren returns to Dr. Saito two months later. He's been doing the suggested things and feels much better.",
+  "purpose": "mental health follow-up — patient reporting improvement",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "調子",
+    "改善",
+    "生活",
+    "習慣",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_016)",
+    "generated_at": "2026-05-26T20:48:29.338Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "れんさん、その後、どうですか。",
+      "en": "Ren-san, how have you been?",
+      "style": "Doctor warm professional gentle careful follow-up-opening, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "おかげさまで、調子いいです。",
+      "en": "Thanks to you, doing well.",
+      "style": "University student warm sincere bright relieved-reporting, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-bright"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは何より。生活、変えてみました？",
+      "en": "That's the best. Did you change your life?",
+      "style": "Doctor warm professional gentle pleased clarifying, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "pleasedly-clarifying"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "スマホ、寝る前にやめました。あと、朝歩いてます。",
+      "en": "I stopped the phone before bed. Also, I walk mornings.",
+      "style": "University student warm sincere proud-specific reporting, the soft real real-real audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-proud"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "すごい、ちゃんと実行できて。",
+      "en": "Wonderful, properly carried out.",
+      "style": "Doctor warm gentle sincere bright proud-recognizing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-recognizing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "習慣にすると、楽になりました。",
+      "en": "Once it became habit, it got easier.",
+      "style": "University student warm sincere reflective-deep sharing, the soft real real-growth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "これからも、無理せず続けてください。",
+      "en": "From now on too, without forcing — continue.",
+      "style": "Doctor warm gentle wise mentor-closing-care, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "gently-mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、ありがとうございました。安心しました。",
+      "en": "Yes, thank you. I'm relieved.",
+      "style": "University student warm sincere deep grateful closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-deep"
+    }
+  ]
+}

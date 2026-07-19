@@ -1,0 +1,72 @@
+{
+  "id": "conv_05381",
+  "context": "Two cafe friends gossip about a clumsy date",
+  "purpose": "Teach: ヘン/タダ/すき/乙/間もなく/待て/こなす/ぶつけ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘン",
+    "タダ",
+    "すき",
+    "乙",
+    "間もなく",
+    "待て",
+    "こなす",
+    "ぶつけ"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "昨日のデート、なんかヘンな感じだったの。",
+      "en": "Yesterday's date felt kind of… off, you know?",
+      "style": "Soft opening, like confiding something she's been turning over. Quiet, searching tone. Slight hesitation before 'off' — she's still trying to name it. Warm and trusting.",
+      "mood": "uncertain_tender"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "どんな風に?",
+      "en": "Off how?",
+      "style": "Genuine curiosity, leaning in slightly. Not probing — inviting. Easy, attentive. The tone of someone who wants to understand.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "お店入った間もなく、彼が膝をテーブルにぶつけて、しばらく待ての状態。",
+      "en": "Right when we got to the table, he banged his knee really hard and just… kind of froze there for a minute.",
+      "style": "Slight wince in the voice on 'banged.' Sympathetic to his pain. Matter-of-fact but not unkind. Paces the story naturally, with a small pause before 'froze' — imagining the awkwardness.",
+      "mood": "sympathetic_amused"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うわ。でもタダで奢ってくれた?",
+      "en": "Oh no. But he didn't let that mess up the whole thing, right?",
+      "style": "Light tease, warm undertone. A small laugh hiding underneath. Not mocking — rooting for him. Conspiratorial, like she already knows something good.",
+      "mood": "playful_encouraging"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "すきあらばって感じで会計済ませてくれて、乙な気遣いだったよ。",
+      "en": "He paid for everything pretty much right away. It was sweet — like he was trying to save the moment.",
+      "style": "Softer now, a little admiring. Slow, gentle pace on 'sweet.' Warmth creeping in as she realizes the kindness beneath the stumble. Trailing off slightly on the last phrase.",
+      "mood": "warm_moved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "よし、次回はうまくこなすね、彼。",
+      "en": "He'll get the hang of it next time. He's going to be fine.",
+      "style": "Reassuring and warm, almost maternal. Light, affirming tone — not dismissing what happened, but gently closing the worry. Small smile in the voice. Settled and kind.",
+      "mood": "warm_confident"
+    }
+  ]
+}

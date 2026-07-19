@@ -1,0 +1,65 @@
+{
+  "id": "conv_05526",
+  "context": "A boss reviews a product-naming proposal",
+  "purpose": "Teach: 通路/通話/品種/実体/原点/ネーム/努める/写し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通路",
+    "通話",
+    "品種",
+    "実体",
+    "原点",
+    "ネーム",
+    "努める",
+    "写し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新商品のネーム、原点に立ち返って決めたか?",
+      "en": "Did you go back to first principles on the new product name?",
+      "style": "Direct, measured question. Light emphasis on the core inquiry. Pause after the opening phrase. Steady, observant gaze—this is a real check-in, not rhetorical.",
+      "mood": "assured_probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内通話で実体ある声を集め、最終案を絞りました。",
+      "en": "Yes. I gathered input from colleagues via in-house calls and narrowed it down to the final options.",
+      "style": "Clear, composed delivery. Words land with quiet confidence. Slight lift on the final part—pride in the process, not overselling it. Direct eye contact, no hesitation.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "品種別の通路展示、改善に努める方向で進めてくれ。",
+      "en": "For the per-product displays in the aisles, push forward with improvements.",
+      "style": "Directive but not harsh. Decisive opening. The words carry weight without lecturing. A slight nod embedded in the voice—this is what needs to happen next.",
+      "mood": "authoritative_fair"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。提案書の写しも、本日中に共有します。",
+      "en": "Understood. I'll share copies of the proposal by end of day.",
+      "style": "Prompt, reassuring acknowledgment. Brisk but not curt. The specificity of 'by end of day' lands like a small promise being made and kept in real time.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼む。",
+      "en": "Count on it.",
+      "style": "Quiet closure. Warm undercurrent—trust offered and returned. Understated, the kind of 'thank you' that doesn't need elaboration. Slight downward inflection, final.",
+      "mood": "trust"
+    }
+  ]
+}

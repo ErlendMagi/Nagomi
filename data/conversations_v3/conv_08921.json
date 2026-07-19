@@ -1,0 +1,86 @@
+{
+  "id": "conv_08921",
+  "context": "Mom and son chat",
+  "purpose": "Teach: ウキウキ/なんにも/おこる/ひと時/概して/めんどう/こまかい/やむを得ず",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウキウキ",
+    "なんにも",
+    "おこる",
+    "ひと時",
+    "概して",
+    "めんどう",
+    "こまかい",
+    "やむを得ず"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_448 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、明日の遠足で、ウキウキしてるのね",
+      "en": "Sho, you're all wiggly about tomorrow's field trip, aren't you?",
+      "style": "Warm observation with a gentle smile in the voice. Noticing him without making a fuss of it. Soft, present tone—the kind of attention that makes a child feel seen.",
+      "mood": "warm_observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、なんにも悪い事してないよ",
+      "en": "Mom, I didn't do anything bad.",
+      "style": "Quiet and a little defensive. Not whining—genuinely concerned about something he's picked up on. A small, serious voice checking himself against an invisible rule.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは悪いことがおこると先に気付かれるのよ",
+      "en": "Sho, your dad has a way of noticing when something's about to go wrong before it happens.",
+      "style": "Thoughtful, patient explanation. Not criticizing—describing something about Ryosuke with a kind of gentle understanding. Steady pace, like she's helping Sho understand his father better.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖父ちゃんと、ひと時のおしゃべりが楽しかったよ",
+      "en": "Mom, I had such a nice time just talking with Grandpa.",
+      "style": "Soft brightness, unprompted sharing. He's not boasting—he's offering her something he liked, wanting her to know. A small, genuine happiness underneath the words.",
+      "mood": "content"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんは概して優しい人なのよ",
+      "en": "Sho, your dad is kind to people overall. That's just how he is.",
+      "style": "Reassurance wrapped in simple truth. Not defensive of Ryosuke, just stating something true. Calm, anchoring—like she's helping Sho put something he's worried about in the right place.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お片付けはめんどうだよ",
+      "en": "Mom, cleaning up is such a pain.",
+      "style": "Small sigh underneath. Not complaining loudly—more a quiet observation of something hard. A little weary, but the weariness of an honest kid, not a whiny one.",
+      "mood": "reluctant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、こまかいおもちゃは無くさないようにね",
+      "en": "Sho, make sure you don't lose those tiny toys, all right?",
+      "style": "Practical, clear direction. Not urgent, but present—the tone of someone who's learned from experience. A little bit tired, but not short. Matter-of-fact gentleness.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お友達と遊ぶの諦めたよ、やむを得ずだよ",
+      "en": "Mom, I gave up playing with my friends because I had to help clean up.",
+      "style": "Quiet, matter-of-fact resignation. Not asking for sympathy—just stating the trade-off he's made. A small, dry acknowledgment that sometimes choices are made for you. Slight weariness underneath.",
+      "mood": "resigned"
+    }
+  ]
+}

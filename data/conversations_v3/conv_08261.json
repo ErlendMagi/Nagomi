@@ -1,0 +1,86 @@
+{
+  "id": "conv_08261",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 明後日/ソファー/身の回り/空腹/憶え/定か/あこがれ/わが家",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "明後日",
+    "ソファー",
+    "身の回り",
+    "空腹",
+    "憶え",
+    "定か",
+    "あこがれ",
+    "わが家"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_415 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、明後日は遠足だから、早く寝てね",
+      "en": "Sho, you need to get to bed early the day after tomorrow — we have that field trip.",
+      "style": "Gentle, matter-of-fact instruction. Warm but purposeful. The tone of a mother organizing the evening, not commanding. Light touch on the reasoning.",
+      "mood": "practical_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんがソファーで眠ってるよ",
+      "en": "Mom, Dad's asleep on the sofa.",
+      "style": "Quiet observation, neither complaining nor judgmental. States it as a small fact he's noticed. Slight wondering in the delivery, like he's checking if this is important.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、身の回りのお片づけ、自分でやってね",
+      "en": "Sho, I need you to tidy up your things yourself, okay?",
+      "style": "Clear expectation, not harsh. A mother who knows when to ask directly. Warm underneath — this is about teaching, not controlling. Steady pace.",
+      "mood": "firm_kind"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、空腹で集中できないよ",
+      "en": "Mom, I can't concentrate because I'm hungry.",
+      "style": "Straightforward statement from a small child with genuine logic. A slight undertone of practicality — this is a problem he's identified. Not whining, just fact-stating with a hint of wry acceptance.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんに憶えてもらった、お話覚えてる?",
+      "en": "Sho, do you remember that story Grandpa told you?",
+      "style": "Gentle shift in attention. She's drawn his mind to something else. Warm, curious about what he'll say. A mother redirecting with affection, not distraction.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、明日のお天気、定かじゃないよね",
+      "en": "Mom, I'm not sure what the weather will be like tomorrow, though.",
+      "style": "Quiet, slightly worried observation. He's connecting details — the trip, the weather. Thoughtful and a little uncertain. The trailing 'though' shows him thinking out loud.",
+      "mood": "worried_thoughtful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが宇宙飛行士にあこがれてたって",
+      "en": "Sho, did you know Dad used to dream of being an astronaut?",
+      "style": "Soft, reflective. She's sharing something gentle about his father. A mother offering him a tender piece of family history. Warm without being heavy.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、わが家の夕食、楽しいよね",
+      "en": "Mom, dinner at home is fun, isn't it?",
+      "style": "Contented statement with gentle upward lift at the end. A small child naming something good he's noticing. Genuine warmth, no performance. A moment of peace before bed.",
+      "mood": "content_affectionate"
+    }
+  ]
+}

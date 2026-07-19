@@ -1,0 +1,65 @@
+{
+  "id": "conv_05627",
+  "context": "Two managers discuss restructuring",
+  "purpose": "Teach: 残高/納税/人件/同行/職種/命じ/多額/持ち出し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "残高",
+    "納税",
+    "人件",
+    "同行",
+    "職種",
+    "命じ",
+    "多額",
+    "持ち出し"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "人件費の上振れ、今期残高に多額の影響だね。",
+      "en": "The personnel-cost overrun is going to have a significant impact on our bottom line this quarter.",
+      "style": "Clipped, professional opening. Eyes on the numbers, not the problem. Steady pace, no inflection—this is fact, not concern. Brief trailing acknowledgment.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理同行で財務会議に出ました。",
+      "en": "Yes. I sat in on the finance meeting with the accounting department.",
+      "style": "Straightforward confirmation. Light emphasis on 「attended」—showing he was there, did the work. No elaboration. Professional but present.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "納税までに、職種ごとの試算を出してほしい。",
+      "en": "I need role-by-role cost projections before we file taxes.",
+      "style": "Shift to directive. Clear, measured authority without sharpness. Each phrase lands with quiet weight. Pause-for-acknowledgment at the end.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。役員も命じています、社外への持ち出し厳禁と。",
+      "en": "Yes. The executives have also made it clear: absolutely no sharing this outside the company.",
+      "style": "Reinforcing now, not new information. Slight emphasis on 「ordered」—the weight from above. Careful, controlled tone. Information delivered, not defended.",
+      "mood": "cautionary"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "各課にも周知を。",
+      "en": "Make sure every department hears about it too.",
+      "style": "Final instruction, quieter than the last. Not urgent, but non-negotiable. Soft close, as if already looking to the next thing.",
+      "mood": "measured"
+    }
+  ]
+}

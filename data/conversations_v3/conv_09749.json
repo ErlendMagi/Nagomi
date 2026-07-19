@@ -1,0 +1,86 @@
+{
+  "id": "conv_09749",
+  "context": "Officer briefs",
+  "purpose": "Teach: 市政/不正確/手引き/ライフサイクル/移設/定率/不払い/ファクス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市政",
+    "不正確",
+    "手引き",
+    "ライフサイクル",
+    "移設",
+    "定率",
+    "不払い",
+    "ファクス"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_489 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、市政と連携した防犯活動をされてますね",
+      "en": "I see police work alongside the city government on crime prevention initiatives.",
+      "style": "Measured, slightly formal. Acknowledging tone—gentle upswing at the end. Not challenging, but genuinely curious about the work. Observant.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、不正確な目撃情報の整理もされますね",
+      "en": "And you also organize witness statements, even the uncertain ones.",
+      "style": "Continuing smoothly from the previous thought. Slightly impressed. Even pace, warm. A small nod embedded in the voice—recognizing the detail work.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、防犯手引きを市民に配布されますね",
+      "en": "You distribute crime prevention guides to residents too.",
+      "style": "Still warm and observant. Building a picture. Light, matter-of-fact delivery. No strain—just listing what he's noticing you do.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、犯罪のライフサイクル分析もされますね",
+      "en": "And crime pattern analysis—you look at the broader lifecycle of incidents.",
+      "style": "Slightly more impressed now. Slower on 「ライフサイクル」 equivalent—showing he sees this takes real work. Genuine interest, not flattering.",
+      "mood": "respectful_impressed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、捜査本部の移設も検討されますね",
+      "en": "Even relocating investigation headquarters when needed.",
+      "style": "Continuing the building list with steady respect. Matter-of-fact, but the word 「移設」 gets a tiny weight—he notices it's not simple. No rush.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、罰金の定率改定にも対応されますね",
+      "en": "And adapting to changes in fine structures.",
+      "style": "Same steady warmth. Slightly quicker here—less dramatic work, but still details that matter. Keeping pace even with the administrative side of things.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、罰金不払い案件にも対応されますね",
+      "en": "You handle cases where fines go unpaid too.",
+      "style": "Still warm but a touch more grounded. The reality of the work—not glamorous, but necessary. Slight weight on 「不払い」. He sees the whole job.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、緊急時はファクス連絡網も活用されますね",
+      "en": "And when something urgent happens, you activate the emergency fax network.",
+      "style": "Warmer here, almost intimate. He's moved from listing work to understanding how you actually *move* when it matters. Eyes a little closer. Genuine admiration underneath.",
+      "mood": "warm_impressed"
+    }
+  ]
+}

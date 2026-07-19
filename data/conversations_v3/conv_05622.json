@@ -1,0 +1,79 @@
+{
+  "id": "conv_05622",
+  "context": "A mom walks her son home from school",
+  "purpose": "Teach: 出口/ごみ/暗く/用事/食う/眺める/嫌わ/要ら",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "出口",
+    "ごみ",
+    "暗く",
+    "用事",
+    "食う",
+    "眺める",
+    "嫌わ",
+    "要ら"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、学校の出口で、ごみ拾いの当番だったんだよ。",
+      "en": "Mom, I was on litter duty at the school exit today.",
+      "style": "Eager, matter-of-fact report. Quick tempo, straightforward. Pride tucked under the surface — stating the fact itself lets adults know he did something good.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "えらいね。空が暗くなる前に終わってよかった。",
+      "en": "Good job. I'm glad you finished before it got dark.",
+      "style": "Warm approval, genuine. Soft warmth — not effusive, but solid. A small pause after 'good job,' letting it land. Practical concern underneath the praise.",
+      "mood": "proud_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "夕方、ママ用事あるって言ってたよね?",
+      "en": "You said you had an errand this evening, didn't you?",
+      "style": "Gentle check-in, not demanding. Quiet observation — he's already been thinking about her schedule. Small-voiced, attentive. Phrased as a question to confirm, not interrogate.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、ちょっと買い物。何か食うもの、買おうか。",
+      "en": "Yeah, just a quick errand. Should we pick up something to eat while we're out?",
+      "style": "Casual, practical warmth. Light tempo. A mother thinking aloud with her son, not at him. Offers inclusion in the small decision.",
+      "mood": "warm_efficient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さんが嫌わないものがいいなあ。",
+      "en": "Something Dad won't hate would be nice.",
+      "style": "Soft, careful thought. Not worried, just quietly aware — he's considering everyone in the equation. Small voice, almost to himself. Perceptive in the way only observant kids are.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、雲を眺めるあなたの横顔、可愛いよ。",
+      "en": "Hehe, your little face looking up at those clouds is so sweet.",
+      "style": "Tender, half-amused. A quiet laugh. She's caught him in a moment of his own world. Softly affectionate — not performing emotion, just noticing him. Warmth that expects nothing back.",
+      "mood": "affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "傘、要らないよね、今日は。",
+      "en": "We won't need an umbrella today, will we?",
+      "style": "Light, observational. Almost thinking aloud. A small confirmation — checking the sky, checking the moment. Tone suggests he's already registered the weather and is just confirming with her.",
+      "mood": "practical"
+    }
+  ]
+}

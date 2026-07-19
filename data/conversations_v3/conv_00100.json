@@ -1,0 +1,113 @@
+{
+  "id": "conv_00100",
+  "context": "A three-way meeting at the office. Hiroshi (boss), Kenji (senior subordinate), and Yuki (junior). The boss is laying out a difficult project; Yuki has been promoted into a leadership role on it.",
+  "purpose": "three-way workplace formality — assignment and quiet support",
+  "ambient": "office_meeting_room",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "今",
+    "大変",
+    "大丈夫",
+    "一緒",
+    "仕事"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "佐藤くん、田中さん、お時間ありがとう。",
+      "en": "Sato, Ms. Tanaka — thank you for making the time.",
+      "style": "Measured opening from the head of the table. No ceremony, clean enunciation. Voice carries quiet authority without striving for it. Respectful pause between names.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "(small bow) はい。",
+      "en": "(small bow) Yes.",
+      "style": "Brief, automatic professional response. The bow integral to the breath — not separate. Registers as present without overdoing it.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、よろしくお願いします。",
+      "en": "Yes, thank you for the opportunity.",
+      "style": "Genuine junior politeness delivered without strain. Careful enunciation on the gratitude. Holds steady eye-contact level in her voice — neither deferring nor presuming.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この案件、田中さんに、リードしてもらいたい。",
+      "en": "On this project — Ms. Tanaka, I want you to lead it.",
+      "style": "Direct hand-off without preamble. Simple declarative. The word 「lead」 lands with quiet certainty. No softening, no apology for the assignment.",
+      "mood": "trusting"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えっ…私、ですか？",
+      "en": "Me?",
+      "style": "Small startled lift on the opening. Voice catches briefly upward in genuine surprise. Hands move instinctively — the sound carries that impulse.",
+      "mood": "surprised"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。本当に、君に任せたい。",
+      "en": "Yes. I genuinely want you to take this on.",
+      "style": "The 「本当に」 rare from Hiroshi — it lands heavy. Warm but unadorned. Slight emphasis on 「genuinely」. No rush, full presence.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いい話ですね。私も、後ろから支えます。",
+      "en": "That's wonderful news. I'll support you from here.",
+      "style": "Small warm senior-colleague reassurance. Steady, attentive presence underneath. Not rushing to fill space — letting Yuki's moment land before he claims his own part of it.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お二人、本当にありがとうございます。",
+      "en": "Both of you — thank you so much.",
+      "style": "Real bow inside the voice. Breath catches slightly on gratitude — not broken, but reaching. Voice carries the weight of being trusted. Small trailing breath at the end.",
+      "mood": "grateful_moved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一緒に、進めよう。大変だが、できる。",
+      "en": "Let's move forward together. It's demanding — but we can do it.",
+      "style": "Firm small encouragement from the head. No rush, no pressure. The pauses matter. Voice settles into conviction without needing to prove it.",
+      "mood": "steady_encouraging"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "時間、私も合わせます。",
+      "en": "I'll match my schedule to yours.",
+      "style": "Parallel commitment delivered with full presence. Not rushed, not performative. The voice carries the weight of meaning what he says — a second layer of support.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "頑張ります。本当に、頑張ります。",
+      "en": "I'll give my best. Truly — my absolute best.",
+      "style": "Doubled commitment, deliberate and steady. The repetition is not emphasis but sincerity. Voice holds firm. No apology, no hedging.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼みます。",
+      "en": "I'm counting on you.",
+      "style": "Closing line, slight bow integral to the delivery. Simple, spare. The weight of that trust transmits in the quiet. Breath settles at the end.",
+      "mood": "trusting"
+    }
+  ]
+}

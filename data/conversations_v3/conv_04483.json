@@ -1,0 +1,72 @@
+{
+  "id": "conv_04483",
+  "context": "A boss and his manager discuss morning crime headlines",
+  "purpose": "Teach: 刑務所/徴収/独裁/妨害/騒動/偽装/偽造/言論",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "刑務所",
+    "徴収",
+    "独裁",
+    "妨害",
+    "騒動",
+    "偽装",
+    "偽造",
+    "言論"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、見たか？大物政治家が文書偽造の容疑で逮捕されたらしいぞ。",
+      "en": "Did you see this morning's paper? A big-shot politician was apparently arrested on document forgery charges.",
+      "style": "Gruff senior boss voice, low and authoritative, slightly indignant morning tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、私も読みました。税金の徴収にも不正があったとか。とんでもない騒動になっていますね。",
+      "en": "Yes, I read it too. Apparently there was fraud in tax collection too. It's turned into quite an uproar.",
+      "style": "Polite mid-career manager, measured and respectful, slightly disgusted undertone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "有罪になれば刑務所行きだろうな。あれだけの地位にいて、よくもまあ恥ずかしくないもんだ。",
+      "en": "If he's found guilty, it'll be prison for him. With a position like his, you'd think he'd be ashamed.",
+      "style": "Boss venting frustration, gravelly and emphatic, jaded older man tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "しかも記者会見では、報道を妨害するような発言まであったそうですよ。",
+      "en": "And on top of that, at the press conference he apparently made remarks that almost obstructed the reporting.",
+      "style": "Formal subordinate adding detail, slightly leaning forward, careful considered delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ひどい話だ。言論の自由はどこへ行ったんだ。まるで独裁国家みたいなやり方じゃないか。",
+      "en": "Terrible story. Whatever happened to freedom of speech? It's like the way things are done in a dictatorship.",
+      "style": "Frustrated boss lamenting loudly, deep voice with a heavy sigh at the end."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "派閥ぐるみで帳簿を偽装していた疑いもあるとか。根は深そうですね。",
+      "en": "There's also suspicion the whole faction was falsifying the books. The roots seem to run deep.",
+      "style": "Manager speculating cautiously, factual and slightly grim, steady professional pace."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まったく、朝からろくな話がない。コーヒーでも飲んでから仕事に取りかかろう。",
+      "en": "Honestly, not a single decent story this morning. Let's grab some coffee before getting to work.",
+      "style": "Resigned boss shifting topics warmly, inviting tone and slightly weary delivery."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04926",
+  "context": "A boss runs a meeting on a contentious policy proposal",
+  "purpose": "Teach: 討議/必見/共演/頂ける/平行/引き起こす/なおかつ/対等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "討議",
+    "必見",
+    "共演",
+    "頂ける",
+    "平行",
+    "引き起こす",
+    "なおかつ",
+    "対等"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_248 workflow wae9tniwh)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "では本日の議題に入る。例の人事制度改革案について、事前討議を重ねた上で結論を出したい。",
+      "en": "Then let's get to today's agenda. I want to reach a conclusion on the personnel reform proposal after thorough preliminary discussion.",
+      "style": "Formal opening, controlled authority, brisk meeting-chair cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "部長、率直に申し上げますが、現場に混乱を引き起こす恐れがある案かと存じます。",
+      "en": "Director, speaking frankly, I believe this proposal risks causing confusion on the ground.",
+      "style": "Polite pushback, careful keigo, slight hesitation under formality"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "懸念は分かる。だが効率化を進め、なおかつ社員の納得感も得る制度にしたいんだ。",
+      "en": "I understand the concern. But I want a system that advances efficiency and at the same time secures employee buy-in.",
+      "style": "Measured, persuasive, leader-explaining-vision register, tone matching the moment with quiet honesty"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ご趣旨は承知しております。ただこのままでは議論が平行線をたどり、結論が出ないかと存じます。",
+      "en": "I understand the intent. However, at this rate the discussion will run on parallel lines and we won't reach a conclusion.",
+      "style": "Diplomatic objection, business-Japanese phrasing, measured tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "だからこそ管理職と一般職を対等に扱う仕組みが必要だと考えている。",
+      "en": "That's precisely why I believe we need a framework that treats managers and rank-and-file employees as equals.",
+      "style": "Firm conviction, slight emphasis, persuasive forward lean"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。先日の労務部の資料、あれは一読に値する必見の報告書でしたので、皆で再確認しては如何でしょうか。",
+      "en": "I see. The HR department's materials from the other day were a must-read report worth careful study, so perhaps we should all review them again.",
+      "style": "Conciliatory pivot, suggestion softened with keigo"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良い提案だ。労務部と人事部の課長が共演するパネル形式で、合同レビューを来週設定してくれ。",
+      "en": "Good suggestion. Set up a joint review next week in a panel format where the HR and Personnel managers appear together.",
+      "style": "Decisive approval, practical delegating tone, brisk"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。役員の皆様にもご出席頂ける日程で調整いたします。",
+      "en": "Understood. I'll coordinate a schedule on which the executives can also attend.",
+      "style": "Crisp confirmation, deferential humble form closing the meeting"
+    }
+  ]
+}

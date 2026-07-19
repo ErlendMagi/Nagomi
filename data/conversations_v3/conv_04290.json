@@ -1,0 +1,78 @@
+{
+  "id": "conv_04290",
+  "context": "A manager mentors a new hire on reading research reports",
+  "purpose": "Teach: 指数/媒体/正規/相対/保持/バックナンバー/チャート/マクロ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "指数",
+    "媒体",
+    "正規",
+    "相対",
+    "保持",
+    "バックナンバー",
+    "チャート",
+    "マクロ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_216 workflow wb22z3chn)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "レンくん、まずはこの株価指数の動きを見てくれ。マクロ経済の流れを掴むのが第一歩だ。",
+      "en": "Ren, first take a look at the stock index movements. Grasping the macroeconomic flow is step one.",
+      "style": "Calm mentor tone, measured pace, slightly lower register, professional warmth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。正規分布のグラフは大学で習いましたが、実際のチャートを読むのは初めてです。",
+      "en": "Yes. I learned about normal distribution graphs at university, but reading actual charts is new to me.",
+      "style": "Earnest junior voice, slightly nervous, polite and clearly articulated"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "心配いらない。最初は他社との相対評価を意識すると、報告書の意図が見えてくる。",
+      "en": "No need to worry. At first, focus on relative comparisons with other firms, and the report's intent becomes clear.",
+      "style": "Reassuring mentor voice, steady cadence, encouraging undertone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。過去のデータはどう探せばいいでしょうか。",
+      "en": "I see. How should I go about finding past data?",
+      "style": "Curious junior voice, rising intonation on the question, attentive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "業界誌のバックナンバーが一番の媒体だ。経済新聞も含めて、過去三年分は必ず保持しておくこと。",
+      "en": "Back issues of industry magazines are the best medium. Including the financial papers, always keep at least three years' worth.",
+      "style": "Instructional manager tone, firm but patient, slight emphasis on the key advice"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "分かりました。資料を保持する場所も決めておきます。",
+      "en": "Understood. I'll also decide where to keep the materials.",
+      "style": "Diligent junior voice, taking mental notes, polite affirmation"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それから、数字だけでなく執筆者の経歴も見るんだ。正規の研究機関出身かどうかで信頼度が変わる。",
+      "en": "Also, look not just at the numbers but at the author's background. Whether they're from a proper research institution changes the credibility.",
+      "style": "Seasoned advisor tone, slower delivery, conveying hard-earned wisdom"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。今日からチャートと指数の見方を毎朝練習します。",
+      "en": "That's very helpful. Starting today I'll practice reading charts and indices every morning.",
+      "style": "Motivated junior voice, brighter tone, sincere determination at the end"
+    }
+  ]
+}

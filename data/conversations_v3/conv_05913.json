@@ -1,0 +1,79 @@
+{
+  "id": "conv_05913",
+  "context": "A police officer briefs a reporter about a medical-fraud case",
+  "purpose": "Teach: 麻酔/化石/慢性/申し立て/賞賛/予期/偏っ/迄",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻酔",
+    "化石",
+    "慢性",
+    "申し立て",
+    "賞賛",
+    "予期",
+    "偏っ",
+    "迄"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_297 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "医療詐欺、麻酔薬の不正流通、増えています。",
+      "en": "Medical fraud and illegal anesthesia distribution — both are on the rise.",
+      "style": "Measured, official tone. Even pace. No hurry. The opening statement of someone who has briefed people before. Steady eye contact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "化石的な手口だけでなく、新手も?",
+      "en": "Beyond the old playbook, then. There are new methods too?",
+      "style": "Genuinely curious, leaning in slightly. Quick on the uptake. The tone of someone following a thread and wanting the next piece. Light emphasis on 'new.'",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。慢性的な需要を悪用し、被害者から申し立てが相次いでいます。",
+      "en": "Yes. They're exploiting the persistent demand, and we're getting complaint after complaint from victims.",
+      "style": "Matter-of-fact delivery. Tempo picks up slightly on the accumulation. No emotion bleeding through — this is the shape of the problem, stated plainly.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察の対応、賞賛の声、医療界からも届いてますね。",
+      "en": "And the medical community is actually acknowledging the police work. That's not nothing.",
+      "style": "Observational, slight lift at the end like he's noticing something the officer might not have expected him to notice. Careful respect underneath.",
+      "mood": "perceptive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "予期しない手口、データが偏った時期もあり、捜査は粘り強く。",
+      "en": "The methods keep changing, and there were periods where our data was skewed. But we stay with it.",
+      "style": "Quiet resolve underneath. No drama. The tone of someone who has said 'we keep going' more times than he can count. Slight pause before 'But.'",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "公訴時効迄、捜査続けるんですね。",
+      "en": "You keep pursuing it right up until the statute of limitations expires.",
+      "style": "Statement of fact phrased as quiet understanding. Almost relieved to land on something concrete. Small nod in the voice.",
+      "mood": "clarifying"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。",
+      "en": "Yes.",
+      "style": "Affirmation. One word, clean. No elaboration needed. The period at the end is audible.",
+      "mood": "affirmative"
+    }
+  ]
+}

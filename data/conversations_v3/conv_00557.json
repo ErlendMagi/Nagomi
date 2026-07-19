@@ -1,0 +1,69 @@
+{
+  "id": "conv_00557",
+  "context": "Kenji and Ryosuke discuss recent news over a quick lunch.",
+  "purpose": "small civic-adult news discussion",
+  "ambient": "restaurant_lunch",
+  "sound_effects": [],
+  "target_vocab": [
+    "新聞",
+    "記事",
+    "政治",
+    "経済",
+    "意見"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_028)",
+    "generated_at": "2026-05-27T00:27:10.542Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さん、今朝の記事、見ました？",
+      "en": "Ryosuke-san, did you see this morning's article?",
+      "style": "Genuine curiosity. Conversational and warm without formality. Slight rise at the end—genuinely wondering if he caught it. Steady, easy delivery.",
+      "mood": "curious_warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん、経済の話。気になりますね。",
+      "en": "Yeah, the economic piece. It's concerning, isn't it.",
+      "style": "Thoughtful nod in the voice. Measured pace—he's thinking as he speaks. Warm agreement, but with a note of quiet seriousness underneath.",
+      "mood": "thoughtful_serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うちの仕事にも、影響、あるかもしれない。",
+      "en": "It might affect our work too, actually.",
+      "style": "Slight lean forward. Conversational but grounded—bringing it closer to home. Not alarmist, just realistic. Pause before 'actually' to let it land.",
+      "mood": "concerned_grounded"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "長期的には、難しい判断、求められそう。",
+      "en": "Long-term, we might face some difficult calls.",
+      "style": "Slower, more deliberate. The voice of someone who's seen this kind of thing before. Not pessimistic—just wise. Warm undercurrent despite the sobering words.",
+      "mood": "wise_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さんの意見、いつも、参考になります。",
+      "en": "Your perspective always helps me think it through.",
+      "style": "Genuine appreciation. Sincere without overdoing it. Lighter touch than the previous lines—letting the compliment breathe. Small, warm smile in the voice.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こちらこそ。お互い、考えていきましょう。",
+      "en": "Same here. Let's keep working through it together.",
+      "style": "Closing warmth. Steady, inclusive tone. The 'together' carries weight—not rushed, not sentimental. A quiet commitment to thinking as a pair.",
+      "mood": "warm_collaborative"
+    }
+  ]
+}

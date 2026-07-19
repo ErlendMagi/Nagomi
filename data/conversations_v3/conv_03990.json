@@ -1,0 +1,78 @@
+{
+  "id": "conv_03990",
+  "context": "A police officer briefs a neighborhood mom on local safety after damage",
+  "purpose": "Teach: 嵐/被災/消防/役所/解体/区域/警官/侵入",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "嵐",
+    "被災",
+    "消防",
+    "役所",
+    "解体",
+    "区域",
+    "警官",
+    "侵入"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご無沙汰しております、佐藤さん。先日の嵐の被害について少しお話を伺ってもよろしいですか。",
+      "en": "Hello, Mrs. Sato. May I speak with you briefly about the damage from the recent storm?",
+      "style": "Polite, professional officer tone, calm and measured delivery."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "あ、警官の方ですね。はい、うちも被災して、屋根が一部壊れてしまったんです。",
+      "en": "Oh, you're the officer. Yes, we were affected too — part of our roof was damaged.",
+      "style": "Warm but worried mother voice, slightly anxious mid-tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうでしたか。区役所と消防の合同調査で、この一帯は危険区域に指定されました。",
+      "en": "I see. After a joint survey by the ward office and fire department, this area has been designated a hazard zone.",
+      "style": "Informative briefing tone, steady cadence, slightly formal and clear."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "危険区域って、子供たちを公園で遊ばせても大丈夫でしょうか。",
+      "en": "A hazard zone? Will it still be safe to let the children play in the park?",
+      "style": "Concerned, rising intonation, motherly worry coming through."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "公園の隣のビルは解体工事が始まりますので、立入禁止のテープが張られた場所には絶対に近づかないでください。",
+      "en": "Demolition work is starting on the building next to the park, so please don't go near anywhere taped off as off-limits.",
+      "style": "Firm directive tone, clear and authoritative for safety."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "わかりました。最近、空き家への不法侵入もあったって聞きましたが、本当ですか。",
+      "en": "Understood. I also heard there were break-ins at empty houses recently — is that true?",
+      "style": "Lowered voice, curious and slightly nervous in tone."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、夜間の侵入事案が数件出ています。施錠と、夜は外出をなるべく控えていただくようお願いします。",
+      "en": "Yes, several nighttime intrusions have been reported. Please lock up and try to avoid going out at night.",
+      "style": "Serious advisory delivery, paced slowly for clear emphasis."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます。何かあったら、すぐ消防か警察に連絡しますね。",
+      "en": "Thank you. If anything happens, I'll contact the fire department or police right away.",
+      "style": "Grateful, reassured, softer and warmer closing tone."
+    }
+  ]
+}

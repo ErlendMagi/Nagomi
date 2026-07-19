@@ -1,0 +1,78 @@
+{
+  "id": "conv_04123",
+  "context": "A boss reviews shipping logistics with his manager",
+  "purpose": "Teach: 大陸/国土/海岸/天然/食料/衛星/輸送/循環",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大陸",
+    "国土",
+    "海岸",
+    "天然",
+    "食料",
+    "衛星",
+    "輸送",
+    "循環"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期のアジア大陸への輸送状況はどうなっている？",
+      "en": "How is the shipping situation to the Asian continent this quarter?",
+      "style": "Authoritative executive tone with direct businesslike inquiry, measured pace"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "国土交通省の新しい規制で、海岸沿いのルートに遅延が出ています。",
+      "en": "Due to new Ministry of Land regulations, there are delays on coastal routes.",
+      "style": "Professional manager reporting issues respectfully, slightly tense and apologetic"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "天然資源の輸送機関は確保できているのか？",
+      "en": "Have we secured the transport for natural resources?",
+      "style": "Firm executive pressing for critical answers, slight concern in voice"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、食料品も含めて気象衛星のデータで最適ルートを組んでおります。",
+      "en": "Yes, including food products, we have optimal routes using weather satellite data.",
+      "style": "Reassuring detailed report by competent middle manager, confident tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資源循環の観点からコストはどう抑えるつもりだ？",
+      "en": "From a resource circulation standpoint, how do you intend to reduce costs?",
+      "style": "Probing strategic question from senior leader, businesslike intensity"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "リサイクル業者との連携を強化して、復路の空輸送を減らす計画です。",
+      "en": "We plan to strengthen ties with recyclers to reduce empty return trips.",
+      "style": "Solution-focused explanation by prepared manager, clear and steady delivery"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いいだろう。来週の役員会までに詳細な資料を準備してくれ。",
+      "en": "Good. Have a detailed report ready by next week's board meeting.",
+      "style": "Decisive boss closing meeting with directive, authoritative and conclusive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知いたしました。すぐに各部署と調整を始めます。",
+      "en": "Understood. I will begin coordinating with each department immediately.",
+      "style": "Formal acknowledgment by efficient manager, deferential and committed tone"
+    }
+  ]
+}

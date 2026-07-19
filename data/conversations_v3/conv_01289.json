@@ -1,0 +1,62 @@
+{
+  "id": "conv_01289",
+  "context": "Ren helps Sho with a study problem.",
+  "purpose": "cousin study-help exchange",
+  "ambient": "living_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "勉強",
+    "一緒",
+    "頑張る",
+    "優しい",
+    "楽しい"
+  ],
+  "cast": [
+    "ren_uni",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_065)",
+    "generated_at": "2026-05-27T04:59:05.416Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "レンお兄ちゃん、勉強、教えて。",
+      "en": "Ren big brother, will you teach me?",
+      "style": "Soft, hopeful request from a six-year-old. Small voice, genuine. The question reaches up toward someone trusted. No performance — just sincere asking.",
+      "mood": "hopeful_sincere"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "うん、優しく、教えるよ。",
+      "en": "Yeah, I'll teach you gently.",
+      "style": "Warm agreement. Unhurried. Settles into the role of teaching with quiet conviction. Gentle on 'gently' — making a soft promise that this will be safe.",
+      "mood": "tender_agreeing"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張る、絶対、本当に。",
+      "en": "I'm going to try really hard. I really will.",
+      "style": "Small voice, steady commitment. No bravado — just determination from a child who means what he says. Slight emphasis on the repeated 'really' showing seriousness without loudness.",
+      "mood": "determined_earnest"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "一緒に、楽しい、ね。",
+      "en": "Let's make this fun together.",
+      "style": "Warm and encouraging. Leans into the word 'together' — making it clear this is a shared thing, not a burden. Gentle, unforced brightness.",
+      "mood": "warm_inclusive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、本当に。",
+      "en": "Thank you. Really thank you.",
+      "style": "Quiet gratitude from a small child. The repetition carries weight — not parroting, but genuine thanks that he felt the need to say twice. Soft fadeout.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

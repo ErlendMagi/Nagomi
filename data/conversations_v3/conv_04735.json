@@ -1,0 +1,78 @@
+{
+  "id": "conv_04735",
+  "context": "A uni student interviews a retired space scientist",
+  "purpose": "Teach: 公明党/火星/追悼/後退/帰還/露出/断言/賭け",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公明党",
+    "火星",
+    "追悼",
+    "後退",
+    "帰還",
+    "露出",
+    "断言",
+    "賭け"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_238 workflow wxr5wooap)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。先生が火星探査の計画に関わっていた頃のお話を伺いたいんです。",
+      "en": "Thank you for your time today. I'd like to hear about when you were involved in the Mars exploration project.",
+      "style": "Polite student opener, slightly nervous but earnest tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、こちらこそ。もう三十年も前の話だがね、当時は予算をめぐって自民党や公明党の議員さんにも何度も説明に行ったものだよ。",
+      "en": "No, no, the pleasure is mine. It was thirty years ago, but back then I had to go explain the budget many times to LDP and Komeito lawmakers.",
+      "style": "Warm elderly reflection, hint of nostalgic chuckle here."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうだったんですね。探査機が無事に帰還した時のお気持ちは、やはり格別だったんでしょうか。",
+      "en": "I see. When the probe successfully returned, your feelings must have been something special.",
+      "style": "Curious follow-up, leaning forward with genuine interest."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "格別なんてもんじゃない。途中で通信が一度途切れて、一気に状況が後退してね、もう駄目かと思った。あの瞬間は文字通り人生を賭けていたよ。",
+      "en": "More than special. Communication cut out once midway, and the situation regressed in an instant — I thought it was over. In that moment I was literally betting my whole life.",
+      "style": "Voice trembling with emotion, gravitas of veteran scientist."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そんな危機があったんですね。当時はメディアへの露出を避けておられたとも聞きましたが、何か理由があったんでしょうか。",
+      "en": "There was such a crisis? I've also heard you avoided media exposure at the time — was there a particular reason?",
+      "style": "Gentle probing follow-up, notebook in hand attentive."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "鋭いね。計画の途中で病で倒れた仲間が何人かいてね、あの成功は彼らへの追悼の意も込めた、静かな手向けにしたかったんだ。",
+      "en": "Sharp of you. Several teammates fell ill and passed during the project, so I wanted that success to be a quiet tribute, carrying mourning for them too.",
+      "style": "Quiet admiration, slow deliberate elder cadence throughout here."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、最後に伺います。人類はいずれ火星に住めると思いますか。",
+      "en": "Professor, one last question. Do you think humans will eventually live on Mars?",
+      "style": "Earnest closing question, student notebook poised ready."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うーん、住めると断言はできない。だが挑戦をやめたら、それこそ人類の敗北だと私は思うね。",
+      "en": "Hmm, I cannot declare with certainty that we will. But if we stop trying, that itself would be humanity's defeat, I believe.",
+      "style": "Measured wisdom, ending with quiet firm conviction here."
+    }
+  ]
+}

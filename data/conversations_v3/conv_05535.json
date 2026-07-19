@@ -1,0 +1,79 @@
+{
+  "id": "conv_05535",
+  "context": "A doctor explains agricultural health to a teen",
+  "purpose": "Teach: 肥料/農産物/発動/保安/勤労/教徒/陳述/軍人",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "肥料",
+    "農産物",
+    "発動",
+    "保安",
+    "勤労",
+    "教徒",
+    "陳述",
+    "軍人"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、肥料と農薬の関係、健康面で重要なんですよ。",
+      "en": "Sakura, the relationship between fertilizer and pesticides is actually quite important for your health.",
+      "style": "Warm, matter-of-fact opening. Clear enunciation on the core point. Steady pace, no rush. The tone of a doctor sharing something she wants to stick with you.",
+      "mood": "informative_warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "農産物の安全基準、誰が発動するんですか。",
+      "en": "Who decides on the safety standards for agricultural products?",
+      "style": "Genuine curiosity, leaning forward slightly. Not challenging — seeking to understand. Thoughtful pause before the question, as if connecting dots.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "保安部局です。勤労環境の保護も含めて。",
+      "en": "The safety bureau handles that. They cover workplace protections as well.",
+      "style": "Measured, clear explanation. Light emphasis on 'bureau' to ground the answer. Steady eye contact. The practiced clarity of someone used to translating complexity.",
+      "mood": "patient_clear"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "教徒団体が地域支援している例もあるんですよね。",
+      "en": "So there are community support programs run by religious organizations too, aren't there?",
+      "style": "Thoughtful, connecting what she's hearing to real examples. Slight upturn at the end — not a challenge, but confirmation-seeking. Engaged, not passive.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。証人の陳述、医学的にも重みがあります。",
+      "en": "Yes. Witness testimony actually carries medical significance as well.",
+      "style": "Affirming nod in the voice. Slight emphasis on 'medical' — validating that her thinking is sound. Warm recognition that she's understanding the layers.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "退役軍人の方の健康調査、どう進めるんですか。",
+      "en": "How do you conduct health surveys with retired service members?",
+      "style": "Respectful, specific. Genuine interest in the mechanics. Steady tone — not anxious, just attentive. The question of someone following the thread.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "定期的なフォローアップで、長期データを蓄積します。",
+      "en": "We do it through regular follow-ups, building a long-term data picture over time.",
+      "style": "Unhurried, methodical. Slight warmth — she's comfortable with Sakura's engagement. Each phrase given space. The rhythm of someone explaining something she knows well and trusts.",
+      "mood": "patient_methodical"
+    }
+  ]
+}

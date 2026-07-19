@@ -1,0 +1,68 @@
+{
+  "id": "conv_00104",
+  "context": "A small homeware shop counter. Yuki has come in with a thermos that started leaking after two weeks. Mrs Mori is behind the counter — she has filled in for her brother who runs the shop.",
+  "purpose": "small return / replacement — polite friction between strangers",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "すみません",
+    "大丈夫",
+    "時間",
+    "ありがとう"
+  ],
+  "cast": [
+    "yuki_office",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "すみません、これ、漏れちゃって…",
+      "en": "Excuse me — this one started leaking…",
+      "style": "Apologetic at the opening. Slight bow in the posture of the voice. Lifting the thermos carefully, as if protecting it. Soft, almost deferential.",
+      "mood": "apologetic_embarrassed"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あら、ほんま？見せて、見せて。",
+      "en": "Oh — really? Let me see, let me see.",
+      "style": "Immediate Kansai warmth and directness. Leans forward with genuine interest, no distance between thought and action. Quick, generous rhythm.",
+      "mood": "interested_helpful"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "レシートも、ありまして…",
+      "en": "I have the receipt as well…",
+      "style": "Small, anxious formality. Presenting it like evidence. Careful articulation on 「レシート」. Soft and a little uncertain, checking if she's doing this right.",
+      "mood": "nervous_dutiful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ええの、ええの。本当に、不良品やね、これ。",
+      "en": "Don't worry about it, don't worry. This one's clearly defective.",
+      "style": "A practical, no-nonsense verdict delivered with warmth. Light, sure emphasis on the diagnosis. Already moving toward the shelf in her tone — action before ceremony.",
+      "mood": "matter_of_fact_kind"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当に、お時間取らせてすみません。",
+      "en": "I really am sorry for the trouble.",
+      "style": "Reflex politeness, almost habit. Hands held close. Quiet, deferent. The apology of someone trained to apologize for existing in someone else's space.",
+      "mood": "deferential"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "謝らんでええ。新しいの、すぐ用意するわ。",
+      "en": "No apologies needed. I'll have a fresh one for you right now.",
+      "style": "Brisk, decisive closing. Already moving behind the counter in the voice. Warm but efficient — the reassurance of someone who knows what she's doing and doesn't need to make a fuss about it.",
+      "mood": "capable_reassuring"
+    }
+  ]
+}

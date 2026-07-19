@@ -1,0 +1,78 @@
+{
+  "id": "conv_04485",
+  "context": "A uni student interviews a retired investigative journalist",
+  "purpose": "Teach: 刑務所/徴収/独裁/妨害/騒動/偽装/偽造/言論",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "刑務所",
+    "徴収",
+    "独裁",
+    "妨害",
+    "騒動",
+    "偽装",
+    "偽造",
+    "言論"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_226 workflow ws5olozmj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今日はインタビューさせていただき、ありがとうございます。長年、言論の自由を守るために闘ってこられたと伺いました。",
+      "en": "Thank you for letting me interview you today. I heard you spent years fighting to protect freedom of speech.",
+      "style": "Polite respectful student opening with humble formal tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、大したことじゃないよ。ただ、当時は独裁政権まがいの空気があってね、記者として黙っていられなかっただけだ。",
+      "en": "Oh no, it wasn't much. But back then the atmosphere was almost like a dictatorship, and as a journalist I couldn't stay silent.",
+      "style": "Humble elder reflecting with gravitas and quiet conviction here."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確か、ある大企業の文書偽造を暴いた時、相手から取材妨害も受けたんですよね？",
+      "en": "If I recall, when you exposed a major company's document forgery, you were also obstructed during your reporting, weren't you?",
+      "style": "Curious student probing with respectful but pointed follow-up question."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、ひどかったよ。経費を不正に徴収していた幹部たちが、偽装工作までしてね。世論を二分する騒動になった。",
+      "en": "Yes, it was terrible. The executives who had been illegally collecting expenses even staged a cover-up. It became a scandal that split public opinion.",
+      "style": "Old journalist recounting battles with weary but steady firmness."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その後、関係者の何人かは刑務所に収監されたと聞きました。先生は身の危険を感じませんでしたか？",
+      "en": "I heard several of those involved were later sent to prison. Didn't you fear for your own safety, sir?",
+      "style": "Serious student asking sensitive question with careful measured concern."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "怖くないと言えば嘘になる。脅迫電話もあったし、家の前で待ち伏せされたこともあった。でも、書くのをやめたら負けだからね。",
+      "en": "I'd be lying if I said I wasn't scared. There were threatening calls, and once they even waited outside my house. But if I'd stopped writing, I would have lost.",
+      "style": "Veteran sharing fear honestly while showing principled stubborn resolve."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今の時代、SNSで偽造された画像や嘘の情報が一瞬で広がります。先輩としてアドバイスをいただけますか？",
+      "en": "These days, forged images and fake information spread instantly on social media. Could you give me some advice as a senior in the field?",
+      "style": "Earnest student seeking mentorship and connecting past to present."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "一次資料に当たること。それから、誰が得をするのか常に考えること。真実は地味だが、それを守るのが我々の仕事だよ。",
+      "en": "Always go to primary sources. And always ask who benefits. Truth is unglamorous, but protecting it is our job.",
+      "style": "Mentor delivering distilled wisdom with calm authoritative paternal warmth."
+    }
+  ]
+}

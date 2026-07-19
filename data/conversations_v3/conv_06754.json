@@ -1,0 +1,86 @@
+{
+  "id": "conv_06754",
+  "context": "A boss reviews corp impact",
+  "purpose": "Teach: 精力/病棟/宿命/神父/駐留/標識/国政/故意",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "精力",
+    "病棟",
+    "宿命",
+    "神父",
+    "駐留",
+    "標識",
+    "国政",
+    "故意"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_339 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "若手社員、精力的に、新事業に、取り組んでいるな。",
+      "en": "The younger staff members are tackling the new business initiative with real energy.",
+      "style": "Measured, observational tone. Slight pause after the opening—taking in what he's seeing. Clear diction. The approval is quiet but present, not effusive.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員病棟、近隣の病院と、提携いたしました。",
+      "en": "Yes. We've established a partnership with a neighboring hospital for our staff ward.",
+      "style": "Steady, professional delivery. Each clause lands with quiet precision. No performance—just the facts, clearly stated. Respectful formality in the posture of the voice.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "創業者として、業界を支える宿命、感じている。",
+      "en": "As the founder, I feel the weight of responsibility to support this industry.",
+      "style": "Slow, thoughtful pace. Slight breath before the main clause. The words carry genuine gravity—not grandstanding, but honest reflection. Voice settles at the end.",
+      "mood": "reflective_weighty"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員のチャペル婚、神父さんを、お招きしました。",
+      "en": "Yes. We invited a priest to officiate the chapel wedding for one of our staff members.",
+      "style": "Clear, factual delivery. Brief pause to acknowledge the detail. The tone is warm without losing professionalism—recognizing the significance of the moment while staying composed.",
+      "mood": "composed_pleased"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外駐留社員、ケア体制、強化しろ。",
+      "en": "Strengthen the care systems for staff stationed overseas.",
+      "style": "Direct, authoritative. Clipped at the edges—this is an instruction, not a negotiation. The tone is firm but not harsh; it expects compliance because it comes from clear conviction.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。看板の標識、デザイン、見直し中です。",
+      "en": "Yes. We're reviewing the signage design at the moment.",
+      "style": "Brief, attentive. Quick acknowledgment of the task at hand. The tone is alert—ready to execute. No extra elaboration; just confirmation that the work is understood and underway.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "国政選挙への寄付、ガイドラインに沿って、行え。",
+      "en": "Campaign donations will follow the guidelines exactly.",
+      "style": "Firm, declarative. No room for misinterpretation. The words are measured and final—this is not a suggestion but a clear boundary being set. Steady eye-level delivery.",
+      "mood": "uncompromising"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。故意による不正、社内、絶対に、許しません。",
+      "en": "Yes. We will not tolerate any intentional misconduct within this company—not under any circumstances.",
+      "style": "Quiet intensity. The opening is quick, but the second half slows—each word deliberate and heavy. The final clause carries absolute finality. The voice doesn't raise, but the conviction becomes unmistakable.",
+      "mood": "resolute_stern"
+    }
+  ]
+}

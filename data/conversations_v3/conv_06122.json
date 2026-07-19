@@ -1,0 +1,86 @@
+{
+  "id": "conv_06122",
+  "context": "Two friends chat about a trip",
+  "purpose": "Teach: 片道/肘/釘/売り物/割安/夏場/治す/肩こり",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "片道",
+    "肘",
+    "釘",
+    "売り物",
+    "割安",
+    "夏場",
+    "治す",
+    "肩こり"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "温泉、片道5時間の旅、しんどそう。",
+      "en": "Five hours each way to an onsen sounds exhausting.",
+      "style": "Wry, knowing. Low energy at the top. Slight tilt toward sympathy under the surface, not quite teasing.",
+      "mood": "affectionate_wary"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。長時間運転、肘がだるくなる。",
+      "en": "Yeah. Long drives really do a number on your arms.",
+      "style": "Soft agreement. Warm and understanding. Speaking from experience, not performing it. Slight nod in the voice.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "宿の床、釘が出てないか、気になる。",
+      "en": "The inn floor — I keep wondering if there are loose nails somewhere.",
+      "style": "Quiet, slightly anxious. Trailing off like she's admitting to an odd worry. Tender self-awareness underneath.",
+      "mood": "wistful_concerned"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お土産屋さん、売り物の品揃え、楽しみだね。",
+      "en": "The souvenir shops though — the selection there is always amazing.",
+      "style": "Brighter turn. Gentle warmth. Small smile in the voice, like she's shifting the mood on purpose.",
+      "mood": "warm_hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "宿、割安なプラン、見つけたの。",
+      "en": "I actually found a really affordable plan at the inn.",
+      "style": "A little pleased with herself. Energy lifts. Not boasting, just quietly proud of the find.",
+      "mood": "pleased_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夏場の混雑、避けて、秋に行きたい。",
+      "en": "Summer's going to be packed though. We should aim for autumn.",
+      "style": "Thoughtful, practical. Speaking from sense, not urgency. Slow pace, like thinking it through as she speaks.",
+      "mood": "considering"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "疲れを治す温泉、楽しみだね。",
+      "en": "An onsen that actually heals the tiredness — that part I'm really looking forward to.",
+      "style": "Soft, almost yearning. Quiet sincerity. The weight of exhaustion showing through, but hopeful.",
+      "mood": "weary_hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "肩こり、デスクワーク続きで、辛い。",
+      "en": "Desk work's been relentless. My shoulders are killing me.",
+      "style": "Wry, slightly worn. Rueful undertone. Not complaining loudly, just acknowledging the ache with dark humor.",
+      "mood": "exhausted_wry"
+    }
+  ]
+}

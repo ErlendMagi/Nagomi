@@ -1,0 +1,79 @@
+{
+  "id": "conv_02067",
+  "context": "Hina-young arrives at port for boat trip; chats about travel arrival.",
+  "purpose": "Teen on practical travel logistics.",
+  "ambient": "port_terminal_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "船",
+    "到着",
+    "出発",
+    "北海道",
+    "なきゃ",
+    "時間",
+    "安心",
+    "確認"
+  ],
+  "cast": [
+    "hina_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_104)",
+    "generated_at": "2026-05-27T13:06:31.755Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、船、北海道行き、確認できた?",
+      "en": "Mei — did you confirm the boat to Hokkaido?",
+      "style": "Bright, quick-paced curiosity. Leans forward with genuine interest. Open tone, checking in on a practical detail. No performance, just engagement.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "出発、十時、間に合わなきゃ。",
+      "en": "It leaves at ten — we can't be late.",
+      "style": "Calm focus with an undertone of responsibility. Matter-of-fact about the time constraint, not anxious. Quiet clarity. The adult reassuring herself as much as anyone.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "時間、ぎりぎりだね。",
+      "en": "The timing's pretty tight.",
+      "style": "Small worried lift in the voice. Not panicking — just noticing the reality. Quick acknowledgment, then softens slightly. A child checking with an adult for reassurance.",
+      "mood": "apprehensive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "到着、夕方になるかな。",
+      "en": "We should get there in the evening.",
+      "style": "Gentle, measured. Thinking out loud rather than declaring. Soft exhale. The reassurance of someone who's already calculated this and found it okay.",
+      "mood": "calm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "荷物、ちゃんと持った、安心。",
+      "en": "Good thing you've got everything packed.",
+      "style": "Bright relief in the voice. A small satisfied nod behind the words. Quick, warm affirmation. The pleasure of noticing something has been handled well.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "船、揺れるかしら?",
+      "en": "Do you think the boat will rock?",
+      "style": "Soft, slightly tentative. Not quite worried — more wondering aloud. A gentle question seeking something real, not reassurance. Thoughtful pause before the last word.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、楽しみだけど、ちょっと不安。",
+      "en": "Yeah, I'm excited — but I'm a little nervous too.",
+      "style": "Honest, unguarded. Warm brightness with a thread of real uncertainty underneath. The 'but' lands gently. Permission to feel both things at once.",
+      "mood": "excited_uncertain"
+    }
+  ]
+}

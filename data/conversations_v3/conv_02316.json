@@ -1,0 +1,79 @@
+{
+  "id": "conv_02316",
+  "context": "Naoko hires a new part-timer; orientation chat.",
+  "purpose": "Shop owner welcoming new employee.",
+  "ambient": "ramen_shop_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "出所",
+    "熱心",
+    "気軽",
+    "ふだん",
+    "丁寧",
+    "尽くし",
+    "心",
+    "頑張る"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_116)",
+    "generated_at": "2026-05-27T19:03:11.195Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "蓮、ふだんから、丁寧に、お客さんに接してな。",
+      "en": "Ren — treat customers with care and attention, right from the start.",
+      "style": "Warm Kansai lilt, unhurried and conversational. Speaks with the easy authority of someone mentoring family. Slight lean-in on the core instruction, like passing on something that matters.",
+      "mood": "warm_mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、熱心に、頑張ります!",
+      "en": "Yes — I'll do my best and work hard at it.",
+      "style": "Earnest and alert, leaning forward slightly. Young man's voice steady and clear, eager to show he's taking this seriously. No bravado, just genuine commitment.",
+      "mood": "earnest_determined"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "気軽に、何でも聞いてや。",
+      "en": "Ask me anything that comes up — don't hold back.",
+      "style": "Open and inviting, Kansai warmth in the delivery. Unhurried pace. The voice of someone who means it and has answered a thousand questions before. Reassuring.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "出所、いつでも、教えてください。",
+      "en": "Could you tell me — anytime I need to know something, where to go?",
+      "style": "Respectful and slightly formal, but genuine. Young voice, careful with his words. Not stiff — just the courtesy of someone grateful to be taken under someone's wing.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "心、尽くしてくれたら、お客さんも喜ぶで。",
+      "en": "When you put your heart into it for people, they feel that — customers are happier for it.",
+      "style": "Thoughtful, almost teaching. Kansai warmth wrapping around something deeper. Slow, deliberate pace. She's not lecturing — she's sharing what she knows.",
+      "mood": "wise_affectionate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お互いに、お話していきましょう。",
+      "en": "Let's keep talking — keep learning from each other.",
+      "style": "Warm but grounded. Young voice, genuine and open. Not overeager — steady, like he's finding his footing. Light sincerity underneath.",
+      "mood": "earnest_open"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "よろしく頼むで、家族みたいやで!",
+      "en": "I'm counting on you — you're family now.",
+      "style": "Big-hearted Kansai warmth. She means it completely. Slight laugh underneath, the way someone speaks who's decided to claim you. Direct and full of affection.",
+      "mood": "warm_familial"
+    }
+  ]
+}

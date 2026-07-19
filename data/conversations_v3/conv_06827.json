@@ -1,0 +1,86 @@
+{
+  "id": "conv_06827",
+  "context": "Two managers chat",
+  "purpose": "Teach: 月別/予備校/破損/労災/ストレージ/辞職/役に立っ/明言",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月別",
+    "予備校",
+    "破損",
+    "労災",
+    "ストレージ",
+    "辞職",
+    "役に立っ",
+    "明言"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_343 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "広報、月別レポート、来月から、フォーマット、変えましょう。",
+      "en": "Let's change the format for the monthly PR report starting next month.",
+      "style": "Clean, businesslike opening. Decisive without curtness. Lean forward slightly into the instruction. Assume agreement.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。子育て社員向け、予備校通いの補助、検討しています。",
+      "en": "Got it. We're looking into a cram-school subsidy for staff with children.",
+      "style": "Attentive, taking notes in real time. Affirmative without overdoing it. Quick, willing—the tone of someone who writes things down as they listen.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "設備の破損、報告は、すぐ、上に、上げてね。",
+      "en": "And equipment damage—report it upstairs right away, okay?",
+      "style": "Brisk but not unkind. Light tap of emphasis on 'right away.' Eyes forward, moving to the next item. Professional but human.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労災予防、社内安全週間、来月、開催します。",
+      "en": "Understood. We're running a workplace safety week next month.",
+      "style": "Steady, informative delivery. Not reading a list—relaying something he's already absorbed. Calm, reliable presence.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "クラウドストレージ、契約、更新時期、近いわよ。",
+      "en": "The cloud storage contract is coming up for renewal soon.",
+      "style": "Practical warning, not alarmist. Slight lift at the end—flagging something that needs attention but isn't urgent yet. Keep it light.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。役員の辞職、社員にも、丁寧に、説明、必要です。",
+      "en": "Right. We should explain the executive resignation to the staff carefully.",
+      "style": "Thoughtful, measured. Lands lightly on 'carefully'—that word carries the weight. Showing he's thought about how this lands.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "前回の研修、本当に、役に立ったわよ、私、評価したい。",
+      "en": "The last training session was really helpful—I want to make sure they know I noticed.",
+      "style": "Warm appreciation breaking through the routine. Slower pace on this one. Genuine pleasure that work went well. A small moment of grace in a busy meeting.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。来期方針、社長から、明言される予定です、社員総会で。",
+      "en": "Understood. The president will announce the next-term direction at the all-staff meeting.",
+      "style": "Calm closure. Forward-looking without speculation. The even tone of someone wrapping up but ready for what comes next.",
+      "mood": "composed"
+    }
+  ]
+}

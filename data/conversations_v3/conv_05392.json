@@ -1,0 +1,72 @@
+{
+  "id": "conv_05392",
+  "context": "A boss and his manager discuss a supply-chain disruption article",
+  "purpose": "Teach: 麻痺/朝鮮半島/自律/均衡/過度/引っ張っ/木材/機内",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "麻痺",
+    "朝鮮半島",
+    "自律",
+    "均衡",
+    "過度",
+    "引っ張っ",
+    "木材",
+    "機内"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_271 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、朝鮮半島の物流麻痺、影響大きいな。",
+      "en": "This article—the Korean Peninsula logistics disruption has significant implications.",
+      "style": "Measured, observational opening. Slight pause on the dash. Calm analytical tone, reading the information fresh. Even pace. The register of someone reviewing details without alarm.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。木材輸入を長年引っ張ってきた供給網、過度な集中が原因とのことです。",
+      "en": "Yes. The timber-import supply chain that's been carrying the load for years—the root cause is over-concentration, apparently.",
+      "style": "Clear, professional delivery. Slight respectful rhythm: acknowledgment first, then information. Not rushed. Confident in the facts but deferential in tone—reporting to someone whose judgment matters.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "機内貨物への切替、均衡的に進められるか?",
+      "en": "Can we shift to air cargo while maintaining balance?",
+      "style": "Direct question, but not aggressive. Pause weight on 'balance'—he's probing for feasibility, not just asking for confirmation. Steady eye contact in the voice. Practical curiosity.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "自律的な代替ルートも検討中です。",
+      "en": "We're also looking into self-directed alternative routes.",
+      "style": "Responsive, clarifying tone. Slight emphasis on 'also'—showing he's thought ahead. Composed delivery, conveying both progress and ongoing work. Not overselling, not hedging.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来月の経営会議で議題にしよう。",
+      "en": "Let's make it an agenda item for next month's executive meeting.",
+      "style": "Clear directive, delivered without heaviness. Decisive but not abrupt. The tone of someone closing a line of inquiry because he's decided. Gentle authority.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Concise acknowledgment. Straight, no flourish. The vocal equivalent of a nod—brief, respectful, and complete.",
+      "mood": "compliant"
+    }
+  ]
+}

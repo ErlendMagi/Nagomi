@@ -1,0 +1,78 @@
+{
+  "id": "conv_04619",
+  "context": "A uni student interviews a retired literature professor",
+  "purpose": "Teach: 皇帝/将軍/英雄/知性/変身/予言/弔/願望",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "皇帝",
+    "将軍",
+    "英雄",
+    "知性",
+    "変身",
+    "予言",
+    "弔",
+    "願望"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はインタビューをお受けくださり、ありがとうございます。先生の研究テーマである「皇帝と将軍の文学的表象」について伺いたく。",
+      "en": "Thank you for accepting this interview today. I'd like to ask about your research theme, 'the literary representation of emperors and shoguns.'",
+      "style": "Polite, slightly nervous student opening with formal academic phrasing."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うむ、よく来たね。古典文学において、皇帝や将軍はしばしば英雄として描かれるが、その内面の知性こそが本当の主題なのだよ。",
+      "en": "Mm, glad you came. In classical literature, emperors and shoguns are often portrayed as heroes, but it is their inner intellect that is the true theme.",
+      "style": "Warm, measured elder voice with scholarly authority and slow cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。物語の中で英雄が劇的に変身する場面が多いのは、その知性の覚醒を象徴しているのでしょうか。",
+      "en": "I see. Are the scenes where heroes dramatically transform meant to symbolize the awakening of that intellect?",
+      "style": "Curious follow-up, leaning forward, genuinely engaged tone."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通り。さらに興味深いのは、彼らの運命を告げる予言の存在だ。予言は登場人物の願望と衝突し、物語に緊張をもたらす。",
+      "en": "Precisely. What's even more fascinating is the prophecies that foretell their fate. The prophecy clashes with the characters' desires and brings tension to the narrative.",
+      "style": "Animated scholarly enthusiasm, savoring favorite topic with slight smile."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "願望と予言の対立、ですか。先生ご自身がこの分野に惹かれたきっかけは何だったのでしょう。",
+      "en": "The conflict between desire and prophecy, you say. What was it that first drew you to this field, professor?",
+      "style": "Respectful pivot to personal question, softer and more intimate."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "若い頃、恩師の弔いの席でね、その方の遺した論文を読んだのだ。それ以来、五十年、この道を歩んできた。",
+      "en": "When I was young, at the memorial service for my mentor, I read a paper he had left behind. Since then, I've walked this path for fifty years.",
+      "style": "Quieter, reflective, voice softened by long memory and gratitude."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "五十年ですか…重みが違いますね。最後に、これから古典を学ぶ学生に一言いただけますか。",
+      "en": "Fifty years... the weight is different. Finally, could you give a word to students who will study the classics from now on?",
+      "style": "Hushed admiration, then gently shifting to closing question."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "急がず、原文を声に出して読みなさい。皇帝の威厳も、英雄の願望も、文字の奥にこそ宿っているからね。",
+      "en": "Don't rush — read the original text aloud. The dignity of emperors and the longing of heroes both dwell deep within the words themselves.",
+      "style": "Closing advice delivered with quiet warmth, like a parting gift."
+    }
+  ]
+}

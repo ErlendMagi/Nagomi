@@ -1,0 +1,147 @@
+{
+  "id": "conv_00131",
+  "context": "A small ramen shop, Saturday evening. The actual date. Both nervous, both trying. Aoi shows up in clothes she hasn't worn in a year.",
+  "purpose": "first proper date — both ordinary people, both willing to try",
+  "ambient": "busy_restaurant",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "時間",
+    "大丈夫",
+    "一緒",
+    "好き",
+    "ありがとう"
+  ],
+  "cast": [
+    "kenji_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "あおいさん、来てくれて、本当にありがとう。",
+      "en": "Aoi-san, thank you so much for coming.",
+      "style": "Tentative opening—voice pitched slightly higher than usual. Small nervous laugh underneath. Formality masking genuine vulnerability.",
+      "mood": "nervous_grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ。…なんか、緊張する。",
+      "en": "The pleasure's mine. I'm… kind of nervous, honestly.",
+      "style": "A genuine small laugh that steadies her. Warm and attentive presence beneath the admission. No pretense.",
+      "mood": "honest_nervous"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "私も。本当に、めっちゃ。",
+      "en": "Me too. Really—a lot, actually.",
+      "style": "Real relieved laugh. Quick, unguarded. A small Kansai lilt softens the admission. Shoulders drop slightly.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(small laugh) 良かった。私だけじゃなくて。",
+      "en": "Good. I'm glad it's not just me.",
+      "style": "Small genuine laugh. A settling-in moment—no rush, no performance. Warmth without trying.",
+      "mood": "warm_relieved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "何、食べます？ラーメン、初めての方？",
+      "en": "So what'll you have? Is this your first time here?",
+      "style": "Steering toward safer ground. Menu slides forward naturally. Steady, helpful tone—the practiced hospitality softening into real care.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、はじめて。佐藤さんは、いつも、何？",
+      "en": "Yes, first time. What do you usually get, Sato-san?",
+      "style": "Returning the question with genuine interest. Voice carries the moment—present and unhurried. A small mirror of his care.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "醤油。本当に、ここの醤油、好きで。",
+      "en": "Shoyu. Their shoyu is really—I love it.",
+      "style": "Honest recommendation, small and sincere. A moment of vulnerability in naming what he likes. Unguarded.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "じゃあ、私も、同じで。",
+      "en": "Then I'll have the same.",
+      "style": "Easy, genuine decision. No hesitation. Following not from obligation but from trust. Unforced.",
+      "mood": "trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…(silence after ordering)あの、聞いてもいい？",
+      "en": "Um… may I ask you something?",
+      "style": "A careful new opening after the ordering silence settles. Voice steady beneath the nervousness. Gathering courage.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、なんでも。",
+      "en": "Yes—anything.",
+      "style": "Open, generous invitation. No rush, no conditions. The kind of yes that says 'I'm here for this.'",
+      "mood": "open"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なんで…私で、いいって思ってくれたんですか。",
+      "en": "Why did you… think that I would be okay?",
+      "style": "Honest, faltering question. Voice cracks slightly on the vulnerable part. A real ask, not performance.",
+      "mood": "uncertain_hopeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(small laugh)…本当に、聞く？",
+      "en": "Really—you want to know?",
+      "style": "Small affectionate teasing. A laugh underneath—warm and gentle. Carries the moment fully without deflecting.",
+      "mood": "affectionate_amused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん。",
+      "en": "Mm.",
+      "style": "Single careful syllable. Small and steady. Permission to continue, nothing more.",
+      "mood": "patient"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いつも、本当に、優しいから。お店で。",
+      "en": "Because you're always—really kind. At the café.",
+      "style": "Honest answer, eyes dropping to the napkin. Tender without being rehearsed. The truth of it sits quietly.",
+      "mood": "sincere_tender"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…(small breath, half-laugh)それは、ありがたい。",
+      "en": "That's… that means a lot to me.",
+      "style": "Small real exhale, half-laugh beneath. Touched deeply. Genuine and unguarded—the moment opens something in him.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "時間、ゆっくり、ね。今日、本当に楽しみで。",
+      "en": "Let's take our time with this—slow. I've been really looking forward to today.",
+      "style": "Generous line, unhurried. Steady attentive presence. A promise in the pacing, care in the words.",
+      "mood": "warm_present"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "…ありがとう。一緒にいられて、嬉しい。",
+      "en": "Thank you. I'm… happy to be here with you.",
+      "style": "Unguarded closing. Small and real. No rush—just presence. The admission costs him something and he gives it anyway.",
+      "mood": "happy_vulnerable"
+    }
+  ]
+}

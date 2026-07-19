@@ -1,0 +1,105 @@
+{
+  "id": "conv_00101",
+  "context": "Last call at a bar Kenji, Daichi, and Aoi all know. Aoi is doing closing; Kenji and Daichi are the last two customers.",
+  "purpose": "three-way bar moment — friends + service-friend, final-cup intimacy",
+  "ambient": "bar_late_night",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "時間",
+    "大丈夫",
+    "ありがとう",
+    "元気"
+  ],
+  "cast": [
+    "kenji_office",
+    "daichi_kansai",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "もう少しで、ラストオーダーです。",
+      "en": "We're closing soon — last orders.",
+      "style": "Even, professional tone with underlying warmth. Hands moving naturally. Matter-of-fact but not rushed. The rhythm of closing time, familiar.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "あおいちゃん、一杯、私らと飲み？",
+      "en": "Aoi-chan — come have one with us, yeah?",
+      "style": "Warm Kansai lilt, playful without pressure. A genuine half-laugh underneath. The tone of someone who asks without needing the answer to be yes.",
+      "mood": "playful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "(small laugh) 仕事中だから、本当に、無理です。",
+      "en": "(small laugh) I'm working, so really — I can't.",
+      "style": "A small, genuine laugh — not forced or apologetic. Warm refusal. Polite without stiffness. The ease of saying no to people she likes.",
+      "mood": "gentle_declining"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まあな、無理言うな、ダイチ。",
+      "en": "Come on, don't put her in that spot, Daichi.",
+      "style": "Steady, quiet correction from someone with seniority. Not sharp — just a gentle redirect. Voice carries his attentive presence, his eye on both of them.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "はいはい、すまんすまん。",
+      "en": "Yeah, yeah — sorry, sorry.",
+      "style": "Kansai-flavored self-deprecation. A half-laugh, no edge to it. The ease of backing off because it's not a fight he needs to have.",
+      "mood": "good_natured"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "本当に、お二人、よく来てくださって。",
+      "en": "You two really — thank you for coming so often.",
+      "style": "Genuine, unperformed gratitude. Voice dips slightly on the thank-you. She's sliding their drinks across, present in the moment. Sincere without weight.",
+      "mood": "warm_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。…今日は、特に助かった。",
+      "en": "Same to you. …Today especially — it really helped.",
+      "style": "A small unguarded moment. Voice carries real weight here, not covering anything up. He means it fully. A breath of honesty in the small closing.",
+      "mood": "vulnerable_relieved"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いつでも、来てくださいね。",
+      "en": "Come back any time — please.",
+      "style": "Warm, low-voiced send-off. Simple and direct. The tone of someone who means an open door, not a polite phrase.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "あおいちゃん、ほんま、ありがとう。",
+      "en": "Aoi-chan — really, thank you.",
+      "style": "Full Kansai warmth and gratitude. Unhurried, genuine. The tone of someone saying goodbye to someone who matters, without overdoing it.",
+      "mood": "grateful_warm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "時間、引き止めてすみません。お疲れさまです。",
+      "en": "Sorry for keeping you past closing. Thank you for your work today.",
+      "style": "Considerate and genuine throughout. Quiet respect in the delivery. The man who notices he's taken her time and honors it. No rush in the goodbye.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "大丈夫です。…お気をつけて、お帰りを。",
+      "en": "It's fine. …Get home safely, you two.",
+      "style": "Warm, steady send-off. Quiet but present. The voice of someone who notices and cares about the people leaving her counter. Simple kindness.",
+      "mood": "caring"
+    }
+  ]
+}

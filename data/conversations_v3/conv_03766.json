@@ -1,0 +1,78 @@
+{
+  "id": "conv_03766",
+  "context": "A manager interviews a job applicant about practical experience",
+  "purpose": "Teach: 自社/弊社/実務/早期/起動/表記/務め/パート",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "自社",
+    "弊社",
+    "実務",
+    "早期",
+    "起動",
+    "表記",
+    "務め",
+    "パート"
+  ],
+  "cast": [
+    "kenji_office",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_189 wc87o7is0)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "本日はお越しいただきありがとうございます。早速ですが、弊社の業務についてご存じですか。",
+      "en": "Thank you for coming today. Let me get right to it—are you familiar with our company's business?",
+      "style": "Polite, formal interviewer opening with a measured pace."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、自社サイトを拝見しました。教育系のサービスを中心に展開されていますよね。",
+      "en": "Yes, I looked at your company website. You mainly develop educational services, correct?",
+      "style": "Earnest younger applicant, slightly nervous but well-prepared."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その通りです。ところで、履歴書の表記では大学三年の夏からアルバイトをされていますね。",
+      "en": "That's correct. By the way, according to your resume, you've worked part-time since your third year of university.",
+      "style": "Calm, fact-checking tone while reviewing documents."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、塾でパート講師を務めておりました。中学生に英語と数学を教えていました。",
+      "en": "Yes, I worked as a part-time instructor at a cram school, teaching English and math to middle schoolers.",
+      "style": "Respectful keigo, clear and concise self-description."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど。では、教育現場での実務経験はどの程度お持ちですか。",
+      "en": "I see. So how much hands-on practical experience do you have in the educational field?",
+      "style": "Probing follow-up question with professional curiosity."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "約二年です。生徒の理解度の差に早期に気づくことが、何より大切だと学びました。",
+      "en": "About two years. I learned that noticing differences in students' understanding early is more important than anything.",
+      "style": "Reflective, demonstrating thoughtful lessons from her experience."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "素晴らしい視点ですね。最後に、当社のシステムを朝一番に起動して準備するような細かな業務も問題ありませんか。",
+      "en": "That's a wonderful perspective. Lastly, would routine tasks like booting up our system first thing in the morning be a problem?",
+      "style": "Closing question, testing attitude toward mundane duties."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "もちろん大丈夫です。地道な作業こそ丁寧に取り組みたいと考えております。",
+      "en": "Of course, not at all. I believe steady, unglamorous work is exactly where care matters most.",
+      "style": "Confident, humble closing answer with sincere conviction."
+    }
+  ]
+}

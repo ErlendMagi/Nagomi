@@ -1,0 +1,76 @@
+{
+  "id": "conv_01193",
+  "context": "Saito follows up with Mei mid-pregnancy.",
+  "purpose": "doctor-mother pregnancy follow-up",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "一緒",
+    "相談",
+    "大切",
+    "頑張る"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_060)",
+    "generated_at": "2026-05-27T04:24:20.797Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "メイさん、体調、いかが？",
+      "en": "How are you feeling, Mei?",
+      "style": "Warm, direct opening. Gentle and professional without distance. Steady eye contact. A doctor who asks because she wants to know the answer.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "元気ですよ、ありがとうございます。",
+      "en": "I'm doing well, thank you so much.",
+      "style": "Soft, genuine relief in the voice. Respectful but not stiff. A small warmth underneath the politeness—she feels safe here.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、お子さんも、順調。",
+      "en": "Your health looks good. The baby's progressing beautifully too.",
+      "style": "Measured reassurance. A pause before the second clause—letting the good news settle. Quiet conviction, no false cheer.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ああ、本当、安心。",
+      "en": "Oh, I'm so relieved. Really.",
+      "style": "Breath of release. Quiet and tender. The words come slower, weighted with the lifting of worry. Almost to herself.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "相談、いつでも、ね。",
+      "en": "You can call anytime if you need to talk things through.",
+      "style": "Soft promise, not a formality. Slight lean forward in the voice. The kind of permission that means she'll actually answer.",
+      "mood": "warm_promise"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "一緒に、頑張ります、本当に。",
+      "en": "We'll do this together. I mean it.",
+      "style": "Quiet commitment. No performance. A small catch of emotion underneath—she's speaking as much to herself. Steady.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大切な、お体、ね。",
+      "en": "Take care of yourself. You matter.",
+      "style": "Closing warmth. Final, gentle. Not rushed. The kind of thing a good doctor says and means with her whole presence.",
+      "mood": "tender"
+    }
+  ]
+}

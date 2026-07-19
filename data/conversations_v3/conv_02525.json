@@ -1,0 +1,75 @@
+{
+  "id": "conv_02525",
+  "context": "Kenji and Ren design a data model for an app.",
+  "purpose": "WIDENED SCENARIO: tech design; software vocabulary (モデル/設計/ファイル/画像/メッセージ) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "モデル",
+    "設計",
+    "ファイル",
+    "画像",
+    "メッセージ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_127)",
+    "generated_at": "2026-05-29T13:04:43.282Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "このアプリの設計、相談したいんです。",
+      "en": "I'd like to consult on this app's design.",
+      "style": "earnest young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "まず、データのモデルを決めましょう。",
+      "en": "First, let's decide the data model.",
+      "style": "analytical office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "画像も、保存できる設計ですか?",
+      "en": "Is the design able to store images too?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、画像はファイルとして保存します。",
+      "en": "Yes, images are saved as files.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メッセージ機能も、モデルに含めますか?",
+      "en": "Do we include messaging in the model too?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "メッセージとファイルは、分けて設計します。",
+      "en": "We design messages and files separately.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "モデルが整理できて、助かりました。",
+      "en": "Organizing the model really helped.",
+      "style": "grateful young colleague voice, soft warm appreciative throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "良い設計は、後で楽になりますよ。",
+      "en": "A good design makes things easier later.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

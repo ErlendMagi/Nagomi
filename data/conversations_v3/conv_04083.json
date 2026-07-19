@@ -1,0 +1,72 @@
+{
+  "id": "conv_04083",
+  "context": "A boss invites a manager to a business lunch and chats about local dining",
+  "purpose": "Teach: オーダー/チップ/シティ/昼食/西洋/ならでは/異なっ/なんとも",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "オーダー",
+    "チップ",
+    "シティ",
+    "昼食",
+    "西洋",
+    "ならでは",
+    "異なっ",
+    "なんとも"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_206 workflow wr0k95ll2)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今日の昼食は私が誘ったから、好きなものをオーダーしてくれ。",
+      "en": "Since I invited you to lunch today, order whatever you like.",
+      "style": "Warm but authoritative boss tone, inviting and generous."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。このあたりは初めてなんですが、いい店が多いんですね。",
+      "en": "Thank you very much. It's my first time around here, but there are lots of good restaurants.",
+      "style": "Polite and slightly deferential subordinate keigo throughout."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ここは昔ながらの店と西洋料理の店が混ざっていて、なんとも面白い町なんだよ。",
+      "en": "This area mixes old-style shops with Western restaurants, making it quite an interesting town.",
+      "style": "Reflective mid-tempo, sharing local knowledge with pride."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど、私の地元とはずいぶん雰囲気が異なっていますね。",
+      "en": "I see, the atmosphere is quite different from my hometown.",
+      "style": "Curious, observational, soft-spoken comparison between regions."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "向かいのシティホテルの最上階にも、ここならではの眺めを楽しめる店があるよ。",
+      "en": "On the top floor of the city hotel across the street, there's a restaurant where you can enjoy a view unique to this place.",
+      "style": "Recommending mode, slightly boasting, generous host energy."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "素敵ですね。海外ではチップも要りますが、日本は気楽でいいです。",
+      "en": "Sounds wonderful. Abroad you have to leave a tip, but Japan is comfortably casual.",
+      "style": "Light small-talk with easy laugh, sharing traveler's perspective."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "確かにね。さあ、まずは生ビールでも頼もうか。",
+      "en": "True indeed. Now then, shall we start by ordering a draft beer?",
+      "style": "Cheerful, settling in, friendly senior wrapping up."
+    }
+  ]
+}

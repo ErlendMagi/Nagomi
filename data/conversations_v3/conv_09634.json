@@ -1,0 +1,86 @@
+{
+  "id": "conv_09634",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 除雪/透過/発芽/絶縁/局所/鮮度/生鮮/基板",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "除雪",
+    "透過",
+    "発芽",
+    "絶縁",
+    "局所",
+    "鮮度",
+    "生鮮",
+    "基板"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_483 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、雪国の除雪中事故の応急処置を医療チームで研究します",
+      "en": "Ren — we're conducting research with our medical team on emergency response protocols for snow-removal accidents.",
+      "style": "Measured, professional opening. Steady delivery without performance. Clinical precision balanced with quiet care. She's briefing, not lecturing.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、X線の透過率を医療チームで日々確認します",
+      "en": "Yes — we check X-ray clarity with the team every day.",
+      "style": "Even pace, reassuring consistency. No performative warmth, but genuine commitment underneath. The tone of someone who has done this many times and takes it seriously each time.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、皮膚の発芽性嚢胞の処置を医療チームでおこないます",
+      "en": "Ren — we handle dermoid cyst removal procedures with our medical team.",
+      "style": "Same measured foundation as the first line. Slight emphasis on 「処置を」 — conveying clinical confidence without arrogance. Professional but not distant.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、電気メスの絶縁を医療チームで日々点検します",
+      "en": "Yes — we inspect the electrical scalpel insulation with the team daily.",
+      "style": "Same steady rhythm. Factual detail delivered without anxiety. The confidence of someone who knows safety protocols prevent catastrophe.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "局所麻酔の症例を、貴院、多く扱われますね、先生",
+      "en": "Your hospital handles quite a lot of local anesthesia cases, doesn't it, Doctor?",
+      "style": "Genuinely curious but slightly tentative — testing the waters. Respectful hesitation on the opening. Soft landing on 「sensei」. Ren observing and asking, not performing knowledge.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、血液の鮮度を医療チームで管理します",
+      "en": "Yes — we manage blood quality with the team.",
+      "style": "Same assured cadence. No inflection on the technical detail. The tone says: this is routine and it matters.",
+      "mood": "steady"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "生鮮食品アレルギーの対策を、貴院、進められてますね、先生",
+      "en": "Your hospital is really advancing your approach to fresh-food allergies, aren't you, Doctor?",
+      "style": "Slightly more engaged than the first question. Small note of genuine interest — Ren has noticed something specific. Still respectful, but warmer. Seeking confirmation of something observed.",
+      "mood": "impressed_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療機器の基板トラブル対策も医療チームで進めます",
+      "en": "Yes — we're also working on medical equipment circuit board troubleshooting with the team.",
+      "style": "Slight closing-down of energy. Efficient, matter-of-fact. She's wrapping up her point, not inviting extension. Professional distance at the end of a long explanation.",
+      "mood": "steady"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04974",
+  "context": "A uni student interviews a retired researcher at home",
+  "purpose": "Teach: 暦/酸化/復元/錯覚/混合/死後/政令/悪影響",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "暦",
+    "酸化",
+    "復元",
+    "錯覚",
+    "混合",
+    "死後",
+    "政令",
+    "悪影響"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間いただきありがとうございます。まず、先生のご専門についてお聞きしたいのですが、研究では旧暦の資料も扱われたとか。",
+      "en": "Thank you for your time today. First, I'd like to ask about your specialty — I heard you also worked with old lunar calendar records.",
+      "style": "Polite university student, slightly nervous but eager interviewer tone throughout."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ああ、そうだね。古文書の紙はね、長い年月で酸化が進んで、もう触れただけで崩れそうになるんだよ。",
+      "en": "Ah, yes. The paper of old documents oxidizes over the years, and it gets so fragile that it almost crumbles just from being touched.",
+      "style": "Calm elderly researcher with gentle teaching cadence, reflective and measured."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。そうした資料をデジタル復元するご研究もされていたんですよね。",
+      "en": "I see. And you also did research on digitally restoring such materials, right?",
+      "style": "Curious follow-up delivered in a polite academic register."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。ただね、画像処理で鮮明になると、まるで元通りになったような錯覚に陥るんだが、失われた情報は戻らない。そこは学生さんにも伝えたい点だ。",
+      "en": "Yes. But you know, when images become clear through processing, you fall into the illusion that everything has been restored — yet lost information doesn't come back. That's a point I want students to understand.",
+      "style": "Thoughtful warning in a slightly stern but warm mentor voice."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勉強になります。共同研究では理系と文系の混合チームを組まれたと伺いました。難しさはありましたか。",
+      "en": "That's very instructive. I heard your joint research involved a mixed team of science and humanities scholars. Were there difficulties?",
+      "style": "Engaged student probing deeper with respectful academic curiosity."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "言葉が通じないんだよ、最初はね。それから、ある作家の死後に発見された日記を扱った時は、遺族との調整が一番骨が折れた。",
+      "en": "We couldn't communicate at first, you know. And when we handled a diary discovered after a certain author's death, coordinating with the bereaved family was the hardest part.",
+      "style": "Reminiscing candidly in conversational elder storytelling mode."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。文化財関連の政令が改正された影響もあったのでしょうか。",
+      "en": "I see. Did the revisions to the cultural property government ordinance also have an impact?",
+      "style": "Sharp informed question showing prior reading and preparation."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "鋭いね。手続きが煩雑になって、若手の研究時間に悪影響が出ているのは事実だよ。君たちの世代こそ、声を上げてほしいな。",
+      "en": "Sharp observation. It's true that procedures have grown complicated, and it's having a negative impact on young researchers' time. It's your generation that should speak up.",
+      "style": "Encouraging close in a mentor passing the torch warmly."
+    }
+  ]
+}

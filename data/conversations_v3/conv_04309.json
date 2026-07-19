@@ -1,0 +1,78 @@
+{
+  "id": "conv_04309",
+  "context": "A police officer briefs a mom on neighborhood watch",
+  "purpose": "Teach: 寮/都内/丁目/独身/パーク/接近/銀座/県内",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "寮",
+    "都内",
+    "丁目",
+    "独身",
+    "パーク",
+    "接近",
+    "銀座",
+    "県内"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "お忙しいところすみません。今月から都内全域で防犯パトロールを強化していまして、こちらの三丁目もその対象になっております。",
+      "en": "Sorry to bother you. Starting this month we're stepping up crime prevention patrols across all of Tokyo, and this third district is included.",
+      "style": "Polite, formal officer tone with professional restraint and measured cadence."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "そうなんですか。最近うちの近くの公園、いえ、桜パークの辺りで不審者が出るって聞いて、ちょっと心配していたんです。",
+      "en": "Is that so? Recently I've been hearing about a suspicious person near our park, I mean Sakura Park, and I was a bit worried.",
+      "style": "Warm motherly worry, conversational pacing with gentle concern."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、まさにその件です。先週、女性に接近して声をかける男の目撃情報がありまして、県内でも同様の事案が続いております。",
+      "en": "Yes, exactly that matter. Last week there was a sighting of a man approaching and calling out to women, and similar incidents continue throughout the prefecture.",
+      "style": "Serious official briefing tone, clipped sentences delivering facts."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "怖いですね。うちの娘、銀座の塾に通っていて、帰りが遅いんですよ。何か気をつけることはありますか?",
+      "en": "How scary. My daughter goes to a cram school in Ginza, and she comes home late. Is there anything we should watch out for?",
+      "style": "Anxious mother seeking advice, voice rising with maternal worry."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "夜道では必ず明るい道を選ぶよう伝えてください。それと、すぐ近くの独身寮の前の通りは街灯が少ないので、特に注意が必要です。",
+      "en": "Please tell her to always choose well-lit streets at night. Also, the road in front of the nearby bachelors' dormitory has few streetlights, so extra caution is needed.",
+      "style": "Authoritative advisory tone with practical, specific safety guidance."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "独身寮って、あの古い建物ですよね。確かに夜はほとんど人通りがなくて、私も避けて歩いています。",
+      "en": "The bachelors' dormitory, that old building, right? It's true there's hardly any foot traffic at night, and I avoid walking there too.",
+      "style": "Recognizing nod in voice, sharing local knowledge with familiarity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご協力ありがとうございます。何か変わったことがあれば、些細なことでも交番までご連絡ください。地域の目が一番の防犯になります。",
+      "en": "Thank you for your cooperation. If anything unusual happens, even something trivial, please contact the police box. The community's eyes are the best crime prevention.",
+      "style": "Closing gratitude with reassuring civic-duty emphasis, steady and sincere."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "わかりました。ご近所の方とも情報を共有して、みんなで気をつけるようにします。今日は本当にありがとうございました。",
+      "en": "Understood. I'll share information with the neighbors and we'll all be careful together. Thank you so much for today.",
+      "style": "Grateful, resolved tone with a soft bow audible in delivery."
+    }
+  ]
+}

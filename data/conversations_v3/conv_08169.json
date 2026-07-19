@@ -1,0 +1,86 @@
+{
+  "id": "conv_08169",
+  "context": "Officer briefs",
+  "purpose": "Teach: 有能/異例/セクター/ワイド/賞金/物品/非常勤/マネジャー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "有能",
+    "異例",
+    "セクター",
+    "ワイド",
+    "賞金",
+    "物品",
+    "非常勤",
+    "マネジャー"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_410 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、有能な捜査官を配置しております",
+      "en": "We have deployed capable investigators to the case.",
+      "style": "Professional, measured opening. Even tone. No rush. The reassurance of competence stated plainly, without fanfare. Voice sits steady.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の異例のスピード解決、ありがたいです",
+      "en": "Yes. We're grateful for how quickly the police moved on this.",
+      "style": "Respectful, earnest. A slight lean forward in the voice — genuine appreciation, not performance. Warm but formal. Careful not to overstate.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、民間セクターとも連携します",
+      "en": "We'll also be coordinating with the private sector on this investigation.",
+      "style": "Matter-of-fact delivery. Each phrase lands evenly. No apology for the scope. Steady eye-contact level in the voice. Official but not distant.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、ワイドな捜査網、頼もしいです",
+      "en": "Yes. It's reassuring to see how wide the investigation net has become.",
+      "style": "Appreciative nod in the voice. Slow, careful phrasing. He's genuinely impressed. Tone stays grounded — not effusive, but sincere in the recognition.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、情報提供者に賞金制度を用意しております",
+      "en": "We've also put a reward system in place for anyone who comes forward with information.",
+      "style": "Procedural but not cold. Light emphasis on the incentive detail. Tempo steady. This is leverage presented as practical necessity, not desperation.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、押収物品の管理も厳格ですね",
+      "en": "Yes. I can see the police are handling the seized evidence with real care too.",
+      "style": "Observant. He's noticed the detail. Small warmth in the acknowledgment — he sees them working. Not flattering, just honest recognition of discipline.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、非常勤の警備員も派遣しております",
+      "en": "We've also dispatched additional part-time security personnel to support the operation.",
+      "style": "Calm listing of resources. No strain in the delivery. Each detail adds weight to the picture of thoroughness. Voice remains composed, almost clinical.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察マネジャー職の方々、ご活躍ですね",
+      "en": "Yes. Your management team is really doing excellent work here.",
+      "style": "Warm closing. Direct acknowledgment of people, not just process. Slight easing in the pace — he means this. Genuine respect for the effort he's witnessed.",
+      "mood": "warm_respect"
+    }
+  ]
+}

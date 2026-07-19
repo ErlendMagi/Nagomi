@@ -1,0 +1,83 @@
+{
+  "id": "conv_00704",
+  "context": "Kenji and Ryosuke read the morning economic news at a cafe.",
+  "purpose": "two-men news exchange with N3 economic vocabulary",
+  "ambient": "cafe_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "経済",
+    "情報",
+    "重要",
+    "物価",
+    "説明"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さん、最近の経済の情報、本当に重要ですね。",
+      "en": "Ryosuke-san, the economic information you've been sharing lately—it's really important, isn't it?",
+      "style": "Warm, appreciative opening. Soft delivery on the admiring question. Genuine respect threading through without formality—the tone of someone deferring to someone he trusts. Steady, measured pace.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "本当に。物価、上がり続けていて、心配です。",
+      "en": "It really is. Prices keep rising, and honestly, it worries me.",
+      "style": "Thoughtful, open admission. Not defensive—just genuine concern. Slight heaviness on 「心配」. The tenderness of a father voicing a worry he carries. Warm but grounded.",
+      "mood": "concerned_honest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "会社でも、対応、考え始めています。",
+      "en": "At work, we're starting to think about how to respond to it all.",
+      "style": "Conversational shift to practical ground. Clear but not rushed. The slight satisfaction of being productive. Warm tone maintained—sharing progress like it matters because it does.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "上司に、状況、説明する機会、ありそう？",
+      "en": "Do you think you'll get a chance to explain the situation to your boss?",
+      "style": "Gentle inquiry. Slight lean forward in the voice—genuinely curious about the next step. Warm, supporting tone. Not interrogating; asking like someone who wants to see you succeed.",
+      "mood": "curious_supportive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来週、会議で、皆に、報告予定です。",
+      "en": "Next week, actually. I'm scheduled to report on it in a meeting with everyone.",
+      "style": "Clear, straightforward. Slight note of seriousness—he's aware of the importance. Calm delivery, no anxiety bleeding through. The voice of someone ready, or becoming ready.",
+      "mood": "focused_calm"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "冷静に、伝えてください。重要な役割ですよ。",
+      "en": "When you do, speak calmly and clearly. It's an important role you're playing.",
+      "style": "Steady, gentle encouragement. The voice of someone who has done this—guided people through things that matter. Not pushing; affirming. Warm but grounded in real confidence.",
+      "mood": "encouraging_wise"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "亮介さんの、言葉、いつも、力になります。",
+      "en": "Your words always give me strength, Ryosuke-san.",
+      "style": "Quiet gratitude. Sincere without being effusive. The vulnerability of admitting someone matters. Slight softening on the closing—authentic, not performative. Warm and genuine.",
+      "mood": "grateful_touched"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "こちらこそ。お互い、頑張りましょう。",
+      "en": "And you do the same for me. Let's keep pushing forward together.",
+      "style": "Reciprocal warmth. Gentle closing that offers real partnership. No false uplift—just steady, present commitment. Warm, measured, the kind of reassurance that sits quietly in the chest.",
+      "mood": "warm_resolute"
+    }
+  ]
+}

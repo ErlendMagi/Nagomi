@@ -1,0 +1,86 @@
+{
+  "id": "conv_09300",
+  "context": "Mom and son chat",
+  "purpose": "Teach: ユリ/蟻/死神/邦楽/半径/オゾン/ダシ/漢文",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "ユリ",
+    "蟻",
+    "死神",
+    "邦楽",
+    "半径",
+    "オゾン",
+    "ダシ",
+    "漢文"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_466 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お庭にユリの花を植えたわよ",
+      "en": "Sho, I planted lilies in the garden for you.",
+      "style": "Warm, matter-of-fact announcement. Gentle lift on his name. The casual confidence of a mother sharing something she's done for her child. Soft, unhurried pace.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お部屋に蟻が入ったらどうしよう",
+      "en": "Mom, what if ants get into my room?",
+      "style": "Sudden worry surfacing. Quick intake before the question. Small but serious—not dramatic, genuinely concerned. Looks up at her for reassurance, not catastrophizing.",
+      "mood": "anxious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、絵本のキャラに死神が出てきたわね",
+      "en": "Sho, there was a death god in that picture book, wasn't there.",
+      "style": "Noticing something he's noticed. Gentle observation, not quizzing him. Slight pause before the question particle—inviting him to share what he's thinking about.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが邦楽を聴いてらしたよ",
+      "en": "Mom, Dad was listening to Japanese music before.",
+      "style": "Offering up a small discovery with gentle pride. Even pace, genuine interest in what he witnessed. Not asking for validation, just sharing something that caught his attention.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お庭の植栽の半径を考えて並べましょうね",
+      "en": "Sho, let's arrange the garden plants by thinking about their spacing, yes?",
+      "style": "Practical guidance wrapped in warmth. Clear instruction but collaborative—not commanding. The tone of someone inviting him to think through something with her.",
+      "mood": "gentle_directive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、理科でオゾン層の研究したよ",
+      "en": "Mom, I did research on the ozone layer in science class.",
+      "style": "Small pride in the accomplishment. Steady, clear delivery. Quiet confidence—not needing big enthusiasm, just wanting to tell her what he learned.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃんがダシをひいて下さるわね",
+      "en": "Sho, Grandma is making dashi stock for us, isn't she.",
+      "style": "Warm recognition of something happening nearby. Appreciative tone. Slight smile in the voice—noticing the care Grandma is taking without making it a big thing.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんが漢文の本くれたよ",
+      "en": "Mom, Dad gave me a classical Chinese text book.",
+      "style": "Quiet delight in what he's been given. Eager but contained—genuine excitement without performance. Expectant pause at the end, hoping she'll notice why this matters to him.",
+      "mood": "pleased"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "conv_00136",
+  "context": "After-school art club. Asuka has volunteered to help with the kids; Sho is hunched over a drawing in the back.",
+  "purpose": "tiny art-club kindness — teacher noticing a quiet kid",
+  "ambient": "school_classroom",
+  "target_vocab": [
+    "本当に",
+    "見る",
+    "大切",
+    "少し",
+    "ありがとう"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "しょうくん、何、描いてるの？",
+      "en": "Sho-kun — what are you drawing?",
+      "style": "Soft, genuinely curious. Crouches to his eye level. Warm and unhurried, like she has all the time in the world for this moment.",
+      "mood": "gentle_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うちのねこ。",
+      "en": "…Our cat.",
+      "style": "Quiet certainty. Small voice, fully present. No hesitation — just a careful, complete statement.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うわ、本当に上手。よく見てる、しょうくん。",
+      "en": "Wow — really good. You've really looked at her carefully.",
+      "style": "Genuine delight in the observation itself. Bright but not performative. The praise lands because it's specific and true.",
+      "mood": "warm_impressed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ほんとう？",
+      "en": "Really?",
+      "style": "Small surprised lift at the end. A moment of vulnerability and openness. Genuine pleasure, unguarded.",
+      "mood": "pleased_surprised"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "本当に。耳の形、すごく、よく描けてる。",
+      "en": "Really. The shape of the ears — very well drawn.",
+      "style": "Steady, attentive presence. Points to the specific detail with quiet conviction. The kind of noticing that makes someone feel truly seen.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…(small smile) 耳、難しいんだ。",
+      "en": "…(small smile) Ears are hard.",
+      "style": "Soft, half-spoken acknowledgment. A tiny smile in the voice. No rush — just a small artist's honest admission to someone who understands.",
+      "mood": "satisfied_vulnerable"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん。難しいの、ちゃんとやってる。本当に、大切な絵だね、これ。",
+      "en": "Mm. The hard parts — you've done them well. This is a precious drawing, truly.",
+      "style": "Quiet, steady affirmation. Voice carries the weight of real recognition. Pauses slightly before 'truly' — letting it land as sincere, not casual.",
+      "mood": "tender_affirming"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、本当にありがとう。",
+      "en": "Sensei — truly, thank you.",
+      "style": "Small, polite, but genuine. Respectful tone without distance. The formality here is sincere gratitude, not performance.",
+      "mood": "grateful"
+    }
+  ]
+}

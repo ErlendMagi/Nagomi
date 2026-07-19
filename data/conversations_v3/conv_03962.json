@@ -1,0 +1,78 @@
+{
+  "id": "conv_03962",
+  "context": "A uni student interviews a retired history professor about colonial history",
+  "purpose": "Teach: 神話/遺跡/植民/奴隷/大国/由来/変革/普遍",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "神話",
+    "遺跡",
+    "植民",
+    "奴隷",
+    "大国",
+    "由来",
+    "変革",
+    "普遍"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_200 workflow wgxyoqgbc)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、本日はインタビューにご協力いただきありがとうございます。早速ですが、植民地時代の研究を始められたきっかけは何ですか？",
+      "en": "Professor, thank you for agreeing to this interview today. To start right away, what made you begin researching the colonial era?",
+      "style": "Polite student opening with respectful sonkeigo register"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "学生時代にね、東南アジアで古い遺跡を訪ねた時、現地の人々の話を聞いて衝撃を受けたんだよ。",
+      "en": "When I was a student, I visited some old ruins in Southeast Asia, and the stories the locals told me really shocked me.",
+      "style": "Reflective elderly male with nostalgic narrative tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。当時のヨーロッパの大国が行った奴隷貿易について、教科書ではあまり詳しく扱われていない印象があります。",
+      "en": "I see. I have the impression that the slave trade conducted by the European great powers of that era isn't really covered in detail in textbooks.",
+      "style": "Thoughtful academic observation by curious undergraduate"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "その通り。多くの地名の由来を辿ると、痛ましい歴史に行き着くことが少なくない。",
+      "en": "Exactly. If you trace the origins of many place names, you'll often arrive at painful histories.",
+      "style": "Measured elder delivering somber historical insight"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "建国神話と実際の歴史との間にある矛盾も、研究では問題になりますか？",
+      "en": "Do the contradictions between founding myths and actual history also become an issue in your research?",
+      "style": "Probing follow-up question maintaining polite academic distance"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろん。神話は民族の誇りを支えるが、それが歴史的事実を覆い隠してしまうこともある。",
+      "en": "Of course. Myths support a people's pride, but they can also conceal historical facts.",
+      "style": "Authoritative scholarly statement with balanced nuance"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "二十世紀の大きな社会変革を経ても、こうした構造は完全には解体されていないのでしょうか？",
+      "en": "Even after the great social transformations of the twentieth century, have these structures not been completely dismantled?",
+      "style": "Earnest critical inquiry showing developing analytical thought"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "残念ながら、形を変えて残っている。だからこそ、人権という普遍的な価値を学び続ける必要があるんだ。",
+      "en": "Unfortunately, it remains in altered forms. That's precisely why we must keep studying universal values like human rights.",
+      "style": "Earnest closing wisdom from veteran educator with gravitas"
+    }
+  ]
+}

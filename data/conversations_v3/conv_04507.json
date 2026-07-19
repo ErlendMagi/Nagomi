@@ -1,0 +1,78 @@
+{
+  "id": "conv_04507",
+  "context": "A uni student interviews a retired theology scholar",
+  "purpose": "Teach: 礼拝/葬儀/福音/民衆/講じ/クリスチャン/詩人/規範",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "礼拝",
+    "葬儀",
+    "福音",
+    "民衆",
+    "講じ",
+    "クリスチャン",
+    "詩人",
+    "規範"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_227 workflow wdupelwyq)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間をいただきありがとうございます。先生は長年、神学を講じてこられたとお伺いしました。",
+      "en": "Thank you for your time today. I heard you have long taught theology, sir.",
+      "style": "polite student opening with formal humble register"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、ただの老いぼれですよ。若い頃から教会の日曜礼拝に通っていてね、自然と道が拓けたんです。",
+      "en": "Oh no, I'm just an old man. I attended Sunday worship from a young age, and the path naturally opened.",
+      "style": "humble elderly reminiscing with gentle warmth"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。先生のご研究では、福音書の言葉が当時の民衆にどう響いたのか、というテーマが中心だそうですね。",
+      "en": "I see. I understand your research focuses on how the words of the Gospels resonated with the common people of that era.",
+      "style": "engaged academic curiosity asked with respectful scholarly tone"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうそう。当時のローマ社会には厳しい規範があってね、その中で福音は虐げられた民衆の希望だったんですよ。",
+      "en": "Yes, yes. Roman society had strict norms back then, and the Gospel was hope for the oppressed common people within that.",
+      "style": "lecturing fondly with scholarly depth, personal cadence that sets them apart"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "それは興味深いです。日本のクリスチャン人口は少ないですが、文学にはずいぶん影響を与えていますよね。",
+      "en": "That's fascinating. Japan's Christian population is small, but it has greatly influenced literature.",
+      "style": "thoughtful follow-up linking faith and culture"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、八木重吉のような詩人の作品にも色濃く出ていますね。彼の葬儀には多くの信徒が集まったと聞いています。",
+      "en": "Yes, it shows strongly in the works of poets like Juukichi Yagi. I heard many believers gathered at his funeral.",
+      "style": "fond scholarly recollection with specific reference"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最後にもう一つ、現代の若者に信仰を伝えるために、先生はどのような工夫を講じてこられましたか。",
+      "en": "One last question — what approaches have you devised to convey faith to today's youth, sir?",
+      "style": "concluding interview question with earnest curiosity"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "難しい問いですね。結局は、押しつけずに静かに祈る姿を見せること、それに尽きると思っていますよ。",
+      "en": "That's a difficult question. In the end, I believe it comes down to quietly showing a praying figure without forcing anything.",
+      "style": "reflective closing wisdom from an elder"
+    }
+  ]
+}

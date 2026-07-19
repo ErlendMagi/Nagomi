@@ -1,0 +1,84 @@
+{
+  "id": "conv_04648",
+  "context": "A senior trains a new hire on submitting expense reports",
+  "purpose": "Teach: 支払わ/勘定/代行/名目/提唱/容認/容器/同日",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支払わ",
+    "勘定",
+    "代行",
+    "名目",
+    "提唱",
+    "容認",
+    "容器",
+    "同日"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_234 workflow w26vym2lb)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "経費精算の件だけど、今日は研修の名目で僕が説明するから、しっかり覚えてね。",
+      "en": "About expense reports, today I'll explain under the pretext of training, so make sure you remember it.",
+      "style": "Patient mentor tone, slightly formal but warm guidance"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、よろしくお願いします。実は先月、自分で支払わなきゃいけない分まで会社に請求しそうになって…。",
+      "en": "Yes, thank you. Actually last month, I almost billed the company for amounts I should have paid myself.",
+      "style": "Nervous junior employee admitting a near-mistake honestly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あるあるだよ。領収書は専用の容器に入れて持ち歩いて、同日中にスキャンするのが鉄則ね。",
+      "en": "That happens. Carry receipts in a dedicated container, and scan them the same day — that's the iron rule.",
+      "style": "Practical senior sharing concrete workplace habits clearly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "同日中ですか。あとで勘定が合わなくなると面倒ですもんね。",
+      "en": "Same day, got it. If the accounts don't match later, it becomes a hassle, right?",
+      "style": "Attentive trainee confirming understanding with light reasoning"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。それと、誰かの代行で立て替えた時は、依頼者の名前を備考欄に必ず書いてね。",
+      "en": "Right. And when you pay on someone's behalf, always write the requester's name in the notes column.",
+      "style": "Explaining concrete procedure with steady mentor delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。タクシー代とかも代行で出すこと、ありそうですね。",
+      "en": "I see. There'll probably be times I pay for taxis on behalf of others too.",
+      "style": "Junior connecting the rule to realistic situations"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん。あと接待費は上限を超えると通らないから、事前に僕に相談してね。",
+      "en": "Yeah. And if entertainment expenses exceed the cap, they won't go through, so consult me first.",
+      "style": "Senior setting firm boundaries with approachable delivery"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。ちなみに、上限の見直しって誰かが提唱したりしてるんですか?",
+      "en": "Understood. By the way, has anyone been advocating for revising the cap?",
+      "style": "Curious junior asking thoughtfully about office policy"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "前の部長が一度提唱したけど、経理がなかなか容認してくれなくてね。今もそのままだよ。",
+      "en": "Our former director once advocated for it, but accounting wouldn't really accept the idea, so it's still as-is.",
+      "style": "Sharing institutional history with a knowing senior tone"
+    }
+  ]
+}

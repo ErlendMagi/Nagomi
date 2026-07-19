@@ -1,0 +1,68 @@
+{
+  "id": "conv_00088",
+  "context": "A hotel bar in central Tokyo, 11pm. Hiroshi (the boss) sits at the counter alone. Aoi has taken a second job here on weekends.",
+  "purpose": "unexpected double role — Aoi the barista is also Aoi the late-night bartender",
+  "ambient": "bar_late_night",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "ありがとう",
+    "元気"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "aoi_barista"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "いらっしゃいませ。…ウィスキー、お決まりですか？",
+      "en": "Welcome. …Whiskey, have you decided?",
+      "style": "Calm professional polish. Hands already reaching for the bottle.",
+      "mood": "calm_polish"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いつもの、で。…本当に、長い一週間でした。",
+      "en": "The usual. …Truly, a long week.",
+      "style": "Sits heavily. Voice slightly tired for him.",
+      "mood": "tired_for_him"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お疲れさまです。今日も、ストレートで？",
+      "en": "You've earned it. Straight today as well?",
+      "style": "A small remembered detail. Professional but warm.",
+      "mood": "remembered_warm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よく覚えてますね。…ありがとう。",
+      "en": "You remember well. …Thank you.",
+      "style": "A small genuine note. Doesn't expect to be remembered.",
+      "mood": "genuine_note"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "お客様、皆様の好み、なんとなく。",
+      "en": "Customers — everyone's preferences, somehow, I just know.",
+      "style": "A small modest line with a real smile audible.",
+      "mood": "modest_smile"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いい仕事ですね、本当に。",
+      "en": "Fine work, truly.",
+      "style": "A small unguarded compliment. Voice quieter.",
+      "mood": "unguarded_compliment"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09172",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 富豪/調教/落胆/軍部/反感/進入/出没/盗作",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "富豪",
+    "調教",
+    "落胆",
+    "軍部",
+    "反感",
+    "進入",
+    "出没",
+    "盗作"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_460 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、容疑者が富豪であることを把握されてますね",
+      "en": "So the police are aware the suspect is a wealthy individual in this case.",
+      "style": "Measured, analytical observation. Slight pause before speaking. Even tone. The cadence of someone thinking aloud, double-checking facts. No urgency—methodical.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犬の調教士の力もお借りしますね",
+      "en": "We're also bringing in a police dog handler for this investigation.",
+      "style": "Steady, professional briefing tone. Flat affect. State facts without elaboration. Businesslike pace. Brief, matter-of-fact.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者ご家族の落胆に配慮されてますね、警察",
+      "en": "The police are being thoughtful about the victim's family and their distress in this case.",
+      "style": "Quiet recognition. Soft opening. Respectful pace, slower than usual. Undercurrent of empathy. Trailing slightly at the end as if acknowledging something unspoken.",
+      "mood": "empathetic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、軍部関係者からの情報も丁寧に扱います",
+      "en": "We handle information from military contacts with appropriate care and discretion.",
+      "style": "Formal, official tone. Each word deliberate and weighted. No warmth. Professional distance maintained throughout. Steady, unvarying pace.",
+      "mood": "formal"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、市民の反感を招かないよう警察、配慮されてますね",
+      "en": "The police are taking measures to ensure this investigation doesn't stoke public resentment.",
+      "style": "Thoughtful, weighing consequences. Slow tempo. Slight emphasis on 'taking measures.' Voice carries awareness of broader stakes. Careful word choice.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不法進入者の防止に努めます",
+      "en": "We'll be working to prevent unauthorized access to the scene and evidence.",
+      "style": "Declarative and direct. Firm conviction on 'prevent.' No doubt in the delivery. Practical, no-nonsense tone. Consistent pace throughout.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、不審者が出没する地域を警察、巡回されてますね",
+      "en": "Patrols are being conducted in the areas where suspicious persons have been reported.",
+      "style": "Neutral, factual statement. Observational tone. Even pacing. Voice suggests routine procedure being carried out. No alarm, no reassurance—just information.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、盗作疑惑の捜査も担当します",
+      "en": "We're also investigating the plagiarism allegations as part of this case.",
+      "style": "Measured admission. Slight reserve. Direct eye contact implied in the voice. Not defensive, but acknowledging the additional complexity. Steady, unhurried delivery.",
+      "mood": "composed"
+    }
+  ]
+}

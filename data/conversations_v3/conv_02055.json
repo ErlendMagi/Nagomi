@@ -1,0 +1,65 @@
+{
+  "id": "conv_02055",
+  "context": "Daichi searches for a lost item; Sho-young helps look.",
+  "purpose": "Father and son in domestic search.",
+  "ambient": "living_room_low_search",
+  "sound_effects": [],
+  "target_vocab": [
+    "探し",
+    "置い",
+    "乗っ",
+    "戻る",
+    "間違い",
+    "見つけ",
+    "だが",
+    "結局"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_103)",
+    "generated_at": "2026-05-27T13:02:24.898Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "翔、お父さんの鍵、探してくれや。",
+      "en": "Sho, can you help me find Dad's keys?",
+      "style": "Warm, unhurried Kansai lilt. Paternal but not commanding—a request dressed as a gentle task. Slight upswing at the end, inviting rather than demanding.",
+      "mood": "affectionate_casual"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "机に置いてあったかも、見てみる!",
+      "en": "They might be on the desk! I'll check!",
+      "style": "Bright, energetic without being loud. Quick to rise to the task. Small note of pride at being useful. Speaks in a rush of helpfulness, already moving.",
+      "mood": "eager_helpful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "昨日、何に乗って帰った?",
+      "en": "What did you ride home in yesterday?",
+      "style": "Slower, thinking out loud. Daichi turns inward for a moment—not accusatory, just retracing steps. Gentle Kansai warmth still there. A quiet prompt more than a question.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "間違いで、車から戻るの忘れたかも。",
+      "en": "Oh—I think I might've forgotten to grab them from the car.",
+      "style": "Small, hesitant voice. The realization dawning as he speaks. Soft self-correction, not blame. Trailing off slightly at the end, checking if this is the right answer.",
+      "mood": "tentative_realizing"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "だが、結局、見つかってよかった!",
+      "en": "Well, the good news is we found them anyway!",
+      "style": "Warm, reassuring Kansai drawl. The relief in his voice now—a gentle upswing at the end. Not scolding, celebrating. The warmth of a father who cares more about the outcome than the lesson.",
+      "mood": "relieved_warm"
+    }
+  ]
+}

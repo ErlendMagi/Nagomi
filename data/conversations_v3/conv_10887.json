@@ -1,0 +1,86 @@
+{
+  "id": "conv_10887",
+  "context": "Two managers chat",
+  "purpose": "Teach: 小田/富田/天野/遠山/篠原/藤村/須藤/牧野",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "小田",
+    "富田",
+    "天野",
+    "遠山",
+    "篠原",
+    "藤村",
+    "須藤",
+    "牧野"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_546 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "小田部長の歓迎会を準備しましょう",
+      "en": "Let's get the welcome reception organized for Section Chief Oda.",
+      "style": "Efficient, task-focused. Clear opening. Practical tone—someone used to moving through a checklist. No hesitation. Forward momentum.",
+      "mood": "organized"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。富田課長の引き継ぎ書を確認します",
+      "en": "Yes. I'll confirm Manager Tomita's handover notes.",
+      "style": "Prompt, attentive agreement. Light affirmative nod in the voice. Ready to act immediately. Subordinate but present—not deferential.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "天野技術主任のプロジェクト進捗を共有しましょう",
+      "en": "Let's share the project update from Technical Lead Amano.",
+      "style": "Clear directive, collaborative framing. Slightly higher energy than the opening. Purpose-driven. Natural pause between thought and action.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。遠山広報の月次企画書を確認します",
+      "en": "Yes. I'll check Manager Toyama's monthly plan report.",
+      "style": "Steady acknowledgment. Slightly lower energy—ongoing task. Methodical. The tone of someone tracking multiple threads without strain.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "篠原顧問との面談を予定しましょう",
+      "en": "Let's schedule a meeting with Advisor Shinohara.",
+      "style": "Decisive, forward-looking. Slight emphasis on the action verb. Calm authority. Someone orchestrating a workflow with confidence.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。藤村経理の決算予定を整えます",
+      "en": "Yes. I'll get Fujimura's closing schedule arranged.",
+      "style": "Competent affirmation. Steady pace. The reliability of someone handling details without needing reassurance. Clean and efficient.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "須藤人事に新人研修プランを依頼しましょう",
+      "en": "Let's ask Sudo from HR to prepare the new-hire training plan.",
+      "style": "Structured task assignment. Deliberate opening. Warm but businesslike—delegating without hesitation. Appropriate delegation pace.",
+      "mood": "delegating"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。牧野法務に新契約レビューを依頼します",
+      "en": "Yes. I'll request the new contract review from Legal—Makino.",
+      "style": "Final confirmation. Slight finality in the closing. Professional, complete. The tone of wrapping up a list with closure.",
+      "mood": "concluding"
+    }
+  ]
+}

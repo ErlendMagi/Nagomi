@@ -1,0 +1,79 @@
+{
+  "id": "conv_02205",
+  "context": "Mei looks for kitchen supplies; asks Daichi about a missing item.",
+  "purpose": "Married couple in domestic search.",
+  "ambient": "kitchen_morning_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "移し",
+    "片付け",
+    "やめる",
+    "ベルト",
+    "見つける",
+    "置き",
+    "回し",
+    "達する"
+  ],
+  "cast": [
+    "mei_romantic",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_111)",
+    "generated_at": "2026-05-27T17:28:11.025Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "大ちゃん、棚、移したよね、先週?",
+      "en": "Daichi, you did move that shelf last week, right?",
+      "style": "Gentle inquiry, not demanding. Warm and familiar. Soft landing on the question mark—trusting his memory, not checking up.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おう、片付けたわ、整理して。",
+      "en": "Yeah, cleaned and organized the whole thing.",
+      "style": "Relaxed Kansai warmth. Slight satisfaction in his voice—the small pride of a job done thoughtfully. Easy, unhurried pace.",
+      "mood": "content"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ベルト、どこに置いた?",
+      "en": "Where did you put my belt?",
+      "style": "Practical question, but gentle. She's asking because she trusts he thought about it. Light, conversational—not worried.",
+      "mood": "practical_warm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "やめる前に、新しいのを買おう。",
+      "en": "I should get you a new one before I quit this job.",
+      "style": "Shifts slightly—a hint of something unspoken beneath. Still warm, but there's a small weight there. Tender practicality, not heavy.",
+      "mood": "tender_weighted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "回して見たら、見つけるかも。",
+      "en": "It might turn up if I look through everything again.",
+      "style": "She doesn't catch the weight, keeps moving forward. Optimistic but not dismissive. Active, problem-solving tone. Slight lift.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "お互い、達するまで、頑張ろう!",
+      "en": "Come on—let's both keep looking until we find it!",
+      "style": "Sudden brightness, almost mischievous. Kansai warmth breaking into a small spark of encouragement. 'We' matters here—the togetherness in it.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "ふふ、絶対、見つけるから!",
+      "en": "Heh—I'll definitely find it!",
+      "style": "Quiet laugh, genuine and sure. She's rallying now. Determined but playful, not grim. Light-footed confidence.",
+      "mood": "playful_determined"
+    }
+  ]
+}

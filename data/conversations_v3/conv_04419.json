@@ -1,0 +1,78 @@
+{
+  "id": "conv_04419",
+  "context": "A police officer briefs an office manager on privacy compliance",
+  "purpose": "Teach: 潜在/膨大/実情/としまして/に対しまして/夫妻/夫人/プライベート",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "潜在",
+    "膨大",
+    "実情",
+    "としまして",
+    "に対しまして",
+    "夫妻",
+    "夫人",
+    "プライベート"
+  ],
+  "cast": [
+    "takeda_officer",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_222 workflow wo8apf8ix)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察の者ですが、本日は個人情報保護法に関する啓発で伺いました。",
+      "en": "I'm from the police; today I've come for an awareness visit regarding the Personal Information Protection Act.",
+      "style": "Formal, official, measured police briefing tone with proper self-identification."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。実情を申しますと、現場ではかなり混乱しております。",
+      "en": "Thank you. To tell you the actual situation, things are quite chaotic on the ground.",
+      "style": "Polite but candid office manager admission of operational difficulties."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "膨大な顧客データを扱う以上、潜在的な漏洩リスクは決して軽視できません。",
+      "en": "Since you handle enormous customer data, latent leakage risks must never be taken lightly.",
+      "style": "Serious, instructive, slightly stern advisory tone with procedural vocabulary."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "先月も、お客様のプライベートな情報が誤って共有されかけまして、肝を冷やしました。",
+      "en": "Last month too, a customer's private information was almost mistakenly shared, and it gave us a real scare.",
+      "style": "Apologetic, anxious confession by office manager about a near-miss incident."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "弊署としましては、ご高齢のご夫妻からの相談も多く受けております。",
+      "en": "Speaking on behalf of our station, we also receive many consultations from elderly couples.",
+      "style": "Authoritative officer sharing general statistics to underscore wider concern."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "やはり、ご年配のご夫人などは特に不安を感じておられるのですね。",
+      "en": "I see, so elderly ladies in particular feel especially uneasy about it.",
+      "style": "Empathetic, thoughtful acknowledgment showing genuine understanding of the concern."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうしたお客様に対しまして、社内規程を今一度ご確認いただきたいところです。",
+      "en": "With respect to such customers, we'd like you to reconfirm your internal regulations once again.",
+      "style": "Firm guidance, redirecting to policy compliance with formal addressee marking."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知いたしました。本日中に全社員へ周知を徹底させていただきます。",
+      "en": "Understood. By the end of today, I will thoroughly inform every employee.",
+      "style": "Resolute, businesslike commitment to immediate corrective action."
+    }
+  ]
+}

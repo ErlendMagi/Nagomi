@@ -1,0 +1,79 @@
+{
+  "id": "conv_02325",
+  "context": "Naoko serves a special set meal; explains its origin to a customer.",
+  "purpose": "Aunt warmly explaining a dish.",
+  "ambient": "ramen_shop_busy",
+  "sound_effects": [],
+  "target_vocab": [
+    "玄米",
+    "ご馳走",
+    "本場",
+    "味",
+    "丁寧",
+    "深く",
+    "尽くし",
+    "感心"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "ren_uni"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_117)",
+    "generated_at": "2026-05-29T11:29:34.834Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "蓮、今日のご馳走、玄米使ったで!",
+      "en": "Ren — I used brown rice in today's spread!",
+      "style": "Warm, proud lift on the announcement. Kansai accent bright and animated. The careful attention of someone who wants you to notice what she's done.",
+      "mood": "proud_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本場の味、深く感じます。",
+      "en": "It's the real thing. I can taste the depth in every bite.",
+      "style": "Quiet reverence. Eyes on the food like he's really paying attention. Warm but not effusive — the sincerity of someone learning to accept generosity.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "丁寧に、ようけ尽くして作ったわ。",
+      "en": "I put so much care into it. Every step.",
+      "style": "Soft Kansai lilt. Not boasting — just honest about the work. Slight warm smile underneath, the satisfaction of doing something right.",
+      "mood": "earnest_satisfied"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "味、本当に、感心しますね。",
+      "en": "The flavour is… I'm really impressed.",
+      "style": "Gentle pause before the admission. Tender, almost careful not to overstate. But genuine — the kind of sincerity that touches someone.",
+      "mood": "genuinely_moved"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お客さんに、喜んでもらいたい、いつも。",
+      "en": "I always want my customers to be happy. That's what matters.",
+      "style": "Softer now. A little vulnerable under the warmth. Not performing — just saying what's true about what drives her.",
+      "mood": "earnest_tender"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "心、ようけ込もってますね。",
+      "en": "There's so much heart in this.",
+      "style": "Quiet, steady. Not flattering — observing. The kind of thing you say when you've understood something about someone that matters.",
+      "mood": "reverent"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ふふ、おおきに!",
+      "en": "Ha — well, thank you.",
+      "style": "Bright laugh, just big enough. Pleased but not showboating. The lightness of someone receiving what she gave.",
+      "mood": "warm_pleased"
+    }
+  ]
+}

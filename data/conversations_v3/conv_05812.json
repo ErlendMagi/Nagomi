@@ -1,0 +1,79 @@
+{
+  "id": "conv_05812",
+  "context": "A police officer briefs a uni reporter about hate-crime statistics",
+  "purpose": "Teach: 戦犯/爆破/暴動/ナチス/部落/慰安/暴行/売春",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "戦犯",
+    "爆破",
+    "暴動",
+    "ナチス",
+    "部落",
+    "慰安",
+    "暴行",
+    "売春"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "近年、ヘイト系の暴行事件、統計上、増加傾向です。",
+      "en": "In recent years, hate-motivated assault incidents have been trending upward in the statistics.",
+      "style": "Level, measured delivery. Slight official formality in the opening — he's drawing from documented data. Steady breath, no hesitation. The tone of someone presenting facts without editorializing.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "歴史的には、ナチスの台頭時にも、似た現象がありました。",
+      "en": "Historically, we saw similar patterns during the rise of Nazi Germany.",
+      "style": "Thoughtful, reaching back. Quiet intensity — not performing intelligence, but genuinely connecting dots. Slight hesitation before the reference, like checking himself for precision. Lean forward slightly in interest.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。組織的な暴動を扇動した戦犯への裁判、参考資料は多くあります。",
+      "en": "Right. There are extensive references in trials of war criminals who incited organized violence.",
+      "style": "Nodding acknowledgment, then pivot to documentation. Professional cadence — naming trials as evidence without elaboration. Breath steady, grounded. The register of someone used to citing sources.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害地の部落で、慰安と称された施設、その後の研究は?",
+      "en": "What's the research since then on facilities euphemistically called 'comfort' stations in occupied villages?",
+      "style": "Careful wording on the euphemism — he's choosing precision over comfort. Quiet, serious. The question itself carries weight. Eyes stay level with the officer, testing whether he'll engage with the harder material.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察と歴史家、共同で取り組んでいます。",
+      "en": "Police and historians are collaborating on that now.",
+      "style": "Direct answer, no elaboration. Professional reassurance without defensiveness. Slight nod, indicating ongoing institutional engagement. Breath is calm, grounded.",
+      "mood": "aligned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦後の売春取り締まり、爆破事件もありましたよね。",
+      "en": "And there were bombings during post-war crackdowns on sex work, weren't there?",
+      "style": "Not accusatory — genuinely verifying his understanding. Quiet, almost conversational curiosity. The slight lift at the end is genuine question, not doubt. He's building context, not testing.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、複雑な歴史です。",
+      "en": "Yes. It's complicated history.",
+      "style": "Slight exhale before speaking. Weight of acknowledgment — not minimizing, but also not belaboring. Soft closure. The tone of someone who has sat with these contradictions long enough to hold them without flinching.",
+      "mood": "somber"
+    }
+  ]
+}

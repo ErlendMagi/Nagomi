@@ -1,0 +1,86 @@
+{
+  "id": "conv_07966",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 勝てる/そろえ/置け/絞ら/読み直し/在り方/実装/低減",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勝てる",
+    "そろえ",
+    "置け",
+    "絞ら",
+    "読み直し",
+    "在り方",
+    "実装",
+    "低減"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、競合に勝てる戦略を立てろ",
+      "en": "Develop a strategy that can beat our competitors.",
+      "style": "Clipped, authoritative opening. Decisive tone with no softness. Brief pauses between clauses. Delivered without explanation or justification needed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。書類をそろえております",
+      "en": "Yes. The documents are all in order.",
+      "style": "Respectful, measured response. Steady delivery with a slight lift at the end—confirming readiness. Professional but not stiff; warm underneath the formality.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "資料をきちんと置けるよう棚を増やせ",
+      "en": "Add more shelving so we can store documents properly.",
+      "style": "Task-focused directive. Firm but not harsh. Specific and final—no room for interpretation. Delivered as a practical solution, not a complaint.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、新製品ラインを絞らせていただきました",
+      "en": "Yes. We've narrowed our new product line as requested.",
+      "style": "Respectful update with quiet pride. Steady pace. Slight emphasis on 'narrowed'—showing the work is complete. Not defensive, just factual.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書を読み直して報告しろ",
+      "en": "Read through the contracts again and report back to me.",
+      "style": "Direct, no-nonsense instruction. Even cadence. Slight hardness on 'read through'—this matters. Expects compliance without question.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。事業の在り方を見直しております",
+      "en": "Yes. We're currently reviewing how the business operates.",
+      "style": "Measured confirmation with understated momentum. Calm, steady tone. Suggests ongoing diligence without overstatement. Respectful deference.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新システムを実装しろ",
+      "en": "Implement the new system.",
+      "style": "Sharp, economical directive. Clipped front. No elaboration needed—he has full confidence in the team. Final and definitive.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経費低減を進めております",
+      "en": "Yes. We're working on reducing operational expenses.",
+      "style": "Closing affirmation with quiet assurance. Steady, even pace. Light finish—no lingering doubt. Professional and controlled to the end.",
+      "mood": "resolved"
+    }
+  ]
+}

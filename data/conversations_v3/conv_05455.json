@@ -1,0 +1,79 @@
+{
+  "id": "conv_05455",
+  "context": "A doctor explains medical-ethics basics to a teen",
+  "purpose": "Teach: 永久/打撃/退場/解剖/処罰/不祥事/罰則/税収",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "永久",
+    "打撃",
+    "退場",
+    "解剖",
+    "処罰",
+    "不祥事",
+    "罰則",
+    "税収"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_274 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、医療における処罰制度、知ってる?",
+      "en": "Sakura, are you familiar with how the medical system handles disciplinary measures?",
+      "style": "Casual opening, warm curiosity. Settling into teaching mode without distance. Eye contact, patient breath. Not lecturing—inviting.",
+      "mood": "curious_gentle"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なんとなく。重大な不祥事に対しては、罰則ありますよね。",
+      "en": "Sort of. There are penalties for serious misconduct, aren't there?",
+      "style": "Thoughtful pause before answering. Careful—she's testing her own understanding out loud. Respectful tone but not deferential. Lean forward slightly.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。最悪、永久に医師免許失う退場処分もあります。",
+      "en": "Yes. In the worst cases, a doctor can lose their license permanently—full disbarment.",
+      "style": "Matter-of-fact but not cold. Light emphasis on the severity without dwelling. Clear, steady delivery. The weight of it in her voice but not her pace.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "問題を解剖する委員会も、ある時代があったとか。",
+      "en": "I've read there were whole committees back in the day that investigated these cases.",
+      "style": "Genuine curiosity, pleased with her own knowledge. Not showing off—just interested. Slight warmth in tone, like sharing a detail she found striking.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "今もありますよ。社会への打撃を最小化する目的です。",
+      "en": "They still exist. The purpose is to minimize the damage to public trust.",
+      "style": "Affirming her observation with subtle approval. Slight lean toward her. Clear, deliberate pacing. Teaching without explaining down.",
+      "mood": "affirming"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "税収にも影響するんですよね、結局。",
+      "en": "So it affects the bigger picture—the economy, tax base, everything.",
+      "style": "Recognition landing visibly. Quiet moment of understanding. Speaking to herself as much as to the doctor. Soft trail on the period.",
+      "mood": "realization"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "おっしゃる通り。",
+      "en": "Exactly right.",
+      "style": "Warm closure. A small nod in the voice. Genuine approval—not patronizing. Brief and satisfied, like settling back in her chair.",
+      "mood": "warm_satisfied"
+    }
+  ]
+}

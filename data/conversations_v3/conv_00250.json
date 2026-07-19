@@ -1,0 +1,83 @@
+{
+  "id": "conv_00250",
+  "context": "Tatsuya is visiting his cousin in the city; he's lost. He stops at the koban Officer Takeda is manning.",
+  "purpose": "country-to-city civic kindness — direction-asking interaction",
+  "ambient": "koban_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "道",
+    "迷う",
+    "親切",
+    "助かる",
+    "田舎"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "takeda_officer"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "すいません、ちょっと道に迷いまして。",
+      "en": "Excuse me, I've lost my way.",
+      "style": "Country gruff warm careful direct opener, the soft real rural-civility audible, gentle real warmth throughout delivery throughout.",
+      "mood": "gruffly-civil"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、どちらまで行かれますか？",
+      "en": "Yes, where are you headed?",
+      "style": "Officer warm professional gentle helpful, the soft real public-service warmth audible, gentle real warmth throughout delivery throughout.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "甥っ子の家ですわ。住所はこれです。",
+      "en": "My nephew's house. The address is this.",
+      "style": "Country gruff warm practical sharing, the soft real rural-direct audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-practical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど、ここから歩いて十分ほどです。",
+      "en": "I see — about ten minutes walk from here.",
+      "style": "Officer warm professional clear direction, the soft real expert-public-help audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "professionally-clear"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "助かります。田舎もんで、地図見ても分からんで。",
+      "en": "Saves me. I'm a country man, can't read maps.",
+      "style": "Country gruff warm self-deprecating humble, the soft real real-honesty audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "humble-honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "いえいえ、初めての場所は誰でもそうです。",
+      "en": "No, no, first-time places are tough for anyone.",
+      "style": "Officer warm gentle reassuring kind, the soft real public-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-reassuring"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "親切にどうも。ほんま助かりました。",
+      "en": "Thanks for the kindness. Truly saved me.",
+      "style": "Country gruff warm sincere closing thanks, the soft real rural-deep gratitude audible, gentle real warmth throughout delivery throughout.",
+      "mood": "sincerely-gruff"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お気をつけて。",
+      "en": "Take care.",
+      "style": "Officer warm gentle professional closing, the soft real warm-civic care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-civic"
+    }
+  ]
+}

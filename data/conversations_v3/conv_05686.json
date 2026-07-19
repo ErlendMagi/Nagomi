@@ -1,0 +1,72 @@
+{
+  "id": "conv_05686",
+  "context": "A boss and his manager prep an office move",
+  "purpose": "Teach: 市役所/フロア/洗練/ハードディスク/大物/スマート/本題/紙面",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市役所",
+    "フロア",
+    "洗練",
+    "ハードディスク",
+    "大物",
+    "スマート",
+    "本題",
+    "紙面"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "市役所からの認可、いつ届く?",
+      "en": "When will the city hall approval come through?",
+      "style": "Clipped, businesslike opening. Direct gaze. No wasted breath. The question of someone checking a box on a list before moving on.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来週です。新フロアは、洗練されたデザインになっています。",
+      "en": "Next week. The new floor is getting a refined design.",
+      "style": "Steady, informational. Slight emphasis on 'refined'—not salesmanship, just fact. Level tone, maintaining eye contact. Understated but competent.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本題に入ろう。データ移行、ハードディスクは新規調達か。",
+      "en": "Let's get to the real agenda. Data migration—are we sourcing new hard drives?",
+      "style": "Shift into sharper focus. Slight forward lean. Efficient. The questions come faster now. No digression, just priorities.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。大物の役員も視察予定です。",
+      "en": "Yes. A senior executive from head office is scheduled to tour.",
+      "style": "Matter-of-fact delivery, but with a touch of weight on the executive visit. Not nervous—just establishing the stakes. Clear, no hedging.",
+      "mood": "straightforward"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "スマートな運用で、紙面でも好意的に報じてほしい。",
+      "en": "I want this handled cleanly. I need the press to cover it favorably.",
+      "style": "Firmer now. Quiet authority. Not demanding, but the expectation is clear. Deliberate pace. Slight emphasis on 'cleanly.'",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "広報、調整します。",
+      "en": "I'll coordinate with PR.",
+      "style": "Efficient wrap-up. Brief nod, accepting the task. Confident, no flourish. The punctuation mark on the conversation.",
+      "mood": "assured"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "conv_00451",
+  "context": "Naoko consults Dr. Saito about her widowed mother's health.",
+  "purpose": "adult-daughter consulting longtime family doctor about aging parent",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "母",
+    "一人",
+    "心配",
+    "健康",
+    "相談"
+  ],
+  "cast": [
+    "saito_doctor",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_023)",
+    "generated_at": "2026-05-26T23:51:57.605Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "斎藤先生、お時間、ありがとうございます。",
+      "en": "Dr. Saito, thank you for the time.",
+      "style": "Aunt warm formal sincere-respectful-warm opening, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "formally-respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母様のこと、何か気になりますか。",
+      "en": "About your mother — anything worrying?",
+      "style": "Doctor warm professional gentle sincere-warm careful-asking, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-gentle"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "最近、食欲が落ちてる気がして。",
+      "en": "Lately, appetite seems down.",
+      "style": "Aunt warm soft sincere honest-vulnerable-warm sharing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "softly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "年齢的なものかもしれませんが、念のため、検査しましょう。",
+      "en": "May be age-related, but for caution, let's test.",
+      "style": "Doctor warm professional gentle balanced-warm careful-direction, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "professionally-balanced"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ありがとうございます。安心したい。",
+      "en": "Thank you. Want peace of mind.",
+      "style": "Aunt warm soft sincere vulnerable-warm grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-vulnerable"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母様にも、無理しないで来ていただきましょう。",
+      "en": "Let's have your mother come without forcing.",
+      "style": "Doctor warm professional gentle sincere-warm care-extending, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-careful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "来週、お連れします。",
+      "en": "Next week, I'll bring her.",
+      "style": "Aunt warm soft sincere committed-warm closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-committed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "何かあれば、すぐご連絡ください。",
+      "en": "If anything, contact me immediately.",
+      "style": "Doctor warm professional gentle sincere-warm extending closing, the soft real real-care audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-extending"
+    }
+  ]
+}

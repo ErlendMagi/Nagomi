@@ -1,0 +1,86 @@
+{
+  "id": "conv_08534",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 脳死/永続/双方向/包囲/落選/兵力/没収/上告",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "脳死",
+    "永続",
+    "双方向",
+    "包囲",
+    "落選",
+    "兵力",
+    "没収",
+    "上告"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_428 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、脳死判定の手順を医療チームで厳守しております",
+      "en": "Ren, we follow the brain-death protocol strictly within our medical team.",
+      "style": "Clear, measured delivery. Slight formal weight on 'strictly.' Steady eye contact. No hurry, no hesitation—the voice of someone who has delivered difficult information before.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、慢性病の永続的な管理を医療チームで担当します",
+      "en": "Yes, our team manages the long-term care of chronic conditions.",
+      "style": "Calm confirmation. Light emphasis on 'long-term.' Voice sits at chest level—grounded, unhurried. The reassurance of competence stated plainly.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "双方向の医療相談アプリを、貴院、ご導入されたんですね、先生",
+      "en": "So your hospital introduced a two-way medical consultation app, sensei?",
+      "style": "Gentle curiosity. Lifting tone at the end—genuine interest, not testing. A slight pause before 'two-way' as if noticing something thoughtful about the system itself.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、感染症の包囲対策を医療チームで強化しました",
+      "en": "Yes, we've strengthened our infection control measures across the team.",
+      "style": "Direct and factual. Slight quickening on 'strengthened'—a note of deliberate action. Still measured, but with quiet weight behind it.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "議員落選後の体調管理を、貴院、なさったそうですね、先生",
+      "en": "I hear your hospital provided health support after the politician's loss, sensei?",
+      "style": "Thoughtful, almost tentative. Respectful distance in the phrasing—he's asking about something he's heard, not accusing. Slight brightness in 'support,' like he's genuinely impressed by the care.",
+      "mood": "impressed_tentative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、災害時の医療兵力配置も医療チームで備えております",
+      "en": "Yes, we have disaster response protocols in place across our medical team.",
+      "style": "Steady, preparatory tone. Voice carries the weight of planning and readiness without drama. Each phrase sits level—this is routine preparation, not alarm.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医薬品の没収案件を、貴院、対応されたそうですね、先生",
+      "en": "I understand your hospital handled a case involving seized medication, sensei?",
+      "style": "Careful, almost cautious phrasing. Slight hesitation before 'seized'—he's aware this is sensitive. Voice stays level, respectful, seeking clarification without judgment.",
+      "mood": "thoughtful_careful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、医療訴訟の上告審にも医療チームで対応します",
+      "en": "Yes, we handle appeals in medical litigation cases as a unified team as well.",
+      "style": "Final statement—slightly slower pace, even more measured. Voice carries quiet authority without defensiveness. A small closing breath after 'as well,' like drawing a line beneath the conversation.",
+      "mood": "composed_final"
+    }
+  ]
+}

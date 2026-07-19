@@ -1,0 +1,86 @@
+{
+  "id": "conv_10728",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: ボーダフォン/サラ金/マーチ/ワーム/ヒューザー/プッシュ/エクスプレス/光ファイバー",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ボーダフォン",
+    "サラ金",
+    "マーチ",
+    "ワーム",
+    "ヒューザー",
+    "プッシュ",
+    "エクスプレス",
+    "光ファイバー"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_538 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、旧ボーダフォンの市場参入研究の論文を読め",
+      "en": "Ren — read the paper on Vodafone's market entry strategy.",
+      "style": "Clipped, direct. Delivers instruction with authority but not unkindness. Assumes compliance. Brief pause after the name — this is a summons, not a conversation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。サラ金、つまり消費者金融の経済学的分析の論文を読みます",
+      "en": "Yes. I'll read the economic analysis paper on consumer finance.",
+      "style": "Quick, compliant nod in the voice. Slight mechanical quality — he's repeating back what he heard, or what he thinks he heard. A beat of confusion underneath, but buried.",
+      "mood": "earnest_uncertain"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、自動車業界でマーチ等の小型車の研究をしろ",
+      "en": "Ren — research the automotive market: focus on compact cars like the March.",
+      "style": "Same clipped authority. Slightly more detail this time, but still economical. No room for questions. The tone of someone used to being understood the first time.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。情報セキュリティのワーム解析の論文を読みます",
+      "en": "Yes. I'll read the information security analysis on worm protocols.",
+      "style": "Same quick compliance, but this time there's a micro-hesitation — he's uncertain what he actually just committed to. Voice stays level but there's a hairline fracture of anxiety underneath.",
+      "mood": "compliant_anxious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、旧ヒューザーの企業倫理の研究も視野に入れろ",
+      "en": "Ren — include corporate ethics in your scope. The Huser case would be instructive.",
+      "style": "Slightly less clipped now — this is almost conversational, but still maintains the hierarchical distance. Gentle suggestion wrapped in expectation. A note of actually wanting him to learn.",
+      "mood": "measured_instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。プッシュ通知UXの論文を読みます",
+      "en": "Yes. I'll read the paper on push notification user experience design.",
+      "style": "Quick affirmation, but now there's audible strain — he's lost track of what he's actually supposed to be doing. The politeness is a mask for internal scrambling. Very slightly rushed, like he's hoping this will be the last one.",
+      "mood": "overwhelmed_polite"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、物流のエクスプレスサービスの最適化研究をしろ",
+      "en": "Ren — look into logistics optimization. Express delivery systems specifically.",
+      "style": "Back to the authoritative clip. Doesn't notice Ren's overwhelm. Delivers this one like the others — clear, final, expecting acknowledgment and action.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。光ファイバー通信の物理層の論文を読みます",
+      "en": "Yes. I'll read the fiber optics paper on physical layer communications.",
+      "style": "Affirmation is now thin, hollow. Still polite, still compliant, but the exhaustion of not understanding has collapsed into pure, rote agreement. Trailing off slightly — he's given up asking himself what any of this means.",
+      "mood": "defeated_compliant"
+    }
+  ]
+}

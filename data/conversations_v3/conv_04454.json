@@ -1,0 +1,90 @@
+{
+  "id": "conv_04454",
+  "context": "A police officer briefs a journalism student on international cases",
+  "purpose": "Teach: メキシコ/ピーター/ジョージ/ジャック/マイケル/トム/チベット/靖国",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メキシコ",
+    "ピーター",
+    "ジョージ",
+    "ジャック",
+    "マイケル",
+    "トム",
+    "チベット",
+    "靖国"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_224 workflow ww078rn24)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は国際事件の概要を簡単にご説明します。まずはメキシコの麻薬カルテルに関する協力捜査の件ですね。",
+      "en": "Today I'll briefly explain the overview of our international cases. First, the joint investigation regarding the Mexican drug cartels.",
+      "style": "Formal, measured tone of a briefing police officer"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。容疑者については、どの程度まで伺ってもよろしいでしょうか?",
+      "en": "Thank you. Regarding the suspects, how much may I ask about them?",
+      "style": "Polite, eager student-journalist asking carefully for scope"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "仮名でお話しします。主犯格を仮にピーター、共犯の一人をジョージとしておきましょうか。",
+      "en": "I'll speak using pseudonyms. Let's call the ringleader Peter for now, and one of the accomplices George.",
+      "style": "Calm, careful delivery emphasizing the need for anonymization"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、配慮ありがとうございます。もう一人の共犯にも仮名はありますか?",
+      "en": "I see, thank you for the consideration. Is there a pseudonym for the other accomplice as well?",
+      "style": "Respectful follow-up acknowledging the officer's caution"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、その人物はジャックと呼んでおきます。記事ではこの表記でお願いしますね。",
+      "en": "Yes, let's refer to that individual as Jack. Please use this notation in your article.",
+      "style": "Steady professional voice giving a clear editorial instruction"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "承知しました。被害者や目撃者についても、同じように伺えますか?",
+      "en": "Understood. Regarding the victim and witness, may I ask in the same manner?",
+      "style": "Curious student pushing the interview forward respectfully"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者はマイケルさんという英国籍の方、とだけ申し上げておきますね。",
+      "en": "I'll only say that the victim was a British national, referred to as Michael.",
+      "style": "Cautious official tone limiting disclosure of sensitive details"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "目撃者についてはいかがでしょうか。差し支えなければ教えてください。",
+      "en": "And what about the witness? Please tell me if it's not a problem.",
+      "style": "Polite probing question typical of student journalists"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "目撃者は仮にトムとしておきます。観光で滞在中の方だったとだけ補足しておきますね。",
+      "en": "Let's refer to the witness as Tom. I'll only add that he was staying as a tourist.",
+      "style": "Measured voice giving controlled, partial information to the journalist"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。チベットからの亡命者や靖国神社周辺の案件も、別の機会に伺えますか?",
+      "en": "Thank you. May I ask about Tibetan refugee cases and matters around Yasukuni Shrine on another occasion?",
+      "style": "Polite closing request signaling future interest in further topics"
+    }
+  ]
+}

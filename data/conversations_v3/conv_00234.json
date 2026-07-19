@@ -1,0 +1,83 @@
+{
+  "id": "conv_00234",
+  "context": "Sachiko's annual checkup. Dr. Saito has been her doctor for fifteen years.",
+  "purpose": "long-rapport doctor and elder patient — careful elder care continuing into another year",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "検査",
+    "元気",
+    "結果",
+    "健康",
+    "安心"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_012)",
+    "generated_at": "2026-05-26T20:02:12.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さん、今年も検査の時期ですね。",
+      "en": "Ma'am, it's checkup time again this year.",
+      "style": "Doctor warm long-rapport familial respectful opener, the gentle real care audible, soft real warmth threading throughout delivery.",
+      "mood": "warmly-respectful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "もう一年経つのね。早いわ。",
+      "en": "A year already. Time flies.",
+      "style": "Soft grandmother warm gentle time-wonder, the soft real elder-reflection audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "softly-wondering"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血液の結果、特に問題ありません。",
+      "en": "Blood results — no particular issues.",
+      "style": "Doctor warm professional reassuring clarity, the soft real care-confirmation audible, gentle real warmth threading throughout delivery.",
+      "mood": "professionally-reassuring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "まあ、本当？安心したわ。",
+      "en": "My, really? I feel relieved.",
+      "style": "Soft grandmother warm sincere relief, the soft real elder-gratitude audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "sincerely-relieved"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "腰のお薬は、続けてくださいね。",
+      "en": "Keep taking your back medicine.",
+      "style": "Doctor warm gentle professional reminder, the soft real ongoing-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-reminding"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "はい、忘れず飲んでます。",
+      "en": "Yes, I don't forget to take it.",
+      "style": "Soft grandmother warm careful reassuring obedience, the soft real respect audible, gentle real warmth throughout delivery throughout.",
+      "mood": "carefully-respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつも健康に気を遣われていて、立派です。",
+      "en": "You're always mindful of your health — admirable.",
+      "style": "Doctor warm sincere gentle praise, the soft real respectful-care audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "sincerely-praising"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おかげさまで。先生のおかげよ。",
+      "en": "Thanks to you. Doctor's help.",
+      "style": "Soft grandmother warm humble redirecting, the soft real elder-grace audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "humbly-grateful"
+    }
+  ]
+}

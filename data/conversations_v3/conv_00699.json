@@ -1,0 +1,69 @@
+{
+  "id": "conv_00699",
+  "context": "Kenji and Daichi plan a business meeting.",
+  "purpose": "small workplace deep planning",
+  "ambient": "meeting_room",
+  "sound_effects": [],
+  "target_vocab": [
+    "会議",
+    "一緒",
+    "計画",
+    "感謝",
+    "頑張る"
+  ],
+  "cast": [
+    "kenji_office",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_035)",
+    "generated_at": "2026-05-27T01:22:32.956Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "だいちさん、来週の会議、準備、進んでますか。",
+      "en": "Daichi-san, how's the prep coming along for next week's meeting?",
+      "style": "Light, checking-in tone. Warm but professional — the kind of colleague who actually cares how things are going. Easy pace, open at the end like he's genuinely ready to hear the answer.",
+      "mood": "warm_professional"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "はい、資料、ほぼ、完成。明日、確認、お願いできますか。",
+      "en": "Yes, the materials are almost finished. Could I ask you to review them tomorrow?",
+      "style": "Bright and earnest, with that Kansai lilt that makes everything sound more generous. A small upswing on the request — not demanding, genuinely asking. Open and trusting.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろん。一緒に、進めていきましょう。",
+      "en": "Of course. Let's keep moving forward together.",
+      "style": "Reassuring and steady. A gentle emphasis on 「一緒に」 — the word matters to him. Warm without being effusive. The kind of solid, reliable presence that makes people relax.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "田中さんと、いつも、頑張れて、ほんま、ありがたい。",
+      "en": "I'm really grateful we get to push through this with you, Tanaka-san. Truly.",
+      "style": "Sincere and softened. The gratitude is real — not performative. Slight catch of genuine feeling in the middle. Warm regional accent threading through. Eyes-front, not looking away.",
+      "mood": "genuinely_grateful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。これからも、ずっと。",
+      "en": "That goes both ways. Always — going forward too.",
+      "style": "Quiet conviction underneath the warmth. A gentle closing — not rushed. The promise in those words sits gently. Soft eye contact. This is someone who means what he says and knows it will be understood.",
+      "mood": "tender_committed"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "皆で、頑張って、いきましょう。",
+      "en": "Let's all keep working hard together.",
+      "style": "Collective and generous — opening outward to include everyone. A touch of brightness, that Kansai warmth. Not a command, an invitation. The kind of thing said with a small nod or light shoulder touch.",
+      "mood": "warm_inclusive"
+    }
+  ]
+}

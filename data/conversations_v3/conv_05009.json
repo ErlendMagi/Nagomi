@@ -1,0 +1,78 @@
+{
+  "id": "conv_05009",
+  "context": "A retired exec mentors a younger boss about tight deadlines",
+  "purpose": "Teach: 承諾/着用/期日/着目/配列/精密/随時/皆無",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "承諾",
+    "着用",
+    "期日",
+    "着目",
+    "配列",
+    "精密",
+    "随時",
+    "皆無"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先輩、来週の提出期日が厳しすぎて、正直焦っています。",
+      "en": "Senpai, next week's submission deadline is too tight, honestly I'm panicking.",
+      "style": "Stressed younger boss venting anxiously to a trusted mentor"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "落ち着け。まずどこに着目すべきか、頭の中を整理することから始めなさい。",
+      "en": "Calm down. Start by sorting out where you should focus first.",
+      "style": "Calm seasoned mentor giving measured advice in a steady tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ですが、工程の順序を入れ替えても、間に合う見込みは皆無に近いんです。",
+      "en": "But even if I rearrange the task order, the chance of finishing is nearly zero.",
+      "style": "Anxious subordinate pushing back with a frustrated edge in voice"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "工程を精密な配列のまま守ろうとするから苦しいんだ。崩していい。",
+      "en": "You're suffering because you cling to the precise sequence. Break it.",
+      "style": "Reassuring elder challenging the junior's rigid perfectionist mindset gently"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "上の承諾なしに段取りを変えるのは、さすがに怖いですよ。",
+      "en": "Changing the plan without approval from above is honestly scary.",
+      "style": "Hesitant subordinate worried about violating the company hierarchy openly"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "責任は私が取る。今夜、私から部長に話を通しておく。",
+      "en": "I'll take responsibility. I'll speak to the director myself tonight.",
+      "style": "Decisive elder offering paternal backing with quiet firm authority"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "助かります。明日の会議は、やはりネクタイの着用が無難ですよね。",
+      "en": "That's a huge help. For tomorrow's meeting, wearing a tie is safer, right?",
+      "style": "Relieved younger boss shifting to practical preparation details now"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そうだな。進捗は随時知らせてくれ。期日は守るものだが、人を壊してまで守るものではない。",
+      "en": "Yes. Keep me updated as you go. Deadlines should be kept, but not at the cost of breaking people.",
+      "style": "Wise closing remark blending practical guidance with paternal warmth"
+    }
+  ]
+}

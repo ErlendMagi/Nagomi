@@ -1,0 +1,78 @@
+{
+  "id": "conv_04933",
+  "context": "A police officer briefs a uni reporter about a court mediator",
+  "purpose": "Teach: 情緒/カリスマ/一族/推理/調停/活字/イデオロギー/頭脳",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "情緒",
+    "カリスマ",
+    "一族",
+    "推理",
+    "調停",
+    "活字",
+    "イデオロギー",
+    "頭脳"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_248 workflow wae9tniwh)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "取材ご苦労様です。今日お話しする調停委員の田中さんは、地域でカリスマ的な存在として知られています。",
+      "en": "Thanks for coming to cover this. The mediator Mr. Tanaka I'll discuss is known as a charismatic figure in the community.",
+      "style": "Formal police briefing tone, measured and professional."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。家庭調停を専門にされていると聞きましたが、どんな事件を扱われているんですか?",
+      "en": "Thank you. I heard he specializes in family mediation — what sort of cases does he handle?",
+      "style": "Polite student-reporter register with genuine curiosity."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "主に旧家の一族間の相続争いですね。感情が激しくぶつかるので、情緒不安定になる当事者も少なくありません。",
+      "en": "Mostly inheritance disputes between members of old families. Emotions clash hard, and many parties become emotionally unstable.",
+      "style": "Informative explanatory tone with case-worn gravity."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。推理小説みたいな複雑な背景がありそうですね。何か特定のイデオロギーが対立の原因になることも?",
+      "en": "I see. Sounds like backgrounds as complex as a detective novel. Do specific ideologies ever cause the conflicts?",
+      "style": "Engaged journalistic follow-up showing analytical thinking."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ありますよ。世代間のイデオロギーの違いが揉め事を引き起こすケースは多いです。田中さんはそこを冷静にほぐしていく。",
+      "en": "Yes indeed. Generational ideological differences often spark disputes. Mr. Tanaka calmly untangles those tensions.",
+      "style": "Steady veteran officer explaining with quiet measured respect."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "頭脳明晰な方なんですね。最近の若い人は活字離れで、こうした地道な仕事に興味を持ちにくいかもしれません。",
+      "en": "He must be incredibly sharp-minded. Young people these days drift from reading, so they may struggle to appreciate such patient work.",
+      "style": "Reflective university-student observation, slightly self-critical, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "だからこそ君のような学生の取材は貴重です。一度、調停の現場を遠くから見学させて頂けるよう手配しましょう。",
+      "en": "That's exactly why coverage from students like you matters. I'll arrange for you to observe a mediation session from a distance.",
+      "style": "Warm encouraging close with practical offer of help."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当ですか?ぜひお願いします。記事にするとき、田中さんの人柄もきちんと伝えたいです。",
+      "en": "Really? Please, by all means. When I write the article, I want to convey Mr. Tanaka's character properly.",
+      "style": "Earnest grateful response with reporter's commitment."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_01628",
+  "context": "Naoko gives a friendly cooking lesson at a noodle workshop.",
+  "purpose": "Aunt teaching a small group how to make noodles by hand.",
+  "ambient": "kitchen_workshop_flour",
+  "sound_effects": [],
+  "target_vocab": [
+    "麺",
+    "粉",
+    "こね",
+    "湯"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_082)",
+    "generated_at": "2026-05-27T06:57:45.559Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "麺は、ようこねるんやで!",
+      "en": "Knead the noodles properly, you hear!",
+      "style": "Brassy, energetic Kansai accent. Sharp attack on the directive. Loud and clear like teaching a room. Genuine warmth underneath the volume—a woman who loves showing someone how it's done.",
+      "mood": "warm_instructive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "はい、おばさん、こうですか?",
+      "en": "Yes, auntie—like this?",
+      "style": "Soft, eager tone. Slight upward lilt at the question, genuinely seeking approval. Warm and attentive, not nervous—the respect of learning from someone you trust.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ええ感じや、力入れて!",
+      "en": "That's the way—put your strength into it!",
+      "style": "Animated, encouraging. Punchy delivery on the directive. Still loud, still Kansai, but now actively cheering her on. The pride of watching a student catch on.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "粉、ふんわりしてきた。",
+      "en": "The flour's getting light and fluffy.",
+      "style": "Quiet observation, almost to herself. Warm noticing tone. Slight wonder in the voice—the small pleasure of watching technique work. Gentle exhale on the final word.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "茹でるの、お湯たっぷりや。",
+      "en": "When you boil them, use plenty of water.",
+      "style": "Warm but firm Kansai delivery. Clear, practical instruction. Not loud this time—measured and assured, like someone who knows this matters and trusts her student to listen.",
+      "mood": "firm_warm"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど、覚えました。",
+      "en": "I understand—I've got it.",
+      "style": "Soft, genuine gratitude in the voice. Calm confidence now, not tentative. The quiet satisfaction of understanding. Slight nod in the delivery.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ふふ、ええ生徒や!",
+      "en": "Heh—you're a fine student!",
+      "style": "Brassy, delighted laugh at the opening. Loud and proud, but softened by real affection. The warmth of someone watching a protégé get it right. Pride sits easy in this voice.",
+      "mood": "proud_affectionate"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09401",
+  "context": "Mom and son chat",
+  "purpose": "Teach: セキュリティー/書き込む/宝くじ/猛烈/若しくは/つかみ/近々/なんだかんだ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "セキュリティー",
+    "書き込む",
+    "宝くじ",
+    "猛烈",
+    "若しくは",
+    "つかみ",
+    "近々",
+    "なんだかんだ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_472 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがお家のセキュリティーを強化されたわ",
+      "en": "Sho, your dad has been reinforcing the home security system.",
+      "style": "Warm, matter-of-fact tone. Soft opening. Speaking as a parent sharing household news—informative but affectionate. Light and easy breathing.",
+      "mood": "warm_informative"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、日記帳に書き込む習慣があるんだ",
+      "en": "Mom, I have this habit now—I write in my diary every day.",
+      "style": "Earnest and slightly proud. Bright attack on the opening word. Quick pace with a touch of breathlessness. Seeking validation without demanding it. Tail off gently on the last phrase.",
+      "mood": "proud_uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんが宝くじを買ってらしたわよ",
+      "en": "Sho, your father bought a lottery ticket, apparently.",
+      "style": "Dry, gently amused tone. Slight raise on 'lottery'—not mocking, but pointing out something mildly funny about it. Understated knowing look in the voice. Slow, measured delivery.",
+      "mood": "wry_affectionate"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、今日は猛烈に暑いね",
+      "en": "Mom, it's incredibly hot today, isn't it?",
+      "style": "Observational and immediate. Light, conversational opening. Natural pace—he's making small-talk but meaning it. A little fidgety energy in the delivery, like he's looking for something to talk about.",
+      "mood": "observant_restless"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お絵描き若しくは読書、どっちにする?",
+      "en": "Sho, would you rather draw or read right now?",
+      "style": "Gentle offer with an undertone of purpose. Slow, patient pacing. Each option given equal weight. A mother's quiet way of giving her child a choice and seeing what he needs. Warm and attentive.",
+      "mood": "caring_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんの指をぎゅっとつかみたいよ",
+      "en": "Mom, I want to squeeze Dad's hand really tight.",
+      "style": "Vulnerable and direct. Soft opening. Quiet intensity underneath—the need is genuine and unguarded. Small voice, reaching. Slight hesitation before the last word, as if checking it's okay to say out loud.",
+      "mood": "tender_needy"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、近々、お祖父ちゃんが遊びにいらっしゃるわ",
+      "en": "Sho, Grandpa will be visiting soon.",
+      "style": "Pleasant announcement with quiet joy underneath. Steady, warm tone. Open attack on the opening word. Even pacing. The kind of news she's happy to share—anticipation without overstatement. Slight lift at the end.",
+      "mood": "pleased_anticipatory"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、なんだかんだで今日も楽しかったね",
+      "en": "Mom, even though today had its moments, it was really fun.",
+      "style": "Reflective and contented. Slow, thoughtful opening. Warm acceptance in the tone—processing the day and finding it good. Soft, genuine smile in the voice. Trailing off peacefully at the end.",
+      "mood": "content_grateful"
+    }
+  ]
+}

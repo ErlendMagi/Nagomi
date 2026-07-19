@@ -1,0 +1,72 @@
+{
+  "id": "conv_04627",
+  "context": "An office helpdesk walks a barista through a new app",
+  "purpose": "Teach: ハードウェア/テクニカル/プラットフォーム/メソッド/フォロー/プレゼンテーション/アンド/同等",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ハードウェア",
+    "テクニカル",
+    "プラットフォーム",
+    "メソッド",
+    "フォロー",
+    "プレゼンテーション",
+    "アンド",
+    "同等"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "アオイさん、お疲れさまです。新しい注文アプリのプレゼンテーション資料、お持ちしました。",
+      "en": "Aoi, thanks for your time. I brought the presentation materials for the new ordering app.",
+      "style": "Polite helpdesk greeting, professional and warm tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。前のシステムと同等の操作感だと聞いていますが、本当ですか？",
+      "en": "That helps. I heard it has the same usability as the previous system, is that true?",
+      "style": "Curious barista, slightly skeptical but friendly tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、基本のメソッドはほぼ同じです。レジのハードウェアもそのまま使えますよ。",
+      "en": "Yes, the basic method is mostly the same. You can keep using the same register hardware too.",
+      "style": "Reassuring technical explanation, clear and patient delivery."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "よかった。実はテクニカルな話が苦手で、新しいプラットフォームってだけで緊張します。",
+      "en": "What a relief. Honestly, I'm bad with technical talk, and a new platform alone makes me nervous.",
+      "style": "Honest, slightly self-deprecating, casual workplace tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫です、導入後もしっかりフォローしますから。困ったらすぐ呼んでください。",
+      "en": "It's fine, we'll provide proper follow-up after rollout. Just call me whenever you get stuck.",
+      "style": "Supportive helpdesk reassurance, kind and dependable manner."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。メニューは『アイスコーヒー・アンド・ドーナツセット』みたいな組み合わせも登録できますか？",
+      "en": "Thanks. Can I register combos like 'iced coffee and donut set' on the menu too?",
+      "style": "Practical question about real menu items, conversational curiosity."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん登録できます。あとで一緒に画面を見ながら設定しましょう。",
+      "en": "Of course you can register them. Let's go through the screen together and set it up later.",
+      "style": "Collaborative, hands-on offer to teach, warm and professional."
+    }
+  ]
+}

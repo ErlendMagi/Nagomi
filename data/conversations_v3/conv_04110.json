@@ -1,0 +1,84 @@
+{
+  "id": "conv_04110",
+  "context": "A senior trains a new hire on internal developer tools",
+  "purpose": "Teach: ヘッド/タグ/オブジェクト/ポジション/フォーラム/ライセンス/認証/トップページ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ヘッド",
+    "タグ",
+    "オブジェクト",
+    "ポジション",
+    "フォーラム",
+    "ライセンス",
+    "認証",
+    "トップページ"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_207 workflow w0dh1o72z)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ、まずは社内ツールのトップページから案内するね。",
+      "en": "Alright, let me start by walking you through the top page of our internal tools.",
+      "style": "Calm mentoring tone, slightly slower pace for clarity"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お願いします。ログインには二段階認証が必要なんですよね?",
+      "en": "Please do. Login requires two-factor authentication, right?",
+      "style": "Eager and polite junior, asking with curious upward inflection"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そう。認証が通ったら、自分のポジションに応じた権限が割り当てられる仕組み。",
+      "en": "Right. Once authentication passes, permissions are assigned based on your position.",
+      "style": "Steady explanatory voice, professional and patient"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。このヘッダーのタグみたいなのは何ですか?",
+      "en": "I see. What are these tag-looking things in the header?",
+      "style": "Curious, pointing-at-screen tone with genuine interest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ヘッドの部分はプロジェクトのオブジェクトを分類するタグだよ。検索が楽になる。",
+      "en": "The head section has tags that classify project objects. It makes searching easier.",
+      "style": "Helpful and clear, like explaining to a new teammate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "便利ですね。質問があるときはどこで聞けばいいですか?",
+      "en": "That's handy. Where should I ask when I have questions?",
+      "style": "Polite and slightly tentative, wanting to learn the workflow"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "社内フォーラムがあるから、まずそこで検索してみて。過去ログがけっこう充実してる。",
+      "en": "We have an internal forum, so try searching there first. The past logs are pretty thorough.",
+      "style": "Practical advice tone, friendly senior sharing tips"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。あ、このライセンスの表示はどう扱えばいいんでしょう?",
+      "en": "Got it. Oh, how should I handle this license notice?",
+      "style": "Attentive newcomer noticing details, asking carefully"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "商業ライセンスの扱いは法務に確認するルールだから、勝手に触らないでね。",
+      "en": "Commercial licenses must be checked with legal, so don't touch them on your own.",
+      "style": "Gently firm reminder, emphasizing the rule without scolding"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08489",
+  "context": "Officer briefs",
+  "purpose": "Teach: 完売/手形/再販/増収/不問/別個/特産/海苔",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "完売",
+    "手形",
+    "再販",
+    "増収",
+    "不問",
+    "別個",
+    "特産",
+    "海苔"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_426 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯グッズが本日完売しました",
+      "en": "The crime prevention goods sold out today.",
+      "style": "Measured, official opening. Even pace, no inflection. Factual delivery, like reading from a report. Steady eye contact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、手形偽造の事件を捜査されてますね",
+      "en": "Yes — you're investigating the counterfeit bill case, aren't you.",
+      "style": "Acknowledgment with a note of understanding. Respectful but conversational. Slight lean of attentiveness. Not deferential, but cooperating.",
+      "mood": "respectful_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、再販された違法薬物の摘発を進めております",
+      "en": "We're continuing to crack down on the redistribution of illegal narcotics.",
+      "style": "Formal, bureaucratic phrasing. Deliberate pace. 「摘発を進めております」carries quiet authority. No emotion, just procedure.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、増収詐欺の手口にご注意なさってますね",
+      "en": "Yes — and you're being careful about the advance-fee fraud schemes too, right.",
+      "style": "Light acknowledgment. Genuine curiosity underneath. Not testing, just checking in. Warm but measured.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の経歴は不問とせず、警察、調査します",
+      "en": "We're not overlooking the suspect's background — we're investigating it thoroughly.",
+      "style": "Slight emphasis on 「不問とせず」. Deliberate correction, not harsh. Professional firmness. Clear that this matters.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、別個の事件として警察、扱われますね",
+      "en": "Yes — each case is being handled separately, as it should be.",
+      "style": "Quiet agreement. Understands the reasoning. Nods slightly. Respectful tone, no sarcasm. Matter-of-fact.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域特産品の偽造事件も捜査中です",
+      "en": "We're also investigating the counterfeiting cases involving local specialty products.",
+      "style": "Continuing through the list. Same measured pace as before. No weariness, just procedural thoroughness. Professional stamina.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、海苔の不正取引事案も対応されてますね",
+      "en": "Yes — and you're handling the illegal nori trading cases as well.",
+      "style": "Specific detail shows he's been paying attention. Warm recognition. Slight smile in the voice, not mocking. Genuine respect for the work.",
+      "mood": "impressed"
+    }
+  ]
+}

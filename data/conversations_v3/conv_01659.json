@@ -1,0 +1,61 @@
+{
+  "id": "conv_01659",
+  "context": "Riku-teen helps Sho-young learn to swim properly at the river.",
+  "purpose": "Older teen patiently teaching younger one outdoor skill.",
+  "ambient": "river_summer_splash",
+  "sound_effects": [],
+  "target_vocab": [
+    "泳ぐ",
+    "川",
+    "浮かぶ",
+    "練習"
+  ],
+  "cast": [
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_083)",
+    "generated_at": "2026-05-27T07:04:39.694Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "riku_teen",
+      "jp": "川、ゆっくり入って。",
+      "en": "Come in slowly.",
+      "style": "Soft, patient instruction. Steady breathing. Hand extended or gesturing. Speaking to reassure, not to perform. The ease of someone who has done this before.",
+      "mood": "calm_patient"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "浮けない、怖い!",
+      "en": "I can't float — I'm scared!",
+      "style": "High, sharp edge on the opening. Breath catching. Genuine panic underneath, but trust in the voice too. Searching for reassurance, not performing distress.",
+      "mood": "frightened_trusting"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "大丈夫、力抜いてみ。",
+      "en": "You're okay. Just loosen up.",
+      "style": "Quieter now. Close to him, not shouting. Warm conviction without pressure. The tone of someone who knows fear and knows it passes.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "浮いた、すごい!",
+      "en": "I'm floating — that's amazing!",
+      "style": "Pure wonder, climbing upward. Breathless at the realization. Real delight, not performed. The voice of discovery — small and genuine and amazed.",
+      "mood": "wonder_joy"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "やったな、練習や。",
+      "en": "You did it. That's the practice right there.",
+      "style": "Warm, understated pride. A slight smile in the voice. Not overstating it — just reflecting back what happened. The confidence of someone steady.",
+      "mood": "proud_steady"
+    }
+  ]
+}

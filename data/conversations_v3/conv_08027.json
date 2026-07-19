@@ -1,0 +1,86 @@
+{
+  "id": "conv_08027",
+  "context": "Two managers chat",
+  "purpose": "Teach: にもかかわらず/おっしゃら/あげれ/仰っ/当てはめ/まとまら/違わ/無き",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "にもかかわらず",
+    "おっしゃら",
+    "あげれ",
+    "仰っ",
+    "当てはめ",
+    "まとまら",
+    "違わ",
+    "無き"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_403 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "予算減にもかかわらず、新企画を進めましょう",
+      "en": "Let's move forward with the new project despite the budget cuts.",
+      "style": "Crisp, matter-of-fact opening. Decisive but not cold. Steady eye contact. The tone of someone who's already thought this through and is ready to own the decision.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。先方、おっしゃらないけれど不満かもしれません",
+      "en": "Yes. The client won't say it outright, but they might be disappointed.",
+      "style": "Measured acknowledgment. Slight lean forward — a whisper of concern beneath the professional surface. Honest without overstepping. The pause before 'but' carries weight.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "社員にあげれば喜ぶ表彰を考えましょう",
+      "en": "Let's think about an award we can give the staff — something that'll make them happy.",
+      "style": "Thoughtful pivot. Softer attack than the opening. Warm but still strategic. The kind of suggestion someone makes when they've already thought about morale and have a plan.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。役員が仰った理念、社員に浸透中です",
+      "en": "Yes. The philosophy the executives mentioned is already taking root with the team.",
+      "style": "Quiet confidence. Not boasting — reporting progress like someone who's been watching it happen. Slight lift at the end, like he's proud of something he helped grow.",
+      "mood": "encouraged"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "テストデータを当てはめての検証を進めましょう",
+      "en": "Let's run the verification using the test data.",
+      "style": "Directive but not demanding. Clear and efficient. The rhythm of someone moving through a checklist with purpose. No wasted words, no extra warmth.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。意見がまとまらないチーム、サポートします",
+      "en": "Yes. I'll make sure to support the team — they're having trouble aligning on some opinions.",
+      "style": "Supportive undertone. Acknowledges a real problem without drama. The tone of someone who's already mentally shifted into problem-solving mode. Steady and present.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "当社の品質は、ライバル社と違わない水準です",
+      "en": "Our quality is on par with our competitors.",
+      "style": "Calm assertion. Factual, not defensive. The tone of someone stating something they've verified and are willing to stand behind. No need to prove it again.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。返品クレーム無きの月もあるかもしれません",
+      "en": "Yes. We might even have months now with zero return complaints.",
+      "style": "Quiet closing note of optimism. Understated. The delivery of someone offering good news gently, like he doesn't want to jinx it. Slight soft landing on the final word.",
+      "mood": "hopeful"
+    }
+  ]
+}

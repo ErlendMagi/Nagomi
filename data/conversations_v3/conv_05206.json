@@ -1,0 +1,72 @@
+{
+  "id": "conv_05206",
+  "context": "A boss reviews a flagship product launch with his manager",
+  "purpose": "Teach: 稼い/及ば/導く/禁じ/新着/実在/事典/オフィシャル",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "稼い",
+    "及ば",
+    "導く",
+    "禁じ",
+    "新着",
+    "実在",
+    "事典",
+    "オフィシャル"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_262 workflow whl5d27bi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の販売データを見たが、よく稼いだな。",
+      "en": "I looked at this quarter's sales data — you earned well.",
+      "style": "Authoritative boss opening the review with satisfied acknowledgment of results."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。オフィシャルサイトでの発表直後から注文が殺到しました。",
+      "en": "Thank you. Orders flooded in right after the announcement on the official site.",
+      "style": "Composed manager reporting positive market reception with measured professional pride."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ただ、地方の売上は当初の予測に及ばないな。原因は分析したか?",
+      "en": "However, regional sales fall short of the initial forecast. Did you analyze the cause?",
+      "style": "Sharp executive probing weaknesses despite overall success of the launch."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "競合他社の値引きが主因です。社内規定が割引キャンペーンを禁じておりまして、対応が遅れました。",
+      "en": "Competitor discounts are the main cause. Internal rules forbid discount campaigns, so our response lagged.",
+      "style": "Apologetic mid-manager explaining structural delays caused by internal regulations."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それなら、実在のお客様の声を集めて、用語事典のような形で社内ポータルに載せてくれ。営業の判断材料になる。",
+      "en": "Then gather voices of actual customers and post them as a kind of glossary on the internal portal. It will help sales judgment.",
+      "style": "Strategic leader issuing concrete directives to leverage real testimonials for the team."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。営業チームを成功へ導くため、今週中に着手します。",
+      "en": "Understood. To guide the sales team toward success, I will start within this week.",
+      "style": "Loyal lieutenant accepting orders with a firm commitment to swift execution."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。新着の市場レポートも届いているから、後で目を通しておけ。",
+      "en": "I am counting on you. The latest market reports have also arrived — look them over later.",
+      "style": "Encouraging boss closing the review with forward-looking instructions and trust."
+    }
+  ]
+}

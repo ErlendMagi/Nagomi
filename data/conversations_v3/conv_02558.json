@@ -1,0 +1,75 @@
+{
+  "id": "conv_02558",
+  "context": "Saito explains mental rest to a tired patient.",
+  "purpose": "WIDENED SCENARIO: medical advice; clinical vocabulary (脳/身体/リスク/感覚/知れ) in natural home.",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "脳",
+    "身体",
+    "リスク",
+    "感覚",
+    "知れ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_128)",
+    "generated_at": "2026-05-29T13:08:48.299Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "最近、集中できないんです。",
+      "en": "Lately I can't concentrate.",
+      "style": "tired office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "脳が、休みを求めている感覚ですね。",
+      "en": "It's the sense that your brain wants rest.",
+      "style": "calm doctor voice, soft warm reassuring measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "身体は元気なのに、不思議です。",
+      "en": "My body's fine, so it's strange.",
+      "style": "puzzled office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "身体と脳の疲れは、別の感覚です。",
+      "en": "Bodily and mental fatigue are different sensations.",
+      "style": "clear doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "放っておくと、リスクはありますか?",
+      "en": "If I leave it, is there a risk?",
+      "style": "concerned office man voice, soft warm earnest delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "休めば、リスクは下がると知れますよ。",
+      "en": "You'll find rest lowers the risk.",
+      "style": "reassuring doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感覚を、大事にした方がいいんですね。",
+      "en": "So I should value those sensations.",
+      "style": "understanding office man voice, soft warm delivery throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、脳と身体に、休息を。",
+      "en": "Yes, give rest to your brain and body.",
+      "style": "gentle doctor voice, soft warm caring closing clarity throughout"
+    }
+  ]
+}

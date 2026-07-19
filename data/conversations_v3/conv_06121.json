@@ -1,0 +1,86 @@
+{
+  "id": "conv_06121",
+  "context": "A mom and son chat about plans",
+  "purpose": "Teach: 片道/肘/釘/売り物/割安/夏場/治す/肩こり",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "片道",
+    "肘",
+    "釘",
+    "売り物",
+    "割安",
+    "夏場",
+    "治す",
+    "肩こり"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_308 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、おばあちゃんち、片道2時間だっけ?",
+      "en": "Mom, is Grandma's place two hours away one-way?",
+      "style": "Small, genuine curiosity — not performance. Asks the practical question before a trip. Matter-of-fact but attentive to the answer.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。バスで肘、痛めないように気をつけてね。",
+      "en": "Yes. On the bus — be careful you don't bump your elbows.",
+      "style": "Gentle reminder delivered without fuss. Quiet attention to his small body on a crowded bus. Not worried, just watching.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "お父さん、壁に釘、打つって言ってた。",
+      "en": "Dad said he's going to hammer nails in the wall.",
+      "style": "Careful relay of information — slightly startled by the image. Pause after 'hammer' like he's picturing it. Not excitement, gentle concern.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。新しい棚、売り物じゃなくて、お父さんの自作よ。",
+      "en": "Yes. It's a new shelf — not store-bought. Your dad's making it himself.",
+      "style": "Steady, matter-of-fact. A note of quiet pride in 'making it himself.' Reassuring him without overselling it.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "今日のお店、割安なお肉、買えた?",
+      "en": "Did the shop have discounted meat today?",
+      "style": "Practical follow-up — asking what he noticed. Unhurried. Listening like his observation matters to the evening's plan.",
+      "mood": "present"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。夏場、肉はすぐ傷むから、注意ね。",
+      "en": "Yes. Meat spoils quickly in summer — we need to be careful with it.",
+      "style": "Teaching without lecturing. Light emphasis on 'quickly.' Assumes he'll remember this. Practical warmth.",
+      "mood": "practical_warm"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、風邪、早く治すの、何食べる?",
+      "en": "When you have a cold, what should we eat to help it go away faster?",
+      "style": "Turns his question back to him gently. Curious, not correcting. Waiting for his answer. The slowness of actual conversation.",
+      "mood": "gentle_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの肩こり、お風呂で温めてあげようね。",
+      "en": "Let's warm Dad's shoulders in the bath — help his stiffness feel better.",
+      "style": "Warm suggestion, matter-of-fact. Includes him naturally in caring for Dad. No sentimentality. Just 'this is what we do.'",
+      "mood": "tender_practical"
+    }
+  ]
+}

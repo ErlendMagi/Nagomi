@@ -1,0 +1,61 @@
+{
+  "id": "conv_01493",
+  "context": "Yumiko helps Mei find her way back at a busy department store after they lose each other.",
+  "purpose": "Family member helps another navigate; brief reunion relief.",
+  "ambient": "department_store_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "迷子",
+    "案内",
+    "受付",
+    "見つける"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "mei_romantic"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_075)",
+    "generated_at": "2026-05-27T06:09:04.464Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "お母さん、迷子になっちゃった。",
+      "en": "Mom — I got lost.",
+      "style": "Breathless opening. Soft worry underneath but relief too, like she's been scared and just found solid ground. Quick intake of breath before speaking. Warm despite the worry.",
+      "mood": "worried_relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "受付で待ってたのよ、よかった。",
+      "en": "I was waiting at the desk — I'm so glad you're okay.",
+      "style": "Steady, warm exhale. The tone of someone whose worry is lifting. Not fussy, but genuinely present. Gentle hand-reaching quality to the voice, no performance.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "案内、わかりにくかった。",
+      "en": "The signage was confusing.",
+      "style": "Quiet, honest. Not making excuses — just stating it plainly. A little tired underneath. Soft fadeout, like she's apologizing without saying sorry.",
+      "mood": "apologetic"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "見つけてもらえて、安心。",
+      "en": "I'm just relieved we found each other.",
+      "style": "Tender, grounded. The voice of someone letting go of worry. Warm but not effusive. A small smile in the delivery — not relieved at Mei, relieved for both of them.",
+      "mood": "tender_grateful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "次は離れずにいるね。",
+      "en": "I'll stay close to you next time.",
+      "style": "Soft, genuine resolve. Not promising perfection — just stating what comes next, warmly. A note of tenderness toward herself too, not harsh self-correction.",
+      "mood": "gentle_determined"
+    }
+  ]
+}

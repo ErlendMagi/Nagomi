@@ -1,0 +1,78 @@
+{
+  "id": "conv_03434",
+  "context": "Mid-project status check",
+  "purpose": "Status check; teach データベース/現行/下記/確率/カット/個々/自主/活性",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "データベース",
+    "現行",
+    "下記",
+    "確率",
+    "カット",
+    "個々",
+    "自主",
+    "活性"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_172)",
+    "generated_at": "2026-05-31T21:41:10.917Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "進捗報告です。データベース移行、順調です。",
+      "en": "Progress report — DB migration is on track.",
+      "style": "assistant reporting cleanly, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現行との切替は？",
+      "en": "What about the switchover from current?",
+      "style": "manager probing the key step, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "下記の通り、来月実施予定です。",
+      "en": "As below, scheduled for next month.",
+      "style": "assistant pointing to the doc, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "成功確率はどうだ？",
+      "en": "How’s the success probability?",
+      "style": "manager pressing for numbers, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "九十五パーセントの確率と試算しています。",
+      "en": "We estimate a 95% probability.",
+      "style": "confident assistant answering, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "余分な機能は、勇気を持ってカットしよう。",
+      "en": "Boldly cut extra features.",
+      "style": "manager urging discipline, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "個々のメンバーが、自主的に動いています。",
+      "en": "Each member is taking initiative.",
+      "style": "pleased assistant noting culture, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "チームの活性が、目に見えるね。",
+      "en": "The team’s energy is visible.",
+      "style": "manager praising, spoken with a recognizable personal cadence"
+    }
+  ]
+}

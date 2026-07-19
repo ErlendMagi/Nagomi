@@ -1,0 +1,61 @@
+{
+  "id": "conv_01602",
+  "context": "Ren visits Aoi at the cafe with a small gift; quiet sweet moment.",
+  "purpose": "Adult mentee bringing thoughtful surprise to mentor.",
+  "ambient": "cafe_quiet_pour",
+  "sound_effects": [],
+  "target_vocab": [
+    "贈り物",
+    "気持ち",
+    "感謝",
+    "小さい"
+  ],
+  "cast": [
+    "ren_uni",
+    "aoi_barista"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_080)",
+    "generated_at": "2026-05-27T06:43:51.775Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "蒼さん、これ、小さい贈り物。",
+      "en": "Aoi-san, this is a small gift for you.",
+      "style": "Soft, careful opening. Slightly breathless with nervousness. Warm but hesitant — offering something personal without overselling it. Eyes down briefly, then up to gauge her reaction.",
+      "mood": "nervous_sincere"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "まあ、何かしら?",
+      "en": "Oh, what is this?",
+      "style": "Bright and delighted surprise. Gentle lift at the start. Warm curiosity without pressure — making space for him to explain. Noticing the care in the gesture itself.",
+      "mood": "warm_surprised"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "日頃の感謝の気持ちです。",
+      "en": "It's a small thank-you for everything you do.",
+      "style": "Quiet and earnest. Slight pause before speaking, gathering courage. Humble but not self-deprecating — speaking from genuine gratitude. Steady gaze, soft pace.",
+      "mood": "sincere_humble"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "嬉しい、ありがとうね。",
+      "en": "I'm so happy. Thank you.",
+      "style": "Genuine warmth spreading through the words. A small, relieved smile in her voice. Not over-performing emotion — just honest pleasure at being recognized and cared for. Soft fadeout on the gratitude.",
+      "mood": "touched_grateful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いつも、お世話になっています。",
+      "en": "You've been so kind to me all this time.",
+      "style": "Softer still. A moment of real vulnerability here — acknowledging the relationship without flinching from sincerity. Slightly trailing pace. The quietness of someone saying something that matters.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

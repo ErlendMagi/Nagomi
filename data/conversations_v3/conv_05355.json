@@ -1,0 +1,72 @@
+{
+  "id": "conv_05355",
+  "context": "A doctor explains environmental medicine to a teen",
+  "purpose": "Teach: 返還/減税/高騰/密度/共生/放射線/配偶/重複",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "返還",
+    "減税",
+    "高騰",
+    "密度",
+    "共生",
+    "放射線",
+    "配偶",
+    "重複"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_269 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "桜さん、地域ごとの放射線量と健康の関係、興味深いでしょう。",
+      "en": "Sakura, the relationship between regional radiation levels and health is quite fascinating, isn't it.",
+      "style": "Warm, inviting tone. Steady pace. Opening with her name draws her in gently. Ends on a slight upturn, treating her as a peer worth engaging with, not a student being lectured.",
+      "mood": "engaged_encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい！減税政策で人が流入した地域とか、密度の変化、関係ありますか。",
+      "en": "Yes! Like, areas where people moved in from tax incentives—does the population density shift actually affect it?",
+      "style": "Quick, energetic opening. Leans forward slightly in voice. Staccato on the specifics, showing she's been thinking. Ends with genuine curiosity, not performance—she's testing whether her question makes sense.",
+      "mood": "curious_keen"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "関係あります。配偶者単身の家庭、健康指標の重複測定で見えてくる傾向もあります。",
+      "en": "It does, yes. With single-income households, you start seeing patterns when you track health indicators over time.",
+      "style": "Clear and direct. Slight warmth underneath—she's affirming Sakura's thinking. Moderate pace, deliberate. Voice carries the weight of someone who sees the data, not just repeating it.",
+      "mood": "affirming_thoughtful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "返還後の地区、住民との共生も変化したんですか。",
+      "en": "Have social dynamics changed in the areas that have reopened?",
+      "style": "Measured, reflective. Slight pause before the main clause, like she's formulating the question precisely. Quiet respect in the delivery—she's asking something real.",
+      "mood": "serious_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "文化の高騰した期待値が、生活ストレスにも影響します。",
+      "en": "Raised cultural expectations create real pressure on daily life too.",
+      "style": "Confident, almost clinical but not cold. Steady rhythm. She's connecting the dots for Sakura—pointing out something she's observed. Not lecturing; witnessing.",
+      "mood": "observant_candid"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "すごく勉強になりました!",
+      "en": "Thank you so much—I learned a lot from this.",
+      "style": "Genuine brightness. Slightly breathless at the start, showing real enthusiasm, not performance. Warm and clear. The kind of genuine gratitude that makes an adult feel seen.",
+      "mood": "grateful_energized"
+    }
+  ]
+}

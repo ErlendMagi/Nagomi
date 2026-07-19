@@ -1,0 +1,72 @@
+{
+  "id": "conv_05368",
+  "context": "A uni intern interviews a manager about quality assurance",
+  "purpose": "Teach: 担っ/書き込ん/専念/県警/整合/図り/出題/一律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "担っ",
+    "書き込ん",
+    "専念",
+    "県警",
+    "整合",
+    "図り",
+    "出題",
+    "一律"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_270 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "品質管理、社内のどの部署が中心を担っているんですか。",
+      "en": "Which department internally takes the lead on quality control?",
+      "style": "Careful, respectful inquiry. Slight lean forward. Genuine curiosity underneath the formality—third hour of conversation energy. Not rushing through the question.",
+      "mood": "curious_earnest"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "品管チームが専念して取り組んでいます。",
+      "en": "The QA team handles that full-time.",
+      "style": "Warm and direct. Brief pause before answering—gathering the right words. Clear but not curt. The tone of someone who appreciates a good question.",
+      "mood": "informative_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "外部監査の整合性は、どう図り出すんでしょうか。",
+      "en": "How do you make sure external audits stay aligned with that?",
+      "style": "Leaning into the problem. Thoughtful pacing. Genuinely trying to understand the mechanics—not performing knowledge he doesn't have. A small steadiness in his voice.",
+      "mood": "intent_humble"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "各種ガイドラインの一律適用と、書き込んできた記録の照合で進めます。",
+      "en": "We apply all the guidelines consistently and cross-check everything against our documented records.",
+      "style": "Patient explanation. Steady, methodical pace. Speaking to someone who will understand the detail. No condescension—clarity as respect.",
+      "mood": "assured_practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "県警関連の届出も含まれるんですか。",
+      "en": "Does that include notifications to the prefectural police?",
+      "style": "Pressing gently. One eyebrow slightly raised—checking he's understood the full scope. Still respectful, but testing the edges of what he's been told.",
+      "mood": "probing_focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、年に一度の出題用試験もあります。",
+      "en": "Yes. And there's an annual inspection-type test as well.",
+      "style": "Affirmative and complete. A small nod in the voice. Slight warmth—she recognizes he's asking the right questions. Closing one loop and opening the door for the next one.",
+      "mood": "confirming_encouraging"
+    }
+  ]
+}

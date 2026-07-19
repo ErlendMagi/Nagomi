@@ -1,0 +1,75 @@
+{
+  "id": "conv_02978",
+  "context": "Sakura interviews a real-estate agent.",
+  "purpose": "WIDENED SCENARIO: real-estate interview; vocabulary (マンション/自宅/風景/需要/個別) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "マンション",
+    "自宅",
+    "風景",
+    "需要",
+    "個別"
+  ],
+  "cast": [
+    "sakura_teen",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_149)",
+    "generated_at": "2026-05-29T15:03:18.593Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "マンションの需要は、高いですか?",
+      "en": "Is demand for apartments high?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "都市部のマンションは、需要が高いです。",
+      "en": "Urban apartments are in high demand.",
+      "style": "measured agent voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お客様は、何を重視しますか?",
+      "en": "What do customers value?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "窓からの風景を、重視する方が多いです。",
+      "en": "Many value the view from the window.",
+      "style": "professional agent voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "自宅選びは、難しいですか?",
+      "en": "Is choosing a home difficult?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "自宅は、個別の希望に合わせます。",
+      "en": "We match homes to individual wishes.",
+      "style": "measured agent voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "個別の相談も、受けますか?",
+      "en": "Do you take individual consultations too?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ええ、個別に丁寧に対応します。",
+      "en": "Yes, we respond carefully on an individual basis.",
+      "style": "warm agent voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

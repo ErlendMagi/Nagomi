@@ -1,0 +1,86 @@
+{
+  "id": "conv_06272",
+  "context": "A police officer briefs about social-issues",
+  "purpose": "Teach: 難病/治ら/力不足/カオス/始まら/危うい/宛先/叶わ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "難病",
+    "治ら",
+    "力不足",
+    "カオス",
+    "始まら",
+    "危うい",
+    "宛先",
+    "叶わ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_315 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "難病を抱える家族支援、警察も関与する場面、あります。",
+      "en": "Families dealing with rare diseases — there are times when police get involved.",
+      "style": "Measured, factual opening. Low, steady voice. No inflection—just stating what he's seen. The tone of someone who has learned not to perform.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治らない問題に直面する家族、行政も限界ですね。",
+      "en": "When families face untreatable problems, administration reaches its limits too.",
+      "style": "Thoughtful, genuinely curious rather than challenging. Slight upturn at the end—reaching for understanding. Warm but not presumptuous.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。警察力不足、感じる地域も。",
+      "en": "Yes. Some areas feel that shortage of police resources acutely.",
+      "style": "Quiet confirmation. Level tone, no defensiveness. A small pause before the second clause—acknowledging the weight of what he's admitting.",
+      "mood": "candid"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "事件のカオス、初動で抑えるのが鍵ですね。",
+      "en": "So early response—controlling the initial chaos—that's where it matters most.",
+      "style": "Leaning forward slightly in understanding. Quick, intelligent pacing. Not lecturing—thinking aloud with him.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査、まだ始まらないケースもあります。",
+      "en": "Yes. Some cases haven't even started their investigations yet.",
+      "style": "Brief, almost resigned. A small breath before the second sentence. Not bitter—just factual about systemic strain.",
+      "mood": "resigned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証拠の取り扱い、危うい時もあるんですね。",
+      "en": "Evidence handling becomes fragile in situations like that.",
+      "style": "Careful, almost delicate word choice. Slower pace. The question lands gently—not accusatory, but noticing a vulnerability.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者の宛先、追跡で確認します。",
+      "en": "Yes. We verify victim information through follow-up tracking.",
+      "style": "Procedural, grounded. Specific language—concrete work. Slightly protective tone, explaining the safeguard without elaboration.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "再発防止、なかなか叶わない現実、つらいですね。",
+      "en": "Preventing it from happening again—that's the part that often can't happen. That's what's hard to live with.",
+      "style": "Slower, heavier. Voice drops slightly. Long pause between clauses. Trailing off on the final words—the weight of impossible responsibility settling.",
+      "mood": "weighted_grief"
+    }
+  ]
+}

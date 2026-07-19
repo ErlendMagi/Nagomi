@@ -1,0 +1,86 @@
+{
+  "id": "conv_08814",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 吸着/触発/技量/施術/力説/肝炎/訪米/致死",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "吸着",
+    "触発",
+    "技量",
+    "施術",
+    "力説",
+    "肝炎",
+    "訪米",
+    "致死"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、薬の吸着特性を医療チームで研究しております",
+      "en": "Ren, we're researching the absorption properties of medications as a medical team.",
+      "style": "Clear, measured delivery. Direct eye contact. Steady pace. No inflection on technical terms—just facts stated with quiet authority. The tone of someone explaining her work, not selling it.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんを触発するメンタルケアを医療チームで担当します",
+      "en": "Yes, we handle the mental health support that inspires patient recovery as a team.",
+      "style": "Warm undercurrent beneath the professionalism. Slight pause after 'yes'—she's shifting from one thought to the next with care. Voice settles lower on 'patient recovery.' Not rushed.",
+      "mood": "dedicated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医師の技量向上のための研修を、貴院、なさってるそうですね、先生",
+      "en": "I hear your hospital runs training programs to improve physician skills, Dr. Saito.",
+      "style": "Genuine curiosity, not flattery. Lean slightly forward. Tentative on the opening—he's checking if the question is appropriate. Soft respect in 'Dr. Saito.' Light pace.",
+      "mood": "thoughtful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、内視鏡施術の練度向上を医療チームで継続します",
+      "en": "Yes, we continue to develop our endoscopy procedure techniques within the team.",
+      "style": "Same composed baseline as before. Slight emphasis on 'continue'—this is ongoing work, not one-time. Breath between sentences. Steady gaze. Professional warmth underneath.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療チームから検診の重要性を力説されてますね、先生",
+      "en": "So the medical team emphasizes the importance of regular checkups quite strongly, I've noticed.",
+      "style": "Reflective observation, not a question. Soft realization in his voice. He's thinking aloud, connecting dots. Pace slows slightly. Ends with quiet conviction, like he's understood something.",
+      "mood": "observant_impressed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、肝炎患者の治療を医療チームで担当します",
+      "en": "Yes, we manage hepatitis patient treatment across the team.",
+      "style": "Same measured tone. Returns to clinical mode. Brief, factual. No embellishment. The word 'hepatitis' lands with quiet weight—serious condition, serious work.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国際医療会議で訪米される予定なんですね、先生",
+      "en": "You're planning to attend an international medical conference in the US, I understand.",
+      "style": "Genuine interest tinged with slight awe. He's piecing together her importance. Respectful distance in his voice. Pause before 'US'—he's thinking of the distance, the significance of the trip.",
+      "mood": "impressed_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、致死量に達しない範囲での投薬を医療チームで徹底します",
+      "en": "Yes, we ensure medication dosing stays within safe therapeutic ranges across all team protocols.",
+      "style": "Slight firmness here—precision matters. Clinical language but no coldness. She's stating a principle of care. Calm authority. Ends with quiet resolve about the 'protocols.'",
+      "mood": "precise_careful"
+    }
+  ]
+}

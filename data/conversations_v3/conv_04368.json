@@ -1,0 +1,78 @@
+{
+  "id": "conv_04368",
+  "context": "A boss and his deputy read social-affairs headlines",
+  "purpose": "Teach: 閉鎖/破綻/放棄/収容/虐待/誘導/消滅/陥っ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉鎖",
+    "破綻",
+    "放棄",
+    "収容",
+    "虐待",
+    "誘導",
+    "消滅",
+    "陥っ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_220 workflow w0zp0y35w)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞、また地方の病院が閉鎖されたらしいぞ。",
+      "en": "In this morning's paper, another rural hospital has apparently been shut down.",
+      "style": "Gruff senior boss skimming the morning paper aloud."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、経営破綻が原因だそうですね。患者の受け入れ先がもう限界らしいです。",
+      "en": "Yes, financial collapse was the cause. The facilities accepting patients are reportedly at their limit.",
+      "style": "Polite mid-career deputy summarizing the article respectfully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "近隣の施設で収容しきれるのか、心配だな。",
+      "en": "Whether the neighboring facilities can actually accommodate them all, that worries me.",
+      "style": "Concerned older manager voicing practical doubt."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それから、児童虐待の通報がまた過去最多を更新したと書いてあります。",
+      "en": "Also, reports of child abuse have once again hit a record high, it says here.",
+      "style": "Deputy turning the page, reading another grim headline."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ひどい話だ。親が責任を放棄してるとしか思えん。",
+      "en": "It's a terrible story. I can only think that the parents are abandoning their responsibility.",
+      "style": "Boss exhaling heavily, blunt and disapproving."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "行政が相談窓口へ誘導する仕組みを強化するそうですが、人手不足で混乱に陥っているとか。",
+      "en": "The government plans to strengthen the system guiding people to counseling, but it's mired in staff shortages.",
+      "style": "Deputy explaining policy details in calm formal tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "このままじゃ、地方のコミュニティそのものが消滅しかねないな。",
+      "en": "At this rate, the very fabric of regional communities may well disappear.",
+      "style": "Boss grave, leaning back with arms folded."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当に。午後の会議で、この件にも少し触れておきましょうか。",
+      "en": "Truly so. Shall we touch on this issue briefly at the afternoon meeting too?",
+      "style": "Deputy gently steering back to work duties."
+    }
+  ]
+}

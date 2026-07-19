@@ -1,0 +1,86 @@
+{
+  "id": "conv_06532",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 悪役/手記/品格/ドラフト/政教/采配/踏襲/俯瞰",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "悪役",
+    "手記",
+    "品格",
+    "ドラフト",
+    "政教",
+    "采配",
+    "踏襲",
+    "俯瞰"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_328 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、メディアでは悪役扱いされた人物、再調査します。",
+      "en": "We're reopening the investigation into the figure the media painted as the villain in this case.",
+      "style": "Measured, official opening. Even pace. Matter-of-fact authority without coldness. Each clause given its own weight.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者の手記、発見されましたよね。",
+      "en": "The suspect's personal writings were recovered, weren't they?",
+      "style": "Quiet intellectual engagement. Slight lift at the question mark—asking to verify he's on the right track. Genuinely interested in the detail.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者は品格ある実業家でした。",
+      "en": "Yes. The victim was a respected businessman.",
+      "style": "Factual, steady. No inflection suggesting judgment. Delivering information with the precision it deserves. Brief, complete.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記者会見のドラフト、発表前、確認しますか。",
+      "en": "Should we review the press statement draft before it goes public?",
+      "style": "Deferential but not uncertain. Lean forward slightly in the phrasing. The question of someone checking in, not seeking permission.",
+      "mood": "considerate"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。政教関係の集団、警察も注視しています。",
+      "en": "Yes. The department is also monitoring certain politico-religious organizations closely in connection with this.",
+      "style": "Procedural clarity. Slight emphasis on 'monitoring'—the word carries weight. Calm but attentive. The tone of someone sharing sensitive information with appropriate caution.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察の采配、絶妙でしたね、今回。",
+      "en": "Your handling of this investigation has been genuinely skillful.",
+      "style": "Sincere admiration breaking through formality. A beat before the compliment lands. Still respectful, but the professionalism has warmed slightly.",
+      "mood": "impressed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査の鉄則、伝統を踏襲しつつ、新手法も取り入れています。",
+      "en": "Thank you. We're honoring the traditional investigative standards while also incorporating newer methodologies where they're relevant.",
+      "style": "Humble acceptance of praise. Even tone that suggests this balance—tradition and innovation—is something he's thought about carefully. Not defensive, but thoughtful.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "事件、俯瞰する視点で、再構成しますね。",
+      "en": "Let's step back and reconstruct the case from a broader perspective.",
+      "style": "Collaborative close. Steady, inclusive 'we.' The shift from questions to action. Resolute but not commanding. Like settling into the real work.",
+      "mood": "focused"
+    }
+  ]
+}

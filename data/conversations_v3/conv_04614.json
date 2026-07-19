@@ -1,0 +1,78 @@
+{
+  "id": "conv_04614",
+  "context": "A uni student interviews a manager about product launches",
+  "purpose": "Teach: セールス/トピック/モジュール/ステーション/入荷/調節/短期間/新設",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セールス",
+    "トピック",
+    "モジュール",
+    "ステーション",
+    "入荷",
+    "調節",
+    "短期間",
+    "新設"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間ありがとうございます。まず新製品のセールス戦略について伺ってもよろしいですか。",
+      "en": "Thank you for your time today. May I first ask about the sales strategy for the new product?",
+      "style": "Polite interview opener with a clear research focus."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "もちろんです。今日のトピックは確か、短期間での製品立ち上げについてでしたよね。",
+      "en": "Of course. Today's topic was about short-period product launches, correct?",
+      "style": "Friendly confirmation in measured manager tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。御社では新設の開発チームが、モジュールごとに分担して進めると伺いました。",
+      "en": "Yes. I heard your newly established development team divides work module by module.",
+      "style": "Eager student citing prior research clearly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "その通りです。モジュール単位で組むと、仕様の調節がとても早くできるんですよ。",
+      "en": "Exactly. Building module by module lets us adjust specifications very quickly.",
+      "style": "Explanatory manager voice with quiet pride."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。発売直後の入荷ペースは、どのように管理されているのでしょうか。",
+      "en": "I see. How do you manage the restocking pace right after launch?",
+      "style": "Curious follow-up probing the supply chain."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "全国の物流ステーションと連携して、需要に合わせて入荷量を細かく調節しています。",
+      "en": "We coordinate with logistics stations nationwide and finely tune incoming stock to demand.",
+      "style": "Confident operational detail from seasoned manager."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "短期間でそこまで対応できるのは、本当にすごいですね。最後にひとつだけよろしいですか。",
+      "en": "Being able to respond that fast in a short period is truly impressive. May I ask one last thing?",
+      "style": "Admiring transition into a closing question."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "どうぞ。学生さんの率直な質問は、社内のセールス会議よりも勉強になりますよ。",
+      "en": "Please go ahead. A student's honest questions teach me more than our internal sales meetings.",
+      "style": "Warm humble close inviting further dialogue."
+    }
+  ]
+}

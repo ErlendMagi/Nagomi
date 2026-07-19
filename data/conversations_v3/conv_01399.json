@@ -1,0 +1,62 @@
+{
+  "id": "conv_01399",
+  "context": "Hina paints a picture for Sho.",
+  "purpose": "children painting-gift exchange",
+  "ambient": "living_room_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "絵",
+    "一緒",
+    "優しい",
+    "楽しい",
+    "友達"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_070)",
+    "generated_at": "2026-05-27T05:33:51.569Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "しょう、絵、本当、書いた。",
+      "en": "Sho! You actually drew a picture!",
+      "style": "Bright, proud opening on Sho's name. High child's voice, genuinely delighted. Warm and sincere without performance. Emphasis lands naturally on the accomplishment.",
+      "mood": "proud_delighted"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "わあ、本当、嬉しい、本当に。",
+      "en": "Wow — I'm really happy. I really am.",
+      "style": "Soft, small voice with genuine surprise and warmth. Six-year-old wonder. The repetition feels authentic, not sung. Tender underneath, audible smile.",
+      "mood": "touched_happy"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "優しい、友達、本当、ね。",
+      "en": "You're so kind, my friend. Really.",
+      "style": "High, warm recognition. Child's sincerity without performance. Soft emphasis on the friendship. Gentle closing, like she's said something important and knows it.",
+      "mood": "affectionate_earnest"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、本当、宝物。",
+      "en": "Together — that's a real treasure.",
+      "style": "Quiet, small voice. Genuine realization. No brightness here — just steady, warm certainty. The word 'treasure' lands softly. Tender and present.",
+      "mood": "deeply_moved"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "楽しい、本当、ね。",
+      "en": "This is really fun. It really is.",
+      "style": "High child voice returning to brightness, but deeper now. Warm closing note. Contentment and joy held together. Soft trailing close, like settling into the moment.",
+      "mood": "joyful_safe"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05768",
+  "context": "A boss explains a listing process to a uni intern",
+  "purpose": "Teach: 東証/スミス/代目/号線/密着/遠藤/田村/高田",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "東証",
+    "スミス",
+    "代目",
+    "号線",
+    "密着",
+    "遠藤",
+    "田村",
+    "高田"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_290 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、東証上場、企業の節目だ。",
+      "en": "Ren, the TSE listing marks a turning point for us as a company.",
+      "style": "Measured, direct. Slight pause before stating significance. Voice carries quiet weight—this is important. Not performative, but clear that this moment carries meaning. Steady eye contact.",
+      "mood": "serious_proud"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "三代目社長のもと、外国人投資家との関係も築かれたんですね。",
+      "en": "So under the third generation's leadership, we've built relationships with foreign investors too.",
+      "style": "Thoughtful, slightly tentative. Ren is processing out loud, checking his understanding. Respectful tone—he's in the presence of someone who knows more. A small uptick of genuine interest at the end.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。引受主幹事のスミス、密着で支援。社内も、遠藤・田村・高田と、横断で動かす。",
+      "en": "Yes. Smith's handling the lead underwriting—he's been working closely with us. And internally, we're coordinating across teams—Endo, Tamura, Takada—to move in sync.",
+      "style": "Crisp and organized. Matter-of-fact delivery. Each name lands with equal weight. Tone suggests this is a well-oiled process. No flourish, just competent detail.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本社移転、何号線沿いを選ばれるんですか。",
+      "en": "Which train line are you considering for the new headquarters location?",
+      "style": "Genuine curiosity with light formality. The question is direct but respectful of Hiroshi's decision-making process. Slight lean forward in the voice—Ren is interested in the answer, not just making conversation.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "立地と顧客、両面で検討中だ。",
+      "en": "We're weighing both location and client accessibility right now.",
+      "style": "Economical, thoughtful pause. Hiroshi isn't rushing the answer—he's acknowledging the complexity. Tone suggests deliberation is still underway. Not dismissive of the question, but measured.",
+      "mood": "deliberate"
+    }
+  ]
+}

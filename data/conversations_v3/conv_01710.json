@@ -1,0 +1,61 @@
+{
+  "id": "conv_01710",
+  "context": "Hina-young goes solo on a bus for a school field trip; phone call with Yumiko.",
+  "purpose": "Teen taking small independent travel; reassuring grandmother.",
+  "ambient": "bus_window_engine",
+  "sound_effects": [],
+  "target_vocab": [
+    "バス",
+    "一人",
+    "心配",
+    "到着"
+  ],
+  "cast": [
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_086)",
+    "generated_at": "2026-05-27T07:25:45.824Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おばあちゃん、バス乗ってるよ。",
+      "en": "Grandma, I'm on the bus now.",
+      "style": "Bright, sunny opening. Quick report—a child sharing a small update with someone she trusts. Warm and present. No anxiety, just inclusion.",
+      "mood": "cheerful_included"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "まあ、無事に到着してね。",
+      "en": "Oh, make sure you get there safely.",
+      "style": "Gentle, maternal softness. A quiet exhale—worry held loosely, not pressed. Practical care wrapped in tenderness. The mom who lets go but stays present.",
+      "mood": "caring_letting_go"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一人だけど、平気。",
+      "en": "I'm okay even though I'm alone.",
+      "style": "Confident and small at once. A child reassuring the adult, not performing bravery but stating fact. Warm—no defensiveness, just clarity and trust.",
+      "mood": "confident_reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "心配せず、楽しんでね。",
+      "en": "Don't worry—just enjoy yourself.",
+      "style": "Soft permission. A mother releasing her child into the day. Warm, steady tone. Not dismissing the worry but choosing joy instead. Gentle conviction.",
+      "mood": "tender_trusting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、また連絡するね。",
+      "en": "Yeah, I'll text you again.",
+      "style": "Bright and easy. A promise made without heaviness. Quick, warm, genuine. The natural rhythm of a child comfortable saying goodbye because she knows it isn't final.",
+      "mood": "cheerful_connected"
+    }
+  ]
+}

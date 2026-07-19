@@ -1,0 +1,72 @@
+{
+  "id": "conv_05665",
+  "context": "A mom and son spot something in the park",
+  "purpose": "Teach: 正体/気力/叫ぶ/誘わ/親族/見つめる/うれしく/年上",
+  "ambient": "park_distant_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "正体",
+    "気力",
+    "叫ぶ",
+    "誘わ",
+    "親族",
+    "見つめる",
+    "うれしく",
+    "年上"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、あれ何?正体が分からないよ。",
+      "en": "Mom, what is that? I don't know what it is.",
+      "style": "Soft, observant curiosity. Leans in slightly. Genuine question — not performative wonder. Simple, direct phrasing.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ふふ、ただの落ち葉よ。気力使いすぎないでね。",
+      "en": "Just a fallen leaf, sweetie. Don't tire yourself out too much.",
+      "style": "Gentle laugh underneath the words. Practical reassurance. Warm but grounded — the voice of someone noticing his energy levels.",
+      "mood": "warm_practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "こないだ、年上のお姉ちゃんと遊びに誘われたんだ。",
+      "en": "A girl from the upper grades asked me to play the other day.",
+      "style": "Quiet pride in the telling. Hesitant — checking if it matters enough to mention. Small smile audible in the delivery.",
+      "mood": "pleased_tentative"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うれしくて報告してくれたのね。",
+      "en": "You came straight to tell me, didn't you? I could see how happy you were.",
+      "style": "Soft acknowledgment. Not asking, reflecting back what she's observed. Patient, attentive — the reassurance of being truly seen.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "親族のおじちゃんも、いつも見つめる目が優しい。",
+      "en": "Uncle always looks at me with such kind eyes.",
+      "style": "Quiet reverence. Speaking carefully — noticing something he's been thinking about. Small, genuine warmth in his voice.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "転んでも、叫ぶ前にお母さん呼んでね。",
+      "en": "Even when you fall, call for me before you cry out.",
+      "style": "Gentle instruction, not stern. Matter-of-fact care underneath. The quiet confidence of a mother who knows her child will listen.",
+      "mood": "protective_steady"
+    }
+  ]
+}

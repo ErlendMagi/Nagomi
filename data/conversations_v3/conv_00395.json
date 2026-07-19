@@ -1,0 +1,69 @@
+{
+  "id": "conv_00395",
+  "context": "Hina helps Mrs. Mori carry groceries home from the market.",
+  "purpose": "small child-elder neighborhood kindness",
+  "ambient": "street_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "手伝う",
+    "重い",
+    "優しい",
+    "近所",
+    "ありがとう"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_020)",
+    "generated_at": "2026-05-26T22:35:10.029Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "森のおばあちゃん、お荷物、持つよ！",
+      "en": "Mori-grandma, I'll carry the bags!",
+      "style": "High child bright eager helpful-warm offering, the soft real real-childish audible, gentle real warmth throughout delivery.",
+      "mood": "eagerly-bright"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "まあ、ひなちゃん、優しいねえ。",
+      "en": "Oh my, Hina-chan, so kind.",
+      "style": "Neighbor warm gentle touched bright-warm grateful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-touched"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "重い？ひな、力あるから。",
+      "en": "Heavy? Hina has power.",
+      "style": "High child bright proud confident-warm declaring, the soft real real-childish audible, gentle real warmth throughout delivery.",
+      "mood": "proudly-bright"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "ふふ、頼もしいわ。一個だけ、持ってもらおうかな。",
+      "en": "Hehe, reliable. Just one — could you carry?",
+      "style": "Neighbor warm gentle laughing-touched-warm careful, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "gently-laughing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、いっぱい持つよ！近所のおばあちゃんだもん。",
+      "en": "Yes, I'll carry lots! You're the neighborhood grandma.",
+      "style": "High child bright sincere warm-declaring-affectionate, the soft real real-childish audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-bright"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "本当に、ありがとうね。",
+      "en": "Truly, thank you.",
+      "style": "Neighbor warm gentle sincere deep-touched-warm closing, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-touched"
+    }
+  ]
+}

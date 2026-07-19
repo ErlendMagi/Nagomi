@@ -1,0 +1,61 @@
+{
+  "id": "conv_01630",
+  "context": "Hina-young helps Sakura prepare a small home dinner party.",
+  "purpose": "Teen learning entertainment cooking from adult mentor.",
+  "ambient": "kitchen_warm_chopping",
+  "sound_effects": [],
+  "target_vocab": [
+    "夕食",
+    "皿",
+    "盛り",
+    "配る"
+  ],
+  "cast": [
+    "hina_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_082)",
+    "generated_at": "2026-05-27T06:57:45.559Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "さくらさん、皿、ここでいい?",
+      "en": "Sakura, is it okay if I put the plates here?",
+      "style": "Bright, eager ask. Quick upswing on the question, genuine helpfulness in the tone. Hina's checking she's doing it right — a small moment of wanting approval from someone she admires.",
+      "mood": "eager_helpful"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、綺麗に並べてね。",
+      "en": "Yeah, arrange them nicely.",
+      "style": "Warm, low-key instruction. Soft on the affirmation, then a gentle guide on 'nicely' — not correcting, just showing the standard. Sakura's teaching without making it feel like work.",
+      "mood": "warm_guiding"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "盛り付け、難しいなぁ。",
+      "en": "Plating's tricky, isn't it…",
+      "style": "Thoughtful, concentrating hum. Hina's caught between trying hard and admitting it's difficult. Slight self-aware laugh underneath — the honesty of an eight-year-old genuinely working at something.",
+      "mood": "concentrating_honest"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "色とバランス、見ながらね。",
+      "en": "Watch the color and balance while you do it.",
+      "style": "Patient teaching voice, steady and clear. Sakura leans in with the practical tip — not lecturing, just offering a handle to grab onto. Soft on the rhythm, like she's done this before.",
+      "mood": "patient_steady"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "配るの、私やる。",
+      "en": "I'll serve them.",
+      "style": "Quick, bright assertion. Hina's volunteering with quiet pride — she's moved past the uncertain question into 'I can do this.' Small smile in the voice, eager to help with the next thing.",
+      "mood": "proud_eager"
+    }
+  ]
+}

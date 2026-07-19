@@ -1,0 +1,86 @@
+{
+  "id": "conv_06727",
+  "context": "Two managers chat",
+  "purpose": "Teach: 通告/知らさ/運送/日報/年内/償却/用地/代わる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通告",
+    "知らさ",
+    "運送",
+    "日報",
+    "年内",
+    "償却",
+    "用地",
+    "代わる"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "人事異動の通告、各部署に、出しましたね。",
+      "en": "We've sent out the personnel transfer notices to each department.",
+      "style": "Crisp, efficient. Slight upward inflection on the period — stating fact. No flourish. The tone of someone checking items off a list with steady purpose.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、新人事は、すでに知らされております。",
+      "en": "Yes. The staff have already been informed about the new assignments.",
+      "style": "Measured, professional. Even cadence. Respectful without ceremony. The confirmation of someone who's done what was asked and is ready for the next thing.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "運送業界の人手不足、対策、考えないとね。",
+      "en": "We can't ignore the staffing shortage in the logistics sector. We need to think about countermeasures.",
+      "style": "Thoughtful pause before starting. Slight frown in the voice. Lean forward slightly — this is the problem that matters. Tempo slows on the second sentence, like turning a key.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日報をデジタル化、来期、進めます。",
+      "en": "Yes. We'll move forward with digitizing the daily reports next term.",
+      "style": "Steady, assured. Nod in the voice. Straightforward — no hesitation. The tone of someone who's already mapped out the next step.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "採用、年内に、すべて、終わらせたいわね。",
+      "en": "I want to wrap up all the hiring by year-end.",
+      "style": "Quiet authority. Slight emphasis on 'all' — non-negotiable. Not harsh, just clear about the timeline. The voice of someone who knows what needs to happen and when.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サーバーの償却計算、明日、提出いたします。",
+      "en": "Yes. I'll have the server depreciation calculations submitted by tomorrow.",
+      "style": "Prompt, businesslike. Quick clip on the opening 'Yes.' No padding. Just the facts coming through — reliable rhythm, no stumbles.",
+      "mood": "dependable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本社近くの用地、購入を、検討中よ。",
+      "en": "We're looking into purchasing property near headquarters.",
+      "style": "Forward-looking tone. Steady, informative. Slight rise of interest on 'near headquarters' — this is the important detail. Not rushed, but with a sense of momentum.",
+      "mood": "forward_thinking"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。私が、君に代わる形で、対応、可能です。",
+      "en": "Yes. I can handle that in your place, if you need.",
+      "style": "Warm, offering. Softer than the previous lines. The implicit 'you can count on me' underneath. Not self-effacing, just genuinely available. A small lean-in quality.",
+      "mood": "supportive"
+    }
+  ]
+}

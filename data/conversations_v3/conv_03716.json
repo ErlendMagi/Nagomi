@@ -1,0 +1,78 @@
+{
+  "id": "conv_03716",
+  "context": "Two coworkers compare weekday commute and lunch routines",
+  "purpose": "Teach: 怪我/平日/うどん/パーセント/引く/映画館/食堂/出勤",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "怪我",
+    "平日",
+    "うどん",
+    "パーセント",
+    "引く",
+    "映画館",
+    "食堂",
+    "出勤"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_186 w334t9mrp)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "ゆきさん、平日の出勤って何時頃に家を出てますか?",
+      "en": "Yuki, what time do you leave home on weekdays for work?",
+      "style": "Casual workplace question, friendly inquiring tone between coworkers"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "七時半かな。電車が結構混むから、いつも壁際に立って人混みを避けるようにしてる。",
+      "en": "Around seven-thirty. The train gets pretty crowded, so I always stand by the wall to avoid the crush.",
+      "style": "Conversational reply with practical detail, slightly weary tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかる。先週なんて満員電車で足を踏まれて、ちょっとした怪我までしちゃいましたよ。",
+      "en": "I get it. Last week I got my foot stepped on in a packed train and even ended up with a little injury.",
+      "style": "Sympathetic complaint, light grumbling humor between peers"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えー大丈夫?ちなみにお昼って毎日どうしてます?私はだいたい社員食堂ですよ。",
+      "en": "Oh no, are you okay? By the way, what do you do for lunch every day? I mostly use the company cafeteria.",
+      "style": "Concerned then pivots topic, casual office small talk"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "僕も食堂派。今日のうどん、出汁がすごく効いてて美味しかったですよ。",
+      "en": "I'm also a cafeteria person. Today's udon had really rich broth, it was delicious.",
+      "style": "Enthusiastic food recommendation, warm collegial sharing tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あ、それ食べ損ねた!社食って外より三十パーセントくらい安いって聞いて、毎日通っちゃう。",
+      "en": "Ah, I missed that one! I heard the company cafeteria is about thirty percent cheaper than outside, so I go every day.",
+      "style": "Regretful exclamation then practical observation, relatable office tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ですよね。あ、そういえば駅前の映画館、新しい作品始まりましたよ。気になってチラシ引いてきました。",
+      "en": "Right? Oh, that reminds me, the movie theater by the station started showing a new film. I grabbed a flyer because I was curious.",
+      "style": "Agreement transitioning to new topic, casual enthusiastic recommendation"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "へえ、行きたい!じゃあ今度の休みの日、一緒にどうですか?",
+      "en": "Oh, I want to go! Then how about on our day off this weekend, want to go together?",
+      "style": "Excited acceptance, friendly invitation extending casual coworker bond"
+    }
+  ]
+}

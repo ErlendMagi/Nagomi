@@ -1,0 +1,79 @@
+{
+  "id": "conv_05573",
+  "context": "A police officer briefs a uni reporter about disaster response",
+  "purpose": "Teach: 脱出/救う/弱者/敗戦/火山/半導体/探検/戦力",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "脱出",
+    "救う",
+    "弱者",
+    "敗戦",
+    "火山",
+    "半導体",
+    "探検",
+    "戦力"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "火山近隣の住民避難、脱出経路を毎年更新しています。",
+      "en": "We update evacuation routes for residents near the volcano every year.",
+      "style": "Matter-of-fact, official but not rigid. Even rhythm, no emphasis. The practiced clarity of someone explaining protocol he's delivered a hundred times without fatigue.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "弱者を救う体制、地域防災で重視されてますね。",
+      "en": "So systems for protecting vulnerable people are central to local disaster planning?",
+      "style": "Leaning forward slightly, genuine interest. Respectful probe — not challenging, asking permission to go deeper. Slightly slower, making room for the answer.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。半導体工場の従業員も、対象に含まれます。",
+      "en": "Yes. Semiconductor-plant employees are included in that scope.",
+      "style": "Steady, factual expansion. No hedge. Light emphasis on 「含まれます」to signal this is deliberate policy, not assumption.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "敗戦時の教訓、引き継がれているんですか。",
+      "en": "Are those lessons from the war still being passed down into the planning?",
+      "style": "Careful phrasing — respectful but direct. Pause before the question lands. Watching for the answer, not rushing past it.",
+      "mood": "probing_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。戦力分散の考え方、現在の防災計画にも影響しています。",
+      "en": "Yes. The principle of force dispersal — it still shapes how we build defense plans today.",
+      "style": "Deliberate, connecting past to present. Weight on 「分散」. Not lecturing, but confirming the continuity matters. Clear-eyed.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "山岳探検チームも、災害時に活躍されますか。",
+      "en": "And mountain-rescue teams — they mobilize during disasters too?",
+      "style": "Following the thread naturally. Engaged, not interrogating. Slight rise at the end, genuine question. Building on what's been established.",
+      "mood": "engaged_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。",
+      "en": "Yes.",
+      "style": "Affirmation. Short and complete. Slight nod in the voice. No elaboration needed — he's given Ren what he needed to understand.",
+      "mood": "confirmatory"
+    }
+  ]
+}

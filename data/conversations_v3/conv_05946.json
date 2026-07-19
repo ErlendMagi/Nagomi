@@ -1,0 +1,65 @@
+{
+  "id": "conv_05946",
+  "context": "A boss reviews quarterly direction",
+  "purpose": "Teach: 功績/加わり/根幹/取り入れる/利回り/多岐/補充/一大",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "功績",
+    "加わり",
+    "根幹",
+    "取り入れる",
+    "利回り",
+    "多岐",
+    "補充",
+    "一大"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_299 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の功績、まとめろ。",
+      "en": "Pull together this term's accomplishments.",
+      "style": "Crisp, clipped opening. Short breath between clauses. No warmth—purely transactional. The tone of a man who expects efficiency without needing to ask twice.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新規顧客が多く加わり、好調です。",
+      "en": "Yes. We've brought in significant new client accounts. Performance is solid.",
+      "style": "Steady, respectful cadence. Clear articulation—this is important information being delivered with precision. Slight lift of confidence on 'solid,' but never presumptuous.",
+      "mood": "professional_composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "根幹事業、改革を取り入れるタイミングだ。",
+      "en": "The core business needs reform now. The timing is right.",
+      "style": "Measured but decisive. Weight on 'now'—this is a turning point, not a suggestion. Leaning forward slightly. The certainty of someone reading the market accurately.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "運用面では、利回り重視を多岐にわたって検討中です。",
+      "en": "On the operational side, we're exploring yield-focused strategies across multiple divisions right now.",
+      "style": "Careful, thorough delivery. Slight deliberation before 'multiple divisions'—showing he's thought this through. Modest pace. Conveys competence without overreaching.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人員、必要なら補充しろ。一大プロジェクトを成功させる。",
+      "en": "Bring in additional staff if the project demands it. Get this done well.",
+      "style": "Short, commanding final sentences. 'Bring in' lands like an order. Final clause slightly softer—not a threat, but an expectation of excellence. Closes the conversation.",
+      "mood": "determined"
+    }
+  ]
+}

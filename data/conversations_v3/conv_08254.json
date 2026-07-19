@@ -1,0 +1,86 @@
+{
+  "id": "conv_08254",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 催眠/列挙/傾斜/海賊/聴覚/電磁波/服用/墜落",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "催眠",
+    "列挙",
+    "傾斜",
+    "海賊",
+    "聴覚",
+    "電磁波",
+    "服用",
+    "墜落"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_414 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、催眠療法を医療チームで研究しております",
+      "en": "Ren, we've been researching hypnotherapy as part of our medical team's work.",
+      "style": "Clear, measured opening. Professional warmth without distance. Steady eye contact. The tone of someone sharing their actual work with genuine interest in being understood.",
+      "mood": "composed_informative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状を列挙して、貴院でカルテに記録されますね、先生",
+      "en": "So patients list their symptoms and you record them in the hospital charts, right, Doctor?",
+      "style": "Thoughtful pause before speaking. Soft curiosity — genuinely interested in how the system works, not challenging. Slight uptick at the end, checking for confirmation. Respectful but engaged.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、傾斜の急な階段は患者さんに危険なので医療チームでも気をつけます",
+      "en": "Yes, and steep stairs are actually a risk for patients, so our team is careful about that too.",
+      "style": "Steady explanation. Brief acknowledgment of his point before moving forward. No rush. The voice of someone who has explained logistics many times and still means it.",
+      "mood": "patient_attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療機器の海賊版に貴院も注意されているそうですね、先生",
+      "en": "I've heard your hospital is also vigilant about counterfeit medical equipment, Doctor?",
+      "style": "Gentle probe — not accusatory, genuinely wondering. Respectful framing as a question. Small hesitation before 'counterfeit' like he's choosing the right word. Interested in her response.",
+      "mood": "thoughtful_inquiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、聴覚障害の患者さんを医療チームでサポートします",
+      "en": "Yes, we make sure to support patients with hearing impairments as part of our team's approach.",
+      "style": "Warm affirmation. Slight emphasis on 'support' — this matters to her. Even, unhurried pace. The tone of someone whose work includes real people, not just protocols.",
+      "mood": "grounded_caring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "電磁波の人体影響を、貴院も研究なさったんですね、先生",
+      "en": "So your hospital has actually researched electromagnetic radiation's effects on the human body, then?",
+      "style": "Respectful curiosity with genuine interest. Soft exploratory tone — asking what she knows, not testing her. Small nod in the voice. Seeking connection through understanding her work.",
+      "mood": "thoughtful_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、薬の服用方法を患者さんに丁寧に説明します",
+      "en": "Yes, and we always explain medication instructions to patients carefully and clearly.",
+      "style": "Direct, grounded statement. Quiet emphasis on 'carefully' — this is non-negotiable to her. Warm but professional. The confidence of someone who prioritizes how things are said.",
+      "mood": "steady_precise"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、墜落事故の救急対応もご経験ですね、先生",
+      "en": "Your hospital has experience with emergency response to crash trauma, I imagine?",
+      "style": "Soft, respectful inquiry. A small catch of recognition — understanding the weight of what he's asking. Genuine curiosity about her experience, not grim fascination. Trails slightly, inviting her in.",
+      "mood": "thoughtful_respectful"
+    }
+  ]
+}

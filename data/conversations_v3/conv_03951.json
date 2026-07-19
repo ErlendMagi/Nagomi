@@ -1,0 +1,84 @@
+{
+  "id": "conv_03951",
+  "context": "A police officer answers a teen reporter's questions about a local case",
+  "purpose": "Teach: 検察/最高裁/警察官/制裁/疑惑/不当/警戒/衝突",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "検察",
+    "最高裁",
+    "警察官",
+    "制裁",
+    "疑惑",
+    "不当",
+    "警戒",
+    "衝突"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "警察官として、今回の疑惑についてお話を伺えますか？",
+      "en": "As a police officer, can you tell us about the recent allegations?",
+      "style": "Polite, slightly nervous teen reporter opening formally"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、答えられる範囲でお答えします。現在、検察と連携して捜査を進めています。",
+      "en": "Yes, I'll answer within what I can. We're currently cooperating with the prosecutors on the investigation.",
+      "style": "Calm, measured official tone, professional restraint"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "容疑者は不当な扱いを受けたと主張しているようですが、本当ですか？",
+      "en": "The suspect claims he was treated unfairly. Is that true?",
+      "style": "Pressing question, journalist-style sharpness despite youth"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "我々は手続きに従っています。最終的には最高裁の判断を仰ぐ可能性もあります。",
+      "en": "We're following proper procedures. Ultimately, the matter may go to the Supreme Court.",
+      "style": "Diplomatic, deflecting but informative, steady delivery"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "現場では支援者と反対派の衝突もあったと聞きました。警察の対応は？",
+      "en": "I heard supporters and opponents clashed at the scene. How did police respond?",
+      "style": "Curious follow-up, leaning into investigative angle"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "周辺の警戒を強めて、混乱を最小限に抑えました。怪我人はいません。",
+      "en": "We tightened security in the area and minimized the chaos. No one was injured.",
+      "style": "Reassuring tone, factual and protective of public image"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "もし有罪となれば、どんな制裁が科されるんでしょうか？",
+      "en": "If found guilty, what kind of penalties would be imposed?",
+      "style": "Genuine curiosity, slightly hesitant on legal terminology"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは裁判所が決めることです。私からは申し上げられません。",
+      "en": "That's for the court to decide. I can't comment on it personally.",
+      "style": "Firm boundary, polite but closing that line of questioning"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。貴重なお時間、ありがとうございました！",
+      "en": "Understood. Thank you so much for your valuable time!",
+      "style": "Bright, grateful closing, returning to her teenage energy"
+    }
+  ]
+}

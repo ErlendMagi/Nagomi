@@ -1,0 +1,78 @@
+{
+  "id": "conv_05158",
+  "context": "A uni student helps a teen friend plan a culture-club outing",
+  "purpose": "Teach: バレエ/ドラえもん/ビートルズ/プログラマ/格闘技/野外/湘南/博多",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "バレエ",
+    "ドラえもん",
+    "ビートルズ",
+    "プログラマ",
+    "格闘技",
+    "野外",
+    "湘南",
+    "博多"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、文化部の合同イベントどうしよう。バレエ部も参加したいって言ってて、もうカオスなんですけど。",
+      "en": "Senpai, what should we do about the joint culture-club event? The ballet club wants to join too, it's chaos.",
+      "style": "Teen girl venting to older mentor, casual rushed tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "落ち着いて。全員の希望を聞いてから、野外でやるか屋内かを決めよう。",
+      "en": "Calm down. Let's hear everyone's wishes first, then decide outdoor or indoor.",
+      "style": "University student, calm and pragmatic problem-solver mode"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "漫研はドラえもん上映会したいって。軽音はビートルズのコピバン、IT研究会はプログラマ志望の子の発表で、もうバラバラで。",
+      "en": "The manga club wants a Doraemon screening, the band wants to cover the Beatles, and the IT club has a programmer-hopeful's presentation. It's all over the place.",
+      "style": "Teen rapidly listing club requests, slightly exasperated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほどな。それなら、湘南あたりの大きい公民館を借りるのが一番丸く収まると思うよ。",
+      "en": "I see. In that case, renting a big community hall around Shonan would probably settle things best.",
+      "style": "Older student offering a concrete, balanced suggestion"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "あ、でも格闘技サークルの先輩が、絶対外でやりたいって譲らなくて…拳とか振り回すらしいです。",
+      "en": "Oh, but the martial arts senpai won't budge — he insists on doing it outside. Apparently he'll be throwing punches around.",
+      "style": "Teen reporting troublesome senpai, mildly worried tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "じゃあ午前は野外で格闘技デモ、午後は室内でバレエとビートルズ、最後にドラえもん上映って流れにすれば?",
+      "en": "Then how about martial arts demo outside in the morning, ballet and Beatles indoors in the afternoon, and finish with Doraemon?",
+      "style": "Mentor proposing a clean schedule, thinking aloud"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "天才!あと打ち上げ、博多ラーメンの店を予約していいですか?みんな絶対喜びます。",
+      "en": "Genius! Also, can I book a Hakata ramen place for the after-party? Everyone will love it for sure.",
+      "style": "Teen excited and bouncing forward to fun part"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いいよ、人数だけ早めに教えて。予算オーバーしたら俺がちょっと出すから。",
+      "en": "Sure, just tell me the headcount early. If it goes over budget I'll chip in a bit.",
+      "style": "Generous older student wrapping things up reassuringly"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08802",
+  "context": "Two friends chat",
+  "purpose": "Teach: 一寸/やむなく/専ら/例える/かねてから/しなやか/でたらめ/おとなしい",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "一寸",
+    "やむなく",
+    "専ら",
+    "例える",
+    "かねてから",
+    "しなやか",
+    "でたらめ",
+    "おとなしい"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、一寸お時間いいかしら、メイちゃん",
+      "en": "Aoi, do you have a moment?",
+      "style": "Warm and direct. Quick opening—not demanding, but clearly there's something on her mind. Familiar shorthand between people who know each other.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、雨でやむなく外を出歩けないお客様、お気の毒ね、メイちゃん",
+      "en": "There are a lot of customers stuck here today because of the rain. That must be hard for you.",
+      "style": "Observant, gentle. Noticing without making a show of it. The tone of someone who sees how Aoi actually is, not just what the day looks like on the surface.",
+      "mood": "gentle_noticing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、お客様、専らご友人とお見えになるよね、メイちゃん",
+      "en": "I've noticed your customers—they come here with friends, mostly. It's like a gathering place for them.",
+      "style": "Reflective, slightly wondering. Musing on something she's been paying attention to. Soft, not leading—just thinking out loud.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お店の雰囲気を森に例えるって、お客様おっしゃってたよ、メイちゃん",
+      "en": "One customer told me she thinks of your shop like a forest. The feeling of it, I mean.",
+      "style": "Warm and slightly pleased. Relaying something meaningful she heard. The lightness of sharing a kind observation about someone's work.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、新メニューはかねてから準備してたよね、メイちゃん",
+      "en": "You've been working on that new menu for a while now, haven't you?",
+      "style": "Gentle acknowledgment. She knows how long these things take. Not asking for details—recognizing the effort behind the scenes.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、しなやかな所作で接客しましょう、メイちゃん",
+      "en": "When you serve people, let that care come through in every small movement you make.",
+      "style": "Tender direction. Not instructing harshly—offering something like advice or encouragement. Deliberate pace, trusting her to understand what's meant.",
+      "mood": "tender_encouraging"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、ネット上のでたらめな書き込みは無視しましょう、メイちゃん",
+      "en": "The noise online—the careless things people write—you don't have to listen to that.",
+      "style": "Firm and protective underneath the quiet. A small, steady voice saying something true. Not angry, but clear: this doesn't deserve your attention.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、お客様、おとなしいけど熱心なファンよ、メイちゃん",
+      "en": "Your real customers are the quiet ones. The ones who come back, who care about what you're doing here.",
+      "style": "Closing thought—soft and certain. A gentle insistence on what matters. Trailing warmth at the end, like a hand on a shoulder.",
+      "mood": "quiet_conviction"
+    }
+  ]
+}

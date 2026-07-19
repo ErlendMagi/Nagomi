@@ -1,0 +1,84 @@
+{
+  "id": "conv_03752",
+  "context": "A doctor talks with a patient about leg posture and exercise",
+  "purpose": "Teach: 羽/脚/坂/食い/漏れ/流さ/精度/実習",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "羽",
+    "脚",
+    "坂",
+    "食い",
+    "漏れ",
+    "流さ",
+    "精度",
+    "実習"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_188 wdyqj1q3f)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は脚の調子を診ましょう。坂を上ると膝に痛みは出ますか？",
+      "en": "Today let's check how your legs are doing. Do your knees hurt when you go up a slope?",
+      "style": "Calm professional doctor opening the consultation gently."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ええ、急な坂だと膝に食い込むような痛みがあって、力が漏れていく感じなんです。",
+      "en": "Yes, on steep slopes there's a pinching pain in my knees, and I feel my strength leaking away.",
+      "style": "Concerned middle-aged mother describing her symptoms honestly to the doctor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。テレビで流されている膝の体操、ありますよね。あれを一緒に実習してみましょう。",
+      "en": "I see. There are knee exercises broadcast on TV, you know the ones. Let's practice them together.",
+      "style": "Reassuring doctor suggesting a hands-on practice session with the patient."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "実習ですか。私、運動が本当に苦手で、軽やかに動ける人を見ると羽が生えてるみたいに見えます。",
+      "en": "Practice? I'm really bad at exercise—people who move lightly look like they've grown wings.",
+      "style": "Self-deprecating mother showing mild anxiety with a natural feather metaphor."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "大丈夫ですよ。動作の精度が上がれば、脚への負担はぐっと減ります。",
+      "en": "Don't worry. Once the precision of your movements improves, the strain on your legs drops significantly.",
+      "style": "Confident doctor offering encouragement backed by medical reasoning."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "精度ですか…なんだか体操というより、職人さんの世界みたいですね。",
+      "en": "Precision, huh… it sounds less like exercise and more like the world of a craftsman.",
+      "style": "Patient lightening the mood with a relatable observation about the term."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "では立ち上がって、片方の脚だけに体重をかけないよう、ゆっくり重心を移してください。",
+      "en": "Now stand up, and slowly shift your center of gravity without putting weight on just one leg.",
+      "style": "Doctor giving precise hands-on instructions during the examination."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "こうですか？あ、確かに膝の痛みが減って、力の漏れも感じにくくなりました。",
+      "en": "Like this? Ah, the knee pain really has lessened, and the leaking feeling is harder to notice too.",
+      "style": "Patient pleasantly surprised at the immediate improvement she feels."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "良い変化です。毎日続けて、次回また姿勢の精度をチェックしましょう。",
+      "en": "That's a good change. Keep it up daily, and next time we'll check the precision of your posture again.",
+      "style": "Doctor wrapping up warmly with clear homework and a follow-up plan."
+    }
+  ]
+}

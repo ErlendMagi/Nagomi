@@ -1,0 +1,79 @@
+{
+  "id": "conv_02262",
+  "context": "Daichi watches the news; an incident has caused a power outage.",
+  "purpose": "Husband sharing alarming local news with wife.",
+  "ambient": "living_room_tv_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "停電",
+    "駆けつけ",
+    "警備",
+    "心配",
+    "殺到",
+    "対策",
+    "近所",
+    "安全"
+  ],
+  "cast": [
+    "daichi_kansai",
+    "mei_romantic"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_114)",
+    "generated_at": "2026-05-27T17:56:38.937Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "daichi_kansai",
+      "jp": "メイ、近所で停電、起こったって。",
+      "en": "Mei — there's been a blackout in the neighborhood.",
+      "style": "Warm Kansai warmth, the tone of someone sharing news he's just heard. Slight concern underneath but controlled. Conversational cadence, not rushing.",
+      "mood": "concerned_steady"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "えっ、警備、駆けつけてるの?",
+      "en": "Wait — the police are already there?",
+      "style": "Quick intake of breath at the start. Alert and engaged, leaning into the moment. Soft but present — not panicking, but taking it seriously.",
+      "mood": "surprised_alert"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "おう、ようけ人、殺到してる、らしい。",
+      "en": "Yeah, apparently a lot of people are heading over there.",
+      "style": "Reassuring tone despite the news. Kansai ease underneath — the casual authority of someone staying calm so she doesn't have to worry alone. Informative without being heavy.",
+      "mood": "steady_reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "安全、ようけ心配ね。",
+      "en": "That's scary. I hope everyone's okay.",
+      "style": "Soft, tender concern. Not dramatic — just genuine worry for the neighborhood. Slight trailing-off, like she's running through possibilities in her head.",
+      "mood": "tender_worried"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "対策、必要やな、皆。",
+      "en": "We should probably be careful too, you know.",
+      "style": "Thoughtful, quiet conviction. Not alarming — just the natural shift from hearing news to considering what it means for them. Measured and level.",
+      "mood": "thoughtful_cautious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "近所の皆さん、無事でいてね。",
+      "en": "I hope everyone in the neighborhood stays safe.",
+      "style": "Gentle, sincere wish. Not a command or a prayer — just tenderness extended outward. Small, unhurried voice.",
+      "mood": "tender_hopeful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "俺らも、用心せなあかんな。",
+      "en": "Yeah, we need to keep our eyes open too.",
+      "style": "Agreement that settles into gentle caution. Kansai warmth underlying the seriousness. Protective without being controlling — we're in this together tone.",
+      "mood": "protective_grounded"
+    }
+  ]
+}

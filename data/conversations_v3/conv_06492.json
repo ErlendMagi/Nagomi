@@ -1,0 +1,86 @@
+{
+  "id": "conv_06492",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 名声/攻める/前身/模試/近世/廃案/本州/鎖国",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "名声",
+    "攻める",
+    "前身",
+    "模試",
+    "近世",
+    "廃案",
+    "本州",
+    "鎖国"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_326 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者は、名声ある実業家です。",
+      "en": "The victim is a well-known industrialist.",
+      "style": "Level, professional. Opening with the fact itself. No softening. Voice steady as someone reading a file.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、犯行で、攻める意図、あったんですね。",
+      "en": "So the suspect had clear intent to harm in committing the crime.",
+      "style": "Leaning forward slightly. Careful articulation—testing whether the officer will confirm the distinction. Earnest, not accusatory.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。前身の組織、過去にも事件、起こしています。",
+      "en": "Yes. The predecessor organization has a history of similar incidents.",
+      "style": "Brief, measured. Each clause a step forward. Matter-of-fact delivery without defensiveness. Eyes on the record.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警察の模試訓練、防犯演習で実施されているそうですね。",
+      "en": "And police conduct those crime-prevention drills based on these past cases, don't they.",
+      "style": "Thoughtful, not quite a question despite the phrasing. Connecting the dots aloud. Slight pause before speaking, as if building the argument in real time.",
+      "mood": "contemplative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。近世の事件記録、参考に、過去事案、比較しています。",
+      "en": "Yes. We reference early historical records and compare them against current patterns.",
+      "style": "Methodical. Emphasizing the discipline of comparison. Voice carries the weight of accumulated precedent without becoming rigid.",
+      "mood": "deliberate"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "立法、廃案になった例、警察の運用に影響しますね。",
+      "en": "Legislation that was rejected still shapes how police actually operate, doesn't it.",
+      "style": "Slower. A realization half-formed into words. Not challenging—observing something the officer might not expect him to have noticed. Slight upward inflection at the end.",
+      "mood": "insightful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。本州各地、連携、強化しています。",
+      "en": "Yes. We've been strengthening coordination across all Honshu regions.",
+      "style": "Affirmative but not expanding. The answer to a puzzle piece fitting. Steady tempo. A small closing of the loop.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "鎖国時代の情報遮断、現代に教訓があるんですね。",
+      "en": "Information control during the Sakoku period—it still teaches us something about today, doesn't it.",
+      "style": "Trailing off slightly. The thought that arrived as they spoke. Vulnerable and genuine. Eyes meeting the officer's to see if he follows. Soft but not weak.",
+      "mood": "wondering"
+    }
+  ]
+}

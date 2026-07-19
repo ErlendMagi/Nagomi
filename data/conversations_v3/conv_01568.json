@@ -1,0 +1,75 @@
+{
+  "id": "conv_01568",
+  "context": "Sho-young brings home a science kit; Kenji helps him with an experiment.",
+  "purpose": "Father figure helping child with hands-on learning.",
+  "ambient": "kitchen_table_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "実験",
+    "科学",
+    "道具",
+    "発見"
+  ],
+  "cast": [
+    "kenji_office",
+    "sho_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "健司おじちゃん、実験しよ!",
+      "en": "Kenji-uncle — let's do an experiment!",
+      "style": "Bright, quick attack on the opening excitement. Small-boy enthusiasm without shouting. Warm and trusting—he knows Kenji will say yes. Breathless slightly, the energy of an idea just occurred to him.",
+      "mood": "eager_excited"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おう、何の科学や?",
+      "en": "Yeah—what kind of experiment?",
+      "style": "Soft, immediate response. Warm curiosity—not humoring but genuinely interested in what's on the kid's mind. Slight upward lift at the end, inviting him to explain. Kansai lilt sits gently underneath.",
+      "mood": "warm_curious"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "水と油、混ざるかな?",
+      "en": "Will water and oil mix together?",
+      "style": "Soft, observant question. Not demanding an answer—testing the idea out loud, checking if Kenji thinks it's possible. Hopeful undertone, a little unsure of himself but wanting to believe in the experiment.",
+      "mood": "curious_hopeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "道具揃えて、やってみよか。",
+      "en": "Let's find the stuff and give it a try.",
+      "style": "Patient, practical. Low, steady voice—the tone of an adult who's done this before and is setting the scene for the child. Gentle encouragement folded into the logistics. No rush.",
+      "mood": "patient_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん、楽しい!",
+      "en": "Yeah—it's fun!",
+      "style": "Unbridled delight in small-boy pitch. Quick, bright, alive. The joy is simple and complete—not performing it, actually feeling it. Sharp on the 'yeah,' trailing warmth on 'fun.'",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "何か発見、するかもな。",
+      "en": "We might find something out.",
+      "style": "Playful, knowing warmth. Kansai rhythm underlying. Slight tease in the suggestion—the promise of discovery without over-promising. Conspiratorial—he and Sho are partners in this.",
+      "mood": "warm_playful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった、わくわくする!",
+      "en": "Yes! I'm so excited!",
+      "style": "Peak bright energy. Fast-paced, infectious excitement. The word 'yes' carries all the relief and delight of permission. Breathless and open-mouthed on the excitement trailing through 'excited.'",
+      "mood": "thrilled_eager"
+    }
+  ]
+}

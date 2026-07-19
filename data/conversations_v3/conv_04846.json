@@ -1,0 +1,78 @@
+{
+  "id": "conv_04846",
+  "context": "A boss briefs his manager on a sudden site relocation",
+  "purpose": "Teach: 急遽/極力/高値/立地/阻害/所要/先般/取扱い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "急遽",
+    "極力",
+    "高値",
+    "立地",
+    "阻害",
+    "所要",
+    "先般",
+    "取扱い"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先般の打合せで話した件だが、現場が急遽移転することになった。",
+      "en": "Regarding what we discussed the other day, the site is being relocated on short notice.",
+      "style": "Authoritative, clipped, delivering serious news without preamble"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "えっ、本当ですか。新しい立地はもう決まっているんですか？",
+      "en": "What, really? Has the new location already been decided?",
+      "style": "Startled office worker, polite but visibly thrown off"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、駅前の物件だ。立地条件は申し分ないが、賃料がかなりの高値でな。",
+      "en": "Yes, the property by the station. The location is excellent, but the rent is quite steep.",
+      "style": "Matter-of-fact, weighing pros and cons aloud"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "高値となると予算が厳しいですね。所要経費の見直しが必要になりそうです。",
+      "en": "If the rent is that high, the budget will be tight. We'll need to review the required expenses.",
+      "style": "Analytical manager, mentally running the numbers"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そこなんだ。業務の阻害要因にならないよう、移転は極力スムーズに進めたい。",
+      "en": "Exactly. To avoid disrupting operations, I want the move to go as smoothly as possible.",
+      "style": "Pragmatic and firm, setting clear priorities"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。機密書類の取扱いについては私の方で手順をまとめておきます。",
+      "en": "Understood. I'll prepare the procedures for handling the confidential documents on my end.",
+      "style": "Composed, taking ownership of the task"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。明日の朝一で全員に説明する。それまでに案を持ってきてくれ。",
+      "en": "I'm counting on you. I'll brief everyone first thing tomorrow. Bring me a plan by then.",
+      "style": "Decisive close, delegating with full confidence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。今夜中に骨子を作成してお持ちします。",
+      "en": "Certainly. I'll draft an outline by tonight and bring it to you.",
+      "style": "Crisp, formal acceptance signaling the meeting is over"
+    }
+  ]
+}

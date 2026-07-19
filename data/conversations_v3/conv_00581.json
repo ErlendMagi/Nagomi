@@ -1,0 +1,63 @@
+{
+  "id": "conv_00581",
+  "context": "Riku takes Sho to Saito's clinic for a small follow-up. Riku as caring older cousin.",
+  "purpose": "small cousin-doctor-child gathering",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "一緒",
+    "ありがとう",
+    "健康",
+    "優しい"
+  ],
+  "cast": [
+    "saito_doctor",
+    "riku_teen",
+    "sho_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_029)",
+    "generated_at": "2026-05-27T00:38:15.012Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "リクさんが、しょうくんを、連れてきてくれて、嬉しい。",
+      "en": "I'm so glad Riku-san brought Sho-kun in to see me.",
+      "style": "Warm, genuine smile in the voice. Soft opening on the gratitude. Professional but unhurried — the care is audible, not performed. Steady, steady eye-contact level throughout.",
+      "mood": "pleased_genuine"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "お父さんも、お母さんも、忙しくて。",
+      "en": "My parents have been really busy.",
+      "style": "Quiet, matter-of-fact explanation. No edge to it — just stating the reality he's accepted. Slight downward drift at the end, like he's moved past it already.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "リクお兄ちゃん、優しい。",
+      "en": "Riku-onii-chan is so kind.",
+      "style": "Small, genuine voice. Wonder in it — not performing amazement, just noticing something true. The kind of sincere observation only a six-year-old can make without self-consciousness.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "しょうくん、元気そうで、安心です。",
+      "en": "Sho-kun looks well. That's reassuring.",
+      "style": "Professional warmth with real substance behind it. Light landing on 'well' — she's genuinely relieved. Measured close, like she's moving to the next thing but the care lingers.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "riku_teen",
+      "jp": "ありがとうございます、先生。",
+      "en": "Thank you so much, Doctor.",
+      "style": "Respectful but unguarded. A slight lift at the close — gratitude without flattering. Polite formality that comes from actual respect, not performance.",
+      "mood": "grateful"
+    }
+  ]
+}

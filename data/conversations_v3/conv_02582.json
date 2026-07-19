@@ -1,0 +1,75 @@
+{
+  "id": "conv_02582",
+  "context": "Hiroshi-boss and Yuki discuss a company lawsuit.",
+  "purpose": "WIDENED SCENARIO: corporate legal; lawsuit vocabulary (訴訟/弁護士/措置/裁判) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "訴訟",
+    "弁護士",
+    "措置",
+    "裁判",
+    "犯罪"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_130)",
+    "generated_at": "2026-05-29T13:17:15.719Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "取引先から、訴訟を起こされました。",
+      "en": "A client has filed a lawsuit against us.",
+      "style": "serious office woman voice, soft warm concerned clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "弁護士に、すぐ相談しよう。",
+      "en": "Let's consult the lawyer right away.",
+      "style": "decisive boss voice, soft warm composed clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "弁護士は、和解を勧めています。",
+      "en": "The lawyer recommends a settlement.",
+      "style": "measured office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "裁判になれば、時間がかかるな。",
+      "en": "If it goes to trial, it'll take time.",
+      "style": "thoughtful boss voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "早めの措置が、必要だと思います。",
+      "en": "I think early measures are needed.",
+      "style": "earnest office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "我が社は、犯罪に関わっていない。",
+      "en": "Our company isn't involved in any crime.",
+      "style": "firm boss voice, soft warm composed clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "弁護士と、措置をまとめます。",
+      "en": "I'll work out the measures with the lawyer.",
+      "style": "reliable office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "裁判は、できれば避けたいな。",
+      "en": "I'd like to avoid a trial if possible.",
+      "style": "measured boss voice, soft warm composed closing clarity throughout"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08368",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: インストラクター/障壁/離職/測量/バリアフリー/粉飾/生計/ステータス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インストラクター",
+    "障壁",
+    "離職",
+    "測量",
+    "バリアフリー",
+    "粉飾",
+    "生計",
+    "ステータス"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_420 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、英語のインストラクターを利用しろ",
+      "en": "Ren — use the English instructor resource.",
+      "style": "Measured, deliberate instruction. Flat tone on the name. Pause between name and directive. Direct eye contact. The weight of experience behind each word, not unkind.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究分野の障壁を理解しております",
+      "en": "Yes. I understand the barriers within my research field.",
+      "style": "Steady, careful reply. Respectful but not obsequious. Slight hesitation — showing he's actually thinking through the problem, not just agreeing. Even pace.",
+      "mood": "earnest_attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、離職リスクのある共同研究者には連絡しろ",
+      "en": "Ren — reach out to any collaborators you think might leave.",
+      "style": "Second directive, same measured tone as the first. Slightly slower on the stakes. Not threatening, but serious. Boss knows what he's asking.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。実験設備の測量を進めております",
+      "en": "Yes. I'm already working through the lab equipment survey.",
+      "style": "Quiet focus. Respectful and on-task. Slight internal strain showing — he's aware of the workload but not complaining. Steady delivery.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究室のバリアフリー対応を提案しろ",
+      "en": "Ren — propose some accessibility improvements for the lab.",
+      "style": "Third instruction, same grounded delivery. This one carries different weight — less about crisis, more about culture. Still direct, but softer edges.",
+      "mood": "mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。データ粉飾は学術界の信用を失います",
+      "en": "Yes. I know that data integrity is what keeps science credible.",
+      "style": "Quiet conviction now. He's moved beyond just receiving orders — he's thinking about the why. Slight firmness on 'credible.' Still respectful, but his own voice coming through.",
+      "mood": "principled"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究者として生計を立てる力を身につけろ",
+      "en": "Ren — develop the skills to actually support yourself as a researcher.",
+      "style": "Final directive. Tone shifts slightly — more personal now, less about immediate tasks. Slower. A glimpse of mentorship underneath the management. The real lesson.",
+      "mood": "concerned_mentoring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文発表で研究者ステータスが上がります",
+      "en": "Yes. Building my publication record is how I establish myself.",
+      "style": "Closing reply, more settled now. He's absorbed the lesson. Quieter but firmer than before. Not reciting — genuinely answering. Slight exhale at the end.",
+      "mood": "resolved"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_03043",
+  "context": "Kenji and Ren test a measurement robot.",
+  "purpose": "WIDENED SCENARIO: tech work; vocabulary (成立/ロボット/測定/出張/済み) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "成立",
+    "ロボット",
+    "測定",
+    "出張",
+    "済み"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_153)",
+    "generated_at": "2026-05-29T15:21:48.189Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "このロボット、測定が正確ですね。",
+      "en": "This robot measures accurately.",
+      "style": "engaged young colleague voice, soft warm focused throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "調整は、もう済んでいますよ。",
+      "en": "The adjustment is already done.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "出張先でも、測定できますか?",
+      "en": "Can we measure on business trips too?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出張用に、小型ロボットを用意しました。",
+      "en": "I prepared a compact robot for trips.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "導入の契約は、成立したんですか?",
+      "en": "Was the adoption contract concluded?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、先週、無事に成立しました。",
+      "en": "Yes, it was successfully concluded last week.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "テストも、済みですね。",
+      "en": "The tests are done too.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ロボットの測定、本番でも安心です。",
+      "en": "The robot's measurement is reliable in real use too.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

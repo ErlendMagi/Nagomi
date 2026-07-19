@@ -1,0 +1,78 @@
+{
+  "id": "conv_04247",
+  "context": "A helpdesk worker walks a barista through tablet setup",
+  "purpose": "Teach: メカニズム/タッチ/回線/ドット/サブ/ロング/アップル/テクニック",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "メカニズム",
+    "タッチ",
+    "回線",
+    "ドット",
+    "サブ",
+    "ロング",
+    "アップル",
+    "テクニック"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_214 workflow w3510w81q)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "お疲れさまです。今日はこの新しいタブレットの設定をお手伝いに来ました。アップル製品なので操作は直感的だと思いますよ。",
+      "en": "Good work today. I came to help you set up this new tablet. It's an Apple product, so the operation should be intuitive.",
+      "style": "Polite helpdesk worker introducing herself professionally and warmly to start the support session."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります!正直、機械は苦手で…注文画面のタッチがうまく反応しないことが多いんです。",
+      "en": "That's a huge help! Honestly, I'm bad with machines... the touch on the order screen often doesn't respond well.",
+      "style": "Friendly barista admitting tech anxiety with a slightly embarrassed but cheerful tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。まずWi-Fiの回線を確認しますね。光回線につながっていれば、決済の処理もスムーズになります。",
+      "en": "I see. First let me check the Wi-Fi connection. If it's connected to fiber, payment processing will run smoothly too.",
+      "style": "Calm technical explanation walking through the diagnostic steps in clear professional language."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、画面の右下に小さな赤いドットが点滅してるんですけど、これって何かのサインですか?",
+      "en": "Oh, there's a tiny red dot blinking in the bottom right of the screen — is that some kind of warning sign?",
+      "style": "Curious barista pointing out a detail with mild concern and genuine engagement."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それは通知ランプですね。サブメニューから消せます。長押し、いわゆるロングタップで設定画面が開きますよ。",
+      "en": "That's the notification light. You can turn it off from the submenu. A long press — a long tap — will open the settings screen.",
+      "style": "Patient teaching tone introducing UI vocabulary the barista will need to remember later."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ロングタップ、覚えました!でも、こういう細かいテクニックって、なかなか身につかなくて…",
+      "en": "Long tap — got it! But these little techniques never really stick with me, you know...",
+      "style": "Self-deprecating but determined response showing she's actively trying to learn."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "大丈夫です。レジ側との連携メカニズムさえ分かれば、あとは慣れですから。一週間もすれば手が勝手に動きますよ。",
+      "en": "Don't worry. Once you understand the mechanism linking it with the register, the rest is just habit. In a week your hands will move on their own.",
+      "style": "Reassuring encouragement framing the learning curve as natural and short-term."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。なんだか急に自信が湧いてきました。コーヒー、サービスしますね!",
+      "en": "Thank you so much. I suddenly feel a bit more confident. Let me get you a coffee on the house!",
+      "style": "Warm grateful closing offering hospitality in classic barista fashion to thank the helper."
+    }
+  ]
+}

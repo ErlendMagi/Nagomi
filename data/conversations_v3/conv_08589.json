@@ -1,0 +1,86 @@
+{
+  "id": "conv_08589",
+  "context": "Officer briefs",
+  "purpose": "Teach: 月収/出来高/同上/組合せ/既定/特約/あっせん/引き渡し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月収",
+    "出来高",
+    "同上",
+    "組合せ",
+    "既定",
+    "特約",
+    "あっせん",
+    "引き渡し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_431 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、若手警察官の月収改善が話題ですね",
+      "en": "There's been quite a bit of discussion lately about improving salaries for young officers in the police force.",
+      "style": "Measured, professional opening. Even tone, slightly formal. The ease of someone used to official conversations. Clear articulation on key words.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、出来高ノルマで現場が疲弊しないようご配慮、ありがたいです",
+      "en": "Yes. I'm grateful that you're being considerate about preventing burnout on the ground with performance-based quotas.",
+      "style": "Respectful, earnest. Slightly careful phrasing — diplomatic without sounding insincere. Steady pace. A hint of relief underneath.",
+      "mood": "grateful_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、報告書の項目は同上で省略しないように指導します",
+      "en": "I'll make sure to instruct the team that report sections should be filled in completely — no shortcuts using the ditto mark.",
+      "style": "Firm, instructional but not unkind. Crisp attack on the key directive. Professional distance. The tone of someone setting a clear standard.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、犯罪パターンの組合せ分析、進められてますね",
+      "en": "Yes. I see you've been making progress on analyzing the combinations and patterns in criminal cases.",
+      "style": "Attentive, encouraging. Slight nod in the voice — acknowledging the work. Conversational but measured. The tone of someone checking in on a colleague.",
+      "mood": "observant_approving"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、既定の捜査手順に従います",
+      "en": "We follow the established investigation procedures without deviation.",
+      "style": "Declarative, settled. No negotiation in the tone. Quiet confidence. The finality of someone stating protocol as anchor.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、保険特約詐欺の事件を捜査されてますね",
+      "en": "Yes. I understand you're currently investigating that insurance fraud case with the special coverage claims.",
+      "style": "Attentive, following the thread. Steady, engaged. A light question underneath — confirmation more than surprise. Even pacing.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、違法あっせん業者を摘発します",
+      "en": "We're moving forward with criminal charges against the unlicensed brokers operating illegally.",
+      "style": "Determined, purposeful. Weight on the key words. The resolve of someone ready to act. Steady, unflinching delivery.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、容疑者の引き渡し手続が完了されましたね",
+      "en": "Yes. The handover procedures for the suspect have been completed as scheduled.",
+      "style": "Quiet finality. Professional relief — the closing of one phase. Even pace, slight exhale at the end. The tone of checking something off.",
+      "mood": "satisfied_resolved"
+    }
+  ]
+}

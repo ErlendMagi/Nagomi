@@ -1,0 +1,78 @@
+{
+  "id": "conv_04170",
+  "context": "A boss visits his doctor for an executive checkup",
+  "purpose": "Teach: インフルエンザ/アルコール/脂肪/推定/進展/重点/喫煙/美しく",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "インフルエンザ",
+    "アルコール",
+    "脂肪",
+    "推定",
+    "進展",
+    "重点",
+    "喫煙",
+    "美しく"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_210 workflow w7ku8aw67)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "お疲れ様です。今年も人間ドックの時期ですね。早速ですが、検査結果について重点的にお話ししたいことがあります。",
+      "en": "Good to see you. It's checkup time again. Let me get straight to the key points from your results.",
+      "style": "Calm professional doctor's voice, measured pacing, slight gravity in tone"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうですか…去年から少し運動も始めたんですが、進展はありましたでしょうか。",
+      "en": "I see... I started exercising a bit since last year. Has there been any progress?",
+      "style": "Older executive male, slightly anxious but composed, formal register"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それが、内臓脂肪の数値がまだ高めでして、基準値の倍近くあります。生活習慣の見直しが必要です。",
+      "en": "Well, your visceral fat numbers are still elevated, nearly twice the standard. Lifestyle changes are needed.",
+      "style": "Clinical but kind, delivering serious news with care, steady tempo"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "倍…ですか。接待が多くて、アルコールの量がどうしても増えてしまうんですよ。",
+      "en": "Twice the normal level... business dinners are frequent, so my alcohol intake inevitably goes up.",
+      "style": "Resigned middle-aged voice, slightly embarrassed, lowered volume"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お気持ちは分かります。ただ、喫煙も続けておられますよね。推定で一日二十本ほどでしょうか。両方を一度に減らすのは難しいので、まずはタバコから。",
+      "en": "I understand. But you're still smoking too, right? Roughly twenty a day, I'd estimate. Cutting both at once is hard, so start with cigarettes.",
+      "style": "Firm but empathetic doctor, gentle insistence, clear articulation"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うーん、耳が痛いですね。それに今年はインフルエンザも流行りそうですし、体力をつけないと社員にも示しがつかない。",
+      "en": "Ugh, that hits home. And the flu seems likely to spread this year too, so I need stamina, or I can't set an example for my staff.",
+      "style": "Sighing executive, half-joking self-deprecation, weary chuckle"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その姿勢が素晴らしいです。半年後、数値が改善して、検査結果の表が美しく並ぶのを楽しみにしていますよ。",
+      "en": "That attitude is wonderful. In six months, I look forward to seeing your numbers improve and your chart line up beautifully.",
+      "style": "Encouraging warm tone, slight smile audible, motivating cadence"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "先生、ありがとうございます。今日から本気で取り組みます。次回の検診を楽しみにしていてください。",
+      "en": "Doctor, thank you. I'll commit seriously starting today. Please look forward to my next checkup.",
+      "style": "Renewed determination, firmer voice, respectful bow audible in tone"
+    }
+  ]
+}

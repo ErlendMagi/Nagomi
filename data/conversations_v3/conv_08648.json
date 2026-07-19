@@ -1,0 +1,86 @@
+{
+  "id": "conv_08648",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 公用/専売/敬称/埋め立て/買い取り/廉価/覚書/即日",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公用",
+    "専売",
+    "敬称",
+    "埋め立て",
+    "買い取り",
+    "廉価",
+    "覚書",
+    "即日"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_434 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、公用論文と私用論文を分けて管理しろ",
+      "en": "Ren, keep official and personal research papers organized separately.",
+      "style": "Measured, direct instruction. Light weight on Ren's name — checking he's tracking. No-nonsense but not unkind. The tone of someone used to being heard.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。特許の専売的権利を確認しました",
+      "en": "Yes. I've confirmed the exclusive patent rights.",
+      "style": "Attentive, almost formal. Slight pause after the affirmation — showing he's understood the seriousness. Careful pronunciation. The voice of someone who's taking mental notes.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、引用論文の著者敬称に注意しろ",
+      "en": "Ren, be careful with the honorifics when you cite author names.",
+      "style": "Quiet correction, not reprimand. Lean in slightly on the caution. Still measured. The tone of someone who's seen this detail matter before.",
+      "mood": "careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。埋め立て地の生態研究を論文で扱いました",
+      "en": "Yes. I covered ecological research in reclaimed areas in the paper.",
+      "style": "Respectful, slightly formal. Even pacing. A student reporting back — accurate but not over-eager. Slight dip in energy at the end.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、機材の買い取りリストを更新しろ",
+      "en": "Ren, update the equipment purchase list.",
+      "style": "Direct task assignment. Brisk, businesslike. The kind of clarity that expects immediate acknowledgment. No elaboration needed.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。廉価試薬の代替案を検討しました",
+      "en": "Yes. I've looked into lower-cost reagent alternatives.",
+      "style": "Steady, competent report. Light emphasis on the alternatives considered. Professional tone — showing initiative without overstepping. Controlled pace.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、共同研究の覚書を作成しろ",
+      "en": "Ren, draft a memorandum of understanding for the joint research project.",
+      "style": "Clear instruction, slightly formal. Weight on the task itself. Measured pace. The tone expects understanding and follow-through. Professional but not cold.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。査読の即日対応は難しい場合がございます",
+      "en": "Yes. Though same-day turnaround on peer review may not always be possible.",
+      "style": "Respectful qualification. Slight hesitation before the caveat — carefully honest without being defensive. Soft, apologetic undertone. The voice of someone managing expectations gently.",
+      "mood": "cautious_honest"
+    }
+  ]
+}

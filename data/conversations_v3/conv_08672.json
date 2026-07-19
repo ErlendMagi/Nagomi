@@ -1,0 +1,86 @@
+{
+  "id": "conv_08672",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 防護/寄生虫/万引き/罵倒/国策/保釈/喚問/殺傷",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "防護",
+    "寄生虫",
+    "万引き",
+    "罵倒",
+    "国策",
+    "保釈",
+    "喚問",
+    "殺傷"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_435 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、現場で防護服を着用されてますね",
+      "en": "The police are wearing protective suits at the scene in this case, aren't they?",
+      "style": "Measured, slightly uncertain. Gentle upward lilt at the end—genuinely asking for confirmation. Respectful distance. Curious but not probing.",
+      "mood": "thoughtful_inquiring"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、寄生虫を媒介とした事案にも対応します",
+      "en": "The police handle cases involving parasitic vectors in our response protocols.",
+      "style": "Steady, matter-of-fact delivery. Precise articulation. Professional distance maintained. Calm, authoritative without urgency.",
+      "mood": "composed_official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、万引き常習者を警察、特定されてますね",
+      "en": "I understand the police have identified a habitual shoplifter in this case, correct?",
+      "style": "Careful, respectful phrasing. Slight pause before the question—thinking it through. Deferential tone. Seeking confirmation without assumption.",
+      "mood": "curious_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者への罵倒行為を厳しく取り締まります",
+      "en": "The police are taking a strict stance against verbal abuse directed at victims in incidents like these.",
+      "style": "Firm conviction without aggression. Clear, decisive articulation. Weight on 'strict.' Professional authority. Not negotiable.",
+      "mood": "resolute_protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、国策事業に関連する不正を警察、捜査されてますね",
+      "en": "I believe the police are investigating irregularities connected to national policy initiatives in this case?",
+      "style": "Thoughtful, slightly deferential phrasing. Hesitant—aware of sensitivity. Soft inquiry. Respectful distance. Waiting for affirmation.",
+      "mood": "careful_wondering"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、容疑者の保釈条件を厳格に管理します",
+      "en": "The police maintain rigorous oversight of bail conditions for suspects to prevent re-offense.",
+      "style": "Precise, controlled delivery. Even pace. Clinical but not cold. Emphasize 'rigorous'—this is non-negotiable protocol.",
+      "mood": "methodical_stern"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、国会喚問への対応を警察、ご支援されてますね",
+      "en": "The police are providing support in preparation for the Diet questioning in this matter, aren't they?",
+      "style": "Gentle curiosity. Respectful acknowledgment of complexity. Soft rise at the end—sincere question, not assumption. Thoughtful spacing.",
+      "mood": "respectful_inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、無差別殺傷事件に総力で対応します",
+      "en": "The police are mobilizing all available resources to respond to indiscriminate violence incidents.",
+      "style": "Grave, serious tone. Measured but weighted. Controlled intensity. Close, direct eye contact level. No hedging. Absolute commitment.",
+      "mood": "grave_determined"
+    }
+  ]
+}

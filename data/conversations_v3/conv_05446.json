@@ -1,0 +1,72 @@
+{
+  "id": "conv_05446",
+  "context": "A boss reviews a new-hire onboarding plan",
+  "purpose": "Teach: 学歴/管轄/債券/互換/受験生/行え/工法/断定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "学歴",
+    "管轄",
+    "債券",
+    "互換",
+    "受験生",
+    "行え",
+    "工法",
+    "断定"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_274 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新人の学歴一覧、確認したか。",
+      "en": "Did you check the new-hire credential roster?",
+      "style": "Clipped, efficient opening. No warmth. Straight to the question—expects the answer immediately. Shoulders set, eyes direct. The tone of someone who reads through gaps.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。営業管轄でも対応できる人材、揃っています。",
+      "en": "Yes. Even for sales, we have qualified personnel.",
+      "style": "Steady, measured response. Flat affect—not defensive, just factual. Slight emphasis on 「qualified」. Eyes meeting his, waiting for the next question. No elaboration offered until asked.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "システムの互換性、業務として行える状態か?",
+      "en": "System compatibility—can we actually operate with it?",
+      "style": "Sharp, probing. Slight pause before the dash, like he's narrowing the focus. No preamble. The tone of someone stress-testing assumptions. Leaning back slightly, studying the answer before it comes.",
+      "mood": "skeptical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。受験生時代のスキルを応用できる若手も多いです。",
+      "en": "Yes. Most of our younger hires can apply their exam-prep training.",
+      "style": "Confident but not overconfident. Voice steady, slightly forward lean. Concrete example offered—shows he's thought this through. No hesitation. Brief and direct, letting the fact speak.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "債券関連の業務、断定的に指示できる中堅も配置しろ。",
+      "en": "Deploy mid-career staff for bond work. They need to direct decisively.",
+      "style": "Instruction given as settled fact, not debate. Firm but not harsh. Each phrase lands separately, like moves on a board. Expectation embedded in the tone—this is already decided.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "工法の標準化も、同時に進めます。",
+      "en": "We're standardizing methodology at the same time.",
+      "style": "Confirmation with quiet confidence. Slight nod in the voice—he's already moving forward. Not seeking permission, reporting a parallel action. Efficient, professional. The tone of someone staying one step ahead.",
+      "mood": "prepared"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06789",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 会計士/生み出さ/染色/カスタム/補修/公約/不透明/枚数",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "会計士",
+    "生み出さ",
+    "染色",
+    "カスタム",
+    "補修",
+    "公約",
+    "不透明",
+    "枚数"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_341 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、会計士の協力、欠かせませんでした。",
+      "en": "The accountant's cooperation was essential to this case.",
+      "style": "Professional, measured delivery. Slight pause before the statement, as if reviewing notes. Steady eye contact. No inflection—just factual weight.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新たな防犯策、警察の現場で、生み出されています。",
+      "en": "Yes. We're developing new crime prevention measures from insights gathered at the scene.",
+      "style": "Respectful, engaged tone. Lean forward slightly on 'developing'—showing investment. Measured pace, professional but not stiff. Nod implied.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者、染色業界、出身者でした。",
+      "en": "The suspect had a background in the textile dye industry.",
+      "style": "Brief, clinical. State the fact without elaboration. Eyes level. No surprise in the voice—this is information being delivered, not discovered.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察への寄付、カスタムプログラムで、対応します。",
+      "en": "Yes. We'll address the police donation through a customized program that fits our community commitments.",
+      "style": "Clear and direct. Slight emphasis on 'customized' to show thoughtfulness. Warm undertone beneath the formality—showing this isn't just procedure to him.",
+      "mood": "earnest_cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察車両、補修、計画的に、進めております。",
+      "en": "Police vehicle repairs are moving forward according to schedule.",
+      "style": "Steady, assured. Even cadence. The tone of someone managing logistics competently. No hesitation—this is in hand.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域への公約、企業として、果たしてまいります。",
+      "en": "Yes. As a company, we're committed to fulfilling our promises to this community.",
+      "style": "Quiet conviction. 'Committed' lands with slight emphasis. No grandiosity—just the tone of someone stating what they intend to do. Sincere.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠の先行き、不透明な状況、続いております。",
+      "en": "The trajectory of the evidence remains unclear at this point.",
+      "style": "Careful phrasing. Slight pause before 'remains'—choosing words precisely. Lower register, thoughtful. The tone of someone not rushing conclusions.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。提供する資料の枚数、必要分、ご用意します。",
+      "en": "Yes. We'll prepare all the documentation materials you'll need.",
+      "style": "Affirming, practical. Brisk efficiency without coldness. 'All' and 'need' land with quiet assurance. Ready to move forward.",
+      "mood": "reliable"
+    }
+  ]
+}

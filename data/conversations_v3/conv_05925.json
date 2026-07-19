@@ -1,0 +1,79 @@
+{
+  "id": "conv_05925",
+  "context": "A senpai supports a teen",
+  "purpose": "Teach: 冷め/笑み/こたえ/ピンチ/留守/ケンカ/居場所/確かめる",
+  "ambient": "park_distant_birds",
+  "sound_effects": [],
+  "target_vocab": [
+    "冷め",
+    "笑み",
+    "こたえ",
+    "ピンチ",
+    "留守",
+    "ケンカ",
+    "居場所",
+    "確かめる"
+  ],
+  "cast": [
+    "ren_uni",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_298 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先輩、テスト、冷めかけたパンで朝食食べて受けてきました。",
+      "en": "Senpai, I went in for the test on cold bread for breakfast.",
+      "style": "Light, self-deprecating delivery. A wry half-smile in the voice — acknowledging the absurdity without dwelling on it. Quick pace, almost amused at her own situation.",
+      "mood": "self_aware_wry"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お疲れ。緊張の笑み、よくやった。",
+      "en": "You hung in there. That nervous energy you're carrying — you did good.",
+      "style": "Warm recognition, the tone of someone who sees past the surface. Steady and grounded. A beat of genuine approval underneath, not praise but acknowledgment.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "こたえる長文、最後まで読み切れませんでした。",
+      "en": "The long reading passage at the end — I couldn't get through it all.",
+      "style": "Quieter now. A slight catch in the voice like she's still sitting with the disappointment. Honest and a little stung, but not looking for reassurance yet.",
+      "mood": "deflated"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ピンチの状況、次に活かせ。",
+      "en": "That's something to carry forward next time. Don't let it sit.",
+      "style": "Firm but not harsh. The voice of someone who knows pressure and knows how to navigate it. Practical advice delivered with an undertone of 'I believe you can do better and you know you can.'",
+      "mood": "steady_directive"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "家、両親が留守で、夜は一人なんです。",
+      "en": "My parents are out tonight. I'll be alone at home.",
+      "style": "The words come smaller. A confession rather than a statement. Underneath is a question she's not quite asking. Vulnerable opening, testing whether he's really listening.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "弟妹とのケンカ、避けながら過ごせ。",
+      "en": "Keep the peace with your siblings tonight, okay? Don't let it spiral.",
+      "style": "Gentle but present. The voice dips into something that sounds like care — not coddling, but an actual check-in. Slight slowness to the delivery, like he's making sure she knows he heard what she meant.",
+      "mood": "protective_kind"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "家庭が居場所として、機能していると確かめる作業、必要ですね。",
+      "en": "Sometimes you have to check in with yourself — make sure home still feels like home.",
+      "style": "Quieter, more introspective. A measured pace. She's thinking out loud here, testing an idea. Soft at the end, like she's sharing something she's only just realised.",
+      "mood": "thoughtful_searching"
+    }
+  ]
+}

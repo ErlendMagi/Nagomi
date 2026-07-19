@@ -1,0 +1,86 @@
+{
+  "id": "conv_06607",
+  "context": "Two managers chat",
+  "purpose": "Teach: 長期間/しまわ/すんなり/売り切れ/兆し/区切り/近日/工具",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "長期間",
+    "しまわ",
+    "すんなり",
+    "売り切れ",
+    "兆し",
+    "区切り",
+    "近日",
+    "工具"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_332 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今の体制、長期間、続けるのは、難しいわね。",
+      "en": "Keeping the current system going long-term is going to be difficult.",
+      "style": "Matter-of-fact opening, mild concern underneath. Steady pace. Thoughtful pause before 'difficult'—she's already turned this over in her mind.",
+      "mood": "concerned_practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。資料、ちゃんとしまわないと、紛失リスク、あります。",
+      "en": "Right. We'll need to make sure the documents are properly stored, or we risk losing them.",
+      "style": "Attentive, following her lead. Slight lean-in on 'properly stored'—he's already thinking through the steps. Measured, responsible tone.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "クライアント、すんなり、契約に応じてくれたよ。",
+      "en": "The client came on board without any trouble, though.",
+      "style": "Lighter, a small shift upward. Pride in the win, understated. Quick delivery on the good news—doesn't linger over it, but lets it land.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。人気商品、また売り切れ、追加発注しました。",
+      "en": "Right. The popular item sold out again, so we've already placed a reorder.",
+      "style": "Steady report, slight undertone of approval. The efficiency matters to him. Even pace—no surprise here, just confirmation of what they expected.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "市場、改善の兆し、見えてきたね。",
+      "en": "We're starting to see signs that the market's turning around.",
+      "style": "Quieter observation, almost to herself. Careful not to overstate it. Soft, hopeful exhale. She's learning to trust the trend.",
+      "mood": "cautiously_hopeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。プロジェクトの区切り、報告会、設定済みです。",
+      "en": "Right. We've already scheduled the project checkpoint and the report meeting.",
+      "style": "Confirmation, practical. He's ahead of the curve—this was handled. Clean delivery, no fanfare. The competence shows in the brevity.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "人事評価の発表、近日、予定だよ。",
+      "en": "The HR evaluations should be announced soon, by the way.",
+      "style": "Brief heads-up, neutral delivery. No judgment attached. She's passing information, not making predictions. Matter-of-fact but not cold.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。修繕の工具、まとめて発注いたしました。",
+      "en": "Right. I've placed a bulk order for the repair tools.",
+      "style": "Final confirmation, task closed. Small note of finality—the last loose end tied. Polite formality, but warm. The conversation finds its natural end.",
+      "mood": "resolved"
+    }
+  ]
+}

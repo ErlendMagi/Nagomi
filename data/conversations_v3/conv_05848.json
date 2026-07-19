@@ -1,0 +1,65 @@
+{
+  "id": "conv_05848",
+  "context": "A boss mentors a uni intern on finance",
+  "purpose": "Teach: 損益/総研/送金/搭乗/事後/カ年/みなし/即し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "損益",
+    "総研",
+    "送金",
+    "搭乗",
+    "事後",
+    "カ年",
+    "みなし",
+    "即し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_294 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、企業の損益、外部総研の意見も参考にすることが多い。",
+      "en": "Ren, when we're evaluating P&L, we often bring in outside research firms to weigh in.",
+      "style": "Opening with the direct address, warm but measured. Teaching tone — clear diction, steady pace. No condescension. A senior offering perspective to someone he's decided to mentor.",
+      "mood": "instructive_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海外送金のコスト、決算で大きいんですね。",
+      "en": "So overseas transfer costs end up being significant on the earnings side?",
+      "style": "Lean forward slightly in tone. Genuine curiosity meeting nervous energy. The question of someone taking notes in their head. Precise diction on the technical terms.",
+      "mood": "earnest_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外搭乗の頻度、事後の精算ルールが鍵だ。",
+      "en": "The frequency of international travel and the settlement rules afterward — that's where the leverage is.",
+      "style": "Tighter, more decisive than before. Brief pause between the two clauses. Speaking from experience. Light weight on 'key' — stating fact, not debating it.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "3カ年計画、現場の運用に即して、みなし規程を見直すと聞きました。",
+      "en": "I heard the three-year plan is updating those provisional rules to match what's actually happening in the field.",
+      "style": "Quick intake of breath before starting — processing, making sure he has this right. Bright but careful. The question phrased as a gentle confirmation from someone listening hard.",
+      "mood": "attentive_seeking_confirmation"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。来週の役員勉強会で、傍聴を許可する。",
+      "en": "Yes. I'm going to let you sit in on next week's executive study session.",
+      "style": "Slight smile in the voice without softening the professionalism. A door opening. The words simple and direct — no flourish needed. Recognition delivered matter-of-factly.",
+      "mood": "approving"
+    }
+  ]
+}

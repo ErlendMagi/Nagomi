@@ -1,0 +1,75 @@
+{
+  "id": "conv_02971",
+  "context": "Ren interviews a historian on diplomacy.",
+  "purpose": "WIDENED SCENARIO: expert interview; vocabulary (革命/危機/違反/被告/外交) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "革命",
+    "危機",
+    "違反",
+    "被告",
+    "外交"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_149)",
+    "generated_at": "2026-05-29T15:03:18.593Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "外交の歴史を、研究されていますね。",
+      "en": "You research the history of diplomacy.",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ、危機の時代に注目しています。",
+      "en": "Yes, I focus on eras of crisis.",
+      "style": "composed historian voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "革命は、外交をどう変えましたか?",
+      "en": "How did revolutions change diplomacy?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "革命が、新しい外交を生みました。",
+      "en": "Revolutions gave rise to new diplomacy.",
+      "style": "patient historian voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "国際法の違反は、多かったですか?",
+      "en": "Were violations of international law common?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "違反を巡る危機が、何度もありました。",
+      "en": "Crises over violations occurred many times.",
+      "style": "composed historian voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "責任者が、被告になった例も?",
+      "en": "Were there cases of officials becoming defendants?",
+      "style": "thoughtful young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "被告として、裁かれた例もあります。",
+      "en": "There are cases of being tried as defendants.",
+      "style": "warm historian voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

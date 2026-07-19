@@ -1,0 +1,78 @@
+{
+  "id": "conv_04008",
+  "context": "A vendor and the cafe owner discuss a new contract formally",
+  "purpose": "Teach: 申し上げる/頂く/了承/何とも/該当/どなた/告知/加わっ",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "申し上げる",
+    "頂く",
+    "了承",
+    "何とも",
+    "該当",
+    "どなた",
+    "告知",
+    "加わっ"
+  ],
+  "cast": [
+    "yuki_office",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "本日はお時間を頂く機会を賜り、誠にありがとうございます。新しい契約についてご説明を申し上げる次第でございます。",
+      "en": "Thank you sincerely for granting us the time today. I am here to explain the new contract.",
+      "style": "Polite formal business greeting with humble opening tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "こちらこそ、わざわざお越し頂きまして恐縮です。どなた様が担当者として新たに加わっていらっしゃるのでしょうか。",
+      "en": "Likewise, I appreciate you coming all this way. Who has newly joined as the person in charge?",
+      "style": "Reciprocal polite cafe owner inquiring with respectful formal language"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "今回から私と、もう一名が新たに加わって担当させて頂きます。",
+      "en": "From this time, myself and one more person have newly joined to handle this.",
+      "style": "Formal humble announcement of team composition by vendor"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど。条件の変更については、まだ何とも申し上げにくいのですが。",
+      "en": "I see. Regarding the changes to the terms, it is hard for me to say anything yet.",
+      "style": "Cautious noncommittal businesslike response from cafe owner"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろんでございます。該当箇所をご確認の上、後日ご了承を頂く形で構いません。",
+      "en": "Of course. After reviewing the relevant sections, receiving your approval at a later date will be fine.",
+      "style": "Polite deferential business request with formal humble phrasing"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "承知しました。価格改定の告知は、いつ頃お客様へ出される予定でしょうか。",
+      "en": "Understood. When are you planning to announce the price revision to customers?",
+      "style": "Professional follow-up question regarding public notification timing"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "事前告知は来月初旬を予定しております。何かご懸念がございましたら、遠慮なくお申し付け頂く形でお願い申し上げる次第です。",
+      "en": "The advance notice is scheduled for early next month. If you have any concerns, please kindly let us know without hesitation.",
+      "style": "Formal business assurance offering open communication channel politely"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。それでは社内で検討の上、改めてご連絡申し上げる予定でございます。",
+      "en": "Thank you very much. We will discuss it internally and contact you again.",
+      "style": "Concluding polite formal cafe owner closing the meeting"
+    }
+  ]
+}

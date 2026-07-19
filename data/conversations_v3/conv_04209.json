@@ -1,0 +1,84 @@
+{
+  "id": "conv_04209",
+  "context": "A senior trains a new hire on a procurement workflow",
+  "purpose": "Teach: 現金/値上げ/返済/公団/商標/稼ぐ/職務/突入",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "現金",
+    "値上げ",
+    "返済",
+    "公団",
+    "商標",
+    "稼ぐ",
+    "職務",
+    "突入"
+  ],
+  "cast": [
+    "yuki_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_212 workflow w3lyve96d)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "これが調達のワークフロー。まず仕入先から商品値上げの通知が来たら、ここに記録するの。",
+      "en": "This is the procurement workflow. First, when a price increase notice arrives from a supplier, you log it here.",
+      "style": "Calm mentor tone, slightly formal but warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。支払いは現金払いと振込、どちらが多いんですか?",
+      "en": "I see. For payments, is cash or bank transfer more common?",
+      "style": "Polite junior asking a clarifying question, curious"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "基本は振込ね。ただ昔ながらの業者さん、たとえば日本道路公団の頃から付き合いがある所は、現金主義のままだったりする。",
+      "en": "Bank transfer is standard. But long-standing vendors, like ones we've worked with since the old Japan Highway Corporation days, sometimes still prefer cash.",
+      "style": "Explaining nuance with a concrete historical example, warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "あ、それで先輩が「商標登録の確認も忘れずに」って言ってたのは、その絡みですか?",
+      "en": "Oh, is that why my senior told me to never forget the trademark registration check?",
+      "style": "Connecting dots, eager and engaged junior tone"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そう。偽物を掴むと、地道に稼ぐはずの利益が一瞬で飛ぶ。だから商標は絶対チェック。",
+      "en": "Exactly. Grab a fake and the profit we steadily earn vanishes instantly. So always verify the trademark.",
+      "style": "Firm warning, emphasizing real business consequences plainly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "厳しいですね…前職でローン返済の督促もやってましたけど、調達はまた別の緊張感ですね。",
+      "en": "That's intense. At my previous job I handled loan repayment follow-ups too, but procurement has a different kind of pressure.",
+      "style": "Reflective, comparing past collections work humbly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん。四半期末は繁忙期に突入するから、そこは気を引き締めてね。",
+      "en": "Yeah. At quarter-end we move into the busy phase, so tighten up then.",
+      "style": "Coaching tone, setting expectations in a relaxed way"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "あと、職務分担表は今日のうちに目を通しておいて。担当範囲が一目で分かるから。",
+      "en": "Also, look over the job duties chart today. It shows your scope at a glance.",
+      "style": "Practical handover instruction, supportive senior register"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、頑張ります。マニュアルと合わせて全部読み込んでおきます。",
+      "en": "Yes, I'll do my best. I'll read through it along with the manual.",
+      "style": "Determined commitment, respectful closing remark, personal cadence that sets them apart"
+    }
+  ]
+}

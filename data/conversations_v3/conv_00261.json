@@ -1,0 +1,83 @@
+{
+  "id": "conv_00261",
+  "context": "Tatsuya is in the city for a wedding. Kenji is invited and they're seated at the same table; small Tatsuya-Kenji rapport.",
+  "purpose": "two adult men from different worlds — small civil warmth across cultures",
+  "ambient": "wedding_reception",
+  "sound_effects": [],
+  "target_vocab": [
+    "仕事",
+    "田舎",
+    "上司",
+    "紹介",
+    "大事"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "kenji_office"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_013)",
+    "generated_at": "2026-05-26T20:16:09.971Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "はじめまして、田中と申します。",
+      "en": "Nice to meet you. I'm Tanaka.",
+      "style": "Salaryman warm formal polite introduction, the soft real professional-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "formally-polite"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おう、よろしく。達也です。田舎から来てます。",
+      "en": "Hey, nice to meet you. Tatsuya. Come from the country.",
+      "style": "Country gruff warm friendly direct introduction, the soft real rural-warmth audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-friendly"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "農業されてるんですか？",
+      "en": "Are you in farming?",
+      "style": "Salaryman warm polite genuine curiosity, the soft real professional-engagement audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "politely-curious"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "うん、野菜中心に。先祖代々の畑で。",
+      "en": "Yeah, mostly vegetables. Generations-old field.",
+      "style": "Country gruff warm proud humble sharing, the soft real rural-heritage audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-proud"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "すごいですね。私には想像つかない仕事です。",
+      "en": "That's amazing. Work I can't even imagine.",
+      "style": "Salaryman warm sincere genuine respect, the soft real real-appreciation audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "sincerely-respectful"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "いやいや、毎日同じことや。会社員のほうが大事な仕事してる。",
+      "en": "No no, same thing every day. Office workers do more important work.",
+      "style": "Country gruff warm humble redirecting, the soft real rural-modesty audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gruffly-humble"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いえ、食を作ることほど、大事なものはないですよ。",
+      "en": "No, nothing is more important than making food.",
+      "style": "Salaryman warm sincere principled respect, the soft real real-conviction audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "sincerely-principled"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ふっ、ええ人や、あんた。",
+      "en": "Heh, you're a good man.",
+      "style": "Country gruff warm touched gentle observation, the soft real real-recognition audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "warmly-touched"
+    }
+  ]
+}

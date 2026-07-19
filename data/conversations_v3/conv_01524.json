@@ -1,0 +1,60 @@
+{
+  "id": "conv_01524",
+  "context": "Aoi helps Sho-young get over a fear of the dark at bedtime.",
+  "purpose": "Adult comforting frightened child; gentle reassurance.",
+  "ambient": "bedroom_dark_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "暗い",
+    "怖い",
+    "安心",
+    "一緒"
+  ],
+  "cast": [
+    "aoi_barista",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "蒼さん、暗いの怖い。",
+      "en": "Aoi-san, I'm scared of the dark.",
+      "style": "Trembling whisper on the first name. Small voice, genuine fear underneath. Pause before admitting it—the confession of a child testing whether it's safe to be afraid. Breathless.",
+      "mood": "vulnerable_scared"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "大丈夫、私ここにいるよ。",
+      "en": "It's okay—I'm right here.",
+      "style": "Immediate and steady, a small hand catching another. Warm, no performance of confidence—just presence. Quiet enough that it's like a secret between them. Settling."
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に寝てくれる?",
+      "en": "Will you stay with me?",
+      "style": "Hopeful uncertainty. Small voice reaching forward. The question carries the weight of needing to hear yes. Trailing slightly, testing if the answer comes back the same way.",
+      "mood": "hopeful_uncertain"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、寝るまでね。",
+      "en": "Yes—until you fall asleep.",
+      "style": "Simple and absolute. No flourish, no explanation needed. A promise held steady. Warm and certain, like tucking something fragile into a safe place.",
+      "mood": "gentle_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、安心した。",
+      "en": "Thank you—I feel better now.",
+      "style": "Voice softening into drowsiness. Gratitude without performance. The last word almost lost in sleepiness, like he's already half-gone to safety. Peaceful trailing-off.",
+      "mood": "grateful_calm"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "conv_00026",
+  "context": "A neighborhood park bench, after school. Hina has half a bag of cookies; Sho is sitting at the other end of the bench.",
+  "purpose": "childhood barter — phatic micro-friendship in six lines",
+  "ambient": "park_afternoon",
+  "target_vocab": [
+    "好き",
+    "おいしい",
+    "ありがとう",
+    "もう",
+    "少し"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お菓子、半分こしよ。",
+      "en": "Let's split the snacks.",
+      "style": "Bright, no-preamble. Slides over half a bag without waiting for an answer.",
+      "mood": "generous_kid"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん…おねえちゃん、これ好き？",
+      "en": "Yeah… Onee-chan, do you like this kind?",
+      "style": "Quiet, careful. The 「おねえちゃん」 is the polite-younger default — she's a year older. Voice low.",
+      "mood": "shy_offering"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "好き！おいしい！",
+      "en": "Yes! Tasty!",
+      "style": "Full-volume eight-year-old enthusiasm. Mouth already half full.",
+      "mood": "bright"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "もう少しある。",
+      "en": "There's a little more.",
+      "style": "Holds out a second cookie shyly. The 「もう少し」 is a quiet generosity.",
+      "mood": "shy_giving"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう！しょうくん、優しい。",
+      "en": "Thank you! Sho-kun, you're kind.",
+      "style": "Direct compliment without ceremony. Eats the cookie immediately.",
+      "mood": "direct_praise"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "…うん。",
+      "en": "…Mm.",
+      "style": "One-syllable acknowledgment. Pleased but doesn't know what to do with it. Looks down.",
+      "mood": "pleased_shy"
+    }
+  ]
+}

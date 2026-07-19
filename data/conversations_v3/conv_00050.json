@@ -1,0 +1,90 @@
+{
+  "id": "conv_00050",
+  "context": "A small clinic in Fukuoka. Goro has come in (against his preference) for a routine check. Dr. Saito is on a one-day visiting rotation.",
+  "purpose": "gruff old man at the doctor — Kyushu drawl meets clinical calm",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "痛い",
+    "時間",
+    "少し",
+    "どこ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "goro_grandpa"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちら、おかけください。今日はどうされましたか？",
+      "en": "Please, have a seat. What brings you in today?",
+      "style": "Calm, professional, even. Eye-contact in the voice.",
+      "mood": "professional_calm"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "別に。娘が、行けっち。",
+      "en": "Nothing, really. Daughter said go.",
+      "style": "Kyushu drawl, half-grumbling. Sits down anyway.",
+      "mood": "grumpy_kyushu"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "(small smile) なるほど。最近、どこか痛みは？",
+      "en": "(small smile) I see. Any pain anywhere lately?",
+      "style": "A real small smile audible. Diagnostic but warm.",
+      "mood": "gently_amused"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "膝な、少し。歩いたら、もうな。",
+      "en": "Knee — a little. When I walk, well — you know.",
+      "style": "Pats his own knee in the voice. Reluctant honest admission.",
+      "mood": "reluctant_admission"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "見せていただいてもいいですか。",
+      "en": "May I take a look?",
+      "style": "Formal, asking permission. Doesn't touch first.",
+      "mood": "careful_asking"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "…どうぞ。",
+      "en": "…Go on.",
+      "style": "Single word. Permission given, not enthusiastically.",
+      "mood": "reluctant_permission"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん。少し炎症がありますね。本当に、無理せずに。",
+      "en": "Mm. There's some inflammation. Please don't push yourself.",
+      "style": "Clinical observation paired with real warmth on 「本当に」.",
+      "mood": "clinical_warm"
+    },
+    {
+      "speaker": "goro_grandpa",
+      "jp": "俺、漁師やったんよ、昔。",
+      "en": "I used to be a fisherman, back then.",
+      "style": "Non sequitur but real. Explaining himself indirectly.",
+      "mood": "indirect_explaining"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "だからこそ、今、大切に。お時間、もう少し取れますか？",
+      "en": "Exactly why — be careful now. Can I have a bit more of your time?",
+      "style": "Doesn't patronise. Asks like he's the boss.",
+      "mood": "respectful_asking"
+    }
+  ]
+}

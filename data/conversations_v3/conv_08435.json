@@ -1,0 +1,86 @@
+{
+  "id": "conv_08435",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 伐採/急性/海峡/激怒/不条理/醸造/戦艦/着工",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "伐採",
+    "急性",
+    "海峡",
+    "激怒",
+    "不条理",
+    "醸造",
+    "戦艦",
+    "着工"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_423 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、森林伐採に頼らない素材を開発しろ",
+      "en": "Develop materials that don't rely on logging.",
+      "style": "Clipped, declarative authority. Tight breath before the opening noun. No wasted air. The tone of someone used to being listened to.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の急性疾患予防プログラムを導入します",
+      "en": "Understood. We'll implement an acute illness prevention program for our staff.",
+      "style": "Measured affirmation with slight hesitation before the plan. Present the initiative as already thought-through but open to adjustment. Respectful deference in the pace.",
+      "mood": "compliant_focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海峡を越えた取引も検討しろ",
+      "en": "Look into cross-strait transactions as well.",
+      "style": "Same crisp authority as the first line. 'As well' carries the weight—this is additional, not secondary. Brief and expectant.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様の激怒には誠実に対応いたします",
+      "en": "Understood. We'll respond to any concerns from our valued clients with complete sincerity.",
+      "style": "Formal assurance with careful precision. Slight emphasis on 「sincerity」—showing he understands the stakes. Steady, not rushed.",
+      "mood": "earnest_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の不条理を打開する新製品を目指せ",
+      "en": "Aim for new products that break through the industry's accepted limitations.",
+      "style": "Steady directional force. 'Break through' lands with intention. The opening is measured; the verb carries the vision. Slight rise at the period.",
+      "mood": "visionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。日本酒醸造との提携を検討中です",
+      "en": "Understood. We're currently exploring a partnership with sake breweries.",
+      "style": "Matter-of-fact update delivered with quiet confidence. Emphasize the present work already underway. Tone says 'we're on top of this' without overstatement.",
+      "mood": "focused_assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、ロゴに戦艦のシルエットは使うな",
+      "en": "Don't use a battleship silhouette in our company logo.",
+      "style": "Direct prohibition delivered flatly, almost as a personal correction. Slight disdain for the choice itself. Final authority. No debate invited.",
+      "mood": "disapproving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新店舗の着工式を準備しております",
+      "en": "Understood. We're preparing for the groundbreaking ceremony at the new location.",
+      "style": "Final affirmation with controlled closure. Slightly warmer than previous updates—acknowledge the milestone. Even pace, clean finish.",
+      "mood": "respectful_organized"
+    }
+  ]
+}

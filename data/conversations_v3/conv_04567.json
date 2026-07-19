@@ -1,0 +1,90 @@
+{
+  "id": "conv_04567",
+  "context": "A uni student interviews a doctor about clinical research",
+  "purpose": "Teach: 菌/酸素/ホルモン/歯科/薬物/修復/看護婦/適合",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "菌",
+    "酸素",
+    "ホルモン",
+    "歯科",
+    "薬物",
+    "修復",
+    "看護婦",
+    "適合"
+  ],
+  "cast": [
+    "ren_uni",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "斎藤先生、卒論で臨床研究を扱うので、少しお話を伺ってもいいですか。",
+      "en": "Dr. Saito, I'm covering clinical research in my thesis. May I ask you a few things?",
+      "style": "Polite, slightly nervous student opening a formal interview."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろん。今は耐性菌に対する新しい薬物治療の効果を調べているところだよ。",
+      "en": "Of course. Right now I'm studying the effects of new drug therapies against resistant bacteria.",
+      "style": "Warm, professorial doctor easing the student in with focus."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。患者さんごとに薬の適合を見極めるのは、やはり難しいんでしょうか。",
+      "en": "I see. Is judging drug compatibility for each patient quite difficult?",
+      "style": "Curious student pressing for methodological detail thoughtfully."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうだね。投与前にホルモンの状態や血中の酸素濃度まで丁寧に確認してから判断するんだ。",
+      "en": "Yes. Before dosing, we carefully check hormone status and even blood oxygen levels before deciding.",
+      "style": "Measured, expert tone explaining clinical caution in detail."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現場では先生お一人で進めるんですか。チーム体制も気になります。",
+      "en": "Do you run it alone in the field? I'm curious about the team structure too.",
+      "style": "Thoughtful follow-up question, leaning forward eagerly."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いや、ベテランの看護婦さんや薬剤師にも協力してもらってね。免疫の修復過程まで一緒に観察するんだ。",
+      "en": "No, veteran nurses and pharmacists help me. We observe the immune system's recovery process together.",
+      "style": "Collegial doctor giving credit to the wider clinical team."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "口腔内の細菌も関わると、歯科の先生とも連携されるんですか。",
+      "en": "Since oral bacteria are involved, do you also coordinate with dental doctors?",
+      "style": "Sharp student making a connection across specialties."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鋭いね。歯科領域の感染症は耐性菌研究と切り離せないから、よく相談しているよ。",
+      "en": "Sharp observation. Dental infections are inseparable from resistant bacteria research, so we consult often.",
+      "style": "Impressed mentor affirming the student's insight warmly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "想像以上に幅広いんですね。今日のお話、論文にぜひ反映させていただきます。",
+      "en": "It's broader than I imagined. I'd love to reflect today's conversation in my paper.",
+      "style": "Grateful, energized student wrapping the interview politely."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、頑張って。書き上げたら一度持っておいで。読ませてもらうよ。",
+      "en": "Good. Bring it by once you've finished it — I'll read it for you.",
+      "style": "Encouraging mentor offering follow-up support generously."
+    }
+  ]
+}

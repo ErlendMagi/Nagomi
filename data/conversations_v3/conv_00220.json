@@ -1,0 +1,69 @@
+{
+  "id": "conv_00220",
+  "context": "Naoko bumps into Mrs. Mori in the dairy section.",
+  "purpose": "small bumping-into chat — community fabric maintained through small encounters",
+  "ambient": "supermarket_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "偶然",
+    "買い物",
+    "安い",
+    "最近",
+    "元気"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "mrs_mori_neighbor"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "あら、森さん。偶然ねえ。",
+      "en": "Oh, Mori-san. What a coincidence.",
+      "style": "Aunt warm bright neighborly recognition, the genuine pleasant surprise audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "brightly-warm"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "なおこちゃん、久しぶり。お買い物？",
+      "en": "Naoko-chan, long time. Shopping?",
+      "style": "Neighbor warm familial chan-form greeting, the easy elder-community warmth audible, soft real warmth throughout delivery throughout.",
+      "mood": "warmly-familiar"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "うん、今日卵安いから。",
+      "en": "Yes, eggs are cheap today.",
+      "style": "Aunt warm easy practical sharing, the gentle community-tip audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "easily-practical"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "本当？教えてくれてありがとう。",
+      "en": "Really? Thanks for telling me.",
+      "style": "Neighbor warm pleased neighborly gratitude, the soft real community-warmth audible, gentle real warmth threading throughout delivery.",
+      "mood": "pleasedly-warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "みんな元気？お孫さんも？",
+      "en": "Everyone well? Your grandchildren too?",
+      "style": "Aunt warm easy family-check inquiry, the genuine community-care audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "easily-caring"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "お陰様で。なおこちゃんもね。",
+      "en": "Thanks to you. You too, Naoko-chan.",
+      "style": "Neighbor warm formal reciprocal closing, the gentle community-routine audible, soft real warmth threading throughout delivery throughout.",
+      "mood": "reciprocally-warm"
+    }
+  ]
+}

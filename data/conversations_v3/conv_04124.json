@@ -1,0 +1,78 @@
+{
+  "id": "conv_04124",
+  "context": "A police officer briefs a teen reporter about a disaster supply program",
+  "purpose": "Teach: 大陸/国土/海岸/天然/食料/衛星/輸送/循環",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大陸",
+    "国土",
+    "海岸",
+    "天然",
+    "食料",
+    "衛星",
+    "輸送",
+    "循環"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_208 workflow wu66imp41)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本日はわざわざお越しいただき、ありがとうございます。何か聞きたいことがあれば、遠慮なくどうぞ。",
+      "en": "Thank you for taking the time to come today. Please feel free to ask anything you'd like to know.",
+      "style": "Formal officer welcoming the young reporter warmly and casually."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "よろしくお願いします!日本は地震や台風が多い国土だから、防災対策が大事だと聞きました。",
+      "en": "Thank you for having me! I've heard disaster prevention matters a lot since Japan's land has many earthquakes and typhoons.",
+      "style": "Enthusiastic teen reporter showing prior research diligently here."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。特に海岸沿いの地域では津波の危険もあるので、各家庭に最低三日分の食料を備蓄するよう呼びかけています。",
+      "en": "Exactly. Coastal areas also face tsunami risk, so we urge every household to stockpile at least three days of food.",
+      "style": "Officer giving concrete instructions with measured authority calmly."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "三日分ですか。災害時は輸送路が寸断されることも想定しているんですね。",
+      "en": "Three days' worth? So you're assuming transport routes could be cut off during a disaster.",
+      "style": "Teen processing information and asking follow up question."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。気象衛星のデータで早期警報は出せますが、物流が止まれば孤立します。大陸のような陸続きの国と違って、日本は支援が届くまで時間がかかるんです。",
+      "en": "Yes. We can issue early warnings via meteorological satellite data, but if logistics stop, areas get isolated. Unlike continental countries connected by land, aid takes time to reach Japan.",
+      "style": "Officer explaining systems thoroughly with calm professional tone."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "なるほど。備蓄品って、どう管理すればいいんでしょう?古くなっちゃいそうで…",
+      "en": "I see. How should we manage these stockpiled items? I'm worried they'll go stale...",
+      "style": "Teen voicing a relatable practical concern casually here."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "良い質問ですね。古い物から消費して新しい物を補充する、循環させる仕組みが大切です。水も天然のものでも賞味期限があるので、必ず確認してください。",
+      "en": "Great question. It's important to have a system that circulates stock — consume older items first and replenish with new ones. Even natural water has an expiration date, so always check.",
+      "style": "Officer praising the question and teaching a method gently."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "勉強になります!学校新聞に載せて、みんなに広めますね。",
+      "en": "That's so educational! I'll put this in the school newspaper and spread the word to everyone.",
+      "style": "Teen wrapping up brightly with motivated youthful energy clearly."
+    }
+  ]
+}

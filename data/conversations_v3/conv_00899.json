@@ -1,0 +1,76 @@
+{
+  "id": "conv_00899",
+  "context": "Sachiko thanks Naoko for caring after her recent illness.",
+  "purpose": "elderly-relative care exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "家族",
+    "一緒",
+    "優しい",
+    "感謝",
+    "大切"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_045)",
+    "generated_at": "2026-05-27T02:39:30.683Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "直子ちゃん、看病、ありがとう。",
+      "en": "Naoko, thank you so much for looking after me.",
+      "style": "Soft, grateful opening. Warm voice catching slightly on her name—the particular tenderness reserved for family. Slow, unhurried. Trails into the thanks like a prayer.",
+      "mood": "grateful_tender"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "家族ですから、当然。",
+      "en": "Of course. You're family.",
+      "style": "Simple, quiet conviction. No performance—just the facts. A small pause before 'family' that says it means everything. Steady, close.",
+      "mood": "steadfast_warm"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "優しい子、本当に。",
+      "en": "You're such a kind person, truly.",
+      "style": "Grandma's voice holding something precious. Each word separate and deliberate, like she's seeing Naoko fresh. Soft admission. The faintest wonder underneath.",
+      "mood": "admiring"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "一緒に、過ごす時間、嬉しい。",
+      "en": "I'm happy when we're together like this.",
+      "style": "Gentle, almost vulnerable. Speaking to something deeper than the moment. Warm undercurrent of relief—the kind of happiness that comes from feeling safe. Soft fadeout on the last word.",
+      "mood": "content_grateful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "感謝、毎日、している。",
+      "en": "I'm grateful for you every single day.",
+      "style": "Voice carrying weight and sincerity. Not performative—this is something she means in her bones. Slightly slower on 'every day.' Quiet, deep. A statement, not a plea.",
+      "mood": "profound_warm"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "大切な、おばあちゃん。",
+      "en": "You're so precious to me.",
+      "style": "Voice barely above a whisper. Raw honesty breaking through—the kind of thing Naoko doesn't say often and means entirely. Slight tremor of feeling. Direct eye contact in the voice.",
+      "mood": "tender_fierce"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "これからも、よろしくね。",
+      "en": "I'll keep counting on you from now on, alright?",
+      "style": "Closing with both softness and quiet strength. A request and a promise woven together. Warm, unburdened. The gentle certainty of someone who knows they will be there—and that Naoko will too.",
+      "mood": "loving_hopeful"
+    }
+  ]
+}

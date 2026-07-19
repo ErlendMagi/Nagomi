@@ -1,0 +1,86 @@
+{
+  "id": "conv_06253",
+  "context": "A doctor discusses medical issues",
+  "purpose": "Teach: 未解決/裏切る/見せかけ/煽る/争わ/退け/減らさ/鈍い",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "未解決",
+    "裏切る",
+    "見せかけ",
+    "煽る",
+    "争わ",
+    "退け",
+    "減らさ",
+    "鈍い"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_314 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、未解決の難病、研究は続けています。",
+      "en": "Ren, we're continuing research on unresolved rare diseases.",
+      "style": "Even, measured tone. Direct eye contact. Professional warmth without performance. Settling into the conversation with quiet authority.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療効果を裏切る症例、悲しいですね。",
+      "en": "It's sad when cases show the treatment doesn't deliver what it promised.",
+      "style": "Thoughtful pause before speaking. Soft concern underneath the observation. Leaning slightly forward — genuinely interested in her perspective, not just testing his knowledge.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。改善を見せかける薬、患者のリスクになります。",
+      "en": "Yes. When drugs mask improvement instead of creating it, that becomes a real risk for patients.",
+      "style": "Steady, clarifying tone. A doctor explaining to someone she respects. No condescension — the rhythm of someone who has explained this carefully many times.",
+      "mood": "serious_clear"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ネットで不安を煽る情報、医療現場でも対応していますね。",
+      "en": "And there's so much online information that stokes anxiety — we're dealing with that in medical practice too.",
+      "style": "Slight nod of recognition. Calm acknowledgment of a shared problem. Breath space on the dash — letting him know she understands the weight of what he's naming.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。患者と争わずに、納得を得る対話、心がけます。",
+      "en": "Yes. I try to have real conversations with patients where we reach understanding together, not argument.",
+      "style": "Softer now. Speaking from principle, not protocol. A small smile behind the words — the conviction of someone who chooses compassion in a demanding field.",
+      "mood": "earnest_committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "代替療法、効果を退ける論文、多いんですよね。",
+      "en": "There are quite a few studies showing alternative therapies don't actually deliver the benefits claimed.",
+      "style": "Matter-of-fact, but not dismissive. The tone of someone sharing data she finds important. Slight emphasis on 'quite a few' — evidence-backed.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。リスクを減らさず、副作用、注視します。",
+      "en": "Yes. I keep a careful eye on side-effects especially, since we're not reducing the underlying risks.",
+      "style": "Precise, careful cadence. Each phrase weighted equally. The voice of someone whose attention to detail keeps people safe.",
+      "mood": "vigilant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "感覚が鈍い高齢者、特に配慮、必要ですね。",
+      "en": "Elderly patients with dulled sensation need special attention — that's something we can't overlook.",
+      "style": "Quiet emphasis on 'can't overlook.' Thoughtful, almost reflective close. A note of resolve beneath the observation — this matters to her practice.",
+      "mood": "caring_resolute"
+    }
+  ]
+}

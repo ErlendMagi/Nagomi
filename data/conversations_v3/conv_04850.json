@@ -1,0 +1,72 @@
+{
+  "id": "conv_04850",
+  "context": "A barista finalizes a wholesale contract with a B2B account manager",
+  "purpose": "Teach: 急遽/極力/高値/立地/阻害/所要/先般/取扱い",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "急遽",
+    "極力",
+    "高値",
+    "立地",
+    "阻害",
+    "所要",
+    "先般",
+    "取扱い"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "先般お送りした見積もり、ご確認いただけましたでしょうか。",
+      "en": "Did you have a chance to review the quote I sent the other day?",
+      "style": "Polite professional tone, formal sentence-ending with humble verb form."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、拝見しました。ただ、豆の高値が続いている点が少し気になっておりまして。",
+      "en": "Yes, I reviewed it. However, I'm a bit concerned that bean prices remain high.",
+      "style": "Measured business register, soft hedging with ておりまして softener."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "おっしゃる通りです。仕入れ価格の変動が利益を阻害する要因になっておりまして、極力ロットでまとめて吸収しております。",
+      "en": "You're absolutely right. Price volatility hampers our margins, so we're absorbing it through larger lot sizes wherever possible.",
+      "style": "Confident explanatory tone, layered clauses showing technical command of trade."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。御社の店舗は駅前で立地も良いですし、安定供給が前提条件になります。",
+      "en": "I see. Your shop is well located right by the station, so stable supply is a prerequisite for us.",
+      "style": "Calm analytical voice, presenting business logic step by step."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "もちろんです。実は急遽、産地直送ルートを一本追加しまして、配送の所要日数も二日ほど短縮できる見込みです。",
+      "en": "Of course. Actually, we hastily added another direct-from-farm route, and delivery time should shrink by about two days.",
+      "style": "Energetic reassurance, with proud disclosure of recent operational upgrade."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それは助かります。取扱い品目の追加についても、来月から正式に契約書へ反映させましょう。",
+      "en": "That's a real help. Let's also formally reflect the additional handled items in next month's contract.",
+      "style": "Decisive closing register, moving the deal toward formal commitment."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。では本日中に修正版をお送りし、押印手続きへ進めさせていただきます。",
+      "en": "Thank you very much. I'll send the revised version today and proceed to the stamping process.",
+      "style": "Grateful, brisk wrap-up using humble causative request form."
+    }
+  ]
+}

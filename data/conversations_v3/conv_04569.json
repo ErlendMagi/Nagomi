@@ -1,0 +1,84 @@
+{
+  "id": "conv_04569",
+  "context": "A doctor and a teacher plan a school health screening",
+  "purpose": "Teach: 菌/酸素/ホルモン/歯科/薬物/修復/看護婦/適合",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "菌",
+    "酸素",
+    "ホルモン",
+    "歯科",
+    "薬物",
+    "修復",
+    "看護婦",
+    "適合"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "斎藤先生、来月の健康診断ですが、今年は歯科検診も同じ日にまとめたいんです。",
+      "en": "Dr. Saito, about next month's health screening, I'd like to combine the dental checkup on the same day this year.",
+      "style": "Polite teacher tone, brisk and businesslike, opening a planning meeting professionally."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。歯科の先生のスケジュールが合うなら、こちらも問題ありません。",
+      "en": "I see. If the dentist's schedule works out, that's no problem on our end.",
+      "style": "Calm doctor voice, measured and considerate, weighing logistics carefully before agreeing."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ありがとうございます。あと、思春期の子もいるので成長ホルモンの話も少し触れていただけますか。",
+      "en": "Thank you. Also, since some kids are entering puberty, could you briefly touch on growth hormones?",
+      "style": "Earnest teacher asking thoughtfully, slightly hesitant but sincere, advocating for her students."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "もちろんです。ついでに貧血の検査として血中酸素の値も簡単に確認しておきますね。",
+      "en": "Of course. While we're at it, I'll quickly check blood oxygen levels too as an anemia screening.",
+      "style": "Reassuring clinical tone, confident and accommodating, smoothly tying additions to existing checks."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "助かります。そういえば去年の手洗い指導、菌の話が分かりやすくて子供たちに好評でしたよ。",
+      "en": "That helps. By the way, last year's handwashing lesson—your explanation of germs was so clear, the kids loved it.",
+      "style": "Warm appreciative voice with natural conversational pivot, reminiscing positively to build rapport."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは嬉しいですね。今年は高学年向けに、薬物乱用の予防についても短くお話しできればと思っています。",
+      "en": "That's nice to hear. This year, for the upper grades, I'd like to give a short talk on drug abuse prevention too.",
+      "style": "Serious physician tone warming with appreciation, then gravely raising an important delicate topic."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ぜひお願いします。当日は保健室のベテラン看護婦さん、いえ看護師さんにも立ち会ってもらう予定です。",
+      "en": "Please do. On the day, we'll have our veteran school nurse—well, in the old days we called them kangofu—present as well.",
+      "style": "Cooperative planning voice with light self-correction, organized and reassuring, charmingly acknowledging dated wording."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ふふ、心強いですね。擦り傷の手当てや、子供たちの心のケアの修復にも、彼女の存在は大きいですよ。",
+      "en": "Heh, that's reassuring. For treating scrapes and even helping repair the kids' emotional wellbeing, her presence is huge.",
+      "style": "Approving warm tone with gentle chuckle, expressing genuine trust in colleagues, easing into friendlier register."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "では来週までに歯科医院とも日程を調整して、全員のスケジュールが適合するか確認してご連絡しますね。",
+      "en": "Then by next week I'll coordinate with the dental clinic and confirm whether everyone's schedules align, and get back to you.",
+      "style": "Wrapping up professionally with friendly closing tone, confirming next action items clearly and thoroughly."
+    }
+  ]
+}

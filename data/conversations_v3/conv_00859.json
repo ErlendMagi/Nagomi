@@ -1,0 +1,62 @@
+{
+  "id": "conv_00859",
+  "context": "Yumiko prepares a special meal for Hina's birthday.",
+  "purpose": "mother-child special-meal exchange",
+  "ambient": "kitchen_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "特別",
+    "料理",
+    "一緒",
+    "美味しい",
+    "幸せ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_043)",
+    "generated_at": "2026-05-27T02:25:25.643Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、特別な料理、作ったよ。",
+      "en": "Hina-chan, I made you something special.",
+      "style": "Warm, deliberate opening. Voice softens on the child's name. Present and unhurried. The pride of a small gesture that cost her attention.",
+      "mood": "loving_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "わあ、嬉しい！何？",
+      "en": "Wow! What is it?",
+      "style": "Bright gasp on the opening. Pure, unselfconscious excitement. Voice climbs a little on the question. Bouncing on the words.",
+      "mood": "delighted_curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃんの、大好きな、ハンバーグ。",
+      "en": "Your favorite — hamburger steak.",
+      "style": "Gentle reveal. Slight pause before the answer to let the anticipation sit. Warm smile audible in the word 'favorite.' Watching her face.",
+      "mood": "tender_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "美味しそう！一緒に、食べよう。",
+      "en": "It looks so good! Let's eat it together.",
+      "style": "Immediate, bright enthusiasm. No hesitation. The 'together' carries genuine warmth — not just invitation but inclusion, genuine joy at sharing.",
+      "mood": "joyful_grateful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お誕生日、幸せにね。",
+      "en": "Happy birthday, sweetheart.",
+      "style": "Soft and steady. The word 'happy' carries all the weight of the day — genuine wish, not obligation. Closes with quiet certainty. A mother settling into the moment.",
+      "mood": "tender_protective"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_09494",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 環境庁/窒素/憲章/圧勝/疑念/塩素/至福/皇族",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "環境庁",
+    "窒素",
+    "憲章",
+    "圧勝",
+    "疑念",
+    "塩素",
+    "至福",
+    "皇族"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_476 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、環境庁基準の院内空気質を医療チームで管理します",
+      "en": "Ren, we manage hospital air quality to environmental agency standards across the entire medical team.",
+      "style": "Direct, measured opening. Clinical but not cold. Even pacing, steady breath control. Brief pause after the name—professional respect, not warmth.",
+      "mood": "composed_clinical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、麻酔ガスの窒素濃度を医療チームで監視します",
+      "en": "Yes—we monitor anesthetic gas nitrogen levels as part of our standard team protocol.",
+      "style": "Continuation of thought, same measured tone. Slightly lower in the register—routine affirmation. No emphasis, no elaboration. Matter-of-fact breath.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療憲章の倫理を、貴院、徹底されてますね、先生",
+      "en": "Your hospital really does uphold the ethical standards of the medical charter thoroughly, doesn't it, Doctor.",
+      "style": "Genuine but careful admiration. Slight lift at the end—a real question beneath the statement. Respectful, thoughtful pacing. Not flattery, observation.",
+      "mood": "impressed_earnest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、治療効果が圧勝的に出た事例も医療チームで共有します",
+      "en": "Yes—we share successful treatment outcomes across the team, and those results speak clearly.",
+      "style": "Calm precision. Light emphasis on 'share' and 'clearly'—evidence of conviction. Steady, unhurried. The voice of someone who has seen results and trusts data.",
+      "mood": "confident_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者の疑念を、貴院、解消されますね、先生",
+      "en": "So your hospital really does resolve patients' doubts and concerns, doesn't it, Doctor.",
+      "style": "Thoughtful, slower pace. Ren is connecting pieces aloud—almost to himself. Respectful but genuine curiosity. Slight trailing-off, as if waiting for Doctor to confirm his understanding.",
+      "mood": "thoughtful_admiring"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、消毒の塩素濃度を医療チームで管理します",
+      "en": "Yes—we maintain disinfection chlorine levels under careful team management.",
+      "style": "Return to clinical precision. Slightly lower energy, routine protocol. Steady, measured breath. The tone of someone moving through a checklist with genuine care behind it.",
+      "mood": "precise_reliable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者の至福を支える緩和ケアを、貴院、ご提供ですね、先生",
+      "en": "Your hospital really does provide that kind of palliative care—supporting patient comfort and peace, doesn't it, Doctor.",
+      "style": "Warmth emerging beneath the respect. Ren's admiration deepens. Slower, more deliberate pacing. Soft landing on 'peace'—he's moved by what he's hearing, not just impressed.",
+      "mood": "moved_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、皇族の方々の医療も医療チームで担当します",
+      "en": "Yes—our medical team handles care for members of the Imperial family as well.",
+      "style": "Quiet weight added to this statement. Slight pause before delivery. Even tone, but the gravity is unmissable. Close, almost intimate in its discretion. Final word lands softly, with appropriate reverence.",
+      "mood": "dignified_grounded"
+    }
+  ]
+}

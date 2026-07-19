@@ -1,0 +1,65 @@
+{
+  "id": "conv_05695",
+  "context": "A doctor discusses public health policy with a reporter",
+  "purpose": "Teach: をめぐって/促す/西欧/源泉/日本海/団結/結びつい/乏しい",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "をめぐって",
+    "促す",
+    "西欧",
+    "源泉",
+    "日本海",
+    "団結",
+    "結びつい",
+    "乏しい"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_286 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "予防接種をめぐって、地域差が大きい現状です。",
+      "en": "Right now there are significant regional disparities in vaccination coverage.",
+      "style": "Steady, measured opening. Clinical precision without coldness. Slight pause mid-sentence to let the fact settle. Warm but professional — she's seen this gap firsthand.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "西欧の事例と結びついた比較、可能ですか。",
+      "en": "Could you connect that to comparable data from Western Europe?",
+      "style": "Genuine intellectual curiosity, not performing intelligence. Slight hesitation before 'comparable' — checking himself that the question is sound. Leaning forward slightly, engaged.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。財源の源泉が乏しい自治体、団結して交渉する必要があります。",
+      "en": "Yes. Communities with limited budgets need to coordinate and advocate together.",
+      "style": "Quiet conviction. Each phrase lands with gentle weight. No rush — she's watched this struggle happen. Warm underneath, not lecturing.",
+      "mood": "clear_concerned"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "住民の理解を促す広報、医療現場が頼りですね。",
+      "en": "So public outreach to build community support really does depend on the people working in clinics.",
+      "style": "Realization dawning mid-sentence. Respectful, not flattering. Acknowledging something he's just understood about the system. Steady eye contact.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "日本海側の小集落、特に支援が要ります。",
+      "en": "The small towns along the Sea of Japan coast especially — they need more sustained support.",
+      "style": "Quiet sorrow under the clinical language. Not dramatic. She knows these places. Trailing off slightly, the weight of systemic neglect. Exhale at the end.",
+      "mood": "compassionate_resigned"
+    }
+  ]
+}

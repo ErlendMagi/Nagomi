@@ -1,0 +1,86 @@
+{
+  "id": "conv_08126",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: カンファレンス/コマーシャル/プロバイダー/申し入れ/立候補/過半数/申立/処遇",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "カンファレンス",
+    "コマーシャル",
+    "プロバイダー",
+    "申し入れ",
+    "立候補",
+    "過半数",
+    "申立",
+    "処遇"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_408 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、来月のカンファレンスに登壇しろ",
+      "en": "I want you presenting at next month's conference.",
+      "style": "Direct, clipped authority. No preamble. Expectation stated as fact. Steady eye contact, minimal inflection—this is a directive, not a request.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品のコマーシャルを来週放送します",
+      "en": "Yes. We're airing the new product commercial next week.",
+      "style": "Brisk confirmation. Rapid-fire delivery, professional cadence. Lean slightly forward—showing readiness, not hesitation. Efficient.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社のプロバイダー契約を見直せ",
+      "en": "Review our provider contracts.",
+      "style": "Terse, authoritative. Slight pause after the verb—letting the weight land. No softening, no elaboration. The tone of someone used to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。取引先からの申し入れ、対応中です",
+      "en": "Yes. We're currently addressing requests from our business partners.",
+      "style": "Matter-of-fact update. Steady tempo, no rush. Shoulders level—showing control of the situation. Brief, precise, no apology in the phrasing.",
+      "mood": "competent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の役員立候補を歓迎する",
+      "en": "I welcome any staff member who wants to run for executive.",
+      "style": "Measured declaration. Slight warmth beneath the formality—this is genuine support. Deliberate pace, like the words carry weight. A rare moment of openness.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。株主総会で過半数の支持を得ました",
+      "en": "Yes. We secured majority support from shareholders at the general meeting.",
+      "style": "Confident report. Quick, clean delivery—this is good news being delivered without self-congratulation. Steady gaze, no need for embellishment.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、訴訟の申立に備えろ",
+      "en": "Prepare the company for potential litigation.",
+      "style": "Grave, deliberate. Each word lands with equal weight. No rush—this is serious. The tone drops slightly, more bass. A chair creaks as he settles back.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の処遇改善を進めております",
+      "en": "Yes. We're advancing improvements to staff compensation and conditions.",
+      "style": "Steady, professional close. Measured pace, completing the thought with care. No edge—just competence. A small nod acknowledgment implicit in the tone.",
+      "mood": "diligent"
+    }
+  ]
+}

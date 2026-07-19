@@ -1,0 +1,86 @@
+{
+  "id": "conv_06728",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 通告/知らさ/運送/日報/年内/償却/用地/代わる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通告",
+    "知らさ",
+    "運送",
+    "日報",
+    "年内",
+    "償却",
+    "用地",
+    "代わる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_338 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究、中止の通告、来ないようにな。",
+      "en": "Ren — make sure that stop-notice doesn't come.",
+      "style": "Direct, measured authority. Even pace. No inflection on the name — stating a fact. Slight pause before the instruction, as if setting expectations that matter.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。プロジェクト進捗、メンバーに、共有し、知らされています。",
+      "en": "Yes. I've shared the project progress with the team members.",
+      "style": "Clipped, formal. Quick attack on 'Yes.' Speaks in sequence like he's checking boxes. Careful precision — he's aware he's being assessed. No waver.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "研究機器の運送、業者と、手配しろ。",
+      "en": "Arrange the shipping of the research equipment with the vendor.",
+      "style": "Brief, task-like. Flat delivery. Not unkind, but efficient — this is expected to be done. No elaboration. The finality of someone who trusts you'll understand.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究の日報、しっかり、つけております。",
+      "en": "Yes. I'm keeping the daily research log properly.",
+      "style": "Steady, almost dutiful. Slight emphasis on 'properly' — small note of pride in doing this right. Speaks as if proving something small but real. Respectful pace.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "論文提出、年内に、間に合わせろ。",
+      "en": "Get the paper submitted before the year ends.",
+      "style": "Calm firmness. Weight on the deadline. Not harsh, but non-negotiable. The tone of someone stating what success looks like. Slight pause before the deadline mark.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の償却計算、勉強しております。",
+      "en": "Yes. I'm studying the research fund depreciation calculations.",
+      "style": "Earnest uptake. Slight breathiness — he's ambitious and wants to show readiness beyond what's asked. Quick, almost eager pace. The nervous preparation of someone trying to be indispensable.",
+      "mood": "ambitious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "共同研究の用地、大学側と、調整しろ。",
+      "en": "Coordinate with the university on the joint research site.",
+      "style": "Task-stated. Direct gaze held. Economical — no extra words. The instruction of someone who expects action, not discussion. Professional distance.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。先輩に代わる形で、私が、発表することも、考えています。",
+      "en": "Yes. I'm actually considering stepping in to do the presentation in place of my senpai.",
+      "style": "Careful vulnerability. Quiet first — he's testing the water. Gains slight momentum as he speaks. Soft on 'considering' — not yet committed but leaning in. Watching for the reaction.",
+      "mood": "hopeful_careful"
+    }
+  ]
+}

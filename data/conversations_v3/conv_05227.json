@@ -1,0 +1,78 @@
+{
+  "id": "conv_05227",
+  "context": "Two managers prep a security-system briefing",
+  "purpose": "Teach: 資材/教諭/優良/作動/強要/超越/預言/ウォール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資材",
+    "教諭",
+    "優良",
+    "作動",
+    "強要",
+    "超越",
+    "預言",
+    "ウォール"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "明日の防犯ブリーフィング、まず新しいファイアウォールの構成から説明しようと思うんですが、どうですか？",
+      "en": "For tomorrow's security briefing, I'm thinking we start by explaining the new firewall configuration. What do you think?",
+      "style": "Polite, measured workplace tone with a consultative cadence."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "いいね。ただ、ウォール街みたいに横文字ばかり並べても、現場の人には伝わらないよ。",
+      "en": "Good. But if we just line up English buzzwords like it's Wall Street, the people on the ground won't get it.",
+      "style": "Senior colleague tone, casual but pointed, with a touch of dry humor."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "確かに。設置済みのセンサーがきちんと作動しているか、まずデモを見せた方が説得力ありますよね。",
+      "en": "True. It'd be more convincing to first demo whether the already-installed sensors are operating properly.",
+      "style": "Agreeing professionally, pivoting to a concrete suggestion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうそう。あと、資材の発注リストも更新しといて。優良業者を二社に絞ったから。",
+      "en": "Exactly. Also, update the materials order list. I've narrowed it down to two top-tier vendors.",
+      "style": "Brisk delegation, friendly but task-focused boss energy."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解です。あ、それと、講師として呼んだ元高校教諭の方、当日のリハどうしますか？",
+      "en": "Understood. Oh, and the former high school teacher we invited as a guest speaker — what should we do about the rehearsal that day?",
+      "style": "Polite check-in, raising a logistical question with mild hesitation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、あの先生ね。話の内容は面白いんだけど、毎回予定時間を超越しちゃうのが難点なんだよな。",
+      "en": "Ah, that teacher. The content of his talks is interesting, but every time he goes over the scheduled time — that's the problem.",
+      "style": "Reflective, slightly amused, slipping into honest assessment of a known issue."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ふふ、最後の方は預言者みたいに熱がこもってきますもんね。時間厳守をお願いするしかないですね。",
+      "en": "Heh, toward the end he gets fired up like a prophet, doesn't he. We'll just have to politely ask him to stick to the time.",
+      "style": "Light laughter, playful jab softened with professional resolve and warmth."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "強要するわけにはいかないけど、事前に台本を共有してもらえば安心だな。",
+      "en": "We can't force him, of course, but if he shares the script in advance, that'd put my mind at ease.",
+      "style": "Pragmatic conclusion, balancing courtesy with planning instinct."
+    }
+  ]
+}

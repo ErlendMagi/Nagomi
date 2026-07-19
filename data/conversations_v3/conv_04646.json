@@ -1,0 +1,78 @@
+{
+  "id": "conv_04646",
+  "context": "A boss reviews expense policies with his deputy",
+  "purpose": "Teach: 支払わ/勘定/代行/名目/提唱/容認/容器/同日",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支払わ",
+    "勘定",
+    "代行",
+    "名目",
+    "提唱",
+    "容認",
+    "容器",
+    "同日"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_234 workflow w26vym2lb)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "経費精算の件だが、今期から営業代行費を「研修」の名目で計上するのは、もう容認できない。",
+      "en": "About expense reports — booking the sales agency fees under 'training' as a category is no longer acceptable.",
+      "style": "Stern executive tone, clipped sentences, authoritative finality, slight irritation underneath."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。ただ、先方へ支払わなければならない分が今月末に集中しておりまして…。",
+      "en": "Understood. However, the portion we have to pay to the other party is concentrated at month-end.",
+      "style": "Deferential office worker, slightly hedging, careful pacing, polite professional register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "支払わないとは言っていない。勘定科目を正しく分けろと言っているんだ。",
+      "en": "I'm not saying don't pay them. I'm telling you to separate the accounting categories properly.",
+      "style": "Sharp correction, voice rising mid-sentence, controlled but firm impatience."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では、来週の経理会議で新しい区分を提唱する形でよろしいでしょうか。",
+      "en": "Then would it be acceptable to put forward the new classification at next week's accounting meeting?",
+      "style": "Cautious clarification, seeking direction, measured polite tone, slight upward inflection."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、それでいい。それと、領収書を入れているあの古い容器、もう廃止しろ。電子化だ。",
+      "en": "Yes, that's fine. And that old container we've been putting receipts in — scrap it. We're going digital.",
+      "style": "Brisk approval pivoting to next directive, decisive, no nonsense, brief pause then resumed."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。同日付で社内通達を出すよう手配いたします。",
+      "en": "Certainly. I'll arrange for an internal notice to be issued with that same date.",
+      "style": "Compliant acknowledgement, businesslike efficiency, polished keigo, swift confirmation."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。曖昧な名目での支出は、今後一切認めない方針だからな。",
+      "en": "I'm counting on you. From now on, our policy is to permit zero spending under vague categories.",
+      "style": "Closing directive, weighty pause before final phrase, conveying long-term commitment."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "肝に銘じます。経理部にも周知徹底するよう、本日中に通達いたします。",
+      "en": "I'll keep that firmly in mind. I'll notify the accounting department for thorough awareness by end of today.",
+      "style": "Earnest commitment, slight bow implied in voice, dependable subordinate closure."
+    }
+  ]
+}

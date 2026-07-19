@@ -1,0 +1,62 @@
+{
+  "id": "conv_00823",
+  "context": "Hina makes tea for her grandmother for the first time.",
+  "purpose": "grandchild-grandma first-tea exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "茶",
+    "一緒",
+    "優しい",
+    "楽しい",
+    "初めて"
+  ],
+  "cast": [
+    "hina_child",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_041)",
+    "generated_at": "2026-05-27T02:04:36.447Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "おばあちゃん、お茶、ひな、初めて、入れた。",
+      "en": "Grandma! I made tea for the first time — all by myself!",
+      "style": "Bright, eager opening on the first syllable. Quick warm delivery with a child's genuine pride threaded through. Soft audible breathing, the kind of unselfconscious energy that comes from real accomplishment.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "すごい、ひなちゃん。優しい子。",
+      "en": "That's wonderful, Hina-chan. What a kind thing to do.",
+      "style": "Warm, genuine appreciation. Soft landing on each word—not rushing. A grandmother's quiet delight in noticing the effort, not just the result. Tender underneath.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "熱い？大丈夫？",
+      "en": "Is it too hot? Are you okay?",
+      "style": "Sudden shift to worried care. Pitch lifts slightly on the first question. Quick and sincere—a child checking on someone she loves. No performance, just genuine concern.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ちょうどいい。美味しい、本当に。",
+      "en": "Perfect temperature. And truly delicious.",
+      "style": "Slow, deliberate warmth. A slight emphasis on 'truly'—the grandmother reassuring and savoring both the tea and the moment. Gentle, unhurried, deeply satisfied.",
+      "mood": "tender_satisfied"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、飲もう、楽しい。",
+      "en": "Let's drink it together—it'll be so much fun!",
+      "style": "Brightness returning, simpler and even more open. A child's invitation, offered with pure happiness. Slight upward lilt on 'together.' Soft, unselfconscious joy.",
+      "mood": "joyful"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_03849",
+  "context": "A boss discusses market share with his manager",
+  "purpose": "Teach: 手当/シェア/工程/高額/明記/フロー/ボス/接し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "手当",
+    "シェア",
+    "工程",
+    "高額",
+    "明記",
+    "フロー",
+    "ボス",
+    "接し"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_194 workflow weeyeokki)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "君、最新のカタログを見たか？うちの市場シェアが落ちている。",
+      "en": "Did you see the latest catalog? Our market share is dropping.",
+      "style": "Gruff, authoritative tone with a worried undercurrent"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、ボス。競合のキャッシュフローも調べましたが、向こうは投資を増やしているようです。",
+      "en": "Yes, boss. I checked the competitor's cash flow too, and they seem to be increasing investment.",
+      "style": "Polite, measured office tone with respectful deference"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "製造工程の見直しが必要だな。高額商品ばかり並べても客は離れる。",
+      "en": "We need to review the manufacturing process. Lining up only high-priced items will drive customers away.",
+      "style": "Decisive boss voice thinking out loud strategically"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それと、契約書に明記されている特別手当の件ですが、現場の士気にも関わります。",
+      "en": "Also, regarding the special allowance stipulated in the contract, it affects floor morale too.",
+      "style": "Carefully bringing up sensitive HR topic with care"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "わかっている。お客様に接して頑張る社員あっての会社だからな。",
+      "en": "I know. The company exists because of employees who deal with customers and work hard.",
+      "style": "Softening, showing rare warmth and understanding here"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとうございます。来週までに業務フローの改善案をまとめます。",
+      "en": "Thank you. I'll put together a proposal to improve the workflow by next week.",
+      "style": "Relieved, professional commitment with quiet enthusiasm"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "頼んだぞ。シェアを取り戻すには、地道な改善しかない。",
+      "en": "I'm counting on you. The only way to regain share is steady improvement.",
+      "style": "Firm closing remark, trusting yet demanding tone"
+    }
+  ]
+}

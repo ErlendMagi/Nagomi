@@ -1,0 +1,78 @@
+{
+  "id": "conv_04014",
+  "context": "A police officer briefs a teen reporter about an investigation",
+  "purpose": "Teach: 官房/省庁/起訴/告発/追及/朝刊/闘い/難民",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "官房",
+    "省庁",
+    "起訴",
+    "告発",
+    "追及",
+    "朝刊",
+    "闘い",
+    "難民"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_202 workflow wkgs303jw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今朝の朝刊を見たか？うちが捜査している事件が一面に出ている。",
+      "en": "Did you see this morning's paper? The case we're investigating is on the front page.",
+      "style": "Gruff officer voice, lowering tone with serious weight to set the mood."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、読みました。官房長官のお名前まで出ていて本当に驚きました。",
+      "en": "Yes, I read it. I was genuinely shocked the Chief Cabinet Secretary's name appeared.",
+      "style": "Eager teen reporter, polite and slightly nervous facing an authority figure."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "内部告発から動き出した捜査だ。関係省庁にも順次聴取を進めている。",
+      "en": "The investigation began from a whistleblower's tip. We're questioning relevant ministries one by one.",
+      "style": "Measured briefing cadence, professional pauses between key facts."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "起訴まで進む可能性は、現時点でどの程度あるのでしょうか？",
+      "en": "How likely is it, at this point, that the case will reach indictment?",
+      "style": "Curious cub reporter, pen poised, leaning forward respectfully."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今は答えられん。容疑者の追及を続けている段階だからな。",
+      "en": "I can't answer that now. We're still in the stage of pressing the suspects.",
+      "style": "Stern, careful officer guarding case details with firm restraint."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "難民支援の予算が悪用されたという話も、本当なのですか？",
+      "en": "Is the rumor that refugee aid funding was misused also actually true?",
+      "style": "Voice rising with idealistic teen conviction and concern for justice."
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "認否はできん。だが長い闘いになる。記者として覚悟しておけ。",
+      "en": "I can't confirm or deny. But this'll be a long fight. Brace yourself as a reporter.",
+      "style": "Stern mentor warning, fatherly gruff tone with weight on final words."
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "肝に銘じます。本日はお時間を頂きありがとうございました。",
+      "en": "I'll take it to heart. Thank you very much for your time today.",
+      "style": "Formal respectful bow, slightly breathless closing from the young reporter."
+    }
+  ]
+}

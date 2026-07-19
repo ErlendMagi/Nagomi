@@ -1,0 +1,72 @@
+{
+  "id": "conv_05574",
+  "context": "A uni student interviews a retired explorer",
+  "purpose": "Teach: 脱出/救う/弱者/敗戦/火山/半導体/探検/戦力",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "脱出",
+    "救う",
+    "弱者",
+    "敗戦",
+    "火山",
+    "半導体",
+    "探検",
+    "戦力"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_280 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "長年、火山地域の探検を続けてこられたんですよね。",
+      "en": "You've spent decades exploring volcanic regions, haven't you?",
+      "style": "Respectful opening. Lean forward slightly, voice warm with genuine curiosity. Careful pace — genuinely interested in the answer, not rushing through a prepared question.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。脱出経路の確認、地元住民を救うためでもあった。",
+      "en": "Yes. Mapping escape routes, but also to protect the local people.",
+      "style": "Even, measured tone. Weight on each phrase. Not boastful — matter-of-fact about both the technical work and the human purpose. Slight pause after 'Yes' like the memory is still vivid.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "弱者の方々への配慮、戦時中の経験も影響していますか。",
+      "en": "I wonder — caring for the vulnerable, does your experience during the war shape that?",
+      "style": "Gentle inquiry, not interrogation. Pause before the dash. Soft touch on the difficult subject. Respectful hesitation in the voice — aware he's asking about something painful.",
+      "mood": "thoughtful_careful"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。敗戦の混乱を見たから、今は丁寧に動きたい。",
+      "en": "Yes. I saw the chaos after defeat. That's why I want to act thoughtfully now.",
+      "style": "Quiet firmness. Not heavy-handed. Each sentence carries its own weight. There's acceptance in his tone — not bitterness, but clarity earned by time.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "最近の半導体産業の動向、災害対策にも関わっているんですか。",
+      "en": "And recent shifts in semiconductors — does that also tie into your disaster preparation work?",
+      "style": "Thoughtful pivot, not abrupt. Genuine connection-making in his voice. Slower pace on 'semiconductor' — he's following his own thread of thought out loud.",
+      "mood": "intrigued"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "うん。戦力配置の発想、産業界にも生きている。",
+      "en": "Yes. The way we organized resources and strategy — that same thinking shapes industry now.",
+      "style": "Quiet wisdom closing. Not lecturing. A gentle realization shared. Slight lift at the end — like he's just worked through it himself in real time with you listening.",
+      "mood": "philosophical"
+    }
+  ]
+}

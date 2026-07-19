@@ -1,0 +1,86 @@
+{
+  "id": "conv_08000",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 誓っ/ぎっしり/ノルマ/砂浜/ダメージ/贈っ/学芸/あ〜",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "誓っ",
+    "ぎっしり",
+    "ノルマ",
+    "砂浜",
+    "ダメージ",
+    "贈っ",
+    "学芸",
+    "あ〜"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_401 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さん、家族を守るって誓っていらしたのよ",
+      "en": "Sho, your father made a vow to protect this family.",
+      "style": "Soft, almost confessional. Speaking more to herself than to him. Warm but grave. A mother tending to something tender and difficult at once.",
+      "mood": "tender_resolute"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくのお弁当、ぎっしりおいしそうだよ",
+      "en": "Mom, my lunch box looks so full and delicious!",
+      "style": "Bright, genuine wonder. Quick eager energy. The naturalness of a child discovering something good without performing about it. Slight lift at the end.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さん、お仕事のノルマで遅くなるそうよ",
+      "en": "Your father's work quota means he'll be late coming home, sweetheart.",
+      "style": "Measured, accepting. Not complaining, just naming a thing. Breath held steady. A mother bearing small disappointments so her child doesn't have to.",
+      "mood": "resigned_understanding"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと砂浜行きたいな",
+      "en": "I wish I could go to the beach with Dad, Mom.",
+      "style": "Quiet wanting. Genuine longing, not demanding. A small voice carrying something bigger. Soft trailing-off, like he's already accepted the answer before asking.",
+      "mood": "wistful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達にダメージを与えないでね",
+      "en": "Sho, be gentle with your friends, won't you?",
+      "style": "Quiet redirection. Not scolding. The firmness underneath is real but delivered with care. A reminder more than a reproof.",
+      "mood": "gently_instructive"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お祖母ちゃんにお花を贈ったよ",
+      "en": "I gave flowers to Grandma today, Mom.",
+      "style": "Simple pride. No performance, just fact-sharing with a note of accomplishment. Small but genuine. The warmth of being seen for doing something right.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、学芸会、ママも見に行くわ",
+      "en": "I'll come watch your school play, Sho.",
+      "style": "Warm promise. Not fussy or overdone. Direct and steady. The reassurance of a mother keeping what matters on her calendar.",
+      "mood": "tender_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、あ〜、もうお風呂入らなきゃ",
+      "en": "Mom, oh — I need to take a bath now.",
+      "style": "Practical, matter-of-fact announcement. A child remembering duty without drama. Quick tempo. Slight wry acceptance of bedtime logistics.",
+      "mood": "practical_resigned"
+    }
+  ]
+}

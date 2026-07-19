@@ -1,0 +1,75 @@
+{
+  "id": "conv_01851",
+  "context": "Kenji helps Sho-young with art homework; patient hands-on session.",
+  "purpose": "Mentor uncle teaching child drawing technique.",
+  "ambient": "living_room_table_lamp",
+  "sound_effects": [],
+  "target_vocab": [
+    "美術",
+    "描く",
+    "色",
+    "形"
+  ],
+  "cast": [
+    "kenji_office",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_093)",
+    "generated_at": "2026-05-27T08:15:56.289Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "健司おじちゃん、美術、苦手。",
+      "en": "Kenji-uncle, I'm not very good at art.",
+      "style": "Soft, hesitant opening. Small voice, genuinely worried. Looks down slightly. Warm but uncertain — a child confessing a small failure to someone he trusts.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "誰でも、最初は難しいで。",
+      "en": "Everyone finds it hard at first, you know.",
+      "style": "Warm Kansai lilt on the reassurance. Patient, unhurried. Lean in slightly with a small encouraging smile. The tone of someone who's seen this worry before and knows it passes.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "色、何で塗ったらいい?",
+      "en": "What color should I use?",
+      "style": "Curiosity lifting the voice slightly. Direct question, genuine asking — not performing doubt anymore. Engaged, looking to him for the next thing.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "好きな色、選んでみ。",
+      "en": "Pick whichever color you like.",
+      "style": "Light, permissive. Kansai warmth underneath. Not prescriptive — giving him permission to choose. Gentle encouragement in the simplicity of it.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "形、まる、まる、たくさん。",
+      "en": "Lots of circles — round shapes everywhere.",
+      "style": "Brightness breaking through. Small voice getting warmer, more animated. He's describing what he sees in his mind. Joy in the concrete image of it.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええなぁ、ええ感じや!",
+      "en": "That's wonderful — really lovely feeling to it!",
+      "style": "Genuine delight. Kansai musicality on 'ええなぁ'. Not patronizing — he means it. Warm approval that makes a child feel seen. Genuine praise, not performance.",
+      "mood": "genuinely_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ありがとう、楽しい!",
+      "en": "Thank you — it's fun!",
+      "style": "Small voice ringing with real joy. Brightness spreading. Relief and pleasure mixing together. The lightness of being believed in.",
+      "mood": "joyful"
+    }
+  ]
+}

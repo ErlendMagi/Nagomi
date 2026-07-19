@@ -1,0 +1,84 @@
+{
+  "id": "conv_05074",
+  "context": "A uni student interviews a retired labor researcher at home",
+  "purpose": "Teach: 浄化/鉱山/過酷/添加/ガード/租税/陪審/懲役",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "浄化",
+    "鉱山",
+    "過酷",
+    "添加",
+    "ガード",
+    "租税",
+    "陪審",
+    "懲役"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_255 workflow wy2sjgrfj)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、今日は卒論のために戦後の鉱山労働の歴史についてお話を伺いに来ました。",
+      "en": "Professor, today I came to ask about the history of postwar mine labor for my thesis.",
+      "style": "Polite university student opening a formal interview respectfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "よく来たね。当時の現場は本当に過酷でね、坑道の崩落を防ぐガードの板すら足りない有様だったよ。",
+      "en": "Glad you came. The sites back then were truly brutal, even guard boards to prevent tunnel collapse were lacking.",
+      "style": "Warm elderly scholar recalling harsh physical conditions vividly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "排水や粉じんの処理はどうなっていたんですか。周辺の川の浄化なども問題になったと聞きますが。",
+      "en": "How were drainage and dust handled? I've heard purification of surrounding rivers also became an issue.",
+      "style": "Curious student probing environmental and infrastructural details thoughtfully."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "鉱石の選別で添加する薬品が垂れ流しでね、下流の村は何十年も汚染と闘わされた。",
+      "en": "Chemicals added during ore sorting were dumped untreated, downstream villages fought contamination for decades.",
+      "style": "Detailed elder recounting technical pollution failures with quiet indignation."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "会社の責任が問われたとき、住民の声はちゃんと司法に届いたんでしょうか。陪審のような仕組みはあったんですか。",
+      "en": "When corporate responsibility was challenged, did residents' voices reach the courts? Was there anything like a jury?",
+      "style": "Student linking labor history to legal accountability mechanisms naturally."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "陪審制度は戦時に停止されたまま復活していなくてね、判事だけの裁判では企業はうまく逃げ切る。重役が懲役を食らった例はほとんどない。",
+      "en": "The jury system was suspended in wartime and never revived; in judge-only trials companies slipped through, executives almost never got prison.",
+      "style": "Bitter realism from elder, naming systemic legal failures plainly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "刑事責任があれほど軽かったとは……。経済面でも企業は優遇されていたんですか。",
+      "en": "I had no idea criminal accountability was that light. Were companies favored on the economic side too?",
+      "style": "Student processing shock, pivoting toward broader systemic favoritism."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろんだ。租税の特別措置で減価償却を膨らませ、利益のほとんどを国に納めずに済ませていた。労働者の命と引き換えにね。",
+      "en": "Of course. Special tax measures let them inflate depreciation, keeping most profits from the state, in exchange for workers' lives.",
+      "style": "Elder exposing financial favoritism with morally weighted closing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうした構造を、今の下請け労働にも繋げて書き残したいと思います。今日は本当にありがとうございました。",
+      "en": "I'd like to write down how that structure connects to today's subcontracted labor. Thank you so much for today.",
+      "style": "Sincere closing from grateful student, resolute and forward-looking."
+    }
+  ]
+}

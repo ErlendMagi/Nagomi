@@ -1,0 +1,72 @@
+{
+  "id": "conv_04578",
+  "context": "A boss and his manager discuss difficult news headlines",
+  "purpose": "Teach: 大都市/過激/騒音/核兵器/虐殺/性別/死ね/無関係",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大都市",
+    "過激",
+    "騒音",
+    "核兵器",
+    "虐殺",
+    "性別",
+    "死ね",
+    "無関係"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝の新聞を見たか。大都市での騒音問題がまた一面だ。",
+      "en": "Did you see this morning's paper? Big city noise issues are on the front page again.",
+      "style": "Gruff senior executive tone, terse and direct."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、読みました。でも、もっと気になったのは過激な発言の記事です。",
+      "en": "Yes, I read it. But what concerned me more was the article on extreme remarks.",
+      "style": "Polite middle-manager register, measured and respectful."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、あの政治家か。性別を問わず、誰に対しても暴言だ。ひどいものだな。",
+      "en": "Ah, that politician. Insults toward everyone regardless of gender. Truly awful.",
+      "style": "Disgusted older boss, blunt and weary delivery."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "「死ねばいい」とまで言ったそうですよ。信じられません。",
+      "en": "Apparently he even said things like 'they should just die.' Unbelievable.",
+      "style": "Shocked manager voice, hushed and disturbed tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "国際面はもっと暗いぞ。核兵器の話に、また集団虐殺の報道だ。",
+      "en": "The international page is darker. Talk of nuclear weapons, and reports of mass killings.",
+      "style": "Grave executive tone, heavy with resignation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "本当に胸が痛みます。我々の業務とは無関係でも、無視はできませんね。",
+      "en": "It really pains me. Even though unrelated to our work, we can't ignore it.",
+      "style": "Reflective subordinate voice, sincere and somber delivery."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "その通りだ。さあ、暗い話はここまで。仕事に戻ろう。",
+      "en": "Exactly right. Well, enough of the dark talk. Let's get back to work.",
+      "style": "Firm boss closing tone, brisk and decisive."
+    }
+  ]
+}

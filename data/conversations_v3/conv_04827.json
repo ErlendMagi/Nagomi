@@ -1,0 +1,78 @@
+{
+  "id": "conv_04827",
+  "context": "Two managers run through an HR onboarding checklist",
+  "purpose": "Teach: 通称/共済/修了/貯蓄/休業/出店/創出/なさる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通称",
+    "共済",
+    "修了",
+    "貯蓄",
+    "休業",
+    "出店",
+    "創出",
+    "なさる"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_243 workflow wl9i3s6bw)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "では、新入社員のオンボーディング、一緒に確認していきましょう。まず本名と通称、両方を登録する必要があります。",
+      "en": "Alright, let's go through the new hire onboarding together. First, we need to register both their legal name and common name.",
+      "style": "Calm, professional female manager opening the meeting briskly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。研修の修了確認はどうしますか?最終日に修了証を渡す形で大丈夫ですよね。",
+      "en": "Got it. How do we handle training completion confirmation? Handing them a certificate on the final day should be fine, right?",
+      "style": "Polite male manager confirming procedure with measured tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、それで結構です。あと共済組合への加入手続きも忘れずに。書類は人事から届いているはずです。",
+      "en": "Yes, that works. Also don't forget the mutual aid association enrollment paperwork. HR should have already sent the documents.",
+      "style": "Cool female voice methodically ticking off checklist items."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "貯蓄プランの案内も同封しておきますね。若いうちから始めた方が後々助かりますから。",
+      "en": "I'll include the savings plan brochure as well. Starting young really helps them later down the road.",
+      "style": "Warm male manager adding a practical suggestion thoughtfully."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かります。それから、産休や育児休業の制度についても初日にきちんと説明してあげてください。",
+      "en": "That helps. Also, please properly explain the maternity and childcare leave systems on day one.",
+      "style": "Composed female tone emphasizing important employee benefits clearly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかりました。ところで、来月の新店舗出店に合わせて、何名か異動なさる予定とか?",
+      "en": "Understood. By the way, I heard some staff will be transferring in line with next month's new store opening?",
+      "style": "Curious male manager shifting topic with respectful inquiry."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうなんです。新規出店に伴って、地域での雇用創出にもつながる大きなプロジェクトになります。",
+      "en": "That's right. The new store opening will lead to significant job creation in the local community.",
+      "style": "Engaged female manager explaining strategic business impact confidently."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "なるほど、価値の創出という意味でも大事ですね。では、このチェックリストで進めていきましょう。",
+      "en": "I see, it's important in terms of value creation too. Well then, let's proceed with this checklist.",
+      "style": "Agreeable male manager wrapping up the discussion productively."
+    }
+  ]
+}

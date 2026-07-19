@@ -1,0 +1,78 @@
+{
+  "id": "conv_03210",
+  "context": "Planning a store-network restructuring",
+  "purpose": "Restructure stores; teach 市内/赤字/外部/再度/づくり/お尋ね/ミス/自覚",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "市内",
+    "赤字",
+    "外部",
+    "再度",
+    "づくり",
+    "お尋ね",
+    "ミス",
+    "自覚"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_161)",
+    "generated_at": "2026-05-29T16:35:53.396Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "市内の三店舗、統合を検討しています。",
+      "en": "We are considering merging the three in-city stores.",
+      "style": "strategic manager presenting a bold plan"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "赤字店をそのままにはできないな。",
+      "en": "We cannot leave the loss-making stores as is.",
+      "style": "decisive boss confronting the reality, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "外部の物流に頼りすぎたのも一因です。",
+      "en": "Over-relying on outside logistics is one cause.",
+      "style": "analytical manager diagnosing the root issue"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "再度、契約条件を交渉しよう。",
+      "en": "Let us renegotiate the contract terms again.",
+      "style": "firm boss directing the next move"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ブランドづくりにも投資したいところです。",
+      "en": "I would also like to invest in brand-building.",
+      "style": "forward-looking manager advocating growth, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "一点お尋ねするが、在庫管理は改善した？",
+      "en": "One question — has inventory management improved?",
+      "style": "pointed boss checking on follow-through, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ミスは減りましたが、まだ甘いです。",
+      "en": "Mistakes dropped, but it is still lax.",
+      "style": "honest manager refusing to overstate progress"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "全員が当事者の自覚を持つべきだ。",
+      "en": "Everyone should hold a sense of ownership.",
+      "style": "rallying boss demanding shared responsibility, tone holding steady through the whole line"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_03887",
+  "context": "An IT helpdesk call between a barista (caller) and an office worker",
+  "purpose": "Teach: パスワード/電源/キーボード/ディスク/端末/ウェブ/ケーブル/自動的",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "パスワード",
+    "電源",
+    "キーボード",
+    "ディスク",
+    "端末",
+    "ウェブ",
+    "ケーブル",
+    "自動的"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_196 workflow w5dpim61l)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "すみません、店の業務端末が急に動かなくなって、ウェブの注文管理にログインできないんです。",
+      "en": "Sorry, the shop's work terminal suddenly stopped working, and I can't log into the web order management.",
+      "style": "Polite distressed barista calling helpdesk for urgent assistance"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "落ち着いてください。まず電源は入っていますか?画面に何か表示されていますか?",
+      "en": "Please calm down. First, is the power on? Is anything displayed on the screen?",
+      "style": "Calm reassuring helpdesk worker guiding through basic checks"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "電源は入っていて、ログイン画面は出るんですが、パスワードを入れても弾かれてしまって。",
+      "en": "The power is on and the login screen appears, but even when I enter the password it gets rejected.",
+      "style": "Frustrated but cooperative barista describing exact symptoms clearly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なるほど。三回失敗すると自動的にロックがかかる設定なので、おそらくそれですね。",
+      "en": "I see. It's set to lock automatically after three failed attempts, so that's probably it.",
+      "style": "Knowledgeable technician explaining system behavior in professional tone"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "あ、それから昨日からキーボードの一部のキーも反応が悪くて、ケーブルも少し緩んでいる気がします。",
+      "en": "Oh, and since yesterday some keys on the keyboard have been unresponsive, and I feel the cable is a bit loose too.",
+      "style": "Adding additional hardware concerns in apologetic worried voice"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解しました。ケーブルを一度差し直して、その後にディスクの空き容量も確認してみてください。",
+      "en": "Understood. Please unplug and reconnect the cable, and after that check the disk's free space as well.",
+      "style": "Methodical instructor giving step-by-step troubleshooting directions efficiently"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "やってみます。パスワードのリセットも今日中にお願いできますか?お昼の営業に間に合わせたくて。",
+      "en": "I'll try. Could you also handle the password reset by today? I want to make it in time for lunch service.",
+      "style": "Pleading but professional barista requesting urgent turnaround politely"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、これから再設定のリンクをお送りします。十分以内にメールが届くはずですよ。",
+      "en": "Yes, I'll send you the reset link now. The email should arrive within ten minutes.",
+      "style": "Reliable helpful technician confirming action with reassuring timeline"
+    }
+  ]
+}

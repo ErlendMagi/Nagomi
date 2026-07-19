@@ -1,0 +1,86 @@
+{
+  "id": "conv_08646",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 公用/専売/敬称/埋め立て/買い取り/廉価/覚書/即日",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公用",
+    "専売",
+    "敬称",
+    "埋め立て",
+    "買い取り",
+    "廉価",
+    "覚書",
+    "即日"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_434 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、公用車の購入計画を見直せ",
+      "en": "Review our vehicle acquisition plan.",
+      "style": "Clipped, authoritative. Each syllable lands. No warmth—pure directive. Slight pause after the opening, letting weight settle before moving on.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地域専売の権利を取得しました",
+      "en": "Understood. We've secured exclusive regional distribution rights.",
+      "style": "Measured, professional confirmation. Steady delivery without rushing. Slight emphasis on the achievement—not boasting, just completing the report clearly.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社外文書でも敬称を統一しろ",
+      "en": "Standardize honorific usage in all external documents.",
+      "style": "Curt, precise instruction. Quick tempo. No room for interpretation. The tone of someone who expects competence, not explanation.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海岸の埋め立て事業に関心がございます",
+      "en": "Understood. We're particularly interested in the coastal reclamation project opportunity.",
+      "style": "Careful, almost tentative. A beat before the substantive update. Respectful pacing—offering information without presuming priority.",
+      "mood": "respectful_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お得意様の店舗買い取り提案を検討しろ",
+      "en": "Consider a buyout proposal for our key client's retail locations.",
+      "style": "Terse, businesslike. Delivery matches the brevity. A small emphasis on 'key client'—signaling importance without elaboration.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。廉価モデルの商品を企画中です",
+      "en": "Understood. We're currently developing a budget-friendly product line.",
+      "style": "Straightforward update. Calm, even pacing. Touch of quiet confidence—this is progress worth noting, delivered without fanfare.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "お取引先との覚書を交わせ",
+      "en": "Draw up a memorandum of understanding with our trading partners.",
+      "style": "Direct, formal. Each word carries equal weight. No inflection—the instruction itself is what matters. Executed tone.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お客様のご要望に即日でご対応します",
+      "en": "Understood. We'll respond to client requests same-day, without exception.",
+      "style": "Firm commitment delivered evenly. A quiet emphasis on 'same-day'—showing he's internalized the standard. Concluding tone: door closing on discussion.",
+      "mood": "committed"
+    }
+  ]
+}

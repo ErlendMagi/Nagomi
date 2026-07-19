@@ -1,0 +1,86 @@
+{
+  "id": "conv_08806",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 縮減/教示/貸し付け/取り付ける/通帳/差し止め/持ち株/引き下げる",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "縮減",
+    "教示",
+    "貸し付け",
+    "取り付ける",
+    "通帳",
+    "差し止め",
+    "持ち株",
+    "引き下げる"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_442 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、経費を縮減しろ",
+      "en": "Cut costs across the company.",
+      "style": "Clipped, authoritative. Direct eye contact. No flourish. The tone of someone accustomed to being obeyed. Brief pause after the period—lets the directive settle.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。お得意様にも丁寧にご教示いたします",
+      "en": "Understood. I'll brief our key accounts on the changes with full care.",
+      "style": "Respectful but not deferential. Measured tempo. Slight forward lean. Shows he's already thinking through logistics. Finishes with quiet assurance—he's got this.",
+      "mood": "focused_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、お得意様への貸し付け限度額を見直せ",
+      "en": "Review the credit limits we extend to our valued clients.",
+      "style": "Steady, declarative. Controlled breath. No inflection that softens the order. Eyes forward. The assumption of competence without need for elaboration.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。電光看板を取り付ける手配を進めました",
+      "en": "Yes, sir. I've already arranged for the LED signage installation to move forward.",
+      "style": "Efficient, matter-of-fact. Quick tempo—shows initiative. No hesitation. The tone of someone reporting progress without seeking praise, just acknowledging it's done.",
+      "mood": "proactive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社員の通帳管理に厳しく対応しろ",
+      "en": "Tighten controls on employee bank account management throughout the company.",
+      "style": "Firm, unambiguous. Slight drop in pitch on the last clause for emphasis. No room for interpretation. The voice of someone who has seen negligence before.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。違法販売の差し止め申請を準備しております",
+      "en": "Yes, sir. We're preparing the paperwork to halt the illegal sales operations immediately.",
+      "style": "Calm, assured. Professional tempo. Understates the seriousness slightly—this is routine for him. Delivers the update as though it's already handled.",
+      "mood": "composed_professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、持ち株比率を見直せ",
+      "en": "Reassess our shareholding structure.",
+      "style": "Clipped, deliberate. Pause between words. The economy of language from someone accustomed to boardroom precision. No elaboration needed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。仕入れ価格を引き下げる交渉を進めます",
+      "en": "Understood. I'll push forward with negotiations to reduce our procurement costs.",
+      "style": "Confident closure. Steady pace, slight lift at the finish line—sets up the next action. Tone of someone wrapping up a briefing and moving to execution.",
+      "mood": "determined"
+    }
+  ]
+}

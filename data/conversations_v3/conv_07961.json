@@ -1,0 +1,86 @@
+{
+  "id": "conv_07961",
+  "context": "Mom and son chat",
+  "purpose": "Teach: 苦しん/吹い/溶け/埋める/泣か/空っぽ/傷つく/嫌がる",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "苦しん",
+    "吹い",
+    "溶け",
+    "埋める",
+    "泣か",
+    "空っぽ",
+    "傷つく",
+    "嫌がる"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_400 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖母ちゃん、長く苦しんでらしたから心配だわ",
+      "en": "Sho, Grandma was suffering for such a long time. I was so worried about her.",
+      "style": "Soft, distant tone. Speaking partly to herself. A pause before his name — like gathering herself. Tender but tired. Not looking for reassurance, just... saying it aloud.",
+      "mood": "melancholic_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お父さんが風船を吹いてくれたよ",
+      "en": "Mom, Dad blew up a balloon for me!",
+      "style": "Bright, sudden energy. Quick attack on the excitement. Pulling her attention toward something lighter. A child's gift: distraction wrapped in joy.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、アイスが溶けるわよ",
+      "en": "Sho, your ice cream is melting.",
+      "style": "Gentle redirect. Practical, but not sharp. A soft touch on the wrist — mother-voice finding the thread back to the present moment.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お庭の穴をぼくが埋めるね",
+      "en": "Mom, I'm going to fill in the hole in the garden!",
+      "style": "Earnest, purposeful. Quick, eager tempo. Like he's offering something he thinks matters. Small voice trying to be helpful, to fix something.",
+      "mood": "eager_helpful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お祖父ちゃんは泣かないお人よ",
+      "en": "Sho, Grandpa doesn't cry. He's not that kind of person.",
+      "style": "Quiet, careful explanation. Speaking as if to herself as much as to him. Steady — teaching him something she believes matters. No lilt at the end.",
+      "mood": "steady_melancholic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼくの貯金箱、空っぽだよ",
+      "en": "Mom, my piggy bank is empty.",
+      "style": "Small, matter-of-fact voice with an undertone of quiet realization. Not complaining — observing. The way children report facts that hurt without naming the hurt.",
+      "mood": "wry_sad"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お友達を傷つく言葉、絶対ダメよ",
+      "en": "Sho, you must never say things that hurt your friends. Never.",
+      "style": "Firmer. Steady conviction without harshness. The word 'never' lands with quiet weight. She's drawing a line he needs to see, but her voice stays warm.",
+      "mood": "firm_loving"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お野菜を嫌がるよ",
+      "en": "Mom, I don't like vegetables.",
+      "style": "Small, resigned voice. Almost matter-of-fact, like he's already lost this argument a hundred times. A whisper of wry acceptance underneath.",
+      "mood": "wry_resigned"
+    }
+  ]
+}

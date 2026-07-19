@@ -1,0 +1,62 @@
+{
+  "id": "conv_01347",
+  "context": "Hina catches a cold; Sho visits her.",
+  "purpose": "children cold-visit exchange",
+  "ambient": "bedroom_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "風邪",
+    "一緒",
+    "頑張る",
+    "優しい",
+    "友達"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_068)",
+    "generated_at": "2026-05-27T05:19:45.107Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ひな、風邪、本当、大丈夫？",
+      "en": "Hina… are you really okay with your cold?",
+      "style": "Soft, careful opening. Quiet worry underneath genuine care. Pause before her name — checking if she's awake. Small voice, small person, real tenderness.",
+      "mood": "concerned_gentle"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、本当、ありがとう。",
+      "en": "Yeah, I'm really okay. Thanks.",
+      "style": "Bright and genuine, not forced. The warmth of feeling noticed and cared for. Quick on the 'yeah,' softer on the thanks. Real child voice, unperformed.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "優しい、ジュース、持ってきた。",
+      "en": "I brought you juice. Because I care.",
+      "style": "Quiet offering, no fanfare. Matter-of-fact delivery — this is just what you do for a friend. Small voice but steady. Pride in the act, not the announcement.",
+      "mood": "tender_devoted"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "友達、本当、嬉しい、ね。",
+      "en": "Having a friend like you… that makes me really happy.",
+      "style": "Warm and sincere, the bright voice of a child who has been made to feel seen. Slight rise at the end on 'ね' — seeking agreement, offering connection.",
+      "mood": "warm_appreciated"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "頑張って、治して、ね。",
+      "en": "Get better soon, okay? You can do it.",
+      "style": "Gentle encouragement, the soft conviction of a six-year-old. Small but steady tone. Trailing softly at the end — a promise, not a demand.",
+      "mood": "tender_encouraging"
+    }
+  ]
+}

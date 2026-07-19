@@ -1,0 +1,61 @@
+{
+  "id": "conv_01868",
+  "context": "Hina-young joins a calligraphy club; tells Mei excitedly.",
+  "purpose": "Teen sharing new club hobby with adult mentor.",
+  "ambient": "kitchen_evening_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "書道",
+    "部活",
+    "筆",
+    "楽しい"
+  ],
+  "cast": [
+    "hina_child",
+    "mei_romantic"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_094)",
+    "generated_at": "2026-05-27T08:24:49.810Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "メイさん、書道部、入った!",
+      "en": "Mei, I joined the calligraphy club!",
+      "style": "Eager, bright opening. Quick tempo on the announcement itself, then a small warm pause after saying Mei's name—she's sharing something with someone she trusts. Light, genuinely happy.",
+      "mood": "excited_proud"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "まあ、素敵!",
+      "en": "Oh, how wonderful!",
+      "style": "Soft surprise and delight. Warm, genuine—not performative. A steady, approving nod in the voice. Unhurried, making room for Hina's joy.",
+      "mood": "warmly_pleased"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "筆、握り方、教わってる。",
+      "en": "I'm learning how to hold the brush.",
+      "style": "Attentive, almost meditative tone. Speaking carefully about something new she's discovering. Soft enthusiasm—the focus is on the learning itself, not on impressing anyone. Slight wonder underneath.",
+      "mood": "focused_engaged"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "楽しい?",
+      "en": "Are you enjoying it?",
+      "style": "Genuine quiet check-in. Not probing—just noticing and asking because she cares. Warm, unhurried tempo. The kind of question that invites honesty rather than performance.",
+      "mood": "gently_curious"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、心、落ち着く!",
+      "en": "Yeah, it calms my mind.",
+      "style": "Soft, clear realization. A small smile in the voice. She's discovering something true about herself and saying it simply, without fanfare. Content, peaceful tempo.",
+      "mood": "calm_content"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "conv_00126",
+  "context": "A quiet office cafeteria, twelve-thirty. Yuki has come down with her bento; Asuka (visiting the building for a separate meeting) recognises her from a friend-of-a-friend introduction last month.",
+  "purpose": "small lunch encounter — half-strangers, finding common ground",
+  "ambient": "office_open_plan",
+  "target_vocab": [
+    "本当に",
+    "今日",
+    "一緒",
+    "時間",
+    "元気",
+    "どう"
+  ],
+  "cast": [
+    "yuki_office",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "あれ…田中さん、ですよね？",
+      "en": "Oh — Ms. Tanaka, is that right?",
+      "style": "Soft, uncertain recognition flickering across her face. Lunch tray pauses mid-gesture. Polite, searching tone. Testing memory.",
+      "mood": "uncertain_recognition"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "えっ…木村さん。…先月の、お食事の。",
+      "en": "Oh! Ms. Kimura. …From last month's dinner.",
+      "style": "Small rush of genuine pleasure breaking through. Sets her bento down carefully. Warm realization settling into her voice.",
+      "mood": "warm_recognition"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "良かった、覚えてもらえてて。一緒に座っても？",
+      "en": "I'm glad you remembered. Do you mind sitting with me?",
+      "style": "Steady, genuinely kind — no performance in it. Warm directness. The invitation of someone used to putting others at ease.",
+      "mood": "warm_welcoming"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。…本当に、奇遇ですね。",
+      "en": "Of course. …What a lovely coincidence, really.",
+      "style": "Genuine delight in the surprise. Voice carries the full moment — unhurried, present. A small smile underneath the words.",
+      "mood": "delighted_present"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "今日、こちらでミーティングで。",
+      "en": "I've got a meeting here today, actually.",
+      "style": "Light, contextual — matter-of-fact without coldness. Settling into the conversation. Natural breath, no rushing.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "お忙しい中、いつもありがとうございます。",
+      "en": "Thank you for all you do, truly.",
+      "style": "Earnest gratitude, reflexive but unperformed. Quiet sincerity. Gentle delivery — not self-deprecating, just genuinely meant.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "田中さんも、最近お元気？",
+      "en": "And how have you been? Lately?",
+      "style": "Steady, genuinely attentive inquiry. Open presence. She's not filling silence — she's actually waiting to hear.",
+      "mood": "attentive_caring"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "元気です。…本当に、少しずつ。",
+      "en": "I'm doing well. …Truly, getting better, little by little.",
+      "style": "Honest, unhurried answer. No rush. Slight warmth in the admission of gradual progress. Voice settles into the moment.",
+      "mood": "honest_hopeful"
+    }
+  ]
+}

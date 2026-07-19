@@ -1,0 +1,86 @@
+{
+  "id": "conv_06633",
+  "context": "A doctor discusses a difficult case",
+  "purpose": "Teach: 凶悪/両論/貫い/逃走/生き延び/芽生え/すれ違い/院生",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "凶悪",
+    "両論",
+    "貫い",
+    "逃走",
+    "生き延び",
+    "芽生え",
+    "すれ違い",
+    "院生"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、ICUの患者さん、凶悪事件の被害者でした。",
+      "en": "The patient in the ICU — he was a victim of a serious crime.",
+      "style": "Steady, direct. Delivers difficult information without softening it, but with care underneath. Clear eye contact. Shoulders settled.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "治療方針、医療界でも、賛否両論があったんですよね。",
+      "en": "There was disagreement in the medical community about the treatment approach, wasn't there?",
+      "style": "Thoughtful, genuinely interested. Leaning forward slightly. Not pressing — asking to understand the weight of the decision, not to challenge it.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。医師として、自分の信念を貫いた治療を選びました。",
+      "en": "Yes. I chose to follow my conviction as a physician and pursue the treatment I believed in.",
+      "style": "Quiet firmness. Not defensive. Words chosen carefully, each one steady. A moment of pause before speaking — choosing honesty over easier phrases.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "術後、患者さん、リハビリから、逃走しようとしたって?",
+      "en": "After surgery, he tried to escape from rehab?",
+      "style": "Careful curiosity. Not sensationalizing — trying to understand the moment. Gentle question, waiting for context. A slight lean-in.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。彼は、奇跡的に生き延びた患者の一人です。",
+      "en": "Yes. He's one of the few patients who survived against the odds.",
+      "style": "Reflective, almost distant. A small exhale. Speaking from experience, not explanation. Tone carries weight — this patient has stayed with her.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "患者の心に、希望が芽生え始める瞬間、感動的ですね。",
+      "en": "That moment when hope starts to take root in a patient's heart — that's truly moving.",
+      "style": "Quiet wonder. Genuine emotion breaking through the careful politeness. Slower pace. The recognition of something he hasn't quite seen before in medicine, spoken with real feeling.",
+      "mood": "inspired"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。家族とのすれ違い、医療を通じて、解消されました。",
+      "en": "Yes. The distance between him and his family — it resolved through the process of care.",
+      "style": "Measured, almost meditative. Not triumphant. Speaking from observation, not judgment. A gentle acknowledgment of healing that happened outside of medicine but because of medicine.",
+      "mood": "gentle"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "院生として、こうした臨床例、勉強させていただいています。",
+      "en": "As a graduate student, I'm learning so much from cases like this.",
+      "style": "Respectful closing, but genuine. Not just formal politeness — real gratitude underneath. Grounding himself in the role of learner. Eyes steady, present.",
+      "mood": "grateful"
+    }
+  ]
+}

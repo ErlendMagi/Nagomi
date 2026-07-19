@@ -1,0 +1,84 @@
+{
+  "id": "conv_04453",
+  "context": "A boss and his manager debate world headlines over coffee",
+  "purpose": "Teach: メキシコ/ピーター/ジョージ/ジャック/マイケル/トム/チベット/靖国",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "メキシコ",
+    "ピーター",
+    "ジョージ",
+    "ジャック",
+    "マイケル",
+    "トム",
+    "チベット",
+    "靖国"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_224 workflow ww078rn24)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今朝のニュース見たか？メキシコの大統領がまた何か言ってたぞ。",
+      "en": "Did you see the news this morning? The Mexican president was saying something again.",
+      "style": "Gruff executive tone with morning irritation."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、見ましたよ。記者のジョージさんが鋭い質問を投げかけていましたね。",
+      "en": "Yeah, I saw it. The reporter George asked some pointed questions, didn't he.",
+      "style": "Polite subordinate offering measured, slightly hedging commentary."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ジョージか。あの番組の司会者、確かトムさんだったよな。妙に落ち着いてた。",
+      "en": "George, huh. The host of that program was Tom, right? He was strangely calm.",
+      "style": "Opinionated and conversational with confident bluster."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうですね。後半でジャックさんという解説者も出てきて、別の角度から話してました。",
+      "en": "Right. Later a commentator named Jack came on and discussed it from another angle.",
+      "style": "Bringing additional context with deferential, careful phrasing."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。うちの会社のコンサルのマイケル、あいつなら何て言うかな。",
+      "en": "Hmm. Our company's consultant Michael, I wonder what he'd say.",
+      "style": "Musing aloud while name-dropping a familiar acquaintance."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今度ピーター部長と一緒に来日するそうですから、その時に伺ってみては？",
+      "en": "Apparently he's coming to Japan with Director Peter soon, so maybe ask him then?",
+      "style": "Practical suggestion delivered with respectful business register."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いいな。それより中国とチベットの問題、最近どう動いてる？",
+      "en": "Good idea. More importantly, how is the China-Tibet issue moving lately?",
+      "style": "Dismissive pivot toward a heavier geopolitical topic."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "膠着状態らしいです。日本も靖国の話題が出るとまた揉めますし、難しいですよね。",
+      "en": "Apparently it's at a stalemate. When Yasukuni comes up here too, things get messy. It's tough.",
+      "style": "Thoughtful, careful navigation of sensitive political subjects."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "全くだ。コーヒーもう一杯頼むか。話の続きはそれからにしよう。",
+      "en": "Absolutely. Shall we order another coffee? Let's continue the discussion after that.",
+      "style": "Boss closing the round with a casual command."
+    }
+  ]
+}

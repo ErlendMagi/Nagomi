@@ -1,0 +1,61 @@
+{
+  "id": "conv_01583",
+  "context": "Kenji walks Hina-young to school in a thunderstorm; comforting talk.",
+  "purpose": "Uncle figure walking child through fear.",
+  "ambient": "street_storm_umbrella",
+  "sound_effects": [],
+  "target_vocab": [
+    "雷",
+    "傘",
+    "怖い",
+    "一緒"
+  ],
+  "cast": [
+    "kenji_office",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_079)",
+    "generated_at": "2026-05-27T06:36:40.646Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "健司おじちゃん、雷怖い。",
+      "en": "Kenji-ojichan, I'm scared of the thunder.",
+      "style": "Small, vulnerable admission. Immediate trust in the voice — she's not performing fear, she's seeking reassurance. Soft opening, slight tremor barely held back.",
+      "mood": "scared_trusting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "大丈夫、傘一緒に持っとこ。",
+      "en": "It's okay — let's hold the umbrella together.",
+      "style": "Immediate, steady protection. Warm Kansai lilt softening the words. No hesitation — just quiet certainty that he's here. Slight lean into the tenderness.",
+      "mood": "protective"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがとう、安心する。",
+      "en": "Thanks — it feels safer.",
+      "style": "Relief blooming in real time. Grateful, exhaled as if she can finally breathe. Small voice but steadier now. The safety landing in her shoulders.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おじちゃんおるから、心配いらん。",
+      "en": "Ojichan's right here — nothing to worry about.",
+      "style": "Gentle assertion, not a lecture. Warm Kansai dialect wrapping around the words like a blanket. Steady presence held in the voice — he means every word of it.",
+      "mood": "calm_steadfast"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、ありがとうね。",
+      "en": "Yeah — thank you.",
+      "style": "Small, genuine gratitude. No performance. Quiet contentment settling in — the kind of yes that means she believes him. Voice softer, held closer.",
+      "mood": "grateful"
+    }
+  ]
+}

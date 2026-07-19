@@ -1,0 +1,86 @@
+{
+  "id": "conv_06462",
+  "context": "Two friends chat",
+  "purpose": "Teach: 払え/堅い/出れ/きつく/貸す/休ま/おかあさん/かわいく",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "払え",
+    "堅い",
+    "出れ",
+    "きつく",
+    "貸す",
+    "休ま",
+    "おかあさん",
+    "かわいく"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "今月、家賃、しっかり払えるか、心配。",
+      "en": "I'm worried I won't be able to cover rent this month.",
+      "style": "Hesitant opening. Quiet admission, not asking for reassurance but letting it out. Breath catches slightly on 'rent.' Vulnerable and a little ashamed.",
+      "mood": "worried"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん。気持ちは堅いから、大丈夫だよ。",
+      "en": "Yeah. You've got a strong heart, though. You'll be okay.",
+      "style": "Warm and steady. Not dismissive — meeting her worry with quiet conviction. Slight lean forward, the reassurance of someone who's listening. Even, grounding pace.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "家から出れない日も、たまにある。",
+      "en": "There are days I just can't bring myself to leave the house.",
+      "style": "Soft, matter-of-fact. Not dramatic. Speaking from inside the experience, not about it. Small trailing-off on 'house' — acknowledging she's shared something vulnerable.",
+      "mood": "weary"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "体調、きつく感じる時、無理しないでね。",
+      "en": "When your body feels that tight, please don't push yourself, okay?",
+      "style": "Gentle instruction wrapped in care. No urgency — paced like someone who knows it's important to hear. Warm, slightly protective. Softens on the final question mark.",
+      "mood": "caring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "本、何冊か貸すよ、気晴らしに。",
+      "en": "I could lend you some books — might give you a little break from your own head.",
+      "style": "Brightens slightly. A small, genuine offer of help. Not trying to fix her, just extending something small and real. Slight warmth returning to the voice.",
+      "mood": "gentle_kindness"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "土日、しっかり休まないと、続かない。",
+      "en": "You can't keep going without proper rest on the weekends. You just can't.",
+      "style": "Gentle firmness. The second sentence echoes the first with quiet emphasis — not lecturing, just insisting gently. Grounded, like speaking from experience.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うちのおかあさん、いつも電話、心配してくれる。",
+      "en": "My mom calls all the time, worrying about me.",
+      "style": "Tender, slightly weary. Recognition of love mixed with the weight of being cared for. Trailing-off at the end — both grateful and a little tired of the worry.",
+      "mood": "loved_burdened"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "店のロゴ、かわいく刷新されたよね。",
+      "en": "Oh, and the shop's logo got refreshed — it turned out pretty cute, actually.",
+      "style": "Gentle tonal shift upward. Softer pivot to something lighter. Small smile in the voice. An offering of normalcy, a way to ease both of them out of the weight. Warm close.",
+      "mood": "gentle_lightness"
+    }
+  ]
+}

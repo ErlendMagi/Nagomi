@@ -1,0 +1,86 @@
+{
+  "id": "conv_08074",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: やみ/がかっ/もしや/ヒロシ/ひろし/ひろ/いじり/ココ",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "やみ",
+    "がかっ",
+    "もしや",
+    "ヒロシ",
+    "ひろし",
+    "ひろ",
+    "いじり",
+    "ココ"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_405 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、やみで売られる偽薬の被害を医療チーム、確認しました",
+      "en": "Ren, we've confirmed cases of counterfeit medication damage on our medical team.",
+      "style": "Clear, direct opening. Steady professional tone. Measured pace—she's sharing serious information but not dramatizing it. Even breath, no flourish.",
+      "mood": "clinical_serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "黄色がかった皮膚症状の患者さん、貴院、診られたんですね、先生",
+      "en": "So your hospital has seen patients with that yellowish skin condition—have you, Doctor?",
+      "style": "Gentle inquiry, respectful deference. Slight lift at the end—genuinely asking, not performing. Ren leans in slightly with real interest.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、もしや感染症かと疑いを持ちました",
+      "en": "Yes. I suspected it might be an infection at first.",
+      "style": "Steady confirmation. Slight pause before 'infection'—she's thinking back. Not defensive, just methodical. Professional clarity underneath.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、ヒロシ・先生のご講演会、ご主催されるそうですね",
+      "en": "I heard your hospital is hosting a lecture by Professor Hiroshi—is that right, Doctor?",
+      "style": "Respectful but engaged. Slight brightness—he's genuinely impressed by this. Careful enunciation, warm curiosity. Not fawning, just attentive.",
+      "mood": "impressed_engaged"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、ひろしいご縁で医師が集まりました",
+      "en": "Yes. Through those connections, doctors from across the region came together.",
+      "style": "Quiet pride, no boasting. Measured pace. She's describing something she believes in—the words land with gentle weight. Composed satisfaction.",
+      "mood": "accomplished_humble"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院は、ひろい地域の医療を支えていらっしゃるんですね、先生",
+      "en": "So your hospital really does support healthcare across a wide region, doesn't it, Doctor?",
+      "style": "Warm realization dawning. Respectful but genuine—he's putting pieces together and admiring what he sees. Thoughtful pace, no rush.",
+      "mood": "warm_realization"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患部をいじり過ぎないよう医療チーム、配慮します",
+      "en": "Yes. We're careful to avoid over-handling the affected areas—our medical team takes that precaution seriously.",
+      "style": "Practical, grounded. She's moving from the bigger picture back to clinical detail. Steady, reassuring tone. The care is in the precision.",
+      "mood": "careful_professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴院、ココアの薬効も研究なさったんですね、先生",
+      "en": "Your hospital has researched cocoa's medicinal properties too, haven't you, Doctor?",
+      "style": "Impressed, gentle wonder. He's piecing together layers of what this hospital does. Thoughtful, slower pace. Respect and curiosity mingled together, trailing into genuine admiration.",
+      "mood": "curious_admiring"
+    }
+  ]
+}

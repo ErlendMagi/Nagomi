@@ -1,0 +1,90 @@
+{
+  "id": "conv_04950",
+  "context": "A police officer briefs a uni reporter on a civil-court story",
+  "purpose": "Teach: 可決/敗訴/先制/紳士/長所/民法/所持/負債",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "可決",
+    "敗訴",
+    "先制",
+    "紳士",
+    "長所",
+    "民法",
+    "所持",
+    "負債"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_249b workflow wwwp084s6)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "君が大学新聞の記者だね。今日は民法絡みの件を簡単に説明しよう。",
+      "en": "You're the university paper's reporter. Let me briefly explain today's civil-law matter.",
+      "style": "Calm, professional, slightly formal greeting tone setting the stage"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "よろしくお願いします。被告側が一審で敗訴したと聞きましたが、本当ですか?",
+      "en": "Thank you in advance. I heard the defendant lost at the first trial—is that correct?",
+      "style": "Polite, eager, student-reporter inquisitive register with formal opener"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、そうだ。原告側が先制の主張を上手く通したのが大きかったな。",
+      "en": "Yes. The plaintiff's side cleanly landed the opening argument—that was decisive.",
+      "style": "Measured, factual, briefing-style explanation with causal framing"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。背景には先月の条例改正の可決もあったと聞きましたが、関係していますか?",
+      "en": "I see. I heard last month's ordinance amendment passed too—was that connected?",
+      "style": "Curious follow-up, note-taking conversational tone seeking clarification"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "間接的にはな。被告は多額の負債を抱え、所持金もほぼ尽きていた状態だった。",
+      "en": "Indirectly, yes. The defendant carried huge debts and had almost no cash left.",
+      "style": "Reflective briefing, layering financial context onto the case"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "厳しい状況だったんですね。法廷での態度はどうだったんですか?",
+      "en": "Sounds like a rough situation. How did he behave in the courtroom?",
+      "style": "Sympathetic curiosity, journalist probing for color detail"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それがな、終始紳士的に振る舞っていたんだ。冷静さは彼の長所だったんだろう。",
+      "en": "That's the thing—he stayed gentlemanly throughout. Composure must have been his strength.",
+      "style": "Reflective, sharing professional observation candidly to the reporter"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "記事を書く上で、何か注意すべき点はありますか?",
+      "en": "Is there anything I should be careful about when writing this article?",
+      "style": "Thoughtful, seeking guidance with journalistic humility and respect"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "個人名は伏せること。判決文の引用も正確にな。憶測で書くのが一番危ない。",
+      "en": "Withhold names, and quote the ruling accurately. Speculation is the most dangerous.",
+      "style": "Firm advisory, mentor-like warning delivered to a junior journalist"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "肝に銘じます。本日はありがとうございました、竹田さん。",
+      "en": "I'll take that to heart. Thank you very much for today, Officer Takeda.",
+      "style": "Respectful closing, grateful student register wrapping up the briefing"
+    }
+  ]
+}

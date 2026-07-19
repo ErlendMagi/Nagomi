@@ -1,0 +1,79 @@
+{
+  "id": "conv_05290",
+  "context": "A police officer briefs a uni reporter about a rally permit",
+  "purpose": "Teach: ビラ/トピックス/ナショナリズム/ビジネスマン/プラザ/農林省/リーディング/請願",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ビラ",
+    "トピックス",
+    "ナショナリズム",
+    "ビジネスマン",
+    "プラザ",
+    "農林省",
+    "リーディング",
+    "請願"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_266 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "駅前プラザでの集会、申請内容を確認しますね。",
+      "en": "The rally at the station plaza—let me confirm the application details with you.",
+      "style": "Warm but procedural. Even, measured pace. Slight lean forward—professional but not stiff. Opening is clear and anchoring, like settling into routine.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。請願書の提出と、ビラの配布が主な活動です。",
+      "en": "Yes. The main activities are filing a petition and distributing informational flyers.",
+      "style": "Respectful, careful. Slightly slower than natural—choosing words precisely. Small pause before listing. Quiet attentiveness, like he's been prepped and wants to get it right.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "今週のトピックスとして、農林省への陳情ですね。",
+      "en": "So this week's topic is a petition to the agriculture ministry, is that right?",
+      "style": "Light confirmation, not interrogative. Matter-of-fact but warm. Eyes up from the form for a moment. Conversational check-in, not a test.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ナショナリズム色の強い演出はしないと、主催者は明言しています。",
+      "en": "Yes. The organizers have been explicit that they're avoiding any heavy nationalist framing.",
+      "style": "Steady and sincere. Slight emphasis on 'explicit'—he's defending the organizers without sounding defensive. Measured breath, like he's thought about this.",
+      "mood": "responsible"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "リーディング企業の関係者も招待しているとか。",
+      "en": "And I understand you're also inviting representatives from some of the major firms in the area.",
+      "style": "Gentle curiosity. Not accusatory. Natural inflection, like moving down a checklist but genuinely interested in the answer. Relaxed authority.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ビジネスマンの参加が、地域経済にもプラスになると見込んでいます。",
+      "en": "Yes. We expect that having business participation will actually be a benefit to the local economy.",
+      "style": "Confident but not rehearsed. Light emphasis on 'benefit'—he believes this. Steady eye contact. Slightly more natural cadence now, settling into the conversation.",
+      "mood": "optimistic"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "分かりました。許可、明日朝に出ます。",
+      "en": "Got it. The paperwork will be processed and approval should come through first thing tomorrow morning.",
+      "style": "Decisive close. Cleaner pace. Brief, kind—reassurance wrapped in efficiency. Slight nod. The tone that says 'you're cleared, well done.'",
+      "mood": "assured"
+    }
+  ]
+}

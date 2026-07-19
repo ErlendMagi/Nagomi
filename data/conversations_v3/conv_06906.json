@@ -1,0 +1,86 @@
+{
+  "id": "conv_06906",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 差額/草案/均一/雇っ/宛て/簿記/終身/巻き込ん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "差額",
+    "草案",
+    "均一",
+    "雇っ",
+    "宛て",
+    "簿記",
+    "終身",
+    "巻き込ん"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_347 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "前回との売上の差額、原因を、突き止めろ、対策、必要だ。",
+      "en": "Find what's causing the gap between our sales and last quarter's. We need a strategy.",
+      "style": "Sharp, measured authority. Direct eye contact. Each clause lands with precision. No wasted breath or softening. The tone of someone used to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新方針の草案、明日まで、ご提出いたします、検討材料として。",
+      "en": "Yes, sir. I'll have a draft of the new approach ready by tomorrow as material for your review.",
+      "style": "Respectful clarity. Slightly faster than Hiroshi—eager to confirm understanding and move forward. Precise, no filler. The cadence of someone proving their competence.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "価格、市場で、均一に、保てるよう、競合の動向、見ろ。",
+      "en": "Keep the pricing stable across the market. Watch what the competitors are doing.",
+      "style": "Instruction given as fact. Slight pause before the second sentence for emphasis. Calm but expecting action. The confidence of someone who doesn't need to repeat themselves.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新人を、十名、雇って、新部署、立ち上げました、業績、寄与しております。",
+      "en": "Yes, sir. We hired ten new staff and set up the new division—it's already contributing to the numbers.",
+      "style": "Pride underneath the professionalism. Slightly faster, wanting to show progress made. Warmth enters the voice here, not servile but genuinely pleased with the team's work.",
+      "mood": "proud"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "重要書類、社長宛て、確認するから、すぐ、持ってこい。",
+      "en": "The important documents addressed to the president—I need to review them. Bring them now.",
+      "style": "Urgency without raising volume. Clipped, efficient phrasing. The 'now' lands with quiet weight. This is non-negotiable business, not a request.",
+      "mood": "urgent"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理の簿記、デジタル化、進めております、効率化、図っております。",
+      "en": "Yes, sir. We're digitizing the accounting ledgers and working to improve efficiency across the department.",
+      "style": "Steady, deliberate. Showing ongoing initiative without overstating it. Measured pace, respect for the process. Demonstrating both follow-through and forward-thinking.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "終身雇用、当社、続けていく方針だ、社員に、安心、与えろ。",
+      "en": "Lifetime employment is the direction we're continuing here. Make sure the staff knows they have security.",
+      "style": "Considered, almost philosophical compared to the earlier directives. A moment of conviction. Slower pace, weight behind the words. This is principle, not just instruction.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。他部署を、巻き込んで、新事業、推進しております、横断的に、進めています。",
+      "en": "Yes, sir. I'm coordinating across departments to push the new business initiative forward. It's all moving in sync.",
+      "style": "Engaged and energized. Slightly increased tempo showing momentum and coordination. The language opens up—less clipped, showing full ownership of cross-functional effort.",
+      "mood": "collaborative"
+    }
+  ]
+}

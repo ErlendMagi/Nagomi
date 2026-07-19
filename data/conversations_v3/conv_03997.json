@@ -1,0 +1,78 @@
+{
+  "id": "conv_03997",
+  "context": "A uni student asks a teacher about research methodology",
+  "purpose": "Teach: 英会話/学力/用紙/習得/用いる/仮定/抽象/率直",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "英会話",
+    "学力",
+    "用紙",
+    "習得",
+    "用いる",
+    "仮定",
+    "抽象",
+    "率直"
+  ],
+  "cast": [
+    "ren_uni",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、卒論のテーマで相談があるんですが、率直に言ってまだ方向性が定まらなくて…",
+      "en": "Professor, I'd like to consult about my thesis topic. Frankly, I haven't settled on a direction yet.",
+      "style": "Hesitant student opening, polite but slightly anxious tone."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "なるほど。今のところ、何を仮定として立てているの?",
+      "en": "I see. So what hypothesis are you working with at the moment?",
+      "style": "Calm teacher voice, gentle probing question with rising end."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "日本人の英会話力と高校時代の学力には相関があるんじゃないか、と思っているんです。",
+      "en": "I'm thinking there might be a correlation between Japanese people's English conversation ability and their high school academic performance.",
+      "style": "Tentative academic register, sentence-final softening with nan-desu."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白い切り口ね。ただ「学力」という言葉が抽象的すぎるから、もう少し定義を絞った方がいいわ。",
+      "en": "An interesting angle. But the term 'academic ability' is too abstract — you should narrow the definition a bit.",
+      "style": "Constructive critique, warm mentor tone with feminine sentence endings."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに…。具体的には、どんな手法を用いるべきでしょうか?",
+      "en": "True… Specifically, what kind of method should I use?",
+      "style": "Thoughtful pause, formal humble-form question to senior."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "アンケート用紙を配って、第二言語習得の理論と照らし合わせるのが手堅いやり方ね。",
+      "en": "Handing out survey forms and cross-referencing with second-language acquisition theory is a solid approach.",
+      "style": "Practical advisory tone, listing concrete research steps clearly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど、それなら仮定の検証もしやすそうですね。来週までに設計案をまとめてきます。",
+      "en": "I see — that would make verifying the hypothesis easier too. I'll put together a design proposal by next week.",
+      "style": "Energized closing from student, slightly more confident pace now."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "うん、楽しみにしてるわ。頑張ってね。",
+      "en": "Yes, I'm looking forward to it. Good luck.",
+      "style": "Warm encouraging closer, soft maternal teacher delivery."
+    }
+  ]
+}

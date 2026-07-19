@@ -1,0 +1,75 @@
+{
+  "id": "conv_02976",
+  "context": "Kenji helps Ren digitize work documents.",
+  "purpose": "WIDENED SCENARIO: tech/office; vocabulary (勤務/バイト/出席/継続/文書) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勤務",
+    "バイト",
+    "出席",
+    "継続",
+    "文書"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_149)",
+    "generated_at": "2026-05-29T15:03:18.593Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "勤務の文書を、電子化したいんです。",
+      "en": "I want to digitize the work documents.",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出席の記録も、含めますか?",
+      "en": "Do we include the attendance records too?",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、出席も文書にまとめます。",
+      "en": "Yes, I'll compile attendance into documents too.",
+      "style": "reliable young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "バイトの分も、継続して残しましょう。",
+      "en": "Let's keep the part-timers' records continuously too.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "バイトの勤務も、増えていますね。",
+      "en": "Part-timers' shifts are increasing.",
+      "style": "measured young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "文書を継続管理すれば、楽になります。",
+      "en": "Continuously managing documents makes it easier.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "勤務の流れが、見やすくなりますね。",
+      "en": "The work flow becomes easier to see.",
+      "style": "satisfied young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "出席も文書も、一つにまとめましょう。",
+      "en": "Let's unify attendance and documents.",
+      "style": "warm office man voice, soft warm closing throughout"
+    }
+  ]
+}

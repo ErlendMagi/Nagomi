@@ -1,0 +1,84 @@
+{
+  "id": "conv_04035",
+  "context": "A senior shows a new hire around the office on day one",
+  "purpose": "Teach: デスク/ルーム/扉/電波/交代/パック/タウン/大抵",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デスク",
+    "ルーム",
+    "扉",
+    "電波",
+    "交代",
+    "パック",
+    "タウン",
+    "大抵"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "おはよう、初日だね。君のデスクはこっち、窓際の席だよ。",
+      "en": "Good morning, first day huh. Your desk is over here, by the window.",
+      "style": "Warm senior welcoming a new hire casually"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。広くて綺麗ですね、緊張します。",
+      "en": "Thank you. It's spacious and clean, I'm a bit nervous.",
+      "style": "Polite young new hire showing slight nerves"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "奥の扉が会議ルームね。打ち合わせは大抵あそこでやるよ。",
+      "en": "The door at the back is the meeting room. We usually have discussions there.",
+      "style": "Senior pointing things out matter-of-factly while walking"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。あの、この辺りは電波が弱かったりしますか?",
+      "en": "I see. Um, is the signal reception weak around here by any chance?",
+      "style": "Curious new hire asking a practical question politely"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "窓際なら平気。奥だと電波が入りにくいから注意してね。",
+      "en": "By the window it's fine. Deeper inside the signal gets weak, so be careful.",
+      "style": "Senior giving practical office tips in friendly tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お昼はどうされてますか?この辺、お店ありますか?",
+      "en": "What do you do for lunch? Are there shops around here?",
+      "style": "New hire asking about daily routine respectfully"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "隣のタウンまで歩けばコンビニで弁当パックが買えるよ。",
+      "en": "If you walk to the next town over, you can buy bento packs at the convenience store.",
+      "style": "Senior sharing helpful local food info kindly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "助かります。電話番の交代とかもあるんですか?",
+      "en": "That helps. Is there a phone duty rotation or anything like that?",
+      "style": "New hire continuing to ask about office duties politely"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "あるよ。週ごとに交代制だから、来週から君もお願いね。",
+      "en": "Yeah there is. It rotates weekly, so starting next week you're on too.",
+      "style": "Senior assigning duty in casual but clear manner"
+    }
+  ]
+}

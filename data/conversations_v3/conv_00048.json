@@ -1,0 +1,97 @@
+{
+  "id": "conv_00048",
+  "context": "A train carriage on a slow afternoon line. Naoko and Sachiko end up on facing seats; Naoko, predictably, opens the conversation first.",
+  "purpose": "cross-region elder bonding — Osaka brashness meets Tokyo softness",
+  "ambient": "train_carriage",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "大変",
+    "一人",
+    "家族"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_003)",
+    "generated_at": "2026-05-26T18:02:38.884Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お一人ですか？お疲れさん。",
+      "en": "Travelling alone? You're doing great.",
+      "style": "Loud, warm call across the aisle with zero hesitation. Kansai brightness cuts through the quiet carriage. No preamble—just immediate recognition and kindness.",
+      "mood": "bright_kind"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "あら、はい…さちこと申します。",
+      "en": "Oh — yes. I'm Sachiko.",
+      "style": "Soft, formal Tokyo cadence. The slight vocal hesitation of older speech patterns. A polite bow lives in the phrasing.",
+      "mood": "courteous"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "なおこです。今、東京戻り？",
+      "en": "Naoko. You heading back to Tokyo?",
+      "style": "Already moving to first names—Kansai economy of warmth. Direct, no wasted courtesy. Leans in with genuine interest.",
+      "mood": "direct_warm"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "はい、息子の家へ。家族と少しだけ。",
+      "en": "Yes — to my son's place. Just a quick visit with the family.",
+      "style": "Straightforward, the ease of someone relieved by directness. A small lift of pleasure at being asked the right question.",
+      "mood": "settled"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ええなあ。うちは、子供おらんけど、姪が三人。",
+      "en": "Lucky you. No kids of my own, but I've got three nieces.",
+      "style": "Volunteers it without bitterness—just the honest inventory. Matter-of-fact Kansai tone. No envy, only affection for what she has.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "まあ、三人も。にぎやかでしょう。",
+      "en": "Three! My goodness. That must keep things lively.",
+      "style": "Genuine delight breaks through. A small internal clap of joy at the image. Warm, unguarded, the pleasure of an older person recognizing abundance.",
+      "mood": "delighted"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "本当にうるさい。でも、それでええ。",
+      "en": "Lord, they're loud. But that's the way it should be.",
+      "style": "A big Kansai grin lives in the voice. The warmth of the contradiction—noise as love. Confident, unrepentant, generous.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "わかります。…一人の時間も、大変だから。",
+      "en": "I understand. …Being alone—that can be hard too.",
+      "style": "Half a step quieter, a shade more tender. A small truth-telling moment. The vulnerability sits light but real.",
+      "mood": "reflective"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "やんなあ。今度、関西来た時、連絡しいや。",
+      "en": "Exactly. Next time you're in Kansai — you call me, yeah?",
+      "style": "Pulls out a card in the voice—practical, immediate Kansai care. The promise is already fact. Warm and businesslike at once.",
+      "mood": "protective_genuine"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "本当に？嬉しいです。ありがとうございます。",
+      "en": "Really? That makes me so happy. Thank you—truly.",
+      "style": "A real bow lives inside the voice. The 「嬉しい」 unforced and genuine. Formal gratitude that carries real feeling underneath.",
+      "mood": "touched_grateful"
+    }
+  ]
+}

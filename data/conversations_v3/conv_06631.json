@@ -1,0 +1,86 @@
+{
+  "id": "conv_06631",
+  "context": "A police officer discusses a major case",
+  "purpose": "Teach: 凶悪/両論/貫い/逃走/生き延び/芽生え/すれ違い/院生",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "凶悪",
+    "両論",
+    "貫い",
+    "逃走",
+    "生き延び",
+    "芽生え",
+    "すれ違い",
+    "院生"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、凶悪犯罪として、捜査本部、立ち上げました。",
+      "en": "We've established a task force to investigate this case as a serious violent crime.",
+      "style": "Measured official tone. Clear, direct statement. Slight pause after the opening phrase. Even pacing, professional register. No embellishment.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メディアで賛否両論、報じられていますね。",
+      "en": "The media's been reporting conflicting views about it, hasn't it?",
+      "style": "Respectful inquiry. Slight hesitation before the observation — not presuming to know the situation fully. Careful phrasing, genuine curiosity beneath the politeness. Leans in slightly.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者は、最後まで沈黙を貫いていました。",
+      "en": "Yes. The suspect has maintained silence throughout questioning.",
+      "style": "Calm factual statement. No inflection of frustration or judgment. Tempo steady and controlled. The register of someone reporting what is simply true.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、逃走経路、特定できそうですか。",
+      "en": "Do you think you'll be able to determine the suspect's escape route?",
+      "style": "Careful phrasing of a question — checking that it's appropriate to ask. Interested, but deferential. Slight rise at the end. Tempo deliberate, not rushed.",
+      "mood": "inquisitive_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。生き延びた被害者の証言、貴重です。",
+      "en": "Yes. The survivor's testimony has been invaluable.",
+      "style": "Acknowledgment with understated weight. Pause before 'invaluable' — respect for what the victim has endured. Quiet confidence in the evidence. Professional but not cold.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地域に防犯意識が、芽生え始めていますよね。",
+      "en": "It seems like the community's awareness about crime prevention has begun to grow.",
+      "style": "Observation more than question. Thoughtful pace, almost reflective. Respectful recognition of a small positive shift. Warm but still measured.",
+      "mood": "observant_hopeful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者と容疑者、過去にすれ違いがあったようです。",
+      "en": "Yes. It appears the victim and suspect had crossed paths in the past.",
+      "style": "Drawing out a significant detail. Measured delivery. Slight weight on 'appears' — indicating this is still being investigated. Tempo steady, almost deliberate.",
+      "mood": "significant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "院生として、警察活動、勉強させていただいています。",
+      "en": "As a graduate student, I'm grateful for the opportunity to learn from your work.",
+      "style": "Sincere gratitude, genuine respect. Soft, humble opening. Steady throughout. Not effusive but clearly earnest. Closes the conversation with quiet dignity.",
+      "mood": "grateful_sincere"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04408",
+  "context": "A police officer briefs a teen reporter on a public-policy issue",
+  "purpose": "Teach: 在日/論争/分科/融合/肯定/決定的/奪わ/有限",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "在日",
+    "論争",
+    "分科",
+    "融合",
+    "肯定",
+    "決定的",
+    "奪わ",
+    "有限"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_222 workflow wo8apf8ix)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今日は在日外国人の支援政策について、署を代表してお話しします。",
+      "en": "Today, representing the station, I'll speak about support policies for foreign residents in Japan.",
+      "style": "Formal officer briefing, measured and professional tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ありがとうございます。最近この件で大きな論争が起きてますよね?",
+      "en": "Thank you. Lately there's been a major controversy over this issue, right?",
+      "style": "Polite but inquisitive teen reporter, slightly nervous"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、警察庁の分科会でも文化の融合をどう進めるか議論されています。",
+      "en": "Yes, even the National Police Agency's subcommittee is debating how to advance cultural integration.",
+      "style": "Patient explanatory delivery, citing institutional sources carefully"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "現場の警察官として、その方針には肯定的なお立場ですか?",
+      "en": "As a frontline officer, do you take a positive stance toward that direction?",
+      "style": "Direct follow-up question with respectful keigo framing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "私個人としては、相互理解が治安の決定的な土台になると考えています。",
+      "en": "Personally, I believe mutual understanding becomes the decisive foundation for public safety.",
+      "style": "Reflective personal opinion, weighty and deliberate phrasing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "でも、誤解で機会を奪われる住民もいるって聞きました。",
+      "en": "But I've heard there are residents who get opportunities taken from them due to misunderstandings.",
+      "style": "Probing concern raised gently, citing reported voices"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "その通りです。警察の人員も予算も有限ですから、地域の協力が不可欠なんです。",
+      "en": "Exactly. Police personnel and budget are finite, so community cooperation is indispensable.",
+      "style": "Candid admission of constraints, appealing for partnership"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "貴重なお話、ありがとうございました。記事にしっかり反映させます。",
+      "en": "Thank you for the valuable conversation. I'll reflect it carefully in my article.",
+      "style": "Closing gratitude with professional commitment, warm tone"
+    }
+  ]
+}

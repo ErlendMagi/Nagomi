@@ -1,0 +1,61 @@
+{
+  "id": "conv_01506",
+  "context": "Hina oversleeps and rushes to school; Sho teases her in the genkan.",
+  "purpose": "Sibling teasing morning chaos; light embarrassment.",
+  "ambient": "genkan_morning_rush",
+  "sound_effects": [],
+  "target_vocab": [
+    "寝坊",
+    "遅刻",
+    "急ぐ",
+    "目覚まし"
+  ],
+  "cast": [
+    "hina_child",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_076)",
+    "generated_at": "2026-05-27T06:15:54.074Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "やばい、寝坊した!",
+      "en": "Oh no — I overslept!",
+      "style": "Sharp panic on the opening. Breathless rush. High register, genuine distress without drama. The voice of someone who just realized the time.",
+      "mood": "panicked"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "目覚まし、鳴ってたで。",
+      "en": "The alarm went off, you know.",
+      "style": "Soft, amused half-observation. Leans on 「で」 with a gentle tease. Warm sibling tone — not cruel, just noticing. Small knowing smile in the voice.",
+      "mood": "gently_teasing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "もう、遅刻しちゃう!",
+      "en": "I'm going to be late!",
+      "style": "Urgent, near-frantic energy. Tight chest. Words tumbling out. Real worry underneath, but channeled into motion. No time to explain.",
+      "mood": "frantic"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "急いだら、間に合うって。",
+      "en": "You'll make it if you hurry.",
+      "style": "Calm steady anchor. Quiet certainty underneath. Soft but not patronizing — he believes it. The voice of someone watching her panic and choosing not to match it.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ありがと、行ってくる!",
+      "en": "Thanks — I'm out!",
+      "style": "Breathless rush. Gratitude compressed into one beat. Already moving. The voice of someone grateful but too late to say more.",
+      "mood": "grateful_rushed"
+    }
+  ]
+}

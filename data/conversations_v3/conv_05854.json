@@ -1,0 +1,65 @@
+{
+  "id": "conv_05854",
+  "context": "A boss reviews a CSR risk note",
+  "purpose": "Teach: ウォン/創価学会/オウム/カルト/伝道/先住民/繁殖/部位",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウォン",
+    "創価学会",
+    "オウム",
+    "カルト",
+    "伝道",
+    "先住民",
+    "繁殖",
+    "部位"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_294 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員勧誘の事例、創価学会と関連を疑う問い合わせがあった。",
+      "en": "We've received inquiries about staff recruitment cases—specifically questioning possible links to Soka-Gakkai.",
+      "style": "Measured opening. Slight weight on the concern, but controlled. Voice level steady. Boss-to-subordinate briefing tone, not alarm.",
+      "mood": "alert_measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。慎重に対応します。過去のオウム事件、カルト対策の参考にしています。",
+      "en": "Understood. We're handling it carefully, using lessons from the Aum incident and standard cult-risk protocols.",
+      "style": "Composed, methodical. Slight nod in the voice on 'understood.' Professional assurance—shows he's already thinking through precedent. Calm, capable delivery.",
+      "mood": "competent_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "地域貢献部門の伝道風活動、先住民コミュニティとの接点、慎重に。",
+      "en": "The community-aid division's outreach activities need scrutiny too—especially any contact with indigenous communities. Proceed with caution.",
+      "style": "Firmer direction now. Boss clarifying scope. Not a suggestion. Weight on 'caution.' Measured but unmissable authority.",
+      "mood": "cautious_directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "繁殖管理事業部位とも、共有しています。",
+      "en": "Understood. We've already briefed the business-operations teams on this.",
+      "style": "Quiet confirmation. No defensiveness, just competence. Clean, efficient. Shows initiative without overstating.",
+      "mood": "assured_compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "海外決済、ウォン建て案件、リスクを再確認。",
+      "en": "And overseas transactions—especially Won-denominated deals. Re-check all risk assessments.",
+      "style": "Closing directive, decisive. Short rhythm. Final note of authority. The weight of closure in his voice.",
+      "mood": "decisive"
+    }
+  ]
+}

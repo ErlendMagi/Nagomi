@@ -1,0 +1,86 @@
+{
+  "id": "conv_06084",
+  "context": "A mom talks with her son after a tough day",
+  "purpose": "Teach: 酔い/湿気/寒かっ/叱ら/落ち込み/思い浮かべ/縁起/引っ張る",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "酔い",
+    "湿気",
+    "寒かっ",
+    "叱ら",
+    "落ち込み",
+    "思い浮かべ",
+    "縁起",
+    "引っ張る"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_306 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、車の中で、ちょっと酔いそうになった。",
+      "en": "Mom, I think I'm getting a little carsick in the car.",
+      "style": "Quiet, matter-of-fact disclosure. No drama. Child's precision in describing exactly what happened. Slight hesitation before speaking, like checking if this is worth mentioning.",
+      "mood": "uncertain_quiet"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "湿気で気持ち悪かったかもね。",
+      "en": "Maybe the humidity made your stomach feel weird.",
+      "style": "Validating and practical. Soft voice, the tone of someone who's heard a hundred small complaints and treats each one seriously. Leans in slightly.",
+      "mood": "gentle_present"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "プールで、足、寒かった。",
+      "en": "The pool — my feet were cold.",
+      "style": "Factual, nearly observational. Linking the physical discomfort back to the day. No self-pity, just noticing. Trailing off slightly, like the sentence keeps the pool's coldness in it.",
+      "mood": "observant_small"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "先生に叱られたの、教えてくれてありがとう。",
+      "en": "Thank you for telling me about what the teacher said.",
+      "style": "Warm and genuine. Not dismissive. Meets his courage in telling her with recognition. Slight emphasis on 'telling me' — acknowledging the trust it took.",
+      "mood": "grateful_proud"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "うん。落ち込みすぎないようにする。",
+      "en": "Yes. I won't let myself sink too far into it.",
+      "style": "Soft conviction. Small voice, but steady. The words land lightly. He's working through something out loud, and he knows she hears him.",
+      "mood": "determined_fragile"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お父さんの笑顔、思い浮かべて、元気出してね。",
+      "en": "Think of Dad's smile when you need a boost.",
+      "style": "Warm and specific. Not a command — a gentle suggestion, like she's handing him a tool she knows works. Tender but not uncertain.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "明日、縁起担ぎに、好きな歌を歌う。",
+      "en": "Tomorrow I'll sing my favorite song for good luck.",
+      "style": "Brighter now. The first real lift in his voice. Still measured — he's not bouncing — but there's forward motion. A small plan taking shape.",
+      "mood": "hopeful_gentle"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "手、しっかり引っ張るみたいに繋いでくれたら、お母さん、安心。",
+      "en": "If you hold my hand really tight like this, it makes me feel safe.",
+      "style": "Soft, intimate. The physical image is the whole thing. Quiet certainty. Her voice is the person who knows exactly what his grip means.",
+      "mood": "secure_tender"
+    }
+  ]
+}

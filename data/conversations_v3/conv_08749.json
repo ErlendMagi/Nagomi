@@ -1,0 +1,86 @@
+{
+  "id": "conv_08749",
+  "context": "Officer briefs",
+  "purpose": "Teach: 序文/ステートメント/コーティング/受領/取締り/移管/とりまとめ/仲間入り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "序文",
+    "ステートメント",
+    "コーティング",
+    "受領",
+    "取締り",
+    "移管",
+    "とりまとめ",
+    "仲間入り"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_439 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、新しい規則手帳の序文を読まれましたか",
+      "en": "Have you had a chance to read the preface to the new regulations handbook?",
+      "style": "Professional but approachable. Opens with measured clarity. Steady cadence, no rush. The tone of someone giving a briefing who respects the listener.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、公式ステートメントを発信されたんですね",
+      "en": "Yes—so the department issued an official statement about it.",
+      "style": "Attentive, confirming understanding back. Slight pause at the dash. Calm tone, not defensive. The rhythm of someone tracking information carefully.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、武器のコーティング技術を研究します",
+      "en": "We're conducting research on weapon-coating technology as part of our modernization efforts.",
+      "style": "Matter-of-fact, informational. Steady pace, professional register. No embellishment—just laying out the facts. Voice sits level.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、被害届の受領を確認いただきました",
+      "en": "Got it. So you've confirmed receipt of the incident report we filed.",
+      "style": "Registering the detail, nodding along. Slightly formal to match the bureaucratic tone. Small beat on the dash. Respectful but not stiff.",
+      "mood": "confirming"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、年末年始の犯罪取締りを強化します",
+      "en": "We're stepping up enforcement operations for the year-end and New Year period.",
+      "style": "Direct statement of action. Even tone, no hesitation. Professional weight without sounding heavy. The cadence of someone announcing a decision.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、捜査資料の移管手続が必要ですね",
+      "en": "Understood. So we'll need to follow the proper procedure for transferring the investigation files.",
+      "style": "Absorbing and restating. Slightly formal, careful with details. Small breath before the second clause. Tone of someone checking off steps.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、市民意見のとりまとめを地域会議でなさいますね",
+      "en": "The community will have a voice in this too—we'll be gathering citizen input through local council meetings.",
+      "style": "Inclusive, reassuring undertone. Steady pace but warmer than before. The opening has slight emphasis on 'community.' Not lecturing, inviting participation.",
+      "mood": "inclusive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、国際警察組織への仲間入りを果たされましたね",
+      "en": "That's great to hear. Congratulations on becoming part of the international police organization.",
+      "style": "Warm, genuine. Slight uptick in vocal energy on the praise. Conversational but respectful. The tone shifts to something more personal, less procedural.",
+      "mood": "warm_respectful"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_08334",
+  "context": "Doctor discusses health",
+  "purpose": "Teach: 祖先/生前/独断/戦死/胎児/判別/二酸化炭素/裁定",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "祖先",
+    "生前",
+    "独断",
+    "戦死",
+    "胎児",
+    "判別",
+    "二酸化炭素",
+    "裁定"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_418 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、祖先の病歴を医療チームで参照しております",
+      "en": "Ren, we're reviewing your family's medical history as a team.",
+      "style": "Even, professional tone. Clear enunciation without coldness. Measured pace that signals care beneath protocol. Direct eye contact level.",
+      "mood": "professional_careful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "生前の医療意思を、貴院、尊重されておられますね、先生",
+      "en": "Your hospital respects the medical wishes your family expressed, doesn't it, Doctor?",
+      "style": "Quiet intensity. Careful word choice — testing ground, not accusing. Soft pause before 'Doctor.' Respectful but searching.",
+      "mood": "thoughtful_seeking"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、患者さんへの独断的な判断は医療チームでも控えます",
+      "en": "Yes. We avoid making unilateral decisions about patients — that's a team principle here.",
+      "style": "Steady reassurance. Slight emphasis on 'team' — not defensive, clarifying. Warm but measured. The voice of someone who's had this conversation before.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "戦死者のご遺族のケアを、貴院、なさってこられましたね、先生",
+      "en": "And your hospital has been caring for families who've lost people in difficult circumstances?",
+      "style": "Soft, almost tentative. The question of someone learning something important. Small pause midway, like he's choosing words carefully. Respectful weight on the final phrase.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、胎児の超音波検査を医療チームで丁寧に行います",
+      "en": "Yes. We conduct prenatal ultrasounds with particular care and attention as a team.",
+      "style": "Unhurried. Gentle shift in subject — purposeful but not jarring. Emphasis lands on 'particular care.' Voice steady, grounded.",
+      "mood": "tender_clinical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "検査値の判別を、貴院、丁寧にされておられますね、先生",
+      "en": "The hospital handles test results with real thoughtfulness, doesn't it, Doctor?",
+      "style": "Understated observation. Not quite asking for validation — more like noticing aloud. Small, appreciative quality to the tone. Voice trails slightly, inviting agreement.",
+      "mood": "appreciative_observant"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、二酸化炭素濃度を病室で監視しております",
+      "en": "Yes. We monitor CO₂ levels in patient rooms continuously.",
+      "style": "Matter-of-fact but not cold. Clinical detail delivered with the weight of care behind it. Steady tempo. Voice carries the idea that small things, done well, matter.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療裁定が下る前から、貴院、ケアを続けておられますね、先生",
+      "en": "You continued caring for families even before any medical ruling came down, didn't you?",
+      "style": "Quietest moment yet. Deep respect underlying every word. Slow pace. Voice soft but not uncertain — the observation of someone moved by what they've witnessed. Trailing fade at the end.",
+      "mood": "awed_grateful"
+    }
+  ]
+}

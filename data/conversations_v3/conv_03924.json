@@ -1,0 +1,72 @@
+{
+  "id": "conv_03924",
+  "context": "A reporter visits a rural area near a power plant and chats with a local",
+  "purpose": "Teach: 原子力/面積/工学/金属/抑制/含ん/規格/代替",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "原子力",
+    "面積",
+    "工学",
+    "金属",
+    "抑制",
+    "含ん",
+    "規格",
+    "代替"
+  ],
+  "cast": [
+    "ren_uni",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_198 workflow wmokhormi)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "すみません、取材で来た者ですが、この辺りの原子力発電所について少しお話を伺えますか？",
+      "en": "Excuse me, I'm here for a story. May I ask you about the nuclear power plant in this area?",
+      "style": "Polite reporter introducing himself, slightly nervous formal tone"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "おう、構わんよ。発電所の敷地はえらい広い面積でな、昔はみんなあの土地で畑をやっとったんだ。",
+      "en": "Sure, no problem. The plant takes up a huge area — folks used to farm that land back in the day.",
+      "style": "Friendly older country man, warm and reminiscent tone"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "そうなんですね。僕は大学で工学部に通っていて、特に金属材料の研究をしているんです。",
+      "en": "Is that so. I'm in the engineering faculty at university, researching metal materials in particular.",
+      "style": "Eager young man sharing his background politely"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ほう、若いのに偉いなあ。発電所の配管も特殊な規格の金属を使っとるって聞いたことがあるぞ。",
+      "en": "Oh, impressive for a young guy. I heard the plant's pipes use metal made to some special standard.",
+      "style": "Impressed elder offering local knowledge casually"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "実は事故の影響を抑制するために、放射性物質を含んだ水の管理が今でも大きな課題なんですよ。",
+      "en": "Actually, to limit the impact of accidents, managing water containing radioactive material is still a big issue.",
+      "style": "Earnest explanation in measured academic register"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "そうかい。わしらとしては、太陽光やら風力やら、代替エネルギーがもっと進んでくれたら安心なんだがな。",
+      "en": "I see. For us locals, we'd feel safer if alternative energy like solar or wind made more progress.",
+      "style": "Thoughtful elder voicing community concerns plainly"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "貴重なお話、本当にありがとうございました。今日のお声、記事にしっかり反映させていただきます。",
+      "en": "Thank you so much for the valuable conversation. I'll make sure your voice is reflected in the article.",
+      "style": "Grateful closing bow-like polite expression of thanks"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04562",
+  "context": "Two news editors plan an evening political segment",
+  "purpose": "Teach: 領土/仲裁/参画/黒字/税率/閣僚/総長/奉仕",
+  "ambient": "studio_room_tone",
+  "sound_effects": [],
+  "target_vocab": [
+    "領土",
+    "仲裁",
+    "参画",
+    "黒字",
+    "税率",
+    "閣僚",
+    "総長",
+    "奉仕"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_230 workflow wb41kk9dy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "今夜の特集ですが、領土問題を冒頭に持ってくるのはどうでしょう。",
+      "en": "For tonight's feature, how about leading with the territorial dispute issue?",
+      "style": "Polite junior editor pitching segment order to senior."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "悪くないけど、国際仲裁の進展も並べて扱わないと視聴者に伝わらないわよ。",
+      "en": "Not bad, but we have to pair it with progress on international arbitration or viewers won't get it.",
+      "style": "Crisp senior editor refining the angle pragmatically."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに。野党側の政策参画の動きも絡めれば、構図が見えやすくなりますね。",
+      "en": "True. If we tie in the opposition's policy participation moves, the picture becomes easier to read.",
+      "style": "Junior editor building on senior's framing thoughtfully."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "経済パートは大手商社の黒字決算と、来年度の消費税率の見直しで一本にまとめましょう。",
+      "en": "For the economy block let's bundle the major trading houses' surplus earnings with next year's consumption tax rate review.",
+      "style": "Senior editor decisively packaging the economy segment."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "明日の主要閣僚会議で何か発表があれば、差し替え枠を用意しておきます。",
+      "en": "If there's any announcement at tomorrow's key cabinet ministers' meeting, I'll keep a replacement slot ready.",
+      "style": "Junior editor showing operational foresight respectfully."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それから警察総長の記者会見、五分尺で押さえておいて。コメント次第で扱いを上げるから。",
+      "en": "Also lock down the police commissioner-general's press conference at five minutes; we'll bump it up depending on his remarks.",
+      "style": "Senior editor issuing clear runtime instructions firmly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。締めはボランティア奉仕団体の特集で柔らかく落とす流れでよろしいですか。",
+      "en": "Understood. Shall we close softly with the feature on the volunteer service organization?",
+      "style": "Junior editor confirming the closing tonal balance."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それでいきましょう。硬軟のバランスが取れて、ちょうどいい構成になるわ。",
+      "en": "Let's go with that. The hard-soft balance works out nicely for the lineup.",
+      "style": "Senior editor approving the final segment structure decisively."
+    }
+  ]
+}

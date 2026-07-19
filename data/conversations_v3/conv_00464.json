@@ -1,0 +1,62 @@
+{
+  "id": "conv_00464",
+  "context": "A rainy morning at the office. Yuki and Kenji at the coffee machine.",
+  "purpose": "small office weather chit-chat",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "雨",
+    "寒い",
+    "傘",
+    "帰り",
+    "注意"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_024)",
+    "generated_at": "2026-05-26T23:59:42.885Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "おはよう。今日、雨、すごいね。",
+      "en": "Morning. Today, the rain is intense.",
+      "style": "Office woman warm gentle bright casual-warm weather-opening, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "casually-bright"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "おはようございます。傘、持ってきました？",
+      "en": "Good morning. Did you bring umbrella?",
+      "style": "Salaryman warm formal sincere casual-warm professional-asking, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "professionally-casual"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "うん、忘れず。帰り、もっと降りそう。",
+      "en": "Yes, didn't forget. Going home, looks worse.",
+      "style": "Office woman warm soft sincere-warm practical-observation, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-practical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "寒くなってきましたね。風邪、気を付けてください。",
+      "en": "Getting cold. Watch out for colds.",
+      "style": "Salaryman warm gentle sincere-warm careful-warm closing, the soft real real-warmth audible, gentle real composure throughout delivery.",
+      "mood": "gently-warm"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとう。田中さんも、気を付けて。",
+      "en": "Thanks. Tanaka-san, take care too.",
+      "style": "Office woman warm soft sincere closing-warm reciprocal, the soft real real-warmth audible, gentle real warmth throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

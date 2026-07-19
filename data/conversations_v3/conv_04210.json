@@ -1,0 +1,78 @@
+{
+  "id": "conv_04210",
+  "context": "Two managers review an internal audit checklist",
+  "purpose": "Teach: 現金/値上げ/返済/公団/商標/稼ぐ/職務/突入",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "現金",
+    "値上げ",
+    "返済",
+    "公団",
+    "商標",
+    "稼ぐ",
+    "職務",
+    "突入"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_212 workflow w3lyve96d)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "監査チェックリストを見たんだけど、今期も現金払いの伝票が異常に多いね。",
+      "en": "I looked at the audit checklist, and again this quarter there are an unusually large number of cash payment slips.",
+      "style": "Concerned managerial tone, slightly tense but professional delivery."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ええ、特に営業部ですね。経費精算で現金主義が残っているのは正直まずいです。",
+      "en": "Yes, especially in the sales department. Honestly, it's bad that cash-based reimbursement is still lingering.",
+      "style": "Direct, businesslike, measured female office voice tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それと、外注先からまた商品値上げの申請が上がってきてるよ。",
+      "en": "Also, the supplier has submitted another product price hike request.",
+      "style": "Reading from a document with a methodical, even pace."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "値上げ幅次第ですが、契約書の商標権の条項も一緒に法務へ確認しましょう。",
+      "en": "It depends on the size of the hike, but let's also have legal check the trademark rights clause in the contract.",
+      "style": "Firm and slightly cautionary, with clear enunciation throughout."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解。それから昔の公団向け案件で残っているローン返済も見直したい。",
+      "en": "Got it. I also want to revisit the loan repayment still outstanding from that old public-corporation project.",
+      "style": "Pensive, planning-oriented delivery with a thoughtful pause."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "返済計画は経理が来週まとめます。新規で稼ぐより先に、まず利息の圧縮が優先ですね。",
+      "en": "Accounting will compile the repayment plan by next week. Before earning new revenue, compressing the interest comes first.",
+      "style": "Analytical, slightly worried but composed and steady."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "同感だ。監査もいよいよ最終局面に突入するから、職務分掌の表も更新しておいて。",
+      "en": "I agree. The audit is finally entering its final phase, so please also update the segregation of duties table.",
+      "style": "Decisive, wrapping-up tone carrying quiet authority and finality."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "承知しました。各担当の職務範囲を整理して、明日の朝礼で共有します。",
+      "en": "Understood. I'll organize each person's scope of duties and share it at tomorrow's morning meeting.",
+      "style": "Crisp, affirmative, professional closing with confident pacing."
+    }
+  ]
+}

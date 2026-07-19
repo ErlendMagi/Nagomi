@@ -1,0 +1,75 @@
+{
+  "id": "conv_02847",
+  "context": "Sakura interviews a care-service manager.",
+  "purpose": "WIDENED SCENARIO: civic interview; vocabulary (保障/介護/普及/要望/規則) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "保障",
+    "介護",
+    "普及",
+    "要望",
+    "規則"
+  ],
+  "cast": [
+    "sakura_teen",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_143)",
+    "generated_at": "2026-05-29T14:34:54.432Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "介護の現場は、今どうですか?",
+      "en": "How are care worksites now?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "人手不足が、深刻な課題です。",
+      "en": "Staff shortage is a serious challenge.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "待遇の保障は、進んでいますか?",
+      "en": "Is security of conditions improving?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "保障を、手厚くする要望を出しています。",
+      "en": "We're requesting stronger security.",
+      "style": "professional manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "新しい機器は、普及しましたか?",
+      "en": "Have new devices spread?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "介護機器が、少しずつ普及しています。",
+      "en": "Care devices are gradually spreading.",
+      "style": "measured manager voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "安全の規則も、厳しいんですか?",
+      "en": "Are safety rules strict too?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "規則を守り、保障を高めたいですね。",
+      "en": "We follow the rules and want to raise security.",
+      "style": "warm manager voice, soft warm informative closing throughout"
+    }
+  ]
+}

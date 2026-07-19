@@ -1,0 +1,72 @@
+{
+  "id": "conv_05530",
+  "context": "A police officer briefs a uni reporter about a retail-safety case",
+  "purpose": "Teach: 通路/通話/品種/実体/原点/ネーム/努める/写し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "通路",
+    "通話",
+    "品種",
+    "実体",
+    "原点",
+    "ネーム",
+    "努める",
+    "写し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_278 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "商業施設の通路、保安上の議論、よく話題に上ります。",
+      "en": "Mall corridors come up a lot in security discussions.",
+      "style": "Even, informative tone. Measured pace. Slight professional distance. Opening phrase lands with quiet certainty — this is settled ground.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "品種別の通話確認、行うこともあるんですか。",
+      "en": "Do you ever conduct verification calls for different types of incidents?",
+      "style": "Thoughtful, respectful inquiry. Slight hesitation before the question — he's genuinely uncertain about protocol, not testing. Lean forward slightly in posture.",
+      "mood": "curious_respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。実体ある現場検証も、原点に立つ仕事です。",
+      "en": "Yes. Actual fieldwork verification is where the fundamentals matter most.",
+      "style": "Firm, grounded tone. Quiet conviction on 'fundamentals' — he's drawing on experience. Not lecturing, just stating what he knows. Steady eye contact.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "通報ネーム、警察側で記録されてるんでしょうか。",
+      "en": "Are reporter names kept on record by the police?",
+      "style": "Tentative but direct. Slight lift at the end — genuine question, not accusatory. Careful about phrasing; he's navigating sensitive territory thoughtfully.",
+      "mood": "careful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "匿名性の確保に努める方針ですが、写しの管理は厳重です。",
+      "en": "We make every effort to protect anonymity, but we maintain strict control over any records.",
+      "style": "Professional, reassuring cadence. Slight warmth beneath the formality — he understands why this matters. Measured, declarative delivery. No defensiveness.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。",
+      "en": "Thank you.",
+      "style": "Quiet, genuine. Slight bow forward in voice — real appreciation, not perfunctory. Brief exhale after, settling the conversation.",
+      "mood": "grateful"
+    }
+  ]
+}

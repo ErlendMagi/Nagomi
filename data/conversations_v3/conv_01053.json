@@ -1,0 +1,76 @@
+{
+  "id": "conv_01053",
+  "context": "Takeda greets Sho at the crossing and chats.",
+  "purpose": "officer-child safety-talk exchange",
+  "ambient": "crossing_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "交番",
+    "一緒",
+    "安全",
+    "優しい",
+    "頑張る"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_053)",
+    "generated_at": "2026-05-27T03:35:06.828Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "しょうくん、おはよう。",
+      "en": "Sho-kun — good morning.",
+      "style": "Warm, clear greeting. Brief pause before the name to give it weight. Professional but not cold. The voice of someone who knows children don't need ceremony, just sincerity.",
+      "mood": "kind_composed"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "おまわりさん、おはよう、ございます。",
+      "en": "Officer — good morning, sir.",
+      "style": "Soft, careful delivery. Small breath before speaking. The respectfulness is genuine, not performed. Quiet brightness underneath, like he's been looking forward to this moment.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "交番、いつでも、寄って、いい。",
+      "en": "Stop by the station whenever you'd like — it's always okay.",
+      "style": "Steady, conversational. A genuine offer, not an instruction. Slight warmth on 'whenever' — making sure he knows he's welcome. Clear and reassuring.",
+      "mood": "inviting_steady"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "はい、ありがとうございます。",
+      "en": "Yes — thank you very much.",
+      "style": "Bright and earnest. Quick response. The politeness is real but unforced, like he's genuinely grateful and wants to show it. Small voice but clear intention.",
+      "mood": "grateful_sincere"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "道、気を付けて、ね。",
+      "en": "Be careful on your way, okay?",
+      "style": "Matter-of-fact care. Not worried, just attentive. The tone of someone checking in because it matters. Light and steady — this is how adults who mean well talk.",
+      "mood": "protective_gentle"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "一緒に、安全、頑張る。",
+      "en": "I'll be careful — we'll keep everyone safe together.",
+      "style": "Earnest and determined for a six-year-old. Takes the task seriously. Small, steady voice. Like he's understood something important and wants to do it right.",
+      "mood": "committed_earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "優しい子だ、しょうくん。",
+      "en": "You're a kind kid, Sho-kun.",
+      "style": "Warm and genuine. Slight softness in the voice here — a real compliment, not throwaway praise. Tender without being sentimental. The voice of someone noticing who he actually is.",
+      "mood": "tender_appreciative"
+    }
+  ]
+}

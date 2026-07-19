@@ -1,0 +1,86 @@
+{
+  "id": "conv_08215",
+  "context": "Boss strategizes",
+  "purpose": "Teach: 司祭/殿下/教皇/暗黒/破滅/連行/暴落/批准",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "司祭",
+    "殿下",
+    "教皇",
+    "暗黒",
+    "破滅",
+    "連行",
+    "暴落",
+    "批准"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_412 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、地元の司祭にお祭りで挨拶しろ",
+      "en": "Make contact with the local priest at the festival. We need to represent ourselves there.",
+      "style": "Measured, direct command. Voice steady and even—no room for negotiation. Clear articulation on the key verbs. Brief pause between thoughts to let each instruction land.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。海外殿下御用達ブランドを目指します",
+      "en": "Understood. We're positioning ourselves as a purveyor to international clientele.",
+      "style": "Respectful deference but not obsequious. Professional clarity—he's reporting back what he understood. Even pace, each clause deliberate. A touch of quiet confidence underneath.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、教皇庁関連の式典にも参加しろ",
+      "en": "We'll also be participating in the Vatican-affiliated ceremonies. Make sure that's handled.",
+      "style": "Same measured authority as the first directive. Slightly slower on 'Vatican-affiliated' to ensure weight. Calm assumption of execution—this isn't a request for permission.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。暗黒時代の和テイスト商品、好評です",
+      "en": "Got it. The wa-influenced products from the medieval-inspired line have been selling well.",
+      "style": "Straightforward status report. Confident but not boastful. Slightly quicker pace than the boss to signal subordinate energy. Small lift of satisfaction on 'selling well'—good news delivered without overstatement.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の破滅を防ぐべく改革を進めろ",
+      "en": "Push forward with reforms to prevent industry collapse. This is our responsibility.",
+      "style": "Firmer than previous directives—moral weight underneath. 'Collapse' lands with emphasis. Pause before 'responsibility' to underscore the gravity. Voice doesn't rise, but conviction deepens.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。違法業者の連行を警察に通報しました",
+      "en": "Yes, sir. I've already reported the illegal operators to the police for arrest.",
+      "style": "Quick, efficient reporting. Pride of action without self-congratulation. Clipped pace—he's already done it, presenting it as fact. Respectful close on 'sir'.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、株価の暴落リスクに備えよ",
+      "en": "Prepare the company for potential stock volatility. We need contingency plans in place.",
+      "style": "Clinical precision. 'Volatility' enunciated clearly—this is financial risk, not drama. Flat, realistic tone. No alarm, no comfort—just the facts of what needs doing.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新規取引の批准は社長決裁です",
+      "en": "Understood. Any new contracts will require your personal sign-off as president.",
+      "style": "Closing acknowledgment. Professional respect—he's clarifying chain of command. Steady, no rush. Final word on 'president' carries the formality of protocol closing.",
+      "mood": "compliant"
+    }
+  ]
+}

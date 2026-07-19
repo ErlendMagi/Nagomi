@@ -1,0 +1,78 @@
+{
+  "id": "conv_05131",
+  "context": "A teacher walks a uni student through a history paper",
+  "purpose": "Teach: 法学部/起因/切断/暗示/帰属/神殿/初頭/敗退",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "法学部",
+    "起因",
+    "切断",
+    "暗示",
+    "帰属",
+    "神殿",
+    "初頭",
+    "敗退"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_258 workflow wqs1la209)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "歴史のレポート、テーマは決まった？法学部志望なら、史料の扱いは早めに慣れておきたいね。",
+      "en": "Have you decided on your history paper topic? If you're aiming for law school, get used to handling sources early.",
+      "style": "Warm but professional, gentle mentoring pressure throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "古代ギリシャの神殿と、都市国家の宗教的な帰属について書こうかと思っています。",
+      "en": "I was thinking of writing about ancient Greek temples and religious belonging in city-states.",
+      "style": "Hesitant student voice, thinking aloud as he speaks."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "面白いテーマだね。神殿を扱うなら、信仰がどう共同体の規範に起因していたかも触れたい。",
+      "en": "Interesting topic. If you treat temples, also touch on how faith originated communal norms.",
+      "style": "Encouraging but pushing for depth, academic register throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "二十世紀初頭の研究で、宗教と政治の切断を論じた論文を読んだ記憶があります。",
+      "en": "I recall a paper from the early twentieth century discussing the separation of religion and politics.",
+      "style": "Trying to sound informed, slightly nervous but engaged."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いいね。ただし、その切断の理由を史料で示せないと、論として敗退するよ。",
+      "en": "Good. But unless you show the cause of that separation in sources, your argument will lose ground.",
+      "style": "Sharp guidance, treating him as a capable peer."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "去年の先輩の発表が一回戦敗退だったのも、根拠が弱かったからだと聞きました。",
+      "en": "I heard last year's senior presentation lost in the first round because the evidence was weak.",
+      "style": "Self-deprecating, sharing an anecdote with quiet determination."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "結論で次の研究を暗示するのはいいけれど、事実と解釈はきっちり分けて書いてね。",
+      "en": "Hinting at future research in your conclusion is fine, but cleanly separate facts and interpretation.",
+      "style": "Direct instruction, voice of an experienced advisor."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "わかりました。週末までに章立てをまとめて、先生に送ります。",
+      "en": "Understood. I'll put together a chapter outline and send it to you by the weekend.",
+      "style": "Resolute and respectful, ending on a committed note."
+    }
+  ]
+}

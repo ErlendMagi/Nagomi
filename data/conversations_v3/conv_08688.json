@@ -1,0 +1,86 @@
+{
+  "id": "conv_08688",
+  "context": "Boss mentors intern",
+  "purpose": "Teach: 振り込み/括弧/持ち物/鋭意/即刻/告示/第一線/積算",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "振り込み",
+    "括弧",
+    "持ち物",
+    "鋭意",
+    "即刻",
+    "告示",
+    "第一線",
+    "積算"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_436 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、研究助成の振り込みを確認しろ",
+      "en": "Ren, make sure you confirm the research grant transfer.",
+      "style": "Clipped, direct. A task given to someone trusted. No inflection of doubt — this is routine competence he expects. Businesslike but not cold.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の括弧書きの注釈を統一しました",
+      "en": "Yes. I've standardized the annotations in the paper's parenthetical notes.",
+      "style": "Earnest, eager to report progress. Slight formality — addressing the boss. Quick delivery, trying to prove readiness. A beat of pride underneath.",
+      "mood": "dutiful_eager"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、実験室への持ち物制限を守れ",
+      "en": "Ren, follow the lab's equipment restrictions. No exceptions.",
+      "style": "Firm but not harsh. A rule-reminder dressed as an instruction. Measured pace. Expects compliance without needing to threaten it.",
+      "mood": "firm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文執筆に鋭意取り組んでおります",
+      "en": "Yes. I'm making steady progress on the paper write-up.",
+      "style": "Formal, slightly stiff. He's reporting status carefully. Slight hesitation before 'progress' — wanting it to sound genuine, not just polished. Respectful distance in his voice.",
+      "mood": "respectful_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、安全上の問題は即刻指導員に報告しろ",
+      "en": "Ren, any safety concerns go directly to your advisor immediately. No delay.",
+      "style": "Heavier weight on this one. Still composed, but the instruction carries real gravity. Slower. A warning that sounds like care. Eye contact implied.",
+      "mood": "serious_protective"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究募集の告示を掲示しました",
+      "en": "Yes. I posted the research recruitment notice on the board.",
+      "style": "Quick, factual report. He's moving through the task list. Formal register maintained. A small sense of relief — another item completed.",
+      "mood": "compliant"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、第一線の研究者の論文も参考にしろ",
+      "en": "Ren, reference the papers from leading researchers in the field as well.",
+      "style": "Gentle redirect. Not criticism — guidance. A suggestion from someone who's read the work and sees where it needs depth. Open, collaborative tone.",
+      "mood": "guiding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。研究費の積算を学会論文の付録に載せました",
+      "en": "Yes. I've included the research budget breakdown in the conference paper appendix.",
+      "style": "Last in the list. Slight winding-down in pace. Still formal, still eager to demonstrate completion, but fatigue at the edges. Trailing softly — waiting for the next instruction.",
+      "mood": "dutiful_tired"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "conv_04960",
+  "context": "A boss and his manager plan a multi-stop business trip",
+  "purpose": "Teach: 滋賀/チェコ/三重/北米/バルセロナ/トリノ/ボストン/サンフランシスコ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "滋賀",
+    "チェコ",
+    "三重",
+    "北米",
+    "バルセロナ",
+    "トリノ",
+    "ボストン",
+    "サンフランシスコ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_249b workflow wwwp084s6)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ君、来月の出張計画だが、まず滋賀の工場視察から始めたい。",
+      "en": "Kenji, for next month's business trip, I want to start with the factory tour in Shiga.",
+      "style": "Authoritative boss tone, calm and decisive opening"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。滋賀のあとは三重の取引先に寄る予定でよろしいでしょうか。",
+      "en": "Understood. After Shiga, shall we plan to visit our client in Mie?",
+      "style": "Polite subordinate, confirming with respectful keigo"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだな。三重を終えたら一度東京に戻って、すぐ北米へ飛ぶ。",
+      "en": "That's right. After Mie we return to Tokyo briefly, then fly straight to North America.",
+      "style": "Firm executive planning, brisk and confident throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "北米はボストンとサンフランシスコ、どちらを先に回りますか。",
+      "en": "For North America, which should we visit first, Boston or San Francisco?",
+      "style": "Practical assistant asking logistical clarification politely"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ボストンの大学訪問が先で、その後サンフランシスコの支社に立ち寄る。",
+      "en": "The Boston university visit comes first, then we stop by the San Francisco branch office.",
+      "style": "Decisive scheduling, clear and methodical leader voice"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "では欧州側はいかがしましょう。バルセロナとトリノの展示会が重なっています。",
+      "en": "And how about Europe? The Barcelona and Turin trade fairs overlap in schedule.",
+      "style": "Diligent secretary flagging a scheduling conflict carefully"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "バルセロナを優先しよう。トリノは君に任せる。最後にチェコ出身のパートナーに会いに行く。",
+      "en": "Let's prioritize Barcelona. I'll leave Turin to you. Finally we'll meet our partner from the Czech Republic.",
+      "style": "Delegating authority while finalizing itinerary firmly today"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。滋賀から三重、北米、そして欧州とチェコ。早速手配いたします。",
+      "en": "Certainly. Shiga to Mie, North America, then Europe and the Czech Republic. I'll arrange it right away.",
+      "style": "Efficient assistant summarizing and confirming action steps clearly"
+    }
+  ]
+}

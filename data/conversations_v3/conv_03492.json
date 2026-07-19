@@ -1,0 +1,78 @@
+{
+  "id": "conv_03492",
+  "context": "Teacher explains a contested mayoral election to a teen student",
+  "purpose": "Teach: 裁判官/市長/総裁/官僚/朝日新聞/朝日/決議/地位",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "裁判官",
+    "市長",
+    "総裁",
+    "官僚",
+    "朝日新聞",
+    "朝日",
+    "決議",
+    "地位"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_175 workflow w1swddwqe)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生、ニュースで市長選のことやってたんですけど、なんであんなに揉めてるんですか?",
+      "en": "Teacher, the news was covering the mayoral election — why is it so messy?",
+      "style": "Curious teen leaning forward, casual rising tone, genuinely puzzled question"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい質問ですね。今回の市長選では、与党の総裁が推した候補と、朝日新聞が支持した候補が真っ向から対立しているんです。",
+      "en": "Good question. In this mayoral race, the candidate backed by the ruling party's president is clashing head-on with the one supported by Asahi Shimbun.",
+      "style": "Measured teacherly explanation, polite desu-masu, deliberate pacing for clarity"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "えっ、朝日まで巻き込まれてるんですか?ただの市の選挙じゃないんですね。",
+      "en": "Wait, even Asahi is mixed up in it? So it's not just a local city election.",
+      "style": "Surprised teen voice, slight upward inflection, dawning realization"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そうなんです。背景には官僚機構との癒着疑惑があって、市議会で不信任の決議まで出されました。",
+      "en": "Exactly. Behind it there's a suspected cozy relationship with the bureaucracy, and the city assembly even passed a no-confidence resolution.",
+      "style": "Serious informative tone, slowing on key terms, schoolteacher patience"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "決議って、それもう普通じゃないですよね……。裁判沙汰になったりするんですか?",
+      "en": "A resolution like that isn't normal at all, right... could it end up in court?",
+      "style": "Worried teen, trailing off thoughtfully, voice dropping into concern"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "実は既に告発されていて、ベテランの裁判官が担当しているそうです。鈴木氏という方で、公正な判断で知られています。",
+      "en": "Actually it's already been filed, and a veteran judge is handling it — a Mr. Suzuki, known for fair rulings.",
+      "style": "Reassuring authoritative delivery, naming carefully, gentle emphasis on fairness"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "鈴木裁判官かあ……。でも市長の地位って、そんなに人が欲しがるものなんですか?",
+      "en": "Judge Suzuki, huh... But is the position of mayor really something people want that badly?",
+      "style": "Reflective teen muttering name, then puzzled honest curiosity"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "社会的地位もありますし、予算を動かす権限も大きいですからね。だからこそ、選挙はあくまで公正でなければならないんです。",
+      "en": "There's the social standing, and the power to move budgets is significant too. That's precisely why elections must be strictly fair.",
+      "style": "Concluding lecture tone, firm on principle, polite but emphatic finish"
+    }
+  ]
+}

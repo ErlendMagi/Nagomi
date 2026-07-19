@@ -1,0 +1,72 @@
+{
+  "id": "conv_04611",
+  "context": "A boss reviews quarterly sales priorities with his manager",
+  "purpose": "Teach: セールス/トピック/モジュール/ステーション/入荷/調節/短期間/新設",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "セールス",
+    "トピック",
+    "モジュール",
+    "ステーション",
+    "入荷",
+    "調節",
+    "短期間",
+    "新設"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_232b workflow wry5fa2jy)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期のセールス戦略について、優先トピックを整理しておきたい。",
+      "en": "Regarding this quarter's sales strategy, I'd like to organize the priority topics.",
+      "style": "Authoritative executive tone, formal and direct in conveying priorities."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。まず新設の関西支店の立ち上げが最優先かと思われます。",
+      "en": "Understood. First, I believe launching the newly established Kansai branch is the top priority.",
+      "style": "Polite subordinate response, measured and respectful business Japanese."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。新製品モジュールの入荷状況はどうなっている?",
+      "en": "I see. What's the status of the new product module shipments?",
+      "style": "Probing managerial inquiry, concise and focused on operational details."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "来週、東京ステーション近くの倉庫に第一便が届く予定です。",
+      "en": "The first shipment is scheduled to arrive at the warehouse near Tokyo Station next week.",
+      "style": "Reporting style with specific logistics information, calm and informative."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "短期間で結果を出すには、人員配置の調節も必要だな。",
+      "en": "To produce results in a short period, we'll need to adjust staffing assignments too.",
+      "style": "Strategic thinking aloud, decisive yet open to discussion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "営業チームを二班に分けて、地域別に対応させる案を準備しています。",
+      "en": "I'm preparing a proposal to split the sales team into two groups by region.",
+      "style": "Proactive subordinate offering prepared solutions, structured and professional."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "いい判断だ。来週の会議で具体案を全員に共有してくれ。",
+      "en": "Good judgment. Please share the concrete plan with everyone at next week's meeting.",
+      "style": "Approving boss tone, closing the discussion with clear directive."
+    }
+  ]
+}

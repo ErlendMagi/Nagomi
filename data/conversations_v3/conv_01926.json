@@ -1,0 +1,75 @@
+{
+  "id": "conv_01926",
+  "context": "Mei buys a new fridge; checks reviews with Daichi at the appliance shop.",
+  "purpose": "Married couple making major home purchase together.",
+  "ambient": "shop_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "冷蔵庫",
+    "値段",
+    "選ぶ",
+    "相談"
+  ],
+  "cast": [
+    "mei_romantic",
+    "daichi_kansai"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_097)",
+    "generated_at": "2026-05-27T08:43:53.903Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "冷蔵庫、これ、どう思う?",
+      "en": "What do you think about this fridge?",
+      "style": "Soft opening, genuinely curious. Warm and engaged, like she's seeking his opinion as a partner. Slight lift at the end—inviting him in. Unhurried.",
+      "mood": "thoughtful_collaborative"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "値段、ちょっと高いな。",
+      "en": "The price is a bit steep though.",
+      "style": "Gentle reservation. Not dismissive—thinking out loud with her. Kansai warmth underneath the caution. Measured pace, like he's turning it over.",
+      "mood": "hesitant_practical"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "大きさ、ちょうどいいかも。",
+      "en": "But the size might be just right.",
+      "style": "Soft counterpoint, not defensive. Weighing both sides with him. Quiet warmth. Slight pause before speaking, like she's noticed what he said and is thinking it through.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "機能、必要なの揃ってる?",
+      "en": "Does it have all the features we'd actually use?",
+      "style": "Practical question, genuinely interested in the answer. Kansai ease underneath. Not pushing—collaborating. Warm but grounded.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、節電タイプ、いいね。",
+      "en": "Yeah, and the energy-saving model is really nice.",
+      "style": "Small moment of quiet satisfaction. Slight warmth on 'energy-saving.' Unhurried. Like something has clicked into place. Genuine, not performing.",
+      "mood": "satisfied_warm"
+    },
+    {
+      "speaker": "daichi_kansai",
+      "jp": "相談して、決めよか。",
+      "en": "Should we decide together on this one?",
+      "style": "Gentle Kansai warmth. Checking in with her, not deciding alone. Soft, collaborative tone. Like he's inviting her into the final choice alongside him.",
+      "mood": "warm_collaborative"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、これにしよう。",
+      "en": "Yeah, let's go with this one.",
+      "style": "Quiet decision, gently decisive. Warm finality without rushing. Like she's certain and comfortable. Soft exhale of relief at having chosen together.",
+      "mood": "content_resolved"
+    }
+  ]
+}

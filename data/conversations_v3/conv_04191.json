@@ -1,0 +1,78 @@
+{
+  "id": "conv_04191",
+  "context": "A uni student interviews a doctor about medical breakthroughs",
+  "purpose": "Teach: 公害/移植/鑑定/回路/観念/無意識/異議/欲望",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "公害",
+    "移植",
+    "鑑定",
+    "回路",
+    "観念",
+    "無意識",
+    "異議",
+    "欲望"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_211 workflow wjfuls8bj)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先生、お時間ありがとうございます。最近の医療の進歩について伺いたいのですが、まず臓器移植の現状はどうなっていますか？",
+      "en": "Doctor, thank you for your time. I'd like to ask about recent medical progress — first, what is the current state of organ transplantation?",
+      "style": "Polite student interviewer opening with formal gratitude and a direct opening question."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "そうですね、移植技術はここ十年で飛躍的に進歩しました。拒絶反応に関わる免疫の回路がかなり解明されてきたんですよ。",
+      "en": "Well, transplantation technology has advanced dramatically over the past decade. The immune circuits involved in rejection have been largely mapped out.",
+      "style": "Measured professional tone, mildly enthusiastic, uses light technical vocabulary accessibly."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。あの、少し話は変わるんですが、公害病の患者さんへの治療も新しくなっているんでしょうか？",
+      "en": "I see. Um, changing the subject slightly, has treatment for pollution-disease patients also been updated?",
+      "style": "Curious student pivoting topics with a soft hedging filler, respectful inquiry."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いい質問です。患者さんの体に無意識のうちに溜まっていた物質を、遺伝子の鑑定を応用した検査で特定できるようになりました。",
+      "en": "Good question. We can now identify substances that had unknowingly built up in patients' bodies through tests that apply genetic identification techniques.",
+      "style": "Doctor praising the question, then explaining with calm authoritative confidence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "すごいですね。でも、そういう検査って「健康な人は受けなくていい」という固定観念がまだ強い気がします。",
+      "en": "That's amazing. But I feel there's still a strong fixed notion that healthy people don't need such tests.",
+      "style": "Thoughtful student sharing a personal observation in a humble but pointed way."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "その指摘には異議の余地もありません。長生きしたいという欲望は誰にでもあるのに、予防にはなぜか消極的なんですよね。",
+      "en": "There's really no room to argue with that point. Everyone has the desire to live longer, yet for some reason people are passive about prevention.",
+      "style": "Doctor agreeing wholeheartedly, gentle critique of public mindset with a reflective cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "確かに……。最後にひとつ、先生が今後一番期待されている分野は何ですか？",
+      "en": "True… Lastly, one more question — which field are you most hopeful about going forward?",
+      "style": "Reflective agreement followed by polite closing-question framing typical of interviews."
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "再生医療ですね。失った臓器を自分の細胞から作る——夢みたいな話が、もうすぐ現実になりますよ。",
+      "en": "Regenerative medicine. Growing lost organs from your own cells — what sounded like a dream will soon be reality.",
+      "style": "Warm hopeful conclusion, slight pause for emphasis, ending on an inspiring note."
+    }
+  ]
+}

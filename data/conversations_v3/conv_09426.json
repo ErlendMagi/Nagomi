@@ -1,0 +1,86 @@
+{
+  "id": "conv_09426",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 取りまとめ/ファックス/激励/主査/次官/母体/個室/衣服",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "取りまとめ",
+    "ファックス",
+    "激励",
+    "主査",
+    "次官",
+    "母体",
+    "個室",
+    "衣服"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_473 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、各部の意見の取りまとめを健二に任せる",
+      "en": "I'm putting you in charge of collecting input from all departments on this.",
+      "style": "Measured authority. Crisp, direct opening. Expectation clear in the cadence — not a request. Steady breath control. The tone of someone who has already thought this through.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。ファックスでの取引先連絡も継続します",
+      "en": "Understood. I'll continue coordinating with our trading partners by fax as well.",
+      "style": "Respectful, professional. Quick nod in the voice at \"Understood.\" Even delivery, confirming competence. No flourish — just clear acknowledgment of the next thing to do.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、若手社員への激励の言葉を忘れるな",
+      "en": "And don't forget to give the younger staff some words of encouragement.",
+      "style": "Slight shift to something warmer, but still commanding. A gentle reminder tucked inside the directive. Softer attack than the first line, but the underlying expectation remains firm.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。主査クラスの会議を毎週おこないます",
+      "en": "Yes. I'll set up weekly meetings with the subsection chiefs.",
+      "style": "Businesslike, grounded. Picking up the thread immediately. No pause — just moving into the next task with quiet efficiency. The reliability showing through.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業界の元次官との会食も検討しろ",
+      "en": "Look into a dinner with the retired vice-minister from the industry association as well.",
+      "style": "Clipped, matter-of-fact. Another item, another directive. Confident the person will handle it. No elaboration — the stakes are implied in the casualness.",
+      "mood": "expectant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社母体の財務状況を再確認します",
+      "en": "Understood. I'll double-check our parent company's financial position.",
+      "style": "Steady, noting the shift in subject. Not rushed. A slight lowering in intensity — this is maintenance, important maintenance. Calm hand on the wheel.",
+      "mood": "thorough"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "役員会議室の個室管理も徹底しろ",
+      "en": "Make sure the executive conference room stays properly secured and managed.",
+      "style": "Sharp, direct. Non-negotiable. Brief pause after the opening word for emphasis. The kind of instruction that expects no questions, just execution.",
+      "mood": "strict"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員制服の衣服デザインも刷新します",
+      "en": "Yes. I'll also oversee updating the employee uniform designs.",
+      "style": "Accepting the final directive with the same steady tone. A small sense of wrapping up — not slowing, but acknowledging this is the last item. Professional close.",
+      "mood": "assured"
+    }
+  ]
+}

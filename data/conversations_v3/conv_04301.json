@@ -1,0 +1,90 @@
+{
+  "id": "conv_04301",
+  "context": "A police officer briefs a teen reporter about a high-profile case",
+  "purpose": "Teach: 控訴/死刑/大蔵省/認可/勧告/侵略/貧困/殺さ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "控訴",
+    "死刑",
+    "大蔵省",
+    "認可",
+    "勧告",
+    "侵略",
+    "貧困",
+    "殺さ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件、一審で死刑判決が出たが、弁護側はすでに控訴の手続きに入っている。",
+      "en": "In this case, a death penalty ruling came down at first trial, but the defense has already begun appeal procedures.",
+      "style": "Formal police briefing tone, measured and authoritative delivery suited for press"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "被害者の方は、抵抗できない状態で何度も刺されて、危うく殺されかけたって本当ですか?",
+      "en": "Is it true the victim was stabbed repeatedly while unable to resist, and was nearly killed?",
+      "style": "Eager young reporter, slightly nervous but pushing for details respectfully"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ああ、本当だ。容疑者は怨恨と金銭、両方の動機を抱えていたと見ている。",
+      "en": "Yes, that's true. We believe the suspect had both grudge-based and financial motives.",
+      "style": "Crisp factual exposition, officer laying out background for the record"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "容疑者の経歴についても伺いたいのですが、過去に行政勧告を受けたことがあるとか?",
+      "en": "I'd like to ask about the suspect's background too — I hear he received an administrative warning in the past?",
+      "style": "Sharp follow-up question, showing the teen has done her homework"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そうだ。旧大蔵省時代に許認可をめぐる不正で処分を受けた経歴がある人物だ。",
+      "en": "Correct. He's someone who was disciplined for licensing-approval misconduct back in the old Ministry of Finance era.",
+      "style": "Officer fills in historical context with the weight of long memory"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一方で被害者は、子どもの貧困問題に長年取り組んできた方だったと聞きました。",
+      "en": "On the other hand, I heard the victim had worked for years on the issue of child poverty.",
+      "style": "Reporter shifting tone, voice softening with respect for the victim"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "うむ。彼女の人格を踏みにじるような、ほとんど侵略的とも言える犯行だった。",
+      "en": "Indeed. It was a crime that trampled her dignity — almost invasive in its cruelty.",
+      "style": "Officer adds gravity to the briefing, voice lowering with seriousness"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そういう人を狙うなんて…。警察としては、死刑制度についてどう考えているんですか?",
+      "en": "To target someone like that... How do the police view the death penalty system itself?",
+      "style": "Pivoting to a tougher question, teen reporter testing professional limits"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "それは個人の見解を語る場じゃない。記事は事実関係を慎重に扱ってくれ。",
+      "en": "This isn't the place to share personal opinions. Please handle the facts in your article carefully.",
+      "style": "Stern but quietly impressed, gentle warning from a seasoned officer"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "もちろんです。控訴審の日程が決まったら、また取材させてください!",
+      "en": "Of course. When the appeal hearing date is set, please let me cover it again!",
+      "style": "Bright determined sign-off, eager teen reporter requesting future access"
+    }
+  ]
+}

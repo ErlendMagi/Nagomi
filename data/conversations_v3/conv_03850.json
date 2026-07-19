@@ -1,0 +1,78 @@
+{
+  "id": "conv_03850",
+  "context": "A barista chats with a regular customer about a salary issue",
+  "purpose": "Teach: 手当/シェア/工程/高額/明記/フロー/ボス/接し",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "手当",
+    "シェア",
+    "工程",
+    "高額",
+    "明記",
+    "フロー",
+    "ボス",
+    "接し"
+  ],
+  "cast": [
+    "aoi_barista",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_194 workflow weeyeokki)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "いつものブレンドお願い。実はさ、新しい会社のキャッシュフローがやばくて、今月の給料が遅れそうなんだよ。",
+      "en": "The usual blend, please. Honestly, my new company's cash flow is rough, and this month's pay might be late.",
+      "style": "Tired middle-aged dad voice, sighing between phrases, warm but visibly stressed tone."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "えっ、それはきついですね…。契約書に明記されてる支払日はいつになってるんですか?",
+      "en": "Whoa, that's rough... When's the payment date that's written in your contract?",
+      "style": "Concerned barista voice, soft and empathetic, leaning slightly forward across the counter."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "25日のはずなんだけど、住宅手当の部分だけ別フローで処理してて、そこが詰まってるらしい。",
+      "en": "Supposed to be the 25th, but the housing allowance gets handled on a separate flow, and that part's stuck.",
+      "style": "Resigned dad tone, explaining slowly, half-amused at the absurdity of corporate processes."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うわぁ、給与計算の工程がそんなに複雑だなんて知りませんでした。ボスに直接相談されました?",
+      "en": "Wow, I had no idea the payroll process was that complicated. Have you talked to your boss directly?",
+      "style": "Curious barista voice, genuinely surprised, polite keigo with a friendly undertone."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "それがさ、うちの上司、部下に接し方が下手で、こっちから言い出しにくいんだよね。",
+      "en": "The thing is, my boss is bad at dealing with subordinates, so it's hard to bring it up.",
+      "style": "Confiding dad voice, lowering volume conspiratorially, slight bitter chuckle."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "わかります…。うちの店長と前にシェアハウスで一緒だった友達も、同じこと言ってましたよ。",
+      "en": "I get it... A friend who used to share a house with our manager said the exact same thing.",
+      "style": "Sympathetic barista voice, nodding while wiping the counter, casual storytelling rhythm."
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "しかも今、子供の塾代が高額でさ。来月までに払えないとまずいんだよ、本当に。",
+      "en": "And right now my kid's cram school fees are huge. If I can't pay by next month, I'm in real trouble.",
+      "style": "Worried dad tone, voice cracking slightly on the last word, rubbing his forehead."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "今日のコーヒーは、私からの応援ってことで。元気出してくださいね、お父さん。",
+      "en": "Today's coffee is on me, as a little cheer-up. Hang in there, dad.",
+      "style": "Warm barista voice, bright reassuring smile, sliding the cup gently across the counter."
+    }
+  ]
+}

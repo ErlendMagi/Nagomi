@@ -1,0 +1,84 @@
+{
+  "id": "conv_03261",
+  "context": "A client consults a financial advisor about buying a home",
+  "purpose": "Advise on a home purchase; teach 金利/不動産/所有/請求/保証/証券/供給/兆",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "金利",
+    "不動産",
+    "所有",
+    "請求",
+    "保証",
+    "証券",
+    "供給",
+    "兆"
+  ],
+  "cast": [
+    "kenji_office",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_164)",
+    "generated_at": "2026-05-29T17:17:45.712Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "マンションの購入を考えているんです。",
+      "en": "I’m thinking of buying a condo.",
+      "style": "tentative client broaching a big decision"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "今は住宅ローンの金利が低いですよ。",
+      "en": "Home-loan interest rates are low now.",
+      "style": "reassuring advisor offering a timely point"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "不動産は高い買い物ですからね。",
+      "en": "Real estate is a costly purchase, after all.",
+      "style": "cautious client acknowledging the stakes, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "所有すると、固定資産税の請求も毎年来ます。",
+      "en": "Once you own it, a property-tax bill comes yearly.",
+      "style": "thorough advisor flagging ongoing costs, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "保証人は必要ですか？",
+      "en": "Do I need a guarantor?",
+      "style": "practical client checking requirements, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、ローンには保証会社の審査があります。",
+      "en": "Yes, the loan involves a guarantee-company review.",
+      "style": "advisor explaining the process plainly, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "資産運用には証券も考えるべきでしょうか。",
+      "en": "Should I consider securities for investing too?",
+      "style": "curious client widening his options, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "分散は大事です。市場の供給次第で価格も動きます。",
+      "en": "Diversifying matters. Prices move with market supply.",
+      "style": "advisor giving balanced guidance, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "不動産市場って、何兆円規模なんですよね。",
+      "en": "The real-estate market is trillions of yen, right?",
+      "style": "impressed client grasping the scale, tone holding steady through the whole line"
+    }
+  ]
+}

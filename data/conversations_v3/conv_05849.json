@@ -1,0 +1,65 @@
+{
+  "id": "conv_05849",
+  "context": "A police officer briefs a manager on AML rules",
+  "purpose": "Teach: 損益/総研/送金/搭乗/事後/カ年/みなし/即し",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "損益",
+    "総研",
+    "送金",
+    "搭乗",
+    "事後",
+    "カ年",
+    "みなし",
+    "即し"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_294 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "金融犯罪、海外送金の経路、警察が厳しく見ています。",
+      "en": "Financial crime and overseas remittance routes — we're keeping a close eye on them.",
+      "style": "Measured, official tone. Slight pause before the dash. Direct eye contact. No rush. The voice of someone laying down expectations, not threats.",
+      "mood": "professional_direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。当社、総研の助言で、損益勘定も見直しました。",
+      "en": "Yes. Following the think tank's recommendations, we've also reviewed our profit-and-loss statements.",
+      "style": "Respectful and engaged. Clear articulation on the key terms. Slight nod in the voice — showing he's absorbed the instruction and is ready to act on it.",
+      "mood": "compliant_attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "役員の搭乗履歴、事後にも追える体制を。",
+      "en": "Executive flight records need to be traceable after the fact. Set up the system for that.",
+      "style": "Calm, methodical delivery. Slight emphasis on 'traceable.' Not harsh — just laying out what needs to happen. The tone of someone used to being listened to.",
+      "mood": "firm_procedural"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。3カ年計画、警察ガイドラインに即して、みなし運用を導入します。",
+      "en": "Understood. We'll implement deemed operations within the three-year plan, aligned with police guidelines.",
+      "style": "Steady confirmation. Slight quickening on the operational details — showing competence and understanding. Professional warmth underneath the formality.",
+      "mood": "assured_compliant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お願いします。",
+      "en": "I appreciate that.",
+      "style": "Quiet, genuine closure. Slight nod implied in the voice. Not effusive — the brief acknowledgment of someone who's seen the commitment and is satisfied.",
+      "mood": "satisfied"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06233",
+  "context": "A doctor discusses a complex case",
+  "purpose": "Teach: 通りすがり/引っかかっ/見逃す/警部/一目瞭然/閉ざさ/見抜く/難題",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "通りすがり",
+    "引っかかっ",
+    "見逃す",
+    "警部",
+    "一目瞭然",
+    "閉ざさ",
+    "見抜く",
+    "難題"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_313 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、通りすがりの患者、急病で運ばれた事例、増えています。",
+      "en": "Ren, we're seeing more walk-in patients brought in with sudden emergencies.",
+      "style": "Clear, matter-of-fact. Even pacing. Seated across from him with steady eye contact. No alarm in her voice—this is routine observation, delivered with professional composure.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "症状の細かな変化、引っかかった、と感じる時、ありますか。",
+      "en": "When you notice those subtle shifts in symptoms, that moment when something feels off—do you ever get that?",
+      "style": "Thoughtful, searching. Leans forward slightly. Pace slows on the question itself. The tone is genuine curiosity, not testing—he's asking something he wants to understand.",
+      "mood": "genuinely_curious"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。徴候を見逃すと、命取りになります。",
+      "en": "Yes. Miss the signs, and it can be fatal.",
+      "style": "Quiet weight on the word 'fatal.' Not dramatic—understated. A simple fact delivered with the exhaustion of someone who has seen it happen. Slight pause before speaking.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "警部の指揮みたいに、現場での判断、迅速に。",
+      "en": "Like how an inspector commands a scene—decisions in the field need to be made fast.",
+      "style": "Tentative but thinking aloud. Searching for the connection as he speaks. Respectful toward her expertise. Pace quickens slightly with the comparison, as if he's testing if he's understood correctly.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。画像で病変、一目瞭然の症例も、あります。",
+      "en": "Yes. There are cases where imaging shows a lesion so clearly you can't miss it.",
+      "style": "Affirming. Slight shift in tone—moving to a concrete example. Measured delivery. The faintest nod to herself, acknowledging his point before offering this counterpoint.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家族との対話、閉ざさないようにしてますね。",
+      "en": "You keep communication open with families, though. You don't shut them out.",
+      "style": "Admiring but careful. Phrased as observation, not question. Slower pace. He's noticing something about her approach—the care beneath the clinical distance.",
+      "mood": "observant_approving"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。重症の兆候、見抜く目、研修医にも教えてます。",
+      "en": "Yes. Teaching the residents to recognize the early signs of severity—that's part of what we do.",
+      "style": "Matter-of-fact responsibility. Steady, confident. A hint of pride in the teaching mission, but stated plainly. No flourish—just the work itself.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "未診の難題、医療界、共有していくべきですね。",
+      "en": "Cases that go undiagnosed, the difficult ones—medicine should share those lessons. Not hide them.",
+      "style": "Contemplative conclusion. Softer attack than earlier lines. Pace slows toward the end. The tone is reflective, almost confessional—he's arrived at something he believes matters, speaking it carefully.",
+      "mood": "reflective_conviction"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "conv_03013",
+  "context": "Sakura interviews a medical author.",
+  "purpose": "WIDENED SCENARIO: academic interview; vocabulary (大学院/医学/書籍/経過/筆者) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "大学院",
+    "医学",
+    "書籍",
+    "経過",
+    "筆者"
+  ],
+  "cast": [
+    "sakura_teen",
+    "saito_doctor"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_151)",
+    "generated_at": "2026-05-29T15:13:22.768Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生は、大学院で学ばれたんですね。",
+      "en": "You studied at graduate school, doctor.",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、大学院で医学を専攻しました。",
+      "en": "Yes, I majored in medicine in grad school.",
+      "style": "calm doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "医学の書籍も、書かれたんですか?",
+      "en": "Did you write medical books too?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "筆者として、数冊出しました。",
+      "en": "As an author, I published several.",
+      "style": "gentle doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "患者さんの経過も、書籍に?",
+      "en": "Did patients' progress go into the books too?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "経過の記録を、丁寧に載せました。",
+      "en": "I carefully included progress records.",
+      "style": "calm doctor voice, soft warm measured clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "筆者として、伝えたいことは?",
+      "en": "As an author, what do you want to convey?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "医学は、人のためにあると伝えたいです。",
+      "en": "I want to convey that medicine exists for people.",
+      "style": "warm doctor voice, soft warm measured closing clarity throughout"
+    }
+  ]
+}

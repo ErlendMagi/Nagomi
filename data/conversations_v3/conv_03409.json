@@ -1,0 +1,78 @@
+{
+  "id": "conv_03409",
+  "context": "A family visit during recovery",
+  "purpose": "Visit a patient; teach 入院/ニーズ/失っ/制御/ショック/緩和/表面/確信",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "入院",
+    "ニーズ",
+    "失っ",
+    "制御",
+    "ショック",
+    "緩和",
+    "表面",
+    "確信"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "saito_doctor"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "入院生活、本人は退屈してるみたいで。",
+      "en": "He seems bored with hospital life.",
+      "style": "concerned daughter sharing, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "患者さんのニーズに合わせ、リハビリを増やしましょう。",
+      "en": "Let’s increase rehab to match the patient’s needs.",
+      "style": "responsive doctor adjusting, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "一時、記憶を失ったのが心配で。",
+      "en": "I worry he briefly lost his memory.",
+      "style": "anxious daughter voicing a fear, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "検査では、脳の機能は制御できています。",
+      "en": "On tests, brain function is under control.",
+      "style": "doctor reassuring with data, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "検査結果に、最初はショックを受けました。",
+      "en": "The test results shocked me at first.",
+      "style": "daughter recalling distress, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "でも今は、症状の緩和が見られます。",
+      "en": "But now we see symptom relief.",
+      "style": "doctor offering hope, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "顔色も、表面的には良くなりましたね。",
+      "en": "His complexion looks better on the surface too.",
+      "style": "daughter noting improvement, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ええ、退院に向けて確信を深めています。",
+      "en": "Yes, I grow more confident about discharge.",
+      "style": "doctor encouraging her, voice clear and distinctly their own"
+    }
+  ]
+}

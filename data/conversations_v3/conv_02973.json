@@ -1,0 +1,75 @@
+{
+  "id": "conv_02973",
+  "context": "Hiroshi-boss and Yuki review attendance and records.",
+  "purpose": "WIDENED SCENARIO: business HR; vocabulary (勤務/バイト/出席/継続/文書) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "勤務",
+    "バイト",
+    "出席",
+    "継続",
+    "文書"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_149)",
+    "generated_at": "2026-05-29T15:03:18.593Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の勤務状況は、どうかね?",
+      "en": "How is the staff's attendance status?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "皆、真面目に勤務しています。",
+      "en": "Everyone works diligently.",
+      "style": "reliable office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "バイトの人も、出席は良いかね?",
+      "en": "Is the part-timers' attendance good too?",
+      "style": "thoughtful boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "バイトの出席も、安定しています。",
+      "en": "Part-timers' attendance is stable too.",
+      "style": "clear office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "記録の文書は、残してあるかね?",
+      "en": "Are the record documents kept?",
+      "style": "measured boss voice, soft warm inquiry throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、文書で継続的に残しています。",
+      "en": "Yes, I keep them continuously in documents.",
+      "style": "professional office woman voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良い勤務を、継続してほしいな。",
+      "en": "I hope they continue working well.",
+      "style": "warm boss voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "文書を整え、継続して管理します。",
+      "en": "I'll keep the documents in order and manage continuously.",
+      "style": "resolved office woman voice, soft warm clarity closing throughout"
+    }
+  ]
+}

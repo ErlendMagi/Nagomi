@@ -1,0 +1,69 @@
+{
+  "id": "conv_00084",
+  "context": "Late evening at a small Tokyo intersection. An elderly visitor sits on a bench looking confused. Officer Takeda steps over from his bicycle.",
+  "purpose": "tiny help across regions — careful officer, slightly tipsy elder, Tokyo at night",
+  "ambient": "city_street_night",
+  "target_vocab": [
+    "本当に",
+    "大丈夫",
+    "時間",
+    "家",
+    "どこ",
+    "すみません"
+  ],
+  "cast": [
+    "takeda_officer",
+    "tatsuya_country"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "こんばんは。大丈夫ですか？",
+      "en": "Good evening. Are you alright?",
+      "style": "Low, calm, professional. Crouches a half-step at the bench.",
+      "mood": "professional_low"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ああ…ちょっと、迷ってしもうて。",
+      "en": "Ahh… got a bit lost.",
+      "style": "Slow Tohoku honesty with a small slurred edge.",
+      "mood": "tohoku_honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "お家、どちらですか？",
+      "en": "Where's home for you?",
+      "style": "Plain question, no judgment in the voice.",
+      "mood": "plain_polite"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "岩手や。今、息子の家、来とるんやけど。",
+      "en": "Iwate. But — visiting my son's place now.",
+      "style": "A small admission. The visiting-elder honesty.",
+      "mood": "visiting_honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "なるほど。一緒に、お時間少しいただければ。",
+      "en": "I see. If I can have a moment of your time, together.",
+      "style": "A small kind formality. Already pulling out his phone.",
+      "mood": "kind_formal"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "本当に、すみません。",
+      "en": "Truly — I'm sorry.",
+      "style": "A small genuine apology. Voice slightly lower.",
+      "mood": "genuine_apology"
+    }
+  ]
+}

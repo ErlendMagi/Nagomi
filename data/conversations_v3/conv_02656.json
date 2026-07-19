@@ -1,0 +1,75 @@
+{
+  "id": "conv_02656",
+  "context": "Kenji recommends an online tool to Ren.",
+  "purpose": "WIDENED SCENARIO: tech chat; vocabulary (オンライン/専用/項目/載せ/勧め) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "オンライン",
+    "専用",
+    "項目",
+    "載せ",
+    "勧め"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_133)",
+    "generated_at": "2026-05-29T13:34:50.662Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "このオンラインの道具、お勧めですよ。",
+      "en": "I recommend this online tool.",
+      "style": "helpful office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "オンラインで、何ができるんですか?",
+      "en": "What can it do online?",
+      "style": "curious young colleague voice, soft warm engaged throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "専用の画面で、項目を管理できます。",
+      "en": "On a dedicated screen, you can manage items.",
+      "style": "clear office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "項目は、自由に載せられますか?",
+      "en": "Can I freely add items?",
+      "style": "engaged young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、好きな項目を載せられます。",
+      "en": "Yes, you can add any items you like.",
+      "style": "measured office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "専用のアプリも、あるんですか?",
+      "en": "Is there a dedicated app too?",
+      "style": "curious young colleague voice, soft warm throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、オンラインでもアプリでも使えます。",
+      "en": "Yes, you can use it online or via the app.",
+      "style": "reassuring office man voice, soft warm guiding throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "お勧め通り、使ってみます。",
+      "en": "I'll try it as you recommend.",
+      "style": "satisfied young colleague voice, soft warm appreciative closing throughout"
+    }
+  ]
+}

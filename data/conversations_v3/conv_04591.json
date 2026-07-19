@@ -1,0 +1,78 @@
+{
+  "id": "conv_04591",
+  "context": "A police officer briefs a teen reporter on a court case",
+  "purpose": "Teach: 弾圧/路上/戦場/破産/検察官/審理/通産省/外相",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "弾圧",
+    "路上",
+    "戦場",
+    "破産",
+    "検察官",
+    "審理",
+    "通産省",
+    "外相"
+  ],
+  "cast": [
+    "takeda_officer",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_231 workflow wr0604mks)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "桜さん、今日の審理は重いネタですよ。覚悟して傍聴席に座ってくださいね。",
+      "en": "Sakura, today's hearing is heavy material. Brace yourself when you sit in the gallery.",
+      "style": "Veteran desk editor gently warning rookie before courtroom assignment"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "はい、先輩。被告は元外相だと伺いましたが、本当ですか?",
+      "en": "Yes, senior. I heard the defendant is a former foreign minister—is that true?",
+      "style": "Eager teen reporter checking basic facts before heading out"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "そう。通産省から外務へ移って、最後は外相まで上り詰めた人物です。",
+      "en": "Right. He moved from MITI to foreign affairs and eventually became foreign minister.",
+      "style": "Calm editor sketching the defendant's career in plain terms"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "罪状は何になるんでしょう。検察官は何を一番強く問うつもりですか?",
+      "en": "What are the charges? What will the prosecutor press hardest on?",
+      "style": "Curious teen asking a focused practical question about strategy"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "言論弾圧への関与です。批判的な記事を書いた記者を路上で尾行させた疑いがある。",
+      "en": "Involvement in press suppression. He's suspected of having critical reporters tailed on the street.",
+      "style": "Editor stating allegations bluntly with seasoned matter-of-fact gravity"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ひどい……。それで職を失った記者もいるんですか?",
+      "en": "Awful... Were there reporters who lost their jobs because of it?",
+      "style": "Subdued teen voice expressing quiet shock and moral concern"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、廃刊に追い込まれた小誌もあって、編集長が破産した例まである。戦場帰りの記者ですらまいったそうですよ。",
+      "en": "Yes—small magazines were shut down, and one editor even went bankrupt. Even a war-zone veteran reporter was shaken.",
+      "style": "Somber senior editor recounting grim industry consequences from memory"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "わかりました。冒頭陳述、しっかりメモを取ってきます!",
+      "en": "Understood. I'll take careful notes during the opening statement!",
+      "style": "Determined teen making earnest professional commitment with quiet resolve"
+    }
+  ]
+}

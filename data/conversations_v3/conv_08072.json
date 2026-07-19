@@ -1,0 +1,86 @@
+{
+  "id": "conv_08072",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: やみ/がかっ/もしや/ヒロシ/ひろし/ひろ/いじり/ココ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "やみ",
+    "がかっ",
+    "もしや",
+    "ヒロシ",
+    "ひろし",
+    "ひろ",
+    "いじり",
+    "ココ"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_405 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者は地下のやみ組織に関わっているようです",
+      "en": "The suspect appears to be involved with an underground criminal organization.",
+      "style": "Professional, matter-of-fact briefing tone. Measured pace. No inflection—just the facts. Posture upright, eyes steady. The voice of someone who has delivered difficult information many times.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、暗闇の中、青がかった光が記録されたんですね",
+      "en": "So there was blue-tinted light recorded in the darkness at the scene?",
+      "style": "Thoughtful, probing question. Slight hesitation before the question mark—thinking aloud. Leaning forward slightly. Genuinely trying to piece something together, not challenging.",
+      "mood": "curious_analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、もしやこの目撃情報、関連かと検討中です",
+      "en": "We're currently examining whether this eyewitness account might be connected to the case.",
+      "style": "Measured official tone. Each phrase deliberate. Not rushed—this is procedural language, slightly formal. The slight pause before 'connected' suggests careful consideration of whether to make this connection public.",
+      "mood": "cautious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、被害者のヒロシさんの証言を警察、取られたんですね",
+      "en": "So the victim—Hiroshi—his testimony has already been taken by police?",
+      "style": "Quiet realization dawning. Gentle inflection upward at the end of the statement. Processing information he's just been given. Respectful, careful with the victim's name.",
+      "mood": "realizing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、ひろしという別名の容疑者を追っております",
+      "en": "We're currently tracking a suspect who goes by the alias 'Hiroshi.'",
+      "style": "Flat, important clarification. Light emphasis on the word 'alias'—this distinction matters. Deliberate pacing. The slight shift in tone suggests this detail changes the picture significantly.",
+      "mood": "alert"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察がひろい範囲で捜査中ですね",
+      "en": "So the police investigation is covering quite a wide area, then.",
+      "style": "Soft understanding tone. Not a question despite the upward lilt—more of a confirmation to himself. Breathing quiet. The pacing is slower, suggesting the weight of what 'wide area' implies.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、押収品をいじり過ぎないよう保管しております",
+      "en": "We're being careful to preserve seized evidence without unnecessary handling.",
+      "style": "Official, protective tone. Emphasis on 'careful' and 'preserve'—these words matter. Steady, unhurried delivery. The voice of someone explaining proper procedure with quiet authority.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、現場のココ商店から証言を警察、伺ったんですね",
+      "en": "So you've collected testimony from Koko Store near the scene?",
+      "style": "Quiet confirmation, almost thinking to himself. Slight lift on the name—softening it, keeping this human-scale even within the investigation. The question trails very softly at the end, like he's fitting pieces together.",
+      "mood": "contemplative"
+    }
+  ]
+}

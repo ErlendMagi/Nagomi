@@ -1,0 +1,72 @@
+{
+  "id": "conv_05027",
+  "context": "Two managers prep an emergency vendor-call agenda",
+  "purpose": "Teach: 提訴/凍結/国外/来店/労力/模倣/セカンド/ダイレクト",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "提訴",
+    "凍結",
+    "国外",
+    "来店",
+    "労力",
+    "模倣",
+    "セカンド",
+    "ダイレクト"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_253 workflow wupod1ars)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "緊急のベンダー会議、議題を固めましょう。まず先方が出した模倣品の件、これが最大の論点です。",
+      "en": "Let's nail down the agenda for the emergency vendor call. The counterfeit issue they raised is the biggest point.",
+      "style": "Crisp managerial tone, businesslike and focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、うちのデザインを国外の工場で勝手にコピーされていた。法務はもう提訴も視野に入れていますよ。",
+      "en": "Yes, our designs were copied without permission at an overseas factory. Legal is already considering filing suit.",
+      "style": "Serious senior manager voice, measured and grave"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では先方への要求として、該当ラインの出荷を即時凍結すること、これを冒頭に置きましょう。",
+      "en": "Then let's put immediate freezing of shipments on that line at the very top of our demands.",
+      "style": "Decisive planning voice, structured and assertive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "賛成です。それから来店客向けの店頭在庫、これも回収対象に含めるべきかどうか、議論したい。",
+      "en": "Agreed. We should also discuss whether in-store inventory aimed at walk-in customers belongs in the recall scope.",
+      "style": "Thoughtful deliberative tone, weighing options carefully"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "回収には膨大な労力がかかりますが、ブランドを守るには避けられません。ここはダイレクトに先方へ伝えます。",
+      "en": "A recall takes enormous effort, but to protect the brand it's unavoidable. I'll convey this directly to them.",
+      "style": "Firm conviction voice, resolved but pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それと、契約解除の前にセカンドオピニオンとして外部弁護士の見解も取り寄せておきたい。",
+      "en": "Also, before terminating the contract I'd like to get a second opinion from outside counsel as well.",
+      "style": "Cautious advisory tone, prudent and methodical"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解しました。資料は私が一時間で揃えます。会議が始まる前に最終確認しましょう。",
+      "en": "Understood. I'll have the materials ready in an hour. Let's do a final check before the meeting starts.",
+      "style": "Efficient closing tone, brisk and reassuring"
+    }
+  ]
+}

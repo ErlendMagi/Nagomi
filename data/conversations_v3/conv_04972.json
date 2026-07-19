@@ -1,0 +1,78 @@
+{
+  "id": "conv_04972",
+  "context": "A boss and his manager dissect a regulatory news article",
+  "purpose": "Teach: 暦/酸化/復元/錯覚/混合/死後/政令/悪影響",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暦",
+    "酸化",
+    "復元",
+    "錯覚",
+    "混合",
+    "死後",
+    "政令",
+    "悪影響"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_250 workflow wbcfyeaho)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "君、今朝の産経新聞、読んだか？例の政令の改正案が一面に載っていただろう。",
+      "en": "Did you read the Sankei Shimbun this morning? The cabinet order amendment was on the front page.",
+      "style": "Authoritative boss opens with direct testing question to subordinate."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、目を通しました。食品の酸化防止剤に関する規制が、来月から大幅に厳しくなるようですね。",
+      "en": "Yes, I went through it. The regulations on food antioxidants will tighten significantly from next month.",
+      "style": "Polite professional response showing preparation and factual summary."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "問題は施行日の書き方だ。和暦と西暦が混合されていて、まるで目の錯覚を起こしそうな表記じゃないか。",
+      "en": "The issue is how the enforcement date is written. Japanese and Western calendars mixed, almost like an optical illusion.",
+      "style": "Boss raising a sharp critical point with mild frustration."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "確かに、暦の表記が統一されていないと、現場の判断に悪影響を及ぼしかねません。",
+      "en": "Indeed, if calendar notations aren't unified, it could adversely affect on-site decisions.",
+      "style": "Subordinate agreeing analytically and raising practical concerns calmly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それと、過去の試験データの復元も急がせろ。前回の基準値と照合しなきゃ報告書が書けん。",
+      "en": "Also, hurry the recovery of past test data. Without checking previous standards, we can't write the report.",
+      "style": "Boss issuing terse directive with reasoning attached at end."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "了解です。ただ、創業者の死後ずっと倉庫に眠っていた古い記録なので、復元には時間がかかります。",
+      "en": "Understood. However, since they've been sitting in storage since the founder's death, recovery will take time.",
+      "style": "Professional acknowledgment introducing an additional complication politely."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そこまで古い資料か。これは想像以上に厄介な案件だな。",
+      "en": "Materials that old? This is a more troublesome matter than I imagined.",
+      "style": "Boss expressing surprise and reassessment with grave tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "対応策を今日中にまとめて、明朝までにご報告いたします。",
+      "en": "I'll compile a response plan by end of today and report by tomorrow morning.",
+      "style": "Subordinate closing with crisp commitment and clear deadline stated."
+    }
+  ]
+}

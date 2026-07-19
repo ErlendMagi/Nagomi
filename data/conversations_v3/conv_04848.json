@@ -1,0 +1,78 @@
+{
+  "id": "conv_04848",
+  "context": "A uni intern interviews a manager about real-estate planning",
+  "purpose": "Teach: 急遽/極力/高値/立地/阻害/所要/先般/取扱い",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "急遽",
+    "極力",
+    "高値",
+    "立地",
+    "阻害",
+    "所要",
+    "先般",
+    "取扱い"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_244 workflow wjamnk8e9)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "先般お送りした質問の件で、少しお時間いただけますか。",
+      "en": "About the questions I sent the other day, could I have a moment of your time?",
+      "style": "Polite intern opener referencing prior correspondence respectfully."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。急遽会議が入ってしまったので、三十分くらいなら大丈夫ですよ。",
+      "en": "Of course. A meeting suddenly came up, so I can manage about thirty minutes.",
+      "style": "Warm but time-constrained office professional setting expectations."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "ありがとうございます。まず、物件を選ぶときに一番重視するのは立地でしょうか。",
+      "en": "Thank you. First, when choosing a property, is location the most important factor?",
+      "style": "Curious student leading into a substantive interview question."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そうですね、駅から近い好立地は当然高値で取引されますが、それだけでは判断しません。",
+      "en": "Right, prime locations near stations naturally trade at high prices, but that alone isn't the deciding factor.",
+      "style": "Measured expert explaining nuance behind common assumptions."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "では、再開発を阻害するような要因はどう調べるんですか。",
+      "en": "Then how do you investigate factors that might hinder redevelopment?",
+      "style": "Earnest follow-up showing the intern did some homework."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "周辺の権利関係や用途地域を確認して、リスクは極力避けるようにしています。",
+      "en": "We check the surrounding rights and zoning, and we try our utmost to avoid risk.",
+      "style": "Practical industry insight delivered in calm professional tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "現地調査の所要時間って、平均でどのくらいかかるものですか。",
+      "en": "How much time does a site survey typically require on average?",
+      "style": "Practical procedural question typical of a research-minded intern."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "案件によりますが、書類の取扱いも含めると、丸一日かかることも珍しくないですね。",
+      "en": "It depends on the case, but including document handling, a full day isn't unusual.",
+      "style": "Candid mentor sharing realistic workload details with intern."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "conv_01486",
+  "context": "Sho and Hina go to the train station for a short school trip; they buy tickets together.",
+  "purpose": "Teen siblings navigating travel logistics for the first time alone.",
+  "ambient": "station_announcements_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "駅",
+    "切符",
+    "到着",
+    "出発"
+  ],
+  "cast": [
+    "sho_child",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_075)",
+    "generated_at": "2026-05-27T06:09:04.464Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "切符、ここで買うんやんな?",
+      "en": "We buy tickets here, right?",
+      "style": "curious teen boy voice, soft uncertain inquiring warmth delivered carefully"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、自動販売機からね。",
+      "en": "Yeah — from the vending machine.",
+      "style": "composed teen girl voice, soft confident helpful warmth delivered carefully"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "出発、何時やったっけ?",
+      "en": "What time was departure?",
+      "style": "absent-minded teen boy voice, soft scattered honest delivery warmly carefully"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "十時半、まだ余裕ある。",
+      "en": "Ten thirty — we've got time.",
+      "style": "calm teen girl voice, soft reassuring competent warmth delivered carefully"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "到着までどれくらいかかる?",
+      "en": "How long until arrival?",
+      "style": "curious teen boy voice, soft eager travel-prep warmth delivered carefully"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一時間ちょっとかな。",
+      "en": "An hour and a bit.",
+      "style": "thoughtful teen girl voice, soft careful estimating warmth delivered carefully"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ちょっと冒険みたいやな。",
+      "en": "Feels a bit like an adventure.",
+      "style": "excited teen boy voice, soft bright eager warmth delivered cheerfully carefully"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、楽しもう!",
+      "en": "Yeah — let's enjoy it!",
+      "style": "bright teen girl voice, soft warm cheerful encouragement delivered carefully"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "conv_00934",
+  "context": "Sachiko teaches Hina to weave a small basket.",
+  "purpose": "grandma-child craft-teaching exchange",
+  "ambient": "tatami_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "頑張る",
+    "伝統"
+  ],
+  "cast": [
+    "sachiko_grandma",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_047)",
+    "generated_at": "2026-05-27T02:53:24.650Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ひなちゃん、伝統の編み、教えるね。",
+      "en": "Hina-chan, I'm going to teach you traditional weaving.",
+      "style": "Warm, unhurried opening. Gentle settling-in tone, like rolling up sleeves to begin something cherished. Soft voice that carries the weight of skill being passed down. Patient and present.",
+      "mood": "warm_patient"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、頑張る！",
+      "en": "Okay, I'll do my best!",
+      "style": "Bright, eager commitment from a child. Unself-conscious enthusiasm. Quick intake of breath before the promise. Genuine — no performance, just whole-hearted readiness.",
+      "mood": "enthusiastic"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "優しく、ゆっくり、ね。",
+      "en": "Gently, slowly now.",
+      "style": "Soft instruction, almost a murmur. Each word given equal weight like she's setting the pace for both of them. Kind redirection if needed, but mostly modeling the rhythm she wants.",
+      "mood": "gentle_guiding"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "一緒に、するの、楽しい。",
+      "en": "Doing this together is so much fun.",
+      "style": "Bright, unburdened joy. The wonder of a child noticing something good while it's happening. No filter between feeling and voice. Slightly breathless with the pleasure of it.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "いつか、ひなちゃん、教える人、なるね。",
+      "en": "Someday you'll be the one teaching others, Hina-chan.",
+      "style": "Quiet certainty underneath. A glimpse into the future delivered without fanfare or sentimentality. Tender prediction, like she's already seeing it. Trails gently on the final name, like a blessing.",
+      "mood": "tender_hopeful"
+    }
+  ]
+}

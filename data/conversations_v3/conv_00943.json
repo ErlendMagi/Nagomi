@@ -1,0 +1,62 @@
+{
+  "id": "conv_00943",
+  "context": "Hina helps Yumiko fold laundry.",
+  "purpose": "mother-child helping exchange",
+  "ambient": "living_room_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "優しい",
+    "楽しい",
+    "頑張る",
+    "手伝う"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "hina_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_047)",
+    "generated_at": "2026-05-27T02:53:24.650Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ひなちゃん、洗濯物、一緒に、たたもう。",
+      "en": "Hina-chan, shall we fold the laundry together?",
+      "style": "Warm, unhurried invitation. Soft opening. Gentle pitch rise at the end—the question of inclusion, not command. Audible smile threading through.",
+      "mood": "tender_inviting"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、お手伝い、頑張る。",
+      "en": "Yes! I'll help and do my best.",
+      "style": "Bright, eager commitment. Quick pickup on the yes. Pitch naturally higher, unselfconscious. Energy genuine, not performed. Small warmth in the trying.",
+      "mood": "enthusiastic_sincere"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "優しい子、ね、ひなちゃん。",
+      "en": "You're such a kind child, Hina-chan.",
+      "style": "Quiet appreciation. Said almost to herself, then meeting the child's eyes. Warm without excess. The words land like a small, real gift.",
+      "mood": "warm_proud"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "お母さんの、お手伝い、楽しい。",
+      "en": "Helping you is fun, Mom.",
+      "style": "Simple, genuine. Not seeking approval—just stating fact. Bright but unrushed. The kind of thing a child says when safe.",
+      "mood": "content_affectionate"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "これからも、ね。",
+      "en": "And we'll keep doing this, yes?",
+      "style": "Gentle promise threaded through. Soft, not sentimental. The quiet certainty of someone holding something precious and wanting it to last.",
+      "mood": "tender_resolute"
+    }
+  ]
+}

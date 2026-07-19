@@ -1,0 +1,75 @@
+{
+  "id": "conv_02959",
+  "context": "Sakura interviews a financial advisor.",
+  "purpose": "WIDENED SCENARIO: finance interview; vocabulary (資産/顧客/交渉/金額/会計) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "資産",
+    "顧客",
+    "交渉",
+    "金額",
+    "会計"
+  ],
+  "cast": [
+    "sakura_teen",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_148)",
+    "generated_at": "2026-05-29T14:58:07.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sakura_teen",
+      "jp": "資産を守るには、何が大切ですか?",
+      "en": "What matters for protecting assets?",
+      "style": "professional adult interviewer voice, soft warm engaged clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "正しい会計と、計画が大切です。",
+      "en": "Accurate accounting and planning matter.",
+      "style": "measured advisor voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "顧客は、どんな相談をしますか?",
+      "en": "What do clients consult about?",
+      "style": "engaged adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "顧客は、資産の運用を相談します。",
+      "en": "Clients consult about managing assets.",
+      "style": "professional advisor voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "金額の決め方は、難しいですか?",
+      "en": "Is deciding the amount difficult?",
+      "style": "curious adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "金額は、顧客と交渉して決めます。",
+      "en": "The amount is decided by negotiating with the client.",
+      "style": "measured advisor voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "交渉で、心がけることは?",
+      "en": "What do you keep in mind in negotiation?",
+      "style": "probing adult interviewer voice, soft warm clarity throughout"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "会計を正直に示し、信頼を築きます。",
+      "en": "I honestly show the accounting and build trust.",
+      "style": "warm advisor voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

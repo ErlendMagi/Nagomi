@@ -1,0 +1,62 @@
+{
+  "id": "conv_00531",
+  "context": "Kenji visits Saito for an annual checkup.",
+  "purpose": "small adult patient ongoing relationship",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "仕事",
+    "体調",
+    "注意",
+    "ありがとう"
+  ],
+  "cast": [
+    "saito_doctor",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_027)",
+    "generated_at": "2026-05-27T00:21:16.186Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "田中さん、体調、特に問題ないですよ。",
+      "en": "Your health is looking good, Tanaka-san. No concerns at all.",
+      "style": "Warm, steady delivery of good news. Clear and direct, but softened by genuine care underneath. The reassurance of a doctor who has looked at the results and is relieved to report well.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ありがとうございます。仕事、相変わらず、忙しくて。",
+      "en": "Thank you, doctor. Work's been relentless as always.",
+      "style": "Grateful but slightly weary. A tired smile in the voice. He's sharing the weight of it without asking her to fix it — just acknowledgment between two people who understand.",
+      "mood": "grateful_tired"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お仕事は、無理しないこと。それが、一番。",
+      "en": "Work—don't push yourself too hard. That matters most.",
+      "style": "Gentle firmness. A small pause after the first phrase. She's not lecturing; she's offering something earned from experience. The kind of advice a good doctor gives because she's seen what happens when people don't listen.",
+      "mood": "caring_firm"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、気を付けます。",
+      "en": "I will. I'll be more careful.",
+      "style": "Sincere acknowledgment. He's taking her seriously — not just humoring the doctor, but actually hearing her. Quiet respect in the tone.",
+      "mood": "sincere"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ご家族にも、よろしくね。",
+      "en": "Take care of yourself. And give my regards to your family.",
+      "style": "Warm closing. She's stepping back into professional warmth, but it's genuine—not performed. The kind of thing she means, said as she's seeing him to the door.",
+      "mood": "warm_caring"
+    }
+  ]
+}

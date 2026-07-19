@@ -1,0 +1,62 @@
+{
+  "id": "conv_00010",
+  "context": "Morning rush at the café. Yuki is a near-daily regular. Aoi already knows what she wants.",
+  "purpose": "tiny familiar transaction — service warmth that builds over many mornings",
+  "ambient": "cafe_morning",
+  "target_vocab": [
+    "今日",
+    "いつも",
+    "ありがとう",
+    "大丈夫",
+    "一緒",
+    "本当に"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "おはようございます。今日もいつもので大丈夫ですか？",
+      "en": "Good morning. Your usual today?",
+      "style": "Warm and attentive, melodic lift on the greeting. The question on 「いつもの」 is a gentle inside joke — they both know what it is. Steady eye contact, inviting.",
+      "mood": "warm_familiar"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい、お願いします。…あ、今日はちょっと急ぐかも。",
+      "en": "Yes, please. Oh — I might be a little rushed today, actually.",
+      "style": "Bright and present at first, then a small hesitant pivot. The 「あ」 is a half-breath, catching herself. Apologetic but not self-flagellating.",
+      "mood": "slightly_apologetic"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "大丈夫です、すぐ出します。",
+      "en": "No problem at all — I'll get it out quick.",
+      "style": "Brisk and capable, no performance. The reassurance is practical and steady, not emotionally elaborate. Matter-of-fact kindness.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "本当に助かります。",
+      "en": "You really are a lifesaver.",
+      "style": "Genuine gratitude, the 「本当に」 lands with sincerity, not as polite filler. Quiet warmth. Direct, brief, meant.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いつもありがとうございます。お気をつけて。",
+      "en": "Thank you for always coming by. Take care of yourself.",
+      "style": "Soft closing, the 「いつも」 carries the accumulated weight of their relationship. Warm but brief, not lingering. A gentle send-off.",
+      "mood": "warm_caring"
+    }
+  ]
+}

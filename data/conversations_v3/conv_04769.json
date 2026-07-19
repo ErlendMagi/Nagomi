@@ -1,0 +1,78 @@
+{
+  "id": "conv_04769",
+  "context": "A retired banker mentors a younger boss over coffee",
+  "purpose": "Teach: 異動/労務/留意/外貨/日本銀行/包括/指令/多大",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "異動",
+    "労務",
+    "留意",
+    "外貨",
+    "日本銀行",
+    "包括",
+    "指令",
+    "多大"
+  ],
+  "cast": [
+    "hiroshi_elder",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_240 workflow w6i279qux)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "今度の人事異動で、君が部長に昇進したと聞いたよ。おめでとう。",
+      "en": "I heard you were promoted to department head in the recent personnel transfer. Congratulations.",
+      "style": "Warm elder voice, slow paced and congratulatory, slightly formal mentor tone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ありがとうございます。ただ、労務管理も任されて、正直少し戸惑っています。",
+      "en": "Thank you. But I've also been put in charge of labor management, and honestly I'm a bit lost.",
+      "style": "Younger boss, polite and humble, slightly anxious undertone seeking guidance."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "そこは特にご留意ください。人を扱う仕事は数字よりずっと難しいからね。",
+      "en": "That's something you really need to be careful about. Handling people is far harder than numbers.",
+      "style": "Calm advisory tone, gentle but firm, drawing on experience."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実は来月から外貨建ての融資業務も担当することになりまして。",
+      "en": "Actually, starting next month I'll also be handling foreign-currency-denominated loan operations.",
+      "style": "Slightly nervous, professional reporting tone, looking for reassurance."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "なるほど。最近は日本銀行の方針も頻繁に変わるから、為替の動きには十分気を配りなさい。",
+      "en": "I see. The Bank of Japan's policies change frequently these days, so pay close attention to exchange rate movements.",
+      "style": "Knowledgeable elder, measured cadence, sharing veteran insight calmly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "上からは包括的なリスク管理体制を作れという指令も来ていまして、頭が痛いです。",
+      "en": "The higher-ups have also ordered me to build a comprehensive risk management system, which gives me a headache.",
+      "style": "Tired sigh in voice, candid venting to a trusted senior, mild frustration."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "焦らず一つずつだ。判断を誤れば多大な損失を招くからね。",
+      "en": "Take it one step at a time, without rushing. A wrong judgment can invite enormous losses.",
+      "style": "Grave, fatherly warning, slow and deliberate, weight of experience."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "肝に銘じます。今度またゆっくりお話を伺わせてください。",
+      "en": "I'll take that to heart. Please let me come hear your stories at length again sometime.",
+      "style": "Sincere gratitude, slightly relieved, respectful closing tone."
+    }
+  ]
+}

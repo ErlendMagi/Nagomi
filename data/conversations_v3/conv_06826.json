@@ -1,0 +1,86 @@
+{
+  "id": "conv_06826",
+  "context": "A boss reviews business",
+  "purpose": "Teach: 月別/予備校/破損/労災/ストレージ/辞職/役に立っ/明言",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月別",
+    "予備校",
+    "破損",
+    "労災",
+    "ストレージ",
+    "辞職",
+    "役に立っ",
+    "明言"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_343 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "売上、月別の動向、毎月、私に、報告しろ。",
+      "en": "Sales figures. I want monthly trends reported to me every single month.",
+      "style": "Sharp, clipped delivery. Each phrase lands with weight. No filler. Expectation hanging in the air like a standing order.",
+      "mood": "direct"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、予備校の学費支援、新人事制度として、検討中です。",
+      "en": "Yes, sir. We're currently evaluating a new HR system that would include tuition assistance for cram school.",
+      "style": "Composed, measured cadence. Professional formality without stiffness. Voice stays level—this is routine competence being reported upward.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "納品時の破損、調査、徹底させろ。",
+      "en": "Damage during delivery. I want a thorough investigation into every incident.",
+      "style": "Flat, authoritative. Each word placed deliberately. No room for interpretation. The tone of someone accustomed to being obeyed.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労災申請の手続き、社員にも、丁寧に、説明しております。",
+      "en": "Yes, sir. We're explaining the workers' compensation procedures to staff carefully and thoroughly.",
+      "style": "Steady reassurance. Slightly slower pace—communicating that care and clarity are being taken seriously. Voice gentle but substantive.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社内データのストレージ、容量、見直す時期だ。",
+      "en": "We need to review our internal data storage capacity. That time is coming soon.",
+      "style": "Decisive but not harsh. A statement of fact delivered with quiet certainty. The tone of someone thinking ahead about practical problems.",
+      "mood": "pragmatic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。部長の辞職、後任、慎重に、選んでまいります。",
+      "en": "Yes, sir. We'll be selecting the department head's replacement very carefully.",
+      "style": "Respectful, composed. Slight emphasis on 'carefully'—acknowledging the weight of the decision. Voice carries both assurance and appropriate gravity.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この提案、本当に、役に立った経験、報告書に、書け。",
+      "en": "Document the real outcomes of this proposal. I want to see what actually worked and how it made a difference.",
+      "style": "Direct command with underlying purpose. Lean forward slightly in the tone. Wants specifics, not vagueness. Results-oriented and clear.",
+      "mood": "results_driven"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経営方針、社員に、明言する場、来週、設けます。",
+      "en": "Yes, sir. Next week we'll hold a meeting where management can clearly state our policy direction to the whole staff.",
+      "style": "Crisp confirmation. Voice carries readiness—already thinking through logistics. Professional closure to the exchange, no lingering questions.",
+      "mood": "efficient"
+    }
+  ]
+}

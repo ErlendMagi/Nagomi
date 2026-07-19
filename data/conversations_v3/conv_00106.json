@@ -1,0 +1,97 @@
+{
+  "id": "conv_00106",
+  "context": "Hiroshi (elder) has come in for his quarterly check. Dr. Saito is more familiar with him than with most patients — he's been retired into her clinic's rotation for years.",
+  "purpose": "longstanding patient-doctor relationship — quiet professional warmth",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "時間",
+    "大丈夫",
+    "少し",
+    "元気",
+    "心配"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_006)",
+    "generated_at": "2026-05-26T18:38:33.329Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "こんにちは、加藤さん。お変わりないですか。",
+      "en": "Hello, Mr. Kato. How have you been?",
+      "style": "Warm, genuinely familiar greeting. The ease of a doctor who has known this patient for years. Professional but not perfunctory. Slight lean-in of actual care.",
+      "mood": "warm_professional"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "おかげさまで。…まあ、年相応に。",
+      "en": "Thanks to your care. Well — aging as one does, I suppose.",
+      "style": "Measured, gentle delivery. A quiet smile underneath. Slight pause before the second thought — reflective, not complaining. The voice of someone comfortable with Dr. Saito.",
+      "mood": "grateful_modest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に、お元気そうで安心します。",
+      "en": "Truly — I'm relieved to see you doing so well.",
+      "style": "Honest warmth without performance. A genuine professional note, no hurry. The words land softly. Real care audible in the steadiness.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "先生のおかげですよ。…少し、咳が出るんですが。",
+      "en": "Thanks to you, Doctor. Though I have picked up a small cough.",
+      "style": "Careful, considered admission. Voice quiets on the confession. A small pause before mentioning it — not apologetic, but thoughtful. Testing the water.",
+      "mood": "hesitant_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いつ頃から？",
+      "en": "When did it start?",
+      "style": "Professional pivot, attentive. Pen or notepad implied in the voice. No alarm, just focused clarity. The shift into doctor-mode, still gentle.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "二週間ほど。心配は、していないんですが。",
+      "en": "About two weeks now. Nothing to worry about, I'm sure.",
+      "style": "Factual report with a small qualifier at the end. Voice steady but slightly defensive of his own dismissal. A man reassuring himself as much as the doctor.",
+      "mood": "stoic_uncertain"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "念のため、聴診器、当てましょうか。",
+      "en": "Just to be safe — shall we listen to your chest?",
+      "style": "Respectful, almost courteous phrasing. Genuine care without pressure. The stethoscope already in her hands, implied. Professional kindness.",
+      "mood": "caring_practical"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "もちろん、どうぞ。お時間、いつも、ありがとう。",
+      "en": "Of course, please. Thank you — truly — for always making the time.",
+      "style": "A small bow lives in the voice. Grateful formality underneath genuine affection. Practical — removes sweater. The politeness of someone from another generation, unforced.",
+      "mood": "appreciative_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いえいえ、本当に、これが仕事。少しだけ、深呼吸。",
+      "en": "Not at all — truly, that's what I'm here for. Just take a slow deep breath for me.",
+      "style": "Grounded, settled warmth. The stethoscope cold against his skin, implied. Voice is present, not distant. A shared moment of care between doctor and patient.",
+      "mood": "present_gentle"
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "…(breathes)",
+      "en": "(breathes in slowly, holds, exhales)",
+      "style": "A real measured breath. Doctor and patient share the quiet. The sound of trust. No performance — just presence.",
+      "mood": "calm_present"
+    }
+  ]
+}

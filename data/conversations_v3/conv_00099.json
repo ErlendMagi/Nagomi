@@ -1,0 +1,127 @@
+{
+  "id": "conv_00099",
+  "context": "Family dinner. Yumiko, Ryosuke, and Hina are at the table. Hina has been quiet all evening — finally puts her chopsticks down and says something.",
+  "purpose": "three-speaker family dinner — kid surprises adults with the real question",
+  "ambient": "apartment_indoor",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "大丈夫",
+    "一緒",
+    "大切",
+    "家族"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "ryosuke_dad",
+    "hina_child"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Long (13-20)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_005)",
+    "generated_at": "2026-05-26T18:28:26.923Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "お母さん、お父さん。…ちょっと、聞きたいことある。",
+      "en": "Mom, Dad. …I want to ask you something.",
+      "style": "Sets chopsticks down with deliberate care. Voice careful and precise for an eight-year-old carrying something bigger than herself.",
+      "mood": "nervous"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん、どうしたの。",
+      "en": "Mm — what is it?",
+      "style": "Drops own chopsticks immediately. Shifts fully present, steady attentive gaze — no distraction, just genuine openness.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん、聞くよ。",
+      "en": "I'm listening.",
+      "style": "Meets her mother's timing exactly. No rush, no impatience — just aligned adult attention, the kind children feel as safety.",
+      "mood": "present"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "家族って、本当に、ずっと一緒？",
+      "en": "Family — does it really stay together forever?",
+      "style": "Quiet, small voice carrying an enormous question. Slight tremor underneath — the weight of what she's about to say next.",
+      "mood": "uncertain"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "…(beat)どうしてそんなこと、聞くの？",
+      "en": "…(beat) Why are you asking that?",
+      "style": "Gentle follow-up without urgency. Voice careful and steady — checking in, not interrogating. Real concern, no edge.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "クラスの子の、お父さんとお母さんが…別れたって。",
+      "en": "A kid in my class — their mom and dad broke up.",
+      "style": "Matter-of-fact report delivered quietly. Voice stays level, factual — the way children deliver hard news when they're being brave about it.",
+      "mood": "serious"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うん。…そういうこと、あるね、家族にも。",
+      "en": "Yeah. …That does happen — even in families.",
+      "style": "A real, honest answer with no softening or deflection. Voice steady and clear — treating her question with the seriousness it deserves.",
+      "mood": "honest"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "私たちは…大丈夫？",
+      "en": "Are we… going to be okay?",
+      "style": "Voice catches slightly on the second word. Small and frightened — the real fear underneath the brave question. Quiet, searching.",
+      "mood": "fearful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "うん。…本当に、大丈夫。",
+      "en": "Yeah. …We really are okay.",
+      "style": "Direct and steady. Voice carries absolute certainty without being loud about it — the kind of calm that children trust completely.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "でも、心配してくれて、本当にありがとう。",
+      "en": "But — thank you for asking us. Thank you for worrying.",
+      "style": "Warm recognition that honors her concern as real and important. Voice tender but not performative — genuine acknowledgment of her courage.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…(small relieved breath)",
+      "en": "(small relieved breath)",
+      "style": "Tension visibly releasing. Reaches back toward chopsticks with a steadier hand — the moment passing, safety confirmed.",
+      "mood": "relieved"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "家族って、ずっと一緒っていうより、ずっと大切に思う。",
+      "en": "Family isn't so much about always being together — it's about always caring about each other.",
+      "style": "Gentle, philosophical offering delivered without preaching. Voice soft and thoughtful — a truth she's giving her daughter, not a lesson being taught.",
+      "mood": "warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "…うん。わかった。",
+      "en": "…Yeah. I get it.",
+      "style": "Quiet, grown-up nod in her voice. Fully present in the moment — simple and real, carrying the weight of what she's just understood.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "今度、何でも、聞いていいからね。",
+      "en": "You can ask us anything — anytime. Okay?",
+      "style": "Real, open invitation delivered gently. Voice warm and genuine — closing the moment while leaving the door open forever.",
+      "mood": "loving"
+    }
+  ]
+}

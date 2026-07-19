@@ -1,0 +1,65 @@
+{
+  "id": "conv_05871",
+  "context": "A police officer briefs a reporter on a regional case",
+  "purpose": "Teach: 宮城/大島/荒川/金子/今井/市川/片山/熊谷",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "宮城",
+    "大島",
+    "荒川",
+    "金子",
+    "今井",
+    "市川",
+    "片山",
+    "熊谷"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_295 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "宮城県内の事件、捜査が大島町まで広がっています。",
+      "en": "The Miyagi Prefecture case—the investigation has expanded as far as Oshima town.",
+      "style": "Measured, official opening. Steady pace. The facts delivered without inflection, but not cold. A briefing tone—professional and controlled.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "荒川沿いに、有力な目撃情報があったんですよね。",
+      "en": "There were some solid eyewitness accounts along the Arakawa, weren't there?",
+      "style": "Leaning forward slightly. Genuine curiosity mixed with deference to authority. Careful enunciation—he's thinking as he speaks. Not rushing.",
+      "mood": "focused_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。被害者の金子さん、保護を続けています。",
+      "en": "Yes. We're continuing to keep the victim, Kaneko-san, in protective custody.",
+      "style": "Consistent tempo, slightly lower register than before. The pronoun 'we' carries quiet responsibility. Careful articulation on the victim's name—respect implied.",
+      "mood": "duty_bound"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "今井被疑者、市川市内に居住していたんですね。",
+      "en": "So the suspect Imai was living in Ichikawa, then.",
+      "style": "Thoughtful, testing understanding aloud. A small pause before the name—connecting details. Gentle probe, not interrogation. Asking as a peer, not a questioner.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。共犯と疑われる片山も、熊谷で身柄確保しました。",
+      "en": "Yes. We also apprehended the suspected accomplice Katayama in Kumagaya.",
+      "style": "Final statement, delivered with quiet finality. Slight weight on 'apprehended'—the fact lands. Professional closure. Slower at the end, letting the information settle.",
+      "mood": "resolved"
+    }
+  ]
+}

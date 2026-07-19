@@ -1,0 +1,86 @@
+{
+  "id": "conv_11132",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 閉塞/南方/先駆け/先取り/英訳/下宿/検知/絶叫",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "閉塞",
+    "南方",
+    "先駆け",
+    "先取り",
+    "英訳",
+    "下宿",
+    "検知",
+    "絶叫"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_558 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、道路の閉塞、つまり閉塞による交通事故を、警察、捜査されますね",
+      "en": "So this case — the traffic accident caused by the road being blocked — you'll be investigating that, won't you.",
+      "style": "Thinking aloud, careful and deferential, checking his understanding with a polite rise.",
+      "mood": "inquisitive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、南方からの密航事案も対応されますね",
+      "en": "The force also handles smuggling cases coming up from the south.",
+      "style": "Even professional cadence, matter-of-fact, a quiet steadiness born of routine.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、捜査の先駆け、つまり先駆け捜査官の経験を、警察、活かされますね",
+      "en": "And for this case, you'll be drawing on the experience of the pioneering investigators — the ones who led the way — won't you.",
+      "style": "Genuinely curious, slightly bookish phrasing, leaning into the question at the end.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、犯人の動向を先取り、つまり先取り捜査されますね",
+      "en": "We anticipate the suspect's movements — preemptive investigation, staying one step ahead.",
+      "style": "Calm and assured, a measured beat before the key term, no drama.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、英訳された海外文書を、警察、慎重に取り扱われますね",
+      "en": "And the English-translated documents from overseas — those get handled very carefully, don't they.",
+      "style": "Respectful and precise, slowing over the detail to show he's been listening.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、下宿で起きた事案を、警察、丁寧に対応されますね",
+      "en": "Incidents at lodging houses — the force responds to those with real care as well.",
+      "style": "A warmer note entering the professional tone, unhurried, quietly reassuring by the end.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、薬物検知器、つまり検知装置を、警察、ご利用されますね",
+      "en": "And for this case, you'll be using the drug detectors — the detection equipment — won't you.",
+      "style": "Bright with interest in the equipment, the question rising politely, almost gesturing.",
+      "mood": "fascinated"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、被害者の絶叫の通報も、警察、迅速に対応されますね",
+      "en": "And when a call reports a victim screaming, we respond immediately — no delay.",
+      "style": "Firm closing assurance, tempo picking up slightly, ending on solid quiet conviction.",
+      "mood": "resolute"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_10766",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: デュアル/ダイアログ/コンパイル/アンカー/グリッド/シールド/レビューア/コストパフォーマンス",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "デュアル",
+    "ダイアログ",
+    "コンパイル",
+    "アンカー",
+    "グリッド",
+    "シールド",
+    "レビューア",
+    "コストパフォーマンス"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_540 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、製品をデュアル展開、つまり二系統で売れ",
+      "en": "Our company will sell the product through a dual distribution model—two separate channels.",
+      "style": "Measured, direct opening. Crisp articulation on 'dual.' Authoritative but not rushed. Pausing slightly before the clarification to ensure comprehension. Steady eye contact.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内ダイアログボックスのUIを改善します",
+      "en": "Understood. We'll improve the internal dialog box UI.",
+      "style": "Clear, professional acknowledgment. Quick uptake—he's already mentally moving to the action items. Clipped, efficient tone. No hesitation.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、開発のコンパイル時間を短縮しろ",
+      "en": "Our company needs to reduce development compile time.",
+      "style": "Direct command. Weight on the verb 'reduce.' No softening—this is an expectation. Steady, controlled delivery. The tone of someone used to being followed.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。広告動画のアンカー、つまり司会者を選定します",
+      "en": "Understood. We'll select the anchor—the host—for the promotional video.",
+      "style": "Rapid response, practical. Brief pause before clarification on 'anchor.' Professional, moving forward. Confirms receipt without elaboration.",
+      "mood": "task_oriented"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、商品棚のグリッド配置を見直せ",
+      "en": "Our company needs to reconsider the product shelf grid layout.",
+      "style": "Clear directive tone. Slight emphasis on 'reconsider'—this is a revision, not a new build. Composed, expectant. The authority of someone stating necessary change.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新商品のシールド塗装を試験します",
+      "en": "Understood. We'll trial the shield coating for the new product.",
+      "style": "Efficient confirmation. Light forward momentum—he's already onto the next task. Professional, no drag. Clipped, ready.",
+      "mood": "task_oriented"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社外レビューア、つまり評価者の意見を採り入れろ",
+      "en": "Our company needs to incorporate feedback from external reviewers—the evaluation specialists.",
+      "style": "Direct mandate. Clarifying pause before 'evaluation specialists.' Measured delivery—this is strategic input, not optional. Composed authority.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。商品のコストパフォーマンスを訴求します",
+      "en": "Understood. We'll highlight the product's cost-to-performance value proposition.",
+      "style": "Final confirmation, slightly warmer closure. Quick, decisive. The release point of the meeting. Professional but the smallest hint of resolution in the pace.",
+      "mood": "resolved"
+    }
+  ]
+}

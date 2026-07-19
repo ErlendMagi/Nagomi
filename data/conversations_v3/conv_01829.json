@@ -1,0 +1,61 @@
+{
+  "id": "conv_01829",
+  "context": "Mei reads bedtime poem to small Hina (use hina_child as toddler).",
+  "purpose": "Mother sharing poetry with young child at night.",
+  "ambient": "bedroom_lamp_warm",
+  "sound_effects": [],
+  "target_vocab": [
+    "詩",
+    "言葉",
+    "美しい",
+    "心"
+  ],
+  "cast": [
+    "mei_romantic",
+    "hina_child"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_092)",
+    "generated_at": "2026-05-27T08:08:08.314Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "ひな、今夜は詩、読むよ。",
+      "en": "Hina, I'm going to read you a poem tonight.",
+      "style": "Soft, unhurried opening. Warm and luminous tone—the kind of voice you use when you're about to share something precious. Slight lean-in. No performance, just presence.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "ふふ、楽しみ!",
+      "en": "Mm, I can't wait.",
+      "style": "Sleepy delight. Small and genuine—not performing excitement but feeling it. Nestled into the moment. Warm exhale on the hum.",
+      "mood": "sleepy_eager"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "言葉、美しいでしょ?",
+      "en": "Beautiful words, aren't they?",
+      "style": "Conversational, inviting. Soft cadence like she's thinking out loud with Hina. Wondering together, not instructing. Gentle rhythm, almost musical.",
+      "mood": "wondering"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "心に、響くね。",
+      "en": "It touches your heart, doesn't it.",
+      "style": "Quiet recognition. Hina discovering something true. Small voice but steady. The tone of someone who has just felt something move through them.",
+      "mood": "moved"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、おやすみ。",
+      "en": "Yeah. Sleep well.",
+      "style": "Soft, sustaining warmth. The words settle like a blanket. No rush. A held pause before releasing her to sleep. Deep care in the gentleness.",
+      "mood": "loving"
+    }
+  ]
+}

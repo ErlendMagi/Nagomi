@@ -1,0 +1,78 @@
+{
+  "id": "conv_04315",
+  "context": "A rural local recommends a country restaurant to a city mom",
+  "purpose": "Teach: 鶏/調理/放題/代金/飲食/定員/ピーク/支払う",
+  "ambient": "street_quiet_distant",
+  "sound_effects": [],
+  "target_vocab": [
+    "鶏",
+    "調理",
+    "放題",
+    "代金",
+    "飲食",
+    "定員",
+    "ピーク",
+    "支払う"
+  ],
+  "cast": [
+    "tatsuya_country",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_217 workflow wff0vb8v1)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "tatsuya_country",
+      "jp": "お母さん、東京から来たんやろ？この辺なら、川沿いの飲食店がええよ。",
+      "en": "Ma'am, you came from Tokyo, right? Around here, the restaurant by the river is great.",
+      "style": "Warm rural greeting, friendly and welcoming tone."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "へえ、そうなんですか。子供連れでも入れるお店ありますかね？",
+      "en": "Oh, is that so? Is there a place we can enter even with kids?",
+      "style": "Polite city mother, slightly cautious and curious."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "もちろん。地元の鶏を使った料理が名物で、調理してるおじさんも気さくな人やよ。",
+      "en": "Of course. Dishes using local chicken are the specialty, and the cook is a friendly man.",
+      "style": "Proud local recommending, casual countryside warmth."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "美味しそう！うちの子、たくさん食べるから、食べ放題とかあると助かるんですけど。",
+      "en": "Sounds delicious! My kid eats a lot, so all-you-can-eat would really help.",
+      "style": "Relieved hopeful mom, slightly laughing while speaking."
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "あるある、平日のお昼なら千五百円で食べ放題。代金もお手頃やろ？",
+      "en": "Yes, yes — weekday lunch is fifteen hundred yen all-you-can-eat. The price is reasonable, right?",
+      "style": "Enthusiastic local persuading proudly with countryside charm."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "安いですね！でも混んでたりしませんか？席の定員とか気になって。",
+      "en": "That's cheap! But isn't it crowded? I'm worried about the seating capacity.",
+      "style": "Practical mom, planning ahead carefully, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "tatsuya_country",
+      "jp": "ピーク時はちょっと待つけど、一時過ぎに行けば大丈夫やで。支払うのは現金だけやから注意してな。",
+      "en": "At peak time you wait a bit, but after one o'clock it's fine. Just note they only take cash.",
+      "style": "Helpful insider tip, casual and informative."
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ありがとうございます！早速、お昼に行ってみますね。",
+      "en": "Thank you so much! We'll head there for lunch right away.",
+      "style": "Grateful city mother, warm and sincere closing."
+    }
+  ]
+}

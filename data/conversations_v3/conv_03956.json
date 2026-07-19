@@ -1,0 +1,78 @@
+{
+  "id": "conv_03956",
+  "context": "A uni student interviews a manager about corporate cybersecurity",
+  "purpose": "Teach: ウェブサイト/暗号/転送/無効/流出/用途/任務/通用",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "ウェブサイト",
+    "暗号",
+    "転送",
+    "無効",
+    "流出",
+    "用途",
+    "任務",
+    "通用"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日は取材のお時間をいただきありがとうございます。御社のウェブサイトで情報セキュリティへの取り組みを拝見しました。",
+      "en": "Thank you for your time today. I read about your information security efforts on your company's website.",
+      "style": "Polite formal student opening interview with manager"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "こちらこそ。まず弊社では、社内通信をすべて暗号化して守ることを基本としています。",
+      "en": "Likewise. First of all, our company protects all internal communications by encrypting them as a baseline.",
+      "style": "Professional manager explaining baseline policy with confidence"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。社員がメールを外部に転送する場合にも、何か制限があるのでしょうか。",
+      "en": "I see. Are there any restrictions when employees forward emails to external addresses?",
+      "style": "Curious follow-up question seeking concrete operational detail"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ええ、許可されていない宛先への転送は自動的に無効になります。万一情報が流出すれば、会社の信頼が失われますから。",
+      "en": "Yes, forwarding to unauthorized addresses is automatically disabled. If information were leaked, the company would lose trust.",
+      "style": "Serious tone emphasizing strict technical controls and consequences"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "USBメモリなどの持ち込みについては、用途によって扱いが変わるんですか。",
+      "en": "Regarding bringing in USB drives, does the treatment change depending on the intended use?",
+      "style": "Probing detail-oriented question about physical device policies"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、業務上の任務で必要な場合のみ、申請して暗号化された端末を貸し出します。私物は一切認めません。",
+      "en": "Yes, only when needed for work duties, employees apply and we lend out encrypted devices. Personal items are never allowed.",
+      "style": "Firm explanatory voice clarifying strict approval-based procedure"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "海外拠点でも同じルールが通用するんでしょうか。文化の違いで難しそうですが。",
+      "en": "Do the same rules apply at overseas locations? It seems difficult due to cultural differences.",
+      "style": "Thoughtful inquiry exploring global consistency and human factors"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そこが一番の課題ですね。技術だけでなく、社員一人一人の意識を育てることが、結局は最強の防御になります。",
+      "en": "That is the biggest challenge. Beyond technology, cultivating each employee's awareness ultimately becomes the strongest defense.",
+      "style": "Reflective concluding remark emphasizing human element over technology"
+    }
+  ]
+}

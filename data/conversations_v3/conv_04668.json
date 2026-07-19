@@ -1,0 +1,78 @@
+{
+  "id": "conv_04668",
+  "context": "A boss reviews quarterly tech upgrades with his manager",
+  "purpose": "Teach: フラッシュ/メモリー/ラウンド/セブン/シャープ/連結/連想/簡易",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "フラッシュ",
+    "メモリー",
+    "ラウンド",
+    "セブン",
+    "シャープ",
+    "連結",
+    "連想",
+    "簡易"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_235 workflow wz4i8nuk5)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期のフラッシュメモリーの調達状況について、報告してくれるか。",
+      "en": "Could you report on this quarter's flash memory procurement status?",
+      "style": "Authoritative boss opening the quarterly review meeting"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、シャープ製の新型チップに切り替えまして、コストが約二割削減できました。",
+      "en": "Yes, we switched to Sharp's new chips and cut costs by about twenty percent.",
+      "style": "Composed middle manager presenting concrete numbers"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう。それで、サーバーの連結作業はもう完了したのか。",
+      "en": "Oh? And has the server linkage work been completed already?",
+      "style": "Boss probing for progress details with mild interest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "セブン号棟との連結はまだですが、来月の第二ラウンドの工事で対応予定です。",
+      "en": "The link with Building Seven isn't done yet, but we'll handle it in next month's second round of construction.",
+      "style": "Manager explaining the rollout timeline calmly"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。前回の失敗を連想してしまうな。今回は大丈夫だろうな。",
+      "en": "Hmm. It makes me recall the last failure. We'll be fine this time, right?",
+      "style": "Cautious boss voicing concern from past experience"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ご安心ください。簡易テストも事前に実施して、リスクは最小限に抑えます。",
+      "en": "Please don't worry. We'll run simplified tests beforehand and keep the risk to a minimum.",
+      "style": "Reassuring subordinate offering concrete mitigation plan"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、その方針で進めてくれ。資料は今週中に提出するように。",
+      "en": "Good, proceed with that plan. Submit the documents by the end of this week.",
+      "style": "Boss closing the discussion with a clear directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。金曜の朝までにまとめてお持ちいたします。",
+      "en": "Understood. I'll have it compiled and brought to you by Friday morning.",
+      "style": "Polite professional confirmation closing the meeting"
+    }
+  ]
+}

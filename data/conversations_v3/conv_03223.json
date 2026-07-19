@@ -1,0 +1,80 @@
+{
+  "id": "conv_03223",
+  "context": "A ward officer explains the benefit to a resident",
+  "purpose": "Advise a citizen; teach 世帯/所得/適用/原則/制限/福祉/財源/協議/当事者/支持",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "世帯",
+    "所得",
+    "適用",
+    "原則",
+    "制限",
+    "福祉",
+    "財源",
+    "協議",
+    "当事者",
+    "支持"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ryosuke_dad"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_162)",
+    "generated_at": "2026-05-29T16:43:00.422Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "うちの世帯も対象になりますか？",
+      "en": "Is my household eligible too?",
+      "style": "hopeful resident asking a practical question"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご家庭の所得によって変わります。",
+      "en": "It depends on your household income.",
+      "style": "measured official giving a careful answer"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "所得が多いと適用外なんですね。",
+      "en": "So with higher income it doesn’t apply.",
+      "style": "understanding resident confirming the rule, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、原則そういう制限があります。",
+      "en": "Yes, in principle there’s such a limit.",
+      "style": "polite official stating policy plainly, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "福祉のお金って、財源は税金ですか？",
+      "en": "Is the welfare money funded by taxes?",
+      "style": "curious resident asking where money comes from"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ええ、使い道は議会で協議されています。",
+      "en": "Yes, its use is deliberated in the assembly.",
+      "style": "informative official explaining oversight, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "ryosuke_dad",
+      "jp": "当事者として、ちゃんと支持したいです。",
+      "en": "As one affected, I want to support it properly.",
+      "style": "earnest resident expressing civic intent, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "ご理解ありがとうございます。",
+      "en": "Thank you for understanding.",
+      "style": "courteous official closing the exchange warmly"
+    }
+  ]
+}

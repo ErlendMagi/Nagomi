@@ -1,0 +1,79 @@
+{
+  "id": "conv_02142",
+  "context": "Saito reviews a patient's recovery progress with Asuka.",
+  "purpose": "Two professionals discussing health outcome.",
+  "ambient": "clinic_office_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "回復",
+    "日中",
+    "熱い",
+    "軽い",
+    "下がっ",
+    "不安定",
+    "当たっ",
+    "進み"
+  ],
+  "cast": [
+    "saito_doctor",
+    "asuka_teacher"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_108)",
+    "generated_at": "2026-05-27T16:46:29.640Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "あすか、患者の回復、順調。",
+      "en": "Asuka, the patient's recovery is progressing well.",
+      "style": "Direct but warm greeting. Measured cadence. Professional composure with genuine relief underneath. Slight pause before the summary — careful choice of words.",
+      "mood": "reassured"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "日中、熱、下がってる?",
+      "en": "The fever has come down during the day?",
+      "style": "Soft, hopeful intonation on the question. Leaning forward slightly — genuinely invested in the answer. Breath calm and open.",
+      "mood": "cautiously_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい、軽い熱、まだあるけれど。",
+      "en": "Yes, there's still a light fever, but it's moving in the right direction.",
+      "style": "Honest and steady. Slight emphasis on the \"but\" — not dismissing the remaining fever, just contextualizing it. Matter-of-fact warmth.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "体調、不安定、心配ね。",
+      "en": "So the condition is still a bit unstable. That does worry me.",
+      "style": "Quiet concern beneath the surface. Spoken carefully, as if thinking aloud. Slight furrow in the voice — not panicked, but present.",
+      "mood": "concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "治療、ちょうど当たっている、進みは良い。",
+      "en": "The treatment is working exactly as it should. Progress is good.",
+      "style": "Assured and clear. Quiet confidence on \"exactly.\" Steady pace. The kind of statement that settles things — not overstating, just competent.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ご家族にも、伝えてあげてね。",
+      "en": "Make sure you tell the family this when you see them, will you?",
+      "style": "Gentle directive. Not commanding — collaborative. Warm recognition that Asuka's role matters here. Slight upturn at the end, like a shared responsibility.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、明日には、報告できるはず。",
+      "en": "I should be able to give them a full report by tomorrow.",
+      "style": "Warm, affirming. Small nod in the voice. Relaxed pace — this is within reach. The reassurance of someone who means what she says.",
+      "mood": "warm_assured"
+    }
+  ]
+}

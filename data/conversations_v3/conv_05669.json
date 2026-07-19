@@ -1,0 +1,72 @@
+{
+  "id": "conv_05669",
+  "context": "A police officer interviews a manager about an industry fraud case",
+  "purpose": "Teach: 返答/内訳/値上がり/倍増/消耗/受給/心得/規律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返答",
+    "内訳",
+    "値上がり",
+    "倍増",
+    "消耗",
+    "受給",
+    "心得",
+    "規律"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "業界全体で、値上がりに乗じた詐欺が倍増しています。",
+      "en": "Fraud exploiting price hikes has doubled across the entire industry.",
+      "style": "Even, measured delivery. Opens on factual weight without alarm. Steady eye contact. Professional but not cold — this is information that matters.",
+      "mood": "measured_serious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、社内でも問い合わせが消耗する量です。",
+      "en": "Yes — the volume of inquiries we're fielding has been exhausting.",
+      "style": "Quiet acknowledgment with a undertone of strain. Small pause before the qualification. Not complaining, just naming what's true. Tired but focused.",
+      "mood": "strained_honest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害の内訳、業種別に整理されていますか。",
+      "en": "Have you sorted the damage breakdown by industry?",
+      "style": "Precise, methodical. Each phrase lands cleanly. Slight forward lean — not aggressive, but clarifying. The rhythm of someone who knows what information he needs.",
+      "mood": "focused_official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。受給契約に関する詐欺も含まれます。",
+      "en": "Yes. That includes fraud tied to benefit-payout contracts.",
+      "style": "Direct update, no filler. Steady pace. Shows he's been listening and prepared. Small nod of understanding on the offer.",
+      "mood": "prepared_responsive"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "規律ある返答を、被害者に届けたいですね。",
+      "en": "We want to deliver clear, disciplined answers to the victims.",
+      "style": "Gentle but unwavering. Shifts slightly — this is about the people, not just the procedure. Quiet insistence on care alongside protocol.",
+      "mood": "resolute_compassionate"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察の心得、勉強になります。",
+      "en": "Your approach to this — really helps me understand what matters.",
+      "style": "Warm genuineness. Slow enough to be sincere. No false modesty, but real recognition. Closes with quiet respect.",
+      "mood": "respectful_earnest"
+    }
+  ]
+}

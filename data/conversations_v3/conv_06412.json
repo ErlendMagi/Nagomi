@@ -1,0 +1,86 @@
+{
+  "id": "conv_06412",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 王者/焦り/断る/発散/流用/取り残さ/風情/跡地",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "王者",
+    "焦り",
+    "断る",
+    "発散",
+    "流用",
+    "取り残さ",
+    "風情",
+    "跡地"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_322 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "業界の王者と呼ばれる企業、関与、調査中です。",
+      "en": "We're currently investigating a firm known as an industry leader — their involvement in this case.",
+      "style": "Professional, measured cadence. Matter-of-fact opening. Even tone, neither rushed nor dragging. The voice of someone laying out facts without editorializing.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、焦りで、ミス、犯したようですね。",
+      "en": "The suspect seems to have made a panicked mistake — something that gave them away.",
+      "style": "Thoughtful, slightly forward-leaning. Not questioning, but genuinely working through the logic. Quiet underlying sharpness. Ends with a note of intellectual satisfaction.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。協力依頼、断る人もいます。",
+      "en": "Yes. We've asked for cooperation, but some people refuse to talk.",
+      "style": "Steady, acknowledging the friction without dwelling on it. Slightly heavier weight on the acknowledgment. Clinical acceptance of human reluctance.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者の怒り、発散する場、必要ですね。",
+      "en": "The victim needs a space where their anger can actually be heard — that matters.",
+      "style": "Gentle but deliberate. Not probing for a reaction, but naming something real. Slight pause before the last phrase, like he's checking if he's being too honest.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。公費流用の疑い、別件で調査中です。",
+      "en": "Yes. We're also investigating separately for signs of public funds being diverted.",
+      "style": "Continues the steady procedural tone. Matter-of-fact shift to the next layer of the case. No emotion, but attention is complete.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、取り残されない対応、警察、頑張ってますね。",
+      "en": "The police are trying to make sure the victim isn't abandoned in all of this — that's the work being done.",
+      "style": "Genuine appreciation underlying the observation. Soft but not soft-handed. A quiet acknowledgment of effort that often goes unseen.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。事件現場、風情の残る地域です。",
+      "en": "Yes. The crime scene is in an older neighborhood — one with a lot of history.",
+      "style": "Slight shift inward, more reflective. Eyes moving to somewhere beyond the conversation. Noticing the place itself, not just the facts. Quieter pace.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "空き家の跡地、犯罪リスク、上がりますね。",
+      "en": "Abandoned buildings like that — they create real openings for crime. The risk goes up.",
+      "style": "Connecting the details with quiet certainty. Not alarmed, but clear-eyed about cause and effect. The tone of someone who has thought this through before.",
+      "mood": "perceptive"
+    }
+  ]
+}

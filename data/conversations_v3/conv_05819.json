@@ -1,0 +1,79 @@
+{
+  "id": "conv_05819",
+  "context": "A boss mentors a uni intern about journalism",
+  "purpose": "Teach: 岡山/マリア/ホームズ/トニー/カメラマン/フォード/マルクス/マドリッド",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "岡山",
+    "マリア",
+    "ホームズ",
+    "トニー",
+    "カメラマン",
+    "フォード",
+    "マルクス",
+    "マドリッド"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_boss"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_292 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、地方取材で岡山行くなら、文芸サークルのマリアさん紹介する。",
+      "en": "Ren, if you're heading to Okayama for the field reporting, I'll introduce you to Maria from the literary circle.",
+      "style": "Casual mentor-to-mentee tone. Measured pace, practical. Opening with the name like you're catching someone's attention before the actual information. Matter-of-fact helpfulness.",
+      "mood": "helpful_direct"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。ホームズ風の推理特集、地元紙にも記事を載せたいです。",
+      "en": "Yes, thank you. I was hoping to get a Holmes-style mystery feature in the local paper too.",
+      "style": "Eager but measured—not gushing. Quick intake at the start. Respectful energy, slightly formal register matching the mentee-addressing-mentor dynamic. Thoughtful pacing on the secondary clause.",
+      "mood": "earnest_grateful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "同時期、映画祭審査員のトニーさんが来日する。",
+      "en": "Around that same time, Tony—the film festival jury member—will be visiting Japan.",
+      "style": "Informative, opening with calm authority. Slight emphasis on 'around that same time' to flag the coincidence. Even delivery, no rush. The tone of someone connecting dots for someone younger.",
+      "mood": "strategic"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "カメラマンの取材も、合わせて行えそうですか。",
+      "en": "Would it be possible to coordinate the camera crew coverage with that timing?",
+      "style": "Thoughtful question, genuine probe. Slightly careful phrasing—testing feasibility without overstepping. Pause before the final clause. Respectful but not tentative.",
+      "mood": "curious_careful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "うん。フォード財団からの招聘もあって、滞在は長い。",
+      "en": "Yes, it should work out. He's here on a Ford Foundation invitation, so his stay will be quite long.",
+      "style": "Reassuring affirmation at the start, then matter-of-fact expansion. Flat delivery on the institutional detail—it's just information, not a big deal. Slight downward trail at the end, suggesting 'so you have room to work.'",
+      "mood": "confirmatory"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "背景に、マルクス経済学の議論もあるそうで、文化欄にも。",
+      "en": "There's also Marxist economics discussion in the background, so that could work for the culture section too.",
+      "style": "Thoughtful addition, opening with a small exploratory tone—'there's also.' Speaking to what Ren might not have considered yet. Gentle upward lilt on 'too,' inviting him to see the angle.",
+      "mood": "expansive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "マドリッドからの中継、編集と調整しろ。",
+      "en": "Coordinate with editing on the live feed from Madrid.",
+      "style": "Shift to direct instruction, crisp and purposeful. Opening with the verb—this is now task-focused. No softening, but not harsh. Brief and clear, the tone of someone delegating with confidence.",
+      "mood": "instructive"
+    }
+  ]
+}

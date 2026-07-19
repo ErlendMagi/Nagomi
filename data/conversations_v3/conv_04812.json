@@ -1,0 +1,78 @@
+{
+  "id": "conv_04812",
+  "context": "A boss and his manager review a new office facility",
+  "purpose": "Teach: エレベーター/パイプ/挿入/コンクリート/断熱/塗装/建造/後方",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "エレベーター",
+    "パイプ",
+    "挿入",
+    "コンクリート",
+    "断熱",
+    "塗装",
+    "建造",
+    "後方"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_242 workflow wj0528681)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新しいオフィスの建造工事、ようやく完了したな。外観も立派なものだ。",
+      "en": "The new office construction work is finally complete. The exterior looks impressive too.",
+      "style": "Boss speaks with satisfied authority in a deep, measured voice."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、外壁の塗装も予定通り仕上がりました。色味もご指定の通りです。",
+      "en": "Yes, the exterior wall painting was finished on schedule. The color is as you specified.",
+      "style": "Polite manager reporting crisply with proper deference to his superior."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "エレベーターの動きはどうだ？社員が毎日使うものだから、念入りに確認してくれ。",
+      "en": "How is the elevator running? Employees use it daily, so check it thoroughly.",
+      "style": "Boss asks a practical question with a measured, attentive tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "問題ございません。後方の搬入口側にも、貨物用を一基、十分な間隔を取って設置しております。",
+      "en": "No issues. We also installed a freight elevator at the rear loading entrance with ample spacing.",
+      "style": "Manager answers efficiently with professional clarity and confidence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "壁の断熱はしっかりしているのか？冬場の光熱費が気になるところだ。",
+      "en": "Is the wall insulation solid? I'm concerned about heating costs in winter.",
+      "style": "Boss probes details with a slightly skeptical, scrutinizing tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "コンクリートの内側に高性能の断熱材を挿入し、しっかり施工しております。配管周りのパイプにも丁寧に処理を施しました。",
+      "en": "We inserted high-performance insulation inside the concrete and built it solidly. The piping was also carefully treated.",
+      "style": "Manager explains technical details with calm, confident expertise throughout."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど、よく分かった。これなら社員も快適に働けるだろう。有益な視察だった、ご苦労だった。",
+      "en": "I see, well understood. Employees should be able to work comfortably now. A worthwhile inspection, good work.",
+      "style": "Boss concludes warmly with an approving, appreciative tone."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "恐れ入ります。気になる点やお問合せがございましたら、いつでもお申し付けください。",
+      "en": "Thank you very much. If you have any concerns or inquiries, please let me know anytime.",
+      "style": "Manager closes humbly with a polished, respectful tone toward his boss."
+    }
+  ]
+}

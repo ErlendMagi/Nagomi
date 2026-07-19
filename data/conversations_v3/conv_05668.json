@@ -1,0 +1,65 @@
+{
+  "id": "conv_05668",
+  "context": "A boss mentors a uni intern on business basics",
+  "purpose": "Teach: 返答/内訳/値上がり/倍増/消耗/受給/心得/規律",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返答",
+    "内訳",
+    "値上がり",
+    "倍増",
+    "消耗",
+    "受給",
+    "心得",
+    "規律"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_285 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、原料の値上がり、企業財務に倍増の影響を与える時もある。",
+      "en": "Ren, raw material costs can sometimes double the impact on company finances.",
+      "style": "Measured, leaning forward slightly. Opens with quiet weight on the instruction. Paced to let each phrase settle. A teach-moment, not a lecture.",
+      "mood": "instructive"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "費用の内訳、慎重に分析が必要なんですね。",
+      "en": "So we need to analyze the cost breakdown carefully, then.",
+      "style": "Quick uptake, almost a question — checking his understanding aloud. Respectful lean-in. Soft uncertainty underneath the earnestness, seeking confirmation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "取引先からの返答、ずれることもある。心得として備えておけ。",
+      "en": "Vendor responses don't always line up with expectations. Keep that in mind as a matter of principle.",
+      "style": "Slower cadence, deliberate. Light pause before the principle—it matters. Not warning, but seasoning with experience. Eyes steady.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "人件費の受給管理、規律ある運用が大事ですね。",
+      "en": "Personnel budget management really does need disciplined execution, doesn't it.",
+      "style": "Affirming his own realization out loud. Careful, wanting to get it right. A slight hitch—not doubt, but the sound of someone internalizing something that will matter later.",
+      "mood": "realizing"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "消耗品費の管理も、見落とすな。",
+      "en": "And don't overlook consumable costs. They add up quietly.",
+      "style": "Final point, almost an afterthought that isn't. Warm but firm. The small things matter — delivered like someone who's learned this the hard way.",
+      "mood": "knowing"
+    }
+  ]
+}

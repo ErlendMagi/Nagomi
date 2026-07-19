@@ -1,0 +1,86 @@
+{
+  "id": "conv_00001",
+  "context": "Two coworkers at a small izakaya after a long, draining workday with a difficult senior client.",
+  "purpose": "shared-complaint / venting bonding — strengthens friendship by acknowledging the same hard moment",
+  "ambient": "izakaya_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "本当に",
+    "わかる",
+    "上司",
+    "明日",
+    "一緒",
+    "飲む",
+    "ありがとう",
+    "時間"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (hand-seeded reference)",
+    "generated_at": "2026-05-26T20:14:00Z",
+    "source_plan_row": "conv_043"
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "今日、本当に長かったね…",
+      "en": "Today really was long, wasn't it…",
+      "style": "Exhausted exhale on the opening word. Quiet, defeated tone. Slow pace. Slight trailing-off at the end, like she's checking herself for complaining out loud.",
+      "mood": "exhausted"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "わかる。あの上司の言い方さ、ちょっとひどかったよ。",
+      "en": "I get it. The way that boss spoke today was kind of harsh.",
+      "style": "Sympathetic, conspiratorial half-whisper. Leans in. Warm but tired. The reassurance of agreeing without making a show of it.",
+      "mood": "sympathetic"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "なんか、私のせいって感じで…",
+      "en": "It kind of felt like he was making it sound like my fault…",
+      "style": "Quiet hurt under the surface. Hesitant — checking herself for being unfair. Soft fadeout on the trailing particle.",
+      "mood": "wounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それは違うって。誰がどう見てもさ。",
+      "en": "That's not on you. Anyone could see it.",
+      "style": "Firmer this time. Light tap of conviction on 「違う」. Still warm — not lecturing, defending. Eye-contact level steady.",
+      "mood": "defending"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ありがとう。…ちょっと飲も。",
+      "en": "Thank you. …Let's drink a little.",
+      "style": "A small recovered smile in the voice. The thanks is quiet and real. The second clause shifts deliberately toward okay-ness.",
+      "mood": "recovering"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、飲も飲も。明日も同じ時間に呼ばれてるしね。",
+      "en": "Yeah, let's. We're called back at the same time tomorrow anyway.",
+      "style": "Wry laugh inside the voice. A shared groan that's also a joke. Lift on 「明日も」 for the punchline.",
+      "mood": "wry"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "(笑) もう、考えたくないって。",
+      "en": "(laughs) Stop, I don't even want to think about it.",
+      "style": "A real, tired laugh. Mock protest in the voice — she actually does want to think about it but only after one more drink.",
+      "mood": "laughing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "じゃあ、今日はもう一緒に何も考えないでおこう。",
+      "en": "Then let's both think about nothing for a while tonight.",
+      "style": "Warm, soft landing. The kind of sentence that ends a section of grief. JP and EN both: slower than the previous line, like he's deciding it for both of them.",
+      "mood": "settling"
+    }
+  ]
+}

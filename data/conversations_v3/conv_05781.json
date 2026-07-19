@@ -1,0 +1,65 @@
+{
+  "id": "conv_05781",
+  "context": "A boss reviews his team",
+  "purpose": "Teach: 山崎/藤原/松井/青山/坂本/近藤/石井/中島",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "山崎",
+    "藤原",
+    "松井",
+    "青山",
+    "坂本",
+    "近藤",
+    "石井",
+    "中島"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プロジェクトの主担当、山崎さんと藤原さんに決めた。",
+      "en": "I've decided on Yamazaki-san and Fujiwara-san as the project leads.",
+      "style": "Measured, authoritative opening. Even tempo, no rush. The tone of someone used to being heard. Slight pause after the decision lands.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。サポートに松井さん、青山さん。",
+      "en": "Yes. Matsui-san and Aoyama-san on support.",
+      "style": "Quiet confirmation. Note-taking rhythm — precise, efficient. No flourish. The cadence of someone transcribing facts in real time.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "坂本さん、近藤さんは、地域営業に回す。",
+      "en": "Sakamoto-san and Kondo-san go to regional sales.",
+      "style": "Flat direction. No inflection — this is how it is. Brief eye contact to signal movement to the next assignment.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "石井さん、中島さんは、本社で経理を担当します。",
+      "en": "Ishii-san and Nakajima-san will handle accounting here at headquarters.",
+      "style": "Formal completion. Slight deference in the verb choice — he's stating facts for the record. Crisp finish, no trailing.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よし、進めよう。",
+      "en": "All right, let's move forward.",
+      "style": "Brief nod of finality. Slight rise at the end — permission and dismissal in one. The sound of a meeting wrapping up.",
+      "mood": "resolute"
+    }
+  ]
+}

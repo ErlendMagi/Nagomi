@@ -1,0 +1,86 @@
+{
+  "id": "conv_07012",
+  "context": "A police officer discusses a case",
+  "purpose": "Teach: 従軍/感受性/故人/発砲/怠っ/氾濫/乱用/断絶",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "従軍",
+    "感受性",
+    "故人",
+    "発砲",
+    "怠っ",
+    "氾濫",
+    "乱用",
+    "断絶"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_352 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者、元従軍経験者、年配の方でした、本当に、複雑な、心境、想像、つかないものでした、警察、慎重に、対応、進めております、本気で、絶対、本当に。",
+      "en": "This case involves a suspect who is an elderly former soldier. The emotional landscape is complex — difficult to fully grasp. The police are proceeding with careful deliberation.",
+      "style": "Measured, professional opening. Steady cadence on the facts. A slight pause before 'difficult to grasp'—acknowledging the weight beneath procedure. Respectful, not detached.",
+      "mood": "measured_grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者ご家族、本当に、感受性、豊かな方々で、心の傷、本当に、深いんですね、警察、心のケア、しっかり、提供、されているんですよね、本気で、感謝、しております、市民として、本当に。",
+      "en": "The victim's family are people of considerable sensitivity. Their emotional wounds run very deep. The police are providing genuine psychological support, aren't they? As a citizen, I'm deeply grateful.",
+      "style": "Thoughtful, almost seeking confirmation. Slight lift at the question mark—genuine curiosity, not rhetorical. Warm respect beneath the words. A quiet exhale of relief that care is being taken.",
+      "mood": "respectful_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。故人となった被害者の方、本当に、立派な方だったそうです、警察、ご家族から、お話、伺いました、本気で、心、痛みます、本当に、辛い、捜査、なっております、最近、特に。",
+      "en": "Yes. From what the police heard from the family, the deceased victim was apparently a person of real integrity. These are difficult investigations, especially recently. It weighs on us.",
+      "style": "Solemn acknowledgment. Gentle emphasis on 'integrity'—honoring the person. Voice lowers slightly on 'weighs on us,' as if sharing something personal beneath the uniform.",
+      "mood": "sorrowful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、住宅地で、発砲した事件でしたよね、本当に、深刻な、犯罪、警察、断固として、対応されていますよね、本気で、市民の安全、絶対に、守って欲しいですね、お願い、本当に。",
+      "en": "This was the shooting incident in a residential area, wasn't it? A serious crime. The police are responding firmly, I understand. Citizens need to feel their safety is genuinely protected.",
+      "style": "Careful, seeking validation. Slight tension on 'seriously'—this matters. Measured pace until the final request, which carries quiet urgency without pleading.",
+      "mood": "concerned_earnest"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、安全管理を、怠っていた、銃保管、問題でした、警察、本気で、再発防止策、検討中です、絶対、社会、安全に、するため、全力で、頑張ってまいります、本気、本当に。",
+      "en": "Yes. The suspect failed to maintain proper safety protocols—a gun storage issue. The police are currently examining measures to prevent recurrence. We will do everything in our power to ensure society remains safe.",
+      "style": "Official but warm. Steady rhythm on the procedures. Emphasis on 'will do everything'—a quiet commitment, not a boast. Voice carries responsibility like a weight carried willingly.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "メディアの情報、氾濫している今、警察、本当に、正しい情報、発信、急務ですよね、市民として、本気で、感謝、申し上げております、いつも、本当に、本気で、絶対。",
+      "en": "With so much media information flooding the public now, providing accurate information is urgent, isn't it? As a citizen, I'm genuinely thankful for what the police do—always, truly.",
+      "style": "Thoughtful inquiry with underlying conviction. Builds slightly toward the gratitude, which lands as sincere rather than performative. A small pause before 'always'—emphasizing consistency.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者、警察の権限の乱用、過去に、訴えていた方でした、複雑な、背景、感じます、警察、本気で、慎重に、対応、進めてまいります、絶対、本気で、本当に、お願い、市民。",
+      "en": "Yes. The suspect had made complaints in the past about police overreach. There's a complicated history here. We will proceed with careful attention to all of it. We ask for the public's patience.",
+      "style": "Deliberate, almost confessional. A brief acknowledgment of the complexity—not defensive, just honest. Closes with quiet humility on 'we ask'—not commanding, inviting understanding.",
+      "mood": "cautious_humble"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者ご家族、地域社会との、断絶、深刻だったと、聞きました、本当に、心が、痛みます、警察、ケアも、本気で、提供、されていますね、本当に、立派、頭が下がる、思いです、絶対。",
+      "en": "The victim's family experienced severe rupture from their community. Truly, it grieves me to hear that. The police are providing genuine care, I trust? It speaks to something admirable. I'm humbled by such dedication.",
+      "style": "Reflective and tender. Softens on 'grieves me'—personal, not abstract. Question mark carries real hope. Final sentence slows slightly, reverent—this is where his genuine emotion shows through.",
+      "mood": "moved_humbled"
+    }
+  ]
+}

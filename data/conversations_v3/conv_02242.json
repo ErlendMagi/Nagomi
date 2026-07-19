@@ -1,0 +1,79 @@
+{
+  "id": "conv_02242",
+  "context": "Sho-young breaks his arm; Saito treats him gently.",
+  "purpose": "Doctor caring for injured child.",
+  "ambient": "clinic_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "骨折",
+    "処方",
+    "冷却",
+    "優しい",
+    "安心",
+    "回復",
+    "心配",
+    "丁寧"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_113)",
+    "generated_at": "2026-05-27T17:42:17.192Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "翔くん、骨折、心配いりません。",
+      "en": "Sho, it's just a fracture. Nothing to worry about.",
+      "style": "Clear, steady opening. Speaks to the child directly but also reassuring the mother in the room. Warm but clinical—the kind of competent calm that dissolves panic. Slight pause before the reassurance, letting the first fact land.",
+      "mood": "composed_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "先生、痛いよ。",
+      "en": "Doctor, it hurts.",
+      "style": "Small, trembling voice. Not wailing—just honest hurt. Eyes welling up. Looking to the doctor for permission to feel this. A six-year-old's matter-of-fact confession.",
+      "mood": "hurting"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "冷却、しながら、優しい薬、処方します。",
+      "en": "We'll cool it down and I'm going to prescribe you some gentle medicine to help.",
+      "style": "Directed at Sho but also at his mother. Speaking in concrete steps—cooling, then medicine. Warm but specific. The kind of clarity that makes a scared child feel held. Hand gestures matter here, pointing to what comes next.",
+      "mood": "gentle_competent"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "いつ、回復する?",
+      "en": "When will it get better?",
+      "style": "Quiet question, but urgent underneath. Not demanding—asking like he trusts the answer. Eyes search the doctor's face. The worry of a perceptive child who senses what could be wrong.",
+      "mood": "anxious_hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "丁寧に、休めば、すぐ良くなるよ。",
+      "en": "If you rest carefully and keep up with the medicine, you'll be back to normal quite soon.",
+      "style": "Settled, confident. A doctor who has seen this fracture a hundred times and knows the outcome. Lean in slightly on 'quite soon'—giving him permission to believe it. Steady eye contact with Sho.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "安心した、ありがとう先生!",
+      "en": "I feel better now. Thank you, doctor!",
+      "style": "The relief floods in. Suddenly lighter. A child who needed to hear that and now believes it. Gratitude pours out—genuine, not performative. Small body relaxes.",
+      "mood": "relieved_grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お母さん、心配しないでね。",
+      "en": "And don't you worry either, Mom. He's in good hands.",
+      "style": "A glance to the mother, warm but not patronizing. Competent reassurance. This is what the doctor does—holds worry so the parent doesn't have to carry it alone. Slight nod that acknowledges her fear without dwelling on it.",
+      "mood": "steady_confident"
+    }
+  ]
+}

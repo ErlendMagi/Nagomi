@@ -1,0 +1,86 @@
+{
+  "id": "conv_06648",
+  "context": "A boss mentors an intern",
+  "purpose": "Teach: 知識人/会派/替わり/積ま/計っ/常用/手作業/シード",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "知識人",
+    "会派",
+    "替わり",
+    "積ま",
+    "計っ",
+    "常用",
+    "手作業",
+    "シード"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_334 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "蓮、学界の知識人と、ネットワーク、築け。",
+      "en": "Ren — build a network with academic intellectuals.",
+      "style": "Measured and direct. Opening with the name is a pause-point, an anchor. Low register, steady pressure underneath. This isn't a suggestion. A slight lean forward in authority, not warmth.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。学内、複数の会派、勉強しております。",
+      "en": "Yes. I'm studying the different schools of thought on campus.",
+      "style": "Respectful but genuine. No performance of deference — this is just how he speaks to someone he trusts. Slight quicken on 'I'm studying' — showing he's already moving, already committed. Clean delivery.",
+      "mood": "focused_respectful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "指導教官の替わりに、学会に出る場面、あるぞ。",
+      "en": "You'll find yourself presenting at conferences instead of your advisor.",
+      "style": "Matter-of-fact. A statement of what will happen, not a question. Brief pause before 'instead' — letting that weight land. Calm authority that expects understanding, not argument.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。論文の引用、たくさん積まないように、絞ります。",
+      "en": "Yes. I'll narrow my paper citations so they're quality over quantity.",
+      "style": "Quiet conviction. He's already thinking three moves ahead. No hesitation in the yes — he's tracking what was just said. Slight emphasis on 'quality' — showing he understands the real instruction beneath the words.",
+      "mood": "determined"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "実験結果、しっかり計った上で、論文にしろ。",
+      "en": "Measure your experimental results carefully before you write the paper.",
+      "style": "Firm but not cold. A senior speaking to someone who matters. The emphasis lands on 'carefully' — this isn't about speed. No room for shortcut, but the tone carries respect for Ren's capability to do it right.",
+      "mood": "exacting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。常用辞書、最新版を、入手しました。",
+      "en": "Yes. I've already gotten the latest edition of the reference dictionary.",
+      "style": "Quick affirmation, then showing he's prepared. A small note of pride — he's stayed ahead. Clean, efficient delivery. No over-explaining; the evidence speaks.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "初期段階の実験は、手作業で、丁寧にやれ。",
+      "en": "I'll do the early experiments by hand, very carefully.",
+      "style": "Steady, almost meditative. He's visualizing the work. The word 'carefully' lands with quiet intention — not rushed. A young person translating instruction into a personal practice, not just a task.",
+      "mood": "meticulous"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい。シード論文として、結果を発表したいです。",
+      "en": "Yes. I want to publish the results as a seed paper.",
+      "style": "Hopeful undertone beneath the formality. He's reaching further — not just following direction, but envisioning his own next step. A slight lift at the end, like he's offering this up for approval. Quiet ambition.",
+      "mood": "ambitious_careful"
+    }
+  ]
+}

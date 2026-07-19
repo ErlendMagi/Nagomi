@@ -1,0 +1,84 @@
+{
+  "id": "conv_04632",
+  "context": "A boss and his manager read social-issue headlines",
+  "purpose": "Teach: 国王/戦士/法曹/国庫/連帯/募金/カトリック/中毒",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国王",
+    "戦士",
+    "法曹",
+    "国庫",
+    "連帯",
+    "募金",
+    "カトリック",
+    "中毒"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_233 workflow w4yfmez0g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "おはよう、健司。今朝の新聞、一面に北欧の国王の写真が大きく載ってたな。",
+      "en": "Morning, Kenji. The front page had a big photo of the Northern European king today.",
+      "style": "Boss greets casually, coffee in hand, scanning the front page with mild curiosity."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、見ました。妙に若々しい王様ですよね。私はむしろ隣の法曹改革の記事の方が気になりましたが。",
+      "en": "Yeah, I saw. He looks oddly youthful, doesn't he. Honestly the legal-profession reform article next to it caught my eye more.",
+      "style": "Manager replies with a light chuckle, then steers toward what actually interests him."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ほう、君らしいな。あれ、結局は国庫の負担をどう減らすかって話だろう？うちには関係なさそうだが。",
+      "en": "Heh, that's just like you. In the end it's about cutting the treasury burden, isn't it? Doesn't seem to affect us much.",
+      "style": "Boss teases lightly, then shrugs with a businessman's detached pragmatism."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうとも言えませんよ。三面のカトリック団体の街頭募金、あれ、難民支援って書いてました。社会の連帯って、結局回り回ってきますから。",
+      "en": "I wouldn't say that. The Catholic group's street fundraising on page three — it's for refugees. Social solidarity comes back around eventually.",
+      "style": "Manager pushes back gently but firmly, voice warming as he makes his point."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ふむ。お前、朝から熱いな。",
+      "en": "Hmm. You're awfully fired up this morning.",
+      "style": "Boss smirks, half-impressed and half-amused at his manager's morning passion."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "すみません、つい。あと退役した戦士たちのアルコール中毒の記事も読んで、ちょっと考えさせられて。",
+      "en": "Sorry, got carried away. I also read the piece on retired soldiers' alcohol addiction and it stuck with me.",
+      "style": "Manager apologizes sheepishly, lowering his voice as the topic darkens."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ああ、あれは重いな。うちの叔父も自衛隊上がりで、似たような時期があった。",
+      "en": "Ah, that one's heavy. My uncle was ex-SDF, and he went through something similar.",
+      "style": "Boss's tone drops, suddenly personal, eyes drifting from the paper."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうでしたか…。",
+      "en": "Oh, I had no idea…",
+      "style": "Manager responds softly, genuinely caught off guard by the personal revelation."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "まあ、昔の話だ。さて、その熱意で午後までに記事の要約頼むぞ。期待してるからな。",
+      "en": "Well, old story. Anyway, channel that passion and get me a summary of those articles by this afternoon. I'm counting on you.",
+      "style": "Boss recovers with a wry smile, pivoting back to work with affectionate gruffness."
+    }
+  ]
+}

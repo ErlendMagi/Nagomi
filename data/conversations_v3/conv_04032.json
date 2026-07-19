@@ -1,0 +1,78 @@
+{
+  "id": "conv_04032",
+  "context": "A barista and a sales rep talk about a cafe renovation plan",
+  "purpose": "Teach: デスク/ルーム/扉/電波/交代/パック/タウン/大抵",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "デスク",
+    "ルーム",
+    "扉",
+    "電波",
+    "交代",
+    "パック",
+    "タウン",
+    "大抵"
+  ],
+  "cast": [
+    "aoi_barista",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_203 workflow w4x3t8k95)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "こんにちは、先日お話しした内装パックのカタログをお持ちしました。",
+      "en": "Hello, I brought the catalog for the renovation package we discussed the other day.",
+      "style": "Polite sales rep opening with professional warmth and clarity."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ありがとうございます。実はこのタウン全体が再開発されるので、うちも本格的に動こうかと。",
+      "en": "Thank you. Actually, since this whole town is being redeveloped, we're thinking of moving seriously too.",
+      "style": "Friendly barista voice, slightly excited about future plans."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それでしたら奥の小さなルームをミーティング用に改装するプランが大抵の店舗様に好評です。",
+      "en": "In that case, the plan to renovate the small back room as a meeting space is well received by most shops.",
+      "style": "Confident pitch tone, structured and informative delivery."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "なるほど。あの扉の奥のスペースですね。ただ、あそこは電波がちょっと悪いんですよ。",
+      "en": "I see. The space behind that door, right? But the signal is a little weak in there.",
+      "style": "Thoughtful barista, raising a practical concern gently."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ご安心ください、Wi-Fi中継機もセットに含まれております。デスクも壁付けタイプにできますよ。",
+      "en": "Please don't worry, a Wi-Fi repeater is included in the set. The desks can also be wall-mounted.",
+      "style": "Reassuring professional tone with helpful product details."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "助かります。スタッフの交代時間に打ち合わせもできそうですね。",
+      "en": "That helps a lot. We could probably hold meetings during the staff shift changes too.",
+      "style": "Warm, appreciative barista expressing genuine interest."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ぜひ。工事は二週間ほどで、夜間作業ですので営業への影響も最小限です。",
+      "en": "Absolutely. Construction takes about two weeks, and since it's night work, the impact on business is minimal.",
+      "style": "Crisp sales rep summary, emphasizing convenience and timing."
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "いいですね。一度オーナーと相談して、来週お返事しますね。",
+      "en": "Sounds good. Let me talk it over with the owner once and reply next week.",
+      "style": "Polite, decisive barista closing on a positive note."
+    }
+  ]
+}

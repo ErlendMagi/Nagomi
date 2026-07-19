@@ -1,0 +1,91 @@
+{
+  "id": "conv_00160",
+  "context": "A pediatric clinic. Hina has a slight fever; Yumiko brought her in. Dr. Saito examines her gently.",
+  "purpose": "pediatric checkup — three voices threading care between adult professional and child",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "熱",
+    "咳",
+    "少し",
+    "薬",
+    "心配"
+  ],
+  "cast": [
+    "saito_doctor",
+    "hina_child",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "ひなちゃん、こんにちは。今日はどうしたかな。",
+      "en": "Hina, hello. What's going on today?",
+      "style": "Gentle doctor voice tuned to child register, warm professional kindness with no condescension audible throughout.",
+      "mood": "gentle-professional"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "熱がでた…。",
+      "en": "I got a fever…",
+      "style": "Small wilted child voice, the energy diminished by illness, soft and honest trailing-off at the end.",
+      "mood": "wilted-soft"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "昨日の夜から、ちょっと咳もしてて。",
+      "en": "Since last night, she's been coughing a little too.",
+      "style": "Maternal supplementing voice, concerned but composed, providing the clinical details a doctor needs efficiently.",
+      "mood": "concerned-composed"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "なるほど。じゃあ、ちょっと喉見せてね。",
+      "en": "I see. Then, let me look at your throat a bit.",
+      "style": "Patient doctor pivoting to exam, child-pitched warmth slipped into the professional cadence carefully.",
+      "mood": "professionally-warm"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "あー…。",
+      "en": "Aaah…",
+      "style": "Small obedient child sound, slightly nervous but trusting, the sound itself wilted with feeling unwell.",
+      "mood": "obedient-wilted"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "少し赤いね。風邪の始まりかな。",
+      "en": "A little red. Maybe the start of a cold.",
+      "style": "Doctor matter-of-fact gentleness, naming the finding without alarm, soothing professional clarity throughout.",
+      "mood": "matter-of-factly-gentle"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "お薬、もらえますか。",
+      "en": "Can we get some medicine?",
+      "style": "Maternal practical asking, calm now that there's a diagnosis, voice steady and ready for instruction.",
+      "mood": "practically-calm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "出しときますね。ゆっくり休んでね、ひなちゃん。",
+      "en": "I'll prescribe some. Rest well, Hina.",
+      "style": "Doctor warm closing, professional efficiency softening into child-directed kindness, real care in the send-off.",
+      "mood": "warm-closing"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "はい…ありがとう、先生。",
+      "en": "Yes… thank you, doctor.",
+      "style": "Small wilted child gratitude, real politeness held even through the illness, voice soft but courteous.",
+      "mood": "courteous-wilted"
+    }
+  ]
+}

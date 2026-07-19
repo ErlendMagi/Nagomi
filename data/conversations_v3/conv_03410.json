@@ -1,0 +1,78 @@
+{
+  "id": "conv_03410",
+  "context": "Preparing for discharge",
+  "purpose": "Discharge planning; teach 入院/緩和/失っ/ショック/制御/表面/ニーズ/確信",
+  "ambient": "clinic_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "入院",
+    "緩和",
+    "失っ",
+    "ショック",
+    "制御",
+    "表面",
+    "ニーズ",
+    "確信"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_171)",
+    "generated_at": "2026-05-29T18:16:51.852Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "退院の日が決まりましたよ。",
+      "en": "The discharge date is set.",
+      "style": "pleased doctor sharing good news, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "入院、長かったですね。",
+      "en": "The hospital stay was long.",
+      "style": "relieved teen reflecting, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "痛みの緩和も、うまくいきました。",
+      "en": "Pain relief went well too.",
+      "style": "doctor recapping success, spoken with a recognizable personal cadence"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "一時は意識を失って、本当にショックでした。",
+      "en": "He briefly lost consciousness — truly a shock.",
+      "style": "teen recalling the scare, each word carrying genuine natural feeling"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血圧の制御も安定しています。",
+      "en": "Blood-pressure control is stable too.",
+      "style": "doctor confirming stability, voice clear and distinctly their own"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "傷の表面も、すっかりきれいに。",
+      "en": "The wound surface healed up nicely too.",
+      "style": "teen noting recovery, tone holding steady through the whole line"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "退院後の生活のニーズも、相談しましょう。",
+      "en": "Let’s discuss post-discharge living needs too.",
+      "style": "doctor planning ahead, delivery emotionally grounded and unforced"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "先生の確信が、家族の支えでした。",
+      "en": "Your confidence was our family’s support.",
+      "style": "grateful teen thanking him, spoken with a recognizable personal cadence"
+    }
+  ]
+}

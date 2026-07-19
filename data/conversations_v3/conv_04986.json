@@ -1,0 +1,78 @@
+{
+  "id": "conv_04986",
+  "context": "A boss reviews a public-affairs report with his manager",
+  "purpose": "Teach: 公募/補強/常任/衆院/本店/頂点/市立/乗車",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "公募",
+    "補強",
+    "常任",
+    "衆院",
+    "本店",
+    "頂点",
+    "市立",
+    "乗車"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の広報報告だが、衆院解散の影響をもっと深く分析しなければならない。",
+      "en": "About this term's PR report, we need a deeper analysis of the impact of the lower house dissolution.",
+      "style": "Measured executive tone, slightly stern, demanding more rigor."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。本店の広報チームに依頼して、政治面の記述を補強いたします。",
+      "en": "Understood. I'll ask the PR team at the head office to reinforce the political section.",
+      "style": "Polite mid-manager keigo, ready to act, deferential and prompt."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それから、常任理事会で取り上げる以上、業界の頂点を狙う姿勢を明確に打ち出してくれ。",
+      "en": "Also, since this goes to the standing board, make our intent to reach the industry's peak explicit.",
+      "style": "Firm directive, ambition-driven, clipped phrasing, tone matching the moment with quiet honesty"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社外取締役の公募についても、進捗を一節入れておきましょうか。",
+      "en": "Yes. Shall I also include a paragraph on the public recruitment of outside directors?",
+      "style": "Cautious suggestion, seeking approval from his superior before acting."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "入れてくれ。それと先月の市立図書館での講演、あれは反応がよかった。短く触れておけ。",
+      "en": "Do that. And last month's lecture at the city library went over well. Touch on it briefly.",
+      "style": "Approving, recalling positive event, instructive, signature delivery that holds the line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。役員の乗車手配と会場入りの段取りも、別紙で添付しております。",
+      "en": "Certainly. The board members' transport arrangements and venue logistics are attached separately.",
+      "style": "Detail-oriented, thorough, anticipating the boss's needs."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "よろしい。明日の朝までに差し替え版を頼む。最終版は私が目を通す。",
+      "en": "Good. Have the revised version ready by tomorrow morning. I'll review the final draft myself.",
+      "style": "Decisive close, setting a firm deadline, retaining oversight."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知いたしました。本日中に修正稿をお手元にお届けします。",
+      "en": "Understood. I'll deliver the revised draft to you by end of today.",
+      "style": "Crisp acknowledgment, committed and professional, tone matching the moment with quiet honesty"
+    }
+  ]
+}

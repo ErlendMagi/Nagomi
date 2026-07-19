@@ -1,0 +1,65 @@
+{
+  "id": "conv_05632",
+  "context": "A police officer briefs a uni reporter on a case",
+  "purpose": "Teach: 分布/良心/防御/加害/捜索/河川/大震災/楽観",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "分布",
+    "良心",
+    "防御",
+    "加害",
+    "捜索",
+    "河川",
+    "大震災",
+    "楽観"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_283 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害分布、市内の河川沿いに集中しています。",
+      "en": "Damage reports are concentrated along the riverbanks throughout the city.",
+      "style": "Measured, official tone. Even cadence. Delivers facts without inflection. Slight pause after the opening phrase, as if consulting mental notes. Professional distance maintained.",
+      "mood": "composed_factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "楽観できない状況ですね。",
+      "en": "That's a serious situation, then.",
+      "style": "Quiet realization settling in. Tone drops slightly on the second half. Not a question — an acknowledgment. Pause at the comma, thoughtful. The sound of someone processing what he's just heard.",
+      "mood": "concerned_careful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。防御の弱い区域、良心的な住民が手を貸してくれている。",
+      "en": "Yes. We're prioritizing the weaker-defended areas, and fortunately local residents are stepping in to help.",
+      "style": "Steady, measured delivery. Small acknowledgment on the 'Yes.' Shifts into procedural detail without rushing. Warmth on 'residents are helping' — recognition of civilian effort. Professional but human.",
+      "mood": "resolute_grateful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "加害側の特定、捜索の進捗は。",
+      "en": "How are you progressing on identifying the perpetrators? Any leads from the search?",
+      "style": "Direct, probing. Lean forward slightly in the voice. Not aggressive — methodical curiosity. Respects the officer's expertise; asking for specifics like a student who's been listening carefully.",
+      "mood": "focused_searching"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "大震災時の対応経験を踏まえて、進めています。",
+      "en": "We're drawing on lessons learned from the major earthquake response. Making steady progress with that experience as our framework.",
+      "style": "Confident closure. Firm on 'lessons learned' — the ground shifts here, there's conviction. Professional pride without arrogance. Clear, deliberate pace. Ends on a note of measured assurance.",
+      "mood": "experienced_determined"
+    }
+  ]
+}

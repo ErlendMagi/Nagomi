@@ -1,0 +1,72 @@
+{
+  "id": "conv_05726",
+  "context": "Two managers discuss a tech project",
+  "purpose": "Teach: 山下/バグ/フィルター/耐久/清掃/日数/リットル/アナログ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "山下",
+    "バグ",
+    "フィルター",
+    "耐久",
+    "清掃",
+    "日数",
+    "リットル",
+    "アナログ"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_288 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "山下さんから、アナログのバックアップ、依頼ありました。",
+      "en": "Yamashita came through with a request — analog backup.",
+      "style": "Straightforward, informative delivery. Matter-of-fact tone, no hurry. Opening sets context naturally, trailing through without drama. Like reporting progress to someone who already cares.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "バグの再現、難しいケース?",
+      "en": "Bug repro — is it a tough case?",
+      "style": "Quick, efficient. Lean forward slightly in attention. Questioning tone but not doubting — genuinely trying to understand the scope. Pace crisp, no padding.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。フィルター層の処理で発生していて、原因切り分け中。",
+      "en": "Yeah. It's in the filter-layer processing — we're isolating the root cause now.",
+      "style": "Clear and steady. Speaking to a peer who understands the work. Slight pause before the second clause to show the thinking already in progress. Reassuring without being defensive.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "耐久試験、清掃工程後にも実施しよう。",
+      "en": "Let's run the endurance test after the cleaning step too.",
+      "style": "Decisive but not abrupt. Light authority — she's thought this through. Delivered as decision, not suggestion. Calm, no urgency bleeding through, just competence.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "残り日数、5日です。リットル単位での負荷、計測続けます。",
+      "en": "Five days left. I'll keep tracking the load metrics by liter.",
+      "style": "Acknowledgment first, commitment second. Steady, reliable tone. 「五日です」lands with quiet weight — the countdown is real. Trailing promise, not excuse.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "頼む。",
+      "en": "Got it.",
+      "style": "Quiet, trusting. Single beat of eye contact. Not dismissive — a full stop that means 'I have confidence in this.' Warm close to the exchange.",
+      "mood": "trust"
+    }
+  ]
+}

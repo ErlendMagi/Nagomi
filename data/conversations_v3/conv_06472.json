@@ -1,0 +1,86 @@
+{
+  "id": "conv_06472",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 人的/地上波/成り立ち/林業/沼/沿線/練っ/質感",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "人的",
+    "地上波",
+    "成り立ち",
+    "林業",
+    "沼",
+    "沿線",
+    "練っ",
+    "質感"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_325 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件、人的被害は最小限でした。",
+      "en": "Fortunately, this incident resulted in minimal loss of life.",
+      "style": "Even, measured delivery. Professional composure. No affect on the difficult words—just stating fact. Slight pause before the ending, as if acknowledging weight without dwelling on it.",
+      "mood": "composed_somber"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "地上波で広く報じられましたよね。",
+      "en": "It did get quite a lot of coverage in the news, didn't it?",
+      "style": "Genuine curiosity, not challenge. Lean forward slightly. Moderate pace, looking to Officer Takeda for confirmation. The tone of someone asking to understand, not to test.",
+      "mood": "attentive_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。事件の成り立ち、初動で見抜けました。",
+      "en": "Yes. We were able to piece together what happened from the initial response.",
+      "style": "Slight nod on 'yes.' Professional clarity. Each clause delivered with quiet conviction. Tempo steady. The cadence of someone who has rehearsed this account but means every word.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "山間部の林業地帯、捜索、難航したそうですね。",
+      "en": "The search in those mountain forest areas was quite difficult, I understand?",
+      "style": "Thoughtful, careful question. Slightly slower pace to show respect for the difficulty. Genuine—not fishing for drama. Eyebrows slightly raised, inviting him to elaborate.",
+      "mood": "respectful_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜索中、沼に近づいた箇所、危険でした。",
+      "en": "Yes. There were several spots near marshland that presented serious danger to the search teams.",
+      "style": "Clinical but not cold. Precise word choice. A brief pause after 'Yes,' then steady delivery. The tone of someone prioritizing accuracy over reassurance.",
+      "mood": "cautious_factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "容疑者、沿線駅で防犯カメラに映っていましたね。",
+      "en": "The suspect was captured on security footage at a station along the rail line, correct?",
+      "style": "Careful, respectful phrasing. Moderate pace. Not pressing—offering him a chance to confirm. The intonation of someone who has done the homework and is checking the facts.",
+      "mood": "methodical_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。捜査計画、慎重に練った上で、動きます。",
+      "en": "Yes. We developed the investigative strategy carefully before moving forward.",
+      "style": "Slight emphasis on 'carefully'—not rushed. Tempo steady, grounded. The confidence of procedure done right. No defensiveness, just quiet assurance.",
+      "mood": "deliberate_assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "凶器の質感、専門家、分析中ですか。",
+      "en": "Are the forensic specialists still analyzing the weapon?",
+      "style": "Close, focused question. Quieter tone than before—narrowing in. Respect for the specialized work. Patient, as if aware that this takes time.",
+      "mood": "intent_patient"
+    }
+  ]
+}

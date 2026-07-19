@@ -1,0 +1,86 @@
+{
+  "id": "conv_06849",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 役に立ち/即時/役場/強固/着信/インセンティブ/力量/上京",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "役に立ち",
+    "即時",
+    "役場",
+    "強固",
+    "着信",
+    "インセンティブ",
+    "力量",
+    "上京"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_344 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "防犯講座、市民に、役に立ちますように、企画させていただきました。",
+      "en": "We've put together a crime prevention seminar specifically for residents. We hope it proves useful.",
+      "style": "Even, official tone. Clear pacing. Slight formal formality—a measured opening. Warm underneath the procedure.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。緊急時、即時、警察への通報、社員、訓練しております。",
+      "en": "Yes. Our staff are trained to report emergencies to the police immediately.",
+      "style": "Alert but composed. Nodding assent in the rhythm. Efficient, no wasted words. Earnest in the execution.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "町の役場と連携、地域防犯、強化してまいります、来期も。",
+      "en": "We'll continue to strengthen neighborhood crime prevention by working closely with the municipal office in the next term as well.",
+      "style": "Steady official cadence. The kind of promise that expects to be remembered. Declarative, not defensive.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社屋、強固なセキュリティ、構築済みです、警察様、安心ください。",
+      "en": "Yes. We've already built solid security systems into our building. Please rest assured, officer.",
+      "style": "Reassurance with a light formality. Not boastful—matter-of-fact delivery. Respectful nod in the tone.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "被害者からの着信、警察、二十四時間、受け付けております。",
+      "en": "We accept victim calls at the police station twenty-four hours a day.",
+      "style": "Direct statement of fact. No elaboration. The kind of clear procedural information you want to land.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。情報提供者、インセンティブ制度、警察、設けていらっしゃいますね。",
+      "en": "Yes. The police have set up an incentive system for people who provide information, haven't they.",
+      "style": "Attentive follow-up. Light recognition in the delivery—he's been listening carefully. Slight deference in phrasing.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "担当官の力量、本件捜査でも、発揮されました、感謝しております。",
+      "en": "The detective's skill really showed in this case. We're grateful for that.",
+      "style": "Sincere gratitude without effusiveness. A slight lean forward in the tone. Specific enough to feel genuine.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。地方出身警察官、上京して、首都治安、守っていらっしゃいますね。",
+      "en": "Yes. Those officers who come from the countryside and move to Tokyo—they're doing real work protecting the capital's safety.",
+      "style": "Genuine respect. Slower pace on this one, like he's really thinking it through. Admiration without flattery.",
+      "mood": "respectful"
+    }
+  ]
+}

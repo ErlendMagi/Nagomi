@@ -1,0 +1,78 @@
+{
+  "id": "conv_03952",
+  "context": "Two newsroom editors discuss a court ruling for an evening segment",
+  "purpose": "Teach: 検察/最高裁/警察官/制裁/疑惑/不当/警戒/衝突",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "検察",
+    "最高裁",
+    "警察官",
+    "制裁",
+    "疑惑",
+    "不当",
+    "警戒",
+    "衝突"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_199 workflow waunfm36i)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "夕方の枠ですけど、最高裁が出した今日の判決、トップで扱いますよね？",
+      "en": "For the evening slot, we're leading with today's Supreme Court ruling, right?",
+      "style": "Junior editor confirming the lineup with measured politeness and slight nervousness."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "もちろん。検察の主張がほぼ退けられた形だから、社会的インパクトはかなり大きい。",
+      "en": "Of course. The prosecution's argument was largely rejected, so the social impact is pretty significant.",
+      "style": "Senior editor speaking decisively in clipped, professional newsroom cadence."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被告側はずっと不当な捜査だって訴えてましたよね。あの汚職疑惑の件、覚えてます。",
+      "en": "The defense kept claiming the investigation was improper, didn't they. I remember that corruption allegation case.",
+      "style": "Recalling background context, voice rising slightly with genuine interest in the story."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "そう。現職の警察官まで絡んでたから、当時は本当に大騒ぎになったの。",
+      "en": "Right. Active-duty police officers were involved too, so it caused a huge uproar at the time.",
+      "style": "Reminiscing with a knowing tone, lowered slightly as if sharing institutional memory."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "VTRに当時の抗議デモの映像、入れますか？機動隊との衝突シーンとか。",
+      "en": "Should we cut in footage of the protests from back then? Like the clashes with riot police?",
+      "style": "Pitching an editorial choice cautiously, seeking approval from the senior."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "入れて。ただし煽る編集はダメ。視聴者の反応も警戒しないといけないから。",
+      "en": "Include it. But no inflammatory editing. We have to be cautious about viewer reactions too.",
+      "style": "Issuing a firm directive followed by a measured caveat about journalistic restraint."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "了解です。あと、政府が関係機関への制裁を検討してるって続報、後半に回しますか？",
+      "en": "Understood. Also, that follow-up about the government considering sanctions on the agencies—push it to the back half?",
+      "style": "Wrapping up with a quick logistical question, brisk and businesslike."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "それで行こう。原稿、三十分以内に上げてね。",
+      "en": "Let's go with that. Get me the draft within thirty minutes, okay?",
+      "style": "Closing the discussion with crisp authority and a deadline reminder."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "conv_05552",
+  "context": "A boss and his manager dissect a global-news column",
+  "purpose": "Teach: 襲わ/サミット/襲撃/欠席/尊厳/盗難/扶助/濃厚",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "襲わ",
+    "サミット",
+    "襲撃",
+    "欠席",
+    "尊厳",
+    "盗難",
+    "扶助",
+    "濃厚"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_279 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "この記事、サミットでの襲撃事件報道、衝撃だな。",
+      "en": "This article's reporting on the summit attack—it's striking, isn't it.",
+      "style": "Measured, genuine surprise threaded through. Slight pause before the dash. Not performative, but genuinely struck. The tone of someone reading carefully and thinking aloud.",
+      "mood": "thoughtful_struck"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市民が襲われない安全網と、扶助の仕組み、両方議論されています。",
+      "en": "Yes. The piece covers both protecting citizens and the systems to support them.",
+      "style": "Quiet attentiveness. Respectful of his attention. Clear, precise—the tone of someone who's read carefully and is offering the right summary. No overreach.",
+      "mood": "engaged"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "盗難事案も濃厚に絡む構造。",
+      "en": "And theft cases wind through the whole structure.",
+      "style": "Deliberate, analytical. Slight lean forward in the voice. Connecting dots aloud. Respect for the complexity—not oversimplifying, but not elaborate either.",
+      "mood": "analytical"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "尊厳を守る視点、欠席率の改善まで含んだ広い議論です。",
+      "en": "Right. It's broad—goes from dignity and safeguards all the way through to attendance rates.",
+      "style": "Warm confirmation. Breathing ease into it. The tone of someone building on an idea together, not lecturing. Slight appreciative emphasis on the scope.",
+      "mood": "collaborative"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "来月の経営会議で扱おう。",
+      "en": "We'll bring it to next month's management meeting.",
+      "style": "Quiet decision. No drama. The finality of someone who's made up his mind and is moving forward. Calm authority.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Respectful close. Calm, committed. The tone of someone who's heard and will act. Brief because it doesn't need to be anything else.",
+      "mood": "assured"
+    }
+  ]
+}

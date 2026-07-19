@@ -1,0 +1,72 @@
+{
+  "id": "conv_05306",
+  "context": "A boss reviews a contract submission",
+  "purpose": "Teach: 主任/取り付け/採択/円滑/送付/法務省/官庁/査定",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "主任",
+    "取り付け",
+    "採択",
+    "円滑",
+    "送付",
+    "法務省",
+    "官庁",
+    "査定"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_267 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ケンジ主任、契約書、もう送付済みか?",
+      "en": "Kenji, has that contract been sent yet?",
+      "style": "Clipped, efficient tone. No preamble. Direct eye contact level. Slight upward lilt at the end—checking a box on a mental list rather than asking a question.",
+      "mood": "brisk"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。法務省ガイドラインに準拠した版を、官庁経由で先方に送付しました。",
+      "en": "Yes. I sent the version compliant with Justice Ministry guidelines through the official government channel.",
+      "style": "Steady, measured delivery. Precise enunciation on the compliance details—demonstrating due diligence without overexplaining. Slight raise on 'yes' to signal confidence.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "査定の数値、円滑に決裁されるか?",
+      "en": "Will those valuation figures pass approval smoothly?",
+      "style": "Lean forward slightly in tone. Quieter than the first line—this is the real question beneath the first. Pause after 'valuation figures.' Listening for hesitation.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "監査側の取り付け状況も問題ないとの見込みです。",
+      "en": "The auditors have signaled their support. No issues expected on that front.",
+      "style": "Relaxed but precise. A slight exhale before the second sentence—relief that the groundwork paid off. Warm toward Hiroshi because the news is good.",
+      "mood": "confident"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "良し。今期の社内提案、採択されるよう動いてくれ。",
+      "en": "Good. Make sure this term's internal proposal gets approved.",
+      "style": "Clipped, decisive. Each word lands with quiet weight. No wasted breath. The tone shifts from checking-in to delegation—this is a directive, not a question.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。",
+      "en": "Understood.",
+      "style": "Quiet, immediate affirmation. Slight nod in the voice. Already mentally moving to the next task. No elaboration—just presence and compliance.",
+      "mood": "acknowledged"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "conv_06313",
+  "context": "A doctor discusses medical issues",
+  "purpose": "Teach: 破り/亡くし/狙わ/荒らし/号泣/繋がら/縫っ/映り",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "破り",
+    "亡くし",
+    "狙わ",
+    "荒らし",
+    "号泣",
+    "繋がら",
+    "縫っ",
+    "映り"
+  ],
+  "cast": [
+    "saito_doctor",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_317 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "蓮さん、治療規定を破り、独自に動いた医師、批判受けました。",
+      "en": "Ren — that doctor who broke protocol and acted on his own. He's facing criticism.",
+      "style": "Steady, clinical delivery. Opens with his name like a direct address. Measured pace. No judgment in the voice, just fact-stating. Slight pause before the consequence.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "家族を亡くした患者、心理ケア、ありますか。",
+      "en": "What about psychological support for the families who've lost patients?",
+      "style": "Lean forward slightly in the voice. Soft curiosity — not challenging, genuinely asking. Slower on the question itself, like he's working through the implications.",
+      "mood": "thoughtful_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。慢性病で狙われる治験対象、増えています。",
+      "en": "Yes. We're actually seeing more vulnerable patients — chronic disease cases — being targeted for experimental trials.",
+      "style": "Clear, informational. A slight heaviness on the word 'vulnerable.' Paced to let the information land. Professional but not distant.",
+      "mood": "clinical_troubled"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "病院荒らしの被害、近年、報じられました。",
+      "en": "There have been reports recently about hospital thefts and break-ins. What's the pattern there?",
+      "style": "Probing but respectful. Slight lean into the question. Not accusatory — gathering information. Quiet intensity, like he's connecting dots.",
+      "mood": "investigative"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "はい。家族の号泣、現場で支える看護師、頼もしいです。",
+      "en": "Yes. The families — the ones grieving loudly in the moment — they rely so much on the nursing staff who are there to hold them up. Those nurses are remarkable.",
+      "style": "Warm recognition beneath the clinical language. A slight softness on 'hold them up.' Appreciative. More human than medical.",
+      "mood": "respectful_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "医療と地域、繋がらない地域、課題ですね。",
+      "en": "So there's a real gap, isn't there? Medicine and community — in some areas they just don't connect.",
+      "style": "Thoughtful, nodding agreement with himself. Slower pace. Like he's naming something he's been thinking about. Slight trailing upward at the end — checking if she agrees.",
+      "mood": "reflective_concerned"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "手術跡を縫って閉じる作業、丁寧に。",
+      "en": "The suturing work — closing up a surgical site — that takes real care and precision.",
+      "style": "Observational, almost meditative. Slight respect in the pacing. Like watching someone do delicate, necessary work. Quiet focus.",
+      "mood": "attentive_respectful"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "カメラに映り込んだ手元、教材になりますね。",
+      "en": "And when the camera catches the hands doing that work — that becomes teaching material. People learn from watching technique like that.",
+      "style": "Appreciative realization dawning. Slower on 'hands doing that work.' Like he's seeing the educational value click into place. Thoughtful, not rushed.",
+      "mood": "thoughtful_engaged"
+    }
+  ]
+}

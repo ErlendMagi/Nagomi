@@ -1,0 +1,86 @@
+{
+  "id": "conv_07762",
+  "context": "Two friends chat",
+  "purpose": "Teach: いやー/片方/あちら/情けない/火事/外食/つまみ/みかん",
+  "ambient": "cafe_quiet_chatter",
+  "sound_effects": [],
+  "target_vocab": [
+    "いやー",
+    "片方",
+    "あちら",
+    "情けない",
+    "火事",
+    "外食",
+    "つまみ",
+    "みかん"
+  ],
+  "cast": [
+    "mei_romantic",
+    "aoi_barista"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_390 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mei_romantic",
+      "jp": "いやー、葵、本気で、絶対、今日のお店、絶対、賑わってたね、メイちゃん",
+      "en": "Wow, Aoi — the café was absolutely packed today, wasn't it?",
+      "style": "Warm, appreciative opening. Bright energy, leaning in like sharing good news. Light, conversational pace. A genuine compliment wrapped in the ease of close friendship.",
+      "mood": "warm_impressed"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、本気で、絶対、ピアスの、絶対、片方、絶対、落としちゃった、メイちゃん",
+      "en": "Yeah, it was — and I lost one of my earrings in the rush.",
+      "style": "Self-deprecating half-laugh threaded through. Light and wry, not dwelling on it. Quick pace, slight eye-roll energy. Brushing past the inconvenience without making a fuss.",
+      "mood": "wry_unfazed"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、本気で、絶対、あちら、絶対、の席、絶対、ご案内するね、メイちゃん",
+      "en": "Oh no — I didn't even notice. Were you able to find it?",
+      "style": "Gentle concern, immediately practical. Slight lean forward. Warm and attentive without fussing. The tone of someone ready to help if needed.",
+      "mood": "concerned_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、本気で、絶対、お皿、絶対、落として、絶対、情けない、絶対、わ、メイちゃん",
+      "en": "No, it's gone. And then I dropped a plate during service — so mortifying.",
+      "style": "Embarrassed but not defeated. Self-aware laugh underneath. Slower on the admission, lighter on the recovery. Voice carries the weight of the moment but not bitterness.",
+      "mood": "embarrassed"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、近所で、本気で、絶対、火事、絶対、あったって、絶対、お客様、絶対、話してたわ、メイちゃん",
+      "en": "People were talking about the fire in the neighborhood, too. A few customers mentioned it.",
+      "style": "Observant, connecting things quietly. Slight pause before the shift in topic. Reflective tone, like she's processing the day's weight. Steady, not rushed.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、今夜は、本気で、絶対、外食、絶対、しようよ、メイちゃん",
+      "en": "You know what? Let's get dinner tonight. We could both use it.",
+      "style": "Shift to energy and invitation. Brighter, more decisive. Warm invitation without being pushy. The tone of someone who just decided something good.",
+      "mood": "eager_supportive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "葵、本気で、絶対、お酒の、絶対、つまみ、絶対、新メニュー、絶対、お洒落ね、メイちゃん",
+      "en": "That sounds perfect. Oh — we have a new appetizer menu. It's really lovely.",
+      "style": "Genuine enthusiasm, not salesman-like. Soft pride in the detail. Warm and intimate, like sharing something she's noticed and cares about. Inviting without overselling.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "葵、本気で、絶対、季節の、絶対、みかん、絶対、ジュース、絶対、出したよ、メイちゃん",
+      "en": "We just started making a seasonal mandarin juice too. You have to try it.",
+      "style": "Animated and eager to share. Light lift at the end, genuine delight in the newness. Forward-leaning energy, the voice of someone proud of what her workplace is doing.",
+      "mood": "animated_proud"
+    }
+  ]
+}

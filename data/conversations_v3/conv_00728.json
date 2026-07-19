@@ -1,0 +1,76 @@
+{
+  "id": "conv_00728",
+  "context": "Dr. Saito reviews Sachiko's annual checkup with reassurance.",
+  "purpose": "doctor-elderly-patient health exchange",
+  "ambient": "clinic_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "健康",
+    "検査",
+    "結果",
+    "安心",
+    "重要"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sachiko_grandma"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_037)",
+    "generated_at": "2026-05-27T01:36:52.548Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "佐知子さん、検査の結果、伺いますね。",
+      "en": "Sachiko-san, I'd like to go over your test results with you.",
+      "style": "Warm and composed opening. Gentle but clear—the voice of someone who delivers news regularly and does it well. Unhurried pace. Underlying kindness, no clinical distance.",
+      "mood": "calm_warm"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "はい、お願いします、先生。",
+      "en": "Yes, please, doctor.",
+      "style": "Quiet anticipation. Respectful without stiffness. A small intake of breath before speaking—the way an elderly person settles into important news. Trustful.",
+      "mood": "hopeful_respectful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康、全体、良好です。安心してください。",
+      "en": "Overall, your health looks very good. You can rest easy.",
+      "style": "Steady, reassuring voice. Weight on the word 'good.' Slight pause before the final sentence—letting the reassurance land. Warm without overplaying it.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "ああ、嬉しい。安心しました。",
+      "en": "Ah—that's wonderful. I feel so much better.",
+      "style": "Immediate relief in the voice. Brightness rising on 'wonderful.' Exhale of tension releasing. Genuine, unguarded joy—the kind that comes from good news you needed to hear.",
+      "mood": "relieved_joyful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "一つだけ、毎日の散歩、続けて、重要です。",
+      "en": "One thing that's important: keep up your daily walks.",
+      "style": "Slight shift to gentle counsel. Light emphasis on 'important'—not stern, just clear. Conversational advice from someone who knows her well enough to speak plainly.",
+      "mood": "encouraging"
+    },
+    {
+      "speaker": "sachiko_grandma",
+      "jp": "おじいちゃんと、毎日、歩いてます。",
+      "en": "Oh, my husband and I—we walk every day together.",
+      "style": "Warmth rising. Pride and affection woven in. Slight smile audible. The voice of someone sharing something that matters—a small life they've built.",
+      "mood": "warm_content"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "素晴らしい。お二人で、続けてください。",
+      "en": "That's wonderful. Please keep doing that together.",
+      "style": "Genuine approval. Soft landing on 'wonderful'—she means it. Closing warmth. The kind of doctor who sees the person, not just the patient.",
+      "mood": "warm_affirming"
+    }
+  ]
+}

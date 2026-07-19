@@ -1,0 +1,86 @@
+{
+  "id": "conv_06511",
+  "context": "A police officer briefs about a case",
+  "purpose": "Teach: 引きずっ/報道陣/ピッチャー/鉄則/真っ向/共犯/深まっ/心拍",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引きずっ",
+    "報道陣",
+    "ピッチャー",
+    "鉄則",
+    "真っ向",
+    "共犯",
+    "深まっ",
+    "心拍"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_327 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、過去の事件を引きずって、捜査続けています。",
+      "en": "This case is connected to a past incident we're still investigating.",
+      "style": "Measured, official. Clinical delivery on the facts. Slight pause after the opening. Professional distance, no emotion—just information.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "報道陣、現場に集まりますよね。",
+      "en": "The press will be all over the scene, won't they?",
+      "style": "Cautious curiosity, slightly hesitant. Testing the ground—not pushing, but genuinely wondering. Respectful tone, aware this is serious.",
+      "mood": "inquisitive_cautious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。野球で言う、ピッチャーのような、捜査主軸、必要です。",
+      "en": "That's right. We need a strong central focus to the investigation—like a pitcher in baseball.",
+      "style": "Steady explanation, a touch of conviction on the comparison. Not lecturing—making it clear. Calm, procedural, but with a hint of determination underneath.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "証拠保全の鉄則、何より大事ですよね。",
+      "en": "Preserving evidence has to be the first priority, doesn't it?",
+      "style": "Thoughtful agreement, a small nod in the voice. Ren thinking it through as he speaks. Not questioning—affirming what he understands to be true.",
+      "mood": "understanding"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。容疑者と真っ向から対峙する、瞬間もあります。",
+      "en": "Yes. There will be moments where we come face-to-face with the suspect.",
+      "style": "Direct, unflinching. Weight on the word 'face-to-face'—acknowledging the difficulty without drama. Professional calm, but acknowledging the reality.",
+      "mood": "stern_resolute"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "共犯の有無、これから明らかになるんですね。",
+      "en": "Whether there were accomplices will come to light as the investigation goes on.",
+      "style": "Thoughtful, almost to himself. Ren following the thread logically. Quiet, respectful curiosity—not challenging, just working through implications.",
+      "mood": "thoughtful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。事件、深まった様相、見せています。",
+      "en": "Yes. The case is revealing deeper layers the more we look into it.",
+      "style": "Reflective, slightly weighted. A pause before speaking. Acknowledging something complex beneath the surface. Measured but with a trace of concern.",
+      "mood": "grave"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "被害者、心拍、不安定だったそうですね。",
+      "en": "I understand the victim's heart rate was unstable.",
+      "style": "Gentle, careful. Ren speaking softly around something painful. Not probing—acknowledging what he's learned. Respectful distance, but present.",
+      "mood": "somber_attentive"
+    }
+  ]
+}

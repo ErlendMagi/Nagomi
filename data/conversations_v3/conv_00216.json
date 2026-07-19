@@ -1,0 +1,83 @@
+{
+  "id": "conv_00216",
+  "context": "Yumiko visits Dr. Saito alone for her annual checkup. They're long enough acquainted that small life-updates happen naturally.",
+  "purpose": "adult patient checkup — long doctor-patient rapport in adult conversation",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "毎年",
+    "検診",
+    "血液",
+    "結果",
+    "健康"
+  ],
+  "cast": [
+    "saito_doctor",
+    "yumiko_mom"
+  ],
+  "frequency_tier": 3,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_011)",
+    "generated_at": "2026-05-26T19:48:32.996Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日は年に一度の検診ですね。",
+      "en": "Today's your annual checkup.",
+      "style": "Doctor warm professional opener, the long-rapport audible in the easy cadence, soft real care threading throughout delivery.",
+      "mood": "warmly-professional"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、よろしくお願いします。",
+      "en": "Yes, thank you in advance.",
+      "style": "Maternal warm formal respectful opener, the gentle adult-formality audible, soft real composure threading throughout delivery.",
+      "mood": "formally-warm"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "血液検査の結果、特に問題ありません。",
+      "en": "The blood test results — no particular issues.",
+      "style": "Doctor warm professional reassurance, the clinical clarity gentled by familiarity, soft real care threading throughout delivery.",
+      "mood": "professionally-reassuring"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "良かった。最近、疲れやすくて。",
+      "en": "I'm relieved. Lately, I tire easily.",
+      "style": "Maternal warm relieved honest disclosure, the soft real adult-vulnerability audible, gentle real warmth threading throughout delivery.",
+      "mood": "relievedly-honest"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "お子さん、まだ小さいですもんね。",
+      "en": "Your kids are still small, after all.",
+      "style": "Doctor warm gentle understanding observation, the soft real personal-recognition audible, gentle real warmth throughout delivery.",
+      "mood": "gently-understanding"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "ええ、毎日バタバタで。",
+      "en": "Yes, every day is hectic.",
+      "style": "Maternal warm honest laughing exhaustion, the soft real adult-relief at being seen audible, gentle real warmth throughout delivery.",
+      "mood": "honestly-tired"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "健康のためには、休む時間も大事です。",
+      "en": "For health, time to rest matters too.",
+      "style": "Doctor warm gentle wisdom-teaching, the soft real care-instruction audible, gentle real warmth threading throughout delivery throughout.",
+      "mood": "gently-instructing"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "はい、気をつけます。ありがとうございます。",
+      "en": "Yes, I'll be careful. Thank you.",
+      "style": "Maternal warm sincere closing acceptance, the gentle real adult-gratitude audible, soft real composure threading throughout delivery.",
+      "mood": "sincerely-warm"
+    }
+  ]
+}

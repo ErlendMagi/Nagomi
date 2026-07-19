@@ -1,0 +1,79 @@
+{
+  "id": "conv_05791",
+  "context": "A police officer briefs a uni reporter about a complex case",
+  "purpose": "Teach: 暗殺/強盗/誘拐/人質/テロリスト/右翼/左翼/慶",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "暗殺",
+    "強盗",
+    "誘拐",
+    "人質",
+    "テロリスト",
+    "右翼",
+    "左翼",
+    "慶"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_291 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、暗殺未遂と当初報じられましたが、強盗事件と判明しました。",
+      "en": "This case was initially reported as an assassination attempt, but it's been confirmed as a robbery.",
+      "style": "Level, professional opening. Measured pace. Clear separation between the first clause and the correction — not rushed. Clinical but not cold.",
+      "mood": "procedural"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "誘拐疑いも一時持たれた、と聞きました。",
+      "en": "I heard kidnapping was suspected at one point.",
+      "style": "Genuine curiosity — leaning forward slightly in the voice. Soft interrogative lilt. Not accusatory, just asking to understand the timeline.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。一時、人質を取った可能性が議論されていました。",
+      "en": "Yes. For a brief period, the possibility of hostage-taking was being discussed.",
+      "style": "Measured confirmation. Slight emphasis on 「一時」 — the temporal limitation. Steady eye contact level. Professional distance maintained.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当時の極右、右翼系の集会との関連も噂されてましたよね。",
+      "en": "And there were rumors connecting it to far-right rallies and extremist gatherings at that time, weren't there?",
+      "style": "Probing but respectful. Slight lift at the end — inviting confirmation, not challenging. Patient. Ren testing the officer's openness.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察は、テロリストの関与を否定しています。",
+      "en": "The police have ruled out any involvement by terrorist organizations.",
+      "style": "Firmer statement. Slight weight on 「否定」. Official language carrying its own authority. Not defensive, but closing that particular line.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "左翼系団体への調査も、進められましたか。",
+      "en": "Did investigations also proceed into left-wing groups in parallel?",
+      "style": "Calm, methodical question. No edge. Ren following the logic of inquiry — if one side, then the other. Respectful symmetry in the asking.",
+      "mood": "methodical"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "並行して、慶應大の研究者からも、社会学的所見を頂きました。",
+      "en": "In parallel, we also consulted with researchers from Keio University who offered sociological perspectives on the matter.",
+      "style": "Closing statement with slight expansion. Adds dimension — the intellectual apparatus brought to bear. Measured pace, deliberate. Feels like a thoughtful conclusion.",
+      "mood": "reflective"
+    }
+  ]
+}

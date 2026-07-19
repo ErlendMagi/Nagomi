@@ -1,0 +1,78 @@
+{
+  "id": "conv_04650",
+  "context": "A uni student interviews a retired accountant about reforms",
+  "purpose": "Teach: 支払わ/勘定/代行/名目/提唱/容認/容器/同日",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "支払わ",
+    "勘定",
+    "代行",
+    "名目",
+    "提唱",
+    "容認",
+    "容器",
+    "同日"
+  ],
+  "cast": [
+    "ren_uni",
+    "hiroshi_elder"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_234 workflow w26vym2lb)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "本日はお時間を頂き有難うございます。戦後の財政改革について、当時を知る方にお話を伺う名目で参りました。",
+      "en": "Thank you for your time today. I came under the pretext of hearing about postwar fiscal reform from someone who lived through it.",
+      "style": "Polite university student opening an interview formally."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "いやいや、こちらこそ。長年勘定を扱ってきた身として、若い人に話せるのは嬉しいことですよ。",
+      "en": "No no, the pleasure is mine. As someone who handled accounts for decades, I'm happy to speak with a young person.",
+      "style": "Warm elderly tone, gently welcoming the interview."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "早速ですが、当時の社会党が提唱していた歳出削減案について、現場ではどう受け止められていましたか?",
+      "en": "Getting right to it, how was the spending-cut proposal advocated by the Socialist Party of that era received on the ground?",
+      "style": "Focused student asking a substantive policy question."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "正直に言えば、容認できない部分も多くてね。税金を支払わない層が増えるのではと、皆が懸念していました。",
+      "en": "Honestly, there were many parts we couldn't accept. Everyone worried the number of people not paying taxes would grow.",
+      "style": "Candid reflection from experienced accountant, measured tone."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。当時、税務代行のような業務も既に存在していたのでしょうか?",
+      "en": "I see. Did services like tax preparation outsourcing already exist back then?",
+      "style": "Curious student probing for historical detail."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "ええ、形は違えど存在しました。同日に複数の案件を抱えることもあって、書類を容器いっぱいに詰めて持ち帰ったものですよ。",
+      "en": "Yes, in a different form they existed. I'd sometimes juggle several cases on the same day and carry documents home in a container stuffed full.",
+      "style": "Nostalgic anecdote with vivid concrete imagery throughout."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "想像以上に大変だったんですね。本日は貴重なお話を本当に有難うございました。",
+      "en": "It sounds even harder than I imagined. Thank you so very much for sharing such valuable stories today.",
+      "style": "Sincere closing gratitude from interviewer warmly expressed."
+    },
+    {
+      "speaker": "hiroshi_elder",
+      "jp": "また何でも聞いてください。論文、頑張ってくださいね。",
+      "en": "Please ask me anything else anytime. Good luck with your thesis.",
+      "style": "Encouraging farewell from elder mentor figure."
+    }
+  ]
+}

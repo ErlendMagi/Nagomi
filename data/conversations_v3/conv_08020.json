@@ -1,0 +1,86 @@
+{
+  "id": "conv_08020",
+  "context": "Mom and son chat",
+  "purpose": "Teach: タップ/ブロードウェイ/弱み/できあがり/打ち明け/年末年始/放り/おしえ",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "タップ",
+    "ブロードウェイ",
+    "弱み",
+    "できあがり",
+    "打ち明け",
+    "年末年始",
+    "放り",
+    "おしえ"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_402 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さん、レジでタップしてお支払いしたわよ",
+      "en": "Sho, Dad's already tapped and paid at the register.",
+      "style": "Matter-of-fact, reassuring. Clear delivery with no hesitation. Warm acknowledgment of a task completed. Slight upward inflection like she's checking he heard the good news.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ブロードウェイってどこにあるの?",
+      "en": "Mom, where is Broadway?",
+      "style": "Sudden curiosity, genuine question without self-consciousness. Quick delivery. The kind of left-field thing kids ask because they just heard the word and want to know. No filter, no performance.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、誰にでも弱みはあるのよ",
+      "en": "Sho, everyone has things they struggle with.",
+      "style": "Gentle, measured delivery. Like she's choosing each word carefully because it matters. Warm undertone but serious — not casual advice. Slight pause before the sentence like she's making sure she says this right.",
+      "mood": "tender"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとケーキのできあがりが嬉しい",
+      "en": "Mom, I'm so happy about making the cake with Dad.",
+      "style": "Bright, open delivery. Simple joy without overthinking it. Quick pace, warm tone. The kind of small happiness a six-year-old announces because it matters and he trusts you'll understand.",
+      "mood": "joyful"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、ママに本音を打ち明けていいのよ",
+      "en": "Sho, you can tell Mom how you really feel.",
+      "style": "Soft but direct. Invitation rather than demand. Like she's creating safe space by being the one to say it first. Warm, patient pace. Slight trailing-off at the end — giving him room to speak.",
+      "mood": "gentle_inviting"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、年末年始、お祖父ちゃんちに行くんだよね",
+      "en": "Mom, we're going to Grandpa's for New Year's, right?",
+      "style": "Forward-looking excitement. Question-inflection on the 「right?」part — he already knows the answer but wants confirmation from her. Warm, conversational pace. The comfort of anticipated ritual.",
+      "mood": "eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、靴下、お部屋に放りっぱなしダメよ",
+      "en": "Sho, you can't just leave your socks lying around the room.",
+      "style": "Light, practical correction. Not harsh — the tone of gentle household boundary-setting. Matter-of-fact with an undertone of affection. Like she's said it before and will say it again without frustration.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、お祖父ちゃんに将棋おしえてもらう",
+      "en": "Mom, Grandpa's going to teach me shogi.",
+      "style": "Eager anticipation with certainty. Quick delivery, bright tone. The confidence of something he's looking forward to — like he's already imagining it. Small and genuine, no dramatizing.",
+      "mood": "eager"
+    }
+  ]
+}

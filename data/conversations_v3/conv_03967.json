@@ -1,0 +1,84 @@
+{
+  "id": "conv_03967",
+  "context": "Two coworkers plan the logistics of moving inventory between sites",
+  "purpose": "Teach: 引越し/倉庫/拠点/敷地/保管/申告/在宅/移住",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "引越し",
+    "倉庫",
+    "拠点",
+    "敷地",
+    "保管",
+    "申告",
+    "在宅",
+    "移住"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_200 workflow wgxyoqgbc)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "来月の引越し作業の件、倉庫の手配は進んでる？",
+      "en": "About next month's moving work, is the warehouse arrangement progressing?",
+      "style": "Polite but casual coworker tone, slightly hurried opener line"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、川崎の貸し倉庫を一ヶ月だけ押さえた。あそこなら一時保管にちょうどいい。",
+      "en": "Yeah, I reserved a rental warehouse in Kawasaki for just one month. It's perfect for temporary storage.",
+      "style": "Confident reassuring reply with concrete logistical detail included"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "助かる。新しい営業拠点の敷地内にはまだ棚が入ってないんだよね。",
+      "en": "That helps. The shelves still aren't installed inside the grounds of the new sales base, right?",
+      "style": "Relieved but quickly raising the next concern aloud"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "そうなんだ。敷地は広いけど、納品が来週末まで遅れるって連絡が来てて。",
+      "en": "That's right. The lot is wide, but they contacted us saying the delivery is delayed until next weekend.",
+      "style": "Slightly apologetic tone, sharing a problematic update calmly"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "じゃあトラックの台数と、税務申告に必要な搬出記録も忘れずにね。",
+      "en": "Then don't forget the number of trucks and the shipment records needed for the tax filing.",
+      "style": "Practical reminder delivered in a business-minded coworker tone"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、申告書類は経理に渡してある。あと田中さん、今週は在宅勤務だから電話でね。",
+      "en": "Yeah, I handed the filing documents to accounting. Also, Tanaka-san is working from home this week, so call her.",
+      "style": "Matter-of-fact procedural follow-up with a small reminder attached"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "了解。そういえば彼女、来年は地方に移住するって言ってたよね。",
+      "en": "Got it. Speaking of which, she said she's relocating to the countryside next year, didn't she?",
+      "style": "Curious aside, shifting briefly to a lighter personal topic"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "うん、海外移住も検討してたみたい。とりあえず今回の引越し業者には朝八時集合で頼んである。",
+      "en": "Yeah, she was apparently considering moving abroad too. Anyway, I've asked the movers to gather at eight in the morning.",
+      "style": "Casual gossip then snapping back to logistics smoothly again"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "完璧。じゃあ当日、現場でね。",
+      "en": "Perfect. See you on site that day, then.",
+      "style": "Brief warm closing exchanged between two trusted coworkers"
+    }
+  ]
+}

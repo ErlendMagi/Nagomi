@@ -1,0 +1,72 @@
+{
+  "id": "conv_03668",
+  "context": "Boss and manager discuss the company's annual performance report",
+  "purpose": "Teach: 関東/九州/庁/本社/中学生/業績/スタジオ/再現",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "関東",
+    "九州",
+    "庁",
+    "本社",
+    "中学生",
+    "業績",
+    "スタジオ",
+    "再現"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_184 ws7u9pg4g)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今年の業績はどうだった？本社の役員会で報告しないといけないんだ。",
+      "en": "How was this year's performance? I need to report at the head office board meeting.",
+      "style": "Authoritative boss tone, slightly tired and businesslike."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "関東地方は順調に伸びましたが、九州の支店が少し苦戦しています。",
+      "en": "The Kanto region grew steadily, but the Kyushu branch is struggling a bit.",
+      "style": "Polite, factual manager reporting numbers carefully."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "なるほど。経済産業省や中小企業庁の統計と比べてうちの業績はどう見える？",
+      "en": "I see. Compared to METI and the SME Agency statistics, how does our performance look?",
+      "style": "Analytical, probing for deeper context from official data."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "業界平均は上回っています。年次報告書のグラフで分かりやすく再現しておきました。",
+      "en": "We're above the industry average. I recreated it clearly in the annual report graphs.",
+      "style": "Confident yet humble, presenting prepared work neatly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "ありがたい。プレゼン用にスタジオで動画も撮ろうと思っているんだ。",
+      "en": "Thanks for that. I'm also thinking of filming a video at a studio for the presentation.",
+      "style": "Forward-thinking, planning the next executive step carefully."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それはいいですね。中学生でも理解できるくらい分かりやすくしましょう。",
+      "en": "That sounds great. Let's make it so simple even a middle schooler could understand it.",
+      "style": "Agreeable, suggesting accessibility for broader audiences clearly."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "そうだな。来週、本社に戻る前にもう一度打ち合わせしよう。",
+      "en": "Right. Let's meet once more before I head back to the head office next week.",
+      "style": "Decisive closing remark scheduling next steps firmly."
+    }
+  ]
+}

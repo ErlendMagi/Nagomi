@@ -1,0 +1,76 @@
+{
+  "id": "conv_00719",
+  "context": "Mei helps Sho with his math homework at the kitchen table.",
+  "purpose": "aunt-child math homework help",
+  "ambient": "kitchen_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "算数",
+    "宿題",
+    "一緒",
+    "勉強",
+    "出来る"
+  ],
+  "cast": [
+    "mei_romantic",
+    "sho_child"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_036)",
+    "generated_at": "2026-05-27T01:30:23.943Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "sho_child",
+      "jp": "めいおばちゃん、算数、難しい。",
+      "en": "Mei-auntie, math is hard.",
+      "style": "Soft, quiet admission from a six-year-old. Small genuine warmth in the vulnerability. No dramatics—just stating the real thing. Warm thread of trust underneath.",
+      "mood": "vulnerable"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "しょうちゃん、一緒に、見ようね。",
+      "en": "Sho-chan, let's look at it together.",
+      "style": "Gentle and tender, but present and steady. Not performing comfort—offering it. A quiet promise in 'together.' Warm without being saccharine.",
+      "mood": "tender_reassuring"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "足し算、もうちょっと、出来る。",
+      "en": "Addition, I can do a little bit more.",
+      "style": "Small voice, growing slightly firmer. Not confident yet, but testing it. The honest hope of a child who just realized he's not completely stuck.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "頑張ってる、しょうちゃん。",
+      "en": "You're working so hard, Sho-chan.",
+      "style": "Warm, genuine appreciation. Not over-praising—noticing the real effort. A quiet recognition that lands deeper than bigger words would.",
+      "mood": "warm_encouraging"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "この宿題、終わったら、遊んでいい？",
+      "en": "When this homework's done, can I play?",
+      "style": "A small bargain offered hopefully. The natural six-year-old logic. Soft and genuine—not whining, just asking what matters to him.",
+      "mood": "hopeful_eager"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、終わったら、皆で、外、行こう。",
+      "en": "Yes, when we're done we'll all go outside together.",
+      "style": "Warm promise, bright and steady. Opening with agreement. The certainty of including him in 'all of us.' Natural and generous.",
+      "mood": "warm_bright"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "やった。勉強、楽しい、ちょっと。",
+      "en": "Yes! Studying is kind of fun now.",
+      "style": "Small genuine delight. A six-year-old discovering something unexpected about himself. Honest and unselfconscious. The quiet pleasure of a small breakthrough.",
+      "mood": "delighted_honest"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "conv_05610",
+  "context": "A police officer briefs a uni reporter about logistics",
+  "purpose": "Teach: 上回る/補給/含み/順次/終える/レギュラー/当店/常時",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上回る",
+    "補給",
+    "含み",
+    "順次",
+    "終える",
+    "レギュラー",
+    "当店",
+    "常時"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_282 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "災害時の物資補給、レギュラーで訓練しています。",
+      "en": "We conduct disaster relief supply training on a regular schedule.",
+      "style": "Measured, official tone. Clear articulation on key terms. Steady pace, confident but not rehearsed. The cadence of someone trained to convey information precisely.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "当店レベルの店舗にも、順次配給があるんですか。",
+      "en": "Do smaller stores like ours get included in the distribution rotation?",
+      "style": "Genuine curiosity beneath the technical question. Lean forward slightly with 「順次配給」. Not rushed—careful to phrase it correctly. A hint of earnestness: he wants to understand the system, not just ask it.",
+      "mood": "genuinely_curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。常時想定を含み、訓練を終えるよう努めています。",
+      "en": "Yes. We make sure to complete our training accounting for every possible scenario.",
+      "style": "Formal but not cold. Slight pause after 「はい」 to signal importance. Measured delivery on procedural language. The warmth of someone who takes this seriously because it matters.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "訓練回数、年々上回るペースですか。",
+      "en": "Are the number of drills increasing year over year?",
+      "style": "Thoughtful follow-up. Soft landing on the question—no edge of interrogation. Natural conversational tempo. A genuine probe into whether preparedness is accelerating, not a challenge.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい、増加傾向です。",
+      "en": "Yes—the trend is upward.",
+      "style": "Direct and factual. Slight emphasis on the affirmation. Brief—not sparse, but efficient. The answer of someone who respects the question enough not to pad it.",
+      "mood": "direct"
+    }
+  ]
+}

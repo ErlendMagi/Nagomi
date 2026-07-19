@@ -1,0 +1,79 @@
+{
+  "id": "conv_02283",
+  "context": "Hina-young helps Naoko fix a broken air conditioner.",
+  "purpose": "Teen and aunt solving practical problem.",
+  "ambient": "shop_low_repair",
+  "sound_effects": [],
+  "target_vocab": [
+    "クーラー",
+    "しくみ",
+    "故障",
+    "直ぐに",
+    "頑張る",
+    "埋める",
+    "熱い",
+    "冷却"
+  ],
+  "cast": [
+    "hina_child",
+    "naoko_aunt"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_115)",
+    "generated_at": "2026-05-27T18:52:31.248Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "ひな、クーラー、また故障や!",
+      "en": "Hina, the AC's broken again!",
+      "style": "Exasperated but not unkind. Kansai accent coloring the edges. Quick-paced, matter-of-fact, the tone of someone who's tired but still loves the chaos.",
+      "mood": "frustrated_affectionate"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "しくみ、見ましょうか?",
+      "en": "Should we take a look at how it works?",
+      "style": "Bright and eager. Soft attack. Genuinely wanting to help, not showing off. Small-girl sincerity underneath the offer.",
+      "mood": "curious_helpful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "直ぐに、業者、呼ばなあかんわ。",
+      "en": "We'll need to call a repairman soon.",
+      "style": "Practical and measured. Kansai warmth underneath the resignation. Accepting what needs to be done without fussing about it.",
+      "mood": "resigned_pragmatic"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "熱い夏なので、冷却、大事ですね。",
+      "en": "In this hot summer, keeping cool really matters.",
+      "style": "Thoughtful, observant. Speaking like she's noticed something adults miss. Soft and sincere, not preaching.",
+      "mood": "earnest"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "頑張ってもらわなあかん、業者!",
+      "en": "The repair person's going to have their work cut out for them!",
+      "style": "Animated and warm. Kansai humor breaking through. Affectionate exasperation at the situation, not the people in it.",
+      "mood": "resigned_amused"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "隙を埋めながら、直したいですね。",
+      "en": "I hope they can fix it while they're here.",
+      "style": "Gentle and hopeful. Not demanding—just wishing. Soft, kind tone, the way she speaks to people she wants to help.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "お前、頼もしい!",
+      "en": "You're really something, you know that?",
+      "style": "Warm, genuine pride breaking through. Kansai affection unguarded. Slow enough to let the words land. Looking at her like she means it.",
+      "mood": "proud_tender"
+    }
+  ]
+}

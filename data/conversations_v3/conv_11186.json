@@ -1,0 +1,86 @@
+{
+  "id": "conv_11186",
+  "context": "Boss reviews ops",
+  "purpose": "Teach: 断ら/就い/傘下/綿密/総論/凝らし/辛抱/リストアップ",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "断ら",
+    "就い",
+    "傘下",
+    "綿密",
+    "総論",
+    "凝らし",
+    "辛抱",
+    "リストアップ"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_561 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、無理な依頼は断られても問題ない、と社員に伝えろ",
+      "en": "Tell the staff that if an unreasonable request gets turned down, that is not a problem.",
+      "style": "Flat, clipped command; every word placed deliberately, no warmth spent, firm final landing.",
+      "mood": "authoritative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新部長が役職に就いた事を社内で告知します",
+      "en": "Yes, sir. I'll announce internally that the new department head has taken up his post.",
+      "style": "Prompt, bright acknowledgment; brisk businesslike pace with a clean, confident close.",
+      "mood": "dutiful"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、子会社、つまり傘下企業の業績を月次で確認しろ",
+      "en": "Check the results of our subsidiaries — the companies under our umbrella — every month.",
+      "style": "Low and level; slows slightly to spell out the clarification, then snaps the order shut.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。新製品の設計を綿密に見直します",
+      "en": "Yes, sir. I'll go over the new product's design meticulously.",
+      "style": "Quick affirmative attack, then steady methodical rhythm, ticking the task off aloud.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、社長挨拶では総論から各論へ流せ",
+      "en": "For the president's address, flow from the general overview into the specifics.",
+      "style": "Measured instruction with a hint of impatience; even stress, expecting immediate understanding.",
+      "mood": "stern"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。展示ブースに工夫を凝らしたデザインを採用します",
+      "en": "Yes, sir. We'll go with a carefully crafted design for the exhibition booth.",
+      "style": "Crisp and cooperative; a touch of pride creeping in on the design detail.",
+      "mood": "quietly_proud"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "当社、新人の辛抱強さを評価しろ",
+      "en": "And make sure the new hires' perseverance gets recognized in their evaluations.",
+      "style": "Quieter but firmer; a rare note of approval buried under the flat directive.",
+      "mood": "firm_approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。優秀社員をリストアップして報告します",
+      "en": "Yes, sir. I'll draw up a list of our top employees and report back.",
+      "style": "Snappy wrap-up energy; efficient pace, slight upward lift signaling the meeting is done.",
+      "mood": "brisk"
+    }
+  ]
+}

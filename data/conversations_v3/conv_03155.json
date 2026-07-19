@@ -1,0 +1,75 @@
+{
+  "id": "conv_03155",
+  "context": "Ren profiles an edtech engineer.",
+  "purpose": "WIDENED SCENARIO: tech interview; vocabulary (返信/音声/ツール/教材/ダウン) in natural home.",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "返信",
+    "音声",
+    "ツール",
+    "教材",
+    "ダウン"
+  ],
+  "cast": [
+    "ren_uni",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_158)",
+    "generated_at": "2026-05-29T16:08:12.735Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "学習ツールを、開発したんですね。",
+      "en": "You developed a learning tool.",
+      "style": "engaged young interviewer voice, soft warm curious focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、音声で学べる教材ツールです。",
+      "en": "Yes, a material tool you learn from by voice.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "音声は、聞き取りやすいですか?",
+      "en": "Is the audio easy to hear?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "クリアな音声に、こだわりました。",
+      "en": "I cared about clear audio.",
+      "style": "clear engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "サーバーが、ダウンすることは?",
+      "en": "Does the server ever go down?",
+      "style": "engaged young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ダウンしないよう、対策しています。",
+      "en": "We take measures so it doesn't go down.",
+      "style": "measured engineer voice, soft warm informative clarity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "質問への返信も、早いんですか?",
+      "en": "Are replies to questions fast too?",
+      "style": "curious young interviewer voice, soft warm focus throughout"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "返信を、自動で早く返す教材です。",
+      "en": "It's a material tool that auto-replies fast.",
+      "style": "warm engineer voice, soft warm informative closing clarity throughout"
+    }
+  ]
+}

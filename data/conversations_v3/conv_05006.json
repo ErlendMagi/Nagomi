@@ -1,0 +1,78 @@
+{
+  "id": "conv_05006",
+  "context": "A boss reviews a precision-engineering project schedule",
+  "purpose": "Teach: 承諾/着用/期日/着目/配列/精密/随時/皆無",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "承諾",
+    "着用",
+    "期日",
+    "着目",
+    "配列",
+    "精密",
+    "随時",
+    "皆無"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_252 workflow wqfni1zjz)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "健司くん、例の精密部品プロジェクトのスケジュールを確認したいんだが。",
+      "en": "Kenji, I'd like to go over the schedule for that precision parts project.",
+      "style": "Calm, authoritative boss tone with measured, businesslike delivery throughout."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい、こちらが工程表とデータの配列をまとめた最新版の資料です。",
+      "en": "Yes, here is the latest document summarizing the process schedule and data arrangement.",
+      "style": "Polite junior employee tone, slightly formal with a slightly nervous undertone."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "提出期日は来月十五日だったな。間に合いそうか?",
+      "en": "The submission deadline was the fifteenth of next month, right? Will we make it?",
+      "style": "Direct questioning tone, businesslike with a hint of pressure underneath."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "現時点で遅れの心配は皆無です。進捗は随時ご報告いたします。",
+      "en": "At the moment there are zero concerns about delays. I'll report progress as it happens.",
+      "style": "Reassuring but professional, crisp delivery showing competence and confidence."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "それと、クリーンルームではマスクの着用を徹底させてくれ。",
+      "en": "Also, make sure everyone strictly wears masks in the cleanroom.",
+      "style": "Firm instructional tone, emphasizing the importance of the safety protocol clearly."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "承知しました。特に着目すべき工程はどちらでしょうか?",
+      "en": "Understood. Which process step should we pay particular attention to?",
+      "style": "Attentive subordinate tone, asking for clarification with respectful curiosity."
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "組立段階だな。一度クライアントの正式な承諾を書面で取ってから進めてくれ。",
+      "en": "The assembly stage. Get the client's formal written consent before proceeding.",
+      "style": "Decisive senior manager tone, giving clear direction with implied authority."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "かしこまりました。本日中にご承諾をいただけるよう動きます。",
+      "en": "Certainly. I'll work to obtain their consent by the end of today.",
+      "style": "Efficient, action-oriented closing tone showing commitment to follow through."
+    }
+  ]
+}

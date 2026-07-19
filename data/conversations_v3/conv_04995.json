@@ -1,0 +1,84 @@
+{
+  "id": "conv_04995",
+  "context": "A doctor explains an industry-health study to a curious teen",
+  "purpose": "Teach: 直径/潜水艦/機体/マスメディア/外科/刑法/栄光/団塊",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "直径",
+    "潜水艦",
+    "機体",
+    "マスメディア",
+    "外科",
+    "刑法",
+    "栄光",
+    "団塊"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_251 workflow wu4yiak0c)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "団塊世代の健康調査を読んでいたんだ。とても興味深い結果だったよ。",
+      "en": "I was reading a health survey of the baby-boomer generation. The results were quite interesting.",
+      "style": "Calm doctor tone with a reflective opening that invites conversation"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ、ニュースとかでもよく見ますけど、マスメディアの取り上げ方ってちょっと大げさじゃないですか?",
+      "en": "Oh, I see it on the news a lot, but doesn't the mass media play it up a bit?",
+      "style": "Casual teen register questioning media framing in a relatable everyday way"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "鋭いね。特に外科の領域では、手術件数の変化が地味だけど顕著なんだよ。",
+      "en": "Sharp of you. Especially in the surgical field, the change in operation numbers is quiet but striking.",
+      "style": "Praising the teen and gently introducing a technical angle with warmth"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "へえ。うちの父、前に造船所で潜水艦の溶接をしてて、咳がずっと止まらなかったんです。",
+      "en": "Huh. My dad used to do submarine welding at a shipyard, and his cough wouldn't stop for ages.",
+      "style": "Single concrete personal detail shared with quiet teenage worry"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは心配だったね。航空整備も似ていて、機体の塗装を扱う方々の追跡調査もあるんだ。",
+      "en": "That must have been worrying. Aircraft maintenance is similar; there are follow-up studies on people who handle fuselage paints.",
+      "style": "Empathetic acknowledgment before broadening to a parallel example"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そういう粉って、どれくらい小さいと体に入っちゃうんですか?",
+      "en": "How small do those particles have to be before they get into your body?",
+      "style": "Natural teen phrasing for a general size question without technical framing"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん、目安として直径二・五マイクロメートル以下のものが特に問題視されているよ。",
+      "en": "Yeah, as a rough benchmark, particles 2.5 micrometers in diameter or smaller are considered the most problematic.",
+      "style": "Precise medical answer offered as an accessible benchmark for the teen"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "それを会社が知ってて黙ってたら、ひどくないですか?最悪、刑法とかで裁かれたりするんですか?",
+      "en": "If a company knew and stayed silent, isn't that awful? In the worst case, could they be tried under the criminal code?",
+      "style": "Emotional teen reaction first, then escalating to a legal question naturally"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "ケース次第だけど、過去には大企業の栄光の陰で被害が隠されたこともあってね。だから君みたいに疑問を持つ若い人が大事なんだよ。",
+      "en": "It depends on the case, but in the past harm was sometimes buried in the shadow of corporate glory. That's why young people like you who ask questions really matter.",
+      "style": "Reflective closing that validates the teen and ties the threads together"
+    }
+  ]
+}

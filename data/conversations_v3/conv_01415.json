@@ -1,0 +1,62 @@
+{
+  "id": "conv_01415",
+  "context": "Kenji asks Ren for his honest opinion.",
+  "purpose": "senior-alum opinion exchange",
+  "ambient": "office_morning",
+  "sound_effects": [],
+  "target_vocab": [
+    "一緒",
+    "相談",
+    "感謝",
+    "頑張る",
+    "考える"
+  ],
+  "cast": [
+    "kenji_office",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_071)",
+    "generated_at": "2026-05-27T05:41:20.857Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "レン君、本当、相談、いいかな。",
+      "en": "Ren — can I ask your advice on something?",
+      "style": "Gentle opening, a little hesitant. Voice warm but measured. Respectful distance in the intonation — asking permission, not assuming. Soft throughout, like this matters.",
+      "mood": "earnest_vulnerable"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "もちろん、本当に。",
+      "en": "Of course. Really, anytime.",
+      "style": "Immediate and genuine. No performance. Quiet assurance underneath — he's saying yes before Kenji even finishes. Steady eye contact in the voice.",
+      "mood": "genuine_open"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一緒に、本当、考えよう。",
+      "en": "Let's figure it out together, yeah?",
+      "style": "Warm invitation, not instruction. Slight lean forward in the phrasing. The 'together' lands softly but with real weight. Reassuring without patronizing.",
+      "mood": "collaborative_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "頑張ります、本当、絶対。",
+      "en": "I'll do my best. I promise.",
+      "style": "Quiet commitment. Words simple and direct. Small bright lift at the end — a nod of gratitude to Kenji for asking. No drama, just sincerity.",
+      "mood": "determined_earnest"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "感謝、本当、いつも。",
+      "en": "I'm really glad you're here. Thank you.",
+      "style": "Soft closing. Gratitude sits underneath the whole thing, not stated loudly. Warm exhale. The kind of thing you say when someone has shown up for you without needing to.",
+      "mood": "grateful_tender"
+    }
+  ]
+}

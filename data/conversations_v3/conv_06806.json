@@ -1,0 +1,86 @@
+{
+  "id": "conv_06806",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 国内外/使い分け/要員/分業/リモート/仕事場/スペック/スクロール",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "国内外",
+    "使い分け",
+    "要員",
+    "分業",
+    "リモート",
+    "仕事場",
+    "スペック",
+    "スクロール"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_342 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "国内外の市場動向、毎週、私に、報告しろ。",
+      "en": "I want domestic and international market trends reported to me every week.",
+      "style": "Clipped, businesslike delivery. Each phrase lands cleanly. Authority without theatricality. Expectation of compliance, not negotiation.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。語彙、相手に応じて、使い分ける訓練、社員に、徹底中です。",
+      "en": "Yes. We're currently drilling the staff on adapting their vocabulary depending on who they're addressing.",
+      "style": "Steady, competent tone. Matter-of-fact recitation of progress. Slight forward lean in phrasing — showing he's on top of it, not defensive.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "プロジェクト要員、来月、増員する方針だ。",
+      "en": "We're increasing project staffing next month. That's the plan.",
+      "style": "Declarative, final. No hedging. Short sentences that close doors. The tone of someone accustomed to being heard.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。製造ラインの分業体制、効率化を、進めています。",
+      "en": "Yes. We're streamlining the production line's division of labor.",
+      "style": "Straightforward, competent. Quick tempo. No padding. The report of someone executing on priorities, not asking permission.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "リモートワーク、定着させる方針で、いけ。",
+      "en": "Remote work is going to stick. Make it happen.",
+      "style": "Firm, economical phrasing. No room for debate. The voice of someone who's decided and is now assigning the work.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。私の仕事場、整理整頓を、心がけております。",
+      "en": "Yes. I've been keeping my workspace organized and maintain that discipline daily.",
+      "style": "Respectful, slightly formal register. Conscientious tone — showing care and responsibility without overstatement. A touch of earnestness underneath.",
+      "mood": "diligent"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "新製品のスペック、競合に勝る形で、設定しろ。",
+      "en": "The new product specs need to outperform the competition. Set them that way.",
+      "style": "Authoritative but not harsh. Clear parameters. The tone expects the work is understood and will be done. Slight emphasis on the competitive edge.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内SNS、画面、スクロール、しやすく、改修しました。",
+      "en": "Yes. I've updated the internal SNS interface so the scrolling is smoother and more intuitive.",
+      "style": "Efficient summary of completed work. Quiet confidence. Not seeking praise, just confirming the job is done. Professional close.",
+      "mood": "accomplished"
+    }
+  ]
+}

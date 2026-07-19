@@ -1,0 +1,72 @@
+{
+  "id": "conv_05608",
+  "context": "A uni intern interviews a manager about retail operations",
+  "purpose": "Teach: 上回る/補給/含み/順次/終える/レギュラー/当店/常時",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "上回る",
+    "補給",
+    "含み",
+    "順次",
+    "終える",
+    "レギュラー",
+    "当店",
+    "常時"
+  ],
+  "cast": [
+    "ren_uni",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_282 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "ren_uni",
+      "jp": "当店の在庫管理、常時最適化されてるんですか。",
+      "en": "Is your store's inventory always optimized?",
+      "style": "Thoughtful, careful pace. Genuine question — not testing. Slight lean forward. The tone of someone who actually wants to understand the process, not performing politeness.",
+      "mood": "curious_earnest"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。順次補給で、レギュラー商品の欠品を防いでいます。",
+      "en": "Yes. We use sequential replenishment to make sure our regular products don't run out of stock.",
+      "style": "Clear, direct, warm. Professional but not stiff — she's explaining something she knows well. Steady eye contact. Pride in the system without overselling it.",
+      "mood": "assured"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "予測を上回る場面、よくあるんですか。",
+      "en": "Does demand exceed your forecast often?",
+      "style": "Real inquiry, not small talk. Quiet focus — he's listening to understand the answer, not waiting to respond. Slight pause after the question sits.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "季節要因を含み、上回ることもあります。",
+      "en": "It does sometimes, especially accounting for seasonal fluctuations.",
+      "style": "Matter-of-fact, confident. Not hedging — she's given this thought. Straightforward delivery, the tone of someone explaining what she monitors. No apology in her voice.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "四半期を終える際の振り返り、丁寧にされてるんですね。",
+      "en": "So you really do put work into those quarter-end reviews.",
+      "style": "Quiet realization dawning. Not a question marking the end of small talk — the recognition of something real. Genuine respect settling in his voice.",
+      "mood": "respectful_impressed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "はい。",
+      "en": "Yes.",
+      "style": "Warm, brief. A small nod in the voice. The quiet confirmation of someone who doesn't need to elaborate because the work speaks for itself.",
+      "mood": "calm"
+    }
+  ]
+}

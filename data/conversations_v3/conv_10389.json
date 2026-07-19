@@ -1,0 +1,86 @@
+{
+  "id": "conv_10389",
+  "context": "Officer briefs",
+  "purpose": "Teach: 書き込ま/予告編/エンターテインメント/ニックネーム/イコール/号機/点灯/アース",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "書き込ま",
+    "予告編",
+    "エンターテインメント",
+    "ニックネーム",
+    "イコール",
+    "号機",
+    "点灯",
+    "アース"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_521 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、調書に丁寧に書き込まれますね",
+      "en": "The police write everything down carefully in their statements.",
+      "style": "Observational, matter-of-fact. Even pace. Slight nod of acknowledgment in the delivery, as if noting something sensible that happens routinely.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、防犯活動の予告編的告知もされますね",
+      "en": "The police also issue advance notices about their crime-prevention activities.",
+      "style": "Same measured tone. A tick lighter — this is expected procedure. No surprise in the voice, just noting what happens.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、市民向けエンターテインメント要素のある安全教室も開かれますね",
+      "en": "The police run safety classes with educational entertainment elements for the community too.",
+      "style": "Slight warmth here — acknowledging the civic effort. Still conversational, unhurried. A small nod of approval without overselling it.",
+      "mood": "approving"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、容疑者のニックネームも調書に記録されますね",
+      "en": "They even record suspects' nicknames in the official statements.",
+      "style": "Gentle smile in the voice. This detail amuses him slightly without mocking. Still easy, still observant — just noting something that humanises the process.",
+      "mood": "wryly_amused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、現行犯と既決犯はイコールではないと区別されますね",
+      "en": "The police distinguish between arrests in the act and prior convictions — they're not the same.",
+      "style": "More deliberate now. A hint of gravitas. Speaking with precision about something that matters legally. Lean in slightly on the distinction.",
+      "mood": "precise"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、無線機の一号機から順に点検されますね",
+      "en": "They go through their radio units one by one from the first one onward, checking everything.",
+      "style": "Procedural, steady. A note of respect for the thoroughness. Not rushed. Matter-of-fact about the routine rigour.",
+      "mood": "respectful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、署の防犯灯の点灯確認もされますね",
+      "en": "They also verify that all the crime-prevention lights around the station are on.",
+      "style": "Back to easy observation. A small practical detail. Quiet satisfaction in the delivery — this is how things get done properly.",
+      "mood": "satisfied"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "警察、電子機器のアース工事も依頼されますね",
+      "en": "And they arrange for grounding work on their electronic equipment.",
+      "style": "Finishing note. Slightly quieter, almost administrative. The last item on a list. No fanfare, just closure.",
+      "mood": "matter_of_fact"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "conv_00142",
+  "context": "A small therapy office. Mei has come back to Dr. Saito (here playing a therapist she sees once a quarter). They've known each other for years.",
+  "purpose": "therapy session — long-term patient, careful gentle prompting",
+  "ambient": "clinic_waiting_room",
+  "target_vocab": [
+    "本当に",
+    "今",
+    "時間",
+    "大丈夫",
+    "心配",
+    "少し",
+    "言う"
+  ],
+  "cast": [
+    "saito_doctor",
+    "mei_romantic"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_007)",
+    "generated_at": "2026-05-26T18:53:08.016Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "こんにちは、メイさん。お変わり、ありますか。",
+      "en": "Hello, Mei. How have you been managing?",
+      "style": "Warm professional greeting. Steady eye contact. Unhurried cadence. Leans in slightly—inviting rather than clinical.",
+      "mood": "attentive_warm"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい…少し。…今、本当に、よく眠れて。",
+      "en": "Yes… a little better. …I'm actually sleeping well now.",
+      "style": "Quiet relief in the voice. Slight brightness emerging. Pause before 'sleeping'—acknowledging the surprise of improvement. Small, genuine.",
+      "mood": "hopeful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "本当に？それは、嬉しい変化ですね。",
+      "en": "Really? That's wonderful.",
+      "style": "Genuine pleasure, no performance. Warm nod in the voice. Sits with the moment—lets the good news breathe.",
+      "mood": "pleased"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "はい。…仕事も、少し楽。",
+      "en": "Yes. …Work feels a little lighter too.",
+      "style": "Steady confirmation. Voice carries quiet confidence. Measured pace—not rushing the positive momentum.",
+      "mood": "cautious_optimism"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "いいですね。…何が、変わったと思いますか。",
+      "en": "That's good. …What do you think made the difference?",
+      "style": "Gentle inquiry. Curious but never pressuring. Soft opening, letting her guide the answer. Doctor's patience in the silence.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…(beat) ちゃんと、自分のために、時間取れてる。",
+      "en": "…(beat) I'm actually making time for myself now. Real time.",
+      "style": "Small pause before speaking—gathering honesty. Voice steadies on the realization. Unforced clarity. Slight warmth at the end.",
+      "mood": "self_aware"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それ、本当に、大事ですよね。",
+      "en": "That's genuinely important.",
+      "style": "Quiet conviction. Firm but gentle emphasis on 'genuinely.' Not rushed—lets the truth settle. Warm presence unchanged.",
+      "mood": "validating"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "心配は、まだある。でも、前より、少し。",
+      "en": "I still worry sometimes. But…less than I did.",
+      "style": "Honest measurement. No downplaying. Slight pause before 'less'—holding the before and after in mind. Tired but steady.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うん。…大丈夫ですよ、その「少し」が、本当に大切。",
+      "en": "That matters. That 'less' really does matter.",
+      "style": "Direct reassurance with warmth underneath. Light emphasis on 'matters.' Sits forward slightly. Voice carries both steadiness and genuine care.",
+      "mood": "reassuring"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…ありがとうございます。先生に、言えて、楽になる。",
+      "en": "…Thank you. Just being able to say it out loud—it helps.",
+      "style": "Soft gratitude. Breath of relief after the 'thank you.' Voice quiets on the confession. Tender, genuine exhale at the end.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "こちらこそ。…次は、いつにしましょうか。",
+      "en": "Of course. …Shall we schedule the next visit?",
+      "style": "Gentle shift to logistics. Warm, professional closing. Unhurried—respecting the moment while moving forward.",
+      "mood": "supportive"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "三ヶ月後で、本当に、大丈夫だと思います。",
+      "en": "Three months sounds right. I think that will be good.",
+      "style": "Quiet confidence. Clear, steady voice. Small nod in the delivery—ownership of the timeline. Genuine and grounded.",
+      "mood": "confident"
+    }
+  ]
+}

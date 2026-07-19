@@ -1,0 +1,86 @@
+{
+  "id": "conv_09680",
+  "context": "Mom and son chat",
+  "purpose": "Teach: メモリアル/ハウル/ヨドバシカメラ/ポケモン/ファミコン/東宝/オカルト/サントリー",
+  "ambient": "living_room_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "メモリアル",
+    "ハウル",
+    "ヨドバシカメラ",
+    "ポケモン",
+    "ファミコン",
+    "東宝",
+    "オカルト",
+    "サントリー"
+  ],
+  "cast": [
+    "yumiko_mom",
+    "sho_child"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_485 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがメモリアル公園を案内して下さるそうよ",
+      "en": "Sho, your father says he'd like to take you to Memorial Park.",
+      "style": "Warm, matter-of-fact announcement. Light brightness on 'Memorial Park.' Gentle excitement for him, not performing it. The tone of a mother sharing good news she knows will land well.",
+      "mood": "warm_pleased"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとハウルの動く城をまた観たよ",
+      "en": "Mom, Dad and I watched Howl's Moving Castle again!",
+      "style": "Quick, bright opening. Eager to share. Bounces slightly in the delivery. Wants approval and reaction. The unfiltered joy of a six-year-old who experienced something good and can't wait to tell her.",
+      "mood": "excited_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがヨドバシカメラに行かれるそうよ",
+      "en": "Sho, your father is going to Yodobashi Camera.",
+      "style": "Calm, informative. Slight warmth underneath. Not asking for reaction—just relaying a fact she thinks he might like. The rhythm of a mother noticing patterns in her child's world.",
+      "mood": "observant"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとポケモンカード交換したよ",
+      "en": "Mom, Dad and I traded Pokémon cards!",
+      "style": "Bright, quick-paced. Pride in the accomplishment. Slightly breathless—eager to describe the shared activity. Wants her to understand it mattered because they did it together.",
+      "mood": "proud_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがファミコンを今でも大切にされてるわ",
+      "en": "Sho, even now your father treasures that old Famicom.",
+      "style": "Gentle, reflective. Warm affection for the husband underneath. Slight pause before 'treasures'—noticing something tender about him. Speaking as much to herself as to Sho.",
+      "mood": "warm_reflective"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんと東宝の映画祭行きたいよ",
+      "en": "Mom, can we go to the Toho film festival with Dad?",
+      "style": "Hopeful, direct question. Slightly tentative—asking permission but also excited. The request is simple but earnest. No rush in the delivery, just genuine want.",
+      "mood": "hopeful_eager"
+    },
+    {
+      "speaker": "yumiko_mom",
+      "jp": "翔くん、お父さんがオカルト本を子供には見せないって仰ってたわ",
+      "en": "Sho, your father says he won't let you see his occult books—they're not for children.",
+      "style": "Matter-of-fact boundary-setting. No judgment in the tone. Light firmness on 'not for children.' The practical voice of a mother relaying a father's rule without elaboration.",
+      "mood": "practical"
+    },
+    {
+      "speaker": "sho_child",
+      "jp": "ママ、ぼく、お父さんとサントリーの工場見学行ったよ",
+      "en": "Mom, Dad took me to the Suntory factory tour!",
+      "style": "Triumphant, satisfied close. The adventure is complete and fully savored. Warm brightness on 'factory tour.' The happiness of a finished memory being shared. Natural fadeout on the final word.",
+      "mood": "content_proud"
+    }
+  ]
+}

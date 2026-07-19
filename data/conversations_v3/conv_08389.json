@@ -1,0 +1,86 @@
+{
+  "id": "conv_08389",
+  "context": "Officer briefs",
+  "purpose": "Teach: 配付/減額/必需/構文/造る/充足/取消/買物",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "配付",
+    "減額",
+    "必需",
+    "構文",
+    "造る",
+    "充足",
+    "取消",
+    "買物"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_421 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、防犯資料を配付しております",
+      "en": "We're distributing crime prevention materials.",
+      "style": "Professional, even cadence. The opening phrase clear and declarative. Measured pace. Voice carries quiet authority without assertiveness. Like reading prepared information to a attentive listener.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、罰金の減額措置をされたんですね",
+      "en": "I see — so the police implemented a fine reduction measure.",
+      "style": "Engaged and respectful. Light lift at the opening acknowledgement. Warm curiosity underneath — interested in what this means. Genuine, not performative. Slight lean-in quality.",
+      "mood": "attentive_appreciative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、必需品の救援を実施しております",
+      "en": "We're also conducting emergency relief for essential supplies.",
+      "style": "Steady, factual delivery. No inflection wasted. The words land flat and clear, like items on a list. Professional composure maintained. Slight pause weight between clauses.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、調書の構文を厳密に確認されておられますね",
+      "en": "Yes — so the police are verifying all statement details with strict precision.",
+      "style": "Respectful agreement. Acknowledges the professionalism he's hearing. Rhythm steady and cooperative. Voice shows he follows what's being said. Not deferential, but genuinely aligned.",
+      "mood": "respectful_engaged"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、安全な街を造る取り組みを進めております",
+      "en": "We're working to build and maintain safer communities.",
+      "style": "Measured and deliberate. The phrase lands with quiet conviction. Voice slightly warmer here — this is the 'why' underneath the work. Still professional but with visible care in the delivery.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察の活動が地域に充足感を与えますね",
+      "en": "Yes — that police activity really does bring confidence to the neighborhood.",
+      "style": "Warm agreement with genuine sincerity. Smaller smile in the voice. The acknowledgement feels earned, not reflexive. Shows he sees the point and means the thanks. Quieter but more genuine.",
+      "mood": "genuine_grateful"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、不正取消を発表しました",
+      "en": "We've issued a statement about fraud prevention measures.",
+      "style": "Direct and clear. Information delivered without emphasis. Professional closing quality. Voice settles back into official register. Neutral but confident.",
+      "mood": "official"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察、買物中の防犯活動もありがたいです",
+      "en": "Yes — I'm also grateful for the crime prevention work you do while people are out shopping.",
+      "style": "Warm and present. Opens with quiet sincerity. The gratitude feels personal now, not just polite. Gentle pace. Trails with real appreciation in his voice. Small, genuine smile audible.",
+      "mood": "warm_grateful"
+    }
+  ]
+}

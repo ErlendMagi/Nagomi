@@ -1,0 +1,83 @@
+{
+  "id": "conv_00152",
+  "context": "Aunt Naoko has stopped by to drop off some clothes she no longer wears. She and Sakura sit at the kitchen table.",
+  "purpose": "aunt-niece warmth — older relative offering low-pressure interest in a teenager's life",
+  "ambient": "kitchen_afternoon",
+  "sound_effects": [],
+  "target_vocab": [
+    "元気",
+    "最近",
+    "何",
+    "クラブ",
+    "楽しい"
+  ],
+  "cast": [
+    "naoko_aunt",
+    "sakura_teen"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_008)",
+    "generated_at": "2026-05-26T19:15:33.592Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "naoko_aunt",
+      "jp": "さくらちゃん、元気にしてる？",
+      "en": "Sakura-chan, you doing well?",
+      "style": "Warm aunt cadence, the familiarity of years in the voice, easy bright lift on the greeting.",
+      "mood": "warm-easy"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "元気だよ、ナオコちゃん。久しぶり。",
+      "en": "I'm good, Naoko-chan. Long time no see.",
+      "style": "Teen affection mixed with the casual familiar honorific, soft genuine warmth in the catch-up tone.",
+      "mood": "affectionate-casual"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "学校はどう？最近何してるの？",
+      "en": "How's school? What have you been up to lately?",
+      "style": "Easy aunt curiosity, no pressure in the questions, breezy chain of interest delivered with warmth.",
+      "mood": "curious-easy"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "クラブで忙しい。テニス始めたの。",
+      "en": "Busy with club. I started tennis.",
+      "style": "Bright teen energy lifting on 「テニス」, real enthusiasm threading through, proud to share it casually.",
+      "mood": "proud-bright"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "え、テニス？かっこいいじゃない。",
+      "en": "Eh, tennis? That's cool.",
+      "style": "Pleased surprised aunt voice, genuine admiration rising in the response, the compliment unforced and warm.",
+      "mood": "impressed-warm"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "まだ下手だけど、楽しいよ。",
+      "en": "I'm still bad at it, but it's fun.",
+      "style": "Modest teen self-correction with the joy still leaking through, honest balance in the voice between humility and pleasure.",
+      "mood": "humble-happy"
+    },
+    {
+      "speaker": "naoko_aunt",
+      "jp": "楽しいのが一番。続けてね。",
+      "en": "Fun is what matters most. Keep at it.",
+      "style": "Aunt gentle wisdom delivered without weight, soft genuine encouragement rounding off the thought.",
+      "mood": "gently-encouraging"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、頑張る。ありがとう。",
+      "en": "Yeah, I'll work hard. Thanks.",
+      "style": "Teen sincere acceptance, voice settling warmly, real appreciation for the casual encouragement woven in.",
+      "mood": "sincere-warm"
+    }
+  ]
+}

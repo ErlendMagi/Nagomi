@@ -1,0 +1,105 @@
+{
+  "id": "conv_00039",
+  "context": "A small café in the afternoon. Aoi and Mei haven't seen each other in a few months — both have been quietly drowning. Today is the recover-the-friendship session.",
+  "purpose": "friendship maintenance — gentle catch-up after a drift",
+  "ambient": "cafe_afternoon",
+  "target_vocab": [
+    "本当に",
+    "元気",
+    "今",
+    "時間",
+    "一緒",
+    "嬉しい",
+    "見る"
+  ],
+  "cast": [
+    "aoi_barista",
+    "mei_romantic"
+  ],
+  "frequency_tier": 1,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_002)",
+    "generated_at": "2026-05-26T16:42:45.546Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "aoi_barista",
+      "jp": "メイ、久しぶり！元気？",
+      "en": "Mei — it's been forever! How have you been?",
+      "style": "Genuine delight on the opening. Voice brightens half an octave. Stands up immediately. Warmth that doesn't perform, just lands.",
+      "mood": "warm_delighted"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "うん、元気。あおいも？",
+      "en": "Yeah, I've been good. You?",
+      "style": "Softer answer than Aoi's greeting, already settling. Small smile underneath. The ease of people who've known each other long enough to not need much.",
+      "mood": "warm_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、まあまあ。座って座って。",
+      "en": "I'm doing okay. Sit, sit.",
+      "style": "Pulls out the chair without making a show of it. Easy generosity. Matter-of-fact kindness — the kind that comes from noticing what someone needs.",
+      "mood": "welcoming"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "最後、いつ会ったっけ？",
+      "en": "When was the last time we actually saw each other?",
+      "style": "Genuinely trying to place it. A small worried laugh underneath — the time gap catching her off guard. Slight hesitation, like the answer matters more than she expected.",
+      "mood": "surprised_searching"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "夏、たぶん。",
+      "en": "Summer, I think.",
+      "style": "Half-grimace hits mid-sentence. The realisation lands in real time — how much time has actually passed. Small, honest exhale.",
+      "mood": "wistful_realizing"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "…うわ、本当に。早いね、時間。",
+      "en": "…Wow, really. Time just goes.",
+      "style": "Quieter than before. Soft, almost to herself — a small honest observation about how fast adult life moves. Not complaining, just noticing.",
+      "mood": "reflective_gentle"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "ね。…で、レンとは、どう？",
+      "en": "…So — how are things with Ren?",
+      "style": "The actual question she's been holding since Mei walked in. Voice drops to softer register. Careful attentiveness — she cares about the answer, and Mei knows it.",
+      "mood": "tender_concerned"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "最近、いい感じ。",
+      "en": "Pretty good lately, actually.",
+      "style": "Small unguarded smile breaking through in the voice. Slight warmth and relief — permission to admit something good. The ease of being asked by someone who genuinely wants to know.",
+      "mood": "soft_content"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "よかった、本当に。なんか、ほっとした。",
+      "en": "I'm really glad to hear that. Honestly, I felt relieved.",
+      "style": "The relief is genuine — it lands as a full exhale. Not performing concern, just releasing it. The 「ほっとした」 moment explains the worry she's been carrying.",
+      "mood": "relieved_sincere"
+    },
+    {
+      "speaker": "mei_romantic",
+      "jp": "あおいは？元気そうで嬉しい。",
+      "en": "What about you? I'm glad you seem well.",
+      "style": "Returns the care with the same gentle directness. Quiet attention. The 「嬉しい」 is unguarded — real pleasure in seeing Aoi okay.",
+      "mood": "warm_attentive"
+    },
+    {
+      "speaker": "aoi_barista",
+      "jp": "うん、私も今は、ちゃんと。",
+      "en": "Yeah — I'm actually doing alright now.",
+      "style": "Small, honest answer carrying history. The 「ちゃんと」 suggests a journey to get here. Not cheerful, just steady. The kind of okay that took some time.",
+      "mood": "grounded_honest"
+    }
+  ]
+}

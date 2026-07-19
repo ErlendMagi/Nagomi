@@ -1,0 +1,86 @@
+{
+  "id": "conv_06829",
+  "context": "A police officer briefs",
+  "purpose": "Teach: 月別/予備校/破損/労災/ストレージ/辞職/役に立っ/明言",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "月別",
+    "予備校",
+    "破損",
+    "労災",
+    "ストレージ",
+    "辞職",
+    "役に立っ",
+    "明言"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_343 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、月別の犯罪件数、報告いたします、毎月。",
+      "en": "We report monthly crime statistics to the police each month.",
+      "style": "Even, procedural tone. Steady pace. Official but not stiff. The rhythm of someone delivering routine information clearly and completely.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、予備校受験指導員、警察出身者にも、ご相談しています。",
+      "en": "Yes. We consult with our staff, our cram-school instructors, and our former police contacts.",
+      "style": "Engaged, responsive. Slight nod in the voice. Confirms understanding while adding substance. Professional but genuinely collaborative.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "公共施設の破損、警察、巡回時、確認しております。",
+      "en": "Public facility damage is noted during our patrol rounds.",
+      "style": "Matter-of-fact, slightly formal. Steady delivery. No elaboration — just stating what is being done. The voice of someone following procedure without question.",
+      "mood": "factual"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。労災発生時、警察への通報、社内手順、定めております。",
+      "en": "Understood. When workplace injuries occur, we have an established internal procedure for notifying the police.",
+      "style": "Confirming and adding detail. Slight emphasis on 「established」— showing this isn't ad-hoc. Clear, bureaucratic but competent.",
+      "mood": "informed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "証拠データのストレージ、警察、専用システム、運用中です。",
+      "en": "We maintain a dedicated police system for evidence data storage.",
+      "style": "Flat, informational. Slight pride in the infrastructure without showing it. The tone of someone describing a system that works and is worth noting.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。容疑者、辞職後の動向、警察、追跡されていますか。",
+      "en": "I see. Is the police tracking the suspect's movements since his resignation?",
+      "style": "Shift toward genuine inquiry. Leaning forward slightly in tone. Less procedural — this is a real question about real follow-through. Measured curiosity.",
+      "mood": "probing"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "はい。前回の協力、本当に、役に立った、と、署内、申しております。",
+      "en": "Yes. The station has mentioned that our previous cooperation was genuinely useful.",
+      "style": "Warmth enters for the first time. Slight softness around 「役に立った」. Still composed, but there's gratitude underneath — acknowledging the relationship.",
+      "mood": "appreciative"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察への協力姿勢、社長が、明言する予定です、来月。",
+      "en": "Understood. The president plans to make a public statement next month about our commitment to police cooperation.",
+      "style": "Closing note — slightly more formal again. Signals the conversation is concluding. Steady, assured. The tone of someone confirming a decision has been made at a higher level.",
+      "mood": "resolute"
+    }
+  ]
+}

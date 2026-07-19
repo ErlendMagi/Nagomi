@@ -1,0 +1,86 @@
+{
+  "id": "conv_06526",
+  "context": "A boss reviews operations",
+  "purpose": "Teach: 外注/両社/差し支え/損ね/歯科医/部内/組立/伝票",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "外注",
+    "両社",
+    "差し支え",
+    "損ね",
+    "歯科医",
+    "部内",
+    "組立",
+    "伝票"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_328 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業務、外注を増やすか、検討中だ。",
+      "en": "We're looking at increasing outsourced operations. Still reviewing the options.",
+      "style": "Measured, authoritative opening. Even pace. No hesitation—this is settled thinking, not tentative. Direct eye contact level. Matter-of-fact.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。両社の協定、明日、調印します。",
+      "en": "Yes. We'll have both agreements signed tomorrow.",
+      "style": "Steady, attentive. Slight nod implied in the tone. Professional without stiffness. Confirming he understands the timeline and has it covered.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "業務に差し支えがあるか、確認しろ。",
+      "en": "Verify whether this will create any operational friction.",
+      "style": "Direct instruction. Slight weight on 'verify.' Not harsh—delegating with precision. Assumes competence. Low, conversational volume.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。気を損ねないよう、丁寧に対応します。",
+      "en": "Yes. I'll make sure we handle it carefully—keep people at ease.",
+      "style": "Respectful, deliberate. Light pause before the second clause, showing he's thought through the human side. Quiet assurance. Not defensive.",
+      "mood": "conscientious"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社員の歯科医、紹介制度、続けよう。",
+      "en": "Let's keep the dental referral program running.",
+      "style": "Calm decision-maker. Warm undertone—this is the kind of benefit that matters. Not an afterthought, genuinely valued. Straightforward delivery.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。部内会議、明日、設定済みです。",
+      "en": "Yes. I've already scheduled the section meeting for tomorrow.",
+      "style": "Efficient, slightly ahead of the curve. Small note of quiet competence—he's already done it. Alert, not rushed. Professional relief.",
+      "mood": "prepared"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "組立工程、効率化、目標だ。",
+      "en": "Assembly efficiency is the target now.",
+      "style": "Clear, measured declaration. Slight emphasis on 'target'—this is where focus needs to go. Calm but serious. No dramatics.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。経理、伝票、再確認しています。",
+      "en": "Yes. Finance is doing a full voucher review as we speak.",
+      "style": "Steady, reassuring. Implies he's already coordinated this. Attentive—showing the boss the groundwork is laid. Closing tone, wrapping up.",
+      "mood": "thorough"
+    }
+  ]
+}

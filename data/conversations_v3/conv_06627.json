@@ -1,0 +1,86 @@
+{
+  "id": "conv_06627",
+  "context": "Two managers chat",
+  "purpose": "Teach: 備蓄/修繕/調印/共催/譲る/過労/堅実/組み込ん",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "備蓄",
+    "修繕",
+    "調印",
+    "共催",
+    "譲る",
+    "過労",
+    "堅実",
+    "組み込ん"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_333 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "災害用の備蓄、本部、十分か、確認した?",
+      "en": "Have you confirmed the disaster stockpile levels at headquarters?",
+      "style": "Efficient and direct. Quick rhythm, no softening. Eyes forward. Brief pause for answer — not waiting for elaboration, just the facts.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議室の修繕、業者と、調整しています。",
+      "en": "Yes. We're coordinating with the vendor on the meeting room repairs.",
+      "style": "Straightforward, attentive. Calm delivery. Showing he's on top of it without overselling. Slight nod of acknowledgment embedded in the tone.",
+      "mood": "composed"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "パートナー企業との調印、今期中に、済ませたいね。",
+      "en": "I'd like to get the partner company agreement signed before the term ends.",
+      "style": "Clear intention. Warm but firm — not a question. Light emphasis on the timeline. The tone of someone setting direction they believe in.",
+      "mood": "purposeful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。市役所と共催で、地域イベント、開きます。",
+      "en": "Yes. We're planning a community event with the city hall co-sponsorship.",
+      "style": "Engaged and positive. Slightly brighter energy — he's moved past logistics to something more collaborative. Forward momentum in the phrasing.",
+      "mood": "energized"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "譲る場面、譲らない場面、見極めが、難しい。",
+      "en": "Knowing when to give ground and when to stand firm — that's the hard part.",
+      "style": "Thoughtful pause before speaking. Slow, measured cadence. The tone of someone working through something genuine. Slight inward focus — thinking aloud with Kenji.",
+      "mood": "introspective"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員の過労を防ぐ仕組み、強化中です。",
+      "en": "Yes. We're reinforcing the systems to prevent staff burnout.",
+      "style": "Steady and reassuring. Showing he understands the weight of what she's saying. Not just reporting — confirming alignment on what matters.",
+      "mood": "reliable"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "堅実な財務、当社の強みよね、本当に。",
+      "en": "Solid financial management has always been our real strength.",
+      "style": "Quiet conviction. Warm, almost wistful. She's recognizing something she believes in. Slight softening at the end — genuine appreciation for what they've built.",
+      "mood": "warm_grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。AIを組み込んだ仕組み、社内で稼働中です。",
+      "en": "Yes. We have AI-integrated systems running in-house right now.",
+      "style": "Close, insider tone. Confident without being showy. He's sharing the update with someone who will understand its significance. Calm and direct.",
+      "mood": "assured"
+    }
+  ]
+}

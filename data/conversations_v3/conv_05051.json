@@ -1,0 +1,78 @@
+{
+  "id": "conv_05051",
+  "context": "A teacher walks a uni student through an ecology paper",
+  "purpose": "Teach: うつ病/生息/虚偽/発する/挫折/成り立つ/一角/掲げる",
+  "ambient": "lecture_hall_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "うつ病",
+    "生息",
+    "虚偽",
+    "発する",
+    "挫折",
+    "成り立つ",
+    "一角",
+    "掲げる"
+  ],
+  "cast": [
+    "asuka_teacher",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_254 workflow w9vf71d3q)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "asuka_teacher",
+      "jp": "この論文は、絶滅危惧種の生息域が縮小している現状を示しているの。",
+      "en": "This paper shows that the habitat range of endangered species is shrinking.",
+      "style": "Calm, measured academic tone introducing the paper's main premise."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "なるほど。著者は冒頭で「多様性の保全」という大きな目標を掲げるスタイルですね。",
+      "en": "I see. At the start, the author takes the approach of setting out a big goal of biodiversity conservation.",
+      "style": "Engaged student summarizing what he's just read, slightly tentative."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "そう。ただし、その主張が成り立つには、データの質が前提になるわ。",
+      "en": "Right. But for that argument to hold up, the quality of the data is a prerequisite.",
+      "style": "Gentle pivot to critical thinking, teacherly and probing."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "実は第三章で、過去の研究に虚偽の数値が含まれていたと指摘されています。",
+      "en": "Actually, in chapter three it's pointed out that past studies contained falsified figures.",
+      "style": "Cautious revelation, lowering voice as if sharing something sensitive."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "いい着眼点ね。その不正は、業界の一角で長年見過ごされてきた問題なの。",
+      "en": "Good observation. That misconduct is an issue that's been overlooked in a corner of the field for years.",
+      "style": "Approving, then sober, contextualizing within the wider discipline."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "研究者たちは強い警告を発する一方で、資金難で挫折した例も多いそうですね。",
+      "en": "While researchers issue strong warnings, apparently many have given up due to funding shortages.",
+      "style": "Reflective, connecting structural problems to individual hardship."
+    },
+    {
+      "speaker": "asuka_teacher",
+      "jp": "ええ。プレッシャーでうつ病になる若手も少なくないと聞くわ。",
+      "en": "Yes. I hear it's not uncommon for younger scholars to develop depression from the pressure.",
+      "style": "Quieter, empathetic, acknowledging the human cost of the field."
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "考えさせられます。来週までに、批判的な視点でまとめ直してみます。",
+      "en": "It really makes me think. I'll try to rewrite my summary from a critical perspective by next week.",
+      "style": "Resolved and grateful, ending on a determined student note."
+    }
+  ]
+}

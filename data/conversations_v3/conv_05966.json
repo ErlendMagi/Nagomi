@@ -1,0 +1,65 @@
+{
+  "id": "conv_05966",
+  "context": "A boss reviews facility upgrades",
+  "purpose": "Teach: 工務/自給/話し合う/書き換え/増設/換気/量販/退社",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "工務",
+    "自給",
+    "話し合う",
+    "書き換え",
+    "増設",
+    "換気",
+    "量販",
+    "退社"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Short (5-6)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_300 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "本社改装、工務店との契約、進めろ。",
+      "en": "HQ remodel and contractor agreement—move forward.",
+      "style": "Clipped, economical. Authoritative opening. No wasted breath. Each phrase lands with quiet certainty. Eyes forward.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。自給自足の食堂、計画段階で話し合う必要があります。",
+      "en": "Understood. We'll need to discuss the in-house cafeteria model during the planning phase.",
+      "style": "Respectful, steady. Lean slightly forward—showing engagement. Measured cadence. Practical tone without hesitation.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "契約書、書き換え対応の条項、入れろ。",
+      "en": "Add contract revision clauses. Non-negotiable.",
+      "style": "Direct, no inflection wasted. Sharp articulation on 'revision.' The voice of someone used to being heard. Minimal pause between statements.",
+      "mood": "decisive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。会議室、増設します。換気設備も更新。",
+      "en": "Understood. We'll expand the meeting rooms and upgrade the ventilation systems.",
+      "style": "Confirm with a slight nod in the voice. Steady, methodical. Listing each task with equal weight—competence, not struggle. Even tempo.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "量販店との取引、契約見直しを。退社時間、社員に配慮しろ。",
+      "en": "Review the volume-retail contracts. And make sure the team can leave on time.",
+      "style": "Final instruction—tone shifts slightly warmer on the second sentence. Not softening, but human. Slight pause between the two items. The voice of someone who notices what matters.",
+      "mood": "firm_considerate"
+    }
+  ]
+}

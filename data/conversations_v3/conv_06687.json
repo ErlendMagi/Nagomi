@@ -1,0 +1,86 @@
+{
+  "id": "conv_06687",
+  "context": "Two managers chat",
+  "purpose": "Teach: 後援/図表/台数/ターミナル/コーディネーター/歴代/三井/近況",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "後援",
+    "図表",
+    "台数",
+    "ターミナル",
+    "コーディネーター",
+    "歴代",
+    "三井",
+    "近況"
+  ],
+  "cast": [
+    "yuki_office",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_336 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "yuki_office",
+      "jp": "地域マラソン、後援、続けるべきかしら、来期。",
+      "en": "Should we keep sponsoring the local marathon next term, do you think?",
+      "style": "Efficient, upward inflection on the question. Matter-of-fact. Delegates without fussing. Moves on to the next item.",
+      "mood": "businesslike"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。年次報告の図表、見やすく整理します。",
+      "en": "Yes. I'll organize the annual report charts so they're easy to read.",
+      "style": "Straightforward, ready-to-go tone. Brief nod of assent. Professional but warm — not robotic. Clean transitions between tasks.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "駐車場、車の台数、増やせるか、確認して。",
+      "en": "Can you check whether we can increase the parking lot capacity?",
+      "style": "Direct and delegating. Casual but clear. Not demanding, just matter-of-fact about what needs doing.",
+      "mood": "task_focused"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。空港ターミナルの広告、出稿、検討中です。",
+      "en": "Yes. We're currently reviewing options for an airport terminal ad placement.",
+      "style": "Status-report delivery. Steady, informative. No apology in the voice — just factual update. Maintains eye contact.",
+      "mood": "informative"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "広告のコーディネーター、来週、面接しましょう。",
+      "en": "Let's interview the ad coordinator candidate next week.",
+      "style": "Decisive and brisk. Light weight on the key verb. No room for negotiation, but not unkind. Assumes agreement.",
+      "mood": "resolved"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。歴代社員の表彰式、感動的でしたね、昨日。",
+      "en": "Yes. The awards ceremony for past employees yesterday was really moving.",
+      "style": "Softer shift — genuine reflection. Small pause before the observation. Quieter than the task-mode. Invites her to share the moment.",
+      "mood": "touched"
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "三井不動産との打ち合わせ、来週、火曜よ。",
+      "en": "The meeting with Mitsui Realty is next Tuesday.",
+      "style": "Calendar notation delivered as fact. No inflection needed — just timeline confirmation. Brisk but not abrupt.",
+      "mood": "matter_of_fact"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社内、各部署の近況、まとめております。",
+      "en": "Yes. I'm compiling updates from each department across the company.",
+      "style": "Steady, in-progress tone. Slight emphasis on \"compiling\" — shows active work. Patient, thorough. Background task being handled.",
+      "mood": "diligent"
+    }
+  ]
+}

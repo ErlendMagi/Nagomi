@@ -1,0 +1,84 @@
+{
+  "id": "conv_00018",
+  "context": "The gate of a small Kobe apartment building, morning. A new resident (Ren) has just brought down his recycling and Mrs. Mori is, predictably, already there.",
+  "purpose": "neighbourhood orientation + gossip + welcome — Kansai community contact",
+  "ambient": "apartment_hallway",
+  "target_vocab": [
+    "今日",
+    "本当に",
+    "大丈夫",
+    "ありがとう",
+    "時間",
+    "一緒",
+    "人"
+  ],
+  "cast": [
+    "mrs_mori_neighbor",
+    "ren_uni"
+  ],
+  "frequency_tier": 2,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (in-chat batch_001)",
+    "generated_at": "2026-05-26T15:05:12.807Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あ、新しい人やんね？おはようさん。",
+      "en": "Oh — you're the new one, aren't you? Mornin'.",
+      "style": "Bright, instantly familiar. Kansai cadence. The 「おはようさん」 is half-greeting, half-claim of jurisdiction.",
+      "mood": "claiming"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "おはようございます。先週、引っ越してきました。",
+      "en": "Good morning. I moved in last week.",
+      "style": "Polite, slightly startled by the warmth. Tokyo formality meeting Kansai warmth.",
+      "mood": "startled_polite"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "そうそうそう。ゴミの日、わかってる？火曜と金曜やからね。",
+      "en": "Yeah yeah yeah — you know the garbage days? Tuesdays and Fridays, okay?",
+      "style": "Three quick agreement-syllables, then straight into useful intel. The information has been waiting.",
+      "mood": "transmitting_intel"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、本当にありがとうございます。",
+      "en": "Yes — really, thank you.",
+      "style": "A small bow inside the voice. Adjusting his pace slightly upward to match hers.",
+      "mood": "grateful"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "あと、上の階の人、夜ちょっとうるさい時あるけど、いい人やから大丈夫。",
+      "en": "Oh — the upstairs folks can be a bit loud at night sometimes, but they're good people, so it's fine.",
+      "style": "The intel keeps coming. Pre-empts a worry he hasn't had yet. Affectionate about the loud upstairs.",
+      "mood": "forewarning_warm"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "はい、わかりました。",
+      "en": "Got it.",
+      "style": "Bemused — accepting that this is now his life. Small smile in the voice.",
+      "mood": "bemused"
+    },
+    {
+      "speaker": "mrs_mori_neighbor",
+      "jp": "なんかあったら、いつでも来てな。時間あるから、私。",
+      "en": "If anything comes up — come round any time, dear. I've got nothing but time.",
+      "style": "Warm, open. The 「時間あるから、私」 is a brag and a gift at once.",
+      "mood": "inviting"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本当に、ありがとうございます。",
+      "en": "Really — thank you very much.",
+      "style": "Sincere, lands a tiny bit warmer than the first thank-you. He's on her side of the gate now.",
+      "mood": "won_over"
+    }
+  ]
+}

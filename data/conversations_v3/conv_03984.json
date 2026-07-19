@@ -1,0 +1,84 @@
+{
+  "id": "conv_03984",
+  "context": "Two analysts review quarterly indicators in the office",
+  "purpose": "Teach: 債務/日銀/インフレ/詐欺/独占/レート/マネー/倒産",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "債務",
+    "日銀",
+    "インフレ",
+    "詐欺",
+    "独占",
+    "レート",
+    "マネー",
+    "倒産"
+  ],
+  "cast": [
+    "kenji_office",
+    "yuki_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_201 workflow wd7d3x1c4)",
+    "generated_at": "2026-06-01T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "kenji_office",
+      "jp": "今期の数字、ざっと見たけど、債務超過寸前の取引先が三社もある。",
+      "en": "I skimmed this quarter's numbers, and three of our clients are on the brink of insolvency.",
+      "style": "Senior analyst, measured tone, slightly grim opening remark."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "ですよね。日銀の発表があってから、為替レートが一気に動いて、輸入勢が苦しんでます。",
+      "en": "Right. Ever since the BOJ's announcement, exchange rates swung sharply, and importers are struggling.",
+      "style": "Polite junior analyst, crisp and analytical follow-up."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "急激なインフレに加えて、マネーサプライの伸びも鈍ってる。最悪のシナリオだな。",
+      "en": "On top of rapid inflation, money supply growth has also slowed. Worst case scenario, really.",
+      "style": "Concerned senior, thinking aloud while reviewing report."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "中小の企業倒産も先月から増加傾向で、連鎖倒産のリスクも無視できません。",
+      "en": "SME bankruptcies have been rising since last month, and chain bankruptcy risk can't be ignored.",
+      "style": "Junior analyst citing data with controlled urgency."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "それと、例の大手、独占禁止法に引っかかりそうだって噂が出てる。",
+      "en": "Also, rumors say that big firm might run afoul of antitrust law soon.",
+      "style": "Lowered voice, sharing sensitive market gossip."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "市場独占の調査が入れば、株価は確実に落ちますね。",
+      "en": "If a monopoly probe begins, the stock will definitely fall.",
+      "style": "Analytical junior weighing the immediate market impact."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "投資詐欺の通報も最近増えてるらしい。詐欺事件まで絡むと信用収縮が早まるぞ。",
+      "en": "I hear investment fraud reports are up lately too. If fraud cases get tangled in, credit will contract faster.",
+      "style": "Senior connecting another risk thread with worried tone."
+    },
+    {
+      "speaker": "yuki_office",
+      "jp": "では来週のレポート、率直にまとめましょうか。",
+      "en": "Then shall I put together next week's report frankly?",
+      "style": "Junior proposing a clear next step with professional poise."
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "ああ、頼む。仮定の話も交えていいから、現場感のある内容にしてくれ。",
+      "en": "Yeah, please. You can weave in hypothetical scenarios too, just keep it grounded in reality.",
+      "style": "Senior giving a clear directive while granting analytical latitude."
+    }
+  ]
+}

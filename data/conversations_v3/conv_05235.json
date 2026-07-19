@@ -1,0 +1,90 @@
+{
+  "id": "conv_05235",
+  "context": "A doctor explains a dermatology research summary to a teen",
+  "purpose": "Teach: 救急車/アトピー/大工/言説/無力/暗闇/筆頭/狂気",
+  "ambient": "clinic_quiet",
+  "sound_effects": [],
+  "target_vocab": [
+    "救急車",
+    "アトピー",
+    "大工",
+    "言説",
+    "無力",
+    "暗闇",
+    "筆頭",
+    "狂気"
+  ],
+  "cast": [
+    "saito_doctor",
+    "sakura_teen"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_263 workflow w3uslwqvx)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "saito_doctor",
+      "jp": "今日はアトピー性皮膚炎の最新研究について、少し噛み砕いて説明するね。",
+      "en": "Today I'll break down the latest research on atopic dermatitis a bit for you.",
+      "style": "Warm pediatrician tone, gentle and slightly casual"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "お願いします。私、症状が酷くなると無力な気持ちになっちゃって…。",
+      "en": "Please do. When my symptoms get bad I just feel powerless...",
+      "style": "Vulnerable teen voice, slightly hesitant and quiet"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "気持ちはよく分かるよ。論文の筆頭著者によると、原因は遺伝と環境の両方らしいんだ。",
+      "en": "I really understand. According to the lead author of the paper, the cause involves both genetics and environment.",
+      "style": "Reassuring expert delivery, measured and informative tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "ネットだと『食事のせいだ』っていう言説もよく見るんですけど、本当ですか?",
+      "en": "Online I often see the discourse that it's caused by diet — is that true?",
+      "style": "Curious skeptical teen voicing a real concern"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "それは少し誇張された話でね、夜中の痒みで眠れないストレスの方がずっと大きいんだ。",
+      "en": "That's a bit exaggerated; the stress of being unable to sleep from nighttime itching matters far more.",
+      "style": "Patient correction, knowledgeable but kind tone"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "確かに…暗闇の中で痒くて眠れない夜は、本当に辛いです。",
+      "en": "True... lying in the dark unable to sleep from the itch is really hard.",
+      "style": "Honest confession, slightly embarrassed but candid voice"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "重症化すると救急車を呼ぶ患者さんもいてね、掻きすぎて感染症を起こす狂気的な悪循環になるんだ。",
+      "en": "In severe cases some patients even call an ambulance — scratching too much triggers a maddening cycle of infection.",
+      "style": "Serious clinical explanation, grounded and informative"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "そんなに重くなることもあるんですね。私だけじゃないって聞いて少し安心しました。",
+      "en": "So it can get that severe. Hearing I'm not the only one is a little comforting.",
+      "style": "Relieved teen, voice softening with quiet gratitude"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "うちの近所の大工さんも長年悩んでてね、新しい外用薬で随分よくなったらしいよ。",
+      "en": "A carpenter in my neighborhood struggled for years too, and apparently improved a lot with a new topical medication.",
+      "style": "Warm relatable anecdote, encouraging and grounded tone"
+    },
+    {
+      "speaker": "saito_doctor",
+      "jp": "君も一緒に治療計画を立てていこう、焦らず一歩ずつね。",
+      "en": "Let's build your treatment plan together — no rush, one step at a time.",
+      "style": "Encouraging closing line, collaborative and hopeful tone"
+    }
+  ]
+}

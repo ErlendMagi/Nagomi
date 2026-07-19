@@ -1,0 +1,79 @@
+{
+  "id": "conv_02189",
+  "context": "Hina-young learns about the Edo period from Sakura's research book.",
+  "purpose": "Teen learning historical detail with mentor.",
+  "ambient": "study_lamp_evening",
+  "sound_effects": [],
+  "target_vocab": [
+    "仏教",
+    "看板",
+    "椅子",
+    "同時",
+    "関東",
+    "九州",
+    "低く",
+    "中学生"
+  ],
+  "cast": [
+    "hina_child",
+    "sakura_teen"
+  ],
+  "frequency_tier": 5,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_110)",
+    "generated_at": "2026-05-27T17:15:10.052Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hina_child",
+      "jp": "さくらさん、関東と九州、文化、違うね。",
+      "en": "Sakura, the culture between Kanto and Kyushu is really different, isn't it?",
+      "style": "Bright, curious opening. Eager to learn but genuinely asking, not performing knowledge. Soft rise on the question, checking that Sakura follows her interest.",
+      "mood": "curious_engaged"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "うん、同時期でも、地域差、ようけある。",
+      "en": "Yeah — even in the same period, there are so many regional differences.",
+      "style": "Warm, generous. Speaking from knowledge but not lecturing. Measured pace, inviting Hina deeper into the idea. Slight lean-forward energy.",
+      "mood": "warm_informative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "仏教の影響も、低く出てた?",
+      "en": "Did Buddhist influence show up less in one region than the other?",
+      "style": "Thoughtful pause before the question. Hina's testing her own reasoning aloud. Soft, tentative — half-sure she's on the right track. Gentle rise at the end.",
+      "mood": "thoughtful_probing"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "看板、お寺、ようけ並べられてた、当時。",
+      "en": "There were so many temple signs and shrines lined up back then.",
+      "style": "Engaged and clear. Sakura painting a picture from her research. Steady pace, warm specificity. Slight trailing detail on 'back then' like she's seeing it.",
+      "mood": "warm_specific"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "椅子も、座り方、違ったかしら。",
+      "en": "Even the chairs and the way people sat was different, wasn't it?",
+      "style": "Curious wonder in the voice. Hina following a small detail into something bigger. Soft, genuinely uncertain — not showing off. Slight trailing rise on 'wasn't it.'",
+      "mood": "curious_wondering"
+    },
+    {
+      "speaker": "sakura_teen",
+      "jp": "中学生の研究、面白いね。",
+      "en": "Your middle-school research is really interesting.",
+      "style": "Genuine appreciation, no condescension. Sakura noticing real thought in Hina's questions. Warm, measured. Slight softness on 'interesting' — she means it.",
+      "mood": "warm_appreciative"
+    },
+    {
+      "speaker": "hina_child",
+      "jp": "うん、もっと、勉強したい。",
+      "en": "Yeah — I want to study even more about it.",
+      "style": "Quiet conviction underneath the brightness. Hina settling into something she cares about. Steady, genuine commitment. Warm closing, no performance.",
+      "mood": "earnest_committed"
+    }
+  ]
+}

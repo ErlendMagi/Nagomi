@@ -1,0 +1,86 @@
+{
+  "id": "conv_08392",
+  "context": "Officer discusses cases",
+  "purpose": "Teach: 放浪/分断/改憲/直撃/哀れ/中高年/棄却/斬り",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "放浪",
+    "分断",
+    "改憲",
+    "直撃",
+    "哀れ",
+    "中高年",
+    "棄却",
+    "斬り"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_421 manual hand-authored)",
+    "generated_at": "2026-06-03T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "本件、容疑者は放浪生活をしていたと、警察、把握ですね",
+      "en": "According to our investigation, the suspect was living a transient life.",
+      "style": "Professional and measured. Calm opening on the subject. Steady pace, like reading from a report but with underlying care. No rush.",
+      "mood": "measured"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、地域の分断を防ぐ活動も行います",
+      "en": "The police department also works to prevent division within the community.",
+      "style": "Formal, bureaucratic tone. Slight emphasis on the institutional 'we'—speaking on behalf of the force. Even delivery, like an official statement.",
+      "mood": "official"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、改憲論議とは関係ないと、警察、明示されたんですね",
+      "en": "So the department has made clear this case isn't connected to constitutional debate?",
+      "style": "Thoughtful, probing but respectful. Slight rise at the end showing genuine curiosity, not challenge. Leaning forward slightly in the voice.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、台風直撃の被害現場で捜査しております",
+      "en": "We're currently conducting the investigation at the typhoon damage site.",
+      "style": "Matter-of-fact, professional. Grounded in the present moment. No emotion in the delivery—just fact. The weight sits underneath.",
+      "mood": "focused"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、警察、哀れな被害者を救援されたんですね",
+      "en": "And the department was able to provide relief to the victims affected by this.",
+      "style": "Gentle reflection. Slower pace on 'relief'—acknowledging the human cost. Quiet respect in the tone. Not proud, just stating what was done.",
+      "mood": "compassionate"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、中高年の被害者支援に努めております",
+      "en": "We're making efforts to support the middle-aged victims in particular.",
+      "style": "Formal but grounded. Steady, bureaucratic tone. The words feel prepared but sincere. Even rhythm, showing institutional commitment.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "本件、裁判所の棄却判決を警察、受け止めましたね",
+      "en": "And the department accepted the court's dismissal ruling in this matter.",
+      "style": "Measured acceptance. Slight pause before 'dismissal'—acknowledging the weight of the decision. Quiet dignity. Not defensive, just factual.",
+      "mood": "accepting"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "警察、刀での斬り合い事件を捜査いたしました",
+      "en": "We investigated a sword-fighting incident.",
+      "style": "Precise, almost understated. Close delivery—like sharing something that required real work. Brief, controlled. The gravity sits in the silence after.",
+      "mood": "grave"
+    }
+  ]
+}

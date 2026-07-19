@@ -1,0 +1,86 @@
+{
+  "id": "conv_06174",
+  "context": "A boss reviews regional operations",
+  "purpose": "Teach: 鳴き声/獲物/一手/一等/部材/校庭/自販機/大河",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "鳴き声",
+    "獲物",
+    "一手",
+    "一等",
+    "部材",
+    "校庭",
+    "自販機",
+    "大河"
+  ],
+  "cast": [
+    "hiroshi_boss",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_310 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "警報機の鳴き声、誤作動報告、調べろ。",
+      "en": "Look into the false alarm reports on the warning system.",
+      "style": "Clipped, direct. Sharp attack on the first word. No wasted air. Expects compliance without question. Eyes forward, jaw set.",
+      "mood": "commanding"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。獲物となるリスク、社員教育で減らします。",
+      "en": "Understood. I'll reduce that exposure through staff training.",
+      "style": "Steady, respectful. Level delivery matching the pace of instruction. Slight nod in the voice — acknowledging both the directive and the logic behind it. Professional but not wooden.",
+      "mood": "attentive"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "今期の一手、市場拡大、決めるぞ。",
+      "en": "This quarter's strategy — we're moving on market expansion. That's the call.",
+      "style": "Decisive, deliberate. Pause before the dash. Weight on 'that's the call' — settles it. Measured but authoritative. The voice of someone who has already decided.",
+      "mood": "resolute"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "一等地の物件、賃借更新、交渉中です。",
+      "en": "We're in active negotiations on the prime-location property lease renewal.",
+      "style": "Factual, measured. Keeps pace steady. No inflation in the delivery — just the facts as they stand. Slight emphasis on 'active' to show progress is real.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "施設の部材、調達、コスト、見直せ。",
+      "en": "Facility materials, procurement, costs — all need reviewing. Do it.",
+      "style": "Clipped, matter-of-fact. Soft staccato on the list. Not harsh, just efficient. Final phrase 'do it' lands without aggression — it's simply the instruction.",
+      "mood": "directive"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "校庭近接の事業所、地域連携、深めます。",
+      "en": "We're deepening our community ties with the school-adjacent sites.",
+      "style": "Warm undertone beneath the professional. Slight lift on 'deepening' — this matters beyond the spreadsheet. Measured but genuine. Shows conviction in the approach.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "hiroshi_boss",
+      "jp": "社内自販機、地域貢献の取り組みに、活用しろ。",
+      "en": "Use the internal vending machines as part of our community contribution strategy.",
+      "style": "Thoughtful pause before the instruction. Even tone, clear sightline. Not a throwaway detail — there's intention here. Expects buy-in on the bigger picture.",
+      "mood": "visionary"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。大河ドラマとのタイアップ、企画進めます。",
+      "en": "Yes. We're moving forward with the Taiga drama partnership.",
+      "style": "Energetic closing. Slight acceleration on 'moving forward' — momentum is real. Confident, final note. The kind of affirmation that wraps a successful meeting.",
+      "mood": "confident"
+    }
+  ]
+}

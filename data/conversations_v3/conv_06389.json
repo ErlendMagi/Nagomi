@@ -1,0 +1,86 @@
+{
+  "id": "conv_06389",
+  "context": "A police officer briefs on security",
+  "purpose": "Teach: 配線/一周/進め方/納入/現職/心構え/立ち上がる/取り組ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "配線",
+    "一周",
+    "進め方",
+    "納入",
+    "現職",
+    "心構え",
+    "立ち上がる",
+    "取り組ま"
+  ],
+  "cast": [
+    "takeda_officer",
+    "kenji_office"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_321 manual hand-authored)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "御社の配線、防犯面でも、再点検をお願いします。",
+      "en": "We'd like you to have your wiring checked again from a security standpoint.",
+      "style": "Professional, measured delivery. Slight pause after the opening phrase. Even tone, no pressure — this is procedure, not accusation. Steady eye contact.",
+      "mood": "professional"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。警察車両、敷地を一周する巡回、お願いしています。",
+      "en": "Of course. We've already arranged for police vehicles to patrol the perimeter.",
+      "style": "Respectful, eager to demonstrate competence. Slight forward lean in the voice. Quick, clean delivery on the concrete action. Not defensive — just showing readiness.",
+      "mood": "cooperative"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "手続きの進め方、警察庁ガイドライン、共有します。",
+      "en": "I'll share the National Police Agency guidelines on how to structure the process.",
+      "style": "Clear, informative tone. Treats this as routine handoff. No condescension — speaking to someone who will follow through. Slightly official register but warm underneath.",
+      "mood": "helpful"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。協定書、警察に納入しました。",
+      "en": "Yes, we've already submitted the partnership agreement to the police.",
+      "style": "Calm confirmation. Brief, factual. Slight note of quiet pride — demonstrating they're ahead of the curve. No embellishment, just competent reporting.",
+      "mood": "efficient"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "現職員のうち、警察出身者、いますか。",
+      "en": "Do you have anyone on your current staff with a law enforcement background?",
+      "style": "Genuine question, not probing. Conversational but official. Opens the door for them to explain, interested in their answer. Warm but detached.",
+      "mood": "curious"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。社員、心構え研修、警察と共催です。",
+      "en": "Yes. We're running a training program on mindset and procedure — it's co-hosted with the police.",
+      "style": "Confident, slightly proud. Delivery picks up pace slightly — this is something they've invested in. Shows initiative. Warm at the edges.",
+      "mood": "committed"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "共同プロジェクト、立ち上がるのは、来年です。",
+      "en": "The joint project will officially launch next year.",
+      "style": "Matter-of-fact, forward-looking. Sets timeline with clarity. No rush in the voice, just factual roadmap. Slightly reassuring — they know the schedule.",
+      "mood": "grounded"
+    },
+    {
+      "speaker": "kenji_office",
+      "jp": "はい。難案件にも取り組ませる方針です。",
+      "en": "Right. Our approach is to have the team take on challenging cases from the start.",
+      "style": "Steady, purposeful. Slight emphasis on 'challenging' — shows ambition but not recklessness. Measured pace, confident. Closing statement that signals readiness.",
+      "mood": "resolute"
+    }
+  ]
+}

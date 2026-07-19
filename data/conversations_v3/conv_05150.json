@@ -1,0 +1,84 @@
+{
+  "id": "conv_05150",
+  "context": "A police officer briefs a uni reporter about a financial case",
+  "purpose": "Teach: 償還/異論/加算/要し/キープ/区間/巨額/組み込ま",
+  "ambient": "office_quiet_low",
+  "sound_effects": [],
+  "target_vocab": [
+    "償還",
+    "異論",
+    "加算",
+    "要し",
+    "キープ",
+    "区間",
+    "巨額",
+    "組み込ま"
+  ],
+  "cast": [
+    "takeda_officer",
+    "ren_uni"
+  ],
+  "frequency_tier": 4,
+  "length_tier": "Medium (7-12)",
+  "meta": {
+    "generated_by": "claude-opus-4-7 (batch_259 workflow wak2v13gi)",
+    "generated_at": "2026-06-02T00:00:00.000Z",
+    "source_plan_row": ""
+  },
+  "lines": [
+    {
+      "speaker": "takeda_officer",
+      "jp": "今回の事件、巨額の投資詐欺でしてね。被害総額は十億を超えています。",
+      "en": "This case is a massive investment fraud. Total damages exceed one billion yen.",
+      "style": "Calm, measured official tone with authoritative gravity throughout"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "十億ですか…大学新聞に載せるには裏取りに時間を要しますね。",
+      "en": "One billion... I'll need time to verify the facts for the university paper.",
+      "style": "Earnest student reporter, slightly overwhelmed but professionally curious"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "容疑者は元本の償還を約束していましたが、実際は新規の資金が配当に組み込まれていた構造です。",
+      "en": "The suspect promised principal repayment, but in reality new funds were being folded into the dividends.",
+      "style": "Explaining the technical scheme clearly with patient instructive delivery here"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "いわゆるポンジ・スキームですね。捜査本部内で異論は出なかったんですか？",
+      "en": "A classic Ponzi scheme, then. Were there no objections within the investigation team?",
+      "style": "Sharper now, leaning into the journalistic angle with focus"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "立件方針については一切異論なし。ただ、勧誘が行われた区間、つまり去年の春から秋にかけての被害者名簿に一部欠落があってね。",
+      "en": "No objections on prosecution policy. However, in the period when solicitation occurred, that is from last spring through autumn, there are partial gaps in the victim roster.",
+      "style": "Frank confession of investigative gap, lowered voice slightly serious"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "その区間に欠落…つまり、まだ表に出ていない被害者がいると？",
+      "en": "Gaps in that period... meaning there are victims still unaccounted for publicly?",
+      "style": "Quietly probing follow-up, sensing a bigger story emerging here"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "可能性は高い。遅延損害金を加算すると、被害は更に膨らむ見込みです。",
+      "en": "Highly likely. Once delay damages are added on, the harm will swell further.",
+      "style": "Grim professional assessment, sober nod toward worsening implications ahead"
+    },
+    {
+      "speaker": "ren_uni",
+      "jp": "情報源として匿名はキープしてください。記事は慎重に書きます。",
+      "en": "Please keep me anonymous as a source. I'll write the article carefully.",
+      "style": "Respectful firm request, settling into mutual professional understanding now"
+    },
+    {
+      "speaker": "takeda_officer",
+      "jp": "もちろん。市民への注意喚起、よろしく頼みますよ。",
+      "en": "Of course. I'm counting on you to alert the public properly.",
+      "style": "Warm closing handoff, brief paternal trust extended to reporter"
+    }
+  ]
+}
