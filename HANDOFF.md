@@ -22,6 +22,11 @@ Nagomi is a passive-listening Japanese SRS app (React Native / Expo 56, Android)
 - Raw renders in `art_raw/` (NOT in git — lives on the home PC only). Regenerable from the bible + anchor if needed.
 - `data/art_bible.json` = single source of truth for characters (visual/palette/prop/reactions/variantNote) and scene prompts. Cheap to edit, expensive to re-render — always re-render only affected items.
 
+## 2026-07-21: frozen first-word ETA + sentence recycling (both fixed, unverified on device)
+- **Frozen "first word known in ~N days"** (user report while traveling): the caption was a pure function of (heard, graduated, pace) — review-only days moved none of them. Now `firstGraduationEtaDays` (analytics) computes ENGINE-TRUTH days from real word_state (wall-clock to the days threshold; pending reps projected at the word's own reps/day) and `etaCaption` prefers it whenever graduated === 0. Ticks down daily and drops as reviews land; table forecast is the fallback for fresh installs.
+- **Sentence recycling under due pressure** (same user report): three compounding causes, all fixed. (1) Picker capped candidates by hit-count BEFORE the level-window filter — a beginner's scored pool collapsed from ~299 to ~35 convs; now filters first (`convOrds` bulk lookup on ContentIndex, optional). (2) The last-8 anti-repeat ring was a volatile React ref, empty on every launch; now persisted in kv (`recent_conv_ring`, SessionRecorder owns it). (3) The 0.9 due-pressure factor floor erased recency entirely — the same greedy due-cover replayed verbatim daily (sim: 15 distinct convs over 7 days, identical order). Freshness now floors SEPARATELY (`freshnessFloorAtFull: 0.8`) and multiplies outside the main floor: near-equal covers rotate, a truly ~1.4×-denser repeat still wins — the 2026-07-18 dues-first rule is intact (locked test updated alongside). Sim after: 48 distinct convs over 7 days, frontier 30→928, new words flowing again.
+- Prediction table regenerated for the picker change (per the invariant below).
+
 ## Key invariants (hard-won — do not regress)
 - Playback ENGINE-TRUTH: all queue lookups via `engine.progress().step` / `engine.current()`; `stepIndexRef` is a uniqueness token ONLY (resume-rewind desync caused audio-order bugs).
 - Bigme: never `File.downloadFileAsync` (hangs); fetch→arrayBuffer→File.write with manual AbortController; always `blob.close()`; never stat files in loops on external storage.
@@ -36,6 +41,7 @@ Nagomi is a passive-listening Japanese SRS app (React Native / Expo 56, Android)
 
 ## Open items
 - Device-verify stage v3 (corner layout, cutouts, mirroring, trio middle, tail).
+- Device-verify the 2026-07-21 fixes (ETA countdown ticks down daily; conversations rotate across days) — user traveling, no build path until home (android/ and assets/starter/*.zip exist only on the home PC; `.gitignore`'s `/android` and `*.zip` lines kept them out of the GitHub push, so cloud CI cannot build yet).
 - Ambient sound beds per scene family (free CC0 loops; freesound needs auth — unresolved source).
 - Mood-shaped bubble art via Gemini (deferred: text-safety; current SVG mood shapes burst/cloud/wobble cover it).
 - Takeda's blank-white eyes partially resisted in variants (imperceptible at stage size; revisit only if user zooms).

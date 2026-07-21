@@ -36,6 +36,12 @@ export interface ContentIndex {
    */
   nextUnheard(afterOrd: number, exclude: Set<string>): ConvMeta | null
   /**
+   * OPTIONAL bulk ord lookup (one query instead of thousands) so the dues
+   * path can window-filter its candidate pool BEFORE the scoring cap.
+   * Implementations without it fall back to per-conv convMeta reads.
+   */
+  convOrds?(convIds: string[]): Map<string, number>
+  /**
    * OPTIONAL comprehensible-input new-content selection: among unheard convs
    * with ord in (afterOrd, maxOrd], pick the highest CI-ratio one that still
    * TEACHES something (ratio < 1), tiebreak by ord. Callers fall back to
@@ -164,10 +170,20 @@ function bestConvFor(
   // floor for the combined variety/comfort product under pressure (0 = no floor)
   const factorFloor = pressure * cfg.duePressure.factorFloorAtFull
   const candidates = index.convsContaining([...weights.keys()])
+  // Level-window BEFORE the cap (user 2026-07-21: the same conversations
+  // recycled daily): capping the hit-sorted list first handed nearly every
+  // slot to long out-of-window conversations that the scoring loop then
+  // skipped — for a beginner the scored pool collapsed from ~300 pickable
+  // conversations to a few dozen. Filter to pickable candidates (ever played,
+  // or unheard within the window) so every capped slot is scoreable.
+  const ords = index.convOrds?.([...candidates.keys()])
+  const pickable = [...candidates].filter(([convId]) =>
+    lastPlayed.has(convId)
+    || (ords ? (ords.get(convId) ?? Infinity) : index.convMeta(convId).ord) <= maxUnheardOrd)
   // The scoring cap must take the candidates with the MOST target-word hits,
   // not the first N in map order — insertion order follows conv_id, which
   // systematically biased picks toward the lowest-id conversations.
-  const capped = [...candidates]
+  const capped = pickable
     .sort((a, b) => b[1].length - a[1].length)
     .slice(0, cfg.maxCandidates * 4)
   let best: Pick | null = null
@@ -204,11 +220,15 @@ function bestConvFor(
       ? ciComfortFactor(ciRatioOf(convId), ciTarget) : 1
 
     // density: target-words per unit time. Under due-pressure the combined
-    // variety/comfort discounts are floored so due COVERAGE dominates — a
-    // 2×-coverage conversation then always wins (max dilution ratio is
-    // 1/factorFloor), while equal-coverage candidates still order by the
-    // discounts (variety survives as the tiebreaker, not the boss).
-    const factors = Math.max(novelty * freshness * comfort * ci, factorFloor)
+    // novelty/comfort/CI discounts are floored so due COVERAGE dominates — a
+    // 2×-coverage conversation then always wins, while equal-coverage
+    // candidates still order by the discounts. FRESHNESS floors separately
+    // and multiplies OUTSIDE that floor (user 2026-07-21: the same greedy
+    // due-cover replayed verbatim daily once the floor erased recency):
+    // recently-played candidates keep a bounded handicap under pressure, so
+    // equal-efficiency covers rotate through fresh contexts day over day.
+    const pressuredFreshness = Math.max(freshness, pressure * cfg.duePressure.freshnessFloorAtFull)
+    const factors = Math.max(novelty * comfort * ci, factorFloor) * pressuredFreshness
     const score = (sum * factors) / Math.pow(Math.max(30, meta.durationSec), durExponent)
     if (!best || score > best.score) best = { convId, reason, score, dueWordCount: wordIds.length }
   }

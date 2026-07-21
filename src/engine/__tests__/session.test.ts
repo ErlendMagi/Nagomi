@@ -194,6 +194,31 @@ describe('SessionRecorder', () => {
     expect(db.lastPlayedMap().get('conv_00001')).toBe(now.getTime())
   })
 
+  it('anti-repeat ring persists across recorder instances (user 2026-07-21: fresh launches replayed the same picks)', () => {
+    const db = freshUserDb()
+    const rec = new SessionRecorder(db, new Scheduler(), new Set([1]), defaultSettings())
+    for (let i = 1; i <= 10; i++) rec.convCompleted(`conv_${String(i).padStart(5, '0')}`, i, now)
+    // a brand-new recorder over the same db (= next app launch) still knows
+    // the last 8 completions, oldest first
+    const reborn = new SessionRecorder(db, new Scheduler(), new Set([1]), defaultSettings())
+    expect(reborn.recentConvRing()).toEqual(
+      [3, 4, 5, 6, 7, 8, 9, 10].map(i => `conv_${String(i).padStart(5, '0')}`))
+  })
+
+  it('unplayable conversations enter the ring too (recency must move on)', () => {
+    const db = freshUserDb()
+    const rec = new SessionRecorder(db, new Scheduler(), new Set([1]), defaultSettings())
+    rec.convCompleted('conv_00001', 1, now, false)
+    expect(rec.recentConvRing()).toEqual(['conv_00001'])
+  })
+
+  it('a malformed ring kv reads as empty — never throws', () => {
+    const db = freshUserDb()
+    db.setKV('recent_conv_ring', '{not json')
+    const rec = new SessionRecorder(db, new Scheduler(), new Set([1]), defaultSettings())
+    expect(rec.recentConvRing()).toEqual([])
+  })
+
   it('sessionEnded flushes partial listening without a conversation credit', () => {
     const db = freshUserDb()
     const rec = new SessionRecorder(db, new Scheduler(), new Set([1]), defaultSettings())
@@ -566,6 +591,14 @@ describe('ContentDb', () => {
     expect(m.get('conv_a')!.sort()).toEqual([1, 2])
     expect(m.get('conv_b')).toEqual([1])
     expect(m.get('conv_c')).toEqual([2])
+  })
+
+  it('convOrds bulk-maps conv ids to ords (window-before-cap support)', () => {
+    const { content } = contentFixture()
+    const m = content.convOrds(['conv_a', 'conv_c', 'conv_missing'])
+    expect(m.get('conv_a')).toBe(1)
+    expect(m.get('conv_c')).toBe(3)
+    expect(m.has('conv_missing')).toBe(false)
   })
 
   it('nextUnheard walks ord order and honors exclusions', () => {

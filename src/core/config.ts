@@ -129,6 +129,17 @@ export const SRS_CONFIG = {
        *  while the queue is large; variety still tiebreaks equals and fully
        *  returns as the queue shrinks below startAt. */
       factorFloorAtFull: 0.9,
+      /** RECENCY keeps a real (bounded) bite under pressure (user 2026-07-21:
+       *  "I can actually recognize some sentences are reoccurring" — the 0.9
+       *  factor floor left fresh contexts only a 1.12× edge, so the same
+       *  greedy due-cover replayed verbatim every day; sim-verified: 15
+       *  distinct conversations over 7 days). Freshness is floored SEPARATELY
+       *  at this value and multiplies OUTSIDE the main floor: a conversation
+       *  played within recentConvDays needs a 1/(this × factorFloorAtFull) ≈
+       *  1.39× coverage edge to beat an equally dense unplayed one, so
+       *  equal-efficiency covers rotate instead of recycling — while a truly
+       *  denser conversation (the 2026-07-18 dues-first rule) still wins. */
+      freshnessFloorAtFull: 0.8,
       /** durationExponent slides from durationExponent to this at full pressure */
       durationExponentAtFull: 1.0,
     },

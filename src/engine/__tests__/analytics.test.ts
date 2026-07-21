@@ -7,7 +7,7 @@ import type { GraduationSettings } from '../../core/graduation'
 import { SRS_CONFIG } from '../../core/config'
 import {
   wordsKnownCurve, jlptBreakdown, jlptMass, listeningHeatmap, graduationTotals,
-  graduatedWords, heatLevel, mondayIndex, JLPT_BANDS,
+  graduatedWords, firstGraduationEtaDays, heatLevel, mondayIndex, JLPT_BANDS,
 } from '../analytics'
 import { etaCaption } from '../goalPlanner'
 
@@ -56,6 +56,45 @@ describe('graduatedWords (user 2026-07-16: the known-words browser)', () => {
   })
 })
 
+describe('firstGraduationEtaDays (user 2026-07-21: the "~23 days" caption froze for three days)', () => {
+  const g = settings({ days: 30 }) // real-world defaults: 30 exposures / 30 days
+
+  it('reps already met → pure wall-clock: counts down by exactly 1 per calendar day', () => {
+    const d = freshDriver()
+    insertWord(d, 1, 40, new Date('2026-08-03T12:00:00')) // first heard 7 days ago
+    expect(firstGraduationEtaDays(d, g, now)).toBe(23)
+    expect(firstGraduationEtaDays(d, g, new Date(now.getTime() + 86_400_000))).toBe(22)
+    expect(firstGraduationEtaDays(d, g, new Date(now.getTime() + 2 * 86_400_000))).toBe(21)
+  })
+
+  it('reps pending → projected at the word\'s own observed pace, and reviews pull the date closer', () => {
+    const d = freshDriver()
+    insertWord(d, 1, 10, new Date('2026-07-21T12:00:00')) // 20 days ago, 0.5 reps/day
+    expect(firstGraduationEtaDays(d, g, now)).toBe(40)    // ceil(20 owed / 0.5) beats the 10-day wall-clock gap
+    const d2 = freshDriver()
+    insertWord(d2, 1, 20, new Date('2026-07-21T12:00:00')) // same word, more reviews done: 1 rep/day
+    expect(firstGraduationEtaDays(d2, g, now)).toBe(10)    // max(10-day gap, 10 projected) — reviews mattered
+  })
+
+  it('takes the soonest word, returns 0 when a graduation is due today, null when nothing heard', () => {
+    const d = freshDriver()
+    insertWord(d, 1, 40, new Date('2026-08-03T12:00:00'))  // 23 days out
+    insertWord(d, 2, 40, new Date('2026-07-13T12:00:00'))  // 28 days in → 2 days out
+    expect(firstGraduationEtaDays(d, g, now)).toBe(2)
+    const dueToday = freshDriver()
+    insertWord(dueToday, 1, 40, new Date('2026-07-11T12:00:00')) // 30 days in
+    expect(firstGraduationEtaDays(dueToday, g, now)).toBe(0)
+    expect(firstGraduationEtaDays(freshDriver(), g, now)).toBeNull()
+  })
+
+  it('honors the placement fast-track thresholds (6 exposures / 7 days)', () => {
+    const d = freshDriver()
+    insertWord(d, 5, 6, new Date('2026-08-07T12:00:00')) // 3 days in, fast-track reps met
+    expect(firstGraduationEtaDays(d, settings({ days: 30, fastTrackMaxRank: 10 }), now)).toBe(4)
+    expect(firstGraduationEtaDays(d, g, now)).toBe(27) // without fast-track the 30-day wall-clock gap rules
+  })
+})
+
 describe('etaCaption (user 2026-07-16: "say how many days left until first word is known")', () => {
   // tiny synthetic table: at 30 min/day, graduated grows 1/day from day 0
   const table = {
@@ -75,6 +114,34 @@ describe('etaCaption (user 2026-07-16: "say how many days left until first word 
     const flat = { horizonDays: 730, tracks: [{ minutes: 30, points: [[0, 0, 0], [730, 0, 0]] }] } as never
     expect(etaCaption(flat, { heard: 0, graduated: 0 }, 30, now))
       .toBe('keep listening — your first known words are on the way')
+  })
+
+  it('prefers engine-truth days when provided; never shows "~0"; milestone branch ignores them', () => {
+    expect(etaCaption(table, { heard: 50, graduated: 0 }, 30, now, 23)).toBe('first word known in ~23 days ✨')
+    expect(etaCaption(table, { heard: 50, graduated: 0 }, 30, now, 1)).toBe('first word known in ~1 day ✨')
+    expect(etaCaption(table, { heard: 50, graduated: 0 }, 30, now, 0)).toBe('first word known in ~1 day ✨')
+    expect(etaCaption(table, { heard: 250, graduated: 30 }, 30, now, 5)).toMatch(/^next: 100 words by ~/)
+  })
+
+  it('falls back to the table forecast when engine days are null (nothing heard yet)', () => {
+    expect(etaCaption(table, { heard: 50, graduated: 0 }, 30, now, null))
+      .toBe(etaCaption(table, { heard: 50, graduated: 0 }, 30, now))
+  })
+
+  it('REGRESSION (user 2026-07-21): review-only days — heard frozen, graduated 0 — still tick down daily', () => {
+    const d = freshDriver()
+    insertWord(d, 1, 40, new Date('2026-08-03T12:00:00'))
+    const g = settings({ days: 30 })
+    const captions = [0, 1, 2].map(k => {
+      const at = new Date(now.getTime() + k * 86_400_000)
+      // heard/graduated identical all three days — exactly the frozen state
+      return etaCaption(table, { heard: 50, graduated: 0 }, 30, at, firstGraduationEtaDays(d, g, at))
+    })
+    expect(captions).toEqual([
+      'first word known in ~23 days ✨',
+      'first word known in ~22 days ✨',
+      'first word known in ~21 days ✨',
+    ])
   })
 })
 

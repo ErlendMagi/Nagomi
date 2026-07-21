@@ -119,17 +119,25 @@ export function roundUpToFive(minutes: number): number {
 
 /**
  * Words-known chart caption (user 2026-07-16: "I want to see progression …
- * Say how many days left until first word is officially known"). Pure; all
- * dates via earliestReachable so the caption can never disagree with the
- * plotted projection. graduated === 0 → a days-count (the near-term dopamine
- * a brand-new user needs); otherwise the next-100 milestone as a month.
+ * Say how many days left until first word is officially known"). Pure.
+ * graduated === 0 → a days-count (the near-term dopamine a brand-new user
+ * needs); otherwise the next-100 milestone as a month via earliestReachable,
+ * so the milestone can never disagree with the plotted projection.
+ *
+ * The first-word count uses `firstWordEngineDays` (analytics
+ * firstGraduationEtaDays) when the caller has real word_state: the table
+ * forecast re-anchors on the heard-count alone, so days spent clearing due
+ * reviews (which add no NEW heard words) froze the countdown — user
+ * 2026-07-21: "~23 days" three days running. Engine truth moves with the
+ * calendar and with every review; null/undefined falls back to the table.
  */
 export function etaCaption(
   table: PredictionTable, current: CurrentProgress, paceMinutes: number, now: Date = new Date(),
+  firstWordEngineDays?: number | null,
 ): string {
   const pace = Math.max(MIN_PLAN_MINUTES, paceMinutes)
   if (current.graduated === 0) {
-    const days = earliestReachable(table, 1, current, pace)
+    const days = firstWordEngineDays ?? earliestReachable(table, 1, current, pace)
     if (days === null) return 'keep listening — your first known words are on the way'
     return `first word known in ~${Math.max(1, days)} ${Math.max(1, days) === 1 ? 'day' : 'days'} ✨`
   }
