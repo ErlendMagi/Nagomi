@@ -13,7 +13,8 @@ import {
 
 import { initServices } from '../engine/services'
 import {
-  graduationTotals, graduatedWords, jlptMass, listeningHeatmap, wordsKnownCurve,
+  graduationTotals, graduatedWords, firstGraduationEtaDays, jlptMass, listeningHeatmap,
+  wordsKnownCurve,
   type CurvePoint, type GraduationTotals, type HeatCell, type JlptMassBand,
 } from '../engine/analytics'
 import { predictCurve, type PredictionTable } from '../engine/prediction'
@@ -281,7 +282,10 @@ export default function ProgressScreenV2({ onClose }: { onClose: () => void }) {
         planMinutes,
         paceCurve,
         paceMinutes: Math.round(paceMinutes),
-        eta: etaCaption(PREDICTION_TABLE, totals, paceMinutes, now),
+        // engine-truth first-word countdown (frozen-caption fix, 2026-07-21);
+        // null (nothing heard yet) falls back to the table forecast inside
+        eta: etaCaption(PREDICTION_TABLE, totals, paceMinutes, now,
+          totals.graduated === 0 ? firstGraduationEtaDays(user, g, now) : undefined),
         effortDays,
         goalMinutes: svc.settings.goalMinutes,
         planView,

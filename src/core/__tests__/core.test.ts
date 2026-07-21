@@ -332,6 +332,84 @@ describe('picker', () => {
     expect(pressured?.convId).toBe('conv_rich8')
   })
 
+  test('under FULL pressure near-equal covers ROTATE, truly denser repeats still win (user 2026-07-21: recurring sentences)', () => {
+    const now = D('2026-07-10T10:00:00')
+    const mkIndex = (convs: Map<string, { ord: number, durationSec: number, words: number[] }>): ContentIndex => ({
+      convsContaining(wordIds) {
+        const set = new Set(wordIds)
+        const out = new Map<string, number[]>()
+        for (const [id, c] of convs) {
+          const hit = c.words.filter(w => set.has(w))
+          if (hit.length) out.set(id, hit)
+        }
+        return out
+      },
+      convMeta(id) { const c = convs.get(id)!; return { convId: id, ord: c.ord, durationSec: c.durationSec } },
+      nextUnheard() { return null },
+      leastRecentlyPlayed() { return [] },
+    })
+    const bigDues = new Map<number, number>()
+    for (let w = 1; bigDues.size < SRS_CONFIG.picker.duePressure.fullAt + 10; w++) bigDues.set(w, 1)
+    const yesterday = new Map([['conv_replay', now.getTime() - 86_400_000]])
+
+    // 6-due conv played yesterday vs 5-due unplayed: the old single floor gave
+    // the replay a 0.9-vs-1.0 handicap only (6×0.9 > 5×1.0 → verbatim daily
+    // recycling); freshness now bites separately (6×0.72 < 5×1.0) → rotate
+    const near = new Map<string, { ord: number, durationSec: number, words: number[] }>([
+      ['conv_replay', { ord: 1, durationSec: 60, words: [1, 2, 3, 4, 5, 6] }],
+      ['conv_fresh', { ord: 2, durationSec: 60, words: [7, 8, 9, 10, 11] }],
+    ])
+    const rotated = pickNextConversation(mkIndex(near), {
+      now, dueWeights: bigDues, lastPlayed: yesterday, frontierOrd: 2,
+    })
+    expect(rotated?.convId).toBe('conv_fresh')
+
+    // 2×-coverage repeat (the 2026-07-18 dues-first rule) must STILL win
+    const dense = new Map<string, { ord: number, durationSec: number, words: number[] }>([
+      ['conv_replay', { ord: 1, durationSec: 60, words: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] }],
+      ['conv_fresh', { ord: 2, durationSec: 60, words: [11, 12, 13, 14, 15] }],
+    ])
+    const covered = pickNextConversation(mkIndex(dense), {
+      now, dueWeights: bigDues, lastPlayed: yesterday, frontierOrd: 2,
+    })
+    expect(covered?.convId).toBe('conv_replay')
+  })
+
+  test('level-window filters BEFORE the scoring cap: distant dense convs cannot crowd out pickable ones (user 2026-07-21: same conversations recycling daily)', () => {
+    const now = D('2026-07-10T10:00:00')
+    const cap = SRS_CONFIG.picker.maxCandidates * 4
+    const convs = new Map<string, { ord: number, durationSec: number, words: number[] }>()
+    // one modest 2-hit conversation inside the level window…
+    convs.set('conv_near', { ord: 5, durationSec: 60, words: [1, 2] })
+    // …buried under cap+ out-of-window conversations with more hits each:
+    // hit-sorted capping used to spend every slot on these, then skip them all
+    for (let i = 0; i < cap + 50; i++) {
+      convs.set(`conv_far_${i}`, { ord: 5000 + i, durationSec: 60, words: [1, 2, 3, 4, 5] })
+    }
+    const index: ContentIndex = {
+      convsContaining(wordIds) {
+        const set = new Set(wordIds)
+        const out = new Map<string, number[]>()
+        for (const [id, c] of convs) {
+          const hit = c.words.filter(w => set.has(w))
+          if (hit.length) out.set(id, hit)
+        }
+        return out
+      },
+      convMeta(id) { const c = convs.get(id)!; return { convId: id, ord: c.ord, durationSec: c.durationSec } },
+      nextUnheard() { return null },
+      leastRecentlyPlayed() { return [] },
+    }
+    const pick = pickNextConversation(index, {
+      now,
+      dueWeights: new Map([[1, 1], [2, 1], [3, 1], [4, 1], [5, 1]]),
+      lastPlayed: new Map(),
+      frontierOrd: 10, // window ends at 310 → conv_near pickable, conv_far_* not
+    })
+    expect(pick?.reason).toBe('dues')
+    expect(pick?.convId).toBe('conv_near')
+  })
+
   test('no dues → next unheard in frequency order; exhausted corpus → recycle', () => {
     const noDues = pickNextConversation(fixtureIndex(), {
       now: D('2026-07-10T10:00:00'), dueWeights: new Map(), lastPlayed: new Map(), frontierOrd: 2,

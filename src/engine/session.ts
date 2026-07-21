@@ -29,6 +29,10 @@ import {
 } from '../core/picker'
 import { createStreak, onConversationCompleted, type StreakState } from '../core/streak'
 
+/** how many recently-completed conversations the picker must not repeat */
+export const RECENT_CONV_RING_SIZE = 8
+const RECENT_CONV_RING_KEY = 'recent_conv_ring'
+
 // ---- bundle data shapes (lines.json inside every bundle) ----
 
 export interface LineToken { s: string; r?: string; w?: number }
@@ -409,6 +413,12 @@ export class SessionRecorder {
    */
   convCompleted(convId: string, ord: number, now: Date, heardAnything = true): { streak: StreakState } {
     this.db.recordConvPlayed(convId, now)
+    // Anti-repeat ring, PERSISTED (user 2026-07-21: the same conversations
+    // replayed in the same order every day): the ring used to live only in a
+    // React ref, so every app launch forgot it and the deterministic dues
+    // argmax restarted from the identical top picks each morning.
+    const ring = [...this.recentConvRing(), convId].slice(-RECENT_CONV_RING_SIZE)
+    this.db.setKV(RECENT_CONV_RING_KEY, JSON.stringify(ring))
     if (!heardAnything) {
       const raw0 = this.db.loadStreak()
       return { streak: raw0 ? JSON.parse(raw0) : createStreak() }
@@ -434,6 +444,16 @@ export class SessionRecorder {
     // "minutes ago" from conversation 2 onward.
     this.db.setKV('last_session_end', String(now.getTime()))
     return { streak: state }
+  }
+
+  /** the persisted last-N completed conversations (newest last); [] on any malformed kv */
+  recentConvRing(): string[] {
+    const raw = this.db.getKV(RECENT_CONV_RING_KEY)
+    if (!raw) return []
+    try {
+      const arr: unknown = JSON.parse(raw)
+      return Array.isArray(arr) ? arr.filter((x): x is string => typeof x === 'string') : []
+    } catch { return [] }
   }
 
   /**

@@ -166,6 +166,38 @@ export function jlptBreakdown(
   return bands
 }
 
+/**
+ * ENGINE-TRUTH days until the FIRST word graduates (user 2026-07-21: the
+ * "first word known in ~N days" caption froze for three straight days — the
+ * table forecast anchors on the heard-count alone, which review-heavy days
+ * never move). Real word_state makes the date concrete per word: the days
+ * threshold is pure wall-clock from first_heard_at, and a pending reps
+ * threshold is projected at the word's own observed reps/day so far. The
+ * minimum over all heard words counts down with the calendar and drops
+ * further as reviews land. 0 = a graduation is due today (4AM-day terms);
+ * null = nothing heard yet (callers fall back to the table forecast).
+ */
+export function firstGraduationEtaDays(
+  user: SqlDriver, graduation: GraduationSettings, now: Date = new Date(),
+): number | null {
+  const nowKey = dayKey(now)
+  let best: number | null = null
+  for (const r of heardRows(user)) {
+    const t = thresholds(r.word_id, graduation)
+    const daysSince = dayKeyDiff(dayKey(new Date(r.first_heard_at)), nowKey)
+    let eta = Math.max(0, t.days - daysSince)
+    if (r.total_reps < t.reps) {
+      // reps still owed: project them at the word's own pace (heardRows
+      // guarantees total_reps >= 1, so the rate is always positive)
+      const rate = r.total_reps / Math.max(1, daysSince)
+      eta = Math.max(eta, Math.ceil((t.reps - r.total_reps) / rate))
+    }
+    if (best === null || eta < best) best = eta
+    if (best === 0) break
+  }
+  return best
+}
+
 /** Overall heard/graduated counts (ALL ranks, not just the JLPT bands). */
 export function graduationTotals(
   user: SqlDriver, graduation: GraduationSettings, now: Date = new Date(),

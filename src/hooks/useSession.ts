@@ -48,7 +48,7 @@ import {
 
 import { initServices, DEFAULT_LAN_URL, type Services } from '../engine/services'
 import {
-  buildQueue, SessionEngine, CHIME_CLIP,
+  buildQueue, SessionEngine, CHIME_CLIP, RECENT_CONV_RING_SIZE,
   type ConvBundleData, type ConvLine, type Step,
 } from '../engine/session'
 import { INACTIVE_PLAN, type RecoveryPlan } from '../core/recovery'
@@ -282,7 +282,9 @@ export function useSession() {
   const recoveryPlanRef = useRef<RecoveryPlan>(INACTIVE_PLAN)
   const activeRateRef = useRef(1)     // playback rate of the CURRENTLY playing step
   // ring of recently-completed convs: excluding only the LAST one let two
-  // dense conversations ping-pong forever (user report #2, 2026-07-10)
+  // dense conversations ping-pong forever (user report #2, 2026-07-10).
+  // Hydrated from the recorder's persisted ring at start() — a fresh launch
+  // must not restart from the identical picks (user report 2026-07-21).
   const recentConvsRef = useRef<string[]>([])
   const deadConvsRef = useRef<Set<string>>(new Set()) // unplayable this session
   const [view, setView] = useState<SessionView>(IDLE)
@@ -473,7 +475,7 @@ export function useSession() {
       // updated frontier/lastPlayed, and the next clip is an async load anyway.
       const heard = playedStepsThisConvRef.current > 0
       const { streak } = svc.recorder.convCompleted(conv.id, conv.ord, new Date(), heard)
-      recentConvsRef.current = [...recentConvsRef.current, conv.id].slice(-8)
+      recentConvsRef.current = [...recentConvsRef.current, conv.id].slice(-RECENT_CONV_RING_SIZE)
       appLog({ event: 'conv_completed', convId: conv.id, heard })
       if (heard) {
         // re-plan the single goal-danger reminder (identical plans skipped;
@@ -828,6 +830,9 @@ export function useSession() {
       svcRef.current = await initServices()
       if (stale(gen)) return
       const svc = svcRef.current
+      // hydrate the anti-repeat ring: without this a fresh launch forgot
+      // yesterday's picks and the dues argmax replayed them verbatim
+      recentConvsRef.current = svc.recorder.recentConvRing()
       appLog({ event: 'session_start' })
       const today0 = svc.userDb.todayStats(new Date())
       const waitingAtStart = svc.recorder.dueTodayCount(new Date())

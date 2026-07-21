@@ -52,6 +52,19 @@ export class ContentDb implements ContentIndex {
     return out
   }
 
+  convOrds(convIds: string[]): Map<string, number> {
+    const out = new Map<string, number>()
+    for (let i = 0; i < convIds.length; i += 900) { // SQLite param limit safety
+      const slice = convIds.slice(i, i + 900)
+      const rows = this.d.all<{ conv_id: string, ord: number }>(
+        `SELECT conv_id, ord FROM conversations WHERE conv_id IN (${slice.map(() => '?').join(',')})`,
+        slice,
+      )
+      for (const r of rows) out.set(r.conv_id, r.ord)
+    }
+    return out
+  }
+
   convMeta(convId: string): ConvMeta {
     const r = this.d.get<{ ord: number, duration_sec: number, median_line_chars: number | null }>(
       'SELECT ord, duration_sec, median_line_chars FROM conversations WHERE conv_id = ?', [convId])
