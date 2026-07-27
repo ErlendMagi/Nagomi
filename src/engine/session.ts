@@ -329,6 +329,21 @@ export class SessionRecorder {
     return recorded
   }
 
+  /**
+   * How many of a line's words are still below the CI comfort threshold —
+   * drives adaptive JP pacing (user 2026-07-19: dense unfamiliar lines play
+   * slower; the rate returns to natural as the line's words are learned).
+   */
+  unfamiliarCount(words: number[], now: Date): number {
+    const th = SRS_CONFIG.picker.ciComfort.knownReps
+    let n = 0
+    for (const id of new Set(words)) {
+      if (!this.learnable.has(id)) continue
+      if (this.wordState(id, now).totalReps < th) n++
+    }
+    return n
+  }
+
   private lastSentenceDueDone = 0
   /** how many of the last sentence's recorded words were DUE-today reviews
    *  (dueTodayCount members) — the honest "reviews waiting" decrement */
@@ -504,7 +519,8 @@ export class SessionRecorder {
     if (raw) {
       try {
         const stored = JSON.parse(raw)
-        if (stored.dayKey === today && stored.plan) {
+        // v2 = chronic-overload planning; older same-day plans are recomputed
+        if (stored.dayKey === today && stored.plan && stored.v === 2) {
           this.recovery = {
             dayKey: today, plan: stored.plan,
             tier1: new Set<number>(stored.tier1 ?? []),
@@ -527,49 +543,57 @@ export class SessionRecorder {
 
     if (Number.isFinite(lastEndMs)) {
       const gapDays = Math.max(0, dayKeyDiff(dayKey(new Date(lastEndMs)), todayKey))
-      if (gapDays >= cfg.minGapDays) {
-        const entries: DueEntry[] = []
-        for (const { wordId, state } of this.db.dueWords(now)) {
-          if (state.lastHeardDayKey === todayKey) continue
-          const w = this.scheduler.duenessWeight(state, now)
-          if (w >= 1) {
-            entries.push({
-              wordId, dueAtMs: state.card.due.getTime(),
-              stability: state.card.stability, weight: w,
-            })
-          }
+      const entries: DueEntry[] = []
+      for (const { wordId, state } of this.db.dueWords(now)) {
+        if (state.lastHeardDayKey === todayKey) continue
+        const w = this.scheduler.duenessWeight(state, now)
+        if (w >= 1) {
+          entries.push({
+            wordId, dueAtMs: state.card.due.getTime(),
+            stability: state.card.stability, weight: w,
+          })
         }
-        const { excess } = gapExcess(entries, lastEndMs, dayStartMs)
-        if (excess.length > 0) {
-          const est = estimateClearMinutes(
-            index, excess, this.db.lastPlayedMap(),
-            Number(this.db.getKV('frontier_ord') ?? '0'), now,
+      }
+      // the backlog to plan around: after an absence, the gap-window excess;
+      // otherwise (user 2026-07-19: "reviews NEVER disappear") the ENTIRE
+      // standing due pool — chronic overload activates the same ladder even
+      // with zero missed days, so a day's slice is always finishable.
+      const excess = gapDays >= cfg.minGapDays
+        ? gapExcess(entries, lastEndMs, dayStartMs).excess
+        : entries
+      if (excess.length > 0) {
+        const est = estimateClearMinutes(
+          index, excess, this.db.lastPlayedMap(),
+          Number(this.db.getKV('frontier_ord') ?? '0'), now,
+        )
+        // urgencyPlan's gate needs gapDays >= minGapDays — for the chronic
+        // (no-gap) case we pass the gate and restore the true gapDays after
+        const gateGap = Math.max(gapDays, cfg.minGapDays)
+        // hysteresis: once active, stay active until BELOW the exit line
+        const wasActive = this.recovery?.plan.active ?? false
+        plan = urgencyPlan(est.minutes, this.settings.goalMinutes, gateGap, excess.length, est.duesPerMinute)
+        if (!plan.active && wasActive && !shouldExit(est.minutes, this.settings.goalMinutes)) {
+          plan = urgencyPlan(
+            Math.max(est.minutes, cfg.triggerFactor * this.settings.goalMinutes + 1),
+            this.settings.goalMinutes, gateGap, excess.length, est.duesPerMinute,
           )
-          // hysteresis: once active, stay active until BELOW the exit line
-          const wasActive = this.recovery?.plan.active ?? false
-          plan = urgencyPlan(est.minutes, this.settings.goalMinutes, gapDays, excess.length, est.duesPerMinute)
-          if (!plan.active && wasActive && !shouldExit(est.minutes, this.settings.goalMinutes)) {
-            plan = urgencyPlan(
-              Math.max(est.minutes, cfg.triggerFactor * this.settings.goalMinutes + 1),
-              this.settings.goalMinutes, gapDays, excess.length, est.duesPerMinute,
-            )
-          }
-          if (plan.active && plan.horizonDays > 1) {
-            const ordered = fragilityOrder(
-              excess, now.getTime(), plan.horizonDays,
-              (s, d) => this.scheduler.projectRetrievability(s, d),
-            )
-            const tiers = splitTiers(ordered, plan.duesPerMinute, plan.planMinutesPerDay)
-            tier1 = tiers.tier1
-            tier2 = tiers.tier2
-          }
+        }
+        if (plan.active) plan = { ...plan, gapDays }
+        if (plan.active && plan.horizonDays > 1) {
+          const ordered = fragilityOrder(
+            excess, now.getTime(), plan.horizonDays,
+            (s, d) => this.scheduler.projectRetrievability(s, d),
+          )
+          const tiers = splitTiers(ordered, plan.duesPerMinute, plan.planMinutesPerDay)
+          tier1 = tiers.tier1
+          tier2 = tiers.tier2
         }
       }
     }
 
     this.recovery = { dayKey: today, plan, tier1, tier2 }
     this.db.setKV('recovery_plan', JSON.stringify({
-      dayKey: today, plan, tier1: [...tier1], tier2: [...tier2],
+      v: 2, dayKey: today, plan, tier1: [...tier1], tier2: [...tier2],
     }))
     return plan
   }
@@ -585,9 +609,15 @@ export class SessionRecorder {
    */
   dueTodayCount(now: Date): number {
     const todayKey = dayKey(now)
+    // postponed (tier-2) words are NOT part of today's promise — counting
+    // them made "reviews waiting" an unwinnable number (user 2026-07-19)
+    const rec = this.recovery
+    const postponed = rec && rec.dayKey === todayKey && rec.plan.active && rec.plan.horizonDays > 1
+      ? rec.tier2 : null
     let n = 0
-    for (const { state } of this.db.dueWords(now)) {
+    for (const { wordId, state } of this.db.dueWords(now)) {
       if (state.lastHeardDayKey === todayKey) continue
+      if (postponed?.has(wordId)) continue
       if (this.scheduler.duenessWeight(state, now) >= 1) n += 1
     }
     return n

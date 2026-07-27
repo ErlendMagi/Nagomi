@@ -76,8 +76,11 @@ export default function CharacterActor({
     return () => loop.stop()
   }, [smooth, breath])
 
-  // blinking — irregular, human
+  // blinking — irregular, human. SVG mode only: on illustrated art the
+  // neutral-frame flash read as glitching (user 2026-07-19: "just show one
+  // picture"), so the big figures hold steady.
   useEffect(() => {
+    if (illustrated) return
     let alive = true
     let t: ReturnType<typeof setTimeout>
     const next = () => {
@@ -92,9 +95,10 @@ export default function CharacterActor({
     return () => { alive = false; clearTimeout(t) }
   }, [])
 
-  // puppet mouth while talking
+  // puppet mouth while talking — SVG mode only; illustrated figures show ONE
+  // steady expression frame per line (user: no "gif-like" mouth animation)
   useEffect(() => {
-    if (!talking) { setMouthOpen(false); return }
+    if (!talking || illustrated) { setMouthOpen(false); return }
     let alive = true
     let t: ReturnType<typeof setTimeout>
     const flap = (open: boolean) => {

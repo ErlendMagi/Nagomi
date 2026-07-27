@@ -13,7 +13,7 @@ import {
 
 import { initServices } from '../engine/services'
 import {
-  graduationTotals, graduatedWords, jlptMass, listeningHeatmap, wordsKnownCurve,
+  graduationTotals, graduatedWords, daysToFirstGraduation, jlptMass, listeningHeatmap, wordsKnownCurve,
   type CurvePoint, type GraduationTotals, type HeatCell, type JlptMassBand,
 } from '../engine/analytics'
 import { predictCurve, type PredictionTable } from '../engine/prediction'
@@ -281,7 +281,16 @@ export default function ProgressScreenV2({ onClose }: { onClose: () => void }) {
         planMinutes,
         paceCurve,
         paceMinutes: Math.round(paceMinutes),
-        eta: etaCaption(PREDICTION_TABLE, totals, paceMinutes, now),
+        // pre-graduation the ETA comes from REAL word states (ticks down
+        // daily); once words graduate, the table-based next-100 caption runs
+        eta: totals.graduated === 0
+          ? (() => {
+              const d = daysToFirstGraduation(user, g, now)
+              return d === null
+                ? 'keep listening — your first known words are on the way'
+                : `first word known in ~${d} ${d === 1 ? 'day' : 'days'} ✨`
+            })()
+          : etaCaption(PREDICTION_TABLE, totals, paceMinutes, now),
         effortDays,
         goalMinutes: svc.settings.goalMinutes,
         planView,

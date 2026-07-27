@@ -584,8 +584,16 @@ export function useSession() {
       // JAPANESE (and the chime) always plays at natural speed
       {
         const plan = recoveryPlanRef.current
-        const rate = plan.active && (step.kind === 'line_en' || step.kind === 'intro_en')
-          ? plan.enPlaybackRate : 1
+        let rate = 1
+        if (plan.active && (step.kind === 'line_en' || step.kind === 'intro_en')) {
+          rate = plan.enPlaybackRate
+        } else if (step.kind === 'line_jp' && step.recordWords && step.recordWords.length > 0) {
+          // adaptive JP pacing (user 2026-07-19): the more not-yet-known words
+          // a line carries, the slower it plays (floor 0.82×, pitch-corrected)
+          // so each word is audible — back to natural 1.0× as they graduate
+          const unfamiliar = svc.recorder.unfamiliarCount(step.recordWords, new Date())
+          rate = Math.max(0.82, 1 - 0.04 * unfamiliar)
+        }
         const p = activeIdxRef.current === 0 ? playerA : playerB
         try { p.setPlaybackRate(rate, 'high') } catch {}
         activeRateRef.current = rate
@@ -908,6 +916,41 @@ export function useSession() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [statusA.playing, statusB.playing])
+
+  // FOREGROUND REFRESH + 4AM ROLLOVER (user 2026-07-19: after a long locked
+  // stretch the app came back stale or crashed, and a day boundary crossed
+  // while locked never registered). On every return to the foreground the
+  // day-scoped numbers are re-derived synchronously from the DB — and if the
+  // 4AM day changed since the trackers were seeded, they reset so yesterday
+  // is sealed and the new day starts clean. Everything is defensive: a
+  // failure here logs and leaves the session untouched instead of crashing.
+  useEffect(() => {
+    const sub = AppState.addEventListener('change', (s) => {
+      if (s !== 'active') return
+      try {
+        const svc = svcRef.current
+        if (!svc) return
+        const now = new Date()
+        const todayK = dayKey(now)
+        if (sawWaitingRef.current.day && sawWaitingRef.current.day !== todayK) {
+          // crossed 4AM while backgrounded/locked: yesterday's day_stats rows
+          // are already keyed correctly (writes use fresh dates) — only the
+          // in-memory day trackers must roll over
+          sawWaitingRef.current = { day: todayK, saw: false }
+          prevMinutesRef.current = 0
+        }
+        const minutes = Math.round(svc.userDb.todayStats(now).seconds / 60)
+        const waiting = svc.recorder.dueTodayCount(now)
+        prevMinutesRef.current = minutes
+        setView(v => ({ ...v, minutesToday: minutes, reviewsWaiting: waiting }))
+        rescheduleReminderFromDb(svc)
+      } catch (e) {
+        appLog({ event: 'foreground_refresh_error', message: e instanceof Error ? e.message : String(e) })
+      }
+    })
+    return () => sub.remove()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   // PLAYBACK WATCHDOG (user 2026-07-16: "I press play, and then it stops
   // after like one audio-file has played"): if the session believes it is

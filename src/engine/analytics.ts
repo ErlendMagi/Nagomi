@@ -147,6 +147,38 @@ export function graduatedWords(
   return rows.slice(offset, offset + limit)
 }
 
+/**
+ * Days until the FIRST word graduates, from the user's ACTUAL word states —
+ * not the simulation table (user 2026-07-19: the caption sat at "23 days" for
+ * five days; a projection anchored to sim curves barely moves day to day).
+ * Per heard word the bound is max(time-gate remaining, reps-gate remaining at
+ * the word's own observed reps/day); the answer is the minimum over words, so
+ * it visibly ticks down every day the user listens. null = nothing heard yet.
+ */
+export function daysToFirstGraduation(
+  user: SqlDriver, graduation: GraduationSettings, now: Date = new Date(),
+): number | null {
+  const nowKey = dayKey(now)
+  let best: number | null = null
+  for (const r of heardRows(user)) {
+    if (r.total_reps <= 0) continue
+    const t = thresholds(r.word_id, graduation)
+    const daysSince = Math.max(0, dayKeyDiff(dayKey(new Date(r.first_heard_at)), nowKey))
+    const timeLeft = Math.max(0, t.days - daysSince)
+    let repsLeft = 0
+    if (r.total_reps < t.reps) {
+      // the word's own observed cadence, floored so a single lucky hear
+      // yesterday doesn't promise the moon
+      const rate = Math.max(0.5, r.total_reps / Math.max(1, daysSince))
+      repsLeft = Math.ceil((t.reps - r.total_reps) / rate)
+    }
+    const d = Math.max(timeLeft, repsLeft)
+    if (best === null || d < best) best = d
+    if (best === 0) break
+  }
+  return best === null ? null : Math.max(1, best)
+}
+
 /** Graduated / in-flight counts per JLPT frequency band, as of `now`. */
 export function jlptBreakdown(
   user: SqlDriver, graduation: GraduationSettings, now: Date = new Date(),
